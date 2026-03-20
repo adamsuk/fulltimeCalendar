@@ -1,0 +1,38 @@
+name: Scrape YEL Fixtures
+
+on:
+  schedule:
+    # Run every day at 06:00 UTC (7am BST / 6am GMT)
+    - cron: "0 6 * * *"
+  workflow_dispatch:  # allows manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write  # needed to commit the generated .ics files back to the repo
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run scraper
+        run: python scraper/scrape.py
+
+      - name: Commit updated calendars
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add calendars/
+          # Only commit if there are actual changes
+          git diff --cached --quiet || git commit -m "chore: update fixtures $(date -u +'%Y-%m-%d')"
+          git push
