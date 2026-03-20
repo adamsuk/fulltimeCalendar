@@ -38,15 +38,15 @@ jobs:
         env:
           SOCKS_PROXY: socks5h://127.0.0.1:9050
         run: |
-          # Clear old calendars so removed teams/leagues don't linger
-          rm -rf calendars/
+          # Clear old calendars and feeds so removed teams/leagues don't linger
+          rm -rf calendars/ feeds/
           python scraper/scrape.py
 
-      - name: Commit updated calendars
+      - name: Commit updated calendars and feeds
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A calendars/
+          git add -A calendars/ feeds/
           # Only commit if there are actual changes
           git diff --cached --quiet || git commit -m "chore: update fixtures $(date -u +'%Y-%m-%d')"
           git push

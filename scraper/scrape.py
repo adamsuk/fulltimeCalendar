@@ -1,8 +1,9 @@
 """
 YEL East Midlands — Full-Time fixture scraper
-Generates one .ics file per team across all configured leagues/seasons.
+Generates one .ics file per team and JSON feeds across all configured leagues/seasons.
 """
 
+import json
 import os
 import re
 import time
@@ -33,6 +34,9 @@ LEAGUES: list[tuple[str, str]] = [
 
 OUTPUT_DIR = Path(__file__).parent.parent / "calendars"
 OUTPUT_DIR.mkdir(exist_ok=True)
+
+FEEDS_DIR = Path(__file__).parent.parent / "feeds"
+FEEDS_DIR.mkdir(exist_ok=True)
 
 # Retry configuration for HTTP requests
 HTTP_RETRIES = 5
@@ -279,11 +283,103 @@ def fixtures_to_ics(team_name: str, fixtures: list[Fixture]) -> str:
 
 
 # ---------------------------------------------------------------------------
+# JSON feed generation
+# ---------------------------------------------------------------------------
+
+def fixture_to_iso_date(date_str: str) -> str:
+    """Convert DD/MM/YY or DD/MM/YYYY to ISO 8601 YYYY-MM-DD. Returns raw string on failure."""
+    for fmt in ("%d/%m/%y", "%d/%m/%Y"):
+        try:
+            return datetime.strptime(date_str.strip(), fmt).strftime("%Y-%m-%d")
+        except ValueError:
+            continue
+    return date_str
+
+
+def fixture_to_dict(fixture: Fixture) -> dict:
+    """Serialise a Fixture to a plain dict for JSON output."""
+    return {
+        "id": hashlib.md5(f"{fixture.date}|{fixture.home_team}|{fixture.away_team}".encode()).hexdigest(),
+        "date": fixture_to_iso_date(fixture.date),
+        "time": fixture.time or "10:00",
+        "home_team": fixture.home_team,
+        "away_team": fixture.away_team,
+        "venue": fixture.venue,
+        "division": fixture.division_label,
+    }
+
+
+def write_league_feed(league_name: str, league_slug: str, fixtures: list[Fixture], generated: str) -> None:
+    """Write a single JSON file containing all fixtures for a league."""
+    league_dir = FEEDS_DIR / league_slug
+    league_dir.mkdir(parents=True, exist_ok=True)
+
+    payload = {
+        "league": league_name,
+        "generated": generated,
+        "fixtures": sorted(
+            [fixture_to_dict(f) for f in fixtures],
+            key=lambda x: (x["date"], x["time"]),
+        ),
+    }
+    out = league_dir / "fixtures.json"
+    out.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
+    log.info(f"  Written {out} ({len(fixtures)} fixtures)")
+
+
+def write_team_feed(
+    team_name: str,
+    team_slug: str,
+    league_name: str,
+    league_slug: str,
+    fixtures: list[Fixture],
+    generated: str,
+) -> None:
+    """Write a JSON file with fixtures relevant to a single team."""
+    team_dir = FEEDS_DIR / league_slug / "teams"
+    team_dir.mkdir(parents=True, exist_ok=True)
+
+    team_fixtures = []
+    for f in fixtures:
+        is_home = f.home_team == team_name
+        opponent = f.away_team if is_home else f.home_team
+        d = fixture_to_dict(f)
+        d["home_away"] = "home" if is_home else "away"
+        d["opponent"] = opponent
+        team_fixtures.append(d)
+
+    team_fixtures.sort(key=lambda x: (x["date"], x["time"]))
+
+    payload = {
+        "team": team_name,
+        "league": league_name,
+        "generated": generated,
+        "fixtures": team_fixtures,
+    }
+    out = team_dir / f"{team_slug}.json"
+    out.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
+
+
+def write_index(league_entries: list[dict], generated: str) -> None:
+    """Write a top-level index.json listing all leagues and their teams."""
+    payload = {
+        "generated": generated,
+        "leagues": league_entries,
+    }
+    out = FEEDS_DIR / "index.json"
+    out.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
+    log.info(f"  Written {out}")
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
 def main() -> None:
+    generated = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     total_teams = 0
+    index_leagues: list[dict] = []
+
     for season_id, league_name in LEAGUES:
         try:
             fixtures = fetch_fixtures(season_id, league_name)
@@ -302,20 +398,38 @@ def main() -> None:
                 if team:
                     teams.setdefault(team, []).append(f)
 
-        league_dir = OUTPUT_DIR / slug(league_name)
+        league_slug_name = slug(league_name)
+        league_dir = OUTPUT_DIR / league_slug_name
         league_dir.mkdir(parents=True, exist_ok=True)
 
         log.info(f"  {len(teams)} teams, writing to {league_dir}/")
 
+        # --- ICS calendars ---
         for team_name, team_fixtures in sorted(teams.items()):
             ics_content = fixtures_to_ics(team_name, team_fixtures)
             filename = league_dir / f"{slug(team_name)}.ics"
             filename.write_text(ics_content, encoding="utf-8")
             log.info(f"    {filename.name} ({len(team_fixtures)} fixtures)")
 
+        # --- JSON feeds ---
+        write_league_feed(league_name, league_slug_name, fixtures, generated)
+
+        team_index_entries: list[dict] = []
+        for team_name, team_fixtures in sorted(teams.items()):
+            team_slug_name = slug(team_name)
+            write_team_feed(team_name, team_slug_name, league_name, league_slug_name, team_fixtures, generated)
+            team_index_entries.append({"name": team_name, "slug": team_slug_name})
+
+        index_leagues.append({
+            "name": league_name,
+            "slug": league_slug_name,
+            "teams": team_index_entries,
+        })
+
         total_teams += len(teams)
 
-    log.info(f"\nDone — {total_teams} team calendars written across {len(LEAGUES)} leagues")
+    write_index(index_leagues, generated)
+    log.info(f"\nDone — {total_teams} team calendars + JSON feeds written across {len(LEAGUES)} leagues")
 
 
 if __name__ == "__main__":
