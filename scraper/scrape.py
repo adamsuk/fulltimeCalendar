@@ -172,16 +172,18 @@ def parse_fixtures(html: str, division_label: str) -> list[Fixture]:
         # Cells before home team contain type, date, and optionally time
         pre_cells = text[:vs_idx - 1]
 
-        # Extract date (DD/MM/YY or DD/MM/YYYY) and time (HH:MM) from pre-cells
+        # Extract date (DD/MM/YY) and time (HH:MM) from pre-cells.
+        # Date and time may be in separate cells OR concatenated (e.g. "22/03/2610:00").
+        # Use \d{2} for the year to avoid greedily consuming the time digits.
         date_str = ""
         time_str = ""
         for cell in pre_cells:
             if not date_str:
-                dm = re.search(r"(\d{2}/\d{2}/\d{2,4})", cell)
+                dm = re.search(r"(\d{2}/\d{2}/\d{2})", cell)
                 if dm:
                     date_str = dm.group(1)
             if not time_str:
-                tm = re.match(r"^(\d{1,2}:\d{2})$", cell)
+                tm = re.search(r"(\d{1,2}:\d{2})", cell)
                 if tm:
                     time_str = tm.group(1)
 
