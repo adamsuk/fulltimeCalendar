@@ -360,11 +360,60 @@ def write_team_feed(
     out.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
-def write_index(league_entries: list[dict], generated: str) -> None:
-    """Write a top-level index.json listing all leagues and their teams."""
+def infer_club_name(team_name: str, prefix_counts: dict[str, int]) -> str:
+    """Return the inferred club name for a team using pre-computed prefix counts.
+
+    Algorithm: strip the age-group suffix (U7–U21), then find the *shortest*
+    word-prefix (≥ 2 words) that is shared by at least 2 teams.  Shortest-first
+    prevents over-splitting (e.g. 'Arnold Town Maroon' beats 'Arnold Town').
+    If no shared prefix exists, return the stripped name as-is (singleton club).
+    """
+    stripped = re.sub(r"\s+U\d{1,2}$", "", team_name, flags=re.IGNORECASE).strip()
+    words = stripped.split()
+    for length in range(2, len(words) + 1):
+        prefix = " ".join(words[:length])
+        if prefix_counts.get(prefix, 0) >= 2:
+            return prefix
+    return stripped
+
+
+def build_prefix_counts(team_names: list[str]) -> dict[str, int]:
+    """Count how many team names share each word-prefix (≥ 2 words, age group stripped)."""
+    counts: dict[str, int] = {}
+    for name in team_names:
+        stripped = re.sub(r"\s+U\d{1,2}$", "", name, flags=re.IGNORECASE).strip()
+        words = stripped.split()
+        for length in range(2, len(words) + 1):
+            prefix = " ".join(words[:length])
+            counts[prefix] = counts.get(prefix, 0) + 1
+    return counts
+
+
+def write_club_feed(
+    club_name: str,
+    club_slug: str,
+    team_fixtures: list[dict],
+    generated: str,
+) -> None:
+    """Write feeds/clubs/<slug>.json aggregating all teams in a club across leagues."""
+    clubs_dir = FEEDS_DIR / "clubs"
+    clubs_dir.mkdir(parents=True, exist_ok=True)
+
+    payload = {
+        "club": club_name,
+        "generated": generated,
+        "fixtures": sorted(team_fixtures, key=lambda x: (x["date"], x["time"])),
+    }
+    out = clubs_dir / f"{club_slug}.json"
+    out.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
+
+
+def write_index(league_entries: list[dict], club_entries: list[dict], generated: str) -> None:
+    """Write a top-level index.json listing all leagues, teams, and clubs."""
     payload = {
         "generated": generated,
         "leagues": league_entries,
+        "clubs": club_entries,
     }
     out = FEEDS_DIR / "index.json"
     out.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
@@ -379,6 +428,11 @@ def main() -> None:
     generated = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     total_teams = 0
     index_leagues: list[dict] = []
+
+    # Accumulate all team fixture dicts across leagues for club-level grouping.
+    # Each entry: {"team": str, "league": str, "fixture_dict": dict}
+    all_team_fixture_rows: list[dict] = []
+    all_team_names: list[str] = []
 
     for season_id, league_name in LEAGUES:
         try:
@@ -411,7 +465,7 @@ def main() -> None:
             filename.write_text(ics_content, encoding="utf-8")
             log.info(f"    {filename.name} ({len(team_fixtures)} fixtures)")
 
-        # --- JSON feeds ---
+        # --- JSON feeds (league + team level) ---
         write_league_feed(league_name, league_slug_name, fixtures, generated)
 
         team_index_entries: list[dict] = []
@@ -419,6 +473,17 @@ def main() -> None:
             team_slug_name = slug(team_name)
             write_team_feed(team_name, team_slug_name, league_name, league_slug_name, team_fixtures, generated)
             team_index_entries.append({"name": team_name, "slug": team_slug_name})
+
+            # Collect enriched fixture dicts for club-level aggregation
+            all_team_names.append(team_name)
+            for f in team_fixtures:
+                is_home = f.home_team == team_name
+                d = fixture_to_dict(f)
+                d["league"] = league_name
+                d["team"] = team_name
+                d["home_away"] = "home" if is_home else "away"
+                d["opponent"] = f.away_team if is_home else f.home_team
+                all_team_fixture_rows.append(d)
 
         index_leagues.append({
             "name": league_name,
@@ -428,8 +493,33 @@ def main() -> None:
 
         total_teams += len(teams)
 
-    write_index(index_leagues, generated)
-    log.info(f"\nDone — {total_teams} team calendars + JSON feeds written across {len(LEAGUES)} leagues")
+    # --- JSON feeds (club level) ---
+    # Build prefix counts across ALL teams (all leagues) so cross-league clubs
+    # are grouped correctly, then write one feed per inferred club.
+    prefix_counts = build_prefix_counts(all_team_names)
+
+    club_fixtures: dict[str, list[dict]] = {}
+    for row in all_team_fixture_rows:
+        club_name = infer_club_name(row["team"], prefix_counts)
+        club_fixtures.setdefault(club_name, []).append(row)
+
+    index_clubs: list[dict] = []
+    for club_name, rows in sorted(club_fixtures.items()):
+        club_slug_name = slug(club_name)
+        write_club_feed(club_name, club_slug_name, rows, generated)
+        teams_in_club = sorted({r["team"] for r in rows})
+        index_clubs.append({
+            "name": club_name,
+            "slug": club_slug_name,
+            "teams": teams_in_club,
+        })
+        log.info(f"  Club feed: {club_slug_name} ({len(teams_in_club)} teams, {len(rows)} fixture entries)")
+
+    write_index(index_leagues, index_clubs, generated)
+    log.info(
+        f"\nDone — {total_teams} team calendars, {len(index_clubs)} club feeds, "
+        f"JSON feeds written across {len(LEAGUES)} leagues"
+    )
 
 
 if __name__ == "__main__":
