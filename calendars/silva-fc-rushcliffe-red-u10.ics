@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Silva FC Rushcliffe Red U10
+X-WR-CALDESC:Fixtures for Silva FC Rushcliffe Red U10 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:6d111d54185fe9857369c02450898aed@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26100329T100000
+DTEND;TZID=Europe/London:26100329T113000
+SUMMARY:⚽ Silva FC Rushcliffe Red U10 vs VS (Home)
+DESCRIPTION:Division: Priory Celtic 1967 U10\nSilva FC Rushcliffe Red U10 v VS\nKO: 10:00
+LOCATION:
+END:VEVENT
+END:VCALENDAR

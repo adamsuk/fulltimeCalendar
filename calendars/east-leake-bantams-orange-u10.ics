@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:East Leake Bantams Orange U10
+X-WR-CALDESC:Fixtures for East Leake Bantams Orange U10 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:7546c4c4aa9c75b56f9a9847d444ad4a@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26100329T100000
+DTEND;TZID=Europe/London:26100329T113000
+SUMMARY:⚽ East Leake Bantams Orange U10 vs VS (Home)
+DESCRIPTION:Division: West Hallam Roses U10\nEast Leake Bantams Orange U10 v VS\nKO: 10:00
+LOCATION:
+END:VEVENT
+END:VCALENDAR

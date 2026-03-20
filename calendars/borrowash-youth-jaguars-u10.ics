@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Borrowash Youth Jaguars U10
+X-WR-CALDESC:Fixtures for Borrowash Youth Jaguars U10 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:6a3569ec47d6e0c10bc2ce61ec58eee3@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26100322T100000
+DTEND;TZID=Europe/London:26100322T113000
+SUMMARY:⚽ Borrowash Youth Jaguars U10 vs VS (Home)
+DESCRIPTION:Division: WBYFC Rosario U10\nBorrowash Youth Jaguars U10 v VS\nKO: 10:00
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:95e35859e293f5dfa6eab3e47741a0ef@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26100419T100000
+DTEND;TZID=Europe/London:26100419T113000
+SUMMARY:⚽ Borrowash Youth Jaguars U10 vs VS (Home)
+DESCRIPTION:Division: WBYFC Sporting U10\nBorrowash Youth Jaguars U10 v VS\nKO: 10:00
+LOCATION:
+END:VEVENT
+END:VCALENDAR

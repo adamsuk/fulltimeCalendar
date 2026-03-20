@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Collingham FC Panthers U10
+X-WR-CALDESC:Fixtures for Collingham FC Panthers U10 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:0b73905a677ef16ffe5b24c04fa70c05@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26120322T123000
+DTEND;TZID=Europe/London:26120322T133000
+SUMMARY:⚽ Collingham FC Panthers U10 vs VS (Home)
+DESCRIPTION:Division: Selston FC Blue U10\nCollingham FC Panthers U10 v VS\nKO: 12:30
+LOCATION:
+END:VEVENT
+END:VCALENDAR

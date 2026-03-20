@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Castle Donington Vipers U10
+X-WR-CALDESC:Fixtures for Castle Donington Vipers U10 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:751d8916879947911c826352280ce85c@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26100322T100000
+DTEND;TZID=Europe/London:26100322T113000
+SUMMARY:⚽ Castle Donington Vipers U10 vs VS (Home)
+DESCRIPTION:Division: Pelican Colts U10\nCastle Donington Vipers U10 v VS\nKO: 10:00
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:cc4b3ec173fab674421c27a5cc91cec4@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26100426T100000
+DTEND;TZID=Europe/London:26100426T113000
+SUMMARY:⚽ Castle Donington Vipers U10 vs VS (Home)
+DESCRIPTION:Division: Keyworth United Black U10\nCastle Donington Vipers U10 v VS\nKO: 10:00
+LOCATION:
+END:VEVENT
+END:VCALENDAR

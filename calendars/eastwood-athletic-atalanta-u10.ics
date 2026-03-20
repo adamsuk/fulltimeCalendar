@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Eastwood Athletic Atalanta U10
+X-WR-CALDESC:Fixtures for Eastwood Athletic Atalanta U10 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:2f089968aea5e453996a926b183eca3d@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26100329T100000
+DTEND;TZID=Europe/London:26100329T113000
+SUMMARY:⚽ Eastwood Athletic Atalanta U10 vs VS (Home)
+DESCRIPTION:Division: Heanor Juniors Predators U10\nEastwood Athletic Atalanta U10 v VS\nKO: 10:00
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:35aea19b5cc070ad8ae835f6e1fa4cab@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26100419T100000
+DTEND;TZID=Europe/London:26100419T113000
+SUMMARY:⚽ Eastwood Athletic Atalanta U10 vs VS (Home)
+DESCRIPTION:Division: Beeston FC U10\nEastwood Athletic Atalanta U10 v VS\nKO: 10:00
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:dff398ad7a45e85b2e1692a7455f8ecd@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26100426T100000
+DTEND;TZID=Europe/London:26100426T113000
+SUMMARY:⚽ Eastwood Athletic Atalanta U10 vs VS (Home)
+DESCRIPTION:Division: Toton Tornados Cyclones U10\nEastwood Athletic Atalanta U10 v VS\nKO: 10:00
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:9a14b78fb8a0be12261c9788a06d07c7@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26130510T133000
+DTEND;TZID=Europe/London:26130510T143000
+SUMMARY:⚽ Eastwood Athletic Atalanta U10 vs VS (Home)
+DESCRIPTION:Division: Sherwood FC Blue U10\nEastwood Athletic Atalanta U10 v VS\nKO: 13:30
+LOCATION:
+END:VEVENT
+END:VCALENDAR

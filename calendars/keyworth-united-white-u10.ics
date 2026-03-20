@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Keyworth United White U10
+X-WR-CALDESC:Fixtures for Keyworth United White U10 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:9b45690b185ec7fa2343aa9281a5d5e2@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26090322T093000
+DTEND;TZID=Europe/London:26090322T103000
+SUMMARY:⚽ Keyworth United White U10 vs VS (Home)
+DESCRIPTION:Division: Stapleford Town Jaguars U10\nKeyworth United White U10 v VS\nKO: 09:30
+LOCATION:
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gedling Southbank Titans U10
+X-WR-CALDESC:Fixtures for Gedling Southbank Titans U10 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:83e79322b9241f7ce50710bd23db862c@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26120322T120000
+DTEND;TZID=Europe/London:26120322T133000
+SUMMARY:⚽ Gedling Southbank Titans U10 vs VS (Home)
+DESCRIPTION:Division: Sherwood FC Blue U10\nGedling Southbank Titans U10 v VS\nKO: 12:00
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:933547ec5564dd39bbdb6f165049660e@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26100419T100000
+DTEND;TZID=Europe/London:26100419T113000
+SUMMARY:⚽ Gedling Southbank Titans U10 vs VS (Home)
+DESCRIPTION:Division: East Leake Bantams Black U10\nGedling Southbank Titans U10 v VS\nKO: 10:00
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:9c61a0fbeaaf1053617f4ee1595d5382@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26100426T100000
+DTEND;TZID=Europe/London:26100426T113000
+SUMMARY:⚽ Gedling Southbank Titans U10 vs VS (Home)
+DESCRIPTION:Division: Barrowby FC Green U10\nGedling Southbank Titans U10 v VS\nKO: 10:00
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:420b2dd983cc9438dfe319462e716c8b@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26100510T100000
+DTEND;TZID=Europe/London:26100510T113000
+SUMMARY:⚽ Gedling Southbank Titans U10 vs VS (Home)
+DESCRIPTION:Division: Notts County Women U10 ^\nGedling Southbank Titans U10 v VS\nKO: 10:00
+LOCATION:
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Shirebrook Soldiers Warriors U10
+X-WR-CALDESC:Fixtures for Shirebrook Soldiers Warriors U10 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:e58077653dc86a804104f890a0eb7210@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26100329T100000
+DTEND;TZID=Europe/London:26100329T113000
+SUMMARY:⚽ Shirebrook Soldiers Warriors U10 vs VS (Home)
+DESCRIPTION:Division: Market Warsop Rangers U10\nShirebrook Soldiers Warriors U10 v VS\nKO: 10:00
+LOCATION:
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Aslockton & Orston Blue U10
+X-WR-CALDESC:Fixtures for Aslockton & Orston Blue U10 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:f6fe221a601cd8adac8c3d6c759cdde0@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26100322T100000
+DTEND;TZID=Europe/London:26100322T113000
+SUMMARY:⚽ Aslockton & Orston Blue U10 vs VS (Home)
+DESCRIPTION:Division: Basford CFC Blue U10\nAslockton & Orston Blue U10 v VS\nKO: 10:00
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:689c664560ed90075da031e9a9ad9151@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26100419T100000
+DTEND;TZID=Europe/London:26100419T113000
+SUMMARY:⚽ Aslockton & Orston Blue U10 vs VS (Home)
+DESCRIPTION:Division: Mapperley All Stars Stripes U10\nAslockton & Orston Blue U10 v VS\nKO: 10:00
+LOCATION:
+END:VEVENT
+END:VCALENDAR

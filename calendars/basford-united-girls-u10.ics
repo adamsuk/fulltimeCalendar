@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Basford United Girls U10 ^^
+X-WR-CALDESC:Fixtures for Basford United Girls U10 ^^ — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:9a68f4ae946cb3e356d51f18a3c34b05@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26100322T104500
+DTEND;TZID=Europe/London:26100322T113000
+SUMMARY:⚽ Basford United Girls U10 ^^ vs VS (Home)
+DESCRIPTION:Division: Cotgrave FC White U10\nBasford United Girls U10 ^^ v VS\nKO: 10:45
+LOCATION:
+END:VEVENT
+END:VCALENDAR

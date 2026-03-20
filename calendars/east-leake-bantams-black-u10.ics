@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:East Leake Bantams Black U10
+X-WR-CALDESC:Fixtures for East Leake Bantams Black U10 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:bb73ced5d52c18a2fbe2c03c245b4813@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26090322T090000
+DTEND;TZID=Europe/London:26090322T103000
+SUMMARY:⚽ East Leake Bantams Black U10 vs VS (Home)
+DESCRIPTION:Division: Clifton AW Purple U10\nEast Leake Bantams Black U10 v VS\nKO: 09:00
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:3a979f847020aec047e679e0681ab18f@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26100426T100000
+DTEND;TZID=Europe/London:26100426T113000
+SUMMARY:⚽ East Leake Bantams Black U10 vs VS (Home)
+DESCRIPTION:Division: Attenborough Colts Yellow U10\nEast Leake Bantams Black U10 v VS\nKO: 10:00
+LOCATION:
+END:VEVENT
+END:VCALENDAR

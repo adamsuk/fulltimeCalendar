@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hucknall Sports Blue U10
+X-WR-CALDESC:Fixtures for Hucknall Sports Blue U10 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:ed0cb758a6c6d4572ee341479fd9fd7b@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26100329T100000
+DTEND;TZID=Europe/London:26100329T113000
+SUMMARY:⚽ Hucknall Sports Blue U10 vs VS (Home)
+DESCRIPTION:Division: Carlton Town Blue U10\nHucknall Sports Blue U10 v VS\nKO: 10:00
+LOCATION:
+END:VEVENT
+END:VCALENDAR

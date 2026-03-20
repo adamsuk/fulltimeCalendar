@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Castle Donington Colts U10
+X-WR-CALDESC:Fixtures for Castle Donington Colts U10 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:baec9e726651a102e198186c965afac6@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26100419T100000
+DTEND;TZID=Europe/London:26100419T113000
+SUMMARY:⚽ Castle Donington Colts U10 vs VS (Home)
+DESCRIPTION:Division: WBYFC Leverkusen U10\nCastle Donington Colts U10 v VS\nKO: 10:00
+LOCATION:
+END:VEVENT
+END:VCALENDAR

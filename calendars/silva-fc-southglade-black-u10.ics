@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Silva FC Southglade Black U10
+X-WR-CALDESC:Fixtures for Silva FC Southglade Black U10 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:71d4d45ebc77ef8c26f0516e55a6a5f5@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26100322T100000
+DTEND;TZID=Europe/London:26100322T113000
+SUMMARY:⚽ Silva FC Southglade Black U10 vs VS (Home)
+DESCRIPTION:Division: Ilkeston Town Ajax U10\nSilva FC Southglade Black U10 v VS\nKO: 10:00
+LOCATION:
+END:VEVENT
+END:VCALENDAR

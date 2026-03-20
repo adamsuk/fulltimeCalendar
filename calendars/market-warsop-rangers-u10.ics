@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Market Warsop Rangers U10
+X-WR-CALDESC:Fixtures for Market Warsop Rangers U10 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:2002a5e1572b406334486744cf4e9055@yel-calendar
+DTSTAMP:20260320T173847Z
+DTSTART;TZID=Europe/London:26100322T100000
+DTEND;TZID=Europe/London:26100322T113000
+SUMMARY:⚽ Market Warsop Rangers U10 vs VS (Home)
+DESCRIPTION:Division: Cotgrave FC Green U10\nMarket Warsop Rangers U10 v VS\nKO: 10:00
+LOCATION:
+END:VEVENT
+END:VCALENDAR
