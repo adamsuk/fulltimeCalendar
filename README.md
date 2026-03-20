@@ -4,14 +4,14 @@ Automatically scrapes fixture data from [FA Full-Time](https://fulltime.thefa.co
 
 ## Subscribing to a team calendar
 
-1. Find your team's `.ics` file in the `calendars/` folder
+1. Find your team's `.ics` file under `calendars/<league>/`
 2. Click on it in GitHub, then click **Raw** — copy that URL
 3. In Google Calendar: **+ Other calendars → From URL** → paste the raw URL
 
 The calendar will auto-refresh (Google typically polls every 12–24 hours).
 
 > **Tip:** The raw URL looks like:
-> `https://raw.githubusercontent.com/adamsuk/fulltimeCalendar/main/calendars/eastwood-athletic-atalanta-u10.ics`
+> `https://raw.githubusercontent.com/adamsuk/fulltimeCalendar/main/calendars/yel-east-midlands-sunday-25-26/eastwood-athletic-atalanta-u10.ics`
 
 ## How it works
 
@@ -50,4 +50,4 @@ The GitHub Actions workflow runs daily at 06:00 UTC. You can also trigger it man
 - Event duration is set to **90 minutes**
 - Team names are taken verbatim from Full-Time
 - The scraper uses `curl-cffi` with browser impersonation to fetch the page reliably
-- If a team plays in both Saturday and Sunday leagues, all fixtures appear in one calendar
+- Calendars are organised into league subfolders under `calendars/`

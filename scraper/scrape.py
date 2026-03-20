@@ -283,34 +283,39 @@ def fixtures_to_ics(team_name: str, fixtures: list[Fixture]) -> str:
 # ---------------------------------------------------------------------------
 
 def main() -> None:
-    all_fixtures: list[Fixture] = []
+    total_teams = 0
     for season_id, league_name in LEAGUES:
         try:
             fixtures = fetch_fixtures(season_id, league_name)
-            all_fixtures.extend(fixtures)
         except Exception as e:
             log.error(f"Failed to fetch {league_name}: {e}")
+            continue
 
-    if not all_fixtures:
-        log.warning("No fixtures found — check league config and page structure.")
-        return
+        if not fixtures:
+            log.warning(f"No fixtures found for {league_name}")
+            continue
 
-    # Group by team name (appears as home or away)
-    teams: dict[str, list[Fixture]] = {}
-    for f in all_fixtures:
-        for team in (f.home_team, f.away_team):
-            if team:
-                teams.setdefault(team, []).append(f)
+        # Group by team name (appears as home or away)
+        teams: dict[str, list[Fixture]] = {}
+        for f in fixtures:
+            for team in (f.home_team, f.away_team):
+                if team:
+                    teams.setdefault(team, []).append(f)
 
-    log.info(f"\nFound {len(teams)} teams across {len(all_fixtures)} fixtures")
+        league_dir = OUTPUT_DIR / slug(league_name)
+        league_dir.mkdir(parents=True, exist_ok=True)
 
-    for team_name, team_fixtures in sorted(teams.items()):
-        ics_content = fixtures_to_ics(team_name, team_fixtures)
-        filename = OUTPUT_DIR / f"{slug(team_name)}.ics"
-        filename.write_text(ics_content, encoding="utf-8")
-        log.info(f"  Written {filename.name} ({len(team_fixtures)} fixtures)")
+        log.info(f"  {len(teams)} teams, writing to {league_dir}/")
 
-    log.info(f"\nDone — {len(teams)} .ics files written to {OUTPUT_DIR}/")
+        for team_name, team_fixtures in sorted(teams.items()):
+            ics_content = fixtures_to_ics(team_name, team_fixtures)
+            filename = league_dir / f"{slug(team_name)}.ics"
+            filename.write_text(ics_content, encoding="utf-8")
+            log.info(f"    {filename.name} ({len(team_fixtures)} fixtures)")
+
+        total_teams += len(teams)
+
+    log.info(f"\nDone — {total_teams} team calendars written across {len(LEAGUES)} leagues")
 
 
 if __name__ == "__main__":
