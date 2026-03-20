@@ -1,6 +1,6 @@
 """
-YEL East Midlands Sunday League — Full-Time fixture scraper
-Generates one .ics file per team across all configured divisions.
+YEL East Midlands — Full-Time fixture scraper
+Generates one .ics file per team across all configured leagues/seasons.
 """
 
 import os
@@ -22,9 +22,14 @@ log = logging.getLogger(__name__)
 # Config
 # ---------------------------------------------------------------------------
 
-# This URL defaults to the current season and returns all age groups.
-# The path segments are /fixtures/{page}/{itemsPerPage}.html
-FIXTURES_URL = "https://fulltime.thefa.com/fixtures/1/100000.html"
+BASE_URL = "https://fulltime.thefa.com/fixtures/1/100000.html"
+
+# Each league is identified by its selectedSeason parameter on Full-Time.
+# Update these season IDs at the start of each new season.
+LEAGUES: list[tuple[str, str]] = [
+    ("909330396", "YEL East Midlands Sunday 25/26"),
+    ("161954265", "YEL East Midlands Saturday 25/26"),
+]
 
 OUTPUT_DIR = Path(__file__).parent.parent / "calendars"
 OUTPUT_DIR.mkdir(exist_ok=True)
@@ -52,9 +57,10 @@ class Fixture(NamedTuple):
 # Scraping
 # ---------------------------------------------------------------------------
 
-def fetch_fixtures() -> list[Fixture]:
-    """Fetch all fixtures (all age groups, current season) in a single request."""
-    log.info(f"Fetching fixtures from {FIXTURES_URL} ...")
+def fetch_fixtures(season_id: str, league_name: str) -> list[Fixture]:
+    """Fetch all fixtures for a given season/league in a single request."""
+    url = f"{BASE_URL}?selectedSeason={season_id}"
+    log.info(f"Fetching {league_name} from {url} ...")
 
     # Use SOCKS5 proxy if configured (e.g. Tor on 127.0.0.1:9050 in CI)
     proxy = os.environ.get("SOCKS_PROXY")
@@ -64,7 +70,7 @@ def fetch_fixtures() -> list[Fixture]:
     for attempt in range(1, HTTP_RETRIES + 1):
         try:
             with curl_requests.Session(impersonate="chrome", proxies=proxies) as session:
-                resp = session.get(FIXTURES_URL, timeout=HTTP_TIMEOUT)
+                resp = session.get(url, timeout=HTTP_TIMEOUT)
                 resp.raise_for_status()
 
                 return parse_fixtures(resp.text)
@@ -188,11 +194,11 @@ def slug(name: str) -> str:
 VCALENDAR_HEADER = """\
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:{cal_name}
-X-WR-CALDESC:Fixtures for {cal_name} — YEL East Midlands Sunday League
+X-WR-CALDESC:Fixtures for {cal_name} — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 """
 
@@ -277,14 +283,16 @@ def fixtures_to_ics(team_name: str, fixtures: list[Fixture]) -> str:
 # ---------------------------------------------------------------------------
 
 def main() -> None:
-    try:
-        all_fixtures = fetch_fixtures()
-    except Exception as e:
-        log.error(f"Failed to fetch fixtures: {e}")
-        all_fixtures = []
+    all_fixtures: list[Fixture] = []
+    for season_id, league_name in LEAGUES:
+        try:
+            fixtures = fetch_fixtures(season_id, league_name)
+            all_fixtures.extend(fixtures)
+        except Exception as e:
+            log.error(f"Failed to fetch {league_name}: {e}")
 
     if not all_fixtures:
-        log.warning("No fixtures found — check division config and page structure.")
+        log.warning("No fixtures found — check league config and page structure.")
         return
 
     # Group by team name (appears as home or away)
