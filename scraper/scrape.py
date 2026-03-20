@@ -18,28 +18,28 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
 log = logging.getLogger(__name__)
 
 # ---------------------------------------------------------------------------
-# Config — add/remove divisions here. To find a division URL go to Full-Time,
-# navigate to the division fixtures page and copy the URL. The scraper only
-# needs the parameters below; everything else is ignored.
+# Config — add/remove age groups here. To find the age group ID go to
+# Full-Time, navigate to the league fixtures page and copy the URL.
 #
-# How to find division URLs:
+# How to find age group IDs:
 #   1. Go to https://fulltime.thefa.com
 #   2. Search for "YEL East Midlands Sunday"
-#   3. Browse to each age group / division
-#   4. Copy the URL and extract the params below
+#   3. Browse to an age group's fixture page
+#   4. Copy the URL and extract the `selectedFixtureGroupAgeGroup` value
 # ---------------------------------------------------------------------------
 
 BASE_URL = "https://fulltime.thefa.com/fixtures.html"
 
-LEAGUE_ID = "515215211"
 SEASON_ID = "909330396"
 
-# Each entry is (age_group_id, division_id, fixture_group_key, human_label)
-# age_group_id 13 = U10s. Add more rows as you find other age group division URLs.
-DIVISIONS: list[tuple[str, str, str, str]] = [
-    ("13", "275110081", "1_943772434", "U10s Div 1"),
-    # ("14", "XXXXXXXXX", "1_XXXXXXXXX", "U11s Div 1"),  # <-- add more here
-    # ("14", "XXXXXXXXX", "1_XXXXXXXXX", "U11s Div 2"),
+# Maximum fixtures to request per age group in a single page
+MAX_ITEMS_PER_PAGE = "100000"
+
+# Each entry is (age_group_id, human_label)
+# age_group_id 13 = U10s. Add more rows as you find other age group IDs.
+AGE_GROUPS: list[tuple[str, str]] = [
+    ("13", "U10s"),
+    # ("14", "U11s"),  # <-- add more here
 ]
 
 OUTPUT_DIR = Path(__file__).parent.parent / "calendars"
@@ -73,19 +73,25 @@ class Fixture(NamedTuple):
 # Scraping
 # ---------------------------------------------------------------------------
 
-def fetch_division(age_group_id: str, division_id: str, fixture_group_key: str, label: str) -> list[Fixture]:
+def fetch_age_group(age_group_id: str, label: str) -> list[Fixture]:
     params = {
-        "league": LEAGUE_ID,
         "selectedSeason": SEASON_ID,
         "selectedFixtureGroupAgeGroup": age_group_id,
+        "selectedFixtureGroupKey": "",
+        "selectedDateCode": "all",
+        "selectedClub": "",
+        "selectedTeam": "",
+        "selectedRelatedFixtureOption": "1",
+        "selectedFixtureDateStatus": "",
+        "selectedFixtureStatus": "",
         "previousSelectedFixtureGroupAgeGroup": age_group_id,
-        "selectedDivision": division_id,
-        "selectedCompetition": "0",
-        "selectedFixtureGroupKey": fixture_group_key,
+        "previousSelectedFixtureGroupKey": "",
+        "previousSelectedClub": "",
+        "itemsPerPage": MAX_ITEMS_PER_PAGE,
     }
 
     log.info(f"Fetching {label} ...")
-    resp = requests.get(BASE_URL, params=params, headers=HEADERS, timeout=20)
+    resp = requests.get(BASE_URL, params=params, headers=HEADERS, timeout=30)
     resp.raise_for_status()
 
     return parse_fixtures(resp.text, label)
@@ -288,9 +294,9 @@ def fixtures_to_ics(team_name: str, fixtures: list[Fixture]) -> str:
 def main() -> None:
     all_fixtures: list[Fixture] = []
 
-    for age_group_id, division_id, fixture_group_key, label in DIVISIONS:
+    for age_group_id, label in AGE_GROUPS:
         try:
-            fixtures = fetch_division(age_group_id, division_id, fixture_group_key, label)
+            fixtures = fetch_age_group(age_group_id, label)
             all_fixtures.extend(fixtures)
         except Exception as e:
             log.error(f"Failed to fetch {label}: {e}")

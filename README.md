@@ -15,26 +15,25 @@ The calendar will auto-refresh (Google typically polls every 12–24 hours).
 
 ---
 
-## Adding more divisions
+## Adding more age groups
 
-Edit `scraper/scrape.py` and add entries to the `DIVISIONS` list:
+Edit `scraper/scrape.py` and add entries to the `AGE_GROUPS` list:
 
 ```python
-DIVISIONS: list[tuple[str, str, str, str]] = [
-    ("13", "275110081", "1_943772434", "U10s Div 1"),
-    ("14", "XXXXXXXXX", "1_XXXXXXXXX", "U11s Div 1"),  # add more here
+AGE_GROUPS: list[tuple[str, str]] = [
+    ("13", "U10s"),
+    ("14", "U11s"),  # add more here
 ]
 ```
 
-**To find the parameters for a division:**
-1. Go to [Full-Time](https://fulltime.thefa.com) and navigate to the division's fixture page
+**To find the age group ID:**
+1. Go to [Full-Time](https://fulltime.thefa.com) and navigate to an age group's fixture page
 2. Copy the URL — it will look like:
    ```
-   https://fulltime.thefa.com/fixtures.html?league=515215211&selectedSeason=909330396
-     &selectedFixtureGroupAgeGroup=XX&selectedDivision=XXXXXXXXX
-     &selectedFixtureGroupKey=1_XXXXXXXXX
+   https://fulltime.thefa.com/fixtures.html?selectedSeason=909330396
+     &selectedFixtureGroupAgeGroup=XX&...
    ```
-3. Extract `selectedFixtureGroupAgeGroup`, `selectedDivision`, and `selectedFixtureGroupKey`
+3. Extract the `selectedFixtureGroupAgeGroup` value (e.g. `13` for U10s, `14` for U11s)
 
 ---
 
