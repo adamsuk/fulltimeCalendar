@@ -11,9 +11,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import NamedTuple
 
-import requests
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
+from curl_cffi import requests as curl_requests
 from bs4 import BeautifulSoup
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
@@ -47,20 +45,13 @@ AGE_GROUPS: list[tuple[str, str]] = [
 OUTPUT_DIR = Path(__file__).parent.parent / "calendars"
 OUTPUT_DIR.mkdir(exist_ok=True)
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    )
-}
-
 # How long to wait between division page requests (be polite to the FA servers)
 REQUEST_DELAY_SECONDS = 2
 
 # Retry configuration for HTTP requests
-HTTP_RETRIES = 3
-HTTP_BACKOFF_FACTOR = 2  # waits 2s, 4s, 8s between retries
-HTTP_TIMEOUT = 60  # seconds
+HTTP_RETRIES = 5
+HTTP_BACKOFF_FACTOR = 2  # waits 2s, 4s, 8s, 16s, 32s between retries
+HTTP_TIMEOUT = 90  # seconds
 
 
 # ---------------------------------------------------------------------------
@@ -97,22 +88,28 @@ def fetch_age_group(age_group_id: str, label: str) -> list[Fixture]:
         "itemsPerPage": MAX_ITEMS_PER_PAGE,
     }
 
-    retry_strategy = Retry(
-        total=HTTP_RETRIES,
-        backoff_factor=HTTP_BACKOFF_FACTOR,
-        status_forcelist=[429, 500, 502, 503, 504],
-        allowed_methods=["GET"],
-    )
-    adapter = HTTPAdapter(max_retries=retry_strategy)
-    with requests.Session() as session:
-        session.mount("https://", adapter)
-        session.mount("http://", adapter)
+    log.info(f"Fetching {label} ...")
 
-        log.info(f"Fetching {label} ...")
-        resp = session.get(BASE_URL, params=params, headers=HEADERS, timeout=HTTP_TIMEOUT)
-        resp.raise_for_status()
+    last_err: Exception | None = None
+    for attempt in range(1, HTTP_RETRIES + 1):
+        try:
+            with curl_requests.Session(impersonate="chrome") as session:
+                resp = session.get(BASE_URL, params=params, timeout=HTTP_TIMEOUT)
+                resp.raise_for_status()
+                return parse_fixtures(resp.text, label)
+        except Exception as e:
+            last_err = e
+            if attempt < HTTP_RETRIES:
+                wait = HTTP_BACKOFF_FACTOR * (2 ** (attempt - 1))
+                log.warning(
+                    f"Attempt {attempt}/{HTTP_RETRIES} for {label} failed: {e} "
+                    f"— retrying in {wait}s"
+                )
+                time.sleep(wait)
+            else:
+                log.error(f"All {HTTP_RETRIES} attempts for {label} failed: {e}")
 
-        return parse_fixtures(resp.text, label)
+    raise last_err  # type: ignore[misc]
 
 
 def parse_fixtures(html: str, division_label: str) -> list[Fixture]:
