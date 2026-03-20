@@ -161,18 +161,20 @@ def parse_fixtures(html: str, division_label: str) -> list[Fixture]:
         if not home or not away:
             continue
 
-        # Date+time cell: contains <span>DD/MM/YY</span><span>HH:MM</span>
+        # Date+time: find the first cell containing a date pattern (DD/MM/YY).
+        # Can't use class_="cell-divider" — the first cell-divider is the type
+        # cell ("L"), not the date cell. Scanning for the pattern is more robust.
         date_str = ""
         time_str = ""
-        date_td = row.find("td", class_="cell-divider")
-        if date_td:
-            dt_text = date_td.get_text(strip=True)
-            dm = re.search(r"(\d{2}/\d{2}/\d{2})", dt_text)
+        for td in row.find_all("td"):
+            cell_text = td.get_text(strip=True)
+            dm = re.search(r"(\d{2}/\d{2}/\d{2})", cell_text)
             if dm:
                 date_str = dm.group(1)
-            tm = re.search(r"(\d{1,2}:\d{2})", dt_text)
-            if tm:
-                time_str = tm.group(1)
+                tm = re.search(r"(\d{1,2}:\d{2})", cell_text)
+                if tm:
+                    time_str = tm.group(1)
+                break
 
         # Venue and competition: cells after the away team
         venue = ""
