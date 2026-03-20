@@ -119,16 +119,19 @@ def fetch_age_group(age_group_id: str, label: str) -> list[Fixture]:
 
 
 def parse_fixtures(html: str, division_label: str) -> list[Fixture]:
-    """Parse the Full-Time fixtures table.
+    """Parse the Full-Time fixtures table using CSS classes.
 
-    Header columns (7):
-      Type | Date / Time | Home Team | Away Team | Venue | Competition | Status
-    Data row cells (9) — date/time split + VS column inserted:
-      Type | Date | Time | Home Team | VS | Away Team | Venue | Competition | Status
-
-    We anchor on the VS/score cell in each data row to reliably find
-    home (before VS) and away (after VS), then grab venue/competition
-    from subsequent cells.
+    Each data row has 10 cells:
+      [0] type          (class: color-dark-grey bold cell-divider)
+      [1] date+time     (class: left cell-divider) — e.g. "22/03/2610:00"
+      [2] home team     (class: home-team)
+      [3] home logo     (class: team-logo) — empty text
+      [4] VS / score    (class: score)
+      [5] away logo     (class: team-logo) — empty text
+      [6] away team     (class: road-team)
+      [7] venue         (class: left cell-divider)
+      [8] competition   (class: left cell-divider)
+      [9] status        (class: status-notes)
     """
     soup = BeautifulSoup(html, "html.parser")
     fixtures: list[Fixture] = []
@@ -146,62 +149,46 @@ def parse_fixtures(html: str, division_label: str) -> list[Fixture]:
         return []
 
     # Parse data rows (skip header)
-    rows = fixture_table.find_all("tr")[1:]
-    for row_idx, row in enumerate(rows):
-        cells = row.find_all(["td", "th"])
-        text = [c.get_text(strip=True) for c in cells]
-
-        # Debug: log first 3 data rows to diagnose cell structure
-        if row_idx < 3:
-            log.info(f"  ROW {row_idx} ({len(text)} cells): {text}")
-            # Also log raw HTML of each cell for the very first row
-            if row_idx == 0:
-                for ci, c in enumerate(cells):
-                    log.info(f"    cell[{ci}]: tag={c.name} class={c.get('class')} html={str(c)[:200]}")
-
-        if len(text) < 6:
+    for row in fixture_table.find_all("tr")[1:]:
+        # Extract fields by CSS class — much more reliable than positional indexing
+        home_td = row.find("td", class_="home-team")
+        away_td = row.find("td", class_="road-team")
+        if not home_td or not away_td:
             continue
 
-        # Find the VS / score separator cell
-        vs_idx = None
-        for i, val in enumerate(text):
-            if re.match(r"^(v|vs|\d+-\d+)$", val, re.I):
-                vs_idx = i
-                break
-
-        if vs_idx is None or vs_idx < 2:
-            if row_idx < 3:
-                log.info(f"  ROW {row_idx} SKIPPED: vs_idx={vs_idx}")
-            continue
-
-        home = clean_team_name(text[vs_idx - 1])
-        away = clean_team_name(text[vs_idx + 1]) if vs_idx + 1 < len(text) else ""
-
+        home = clean_team_name(home_td.get_text(strip=True))
+        away = clean_team_name(away_td.get_text(strip=True))
         if not home or not away:
             continue
 
-        # Cells before home team contain type, date, and optionally time
-        pre_cells = text[:vs_idx - 1]
-
-        # Extract date (DD/MM/YY) and time (HH:MM) from pre-cells.
-        # Date and time may be in separate cells OR concatenated (e.g. "22/03/2610:00").
-        # Use \d{2} for the year to avoid greedily consuming the time digits.
+        # Date+time cell: contains <span>DD/MM/YY</span><span>HH:MM</span>
         date_str = ""
         time_str = ""
-        for cell in pre_cells:
-            if not date_str:
-                dm = re.search(r"(\d{2}/\d{2}/\d{2})", cell)
-                if dm:
-                    date_str = dm.group(1)
-            if not time_str:
-                tm = re.search(r"(\d{1,2}:\d{2})", cell)
-                if tm:
-                    time_str = tm.group(1)
+        date_td = row.find("td", class_="cell-divider")
+        if date_td:
+            dt_text = date_td.get_text(strip=True)
+            dm = re.search(r"(\d{2}/\d{2}/\d{2})", dt_text)
+            if dm:
+                date_str = dm.group(1)
+            tm = re.search(r"(\d{1,2}:\d{2})", dt_text)
+            if tm:
+                time_str = tm.group(1)
 
-        # Cells after away team: venue, competition, status
-        post_cells = text[vs_idx + 2:]
-        venue = post_cells[0] if len(post_cells) > 0 else ""
-        competition = post_cells[1] if len(post_cells) > 1 else ""
+        # Venue and competition: cells after the away team
+        venue = ""
+        competition = ""
+        # Walk siblings after the away-team cell
+        for td in away_td.find_next_siblings("td"):
+            classes = td.get("class", [])
+            if "status-notes" in classes:
+                break
+            text = td.get_text(strip=True)
+            if not text:
+                continue
+            if not venue:
+                venue = text
+            elif not competition:
+                competition = text
 
         label = competition if competition else division_label
 
