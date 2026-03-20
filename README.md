@@ -1,6 +1,6 @@
 # YEL East Midlands — Fixture Calendars
 
-Automatically scrapes fixture data from [FA Full-Time](https://fulltime.thefa.com) and generates one `.ics` calendar file per team across both Saturday and Sunday leagues. Updated daily via GitHub Actions.
+Automatically scrapes fixture data from [FA Full-Time](https://fulltime.thefa.com) and generates one `.ics` calendar file per team across all age groups, organised into league subfolders. Updated daily via GitHub Actions.
 
 ## Subscribing to a team calendar
 
@@ -15,7 +15,9 @@ The calendar will auto-refresh (Google typically polls every 12–24 hours).
 
 ## How it works
 
-The scraper fetches fixtures from Full-Time for each configured league. Leagues are identified by their `selectedSeason` parameter. All age groups within each league are included automatically.
+The scraper fetches all fixtures from Full-Time's fixtures page (`/fixtures/1/100000.html`) for each configured league season. All age groups within each league are included automatically — new teams and divisions appear as Full-Time updates.
+
+Each fixture row provides the date, time, home/away teams, venue, and competition (division) name. The scraper generates a separate `.ics` file per team containing all their home and away fixtures, organised into league subfolders under `calendars/`.
 
 Currently configured leagues:
 
@@ -37,7 +39,7 @@ At the start of each season, update the `LEAGUES` list in `scraper/scrape.py` wi
 ```bash
 pip install curl-cffi beautifulsoup4
 python scraper/scrape.py
-# .ics files are written to ./calendars/
+# .ics files are written to ./calendars/<league>/
 ```
 
 ## Scheduling
@@ -46,8 +48,9 @@ The GitHub Actions workflow runs daily at 06:00 UTC. You can also trigger it man
 
 ## Notes
 
-- Kick-off times default to **10:00** if Full-Time doesn't list a time
+- Kick-off times default to **10:00** if Full-Time doesn't list a time (common for youth Sunday football)
 - Event duration is set to **90 minutes**
 - Team names are taken verbatim from Full-Time
 - The scraper uses `curl-cffi` with browser impersonation to fetch the page reliably
 - Calendars are organised into league subfolders under `calendars/`
+- Stale calendars (removed teams/leagues) are automatically cleaned up on each run
