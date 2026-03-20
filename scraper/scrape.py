@@ -146,9 +146,18 @@ def parse_fixtures(html: str, division_label: str) -> list[Fixture]:
         return []
 
     # Parse data rows (skip header)
-    for row in fixture_table.find_all("tr")[1:]:
+    rows = fixture_table.find_all("tr")[1:]
+    for row_idx, row in enumerate(rows):
         cells = row.find_all(["td", "th"])
         text = [c.get_text(strip=True) for c in cells]
+
+        # Debug: log first 3 data rows to diagnose cell structure
+        if row_idx < 3:
+            log.info(f"  ROW {row_idx} ({len(text)} cells): {text}")
+            # Also log raw HTML of each cell for the very first row
+            if row_idx == 0:
+                for ci, c in enumerate(cells):
+                    log.info(f"    cell[{ci}]: tag={c.name} class={c.get('class')} html={str(c)[:200]}")
 
         if len(text) < 6:
             continue
@@ -161,6 +170,8 @@ def parse_fixtures(html: str, division_label: str) -> list[Fixture]:
                 break
 
         if vs_idx is None or vs_idx < 2:
+            if row_idx < 3:
+                log.info(f"  ROW {row_idx} SKIPPED: vs_idx={vs_idx}")
             continue
 
         home = clean_team_name(text[vs_idx - 1])
