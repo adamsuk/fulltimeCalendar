@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Eastwood CFC Badgers U13
+X-WR-CALDESC:Fixtures for Eastwood CFC Badgers U13 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:5f7fd2ae0078e49498cc1798aca5df38@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260322T124000
+DTEND;TZID=Europe/London:20260322T133000
+SUMMARY:⚽ Eastwood CFC Badgers U13 vs Nottingham FC Green U13 (Home)
+DESCRIPTION:Division: U13 Sun YEL Cup\nEastwood CFC Badgers U13 v Nottingham FC Green U13\nKO: 12:40
+LOCATION:Coronation Park NG16 3HB
+END:VEVENT
+BEGIN:VEVENT
+UID:d62bfbff0ad28581b7c6e48e3118cd06@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260419T110000
+DTEND;TZID=Europe/London:20260419T123000
+SUMMARY:⚽ Eastwood CFC Badgers U13 vs Bottesford White U13 (Away)
+DESCRIPTION:Division: U13 Sun Spring Premier Division\nBottesford White U13 v Eastwood CFC Badgers U13\nKO: 11:00
+LOCATION:Nottingham Road NG13 0AP
+END:VEVENT
+END:VCALENDAR

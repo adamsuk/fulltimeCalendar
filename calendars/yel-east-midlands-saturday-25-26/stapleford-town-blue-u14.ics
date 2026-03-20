@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stapleford Town Blue U14
+X-WR-CALDESC:Fixtures for Stapleford Town Blue U14 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:32974fd01664dade6da27bda091a9a5b@yel-calendar
+DTSTAMP:20260320T202618Z
+DTSTART;TZID=Europe/London:20260321T100000
+DTEND;TZID=Europe/London:20260321T113000
+SUMMARY:⚽ Stapleford Town Blue U14 vs Marlborough Rovers U14 (Away)
+DESCRIPTION:Division: U14 Sat Spring Premier Division\nMarlborough Rovers U14 v Stapleford Town Blue U14\nKO: 10:00
+LOCATION:Measham Road Recreation Ground DE12 6AA
+END:VEVENT
+BEGIN:VEVENT
+UID:01ad836d29a1821e49b97a483dee5a11@yel-calendar
+DTSTAMP:20260320T202618Z
+DTSTART;TZID=Europe/London:20260418T110000
+DTEND;TZID=Europe/London:20260418T123000
+SUMMARY:⚽ Stapleford Town Blue U14 vs Cotgrave FC Blue U14 (Home)
+DESCRIPTION:Division: U14 Sat Spring Premier Division\nStapleford Town Blue U14 v Cotgrave FC Blue U14\nKO: 11:00
+LOCATION:Hickings Lane NG9 8PG
+END:VEVENT
+BEGIN:VEVENT
+UID:89896ead7b7381c3a191d89c3e311d33@yel-calendar
+DTSTAMP:20260320T202618Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T123000
+SUMMARY:⚽ Stapleford Town Blue U14 vs Somersall Rangers Thunder U14 (Away)
+DESCRIPTION:Division: U14 Sat Spring Premier Division\nSomersall Rangers Thunder U14 v Stapleford Town Blue U14\nKO: 11:00
+LOCATION:Brimington Junior School S43 1HF
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ilkeston Town Roma U12
+X-WR-CALDESC:Fixtures for Ilkeston Town Roma U12 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:609a8fdd9161cc1a6044659a6209b382@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260322T110000
+DTEND;TZID=Europe/London:20260322T123000
+SUMMARY:⚽ Ilkeston Town Roma U12 vs Beaufort United Blue U12 (Away)
+DESCRIPTION:Division: U12 Sun Spring Div 4\nBeaufort United Blue U12 v Ilkeston Town Roma U12\nKO: 11:00
+LOCATION:Unwin Road NG17 4HT
+END:VEVENT
+BEGIN:VEVENT
+UID:d7aa17b05f8a9e39b41c91ef49153249@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260419T113000
+DTEND;TZID=Europe/London:20260419T123000
+SUMMARY:⚽ Ilkeston Town Roma U12 vs Ancaster Athletic U12 (Home)
+DESCRIPTION:Division: U12 Sun Spring Div 4\nIlkeston Town Roma U12 v Ancaster Athletic U12\nKO: 11:30
+LOCATION:Booths Playing Fields DE7 8JF
+END:VEVENT
+END:VCALENDAR

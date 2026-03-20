@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Carlton Town Blue U14
+X-WR-CALDESC:Fixtures for Carlton Town Blue U14 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:d31ca9295a36c7bb7ac3466babe8c455@yel-calendar
+DTSTAMP:20260320T202618Z
+DTSTART;TZID=Europe/London:20260321T100000
+DTEND;TZID=Europe/London:20260321T113000
+SUMMARY:⚽ Carlton Town Blue U14 vs Ruddington Village Yellow U14 (Away)
+DESCRIPTION:Division: U14 Sat Spring Div 6 Blue\nRuddington Village Yellow U14 v Carlton Town Blue U14\nKO: 10:00
+LOCATION:Jubilee Fields NG11 6NX
+END:VEVENT
+BEGIN:VEVENT
+UID:3a431869f8e57557ad7c2d9f40b6b56f@yel-calendar
+DTSTAMP:20260320T202618Z
+DTSTART;TZID=Europe/London:20260328T110000
+DTEND;TZID=Europe/London:20260328T123000
+SUMMARY:⚽ Carlton Town Blue U14 vs Keyworth United White U14 (Home)
+DESCRIPTION:Division: U14 Sat Spring Div 6 Blue\nCarlton Town Blue U14 v Keyworth United White U14\nKO: 11:00
+LOCATION:Magenta Way NG14 5HH
+END:VEVENT
+BEGIN:VEVENT
+UID:3379f0ebb5817d16b4ff6eb19f6ab698@yel-calendar
+DTSTAMP:20260320T202618Z
+DTSTART;TZID=Europe/London:20260418T110000
+DTEND;TZID=Europe/London:20260418T123000
+SUMMARY:⚽ Carlton Town Blue U14 vs Edwalton Cavaliers White U14 (Home)
+DESCRIPTION:Division: U14 Sat Spring Div 6 Blue\nCarlton Town Blue U14 v Edwalton Cavaliers White U14\nKO: 11:00
+LOCATION:Magenta Way NG14 5HH
+END:VEVENT
+END:VCALENDAR

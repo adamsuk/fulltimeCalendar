@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Meden Vale Colts Red U14
+X-WR-CALDESC:Fixtures for Meden Vale Colts Red U14 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:4af3f6a2f774a543f16cca6851b6fcf3@yel-calendar
+DTSTAMP:20260320T202618Z
+DTSTART;TZID=Europe/London:20260321T100000
+DTEND;TZID=Europe/London:20260321T113000
+SUMMARY:⚽ Meden Vale Colts Red U14 vs WBYFC Giants U14 (Away)
+DESCRIPTION:Division: u14 Sat Spring Div 1 Gold\nWBYFC Giants U14 v Meden Vale Colts Red U14\nKO: 10:00
+LOCATION:The Nottingham Emmanuel School NG2 7YF
+END:VEVENT
+BEGIN:VEVENT
+UID:a532c5d0a96e58fb3f21e9e39888a524@yel-calendar
+DTSTAMP:20260320T202618Z
+DTSTART;TZID=Europe/London:20260414T180000
+DTEND;TZID=Europe/London:20260414T193000
+SUMMARY:⚽ Meden Vale Colts Red U14 vs Sutton Trinity U14 Yellow (Home)
+DESCRIPTION:Division: U14 Sat YEL Trophy\nMeden Vale Colts Red U14 v Sutton Trinity U14 Yellow\nKO: 18:00
+LOCATION:Manor Sport & Recreation Cntre  NG19 8JY
+END:VEVENT
+BEGIN:VEVENT
+UID:317f49e35c57a9bba220e7bebe3bf9b7@yel-calendar
+DTSTAMP:20260320T202618Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Meden Vale Colts Red U14 vs Heather St Johns U14 (Home)
+DESCRIPTION:Division: u14 Sat Spring Div 1 Gold\nMeden Vale Colts Red U14 v Heather St Johns U14\nKO: 10:00
+LOCATION:Manor Sport & Recreation Cntre  NG19 8JY
+END:VEVENT
+BEGIN:VEVENT
+UID:5d7d157fd8feecb00e555eca29cfaba3@yel-calendar
+DTSTAMP:20260320T202618Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T123000
+SUMMARY:⚽ Meden Vale Colts Red U14 vs Clifton All Whites White U14 (Away)
+DESCRIPTION:Division: u14 Sat Spring Div 1 Gold\nClifton All Whites White U14 v Meden Vale Colts Red U14\nKO: 11:00
+LOCATION:Farnborough Academy NG11 8JW
+END:VEVENT
+BEGIN:VEVENT
+UID:f2e5522f357e1ab73a951289baab7f54@yel-calendar
+DTSTAMP:20260320T202618Z
+DTSTART;TZID=Europe/London:20260428T180000
+DTEND;TZID=Europe/London:20260428T193000
+SUMMARY:⚽ Meden Vale Colts Red U14 vs Ilkeston Town White Star U14 (Away)
+DESCRIPTION:Division: u14 Sat Spring Div 1 Gold\nIlkeston Town White Star U14 v Meden Vale Colts Red U14\nKO: 18:00
+LOCATION:New Manor Ground DE7 8JF
+END:VEVENT
+END:VCALENDAR

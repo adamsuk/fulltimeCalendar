@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mansfield Town Grassroots Blue U12
+X-WR-CALDESC:Fixtures for Mansfield Town Grassroots Blue U12 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:8abf9638dfc95fb82c61537d23b465b4@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Mansfield Town Grassroots Blue U12 vs Willington FC Blue U12 (Away)
+DESCRIPTION:Division: U12 Sun YEL Cup\nWillington FC Blue U12 v Mansfield Town Grassroots Blue U12\nKO: 10:00
+LOCATION:Willington Power Station DE65 6DE
+END:VEVENT
+BEGIN:VEVENT
+UID:cf605f616a5d140f8227641965c15903@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260329T111500
+DTEND;TZID=Europe/London:20260329T123000
+SUMMARY:⚽ Mansfield Town Grassroots Blue U12 vs Silva FC Carlton UTD U12 (Away)
+DESCRIPTION:Division: U12 Sun Spring Premier Division\nSilva FC Carlton UTD U12 v Mansfield Town Grassroots Blue U12\nKO: 11:15
+LOCATION:Carlton Football Centre (3G) NG4 3SH
+END:VEVENT
+BEGIN:VEVENT
+UID:7b783b4eaf86e7f33f1cea6e67f48691@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260416T180000
+DTEND;TZID=Europe/London:20260416T193000
+SUMMARY:⚽ Mansfield Town Grassroots Blue U12 vs Calverton MW Blue U12 (Home)
+DESCRIPTION:Division: U12 Sun Spring Premier Division\nMansfield Town Grassroots Blue U12 v Calverton MW Blue U12\nKO: 18:00
+LOCATION:One Call Stadium NG18 5DA
+END:VEVENT
+BEGIN:VEVENT
+UID:d60146ceb85aadde84bd9d30f5ccefd1@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260419T110000
+DTEND;TZID=Europe/London:20260419T123000
+SUMMARY:⚽ Mansfield Town Grassroots Blue U12 vs Willington FC Blue U12 (Home)
+DESCRIPTION:Division: U12 Sun Spring Premier Division\nMansfield Town Grassroots Blue U12 v Willington FC Blue U12\nKO: 11:00
+LOCATION:One Call Stadium NG18 5DA
+END:VEVENT
+BEGIN:VEVENT
+UID:e1a47ba36426ea4aad061e5b6f992301@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Mansfield Town Grassroots Blue U12 vs Cotgrave FC Blue U12 (Away)
+DESCRIPTION:Division: U12 Sun Spring Premier Division\nCotgrave FC Blue U12 v Mansfield Town Grassroots Blue U12\nKO: 10:00
+LOCATION:Ridley Sports Ground NG12 3HA
+END:VEVENT
+END:VCALENDAR

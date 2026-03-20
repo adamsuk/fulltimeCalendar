@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Quarrydale United United U13
+X-WR-CALDESC:Fixtures for Quarrydale United United U13 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:fcf525c25814d7a292c41ef9380a98ae@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260322T093000
+DTEND;TZID=Europe/London:20260322T103000
+SUMMARY:⚽ Quarrydale United United U13 vs Long Eaton United Red U13 (Home)
+DESCRIPTION:Division: U13 Sun YEL Shield\nQuarrydale United United U13 v Long Eaton United Red U13\nKO: 09:30
+LOCATION:Bentinck Miners Welfare NG17 8GS
+END:VEVENT
+BEGIN:VEVENT
+UID:35da660cb3ee0d1fee4e739438022a37@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260329T110000
+DTEND;TZID=Europe/London:20260329T123000
+SUMMARY:⚽ Quarrydale United United U13 vs Priory Celtic 1967 U13 (Away)
+DESCRIPTION:Division: U13 Sun Spring Div 2 Red\nPriory Celtic 1967 U13 v Quarrydale United United U13\nKO: 11:00
+LOCATION:Kimberley Leisure Centre NG16 2NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:61f3e5ac9c91e5b82479b81a1e747366@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Quarrydale United United U13 vs Hucknall Sports White U13 (Away)
+DESCRIPTION:Division: U13 Sun Spring Div 2 Red\nHucknall Sports White U13 v Quarrydale United United U13\nKO: 10:00
+LOCATION:Engine Rooms NG15 6EP
+END:VEVENT
+BEGIN:VEVENT
+UID:b9bcafbb46e2fa7bfecc36f41b2b74cb@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260426T130000
+DTEND;TZID=Europe/London:20260426T143000
+SUMMARY:⚽ Quarrydale United United U13 vs Arnold Town Maroon U13 (Away)
+DESCRIPTION:Division: U13 Sun Spring Div 2 Red\nArnold Town Maroon U13 v Quarrydale United United U13\nKO: 13:00
+LOCATION:Eagle Valley NG5 8PS
+END:VEVENT
+END:VCALENDAR

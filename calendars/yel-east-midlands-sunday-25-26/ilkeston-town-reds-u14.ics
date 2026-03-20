@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ilkeston Town Reds U14
+X-WR-CALDESC:Fixtures for Ilkeston Town Reds U14 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:6a9973e983ed1c28c3a77f28cb9015eb@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260322T110000
+DTEND;TZID=Europe/London:20260322T123000
+SUMMARY:⚽ Ilkeston Town Reds U14 vs Notts Olympic FC U14 (Away)
+DESCRIPTION:Division: U14 Sun Spring Div 1 Silver\nNotts Olympic FC U14 v Ilkeston Town Reds U14\nKO: 11:00
+LOCATION:Birchover Park Community Centre NG8 4BW
+END:VEVENT
+BEGIN:VEVENT
+UID:ea1d85c6373662d86ab14544c0dfb51a@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260419T110000
+DTEND;TZID=Europe/London:20260419T123000
+SUMMARY:⚽ Ilkeston Town Reds U14 vs Sherwood Colliery U13 * (Away)
+DESCRIPTION:Division: U14 Sun Spring Div 1 Silver\nSherwood Colliery U13 * v Ilkeston Town Reds U14\nKO: 11:00
+LOCATION:Debdale Park & Sports Ground NG19 7NS
+END:VEVENT
+END:VCALENDAR

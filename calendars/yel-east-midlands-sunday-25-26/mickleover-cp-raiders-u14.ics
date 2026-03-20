@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mickleover CP Raiders U14
+X-WR-CALDESC:Fixtures for Mickleover CP Raiders U14 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:9c2aef4c90440d67148165fabaf55f7e@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Mickleover CP Raiders U14 vs Attenborough Colts Spartans U14 (Away)
+DESCRIPTION:Division: U14 Sun Spring Div 1 Gold\nAttenborough Colts Spartans U14 v Mickleover CP Raiders U14\nKO: 10:00
+LOCATION:Chilwell Olympia NG9 5HR
+END:VEVENT
+BEGIN:VEVENT
+UID:edc51699ec71527d87f22f17488de904@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260426T110000
+DTEND;TZID=Europe/London:20260426T123000
+SUMMARY:⚽ Mickleover CP Raiders U14 vs Ruddington Village Black U14 (Away)
+DESCRIPTION:Division: U14 Sun Spring Div 1 Gold\nRuddington Village Black U14 v Mickleover CP Raiders U14\nKO: 11:00
+LOCATION:Jubilee Fields NG11 6NX
+END:VEVENT
+END:VCALENDAR

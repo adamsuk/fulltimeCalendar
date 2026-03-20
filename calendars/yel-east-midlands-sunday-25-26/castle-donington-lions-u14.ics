@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Castle Donington Lions U14
+X-WR-CALDESC:Fixtures for Castle Donington Lions U14 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:627f2867f9ebf1d3dcbc51ae00dc84eb@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Castle Donington Lions U14 vs Eastwood Athletic Vipers U14 (Away)
+DESCRIPTION:Division: U14 Sun Spring Div 3 Blue\nEastwood Athletic Vipers U14 v Castle Donington Lions U14\nKO: 10:00
+LOCATION:Hall Park NG16 3AR
+END:VEVENT
+BEGIN:VEVENT
+UID:3541b6f177b02744e87921b42bcd9154@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260329T110000
+DTEND;TZID=Europe/London:20260329T123000
+SUMMARY:⚽ Castle Donington Lions U14 vs Breaston Park Green U14 (Away)
+DESCRIPTION:Division: U14 Sun Spring Div 3 Blue\nBreaston Park Green U14 v Castle Donington Lions U14\nKO: 11:00
+LOCATION:Wilsthorpe high school NG10 4WT
+END:VEVENT
+BEGIN:VEVENT
+UID:274d02113ee88003105f636477d96ed5@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T113000
+SUMMARY:⚽ Castle Donington Lions U14 vs Attenborough Colts Green U14 (Away)
+DESCRIPTION:Division: U14 Sun Spring Div 3 Blue\nAttenborough Colts Green U14 v Castle Donington Lions U14\nKO: 10:00
+LOCATION:Chilwell Olympia NG9 5HR
+END:VEVENT
+END:VCALENDAR

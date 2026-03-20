@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mansfield Athletic Black U14
+X-WR-CALDESC:Fixtures for Mansfield Athletic Black U14 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:81b1492d06aa33647e942366b5f30c80@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260315T100000
+DTEND;TZID=Europe/London:20260315T113000
+SUMMARY:⚽ Mansfield Athletic Black U14 vs Ruddington Village Black U14 (Home)
+DESCRIPTION:Division: U14 Sun Spring Div 1 Gold\nMansfield Athletic Black U14 v Ruddington Village Black U14\nKO: 10:00
+LOCATION:Polly Bowls NG17 4HN
+END:VEVENT
+BEGIN:VEVENT
+UID:74688ca495af132007a3711f12b91c49@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Mansfield Athletic Black U14 vs Cotgrave FC Blue U14 (Away)
+DESCRIPTION:Division: U14 Sun Spring Div 1 Gold\nCotgrave FC Blue U14 v Mansfield Athletic Black U14\nKO: 10:00
+LOCATION:Cotgrave Welfare NG12 3PJ
+END:VEVENT
+END:VCALENDAR

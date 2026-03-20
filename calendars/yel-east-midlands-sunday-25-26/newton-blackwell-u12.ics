@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Newton & Blackwell U12
+X-WR-CALDESC:Fixtures for Newton & Blackwell U12 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:60c18bea2b897bbf0b5a12f6e5404e1e@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260322T111500
+DTEND;TZID=Europe/London:20260322T123000
+SUMMARY:⚽ Newton & Blackwell U12 vs Silva FC Rushcliffe Whites U12 (Away)
+DESCRIPTION:Division: U12 Sun Spring Div 1 Silver\nSilva FC Rushcliffe Whites U12 v Newton & Blackwell U12\nKO: 11:15
+LOCATION:Rushcliffe School NG2 7BZ
+END:VEVENT
+BEGIN:VEVENT
+UID:57043b2f73866769637819bca196fbf3@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Newton & Blackwell U12 vs PMG Excel U12 (Home)
+DESCRIPTION:Division: U12 Sun Spring Div 1 Silver\nNewton & Blackwell U12 v PMG Excel U12\nKO: 10:00
+LOCATION:Scanderlands Pavilion DE55 5JJ
+END:VEVENT
+BEGIN:VEVENT
+UID:b00a16171524a47e5755344d95dae2ed@yel-calendar
+DTSTAMP:20260320T202616Z
+DTSTART;TZID=Europe/London:20260426T110000
+DTEND;TZID=Europe/London:20260426T123000
+SUMMARY:⚽ Newton & Blackwell U12 vs Kirkby Colts Red U12 (Home)
+DESCRIPTION:Division: U12 Sun Spring Div 1 Silver\nNewton & Blackwell U12 v Kirkby Colts Red U12\nKO: 11:00
+LOCATION:Scanderlands Pavilion DE55 5JJ
+END:VEVENT
+END:VCALENDAR
