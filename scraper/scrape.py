@@ -101,7 +101,16 @@ def fetch_age_group(age_group_id: str, label: str) -> list[Fixture]:
             with curl_requests.Session(impersonate="chrome", proxies=proxies) as session:
                 resp = session.get(BASE_URL, params=params, timeout=HTTP_TIMEOUT)
                 resp.raise_for_status()
-                return parse_fixtures(resp.text, label)
+
+                # Debug: log response info to diagnose CI parsing issues
+                html = resp.text
+                log.info(f"  Response status: {resp.status_code}, length: {len(html)} chars")
+                if len(html) < 5000:
+                    log.info(f"  Full response:\n{html}")
+                else:
+                    log.info(f"  First 2000 chars:\n{html[:2000]}")
+
+                return parse_fixtures(html, label)
         except Exception as e:
             last_err = e
             if attempt < HTTP_RETRIES:
