@@ -7,12 +7,30 @@ X-WR-CALNAME:East Leake Bantams Orange U10
 X-WR-CALDESC:Fixtures for East Leake Bantams Orange U10 — YEL East Midlands Sunday League
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:7546c4c4aa9c75b56f9a9847d444ad4a@yel-calendar
-DTSTAMP:20260320T173847Z
-DTSTART;TZID=Europe/London:26100329T100000
-DTEND;TZID=Europe/London:26100329T113000
-SUMMARY:⚽ East Leake Bantams Orange U10 vs VS (Home)
-DESCRIPTION:Division: West Hallam Roses U10\nEast Leake Bantams Orange U10 v VS\nKO: 10:00
-LOCATION:
+UID:edcddfa05c1d3dc96a0286c6bfb74e10@yel-calendar
+DTSTAMP:20260320T184347Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ East Leake Bantams Orange U10 vs Silva FC Rushcliffe Yellow U10 (Away)
+DESCRIPTION:Division: U10 Sun Spring Div 4 Blue\nSilva FC Rushcliffe Yellow U10 v East Leake Bantams Orange U10\nKO: 10:00
+LOCATION:Rushcliffe School NG2 7BZ
+END:VEVENT
+BEGIN:VEVENT
+UID:81d508db4a9604cca400499b396b8b4f@yel-calendar
+DTSTAMP:20260320T184347Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ East Leake Bantams Orange U10 vs West Hallam Roses U10 (Home)
+DESCRIPTION:Division: U10 Sun Spring Div 4 Blue\nEast Leake Bantams Orange U10 v West Hallam Roses U10\nKO: 10:00
+LOCATION:Costock Road LE12 6LY
+END:VEVENT
+BEGIN:VEVENT
+UID:38d33b8c6838d60ca24b35e43d8d20b9@yel-calendar
+DTSTAMP:20260320T184347Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ East Leake Bantams Orange U10 vs Priory Celtic Hoops U10 (Away)
+DESCRIPTION:Division: U10 Sun Spring Div 4 Blue\nPriory Celtic Hoops U10 v East Leake Bantams Orange U10\nKO: 10:00
+LOCATION:Kimberley Leisure Centre NG16 2NJ
 END:VEVENT
 END:VCALENDAR

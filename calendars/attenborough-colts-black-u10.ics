@@ -7,12 +7,21 @@ X-WR-CALNAME:Attenborough Colts Black U10
 X-WR-CALDESC:Fixtures for Attenborough Colts Black U10 — YEL East Midlands Sunday League
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:56ad23ad78dd3763725171bca148d5ad@yel-calendar
-DTSTAMP:20260320T173847Z
-DTSTART;TZID=Europe/London:26110322T110000
-DTEND;TZID=Europe/London:26110322T123000
-SUMMARY:⚽ Attenborough Colts Black U10 vs VS (Home)
-DESCRIPTION:Division: DLFC Gold U10\nAttenborough Colts Black U10 v VS\nKO: 11:00
-LOCATION:
+UID:1e6fd941150aadcfa4e2f9a92f2ccba9@yel-calendar
+DTSTAMP:20260320T184347Z
+DTSTART;TZID=Europe/London:20260322T110000
+DTEND;TZID=Europe/London:20260322T123000
+SUMMARY:⚽ Attenborough Colts Black U10 vs DLFC Gold U10 (Home)
+DESCRIPTION:Division: U10 Sun Spring Div 1 Gold\nAttenborough Colts Black U10 v DLFC Gold U10\nKO: 11:00
+LOCATION:Chilwell Olympia NG9 5HR
+END:VEVENT
+BEGIN:VEVENT
+UID:faa42b9d3b6ee5f02bcada0399f7fe86@yel-calendar
+DTSTAMP:20260320T184347Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Attenborough Colts Black U10 vs Eastwood CFC Aces U10 (Away)
+DESCRIPTION:Division: U10 Sun Spring Div 1 Gold\nEastwood CFC Aces U10 v Attenborough Colts Black U10\nKO: 10:00
+LOCATION:Coronation Park NG16 3HB
 END:VEVENT
 END:VCALENDAR

@@ -7,30 +7,39 @@ X-WR-CALNAME:Newark Brazil Cruzeiro U10
 X-WR-CALDESC:Fixtures for Newark Brazil Cruzeiro U10 — YEL East Midlands Sunday League
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:e78a68dcc0a637867b7788532e8c49fb@yel-calendar
-DTSTAMP:20260320T173847Z
-DTSTART;TZID=Europe/London:26100329T100000
-DTEND;TZID=Europe/London:26100329T113000
-SUMMARY:⚽ Newark Brazil Cruzeiro U10 vs VS (Home)
-DESCRIPTION:Division: Tibshelf FC U10\nNewark Brazil Cruzeiro U10 v VS\nKO: 10:00
-LOCATION:
+UID:d68cafa3efc4fc850b41113b93909b70@yel-calendar
+DTSTAMP:20260320T184347Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Newark Brazil Cruzeiro U10 vs Long Bennington U10 (Away)
+DESCRIPTION:Division: U10 Sun Spring Div 1 Silver\nLong Bennington U10 v Newark Brazil Cruzeiro U10\nKO: 10:00
+LOCATION:QE2 Playing Field NG23 5HD
 END:VEVENT
 BEGIN:VEVENT
-UID:9de66feb4d78f50383e3cdd995426c85@yel-calendar
-DTSTAMP:20260320T173847Z
-DTSTART;TZID=Europe/London:26100419T100000
-DTEND;TZID=Europe/London:26100419T113000
-SUMMARY:⚽ Newark Brazil Cruzeiro U10 vs VS (Home)
-DESCRIPTION:Division: NG United U10\nNewark Brazil Cruzeiro U10 v VS\nKO: 10:00
-LOCATION:
+UID:47b8370f146656273f15d7bc8c9b37bc@yel-calendar
+DTSTAMP:20260320T184347Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Newark Brazil Cruzeiro U10 vs Tibshelf FC U10 (Home)
+DESCRIPTION:Division: U10 Sun Spring Div 1 Silver\nNewark Brazil Cruzeiro U10 v Tibshelf FC U10\nKO: 10:00
+LOCATION:Claypole Playing Field NG23 5BQ
 END:VEVENT
 BEGIN:VEVENT
-UID:b951ad186fc1b700a3f864ad3e20c83d@yel-calendar
-DTSTAMP:20260320T173847Z
-DTSTART;TZID=Europe/London:26100426T100000
-DTEND;TZID=Europe/London:26100426T113000
-SUMMARY:⚽ Newark Brazil Cruzeiro U10 vs VS (Home)
-DESCRIPTION:Division: Cotgrave FC Claret U10\nNewark Brazil Cruzeiro U10 v VS\nKO: 10:00
-LOCATION:
+UID:2a09e7d4e61dac440043e420b7de2162@yel-calendar
+DTSTAMP:20260320T184347Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Newark Brazil Cruzeiro U10 vs NG United U10 (Home)
+DESCRIPTION:Division: U10 Sun YEL Trophy\nNewark Brazil Cruzeiro U10 v NG United U10\nKO: 10:00
+LOCATION:Claypole Playing Field NG23 5BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:8f9451f66089188158d37fb902133cba@yel-calendar
+DTSTAMP:20260320T184347Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Newark Brazil Cruzeiro U10 vs Cotgrave FC Claret U10 (Home)
+DESCRIPTION:Division: U10 Sun Spring Div 1 Silver\nNewark Brazil Cruzeiro U10 v Cotgrave FC Claret U10\nKO: 10:00
+LOCATION:Claypole Playing Field NG23 5BQ
 END:VEVENT
 END:VCALENDAR

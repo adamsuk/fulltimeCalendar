@@ -7,12 +7,39 @@ X-WR-CALNAME:Cotgrave FC Claret U10
 X-WR-CALDESC:Fixtures for Cotgrave FC Claret U10 — YEL East Midlands Sunday League
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:73aa30dd97a3ae9577b52c16e1bcdb79@yel-calendar
-DTSTAMP:20260320T173847Z
-DTSTART;TZID=Europe/London:26100329T100000
-DTEND;TZID=Europe/London:26100329T113000
-SUMMARY:⚽ Cotgrave FC Claret U10 vs VS (Home)
-DESCRIPTION:Division: ASFC Wolves U10\nCotgrave FC Claret U10 v VS\nKO: 10:00
-LOCATION:
+UID:d05980b3025974c69c1bca1020bbe632@yel-calendar
+DTSTAMP:20260320T184347Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Cotgrave FC Claret U10 vs Tibshelf FC U10 (Away)
+DESCRIPTION:Division: U10 Sun Spring Div 1 Silver\nTibshelf FC U10 v Cotgrave FC Claret U10\nKO: 10:00
+LOCATION:Tibshelf Sports Ground DE55 5QE
+END:VEVENT
+BEGIN:VEVENT
+UID:1f7ef5764f126d0884711e679e24e3c4@yel-calendar
+DTSTAMP:20260320T184347Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Cotgrave FC Claret U10 vs ASFC Wolves U10 (Home)
+DESCRIPTION:Division: U10 Sun Spring Div 1 Silver\nCotgrave FC Claret U10 v ASFC Wolves U10\nKO: 10:00
+LOCATION:Ridley Sports Ground NG12 3HA
+END:VEVENT
+BEGIN:VEVENT
+UID:0f57e5914f3755fd3da81d6ea82eaac8@yel-calendar
+DTSTAMP:20260320T184347Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Cotgrave FC Claret U10 vs Long Bennington U10 (Away)
+DESCRIPTION:Division: U10 Sun Spring Div 1 Silver\nLong Bennington U10 v Cotgrave FC Claret U10\nKO: 10:00
+LOCATION:QE2 Playing Field NG23 5HD
+END:VEVENT
+BEGIN:VEVENT
+UID:8f9451f66089188158d37fb902133cba@yel-calendar
+DTSTAMP:20260320T184347Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Cotgrave FC Claret U10 vs Newark Brazil Cruzeiro U10 (Away)
+DESCRIPTION:Division: U10 Sun Spring Div 1 Silver\nNewark Brazil Cruzeiro U10 v Cotgrave FC Claret U10\nKO: 10:00
+LOCATION:Claypole Playing Field NG23 5BQ
 END:VEVENT
 END:VCALENDAR
