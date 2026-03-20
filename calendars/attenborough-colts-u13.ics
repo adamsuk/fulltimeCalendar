@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Attenborough Colts U13
+X-WR-CALDESC:Fixtures for Attenborough Colts U13 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:4b1eeaa90c45576ea00c286433a95ae8@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Attenborough Colts U13 vs Silva FC Southglade Grey U13 (Home)
+DESCRIPTION:Division: U13 Sun Spring Div 4 Blue\nAttenborough Colts U13 v Silva FC Southglade Grey U13\nKO: 10:00
+LOCATION:Chilwell Olympia NG9 5HR
+END:VEVENT
+BEGIN:VEVENT
+UID:0faecd3cce004b3b588fc3af8412fad3@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Attenborough Colts U13 vs Gedling Southbank White U13 (Home)
+DESCRIPTION:Division: U13 Sun Spring Div 4 Blue\nAttenborough Colts U13 v Gedling Southbank White U13\nKO: 10:00
+LOCATION:Chilwell Olympia NG9 5HR
+END:VEVENT
+END:VCALENDAR

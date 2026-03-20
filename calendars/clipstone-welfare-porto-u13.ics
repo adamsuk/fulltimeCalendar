@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Clipstone Welfare Porto U13
+X-WR-CALDESC:Fixtures for Clipstone Welfare Porto U13 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:143a2f08c16cebae697c5f937ab62005@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T110000
+DTEND;TZID=Europe/London:20260322T123000
+SUMMARY:⚽ Clipstone Welfare Porto U13 vs South Normanton Ath Blue U13 (Away)
+DESCRIPTION:Division: U13 Sun Spring Div 6\nSouth Normanton Ath Blue U13 v Clipstone Welfare Porto U13\nKO: 11:00
+LOCATION:South Street Recreation Ground DE55 2BZ
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ernehale Colts U8
+X-WR-CALDESC:Fixtures for Ernehale Colts U8 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:ff822a4d9cc876c224b543ae47a13010@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Ernehale Colts U8 vs Alfreton Town Diamonds U8 ^^ (Away)
+DESCRIPTION:Division: U8 Sun Spring 5 Red\nAlfreton Town Diamonds U8 ^^ v Ernehale Colts U8\nKO: 10:00
+LOCATION:David Nieper Academy DE55 7JA
+END:VEVENT
+BEGIN:VEVENT
+UID:0bff39dc7eb49b81dfba79c856830736@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Ernehale Colts U8 vs Market Warsop Lions U8 (Home)
+DESCRIPTION:Division: U8 Sun Spring 5 Red\nErnehale Colts U8 v Market Warsop Lions U8\nKO: 10:00
+LOCATION:King George V Park NG5 6TD
+END:VEVENT
+BEGIN:VEVENT
+UID:11b9785ae3e9d7eeeaf9265ed7462d05@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T113000
+SUMMARY:⚽ Ernehale Colts U8 vs DLFC Blue U8 (Away)
+DESCRIPTION:Division: U8 Sun Spring 5 Red\nDLFC Blue U8 v Ernehale Colts U8\nKO: 10:00
+LOCATION:Greenwich Avenue NG6 0LD
+END:VEVENT
+BEGIN:VEVENT
+UID:a0dc19eb99438b008b5127bb8407e8c6@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Ernehale Colts U8 vs Hucknall Town Warriors Red U8 (Home)
+DESCRIPTION:Division: U8 Sun Spring 5 Red\nErnehale Colts U8 v Hucknall Town Warriors Red U8\nKO: 10:00
+LOCATION:King George V Park NG5 6TD
+END:VEVENT
+BEGIN:VEVENT
+UID:f9fd7cb26e06bd66cb3f87346ac611d3@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Ernehale Colts U8 vs Carlton Town Blue U8 (Home)
+DESCRIPTION:Division: U8 Sun Spring 5 Red\nErnehale Colts U8 v Carlton Town Blue U8\nKO: 10:00
+LOCATION:King George V Park NG5 6TD
+END:VEVENT
+END:VCALENDAR

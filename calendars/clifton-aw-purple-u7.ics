@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Clifton AW Purple U7
+X-WR-CALDESC:Fixtures for Clifton AW Purple U7 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:e5f7b149d5ff5c1cc116d1a5a8525a23@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T093000
+DTEND;TZID=Europe/London:20260322T103000
+SUMMARY:⚽ Clifton AW Purple U7 vs Aspire FC U7 (Away)
+DESCRIPTION:Division: U7 Sun Spring Blue\nAspire FC U7 v Clifton AW Purple U7\nKO: 09:30
+LOCATION:Nottingham Trent University NG11 8NS
+END:VEVENT
+BEGIN:VEVENT
+UID:56d8f88265adea130f70ed466e4cea3f@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Clifton AW Purple U7 vs AJ Sport Gold U7 (Home)
+DESCRIPTION:Division: U7 Sun Spring Blue\nClifton AW Purple U7 v AJ Sport Gold U7\nKO: 10:00
+LOCATION:Norman Archer Memorial Ground NG11 9AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:9d97dddb1a320929740ea6d821e513b5@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T113000
+SUMMARY:⚽ Clifton AW Purple U7 vs Attenborough Colts Blue U7 (Away)
+DESCRIPTION:Division: U7 Sun Spring Blue\nAttenborough Colts Blue U7 v Clifton AW Purple U7\nKO: 10:00
+LOCATION:Chilwell Olympia NG9 5HR
+END:VEVENT
+BEGIN:VEVENT
+UID:c59c6a5ddddc601f73d994ce950fffb5@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Clifton AW Purple U7 vs Silva FC Magpies U7 (Home)
+DESCRIPTION:Division: U7 Sun Spring Blue\nClifton AW Purple U7 v Silva FC Magpies U7\nKO: 10:00
+LOCATION:Norman Archer Memorial Ground NG11 9AZ
+END:VEVENT
+END:VCALENDAR

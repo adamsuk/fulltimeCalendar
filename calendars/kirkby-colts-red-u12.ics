@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kirkby Colts Red U12
+X-WR-CALDESC:Fixtures for Kirkby Colts Red U12 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:2b103e8e7935b8bb7601c80f64d6f6ac@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T110000
+DTEND;TZID=Europe/London:20260322T123000
+SUMMARY:⚽ Kirkby Colts Red U12 vs PMG Excel U12 (Home)
+DESCRIPTION:Division: U12 Sun Spring Div 1 Silver\nKirkby Colts Red U12 v PMG Excel U12\nKO: 11:00
+LOCATION:Cowpasture La, Recreation Grnd NG17 5DW
+END:VEVENT
+BEGIN:VEVENT
+UID:0b78fc196d1ff0be6fa8b11b86c0a6cd@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260419T110000
+DTEND;TZID=Europe/London:20260419T123000
+SUMMARY:⚽ Kirkby Colts Red U12 vs Silva FC Rushcliffe Whites U12 (Home)
+DESCRIPTION:Division: U12 Sun Spring Div 1 Silver\nKirkby Colts Red U12 v Silva FC Rushcliffe Whites U12\nKO: 11:00
+LOCATION:Cowpasture La, Recreation Grnd NG17 5DW
+END:VEVENT
+BEGIN:VEVENT
+UID:ef64966accfe395a9841fa7f5d77ec01@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260423T183000
+DTEND;TZID=Europe/London:20260423T193000
+SUMMARY:⚽ Kirkby Colts Red U12 vs Basford United Iconz U12 (Away)
+DESCRIPTION:Division: U12 Sun YEL Trophy\nBasford United Iconz U12 v Kirkby Colts Red U12\nKO: 18:30
+LOCATION:Greenwich Avenue NG6 0LD
+END:VEVENT
+BEGIN:VEVENT
+UID:b00a16171524a47e5755344d95dae2ed@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260426T110000
+DTEND;TZID=Europe/London:20260426T123000
+SUMMARY:⚽ Kirkby Colts Red U12 vs Newton & Blackwell U12 (Away)
+DESCRIPTION:Division: U12 Sun Spring Div 1 Silver\nNewton & Blackwell U12 v Kirkby Colts Red U12\nKO: 11:00
+LOCATION:Scanderlands Pavilion DE55 5JJ
+END:VEVENT
+END:VCALENDAR

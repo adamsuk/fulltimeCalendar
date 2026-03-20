@@ -7,12 +7,21 @@ X-WR-CALNAME:Be Your Best Dortmund U10
 X-WR-CALDESC:Fixtures for Be Your Best Dortmund U10 — YEL East Midlands Sunday League
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:5146350892a277c6f37f0741d5a318fa@yel-calendar
-DTSTAMP:20260320T173847Z
-DTSTART;TZID=Europe/London:26100329T100000
-DTEND;TZID=Europe/London:26100329T113000
-SUMMARY:⚽ Be Your Best Dortmund U10 vs VS (Home)
-DESCRIPTION:Division: Gonerby Blue U10\nBe Your Best Dortmund U10 v VS\nKO: 10:00
-LOCATION:
+UID:a85cc8d26ccc93d5f8d7e88d1e6c9d68@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Be Your Best Dortmund U10 vs PFA Whites U10 (Away)
+DESCRIPTION:Division: U10 Sun Spring Div 6 Red\nPFA Whites U10 v Be Your Best Dortmund U10\nKO: 10:00
+LOCATION:Dallygate Road NG33 5DP
+END:VEVENT
+BEGIN:VEVENT
+UID:ed892805b69aa556265e5cab9ee92111@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Be Your Best Dortmund U10 vs Gonerby Blue U10 (Home)
+DESCRIPTION:Division: U10 Sun Spring Div 6 Red\nBe Your Best Dortmund U10 v Gonerby Blue U10\nKO: 10:00
+LOCATION:Joseph Whitaker School NG21 0AG
 END:VEVENT
 END:VCALENDAR

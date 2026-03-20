@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Robin Hood Colts U12
+X-WR-CALDESC:Fixtures for Robin Hood Colts U12 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:03d309aa1a0390fb3ec36231ba17bd5d@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Robin Hood Colts U12 vs Ancaster Athletic U12 (Home)
+DESCRIPTION:Division: U12 Sun Spring Div 4\nRobin Hood Colts U12 v Ancaster Athletic U12\nKO: 10:00
+LOCATION:Sherwood Fields, Edwinstowe NG21 9PW
+END:VEVENT
+BEGIN:VEVENT
+UID:a02f841a53a3ed7960f7492a9a864f68@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260419T110000
+DTEND;TZID=Europe/London:20260419T123000
+SUMMARY:⚽ Robin Hood Colts U12 vs WBYFC Mavericks U12 (Away)
+DESCRIPTION:Division: U12 Sun Spring Div 4\nWBYFC Mavericks U12 v Robin Hood Colts U12\nKO: 11:00
+LOCATION:Regatta Way NG2 5AT
+END:VEVENT
+END:VCALENDAR

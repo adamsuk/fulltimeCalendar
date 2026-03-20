@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sneinton Town U13
+X-WR-CALDESC:Fixtures for Sneinton Town U13 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:3e726f5dabd560225ec1fbbfaf403531@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Sneinton Town U13 vs Moorgreen Colts Blue U13 (Away)
+DESCRIPTION:Division: U13 Sun Spring Div 1 Silver\nMoorgreen Colts Blue U13 v Sneinton Town U13\nKO: 10:00
+LOCATION:Birnham Pk A610 Estwd/Kim Bypss NG16 2DE
+END:VEVENT
+BEGIN:VEVENT
+UID:f53dc42b1d85f9e4cd4a97fbede942b0@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260419T120000
+DTEND;TZID=Europe/London:20260419T133000
+SUMMARY:⚽ Sneinton Town U13 vs Aspire U13 (Home)
+DESCRIPTION:Division: U13 Sun Spring Div 1 Silver\nSneinton Town U13 v Aspire U13\nKO: 12:00
+LOCATION:Carlton le Willows School NG4 4AA
+END:VEVENT
+BEGIN:VEVENT
+UID:d1f80d13795d583435d345f9653345d8@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260426T103000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Sneinton Town U13 vs Keyworth United Yellow U13 (Home)
+DESCRIPTION:Division: U13 Sun Spring Div 1 Silver\nSneinton Town U13 v Keyworth United Yellow U13\nKO: 10:30
+LOCATION:Carlton le Willows School NG4 4AA
+END:VEVENT
+END:VCALENDAR

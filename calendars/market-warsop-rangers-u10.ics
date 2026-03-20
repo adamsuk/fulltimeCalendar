@@ -7,12 +7,30 @@ X-WR-CALNAME:Market Warsop Rangers U10
 X-WR-CALDESC:Fixtures for Market Warsop Rangers U10 — YEL East Midlands Sunday League
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:2002a5e1572b406334486744cf4e9055@yel-calendar
-DTSTAMP:20260320T173847Z
-DTSTART;TZID=Europe/London:26100322T100000
-DTEND;TZID=Europe/London:26100322T113000
-SUMMARY:⚽ Market Warsop Rangers U10 vs VS (Home)
-DESCRIPTION:Division: Cotgrave FC Green U10\nMarket Warsop Rangers U10 v VS\nKO: 10:00
-LOCATION:
+UID:cf0840d58b54533a451a5003ea1d59bc@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Market Warsop Rangers U10 vs Cotgrave FC Green U10 (Home)
+DESCRIPTION:Division: U10 Sun Spring Div 4 Red\nMarket Warsop Rangers U10 v Cotgrave FC Green U10\nKO: 10:00
+LOCATION:John Fretwell Centre NG19 8LL
+END:VEVENT
+BEGIN:VEVENT
+UID:604b13e6926331d64377d416174e237a@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Market Warsop Rangers U10 vs Shirebrook Soldiers Warriors U10 (Away)
+DESCRIPTION:Division: U10 Sun Spring Div 4 Red\nShirebrook Soldiers Warriors U10 v Market Warsop Rangers U10\nKO: 10:00
+LOCATION:Model Village Sports Ground NG20 8RG
+END:VEVENT
+BEGIN:VEVENT
+UID:cc262ab1093395a40545c4a3ade8dbd7@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Market Warsop Rangers U10 vs Lowdham FC EB U10 (Away)
+DESCRIPTION:Division: U10 Sun Spring Div 4 Red\nLowdham FC EB U10 v Market Warsop Rangers U10\nKO: 10:00
+LOCATION:Butts Field NG13 8LE
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ATFA Brinsley Raptors U13
+X-WR-CALDESC:Fixtures for ATFA Brinsley Raptors U13 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:637865e71c3458612daef9a66dc36ca3@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T110000
+DTEND;TZID=Europe/London:20260322T123000
+SUMMARY:⚽ ATFA Brinsley Raptors U13 vs Lowdham FC Green U13 (Home)
+DESCRIPTION:Division: U13 Sun Spring Div 4 Red\nATFA Brinsley Raptors U13 v Lowdham FC Green U13\nKO: 11:00
+LOCATION:Brinsley Park NG16 5AY
+END:VEVENT
+END:VCALENDAR

@@ -7,12 +7,21 @@ X-WR-CALNAME:Silva FC Southglade Black U10
 X-WR-CALDESC:Fixtures for Silva FC Southglade Black U10 — YEL East Midlands Sunday League
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:71d4d45ebc77ef8c26f0516e55a6a5f5@yel-calendar
-DTSTAMP:20260320T173847Z
-DTSTART;TZID=Europe/London:26100322T100000
-DTEND;TZID=Europe/London:26100322T113000
-SUMMARY:⚽ Silva FC Southglade Black U10 vs VS (Home)
-DESCRIPTION:Division: Ilkeston Town Ajax U10\nSilva FC Southglade Black U10 v VS\nKO: 10:00
-LOCATION:
+UID:329b082fae756fd3d3ec93a0db746299@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Silva FC Southglade Black U10 vs Ilkeston Town Ajax U10 (Home)
+DESCRIPTION:Division: U10 Sun Spring Div 3 Red\nSilva FC Southglade Black U10 v Ilkeston Town Ajax U10\nKO: 10:00
+LOCATION:Southglade Leisure Centre NG5 5GU
+END:VEVENT
+BEGIN:VEVENT
+UID:77122eab75e7bf1e665f0a140466709c@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Silva FC Southglade Black U10 vs Hucknall Town Warriors U10 (Away)
+DESCRIPTION:Division: U10 Sun Spring Div 3 Red\nHucknall Town Warriors U10 v Silva FC Southglade Black U10\nKO: 10:00
+LOCATION:The Flying High Academy NG15 6WU
 END:VEVENT
 END:VCALENDAR

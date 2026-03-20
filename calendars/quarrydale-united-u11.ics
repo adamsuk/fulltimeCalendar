@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Quarrydale United U11
+X-WR-CALDESC:Fixtures for Quarrydale United U11 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:254cd7e73d16aae9836860d37f6d35a8@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Quarrydale United U11 vs Toton Tornados Hurricanes U11 (Home)
+DESCRIPTION:Division: U11 Sun YEL Challenge Trophy\nQuarrydale United U11 v Toton Tornados Hurricanes U11\nKO: 10:00
+LOCATION:Bentinck Miners Welfare NG17 8GS
+END:VEVENT
+BEGIN:VEVENT
+UID:bde3e8e38647441d1caee0269eb2b839@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Quarrydale United U11 vs Alfreton Town Scorpions U11 (Away)
+DESCRIPTION:Division: U11 Sun Spring Div 6 Gold\nAlfreton Town Scorpions U11 v Quarrydale United U11\nKO: 10:00
+LOCATION:David Nieper Academy DE55 7JA
+END:VEVENT
+BEGIN:VEVENT
+UID:bad95032ad3ff0784b23dbd185b4e695@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Quarrydale United U11 vs Pelican Colts U11 (Home)
+DESCRIPTION:Division: U11 Sun Spring Div 6 Gold\nQuarrydale United U11 v Pelican Colts U11\nKO: 10:00
+LOCATION:Bentinck Miners Welfare NG17 8GS
+END:VEVENT
+BEGIN:VEVENT
+UID:6e088567c0942196b998a28c44e0d201@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Quarrydale United U11 vs Carlton Town Yellow U11 (Home)
+DESCRIPTION:Division: U11 Sun Spring Div 6 Gold\nQuarrydale United U11 v Carlton Town Yellow U11\nKO: 10:00
+LOCATION:Bentinck Miners Welfare NG17 8GS
+END:VEVENT
+END:VCALENDAR

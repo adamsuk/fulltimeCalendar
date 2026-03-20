@@ -7,12 +7,21 @@ X-WR-CALNAME:West Hallam Allstars U10
 X-WR-CALDESC:Fixtures for West Hallam Allstars U10 — YEL East Midlands Sunday League
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:9572fa6856611a1272f44d68e89f8663@yel-calendar
-DTSTAMP:20260320T173847Z
-DTSTART;TZID=Europe/London:26100322T100000
-DTEND;TZID=Europe/London:26100322T113000
-SUMMARY:⚽ West Hallam Allstars U10 vs VS (Home)
-DESCRIPTION:Division: Mapperley All Stars Stripes U10\nWest Hallam Allstars U10 v VS\nKO: 10:00
-LOCATION:
+UID:9e85820e51360ace740b4e1109c571f3@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ West Hallam Allstars U10 vs Mapperley All Stars Stripes U10 (Home)
+DESCRIPTION:Division: U10 Sun Spring Div 2 Blue\nWest Hallam Allstars U10 v Mapperley All Stars Stripes U10\nKO: 10:00
+LOCATION:Stanley Village Rec Ground DE7 6FF
+END:VEVENT
+BEGIN:VEVENT
+UID:5943c2a43a90b33a521c4aad4303ac09@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260329T110000
+DTEND;TZID=Europe/London:20260329T123000
+SUMMARY:⚽ West Hallam Allstars U10 vs Basford CFC Blue U10 (Away)
+DESCRIPTION:Division: U10 Sun Spring Div 2 Blue\nBasford CFC Blue U10 v West Hallam Allstars U10\nKO: 11:00
+LOCATION:Greenwich Avenue NG6 0LD
 END:VEVENT
 END:VCALENDAR
