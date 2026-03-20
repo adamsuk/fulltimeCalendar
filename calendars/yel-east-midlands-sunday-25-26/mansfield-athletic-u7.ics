@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mansfield Athletic U7
+X-WR-CALDESC:Fixtures for Mansfield Athletic U7 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:5ebfb2590d2431020c9438529d6b5e31@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Mansfield Athletic U7 vs Alvaston Athletic White U7 (Home)
+DESCRIPTION:Division: U7 Sun Spring White\nMansfield Athletic U7 v Alvaston Athletic White U7\nKO: 10:00
+LOCATION:Unwin Road NG17 4HT
+END:VEVENT
+BEGIN:VEVENT
+UID:ddca45768420e69bde11ab39ef98cc70@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Mansfield Athletic U7 vs Vale FC U7 (Away)
+DESCRIPTION:Division: U7 Sun Spring White\nVale FC U7 v Mansfield Athletic U7\nKO: 10:00
+LOCATION:CROXTON SPORTS AND SOCIAL CLUB NG32 1QP
+END:VEVENT
+BEGIN:VEVENT
+UID:7935cccc64a7b77b0c0735f2efe8ea42@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T113000
+SUMMARY:⚽ Mansfield Athletic U7 vs WBYFC Feyanoord Black U7 (Away)
+DESCRIPTION:Division: U7 Sunday\nWBYFC Feyanoord Black U7 v Mansfield Athletic U7\nKO: 10:00
+LOCATION:Gresham Sports Pitch NG2 7YF
+END:VEVENT
+BEGIN:VEVENT
+UID:52c837918bb33cb40c62036f3f059556@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Mansfield Athletic U7 vs Sherwood FC Rangers U7 (Home)
+DESCRIPTION:Division: U7 Sun Spring White\nMansfield Athletic U7 v Sherwood FC Rangers U7\nKO: 10:00
+LOCATION:Unwin Road NG17 4HT
+END:VEVENT
+BEGIN:VEVENT
+UID:80998c1f1079002081c292189351528d@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Mansfield Athletic U7 vs Alvaston Athletic Black U7 (Home)
+DESCRIPTION:Division: U7 Sun Spring White\nMansfield Athletic U7 v Alvaston Athletic Black U7\nKO: 10:00
+LOCATION:Unwin Road NG17 4HT
+END:VEVENT
+END:VCALENDAR

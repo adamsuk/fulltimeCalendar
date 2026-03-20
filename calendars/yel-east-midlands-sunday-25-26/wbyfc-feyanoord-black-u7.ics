@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:WBYFC Feyanoord Black U7
+X-WR-CALDESC:Fixtures for WBYFC Feyanoord Black U7 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:6cfbef85c8a56a69e9873ba1b5d71f7c@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ WBYFC Feyanoord Black U7 vs Radcliffe Olympic Tigers U7 (Home)
+DESCRIPTION:Division: U7 Sun Spring Yellow\nWBYFC Feyanoord Black U7 v Radcliffe Olympic Tigers U7\nKO: 10:00
+LOCATION:Gresham Sports Pitch NG2 7YF
+END:VEVENT
+BEGIN:VEVENT
+UID:e700c923301deb8ee6bb5696872aa0ae@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ WBYFC Feyanoord Black U7 vs WBYFC Feyanoord Red U7 (Away)
+DESCRIPTION:Division: U7 Sun Spring Yellow\nWBYFC Feyanoord Red U7 v WBYFC Feyanoord Black U7\nKO: 10:00
+LOCATION:Gresham Sports Pitch NG2 7YF
+END:VEVENT
+BEGIN:VEVENT
+UID:7935cccc64a7b77b0c0735f2efe8ea42@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T113000
+SUMMARY:⚽ WBYFC Feyanoord Black U7 vs Mansfield Athletic U7 (Home)
+DESCRIPTION:Division: U7 Sunday\nWBYFC Feyanoord Black U7 v Mansfield Athletic U7\nKO: 10:00
+LOCATION:Gresham Sports Pitch NG2 7YF
+END:VEVENT
+BEGIN:VEVENT
+UID:3deeefa92c08e0c98c8352297e4fa2eb@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ WBYFC Feyanoord Black U7 vs DLFC Red U7 (Away)
+DESCRIPTION:Division: U7 Sun Spring Yellow\nDLFC Red U7 v WBYFC Feyanoord Black U7\nKO: 10:00
+LOCATION:Greenwich Avenue NG6 0LD
+END:VEVENT
+BEGIN:VEVENT
+UID:f3054e711ef845bae561ef682b57409b@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ WBYFC Feyanoord Black U7 vs Moorgreen Colts Blue U7 (Away)
+DESCRIPTION:Division: U7 Sun Spring Yellow\nMoorgreen Colts Blue U7 v WBYFC Feyanoord Black U7\nKO: 10:00
+LOCATION:Birnham Pk A610 Estwd/Kim Bypss NG16 2DE
+END:VEVENT
+END:VCALENDAR

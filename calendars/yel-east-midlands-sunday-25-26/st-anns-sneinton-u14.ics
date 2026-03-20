@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:St Anns & Sneinton U14
+X-WR-CALDESC:Fixtures for St Anns & Sneinton U14 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:d7c9b21608a5c280868fda7d99bb20a9@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260322T110000
+DTEND;TZID=Europe/London:20260322T123000
+SUMMARY:⚽ St Anns & Sneinton U14 vs Breaston Park Green U14 (Home)
+DESCRIPTION:Division: U14 Sun Spring Div 3 Blue\nSt Anns & Sneinton U14 v Breaston Park Green U14\nKO: 11:00
+LOCATION:Sycamore Field NG3 4QP
+END:VEVENT
+BEGIN:VEVENT
+UID:07b71f8b122ee1c42f01556254674733@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260426T110000
+DTEND;TZID=Europe/London:20260426T123000
+SUMMARY:⚽ St Anns & Sneinton U14 vs Eastwood Athletic Vipers U14 (Home)
+DESCRIPTION:Division: U14 Sun Spring Div 3 Blue\nSt Anns & Sneinton U14 v Eastwood Athletic Vipers U14\nKO: 11:00
+LOCATION:Sycamore Field NG3 4QP
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Attenborough Colts Blue U14
+X-WR-CALDESC:Fixtures for Attenborough Colts Blue U14 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:753a56647ca74cc3caf60c702d2544f2@yel-calendar
+DTSTAMP:20260320T203231Z
+DTSTART;TZID=Europe/London:20260321T100000
+DTEND;TZID=Europe/London:20260321T113000
+SUMMARY:⚽ Attenborough Colts Blue U14 vs Priory Celtic White U14 (Home)
+DESCRIPTION:Division: U14 Sat Spring Div 4 Blue\nAttenborough Colts Blue U14 v Priory Celtic White U14\nKO: 10:00
+LOCATION:Chilwell Olympia NG9 5HR
+END:VEVENT
+BEGIN:VEVENT
+UID:f487b3c12d7408441bc6990dcafb37ee@yel-calendar
+DTSTAMP:20260320T203231Z
+DTSTART;TZID=Europe/London:20260328T100000
+DTEND;TZID=Europe/London:20260328T113000
+SUMMARY:⚽ Attenborough Colts Blue U14 vs Stanton Ilkeston Mustangs U14 (Home)
+DESCRIPTION:Division: U14 Sat Spring Div 4 Blue\nAttenborough Colts Blue U14 v Stanton Ilkeston Mustangs U14\nKO: 10:00
+LOCATION:Chilwell Olympia NG9 5HR
+END:VEVENT
+BEGIN:VEVENT
+UID:b70db2d88d35ad16d439c63f6db35653@yel-calendar
+DTSTAMP:20260320T203231Z
+DTSTART;TZID=Europe/London:20260414T180000
+DTEND;TZID=Europe/London:20260414T193000
+SUMMARY:⚽ Attenborough Colts Blue U14 vs Beeston FC U14 (Away)
+DESCRIPTION:Division: U14 Sat YEL Inter Cup\nBeeston FC U14 v Attenborough Colts Blue U14\nKO: 18:00
+LOCATION:Trent Vale Sports Ground  NG9 1ND
+END:VEVENT
+BEGIN:VEVENT
+UID:877497fbe52ae2fdf1a55f8b93259dff@yel-calendar
+DTSTAMP:20260320T203231Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Attenborough Colts Blue U14 vs Attenborough Colts Yellow U14 (Away)
+DESCRIPTION:Division: U14 Sat Spring Div 4 Blue\nAttenborough Colts Yellow U14 v Attenborough Colts Blue U14\nKO: 10:00
+LOCATION:Chilwell Olympia NG9 5HR
+END:VEVENT
+END:VCALENDAR

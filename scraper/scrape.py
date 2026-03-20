@@ -1,6 +1,6 @@
 """
-YEL East Midlands Sunday League — Full-Time fixture scraper
-Generates one .ics file per team across all configured divisions.
+YEL East Midlands — Full-Time fixture scraper
+Generates one .ics file per team across all configured leagues/seasons.
 """
 
 import os
@@ -22,9 +22,14 @@ log = logging.getLogger(__name__)
 # Config
 # ---------------------------------------------------------------------------
 
-# This URL defaults to the current season and returns all age groups.
-# The path segments are /fixtures/{page}/{itemsPerPage}.html
-FIXTURES_URL = "https://fulltime.thefa.com/fixtures/1/100000.html"
+BASE_URL = "https://fulltime.thefa.com/fixtures/1/100000.html"
+
+# Each league is identified by its selectedSeason parameter on Full-Time.
+# Update these season IDs at the start of each new season.
+LEAGUES: list[tuple[str, str]] = [
+    ("909330396", "YEL East Midlands Sunday 25/26"),
+    ("161954265", "YEL East Midlands Saturday 25/26"),
+]
 
 OUTPUT_DIR = Path(__file__).parent.parent / "calendars"
 OUTPUT_DIR.mkdir(exist_ok=True)
@@ -52,9 +57,10 @@ class Fixture(NamedTuple):
 # Scraping
 # ---------------------------------------------------------------------------
 
-def fetch_fixtures() -> list[Fixture]:
-    """Fetch all fixtures (all age groups, current season) in a single request."""
-    log.info(f"Fetching fixtures from {FIXTURES_URL} ...")
+def fetch_fixtures(season_id: str, league_name: str) -> list[Fixture]:
+    """Fetch all fixtures for a given season/league in a single request."""
+    url = f"{BASE_URL}?selectedSeason={season_id}"
+    log.info(f"Fetching {league_name} from {url} ...")
 
     # Use SOCKS5 proxy if configured (e.g. Tor on 127.0.0.1:9050 in CI)
     proxy = os.environ.get("SOCKS_PROXY")
@@ -64,7 +70,7 @@ def fetch_fixtures() -> list[Fixture]:
     for attempt in range(1, HTTP_RETRIES + 1):
         try:
             with curl_requests.Session(impersonate="chrome", proxies=proxies) as session:
-                resp = session.get(FIXTURES_URL, timeout=HTTP_TIMEOUT)
+                resp = session.get(url, timeout=HTTP_TIMEOUT)
                 resp.raise_for_status()
 
                 return parse_fixtures(resp.text)
@@ -188,11 +194,11 @@ def slug(name: str) -> str:
 VCALENDAR_HEADER = """\
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:{cal_name}
-X-WR-CALDESC:Fixtures for {cal_name} — YEL East Midlands Sunday League
+X-WR-CALDESC:Fixtures for {cal_name} — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 """
 
@@ -277,32 +283,39 @@ def fixtures_to_ics(team_name: str, fixtures: list[Fixture]) -> str:
 # ---------------------------------------------------------------------------
 
 def main() -> None:
-    try:
-        all_fixtures = fetch_fixtures()
-    except Exception as e:
-        log.error(f"Failed to fetch fixtures: {e}")
-        all_fixtures = []
+    total_teams = 0
+    for season_id, league_name in LEAGUES:
+        try:
+            fixtures = fetch_fixtures(season_id, league_name)
+        except Exception as e:
+            log.error(f"Failed to fetch {league_name}: {e}")
+            continue
 
-    if not all_fixtures:
-        log.warning("No fixtures found — check division config and page structure.")
-        return
+        if not fixtures:
+            log.warning(f"No fixtures found for {league_name}")
+            continue
 
-    # Group by team name (appears as home or away)
-    teams: dict[str, list[Fixture]] = {}
-    for f in all_fixtures:
-        for team in (f.home_team, f.away_team):
-            if team:
-                teams.setdefault(team, []).append(f)
+        # Group by team name (appears as home or away)
+        teams: dict[str, list[Fixture]] = {}
+        for f in fixtures:
+            for team in (f.home_team, f.away_team):
+                if team:
+                    teams.setdefault(team, []).append(f)
 
-    log.info(f"\nFound {len(teams)} teams across {len(all_fixtures)} fixtures")
+        league_dir = OUTPUT_DIR / slug(league_name)
+        league_dir.mkdir(parents=True, exist_ok=True)
 
-    for team_name, team_fixtures in sorted(teams.items()):
-        ics_content = fixtures_to_ics(team_name, team_fixtures)
-        filename = OUTPUT_DIR / f"{slug(team_name)}.ics"
-        filename.write_text(ics_content, encoding="utf-8")
-        log.info(f"  Written {filename.name} ({len(team_fixtures)} fixtures)")
+        log.info(f"  {len(teams)} teams, writing to {league_dir}/")
 
-    log.info(f"\nDone — {len(teams)} .ics files written to {OUTPUT_DIR}/")
+        for team_name, team_fixtures in sorted(teams.items()):
+            ics_content = fixtures_to_ics(team_name, team_fixtures)
+            filename = league_dir / f"{slug(team_name)}.ics"
+            filename.write_text(ics_content, encoding="utf-8")
+            log.info(f"    {filename.name} ({len(team_fixtures)} fixtures)")
+
+        total_teams += len(teams)
+
+    log.info(f"\nDone — {total_teams} team calendars written across {len(LEAGUES)} leagues")
 
 
 if __name__ == "__main__":

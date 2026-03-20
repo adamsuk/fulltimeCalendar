@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Attenborough Colts Green U8
+X-WR-CALDESC:Fixtures for Attenborough Colts Green U8 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:ed46851fb5b5eb71dfd86a686ebf1ef5@yel-calendar
+DTSTAMP:20260320T203228Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Attenborough Colts Green U8 vs West Hallam Dragons U8 (Away)
+DESCRIPTION:Division: U8 Sun Spring 5 Blue\nWest Hallam Dragons U8 v Attenborough Colts Green U8\nKO: 10:00
+LOCATION:Beech Lane DE7 6JY
+END:VEVENT
+BEGIN:VEVENT
+UID:2d04bdd44c5dec248ec516b62d673934@yel-calendar
+DTSTAMP:20260320T203228Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Attenborough Colts Green U8 vs Clifton AW Diamonds U8 (Home)
+DESCRIPTION:Division: U8 Sun Spring 5 Blue\nAttenborough Colts Green U8 v Clifton AW Diamonds U8\nKO: 10:00
+LOCATION:Chilwell Olympia NG9 5HR
+END:VEVENT
+BEGIN:VEVENT
+UID:d0fcb7947686a2b3fc605f6287271341@yel-calendar
+DTSTAMP:20260320T203228Z
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T113000
+SUMMARY:⚽ Attenborough Colts Green U8 vs East Leake White U8 (Home)
+DESCRIPTION:Division: U8 Sun Spring 5 Blue\nAttenborough Colts Green U8 v East Leake White U8\nKO: 10:00
+LOCATION:Chilwell Olympia NG9 5HR
+END:VEVENT
+BEGIN:VEVENT
+UID:64aad3a783deb8e3dd2868a60f7e507d@yel-calendar
+DTSTAMP:20260320T203228Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Attenborough Colts Green U8 vs WBYFC Valour Red U8 (Away)
+DESCRIPTION:Division: U8 Sun Spring 5 Blue\nWBYFC Valour Red U8 v Attenborough Colts Green U8\nKO: 10:00
+LOCATION:Alford Road, NG2 6HP
+END:VEVENT
+BEGIN:VEVENT
+UID:cbb52764a8f409ca1fff2a6b4a145548@yel-calendar
+DTSTAMP:20260320T203228Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Attenborough Colts Green U8 vs West Hallam Pumas U8 (Away)
+DESCRIPTION:Division: U8 Sun Spring 5 Blue\nWest Hallam Pumas U8 v Attenborough Colts Green U8\nKO: 10:00
+LOCATION:Beech Lane DE7 6JY
+END:VEVENT
+END:VCALENDAR

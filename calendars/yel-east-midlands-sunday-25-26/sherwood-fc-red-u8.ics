@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sherwood FC Red U8
+X-WR-CALDESC:Fixtures for Sherwood FC Red U8 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:e2e150ce3060bcf266798f39d29a05c3@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260322T110000
+DTEND;TZID=Europe/London:20260322T123000
+SUMMARY:⚽ Sherwood FC Red U8 vs Hucknall Sports Red U8 (Away)
+DESCRIPTION:Division: U8 Sun Spring 3 Red\nHucknall Sports Red U8 v Sherwood FC Red U8\nKO: 11:00
+LOCATION:Goosedale Sport Club NG6 8UJ
+END:VEVENT
+BEGIN:VEVENT
+UID:6185c14be03b32c6b9bdc50f47a4668b@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Sherwood FC Red U8 vs Priory Celtic Hoops U8 (Home)
+DESCRIPTION:Division: U8 Sun Spring 3 Red\nSherwood FC Red U8 v Priory Celtic Hoops U8\nKO: 10:00
+LOCATION:Forest Sports Zone NG7 6LD
+END:VEVENT
+BEGIN:VEVENT
+UID:3846288b85d643b7f4f701c9016c2eb6@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T113000
+SUMMARY:⚽ Sherwood FC Red U8 vs Quarrydale United U8 (Away)
+DESCRIPTION:Division: U8 Sun Spring 3 Red\nQuarrydale United U8 v Sherwood FC Red U8\nKO: 10:00
+LOCATION:Bentinck Miners Welfare NG17 8GS
+END:VEVENT
+BEGIN:VEVENT
+UID:54ac1622a5d1c88b206abd5301c9d45f@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Sherwood FC Red U8 vs Barrowby FC Black U8 (Home)
+DESCRIPTION:Division: U8 Sun Spring 3 Red\nSherwood FC Red U8 v Barrowby FC Black U8\nKO: 10:00
+LOCATION:Forest Sports Zone NG7 6LD
+END:VEVENT
+BEGIN:VEVENT
+UID:60db5e4c32e8f14be4ee652ffda1418d@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Sherwood FC Red U8 vs Shirebrook Rangers U8 (Away)
+DESCRIPTION:Division: U8 Sun Spring 3 Red\nShirebrook Rangers U8 v Sherwood FC Red U8\nKO: 10:00
+LOCATION:Shirebrook Academy NG20 8QF
+END:VEVENT
+END:VCALENDAR

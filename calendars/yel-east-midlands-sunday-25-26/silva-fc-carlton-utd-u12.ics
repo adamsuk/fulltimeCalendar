@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Silva FC Carlton UTD U12
+X-WR-CALDESC:Fixtures for Silva FC Carlton UTD U12 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:cf605f616a5d140f8227641965c15903@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260329T111500
+DTEND;TZID=Europe/London:20260329T123000
+SUMMARY:⚽ Silva FC Carlton UTD U12 vs Mansfield Town Grassroots Blue U12 (Home)
+DESCRIPTION:Division: U12 Sun Spring Premier Division\nSilva FC Carlton UTD U12 v Mansfield Town Grassroots Blue U12\nKO: 11:15
+LOCATION:Carlton Football Centre (3G) NG4 3SH
+END:VEVENT
+BEGIN:VEVENT
+UID:3e552cd5c829da299164a0a1328bb524@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260419T110000
+DTEND;TZID=Europe/London:20260419T123000
+SUMMARY:⚽ Silva FC Carlton UTD U12 vs Dunkirk U12 (Away)
+DESCRIPTION:Division: U12 Sun Spring Premier Division\nDunkirk U12 v Silva FC Carlton UTD U12\nKO: 11:00
+LOCATION:Ron Steel Sports Ground NG7 2SA
+END:VEVENT
+END:VCALENDAR

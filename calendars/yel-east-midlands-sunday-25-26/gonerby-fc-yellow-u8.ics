@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gonerby FC Yellow U8
+X-WR-CALDESC:Fixtures for Gonerby FC Yellow U8 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:d2eedc203f6c5ec8bd5027638ec5b622@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Gonerby FC Yellow U8 vs NG United U8 (Away)
+DESCRIPTION:Division: U8 Sun Spring 4 Blue\nNG United U8 v Gonerby FC Yellow U8\nKO: 10:00
+LOCATION:Robin Hood Road NG5 8NP
+END:VEVENT
+BEGIN:VEVENT
+UID:a598013960b8dd019a68668a94de3e27@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Gonerby FC Yellow U8 vs Carlton Town Yellow U8 (Home)
+DESCRIPTION:Division: U8 Sun Spring 4 Blue\nGonerby FC Yellow U8 v Carlton Town Yellow U8\nKO: 10:00
+LOCATION:Gonerby Recreation Ground NG31 8PP
+END:VEVENT
+BEGIN:VEVENT
+UID:0fdb927f22d2b299689eb4a6b5e47b27@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T113000
+SUMMARY:⚽ Gonerby FC Yellow U8 vs Nottingham FC Green U8 (Away)
+DESCRIPTION:Division: U8 Sun Spring 4 Blue\nNottingham FC Green U8 v Gonerby FC Yellow U8\nKO: 10:00
+LOCATION:Melbourne Park NG8 5HL
+END:VEVENT
+BEGIN:VEVENT
+UID:df01356acf6ced50678b588461c04e07@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Gonerby FC Yellow U8 vs Gedling Southbank Lions U8 (Home)
+DESCRIPTION:Division: U8 Sun Spring 4 Blue\nGonerby FC Yellow U8 v Gedling Southbank Lions U8\nKO: 10:00
+LOCATION:Gonerby Recreation Ground NG31 8PP
+END:VEVENT
+BEGIN:VEVENT
+UID:0efa9ca0eb16100005ccf06d0411afbe@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Gonerby FC Yellow U8 vs WBYFC Valour Black U8 (Home)
+DESCRIPTION:Division: U8 Sun Spring 4 Blue\nGonerby FC Yellow U8 v WBYFC Valour Black U8\nKO: 10:00
+LOCATION:Gonerby Recreation Ground NG31 8PP
+END:VEVENT
+END:VCALENDAR

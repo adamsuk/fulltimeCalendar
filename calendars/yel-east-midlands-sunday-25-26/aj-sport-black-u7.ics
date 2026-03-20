@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AJ Sport Black U7
+X-WR-CALDESC:Fixtures for AJ Sport Black U7 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:90eb35f22d20a37f3145678ba7f8e25c@yel-calendar
+DTSTAMP:20260320T203228Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ AJ Sport Black U7 vs East Leake Bantams Black U7 (Away)
+DESCRIPTION:Division: U7 Sunday\nEast Leake Bantams Black U7 v AJ Sport Black U7\nKO: 10:00
+LOCATION:Costock Road LE12 6LY
+END:VEVENT
+BEGIN:VEVENT
+UID:5fa7ff27b9f41956f99a13e5efba03f6@yel-calendar
+DTSTAMP:20260320T203228Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ AJ Sport Black U7 vs Sherwood FC Rangers U7 (Home)
+DESCRIPTION:Division: U7 Sun Spring White\nAJ Sport Black U7 v Sherwood FC Rangers U7\nKO: 10:00
+LOCATION:Beeston Fields Recreation Ground NG9 2QE
+END:VEVENT
+BEGIN:VEVENT
+UID:2a8ca6f8a246a24131dcb0245e1ec89e@yel-calendar
+DTSTAMP:20260320T203228Z
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T113000
+SUMMARY:⚽ AJ Sport Black U7 vs Alvaston Athletic Black U7 (Away)
+DESCRIPTION:Division: U7 Sun Spring White\nAlvaston Athletic Black U7 v AJ Sport Black U7\nKO: 10:00
+LOCATION:Derby Moor Academy DE23 2FS
+END:VEVENT
+BEGIN:VEVENT
+UID:abffeda21d9f6deda6abacf2e23ad548@yel-calendar
+DTSTAMP:20260320T203228Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ AJ Sport Black U7 vs Vale FC U7 (Home)
+DESCRIPTION:Division: U7 Sun Spring White\nAJ Sport Black U7 v Vale FC U7\nKO: 10:00
+LOCATION:Beeston Fields Recreation Ground NG9 2QE
+END:VEVENT
+BEGIN:VEVENT
+UID:79c3e2179455c9ceef6bacd5c8705bc7@yel-calendar
+DTSTAMP:20260320T203228Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ AJ Sport Black U7 vs Castle Donington Jets U7 (Home)
+DESCRIPTION:Division: U7 Sun Spring White\nAJ Sport Black U7 v Castle Donington Jets U7\nKO: 10:00
+LOCATION:Beeston Fields Recreation Ground NG9 2QE
+END:VEVENT
+END:VCALENDAR

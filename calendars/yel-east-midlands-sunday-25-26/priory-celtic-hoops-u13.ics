@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Priory Celtic Hoops U13
+X-WR-CALDESC:Fixtures for Priory Celtic Hoops U13 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:33bea1a75b2f08c8e825d8f2e893c4d1@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260322T113000
+DTEND;TZID=Europe/London:20260322T123000
+SUMMARY:⚽ Priory Celtic Hoops U13 vs Pelican Colts Blue U13 (Home)
+DESCRIPTION:Division: U13 Sun YEL Trophy\nPriory Celtic Hoops U13 v Pelican Colts Blue U13\nKO: 11:30
+LOCATION:Kimberley Leisure Centre NG16 2NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:401caa2b775da5a24880be7439bc14d8@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Priory Celtic Hoops U13 vs Mickleover FC Juniors Phoenix U13 (Away)
+DESCRIPTION:Division: U13 Sun Spring Div 2 Blue\nMickleover FC Juniors Phoenix U13 v Priory Celtic Hoops U13\nKO: 10:00
+LOCATION:Varsity Grange Football Complex DE3 9EB
+END:VEVENT
+BEGIN:VEVENT
+UID:7434c73a6a5d141bc7fd2ba80099d80b@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Priory Celtic Hoops U13 vs Castle Don Barbarians U13 (Away)
+DESCRIPTION:Division: U13 Sun Spring Div 2 Blue\nCastle Don Barbarians U13 v Priory Celtic Hoops U13\nKO: 10:00
+LOCATION:Spital Park DE742NQ
+END:VEVENT
+BEGIN:VEVENT
+UID:498c18070c889998af294bd855264656@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Priory Celtic Hoops U13 vs WBYFC Atlantis U13 (Away)
+DESCRIPTION:Division: U13 Sun Spring Div 2 Blue\nWBYFC Atlantis U13 v Priory Celtic Hoops U13\nKO: 10:00
+LOCATION:Riverside Complex NG7 2SA
+END:VEVENT
+END:VCALENDAR

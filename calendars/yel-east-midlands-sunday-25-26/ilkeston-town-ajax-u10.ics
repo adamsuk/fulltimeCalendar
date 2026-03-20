@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ilkeston Town Ajax U10
+X-WR-CALDESC:Fixtures for Ilkeston Town Ajax U10 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:329b082fae756fd3d3ec93a0db746299@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Ilkeston Town Ajax U10 vs Silva FC Southglade Black U10 (Away)
+DESCRIPTION:Division: U10 Sun Spring Div 3 Red\nSilva FC Southglade Black U10 v Ilkeston Town Ajax U10\nKO: 10:00
+LOCATION:Southglade Leisure Centre NG5 5GU
+END:VEVENT
+BEGIN:VEVENT
+UID:8baba77eeac66022921ea655857081b3@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260329T111500
+DTEND;TZID=Europe/London:20260329T123000
+SUMMARY:⚽ Ilkeston Town Ajax U10 vs Quarrydale United U10 (Home)
+DESCRIPTION:Division: U10 Sun Spring Div 3 Red\nIlkeston Town Ajax U10 v Quarrydale United U10\nKO: 11:15
+LOCATION:New Manor Ground DE7 8JF
+END:VEVENT
+END:VCALENDAR

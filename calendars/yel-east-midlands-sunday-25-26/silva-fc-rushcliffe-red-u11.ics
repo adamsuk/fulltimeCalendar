@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Silva FC Rushcliffe Red U11
+X-WR-CALDESC:Fixtures for Silva FC Rushcliffe Red U11 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:1a43a6582f7cfab6119e56fec51f0125@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260322T123000
+DTEND;TZID=Europe/London:20260322T133000
+SUMMARY:⚽ Silva FC Rushcliffe Red U11 vs DLFC Teal U11 (Away)
+DESCRIPTION:Division: U11 Sun Spring Div 5 Blue\nDLFC Teal U11 v Silva FC Rushcliffe Red U11\nKO: 12:30
+LOCATION:Mellish Sports Centre NG6 9FH
+END:VEVENT
+BEGIN:VEVENT
+UID:822a6cf9e29445ff513e6317eb0aa16d@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260419T110000
+DTEND;TZID=Europe/London:20260419T123000
+SUMMARY:⚽ Silva FC Rushcliffe Red U11 vs Willow Wanderers Harriers U11 (Home)
+DESCRIPTION:Division: U11 Sun YEL Foundation Shield\nSilva FC Rushcliffe Red U11 v Willow Wanderers Harriers U11\nKO: 11:00
+LOCATION:Rushcliffe School NG2 7BZ
+END:VEVENT
+END:VCALENDAR

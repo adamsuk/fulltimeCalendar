@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ilkeston Town White Star U14
+X-WR-CALDESC:Fixtures for Ilkeston Town White Star U14 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:6f7cb1551564ebf6ffd077259e528326@yel-calendar
+DTSTAMP:20260320T203231Z
+DTSTART;TZID=Europe/London:20260328T114000
+DTEND;TZID=Europe/London:20260328T123000
+SUMMARY:⚽ Ilkeston Town White Star U14 vs Clifton All Whites White U14 (Home)
+DESCRIPTION:Division: u14 Sat Spring Div 1 Gold\nIlkeston Town White Star U14 v Clifton All Whites White U14\nKO: 11:40
+LOCATION:Booths Playing Fields, Ilkeston DE7 8JF
+END:VEVENT
+BEGIN:VEVENT
+UID:91d9930f961a342300a24a62486a9b81@yel-calendar
+DTSTAMP:20260320T203231Z
+DTSTART;TZID=Europe/London:20260418T113000
+DTEND;TZID=Europe/London:20260418T123000
+SUMMARY:⚽ Ilkeston Town White Star U14 vs WBYFC Giants U14 (Home)
+DESCRIPTION:Division: U14 Sat YEL Cup\nIlkeston Town White Star U14 v WBYFC Giants U14\nKO: 11:30
+LOCATION:New Manor Ground DE7 8JF
+END:VEVENT
+BEGIN:VEVENT
+UID:f2446ea0d8b96927e1a1e1cbeb268646@yel-calendar
+DTSTAMP:20260320T203231Z
+DTSTART;TZID=Europe/London:20260421T180000
+DTEND;TZID=Europe/London:20260421T193000
+SUMMARY:⚽ Ilkeston Town White Star U14 vs Eastwood CFC Aces U14 (Away)
+DESCRIPTION:Division: u14 Sat Spring Div 1 Gold\nEastwood CFC Aces U14 v Ilkeston Town White Star U14\nKO: 18:00
+LOCATION:Coronation Park  NG16 3HB
+END:VEVENT
+BEGIN:VEVENT
+UID:8a3ea63e69eb24d2d716e382b676d4b2@yel-calendar
+DTSTAMP:20260320T203231Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T113000
+SUMMARY:⚽ Ilkeston Town White Star U14 vs Ashby United Mavericks U14 (Away)
+DESCRIPTION:Division: u14 Sat Spring Div 1 Gold\nAshby United Mavericks U14 v Ilkeston Town White Star U14\nKO: 10:00
+LOCATION:School House LE65 1DH
+END:VEVENT
+BEGIN:VEVENT
+UID:f2e5522f357e1ab73a951289baab7f54@yel-calendar
+DTSTAMP:20260320T203231Z
+DTSTART;TZID=Europe/London:20260428T180000
+DTEND;TZID=Europe/London:20260428T193000
+SUMMARY:⚽ Ilkeston Town White Star U14 vs Meden Vale Colts Red U14 (Home)
+DESCRIPTION:Division: u14 Sat Spring Div 1 Gold\nIlkeston Town White Star U14 v Meden Vale Colts Red U14\nKO: 18:00
+LOCATION:New Manor Ground DE7 8JF
+END:VEVENT
+END:VCALENDAR

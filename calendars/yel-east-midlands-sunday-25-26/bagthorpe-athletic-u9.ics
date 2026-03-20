@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bagthorpe Athletic U9
+X-WR-CALDESC:Fixtures for Bagthorpe Athletic U9 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:1c3e65762707d576113c84f378b68b30@yel-calendar
+DTSTAMP:20260320T203228Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Bagthorpe Athletic U9 vs Alfreton Town Lions U9 (Home)
+DESCRIPTION:Division: U9 Sun Spring Div 4 Red\nBagthorpe Athletic U9 v Alfreton Town Lions U9\nKO: 10:00
+LOCATION:Dixies Arms Park NG16 5HF
+END:VEVENT
+BEGIN:VEVENT
+UID:5049ee8178f9ebfc4d967c606cf991dc@yel-calendar
+DTSTAMP:20260320T203228Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Bagthorpe Athletic U9 vs Sherwood Colliery Stags U9 (Away)
+DESCRIPTION:Division: U9 Sun Spring Div 4 Red\nSherwood Colliery Stags U9 v Bagthorpe Athletic U9\nKO: 10:00
+LOCATION:Debdale Park & Sports Ground NG19 7NS
+END:VEVENT
+BEGIN:VEVENT
+UID:13f5c59146a05081e978aaac23dce552@yel-calendar
+DTSTAMP:20260320T203228Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Bagthorpe Athletic U9 vs Beaufort United White U9 (Home)
+DESCRIPTION:Division: U9 Sun Spring Div 4 Red\nBagthorpe Athletic U9 v Beaufort United White U9\nKO: 10:00
+LOCATION:Dixies Arms Park NG16 5HF
+END:VEVENT
+END:VCALENDAR

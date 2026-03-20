@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Riverside FC Real U12
+X-WR-CALDESC:Fixtures for Riverside FC Real U12 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:a1656de2356ead488a1d039523ffd958@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260322T103000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Riverside FC Real U12 vs Quarrydale United U12 (Home)
+DESCRIPTION:Division: U12 Sun YEL Challenge Trophy\nRiverside FC Real U12 v Quarrydale United U12\nKO: 10:30
+LOCATION:Melbourne Court NG10 3EE
+END:VEVENT
+BEGIN:VEVENT
+UID:75cbaa06012b6f0d939ed6977eee1eea@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260329T110000
+DTEND;TZID=Europe/London:20260329T123000
+SUMMARY:⚽ Riverside FC Real U12 vs Chesterfield Town Blue U12 (Home)
+DESCRIPTION:Division: U12 Sun Spring Div 5\nRiverside FC Real U12 v Chesterfield Town Blue U12\nKO: 11:00
+LOCATION:Melbourne Court NG10 3EE
+END:VEVENT
+BEGIN:VEVENT
+UID:6751eefdf7b1b2bb4444bb79a7e29d38@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260423T180000
+DTEND;TZID=Europe/London:20260423T193000
+SUMMARY:⚽ Riverside FC Real U12 vs Castle Donington Tigers U12 (Home)
+DESCRIPTION:Division: U12 Sun Spring Div 5\nRiverside FC Real U12 v Castle Donington Tigers U12\nKO: 18:00
+LOCATION:Melbourne Court NG10 3EE
+END:VEVENT
+BEGIN:VEVENT
+UID:d8e540aa7dba721d7d02bd8a86a61cfd@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260426T103000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Riverside FC Real U12 vs Quarrydale United U12 (Away)
+DESCRIPTION:Division: U12 Sun Spring Div 5\nQuarrydale United U12 v Riverside FC Real U12\nKO: 10:30
+LOCATION:Bentinck Miners Welfare NG17 8GS
+END:VEVENT
+END:VCALENDAR

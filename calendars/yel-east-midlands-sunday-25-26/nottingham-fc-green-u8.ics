@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nottingham FC Green U8
+X-WR-CALDESC:Fixtures for Nottingham FC Green U8 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:ad12aa50fca778c1c6e66bbc67aebb70@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Nottingham FC Green U8 vs Gedling Southbank Lions U8 (Home)
+DESCRIPTION:Division: U8 Sun Spring 4 Blue\nNottingham FC Green U8 v Gedling Southbank Lions U8\nKO: 10:00
+LOCATION:Melbourne Park NG8 5HL
+END:VEVENT
+BEGIN:VEVENT
+UID:7beb3f5b9b6c76837a06717af4cac40e@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Nottingham FC Green U8 vs Inspire Nottingham White U8 (Away)
+DESCRIPTION:Division: U8 Sun Spring 4 Blue\nInspire Nottingham White U8 v Nottingham FC Green U8\nKO: 10:00
+LOCATION:Powerleague Nottingham Arnold NG5 6NZ
+END:VEVENT
+BEGIN:VEVENT
+UID:0fdb927f22d2b299689eb4a6b5e47b27@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T113000
+SUMMARY:⚽ Nottingham FC Green U8 vs Gonerby FC Yellow U8 (Home)
+DESCRIPTION:Division: U8 Sun Spring 4 Blue\nNottingham FC Green U8 v Gonerby FC Yellow U8\nKO: 10:00
+LOCATION:Melbourne Park NG8 5HL
+END:VEVENT
+BEGIN:VEVENT
+UID:d32f71d1ddbb0db9e28e410285f9db2d@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Nottingham FC Green U8 vs WBYFC Valour Black U8 (Away)
+DESCRIPTION:Division: U8 Sun Spring 4 Blue\nWBYFC Valour Black U8 v Nottingham FC Green U8\nKO: 10:00
+LOCATION:Alford Road, NG2 6HP
+END:VEVENT
+BEGIN:VEVENT
+UID:3d02510a37c5de14cfecb09f91bab37e@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Nottingham FC Green U8 vs Mapperley All Stars Yellow U8 (Away)
+DESCRIPTION:Division: U8 Sun Spring 4 Blue\nMapperley All Stars Yellow U8 v Nottingham FC Green U8\nKO: 10:00
+LOCATION:Colwick Recreation Ground NG4 2DW
+END:VEVENT
+END:VCALENDAR

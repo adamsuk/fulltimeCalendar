@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sandiacre Town Cyclones U12
+X-WR-CALDESC:Fixtures for Sandiacre Town Cyclones U12 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:2463b9588833c6cb44edf6693c4a2a19@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260322T094500
+DTEND;TZID=Europe/London:20260322T103000
+SUMMARY:⚽ Sandiacre Town Cyclones U12 vs Woodborough Celtic U12 (Home)
+DESCRIPTION:Division: U12 Sun Spring Div 6 Gold\nSandiacre Town Cyclones U12 v Woodborough Celtic U12\nKO: 09:45
+LOCATION:Friesland School NG10 5AF
+END:VEVENT
+BEGIN:VEVENT
+UID:ac50be0920653a86fe9afdcd7e14701a@yel-calendar
+DTSTAMP:20260320T203229Z
+DTSTART;TZID=Europe/London:20260419T110000
+DTEND;TZID=Europe/London:20260419T123000
+SUMMARY:⚽ Sandiacre Town Cyclones U12 vs Beeston Park Rangers U12 (Away)
+DESCRIPTION:Division: U12 Sun Spring Div 6 Gold\nBeeston Park Rangers U12 v Sandiacre Town Cyclones U12\nKO: 11:00
+LOCATION:Weirfields NG9 1LX
+END:VEVENT
+END:VCALENDAR
