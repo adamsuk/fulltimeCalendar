@@ -137,9 +137,32 @@ def parse_fixtures(html: str, division_label: str) -> list[Fixture]:
     current_date = ""
     current_time = ""
 
+    # Debug: log page structure to understand HTML layout
+    tables = soup.find_all("table")
+    log.info(f"  Tables found: {len(tables)}")
+    for i, t in enumerate(tables):
+        classes = t.get("class", [])
+        tid = t.get("id", "")
+        first_text = t.get_text(strip=True)[:150]
+        log.info(f"    Table {i}: class={classes} id={tid!r} preview={first_text!r}")
+
+    # Also look for common fixture container patterns
+    for selector in ["div.fixtures", "div#fixtures", "[class*=fixture]", "[id*=fixture]"]:
+        found = soup.select(selector)
+        if found:
+            log.info(f"  Selector {selector!r}: {len(found)} matches")
+            for f in found[:3]:
+                log.info(f"    tag={f.name} class={f.get('class')} text={f.get_text(strip=True)[:200]!r}")
+
+    # Look for "Home Team" text anywhere in the page
+    home_team_els = soup.find_all(string=re.compile(r"Home Team", re.I))
+    log.info(f"  'Home Team' text occurrences: {len(home_team_els)}")
+    for el in home_team_els[:3]:
+        parent = el.parent
+        log.info(f"    parent tag={parent.name if parent else None} class={parent.get('class') if parent else None}")
+
     # Find the main fixtures table — it has class "fixture-list" or sits inside
     # div#fixtures-results or similar. We look for any table containing "Home Team".
-    tables = soup.find_all("table")
     fixture_table = None
     for t in tables:
         if t.find(string=re.compile(r"Home Team", re.I)):
