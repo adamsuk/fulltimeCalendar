@@ -121,9 +121,14 @@ def fetch_age_group(age_group_id: str, label: str) -> list[Fixture]:
 def parse_fixtures(html: str, division_label: str) -> list[Fixture]:
     """Parse the Full-Time fixtures table.
 
-    Actual table columns:
-      Type | Date / Time | Home Team | (VS/score) | Away Team | Venue | Competition | Status
-    Date format is DD/MM/YY and time is HH:MM, both in the same cell group.
+    Header columns (7):
+      Type | Date / Time | Home Team | Away Team | Venue | Competition | Status
+    Data row cells (9) — date/time split + VS column inserted:
+      Type | Date | Time | Home Team | VS | Away Team | Venue | Competition | Status
+
+    We anchor on the VS/score cell in each data row to reliably find
+    home (before VS) and away (after VS), then grab venue/competition
+    from subsequent cells.
     """
     soup = BeautifulSoup(html, "html.parser")
     fixtures: list[Fixture] = []
@@ -140,66 +145,52 @@ def parse_fixtures(html: str, division_label: str) -> list[Fixture]:
         log.warning(f"No fixture table found for {division_label} — page structure may have changed.")
         return []
 
-    # Discover column positions from header row
-    header_row = fixture_table.find("tr")
-    if not header_row:
-        log.warning(f"No header row in fixture table for {division_label}")
-        return []
-
-    headers = [th.get_text(strip=True).lower() for th in header_row.find_all(["th", "td"])]
-
-    def col_idx(keywords: list[str]) -> int | None:
-        for i, h in enumerate(headers):
-            if any(k in h for k in keywords):
-                return i
-        return None
-
-    date_col = col_idx(["date", "time"])
-    home_col = col_idx(["home"])
-    away_col = col_idx(["away"])
-    venue_col = col_idx(["venue"])
-    comp_col = col_idx(["competition", "comp"])
-
-    if home_col is None or away_col is None:
-        log.warning(f"Could not find Home/Away columns in headers: {headers}")
-        return []
-
-    # Parse data rows
+    # Parse data rows (skip header)
     for row in fixture_table.find_all("tr")[1:]:
         cells = row.find_all(["td", "th"])
         text = [c.get_text(strip=True) for c in cells]
 
-        if len(text) <= max(home_col, away_col):
+        if len(text) < 6:
             continue
 
-        home = clean_team_name(text[home_col])
-        away = clean_team_name(text[away_col])
+        # Find the VS / score separator cell
+        vs_idx = None
+        for i, val in enumerate(text):
+            if re.match(r"^(v|vs|\d+-\d+)$", val, re.I):
+                vs_idx = i
+                break
+
+        if vs_idx is None or vs_idx < 2:
+            continue
+
+        home = clean_team_name(text[vs_idx - 1])
+        away = clean_team_name(text[vs_idx + 1]) if vs_idx + 1 < len(text) else ""
 
         if not home or not away:
             continue
 
-        # Extract date and time from the date/time cell
+        # Cells before home team contain type, date, and optionally time
+        pre_cells = text[:vs_idx - 1]
+
+        # Extract date (DD/MM/YY or DD/MM/YYYY) and time (HH:MM) from pre-cells
         date_str = ""
         time_str = ""
-        if date_col is not None and date_col < len(text):
-            dt_text = text[date_col]
-            # Date format: DD/MM/YY
-            dm = re.search(r"(\d{2}/\d{2}/\d{2,4})", dt_text)
-            if dm:
-                date_str = dm.group(1)
-            # Time format: HH:MM
-            tm = re.search(r"(\d{1,2}:\d{2})", dt_text)
-            if tm:
-                time_str = tm.group(1)
+        for cell in pre_cells:
+            if not date_str:
+                dm = re.search(r"(\d{2}/\d{2}/\d{2,4})", cell)
+                if dm:
+                    date_str = dm.group(1)
+            if not time_str:
+                tm = re.match(r"^(\d{1,2}:\d{2})$", cell)
+                if tm:
+                    time_str = tm.group(1)
 
-        venue = ""
-        if venue_col is not None and venue_col < len(text):
-            venue = text[venue_col]
+        # Cells after away team: venue, competition, status
+        post_cells = text[vs_idx + 2:]
+        venue = post_cells[0] if len(post_cells) > 0 else ""
+        competition = post_cells[1] if len(post_cells) > 1 else ""
 
-        # Use competition column as division label if available
-        label = division_label
-        if comp_col is not None and comp_col < len(text) and text[comp_col]:
-            label = text[comp_col]
+        label = competition if competition else division_label
 
         if date_str:
             fixtures.append(Fixture(
