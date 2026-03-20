@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Attenborough Colts Yellow U11
+X-WR-CALDESC:Fixtures for Attenborough Colts Yellow U11 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:7d265b47a138e609aa8d146fa32313ce@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Attenborough Colts Yellow U11 vs Ruddington Village Black U11 (Home)
+DESCRIPTION:Division: U11 Sun Spring Div 3\nAttenborough Colts Yellow U11 v Ruddington Village Black U11\nKO: 10:00
+LOCATION:Chilwell Olympia NG9 5HR
+END:VEVENT
+BEGIN:VEVENT
+UID:c01341d21b8f5d1b873c6c8bcac2baa0@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260419T094500
+DTEND;TZID=Europe/London:20260419T103000
+SUMMARY:⚽ Attenborough Colts Yellow U11 vs Kirkby Garibaldi Reds U11 (Away)
+DESCRIPTION:Division: U11 Sun Spring Div 3\nKirkby Garibaldi Reds U11 v Attenborough Colts Yellow U11\nKO: 09:45
+LOCATION:Calladine Park NG17 1NJ
+END:VEVENT
+END:VCALENDAR

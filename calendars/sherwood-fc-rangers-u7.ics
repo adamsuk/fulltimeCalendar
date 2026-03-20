@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sherwood FC Rangers U7
+X-WR-CALDESC:Fixtures for Sherwood FC Rangers U7 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:63b4e591b82a11ae48453b579e4ac7c9@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Sherwood FC Rangers U7 vs Castle Donington Jets U7 (Home)
+DESCRIPTION:Division: U7 Sun Spring White\nSherwood FC Rangers U7 v Castle Donington Jets U7\nKO: 10:00
+LOCATION:Forest Sports Zone NG7 6LD
+END:VEVENT
+BEGIN:VEVENT
+UID:5fa7ff27b9f41956f99a13e5efba03f6@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Sherwood FC Rangers U7 vs AJ Sport Black U7 (Away)
+DESCRIPTION:Division: U7 Sun Spring White\nAJ Sport Black U7 v Sherwood FC Rangers U7\nKO: 10:00
+LOCATION:Beeston Fields Recreation Ground NG9 2QE
+END:VEVENT
+BEGIN:VEVENT
+UID:49d635e06d42ee8d7bc3246a077d76cd@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T113000
+SUMMARY:⚽ Sherwood FC Rangers U7 vs Alvaston Athletic White U7 (Home)
+DESCRIPTION:Division: U7 Sun Spring White\nSherwood FC Rangers U7 v Alvaston Athletic White U7\nKO: 10:00
+LOCATION:Forest Sports Zone NG7 6LD
+END:VEVENT
+BEGIN:VEVENT
+UID:52c837918bb33cb40c62036f3f059556@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Sherwood FC Rangers U7 vs Mansfield Athletic U7 (Away)
+DESCRIPTION:Division: U7 Sun Spring White\nMansfield Athletic U7 v Sherwood FC Rangers U7\nKO: 10:00
+LOCATION:Unwin Road NG17 4HT
+END:VEVENT
+BEGIN:VEVENT
+UID:59695c1eeee32f75cf1d46221c026024@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Sherwood FC Rangers U7 vs DLFC Red U7 (Away)
+DESCRIPTION:Division: U7 Sunday\nDLFC Red U7 v Sherwood FC Rangers U7\nKO: 10:00
+LOCATION:Greenwich Avenue NG6 0LD
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arnold Town White U13
+X-WR-CALDESC:Fixtures for Arnold Town White U13 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:71a8fe96c24bd1b8e3aa62ad79e823bf@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T123000
+DTEND;TZID=Europe/London:20260322T133000
+SUMMARY:⚽ Arnold Town White U13 vs Codnor Sports Chargers U13 (Home)
+DESCRIPTION:Division: U13 Sun Spring Div 2 Blue\nArnold Town White U13 v Codnor Sports Chargers U13\nKO: 12:30
+LOCATION:Eagle Valley NG5 8PS
+END:VEVENT
+BEGIN:VEVENT
+UID:ac36d4ad8190aaafc2c5118f0921a681@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Arnold Town White U13 vs Breaston Park Black U13 (Away)
+DESCRIPTION:Division: U13 Sun Spring Div 2 Blue\nBreaston Park Black U13 v Arnold Town White U13\nKO: 10:00
+LOCATION:Wilsthorpe high school NG10 4WT
+END:VEVENT
+BEGIN:VEVENT
+UID:3400855c118a228b72d08838b505266d@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260426T110000
+DTEND;TZID=Europe/London:20260426T123000
+SUMMARY:⚽ Arnold Town White U13 vs Mickleover FC Juniors Phoenix U13 (Home)
+DESCRIPTION:Division: U13 Sun Spring Div 2 Blue\nArnold Town White U13 v Mickleover FC Juniors Phoenix U13\nKO: 11:00
+LOCATION:Eagle Valley NG5 8PS
+END:VEVENT
+END:VCALENDAR

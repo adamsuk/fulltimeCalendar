@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gedling Southbank Lions U8
+X-WR-CALDESC:Fixtures for Gedling Southbank Lions U8 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:ad12aa50fca778c1c6e66bbc67aebb70@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Gedling Southbank Lions U8 vs Nottingham FC Green U8 (Away)
+DESCRIPTION:Division: U8 Sun Spring 4 Blue\nNottingham FC Green U8 v Gedling Southbank Lions U8\nKO: 10:00
+LOCATION:Melbourne Park NG8 5HL
+END:VEVENT
+BEGIN:VEVENT
+UID:37058277b4abbb9fc45a51db1dffdf9f@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Gedling Southbank Lions U8 vs Mapperley All Stars Yellow U8 (Home)
+DESCRIPTION:Division: U8 Sun Spring 4 Blue\nGedling Southbank Lions U8 v Mapperley All Stars Yellow U8\nKO: 10:00
+LOCATION:William Lee Memorial Park NG14 6SA
+END:VEVENT
+BEGIN:VEVENT
+UID:cef9613b1cea7f1adb4d1abf28a11009@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T113000
+SUMMARY:⚽ Gedling Southbank Lions U8 vs WBYFC Valour Black U8 (Home)
+DESCRIPTION:Division: U8 Sun Spring 4 Blue\nGedling Southbank Lions U8 v WBYFC Valour Black U8\nKO: 10:00
+LOCATION:William Lee Memorial Park NG14 6SA
+END:VEVENT
+BEGIN:VEVENT
+UID:df01356acf6ced50678b588461c04e07@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Gedling Southbank Lions U8 vs Gonerby FC Yellow U8 (Away)
+DESCRIPTION:Division: U8 Sun Spring 4 Blue\nGonerby FC Yellow U8 v Gedling Southbank Lions U8\nKO: 10:00
+LOCATION:Gonerby Recreation Ground NG31 8PP
+END:VEVENT
+BEGIN:VEVENT
+UID:d49d86d58a44b282cd9d6c4fe278e866@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Gedling Southbank Lions U8 vs Inspire Nottingham White U8 (Away)
+DESCRIPTION:Division: U8 Sun Spring 4 Blue\nInspire Nottingham White U8 v Gedling Southbank Lions U8\nKO: 10:00
+LOCATION:Powerleague Nottingham Arnold NG5 6NZ
+END:VEVENT
+END:VCALENDAR

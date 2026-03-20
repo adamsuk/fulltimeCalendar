@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Priory Celtic Green U9
+X-WR-CALDESC:Fixtures for Priory Celtic Green U9 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:880f0769f7b6b2e1eb7b1ad3762dd03b@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Priory Celtic Green U9 vs Hucknall Town Warriors U9 (Away)
+DESCRIPTION:Division: U9 Sun Spring Div 6 Green\nHucknall Town Warriors U9 v Priory Celtic Green U9\nKO: 10:00
+LOCATION:Flying High Academy NG15 6WU
+END:VEVENT
+BEGIN:VEVENT
+UID:e8335c732b8210461874b2ca2841bdcf@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260329T120000
+DTEND;TZID=Europe/London:20260329T133000
+SUMMARY:⚽ Priory Celtic Green U9 vs Borrowash Youth Leopards U9 (Home)
+DESCRIPTION:Division: U9 Sun Spring Div 6 Green\nPriory Celtic Green U9 v Borrowash Youth Leopards U9\nKO: 12:00
+LOCATION:Kimberley Leisure Centre NG16 2NJ
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Beaufort United White U14
+X-WR-CALDESC:Fixtures for Beaufort United White U14 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:7bf2f8dc64a1759ee02b71175ea10f94@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260329T110000
+DTEND;TZID=Europe/London:20260329T123000
+SUMMARY:⚽ Beaufort United White U14 vs Moorgreen Colts Blue U14 (Home)
+DESCRIPTION:Division: U14 Sun Spring Div 4\nBeaufort United White U14 v Moorgreen Colts Blue U14\nKO: 11:00
+LOCATION:Polly Bowls NG17 4HN
+END:VEVENT
+BEGIN:VEVENT
+UID:3093e83a7259592a5ec622c5fed8b8c2@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Beaufort United White U14 vs Beeston FC U14 (Away)
+DESCRIPTION:Division: U14 Sun Spring Div 4\nBeeston FC U14 v Beaufort United White U14\nKO: 10:00
+LOCATION:Trent Vale Sports Ground NG9 1ND
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Selston U14
+X-WR-CALDESC:Fixtures for Selston U14 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:8d91a9f7e480feefb62b99e255077f49@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260419T103000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Selston U14 vs Basford United FC Amber U14 (Home)
+DESCRIPTION:Division: U14 Sun Spring Premier Division\nSelston U14 v Basford United FC Amber U14\nKO: 10:30
+LOCATION:Dale Club NG16 5JU
+END:VEVENT
+BEGIN:VEVENT
+UID:380f58bce4840afc896a6867082c34b9@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260426T110000
+DTEND;TZID=Europe/London:20260426T123000
+SUMMARY:⚽ Selston U14 vs Bestwood Colliery U14 (Away)
+DESCRIPTION:Division: U14 Sun Spring Premier Division\nBestwood Colliery U14 v Selston U14\nKO: 11:00
+LOCATION:High Main Drive NG6 8YX
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Trowell FC U14
+X-WR-CALDESC:Fixtures for Trowell FC U14 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:5c97dac56aec37be34edc0e582ffb4a8@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Trowell FC U14 vs Phoenix Inham Blaze U14 (Home)
+DESCRIPTION:Division: U14 Sun YEL Trophy\nTrowell FC U14 v Phoenix Inham Blaze U14\nKO: 10:00
+LOCATION:Pit Lane NG9 3QH
+END:VEVENT
+BEGIN:VEVENT
+UID:721cdc4f0da6c7a7bfad5524d3149cb6@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260329T114000
+DTEND;TZID=Europe/London:20260329T123000
+SUMMARY:⚽ Trowell FC U14 vs Ilkeston Town Raptors U14 (Away)
+DESCRIPTION:Division: U14 Sun Spring Div 2 Blue\nIlkeston Town Raptors U14 v Trowell FC U14\nKO: 11:40
+LOCATION:New Manor Ground DE7 8JF
+END:VEVENT
+BEGIN:VEVENT
+UID:7aed4fccf4ab25d5ff0b630eae1bd1a8@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260419T110000
+DTEND;TZID=Europe/London:20260419T123000
+SUMMARY:⚽ Trowell FC U14 vs Phoenix Inham Blaze U14 (Away)
+DESCRIPTION:Division: U14 Sun Spring Div 2 Blue\nPhoenix Inham Blaze U14 v Trowell FC U14\nKO: 11:00
+LOCATION:Inham Nook Recreation Ground NG9 4GQ
+END:VEVENT
+BEGIN:VEVENT
+UID:b37a11d4e2390d67b8e725f35a401948@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260426T110000
+DTEND;TZID=Europe/London:20260426T123000
+SUMMARY:⚽ Trowell FC U14 vs Heanor Town Sambas U14 (Home)
+DESCRIPTION:Division: U14 Sun Spring Div 2 Blue\nTrowell FC U14 v Heanor Town Sambas U14\nKO: 11:00
+LOCATION:Pit Lane NG9 3QH
+END:VEVENT
+END:VCALENDAR

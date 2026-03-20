@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:East Leake Bantams Orange U8
+X-WR-CALDESC:Fixtures for East Leake Bantams Orange U8 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:5b67f322f42cd892b855ae76a7298892@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ East Leake Bantams Orange U8 vs Attenborough Colts Yellow U8 (Away)
+DESCRIPTION:Division: U8 Sun Spring 3 Blue\nAttenborough Colts Yellow U8 v East Leake Bantams Orange U8\nKO: 10:00
+LOCATION:Chilwell Olympia NG9 5HR
+END:VEVENT
+BEGIN:VEVENT
+UID:bb45f83abaf19398b4cc58bcef1f26ef@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ East Leake Bantams Orange U8 vs East Leake Bantams Black U8 (Home)
+DESCRIPTION:Division: U8 Sun Spring 3 Blue\nEast Leake Bantams Orange U8 v East Leake Bantams Black U8\nKO: 10:00
+LOCATION:Costock Road LE12 6LY
+END:VEVENT
+BEGIN:VEVENT
+UID:4800b39e8f0b627e25d22152ed6c6d0a@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T113000
+SUMMARY:⚽ East Leake Bantams Orange U8 vs Phoenix Inham Rising U8 (Away)
+DESCRIPTION:Division: U8 Sun Spring 3 Blue\nPhoenix Inham Rising U8 v East Leake Bantams Orange U8\nKO: 10:00
+LOCATION:Inham Nook Recreation Ground NG9 4GQ
+END:VEVENT
+BEGIN:VEVENT
+UID:1ef3a7721c609cc54bb8ce4783475dbb@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ East Leake Bantams Orange U8 vs Coalville Town Ravens U8 (Home)
+DESCRIPTION:Division: U8 Sun Spring 3 Blue\nEast Leake Bantams Orange U8 v Coalville Town Ravens U8\nKO: 10:00
+LOCATION:Costock Road LE12 6LY
+END:VEVENT
+BEGIN:VEVENT
+UID:d5110226fccc34b3baf37e07e4bd7306@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ East Leake Bantams Orange U8 vs WBYFC Courage Red U8 (Home)
+DESCRIPTION:Division: U8 Sun Spring 3 Blue\nEast Leake Bantams Orange U8 v WBYFC Courage Red U8\nKO: 10:00
+LOCATION:Costock Road LE12 6LY
+END:VEVENT
+END:VCALENDAR

@@ -19,35 +19,15 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
 log = logging.getLogger(__name__)
 
 # ---------------------------------------------------------------------------
-# Config — add/remove age groups here. To find the age group ID go to
-# Full-Time, navigate to the league fixtures page and copy the URL.
-#
-# How to find age group IDs:
-#   1. Go to https://fulltime.thefa.com
-#   2. Search for "YEL East Midlands Sunday"
-#   3. Browse to an age group's fixture page
-#   4. Copy the URL and extract the `selectedFixtureGroupAgeGroup` value
+# Config
 # ---------------------------------------------------------------------------
 
-BASE_URL = "https://fulltime.thefa.com/fixtures.html"
-
-SEASON_ID = "909330396"
-
-# Maximum fixtures to request per age group in a single page
-MAX_ITEMS_PER_PAGE = "100000"
-
-# Each entry is (age_group_id, human_label)
-# age_group_id 13 = U10s. Add more rows as you find other age group IDs.
-AGE_GROUPS: list[tuple[str, str]] = [
-    ("13", "U10s"),
-    # ("14", "U11s"),  # <-- add more here
-]
+# This URL defaults to the current season and returns all age groups.
+# The path segments are /fixtures/{page}/{itemsPerPage}.html
+FIXTURES_URL = "https://fulltime.thefa.com/fixtures/1/100000.html"
 
 OUTPUT_DIR = Path(__file__).parent.parent / "calendars"
 OUTPUT_DIR.mkdir(exist_ok=True)
-
-# How long to wait between division page requests (be polite to the FA servers)
-REQUEST_DELAY_SECONDS = 2
 
 # Retry configuration for HTTP requests
 HTTP_RETRIES = 5
@@ -72,24 +52,9 @@ class Fixture(NamedTuple):
 # Scraping
 # ---------------------------------------------------------------------------
 
-def fetch_age_group(age_group_id: str, label: str) -> list[Fixture]:
-    params = {
-        "selectedSeason": SEASON_ID,
-        "selectedFixtureGroupAgeGroup": age_group_id,
-        "selectedFixtureGroupKey": "",
-        "selectedDateCode": "all",
-        "selectedClub": "",
-        "selectedTeam": "",
-        "selectedRelatedFixtureOption": "1",
-        "selectedFixtureDateStatus": "",
-        "selectedFixtureStatus": "",
-        "previousSelectedFixtureGroupAgeGroup": age_group_id,
-        "previousSelectedFixtureGroupKey": "",
-        "previousSelectedClub": "",
-        "itemsPerPage": MAX_ITEMS_PER_PAGE,
-    }
-
-    log.info(f"Fetching {label} ...")
+def fetch_fixtures() -> list[Fixture]:
+    """Fetch all fixtures (all age groups, current season) in a single request."""
+    log.info(f"Fetching fixtures from {FIXTURES_URL} ...")
 
     # Use SOCKS5 proxy if configured (e.g. Tor on 127.0.0.1:9050 in CI)
     proxy = os.environ.get("SOCKS_PROXY")
@@ -99,26 +64,26 @@ def fetch_age_group(age_group_id: str, label: str) -> list[Fixture]:
     for attempt in range(1, HTTP_RETRIES + 1):
         try:
             with curl_requests.Session(impersonate="chrome", proxies=proxies) as session:
-                resp = session.get(BASE_URL, params=params, timeout=HTTP_TIMEOUT)
+                resp = session.get(FIXTURES_URL, timeout=HTTP_TIMEOUT)
                 resp.raise_for_status()
 
-                return parse_fixtures(resp.text, label)
+                return parse_fixtures(resp.text)
         except Exception as e:
             last_err = e
             if attempt < HTTP_RETRIES:
                 wait = HTTP_BACKOFF_FACTOR * (2 ** (attempt - 1))
                 log.warning(
-                    f"Attempt {attempt}/{HTTP_RETRIES} for {label} failed: {e} "
+                    f"Attempt {attempt}/{HTTP_RETRIES} failed: {e} "
                     f"— retrying in {wait}s"
                 )
                 time.sleep(wait)
             else:
-                log.error(f"All {HTTP_RETRIES} attempts for {label} failed: {e}")
+                log.error(f"All {HTTP_RETRIES} attempts failed: {e}")
 
     raise last_err  # type: ignore[misc]
 
 
-def parse_fixtures(html: str, division_label: str) -> list[Fixture]:
+def parse_fixtures(html: str) -> list[Fixture]:
     """Parse the Full-Time fixtures table using CSS classes.
 
     Each data row has 10 cells:
@@ -145,12 +110,11 @@ def parse_fixtures(html: str, division_label: str) -> list[Fixture]:
             break
 
     if not fixture_table:
-        log.warning(f"No fixture table found for {division_label} — page structure may have changed.")
+        log.warning("No fixture table found — page structure may have changed.")
         return []
 
     # Parse data rows (skip header)
     for row in fixture_table.find_all("tr")[1:]:
-        # Extract fields by CSS class — much more reliable than positional indexing
         home_td = row.find("td", class_="home-team")
         away_td = row.find("td", class_="road-team")
         if not home_td or not away_td:
@@ -179,7 +143,6 @@ def parse_fixtures(html: str, division_label: str) -> list[Fixture]:
         # Venue and competition: cells after the away team
         venue = ""
         competition = ""
-        # Walk siblings after the away-team cell
         for td in away_td.find_next_siblings("td"):
             classes = td.get("class", [])
             if "status-notes" in classes:
@@ -192,8 +155,6 @@ def parse_fixtures(html: str, division_label: str) -> list[Fixture]:
             elif not competition:
                 competition = text
 
-        label = competition if competition else division_label
-
         if date_str:
             fixtures.append(Fixture(
                 date=date_str,
@@ -201,10 +162,10 @@ def parse_fixtures(html: str, division_label: str) -> list[Fixture]:
                 home_team=home,
                 away_team=away,
                 venue=venue,
-                division_label=label,
+                division_label=competition or "Unknown Division",
             ))
 
-    log.info(f"  Found {len(fixtures)} fixtures in {division_label}")
+    log.info(f"  Found {len(fixtures)} fixtures")
     return fixtures
 
 
@@ -316,15 +277,11 @@ def fixtures_to_ics(team_name: str, fixtures: list[Fixture]) -> str:
 # ---------------------------------------------------------------------------
 
 def main() -> None:
-    all_fixtures: list[Fixture] = []
-
-    for age_group_id, label in AGE_GROUPS:
-        try:
-            fixtures = fetch_age_group(age_group_id, label)
-            all_fixtures.extend(fixtures)
-        except Exception as e:
-            log.error(f"Failed to fetch {label}: {e}")
-        time.sleep(REQUEST_DELAY_SECONDS)
+    try:
+        all_fixtures = fetch_fixtures()
+    except Exception as e:
+        log.error(f"Failed to fetch fixtures: {e}")
+        all_fixtures = []
 
     if not all_fixtures:
         log.warning("No fixtures found — check division config and page structure.")

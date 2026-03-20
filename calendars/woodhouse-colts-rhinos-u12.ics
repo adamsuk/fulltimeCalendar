@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Woodhouse Colts Rhinos U12
+X-WR-CALDESC:Fixtures for Woodhouse Colts Rhinos U12 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:06c85a4bb2ba03bb1dc2d934206a4e96@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T110000
+DTEND;TZID=Europe/London:20260322T123000
+SUMMARY:⚽ Woodhouse Colts Rhinos U12 vs Sherwood Colliery Cobras U12 (Home)
+DESCRIPTION:Division: U12 Sun Spring Div 1 Gold\nWoodhouse Colts Rhinos U12 v Sherwood Colliery Cobras U12\nKO: 11:00
+LOCATION:Forest Town Welfare NG19 0EE
+END:VEVENT
+END:VCALENDAR

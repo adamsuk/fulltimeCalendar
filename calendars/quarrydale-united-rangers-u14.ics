@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Quarrydale United Rangers U14
+X-WR-CALDESC:Fixtures for Quarrydale United Rangers U14 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:8608b8d44e016c19f9a33c4141981343@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T113000
+DTEND;TZID=Europe/London:20260322T123000
+SUMMARY:⚽ Quarrydale United Rangers U14 vs Willow Wanderers Bulldogs U14 (Home)
+DESCRIPTION:Division: U14 Sun Spring Div 1 Gold\nQuarrydale United Rangers U14 v Willow Wanderers Bulldogs U14\nKO: 11:30
+LOCATION:Bentinck Miners Welfare NG17 8GS
+END:VEVENT
+BEGIN:VEVENT
+UID:c791772aacccfb3cc05e6507e5657bfd@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260426T121500
+DTEND;TZID=Europe/London:20260426T133000
+SUMMARY:⚽ Quarrydale United Rangers U14 vs Cotgrave FC Blue U14 (Home)
+DESCRIPTION:Division: U14 Sun Spring Div 1 Gold\nQuarrydale United Rangers U14 v Cotgrave FC Blue U14\nKO: 12:15
+LOCATION:Bentinck Miners Welfare NG17 8GS
+END:VEVENT
+END:VCALENDAR

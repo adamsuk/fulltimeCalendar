@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Breaston Park Green U14
+X-WR-CALDESC:Fixtures for Breaston Park Green U14 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:d7c9b21608a5c280868fda7d99bb20a9@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T110000
+DTEND;TZID=Europe/London:20260322T123000
+SUMMARY:⚽ Breaston Park Green U14 vs St Anns & Sneinton U14 (Away)
+DESCRIPTION:Division: U14 Sun Spring Div 3 Blue\nSt Anns & Sneinton U14 v Breaston Park Green U14\nKO: 11:00
+LOCATION:Sycamore Field NG3 4QP
+END:VEVENT
+BEGIN:VEVENT
+UID:3541b6f177b02744e87921b42bcd9154@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260329T110000
+DTEND;TZID=Europe/London:20260329T123000
+SUMMARY:⚽ Breaston Park Green U14 vs Castle Donington Lions U14 (Home)
+DESCRIPTION:Division: U14 Sun Spring Div 3 Blue\nBreaston Park Green U14 v Castle Donington Lions U14\nKO: 11:00
+LOCATION:Wilsthorpe high school NG10 4WT
+END:VEVENT
+BEGIN:VEVENT
+UID:14ced43aa84ab58749fbda993c4aa82f@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260423T180000
+DTEND;TZID=Europe/London:20260423T193000
+SUMMARY:⚽ Breaston Park Green U14 vs Eastwood Athletic Vipers U14 (Away)
+DESCRIPTION:Division: U14 Sun Spring Div 3 Blue\nEastwood Athletic Vipers U14 v Breaston Park Green U14\nKO: 18:00
+LOCATION:Hall Park NG16 3AR
+END:VEVENT
+BEGIN:VEVENT
+UID:9b1b7ca68524f740e12e5901806348ee@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260426T110000
+DTEND;TZID=Europe/London:20260426T123000
+SUMMARY:⚽ Breaston Park Green U14 vs Clifton All Whites Orange U14 (Away)
+DESCRIPTION:Division: U14 Sun Spring Div 3 Blue\nClifton All Whites Orange U14 v Breaston Park Green U14\nKO: 11:00
+LOCATION:Farnborough Academy NG11 8JW
+END:VEVENT
+END:VCALENDAR

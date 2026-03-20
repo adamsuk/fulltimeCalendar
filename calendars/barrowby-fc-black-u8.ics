@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Barrowby FC Black U8
+X-WR-CALDESC:Fixtures for Barrowby FC Black U8 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:abc8c8f7a917fb68b1ace410620aef2d@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Barrowby FC Black U8 vs Quarrydale United U8 (Home)
+DESCRIPTION:Division: U8 Sun Spring 3 Red\nBarrowby FC Black U8 v Quarrydale United U8\nKO: 10:00
+LOCATION:Low Field NG32 1DJ
+END:VEVENT
+BEGIN:VEVENT
+UID:46dc9d1bbb049844535cce0a6bc3714f@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Barrowby FC Black U8 vs Barrowby FC Green U8 (Away)
+DESCRIPTION:Division: U8 Sun Spring 3 Red\nBarrowby FC Green U8 v Barrowby FC Black U8\nKO: 10:00
+LOCATION:Low Field NG32 1DJ
+END:VEVENT
+BEGIN:VEVENT
+UID:09594280696547044baae70e473d1364@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T113000
+SUMMARY:⚽ Barrowby FC Black U8 vs Shirebrook Rangers U8 (Home)
+DESCRIPTION:Division: U8 Sun Spring 3 Red\nBarrowby FC Black U8 v Shirebrook Rangers U8\nKO: 10:00
+LOCATION:Low Field NG32 1DJ
+END:VEVENT
+BEGIN:VEVENT
+UID:54ac1622a5d1c88b206abd5301c9d45f@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Barrowby FC Black U8 vs Sherwood FC Red U8 (Away)
+DESCRIPTION:Division: U8 Sun Spring 3 Red\nSherwood FC Red U8 v Barrowby FC Black U8\nKO: 10:00
+LOCATION:Forest Sports Zone NG7 6LD
+END:VEVENT
+BEGIN:VEVENT
+UID:a89f1e6e6a40afc84c3fd25f822349a3@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Barrowby FC Black U8 vs Willow Wanderers Arrows U8 (Away)
+DESCRIPTION:Division: U8 Sun Spring 3 Red\nWillow Wanderers Arrows U8 v Barrowby FC Black U8\nKO: 10:00
+LOCATION:Carlton le Willows School NG4 4AA
+END:VEVENT
+END:VCALENDAR

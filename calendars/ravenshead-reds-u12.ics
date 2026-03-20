@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ravenshead Reds U12
+X-WR-CALDESC:Fixtures for Ravenshead Reds U12 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:943cb2334c613bfc1d758a51168916e2@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260419T110000
+DTEND;TZID=Europe/London:20260419T123000
+SUMMARY:⚽ Ravenshead Reds U12 vs Ollerton Town U12 (Away)
+DESCRIPTION:Division: U12 Sun Spring Div 3 Red\nOllerton Town U12 v Ravenshead Reds U12\nKO: 11:00
+LOCATION:Ollerton town fc NG22 9UT
+END:VEVENT
+END:VCALENDAR

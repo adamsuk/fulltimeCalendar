@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Melbourne Dynamo Rangers U12
+X-WR-CALDESC:Fixtures for Melbourne Dynamo Rangers U12 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:d850c870935cd5f9046be0f6adfa92ab@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T110000
+DTEND;TZID=Europe/London:20260322T123000
+SUMMARY:⚽ Melbourne Dynamo Rangers U12 vs Gonerby Yellow U12 (Away)
+DESCRIPTION:Division: U12 Sun YEL Shield\nGonerby Yellow U12 v Melbourne Dynamo Rangers U12\nKO: 11:00
+LOCATION:Hougham & Marston Playing Field NG32 2HL
+END:VEVENT
+BEGIN:VEVENT
+UID:1c8aba6da10aa4f42ecab9d92988db06@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Melbourne Dynamo Rangers U12 vs Stapleford Town Saxons U12 (Away)
+DESCRIPTION:Division: U12 Sun Spring Div 2 Blue\nStapleford Town Saxons U12 v Melbourne Dynamo Rangers U12\nKO: 10:00
+LOCATION:Hickings Lane NG9 8PG
+END:VEVENT
+BEGIN:VEVENT
+UID:8d9215aab75752a9f4b45ffb8847eee1@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260419T110000
+DTEND;TZID=Europe/London:20260419T123000
+SUMMARY:⚽ Melbourne Dynamo Rangers U12 vs Cotgrave FC White U12 (Home)
+DESCRIPTION:Division: U12 Sun Spring Div 2 Blue\nMelbourne Dynamo Rangers U12 v Cotgrave FC White U12\nKO: 11:00
+LOCATION:Ticknall Cricket Club DE73 7JG
+END:VEVENT
+BEGIN:VEVENT
+UID:9a42d9d05172d333ac07859652087747@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260426T110000
+DTEND;TZID=Europe/London:20260426T123000
+SUMMARY:⚽ Melbourne Dynamo Rangers U12 vs Basford United Iconz U12 (Home)
+DESCRIPTION:Division: U12 Sun Spring Div 2 Blue\nMelbourne Dynamo Rangers U12 v Basford United Iconz U12\nKO: 11:00
+LOCATION:Ticknall Cricket Club DE73 7JG
+END:VEVENT
+END:VCALENDAR

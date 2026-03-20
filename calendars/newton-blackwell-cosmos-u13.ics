@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Newton & Blackwell Cosmos U13
+X-WR-CALDESC:Fixtures for Newton & Blackwell Cosmos U13 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:2e505901aa155c4133ff33dad050823d@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260329T113000
+DTEND;TZID=Europe/London:20260329T123000
+SUMMARY:⚽ Newton & Blackwell Cosmos U13 vs Nottingham FC Green U13 (Away)
+DESCRIPTION:Division: U13 Sun Spring Div 1 Gold\nNottingham FC Green U13 v Newton & Blackwell Cosmos U13\nKO: 11:30
+LOCATION:Scanderlands Pavilion DE55 5JJ
+END:VEVENT
+BEGIN:VEVENT
+UID:d6764ce60634b86055ae53120d329816@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260419T113000
+DTEND;TZID=Europe/London:20260419T123000
+SUMMARY:⚽ Newton & Blackwell Cosmos U13 vs Eastwood CFC Black U13 (Home)
+DESCRIPTION:Division: U13 Sun Spring Div 1 Gold\nNewton & Blackwell Cosmos U13 v Eastwood CFC Black U13\nKO: 11:30
+LOCATION:Scanderlands Pavilion DE55 5JJ
+END:VEVENT
+BEGIN:VEVENT
+UID:93e46bb0be359c37ec4136b33ba951dc@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260426T110000
+DTEND;TZID=Europe/London:20260426T123000
+SUMMARY:⚽ Newton & Blackwell Cosmos U13 vs Aslockton & Orston Black U13 (Home)
+DESCRIPTION:Division: U13 Sun Spring Div 1 Gold\nNewton & Blackwell Cosmos U13 v Aslockton & Orston Black U13\nKO: 11:00
+LOCATION:Scanderlands Pavilion DE55 5JJ
+END:VEVENT
+END:VCALENDAR

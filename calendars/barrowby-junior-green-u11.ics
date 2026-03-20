@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Barrowby Junior Green U11
+X-WR-CALDESC:Fixtures for Barrowby Junior Green U11 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:c0e42fb69c5cd44acd890c693e71a7d0@yel-calendar
+DTSTAMP:20260320T192121Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Barrowby Junior Green U11 vs Meden Vale Colts Green U11 (Home)
+DESCRIPTION:Division: U11 Sun Spring Div 4 Red\nBarrowby Junior Green U11 v Meden Vale Colts Green U11\nKO: 10:00
+LOCATION:Barrowby FC NG32 1DJ
+END:VEVENT
+END:VCALENDAR
