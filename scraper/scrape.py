@@ -3,6 +3,7 @@ YEL East Midlands Sunday League — Full-Time fixture scraper
 Generates one .ics file per team across all configured divisions.
 """
 
+import os
 import re
 import time
 import hashlib
@@ -90,10 +91,14 @@ def fetch_age_group(age_group_id: str, label: str) -> list[Fixture]:
 
     log.info(f"Fetching {label} ...")
 
+    # Use SOCKS5 proxy if configured (e.g. Tor on 127.0.0.1:9050 in CI)
+    proxy = os.environ.get("SOCKS_PROXY")
+    proxies = {"https": proxy, "http": proxy} if proxy else None
+
     last_err: Exception | None = None
     for attempt in range(1, HTTP_RETRIES + 1):
         try:
-            with curl_requests.Session(impersonate="chrome") as session:
+            with curl_requests.Session(impersonate="chrome", proxies=proxies) as session:
                 resp = session.get(BASE_URL, params=params, timeout=HTTP_TIMEOUT)
                 resp.raise_for_status()
                 return parse_fixtures(resp.text, label)
