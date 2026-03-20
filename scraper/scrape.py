@@ -12,6 +12,8 @@ from pathlib import Path
 from typing import NamedTuple
 
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 from bs4 import BeautifulSoup
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
@@ -55,6 +57,11 @@ HEADERS = {
 # How long to wait between division page requests (be polite to the FA servers)
 REQUEST_DELAY_SECONDS = 2
 
+# Retry configuration for HTTP requests
+HTTP_RETRIES = 3
+HTTP_BACKOFF_FACTOR = 2  # waits 2s, 4s, 8s between retries
+HTTP_TIMEOUT = 60  # seconds
+
 
 # ---------------------------------------------------------------------------
 # Data model
@@ -90,11 +97,22 @@ def fetch_age_group(age_group_id: str, label: str) -> list[Fixture]:
         "itemsPerPage": MAX_ITEMS_PER_PAGE,
     }
 
-    log.info(f"Fetching {label} ...")
-    resp = requests.get(BASE_URL, params=params, headers=HEADERS, timeout=30)
-    resp.raise_for_status()
+    retry_strategy = Retry(
+        total=HTTP_RETRIES,
+        backoff_factor=HTTP_BACKOFF_FACTOR,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=["GET"],
+    )
+    adapter = HTTPAdapter(max_retries=retry_strategy)
+    with requests.Session() as session:
+        session.mount("https://", adapter)
+        session.mount("http://", adapter)
 
-    return parse_fixtures(resp.text, label)
+        log.info(f"Fetching {label} ...")
+        resp = session.get(BASE_URL, params=params, headers=HEADERS, timeout=HTTP_TIMEOUT)
+        resp.raise_for_status()
+
+        return parse_fixtures(resp.text, label)
 
 
 def parse_fixtures(html: str, division_label: str) -> list[Fixture]:
