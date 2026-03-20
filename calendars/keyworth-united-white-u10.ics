@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Keyworth United White U10
+X-WR-CALDESC:Fixtures for Keyworth United White U10 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:df69745752e132b6fa1849434f54d869@yel-calendar
+DTSTAMP:20260320T184347Z
+DTSTART;TZID=Europe/London:20260322T093000
+DTEND;TZID=Europe/London:20260322T103000
+SUMMARY:⚽ Keyworth United White U10 vs Stapleford Town Jaguars U10 (Home)
+DESCRIPTION:Division: U10 Sun Spring Div 2 Blue\nKeyworth United White U10 v Stapleford Town Jaguars U10\nKO: 09:30
+LOCATION:Platt Lane NG12 5GE
+END:VEVENT
+BEGIN:VEVENT
+UID:bbe77291403c2a666a194a4018ab11f6@yel-calendar
+DTSTAMP:20260320T184347Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Keyworth United White U10 vs Mapperley All Stars Stripes U10 (Away)
+DESCRIPTION:Division: U10 Sun Spring Div 2 Blue\nMapperley All Stars Stripes U10 v Keyworth United White U10\nKO: 10:00
+LOCATION:Colwick Recreation Ground NG4 2DW
+END:VEVENT
+END:VCALENDAR

@@ -60,7 +60,7 @@ HTTP_TIMEOUT = 90  # seconds
 # ---------------------------------------------------------------------------
 
 class Fixture(NamedTuple):
-    date: str          # e.g. "Sunday, 19 January 2025"
+    date: str          # e.g. "22/03/26" (DD/MM/YY)
     time: str          # e.g. "10:00" or "" if TBC
     home_team: str
     away_team: str
@@ -101,6 +101,7 @@ def fetch_age_group(age_group_id: str, label: str) -> list[Fixture]:
             with curl_requests.Session(impersonate="chrome", proxies=proxies) as session:
                 resp = session.get(BASE_URL, params=params, timeout=HTTP_TIMEOUT)
                 resp.raise_for_status()
+
                 return parse_fixtures(resp.text, label)
         except Exception as e:
             last_err = e
@@ -118,18 +119,24 @@ def fetch_age_group(age_group_id: str, label: str) -> list[Fixture]:
 
 
 def parse_fixtures(html: str, division_label: str) -> list[Fixture]:
+    """Parse the Full-Time fixtures table using CSS classes.
+
+    Each data row has 10 cells:
+      [0] type          (class: color-dark-grey bold cell-divider)
+      [1] date+time     (class: left cell-divider) — e.g. "22/03/2610:00"
+      [2] home team     (class: home-team)
+      [3] home logo     (class: team-logo) — empty text
+      [4] VS / score    (class: score)
+      [5] away logo     (class: team-logo) — empty text
+      [6] away team     (class: road-team)
+      [7] venue         (class: left cell-divider)
+      [8] competition   (class: left cell-divider)
+      [9] status        (class: status-notes)
+    """
     soup = BeautifulSoup(html, "html.parser")
     fixtures: list[Fixture] = []
 
-    # Full-Time wraps each fixture date block in a <div class="fixture-date-group">
-    # or similar. The actual structure uses a table with alternating date headers
-    # and fixture rows. We walk all rows and track the current date.
-
-    current_date = ""
-    current_time = ""
-
-    # Find the main fixtures table — it has class "fixture-list" or sits inside
-    # div#fixtures-results or similar. We look for any table containing "Home Team".
+    # Find the fixtures table — contains "Home Team" header
     tables = soup.find_all("table")
     fixture_table = None
     for t in tables:
@@ -138,69 +145,64 @@ def parse_fixtures(html: str, division_label: str) -> list[Fixture]:
             break
 
     if not fixture_table:
-        # Fallback: some Full-Time pages use a list structure
         log.warning(f"No fixture table found for {division_label} — page structure may have changed.")
         return []
 
-    rows = fixture_table.find_all("tr")
-
-    for row in rows:
-        cells = row.find_all(["td", "th"])
-        text_cells = [c.get_text(strip=True) for c in cells]
-
-        if not text_cells:
+    # Parse data rows (skip header)
+    for row in fixture_table.find_all("tr")[1:]:
+        # Extract fields by CSS class — much more reliable than positional indexing
+        home_td = row.find("td", class_="home-team")
+        away_td = row.find("td", class_="road-team")
+        if not home_td or not away_td:
             continue
 
-        # Date header rows typically have a single cell with a date pattern
-        date_match = re.search(
-            r"(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s+\d{1,2}\s+\w+\s+\d{4}",
-            " ".join(text_cells),
-            re.I,
-        )
-        if date_match:
-            current_date = date_match.group(0).strip()
-            # Time often appears in the same row, e.g. "10:00"
-            time_match = re.search(r"\b(\d{1,2}:\d{2})\b", " ".join(text_cells))
-            current_time = time_match.group(1) if time_match else ""
+        home = clean_team_name(home_td.get_text(strip=True))
+        away = clean_team_name(away_td.get_text(strip=True))
+        if not home or not away:
             continue
 
-        # Fixture rows: we expect at least home team, score/vs, away team
-        # Typical column order: Date | Time | Home Team | Score | Away Team | Venue
-        # Sometimes Date/Time are in the date-header row above, not per-fixture
-        if len(text_cells) >= 3:
-            # Try to identify home/away from position
-            # Full-Time puts: [date?] [time?] [home] [v / score] [away] [venue?]
-            # Strip empty cells
-            non_empty = [(i, c) for i, c in enumerate(text_cells) if c]
+        # Date+time: find the first cell containing a date pattern (DD/MM/YY).
+        # Can't use class_="cell-divider" — the first cell-divider is the type
+        # cell ("L"), not the date cell. Scanning for the pattern is more robust.
+        date_str = ""
+        time_str = ""
+        for td in row.find_all("td"):
+            cell_text = td.get_text(strip=True)
+            dm = re.search(r"(\d{2}/\d{2}/\d{2})", cell_text)
+            if dm:
+                date_str = dm.group(1)
+                tm = re.search(r"(\d{1,2}:\d{2})", cell_text)
+                if tm:
+                    time_str = tm.group(1)
+                break
 
-            # Look for a "v" or score separator
-            vs_idx = None
-            for i, (orig_i, c) in enumerate(non_empty):
-                if re.match(r"^(v|vs|\d+-\d+)$", c, re.I):
-                    vs_idx = i
-                    break
+        # Venue and competition: cells after the away team
+        venue = ""
+        competition = ""
+        # Walk siblings after the away-team cell
+        for td in away_td.find_next_siblings("td"):
+            classes = td.get("class", [])
+            if "status-notes" in classes:
+                break
+            text = td.get_text(strip=True)
+            if not text:
+                continue
+            if not venue:
+                venue = text
+            elif not competition:
+                competition = text
 
-            if vs_idx is not None and vs_idx > 0 and vs_idx < len(non_empty) - 1:
-                # Check if first cell is a time
-                maybe_time = non_empty[0][1]
-                offset = 0
-                if re.match(r"^\d{1,2}:\d{2}$", maybe_time):
-                    current_time = maybe_time
-                    offset = 1
+        label = competition if competition else division_label
 
-                home = non_empty[vs_idx - 1][1] if vs_idx - 1 >= offset else ""
-                away = non_empty[vs_idx + 1][1] if vs_idx + 1 < len(non_empty) else ""
-                venue = non_empty[vs_idx + 2][1] if vs_idx + 2 < len(non_empty) else ""
-
-                if home and away and current_date:
-                    fixtures.append(Fixture(
-                        date=current_date,
-                        time=current_time,
-                        home_team=clean_team_name(home),
-                        away_team=clean_team_name(away),
-                        venue=venue,
-                        division_label=division_label,
-                    ))
+        if date_str:
+            fixtures.append(Fixture(
+                date=date_str,
+                time=time_str,
+                home_team=home,
+                away_team=away,
+                venue=venue,
+                division_label=label,
+            ))
 
     log.info(f"  Found {len(fixtures)} fixtures in {division_label}")
     return fixtures
@@ -250,12 +252,14 @@ END:VEVENT
 
 def parse_dt(date_str: str, time_str: str) -> datetime | None:
     """Parse a Full-Time date string into a datetime. Returns None on failure."""
-    # e.g. "Sunday, 19 January 2025" + "10:00"
-    clean = re.sub(r"^[A-Za-z]+,\s*", "", date_str).strip()  # remove weekday
-    fmt_date = "%d %B %Y"
-    try:
-        d = datetime.strptime(clean, fmt_date)
-    except ValueError:
+    # Supports DD/MM/YY and DD/MM/YYYY
+    for fmt in ("%d/%m/%y", "%d/%m/%Y"):
+        try:
+            d = datetime.strptime(date_str.strip(), fmt)
+            break
+        except ValueError:
+            continue
+    else:
         log.warning(f"Could not parse date: '{date_str}'")
         return None
 

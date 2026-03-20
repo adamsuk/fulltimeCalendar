@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cotgrave FC White U10
+X-WR-CALDESC:Fixtures for Cotgrave FC White U10 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:069f530d7ea704db3ae4bf46db731685@yel-calendar
+DTSTAMP:20260320T184347Z
+DTSTART;TZID=Europe/London:20260322T104500
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Cotgrave FC White U10 vs Basford United Girls U10 ^^ (Away)
+DESCRIPTION:Division: U10 Sun Spring Div 7 Blue\nBasford United Girls U10 ^^ v Cotgrave FC White U10\nKO: 10:45
+LOCATION:Greenwich Avenue NG6 0LD
+END:VEVENT
+BEGIN:VEVENT
+UID:f8c2c8b6a414df5b151206e358f705ad@yel-calendar
+DTSTAMP:20260320T184347Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Cotgrave FC White U10 vs WBYFC Sporting U10 (Home)
+DESCRIPTION:Division: U10 Sun Spring Div 7 Blue\nCotgrave FC White U10 v WBYFC Sporting U10\nKO: 10:00
+LOCATION:Ridley Sports Ground NG12 3HA
+END:VEVENT
+END:VCALENDAR

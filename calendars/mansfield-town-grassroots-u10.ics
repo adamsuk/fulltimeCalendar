@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands Sunday League//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mansfield Town Grassroots U10
+X-WR-CALDESC:Fixtures for Mansfield Town Grassroots U10 — YEL East Midlands Sunday League
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:657450090561124d7c94561b52d3c3ea@yel-calendar
+DTSTAMP:20260320T184347Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Mansfield Town Grassroots U10 vs Eastwood CFC Aces U10 (Home)
+DESCRIPTION:Division: U10 Sun Spring Div 1 Gold\nMansfield Town Grassroots U10 v Eastwood CFC Aces U10\nKO: 10:00
+LOCATION:One Call Stadium NG18 5DA
+END:VEVENT
+BEGIN:VEVENT
+UID:1553aed0fe00ad62d194a99c7f7b5aca@yel-calendar
+DTSTAMP:20260320T184347Z
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T113000
+SUMMARY:⚽ Mansfield Town Grassroots U10 vs Hemington Hammers All Stars U10 (Away)
+DESCRIPTION:Division: U10 Sun Spring Div 1 Gold\nHemington Hammers All Stars U10 v Mansfield Town Grassroots U10\nKO: 10:00
+LOCATION:Hemington lane DE74 2RF
+END:VEVENT
+BEGIN:VEVENT
+UID:79e432415eb447c3157bc870beed911b@yel-calendar
+DTSTAMP:20260320T184347Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Mansfield Town Grassroots U10 vs Eastwood CFC Madrid U10 (Home)
+DESCRIPTION:Division: U10 Sun Spring Div 1 Gold\nMansfield Town Grassroots U10 v Eastwood CFC Madrid U10\nKO: 10:00
+LOCATION:One Call Stadium NG18 5DA
+END:VEVENT
+BEGIN:VEVENT
+UID:b8183e3091e921ba50e7a3a760029c60@yel-calendar
+DTSTAMP:20260320T184347Z
+DTSTART;TZID=Europe/London:20260510T114500
+DTEND;TZID=Europe/London:20260510T123000
+SUMMARY:⚽ Mansfield Town Grassroots U10 vs Eastwood CFC Madrid U10 (Home)
+DESCRIPTION:Division: U10 Sun YEL Cup\nMansfield Town Grassroots U10 v Eastwood CFC Madrid U10\nKO: 11:45
+LOCATION:Norman Archer Memorial Ground NG11 9AZ
+END:VEVENT
+END:VCALENDAR
