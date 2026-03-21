@@ -66,8 +66,8 @@ class Result(NamedTuple):
     time: str
     home_team: str
     away_team: str
-    home_score: int
-    away_score: int
+    home_score: int | None
+    away_score: int | None
     venue: str
     division_label: str
 
@@ -302,8 +302,17 @@ def parse_fixtures(html: str) -> list[Fixture]:
     return fixtures
 
 
-def _parse_score(row) -> tuple[int, int] | None:
+_REDACTED_SCORE_RE = re.compile(r"\bX\s*[-–—]\s*X\b", re.IGNORECASE)
+_SCORE_RE = re.compile(r"(?<![0-9-])(\d{1,2})\s*[-–—]\s*(\d{1,2})(?![0-9])")
+
+
+def _parse_score(row) -> tuple[int | None, int | None] | None:
     """Extract (home_score, away_score) from a results row.
+
+    Returns:
+      (int, int)      — numeric score found
+      (None, None)    — score is redacted (X-X)
+      None            — no score element found at all (skip the row)
 
     Uses \d{1,2} (1–2 digit numbers only) to avoid false matches on:
       - season notation like '2025-26'
@@ -312,19 +321,22 @@ def _parse_score(row) -> tuple[int, int] | None:
     Football scores for youth teams fit comfortably within 0-99.
     Colon is excluded as a separator to avoid matching kick-off times.
     """
-    score_re = re.compile(r"(?<![0-9-])(\d{1,2})\s*[-–—]\s*(\d{1,2})(?![0-9])")
-
     # Preferred: dedicated score element (class contains "score")
     score_el = row.find(True, class_=re.compile(r"\bscore\b"))
     if score_el:
-        m = score_re.search(score_el.get_text(strip=True))
+        text = score_el.get_text(strip=True)
+        if _REDACTED_SCORE_RE.search(text):
+            return (None, None)
+        m = _SCORE_RE.search(text)
         if m:
             return int(m.group(1)), int(m.group(2))
 
     # Fallback: scan all descendant elements (dash only — no colon)
     for el in row.find_all(True):
         text = el.get_text(strip=True)
-        m = score_re.search(text)
+        if _REDACTED_SCORE_RE.search(text):
+            return (None, None)
+        m = _SCORE_RE.search(text)
         if m:
             return int(m.group(1)), int(m.group(2))
 
@@ -409,12 +421,17 @@ def parse_results(html: str) -> list[Result]:
             continue
 
         # --- Score: look for a .score* sibling between home and away cells ---
-        score_re = re.compile(r"(?<![0-9-])(\d{1,2})\s*[-–—]\s*(\d{1,2})(?![0-9])")
-        score: tuple[int, int] | None = None
+        # score is a (home, away) tuple where either value may be None (redacted).
+        # If score itself is None the match has no score element — skip it.
+        score: tuple[int | None, int | None] | None = None
         el = home_cell.find_next_sibling(True)
         while el and el is not away_cell:
             if any("score" in c for c in el.get("class", [])):
-                m = score_re.search(el.get_text(strip=True))
+                text = el.get_text(strip=True)
+                if _REDACTED_SCORE_RE.search(text):
+                    score = (None, None)
+                    break
+                m = _SCORE_RE.search(text)
                 if m:
                     score = (int(m.group(1)), int(m.group(2)))
                     break
@@ -491,7 +508,9 @@ def parse_results(html: str) -> list[Result]:
     log.info(f"  Found {len(results)} results")
     if results:
         r = results[0]
-        log.info(f"  Sample: {r.date} {r.home_team} {r.home_score}-{r.away_score} {r.away_team} [{r.division_label}]")
+        hs = "X" if r.home_score is None else r.home_score
+        as_ = "X" if r.away_score is None else r.away_score
+        log.info(f"  Sample: {r.date} {r.home_team} {hs}-{as_} {r.away_team} [{r.division_label}]")
     return results
 
 
