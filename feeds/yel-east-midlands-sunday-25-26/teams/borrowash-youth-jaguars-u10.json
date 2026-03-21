@@ -1,7 +1,7 @@
 {
   "team": "Borrowash Youth Jaguars U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-21T15:46:02Z",
+  "generated": "2026-03-21T15:54:07Z",
   "fixtures": [
     {
       "id": "18313702a97c6858b8f69a93c029880d",
@@ -37,5 +37,141 @@
       "opponent": "WBYFC Sporting U10"
     }
   ],
-  "results": []
+  "results": [
+    {
+      "id": "be933466458bf12e13207b4581ec6a63",
+      "date": "2026-03-15",
+      "time": "10:00",
+      "home_team": "Borrowash Youth Jaguars U10",
+      "away_team": "Basford United Girls U10 ^^",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "U10 Sun Spring Div 7 Blue",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Basford United Girls U10 ^^",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "8c4aa5056aa37efad45c99df84f6df84",
+      "date": "2026-03-08",
+      "time": "10:00",
+      "home_team": "Cotgrave FC White U10",
+      "away_team": "Borrowash Youth Jaguars U10",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "U10 Sun Spring Div 7 Blue",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Cotgrave FC White U10",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
+      "id": "8048adf377618f9cdb09b0b073eeb574",
+      "date": "2026-01-25",
+      "time": "10:00",
+      "home_team": "Sherwood FC Blue U10",
+      "away_team": "Borrowash Youth Jaguars U10",
+      "home_score": 7,
+      "away_score": 0,
+      "venue": "U10 Sun YEL Challenge Trophy",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Sherwood FC Blue U10",
+      "goals_for": 0,
+      "goals_against": 7
+    },
+    {
+      "id": "2f9c9be2f9f132eba08fc6c069c75e54",
+      "date": "2026-01-18",
+      "time": "10:00",
+      "home_team": "Wollaton H&B Gold U10",
+      "away_team": "Borrowash Youth Jaguars U10",
+      "home_score": 2610,
+      "away_score": 0,
+      "venue": "U10 Sun 2026 Friendly 7",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Wollaton H&B Gold U10",
+      "goals_for": 0,
+      "goals_against": 2610
+    },
+    {
+      "id": "1247e94378db931b8afe52850be0789a",
+      "date": "2026-01-04",
+      "time": "10:00",
+      "home_team": "Borrowash Youth Jaguars U10",
+      "away_team": "Eastwood Athletic Atalanta U10",
+      "home_score": 0,
+      "away_score": 12,
+      "venue": "U10 Sun Winter Div 7",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Eastwood Athletic Atalanta U10",
+      "goals_for": 0,
+      "goals_against": 12
+    },
+    {
+      "id": "36d322c4ce4d5f15414590d9a520a455",
+      "date": "2025-12-14",
+      "time": "10:00",
+      "home_team": "Cotgrave FC White U10",
+      "away_team": "Borrowash Youth Jaguars U10",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "U10 Sun Winter Div 7",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Cotgrave FC White U10",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "86ceca93d0a9eab32f2ae50a4c982a4d",
+      "date": "2025-10-12",
+      "time": "10:00",
+      "home_team": "Basford United Girls U10 ^^",
+      "away_team": "Borrowash Youth Jaguars U10",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "U10 Sun Winter Div 7",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Basford United Girls U10 ^^",
+      "goals_for": 2,
+      "goals_against": 4
+    },
+    {
+      "id": "073c5b72604f63bf6946b77ad6b849e3",
+      "date": "2025-10-05",
+      "time": "10:00",
+      "home_team": "Borrowash Youth Jaguars U10",
+      "away_team": "Barrowby FC Green U10",
+      "home_score": 0,
+      "away_score": 12,
+      "venue": "U10 Sun Winter Div 7",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Barrowby FC Green U10",
+      "goals_for": 0,
+      "goals_against": 12
+    },
+    {
+      "id": "790cb2662a61478a68df66479824571c",
+      "date": "2025-09-14",
+      "time": "10:00",
+      "home_team": "Borrowash Youth Jaguars U10",
+      "away_team": "Wollaton H&B Gold U10",
+      "home_score": 2510,
+      "away_score": 0,
+      "venue": "U10 Sun Autumn Group 6",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Wollaton H&B Gold U10",
+      "goals_for": 2510,
+      "goals_against": 0
+    }
+  ]
 }

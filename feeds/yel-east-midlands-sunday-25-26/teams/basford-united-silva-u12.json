@@ -1,7 +1,7 @@
 {
   "team": "Basford United Silva U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-21T15:46:02Z",
+  "generated": "2026-03-21T15:54:07Z",
   "fixtures": [
     {
       "id": "fe948665bef19c5c26b4ed9830b17627",
@@ -37,5 +37,111 @@
       "opponent": "Nottingham FC Blue U12"
     }
   ],
-  "results": []
+  "results": [
+    {
+      "id": "b9050078c660b94312e4991571c64820",
+      "date": "2026-03-15",
+      "time": "12:30",
+      "home_team": "Basford United Silva U12",
+      "away_team": "Woodhouse Colts Rhinos U12",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "U12 Sun Spring Div 1 Gold",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Woodhouse Colts Rhinos U12",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
+      "id": "6afa19fe958feb66452e9514d1206d57",
+      "date": "2026-03-08",
+      "time": "11:15",
+      "home_team": "Sherwood Colliery Cobras U12",
+      "away_team": "Basford United Silva U12",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "U12 Sun Spring Div 1 Gold",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery Cobras U12",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "deee6c684fea7d895a549cf4a0573283",
+      "date": "2026-03-01",
+      "time": "11:00",
+      "home_team": "Basford United Silva U12",
+      "away_team": "Sherwood Colliery Outlaws U12",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "U12 Sun Spring Div 1 Gold",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery Outlaws U12",
+      "goals_for": 2,
+      "goals_against": 3
+    },
+    {
+      "id": "6c8fa945c4b3e36bb6345615a72caf98",
+      "date": "2026-01-18",
+      "time": "11:00",
+      "home_team": "Basford United Silva U12",
+      "away_team": "Gedling FC Tigers U12 *",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "U12 Sun Spring Div 1 Gold",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Gedling FC Tigers U12 *",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "026e92e369e9a3e9c9f4fa1843c1f36e",
+      "date": "2025-12-07",
+      "time": "10:45",
+      "home_team": "Basford United Silva U12",
+      "away_team": "Mansfield Town Grassroots Blue U12",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "U12 Sun YEL Cup",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Mansfield Town Grassroots Blue U12",
+      "goals_for": 2,
+      "goals_against": 3
+    },
+    {
+      "id": "0ea973078f270c6ccf21d93eb2952fde",
+      "date": "2025-11-23",
+      "time": "12:30",
+      "home_team": "WBYFC Copa U12",
+      "away_team": "Basford United Silva U12",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "U12 Sunday",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "WBYFC Copa U12",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
+      "id": "ef9cd885398d44502571ec1219d9819d",
+      "date": "2025-09-07",
+      "time": "12:00",
+      "home_team": "Basford United Silva U12",
+      "away_team": "Newton & Blackwell U12",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "U12 Sunday",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Newton & Blackwell U12",
+      "goals_for": 2,
+      "goals_against": 0
+    }
+  ]
 }

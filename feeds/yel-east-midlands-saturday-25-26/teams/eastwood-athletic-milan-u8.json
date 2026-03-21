@@ -1,7 +1,7 @@
 {
   "team": "Eastwood Athletic Milan U8",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-21T15:46:02Z",
+  "generated": "2026-03-21T15:54:07Z",
   "fixtures": [
     {
       "id": "0fbd3e54de0fcfc5957fc4acbf559788",
@@ -48,5 +48,111 @@
       "opponent": "Breaston Park Shard Falcons U8"
     }
   ],
-  "results": []
+  "results": [
+    {
+      "id": "7654763d81e174e042a2ccd7395b4414",
+      "date": "2026-03-21",
+      "time": "10:00",
+      "home_team": "WBYFC Knights Black U8",
+      "away_team": "Eastwood Athletic Milan U8",
+      "home_score": 2610,
+      "away_score": 0,
+      "venue": "U8 Sat Spring 8",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "WBYFC Knights Black U8",
+      "goals_for": 0,
+      "goals_against": 2610
+    },
+    {
+      "id": "3a0089b8ab9b44aa15d4c558526cac99",
+      "date": "2026-03-14",
+      "time": "10:00",
+      "home_team": "Eastwood Athletic Milan U8",
+      "away_team": "Radcliffe Olympic Panthers U8",
+      "home_score": 2610,
+      "away_score": 0,
+      "venue": "U8 Sat Spring 8",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Radcliffe Olympic Panthers U8",
+      "goals_for": 2610,
+      "goals_against": 0
+    },
+    {
+      "id": "d4869e4590ac669bcc9a2f159fb6de36",
+      "date": "2026-03-07",
+      "time": "10:30",
+      "home_team": "DLFC Vipers U8",
+      "away_team": "Eastwood Athletic Milan U8",
+      "home_score": 2610,
+      "away_score": 30,
+      "venue": "U8 Sat Spring 8",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "DLFC Vipers U8",
+      "goals_for": 30,
+      "goals_against": 2610
+    },
+    {
+      "id": "11b42228bf5778b3fe20e8b998f1e258",
+      "date": "2026-02-28",
+      "time": "10:00",
+      "home_team": "Breaston Park Shard Falcons U8",
+      "away_team": "Eastwood Athletic Milan U8",
+      "home_score": 2610,
+      "away_score": 0,
+      "venue": "U8 Sat Spring 8",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Breaston Park Shard Falcons U8",
+      "goals_for": 0,
+      "goals_against": 2610
+    },
+    {
+      "id": "a9a524bf20657074591af18692ab32c4",
+      "date": "2026-01-31",
+      "time": "10:30",
+      "home_team": "Radcliffe Olympic Pumas U8",
+      "away_team": "Eastwood Athletic Milan U8",
+      "home_score": 2610,
+      "away_score": 30,
+      "venue": "U8 Sat Friendly 2026 Div 7 Blue",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic Pumas U8",
+      "goals_for": 30,
+      "goals_against": 2610
+    },
+    {
+      "id": "34e0ce3e9479f68483c55c32d8fdbd68",
+      "date": "2026-01-24",
+      "time": "09:45",
+      "home_team": "Sandiacre Town Saints U8",
+      "away_team": "Eastwood Athletic Milan U8",
+      "home_score": 2609,
+      "away_score": 45,
+      "venue": "U8 Saturday",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Sandiacre Town Saints U8",
+      "goals_for": 45,
+      "goals_against": 2609
+    },
+    {
+      "id": "f358ed33cf9bbc7fdc045fbcf40f8603",
+      "date": "2026-01-17",
+      "time": "10:00",
+      "home_team": "Moorgreen Colts U8",
+      "away_team": "Eastwood Athletic Milan U8",
+      "home_score": 2610,
+      "away_score": 0,
+      "venue": "U8 Sat Friendly 2026 Div 7 Blue",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Moorgreen Colts U8",
+      "goals_for": 0,
+      "goals_against": 2610
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "team": "AJ Sport Black U7",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-21T15:46:02Z",
+  "generated": "2026-03-21T15:54:07Z",
   "fixtures": [
     {
       "id": "90eb35f22d20a37f3145678ba7f8e25c",
@@ -59,5 +59,96 @@
       "opponent": "Castle Donington Jets U7"
     }
   ],
-  "results": []
+  "results": [
+    {
+      "id": "3d767306671284c1efa925f79c1d0b3b",
+      "date": "2026-03-15",
+      "time": "10:00",
+      "home_team": "AJ Sport Black U7",
+      "away_team": "Mansfield Athletic U7",
+      "home_score": 2610,
+      "away_score": 0,
+      "venue": "U7 Sun Spring White",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Mansfield Athletic U7",
+      "goals_for": 2610,
+      "goals_against": 0
+    },
+    {
+      "id": "e3b1471b2e23ea35fd3680686ba362aa",
+      "date": "2026-03-08",
+      "time": "10:00",
+      "home_team": "Alvaston Athletic White U7",
+      "away_team": "AJ Sport Black U7",
+      "home_score": 2610,
+      "away_score": 0,
+      "venue": "U7 Sun Spring White",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Alvaston Athletic White U7",
+      "goals_for": 0,
+      "goals_against": 2610
+    },
+    {
+      "id": "e5e6a9a870a3d85c377cc681ebb412fa",
+      "date": "2026-03-01",
+      "time": "10:00",
+      "home_team": "Castle Donington Jets U7",
+      "away_team": "AJ Sport Black U7",
+      "home_score": 2610,
+      "away_score": 0,
+      "venue": "U7 Sun Spring White",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Castle Donington Jets U7",
+      "goals_for": 0,
+      "goals_against": 2610
+    },
+    {
+      "id": "4f9d4e7a83f8bfe3af5a9a37af55a01f",
+      "date": "2026-02-15",
+      "time": "10:00",
+      "home_team": "Stapleford Town Saxons U7",
+      "away_team": "AJ Sport Black U7",
+      "home_score": 2610,
+      "away_score": 0,
+      "venue": "U7 Sun Friendly 2026 White",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Stapleford Town Saxons U7",
+      "goals_for": 0,
+      "goals_against": 2610
+    },
+    {
+      "id": "43b5346034f69a5aed51a466720db8a3",
+      "date": "2026-02-01",
+      "time": "10:00",
+      "home_team": "AJ Sport Black U7",
+      "away_team": "Sherwood FC Rangers U7",
+      "home_score": 2610,
+      "away_score": 0,
+      "venue": "U7 Sun Friendly 2026 White",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Sherwood FC Rangers U7",
+      "goals_for": 2610,
+      "goals_against": 0
+    },
+    {
+      "id": "f614469cc03a6af0c68a51f7d35b4139",
+      "date": "2026-01-18",
+      "time": "10:00",
+      "home_team": "AJ Sport Black U7",
+      "away_team": "Alvaston Athletic White U7",
+      "home_score": 2610,
+      "away_score": 0,
+      "venue": "U7 Sun Friendly 2026 White",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Alvaston Athletic White U7",
+      "goals_for": 2610,
+      "goals_against": 0
+    }
+  ]
 }

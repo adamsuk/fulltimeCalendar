@@ -1,7 +1,7 @@
 {
   "team": "DLFC Emerald U7",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-21T15:46:02Z",
+  "generated": "2026-03-21T15:54:07Z",
   "fixtures": [
     {
       "id": "348b4a831e9b1000a0a2768bb379c3ee",
@@ -48,5 +48,96 @@
       "opponent": "Hemington Hammers Hammerheads U7"
     }
   ],
-  "results": []
+  "results": [
+    {
+      "id": "c3eac29ed46809754484574975b95850",
+      "date": "2026-03-21",
+      "time": "09:00",
+      "home_team": "DLFC Emerald U7",
+      "away_team": "Spirit Celtic Pumas U7",
+      "home_score": 2609,
+      "away_score": 0,
+      "venue": "U7 Sat Spring 6",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Spirit Celtic Pumas U7",
+      "goals_for": 2609,
+      "goals_against": 0
+    },
+    {
+      "id": "bb9ef1f8b8eff782bd754680b4933760",
+      "date": "2026-03-14",
+      "time": "10:00",
+      "home_team": "Long Bennington FC U7",
+      "away_team": "DLFC Emerald U7",
+      "home_score": 2610,
+      "away_score": 0,
+      "venue": "U7 Sat Spring 6",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Long Bennington FC U7",
+      "goals_for": 0,
+      "goals_against": 2610
+    },
+    {
+      "id": "82f6924371df310d5e98d49cf35d2aae",
+      "date": "2026-03-07",
+      "time": "09:00",
+      "home_team": "DLFC Emerald U7",
+      "away_team": "Priory Celtic Green U7",
+      "home_score": 2609,
+      "away_score": 0,
+      "venue": "U7 Sat Spring 6",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Priory Celtic Green U7",
+      "goals_for": 2609,
+      "goals_against": 0
+    },
+    {
+      "id": "9baf77d9076b06a6c551aa400ff47b48",
+      "date": "2026-01-31",
+      "time": "09:30",
+      "home_team": "Stapleford Town Saxons U7",
+      "away_team": "DLFC Emerald U7",
+      "home_score": 2609,
+      "away_score": 30,
+      "venue": "U7 Sat Friendly 2026 New",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Stapleford Town Saxons U7",
+      "goals_for": 30,
+      "goals_against": 2609
+    },
+    {
+      "id": "421f2e9b08e960249a501666a53e7163",
+      "date": "2026-01-24",
+      "time": "10:00",
+      "home_team": "Hemington Hammers Hammerheads U7",
+      "away_team": "DLFC Emerald U7",
+      "home_score": 2610,
+      "away_score": 0,
+      "venue": "U7 Saturday",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Hemington Hammers Hammerheads U7",
+      "goals_for": 0,
+      "goals_against": 2610
+    },
+    {
+      "id": "66ccd5115736c0d68646a4e537ff5d22",
+      "date": "2026-01-17",
+      "time": "10:00",
+      "home_team": "DLFC Emerald U7",
+      "away_team": "Collingham FC Cougars U7",
+      "home_score": 2610,
+      "away_score": 0,
+      "venue": "U7 Sat Friendly 2026 New",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Collingham FC Cougars U7",
+      "goals_for": 2610,
+      "goals_against": 0
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "team": "Newton & Blackwell U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-21T15:46:02Z",
+  "generated": "2026-03-21T15:54:07Z",
   "fixtures": [
     {
       "id": "60c18bea2b897bbf0b5a12f6e5404e1e",
@@ -37,5 +37,111 @@
       "opponent": "Kirkby Colts Red U12"
     }
   ],
-  "results": []
+  "results": [
+    {
+      "id": "53b45c229f38088e21f975b382b315b8",
+      "date": "2026-03-15",
+      "time": "10:00",
+      "home_team": "WBYFC Copa U12",
+      "away_team": "Newton & Blackwell U12",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "U12 Sun Spring Div 1 Silver",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "WBYFC Copa U12",
+      "goals_for": 2,
+      "goals_against": 5
+    },
+    {
+      "id": "848738adf9287cf9e2be7d454c54f4ee",
+      "date": "2026-03-08",
+      "time": "10:00",
+      "home_team": "Newton & Blackwell U12",
+      "away_team": "Mansfield Athletic U12",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "U12 Sun Spring Div 1 Silver",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Mansfield Athletic U12",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
+      "id": "f0f807fa4513236573bb3ebefd40bc45",
+      "date": "2026-03-01",
+      "time": "11:00",
+      "home_team": "Arnold Town Maroon U12",
+      "away_team": "Newton & Blackwell U12",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "U12 Sun Spring Div 1 Silver",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Arnold Town Maroon U12",
+      "goals_for": 5,
+      "goals_against": 1
+    },
+    {
+      "id": "2a63b1217f7bdbdc2f64398e2a7a9361",
+      "date": "2026-01-25",
+      "time": "11:30",
+      "home_team": "Newton & Blackwell U12",
+      "away_team": "Clifton All Whites Black U12",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "U12 Sun Spring Div 1 Silver",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Clifton All Whites Black U12",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
+      "id": "6477d3b08b3026b499e903d7d9f2b49e",
+      "date": "2025-12-07",
+      "time": "10:00",
+      "home_team": "Newton & Blackwell U12",
+      "away_team": "Arnold Town Maroon U12",
+      "home_score": 2510,
+      "away_score": 0,
+      "venue": "U12 Sun YEL Trophy",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Arnold Town Maroon U12",
+      "goals_for": 2510,
+      "goals_against": 0
+    },
+    {
+      "id": "2dccc5ecfe6a4d6efb52b260b2b9b0f3",
+      "date": "2025-11-30",
+      "time": "11:00",
+      "home_team": "Basford United Iconz U12",
+      "away_team": "Newton & Blackwell U12",
+      "home_score": 4,
+      "away_score": 6,
+      "venue": "U12 Sunday",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Basford United Iconz U12",
+      "goals_for": 6,
+      "goals_against": 4
+    },
+    {
+      "id": "ef9cd885398d44502571ec1219d9819d",
+      "date": "2025-09-07",
+      "time": "12:00",
+      "home_team": "Basford United Silva U12",
+      "away_team": "Newton & Blackwell U12",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "U12 Sunday",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Basford United Silva U12",
+      "goals_for": 0,
+      "goals_against": 2
+    }
+  ]
 }
