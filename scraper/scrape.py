@@ -199,35 +199,7 @@ def fetch_results(season_id: str, league_name: str) -> list[Result]:
     url = f"{RESULTS_URL}?selectedSeason={season_id}&selectedFixtureGroupKey="
     log.info(f"Fetching results for {league_name} ...")
     html = _fetch_page(url, f"results/{league_name}")
-
-    if log.isEnabledFor(logging.DEBUG):
-        soup = BeautifulSoup(html, "html.parser")
-
-        # Basic structure stats
-        log.debug(f"Results HTML total length: {len(html)}")
-        log.debug(f"Results table count: {len(soup.find_all('table'))}")
-        log.debug(f"'home-team' in HTML: {'home-team' in html}")
-        log.debug(f"'road-team' in HTML: {'road-team' in html}")
-
-        # Dump all inline <script> blocks — these may reveal the data endpoint
-        inline_scripts = [
-            s.get_text(strip=True)
-            for s in soup.find_all("script")
-            if not s.get("src") and s.get_text(strip=True)
-        ]
-        for i, script in enumerate(inline_scripts):
-            log.debug(f"Inline script [{i}] ({len(script)} chars):\n{script[:2000]}")
-
-        # Dump all <select> elements (division/season pickers often reveal params)
-        for sel in soup.find_all("select"):
-            opts = [(o.get("value", ""), o.get_text(strip=True)) for o in sel.find_all("option")]
-            log.debug(f"<select name={sel.get('name','?')}>: {opts[:10]}")
-
-        # Look for any URL-like strings in the full HTML
-        api_candidates = re.findall(r'["\'](/[^\s"\'<>?#]{5,})["\']', html)
-        internal_paths = sorted({p for p in api_candidates if "fulltime" not in p and p.startswith("/") and "." not in p.split("/")[-1]})
-        log.debug(f"Internal path candidates in HTML: {internal_paths[:40]}")
-
+    log.debug(f"Results HTML length: {len(html)}, tables: {html.count('<table')}")
     return parse_results(html)
 
 
@@ -333,22 +305,22 @@ def parse_fixtures(html: str) -> list[Fixture]:
 def _parse_score(row) -> tuple[int, int] | None:
     """Extract (home_score, away_score) from a results row.
 
-    Tries the dedicated .score cell first, then falls back to scanning every
-    cell. Accepts dash, en-dash, em-dash, and colon as separators
-    (e.g. "2-1", "2 - 1", "2 : 1").
+    Works with both <td> and <div> rows.  Tries the dedicated .score
+    element first, then falls back to scanning every descendant.
+    Accepts dash, en-dash, em-dash, and colon as separators.
     """
     score_re = re.compile(r"(\d+)\s*[-–—:]\s*(\d+)")
 
-    # Preferred: score cell by class
-    score_td = row.find("td", class_="score")
-    if score_td:
-        m = score_re.search(score_td.get_text(strip=True))
+    # Preferred: any element with class "score"
+    score_el = row.find(class_="score")
+    if score_el:
+        m = score_re.search(score_el.get_text(strip=True))
         if m:
             return int(m.group(1)), int(m.group(2))
 
-    # Fallback: scan all cells
-    for td in row.find_all("td"):
-        text = td.get_text(strip=True)
+    # Fallback: scan all descendant elements
+    for el in row.find_all(True):
+        text = el.get_text(strip=True)
         m = score_re.search(text)
         if m:
             return int(m.group(1)), int(m.group(2))
@@ -357,72 +329,105 @@ def _parse_score(row) -> tuple[int, int] | None:
 
 
 def parse_results(html: str) -> list[Result]:
-    """Parse the Full-Time results table.
+    """Parse the Full-Time results page.
 
-    Same layout as the fixtures table, but the score cell contains a result
-    string like "2 - 1" instead of "VS".
+    The results page uses <div> rows (not <table> rows), so this parser
+    searches for elements by class regardless of tag type.  For each
+    home-team element it walks up the DOM to find the nearest ancestor
+    that also contains a road-team sibling, then extracts the score,
+    date, venue, and division from that container.
     """
     soup = BeautifulSoup(html, "html.parser")
     results: list[Result] = []
 
-    result_table = _find_fixture_table(soup, "results")
-    if not result_table:
+    home_cells = soup.find_all(True, class_="home-team")
+    if not home_cells:
+        log.warning("No home-team elements found in results page — page structure may have changed.")
         return []
 
-    for row in result_table.find_all("tr")[1:]:
-        home_td = row.find("td", class_="home-team")
-        away_td = row.find("td", class_="road-team")
-        if not home_td or not away_td:
+    if log.isEnabledFor(logging.DEBUG):
+        first = home_cells[0]
+        log.debug(
+            f"First home-team: <{first.name}> inside <{first.parent.name}>; "
+            f"row HTML sample: {str(first.parent)[:400]}"
+        )
+
+    seen: set[str] = set()
+
+    for home_cell in home_cells:
+        # Walk up until we reach an ancestor that also contains road-team
+        row = home_cell.parent
+        for _ in range(8):
+            if row is None:
+                break
+            if row.find(True, class_="road-team"):
+                break
+            row = getattr(row, "parent", None)
+
+        if row is None:
             continue
 
-        home = clean_team_name(home_td.get_text(strip=True))
-        away = clean_team_name(away_td.get_text(strip=True))
+        away_cell = row.find(True, class_="road-team")
+        if not away_cell:
+            continue
+
+        home = clean_team_name(home_cell.get_text(strip=True))
+        away = clean_team_name(away_cell.get_text(strip=True))
         if not home or not away:
             continue
 
         score = _parse_score(row)
         if score is None:
-            log.debug(f"No score found for {home} v {away} — skipping (postponed?)")
+            log.debug(f"No score for {home} v {away} — skipping (postponed?)")
             continue
         home_score, away_score = score
 
         date_str = ""
         time_str = ""
-        for td in row.find_all("td"):
-            cell_text = td.get_text(strip=True)
-            dm = re.search(r"(\d{2}/\d{2}/\d{2})", cell_text)
+        for el in row.find_all(True):
+            text = el.get_text(strip=True)
+            dm = re.search(r"(\d{2}/\d{2}/\d{2})", text)
             if dm:
                 date_str = dm.group(1)
-                tm = re.search(r"(\d{1,2}:\d{2})", cell_text)
+                tm = re.search(r"(\d{1,2}:\d{2})", text)
                 if tm:
                     time_str = tm.group(1)
                 break
 
         venue = ""
         competition = ""
-        for td in away_td.find_next_siblings("td"):
-            classes = td.get("class", [])
+        for el in away_cell.find_next_siblings():
+            classes = el.get("class", [])
             if "status-notes" in classes:
                 break
-            text = td.get_text(strip=True)
+            text = el.get_text(strip=True)
             if not text:
                 continue
             if not venue:
                 venue = text
             elif not competition:
                 competition = text
+                break
 
-        if date_str:
-            results.append(Result(
-                date=date_str,
-                time=time_str,
-                home_team=home,
-                away_team=away,
-                home_score=home_score,
-                away_score=away_score,
-                venue=venue,
-                division_label=competition or "Unknown Division",
-            ))
+        if not date_str:
+            continue
+
+        # Deduplicate: same match can appear in multiple ancestor walk steps
+        key = f"{date_str}|{home}|{away}"
+        if key in seen:
+            continue
+        seen.add(key)
+
+        results.append(Result(
+            date=date_str,
+            time=time_str,
+            home_team=home,
+            away_team=away,
+            home_score=home_score,
+            away_score=away_score,
+            venue=venue,
+            division_label=competition or "Unknown Division",
+        ))
 
     log.info(f"  Found {len(results)} results")
     return results
