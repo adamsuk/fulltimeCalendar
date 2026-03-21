@@ -66,8 +66,8 @@ class Result(NamedTuple):
     time: str
     home_team: str
     away_team: str
-    home_score: int
-    away_score: int
+    home_score: int | None
+    away_score: int | None
     venue: str
     division_label: str
 
@@ -302,27 +302,41 @@ def parse_fixtures(html: str) -> list[Fixture]:
     return fixtures
 
 
-def _parse_score(row) -> tuple[int, int] | None:
+_REDACTED_SCORE_RE = re.compile(r"\bX\s*[-–—]\s*X\b", re.IGNORECASE)
+_SCORE_RE = re.compile(r"(?<![0-9-])(\d{1,2})\s*[-–—]\s*(\d{1,2})(?![0-9])")
+
+
+def _parse_score(row) -> tuple[int | None, int | None] | None:
     """Extract (home_score, away_score) from a results row.
 
-    Works with both <td> and <div> rows.  Accepts dash, en-dash, em-dash,
-    and colon as separators (e.g. "2-1", "2 - 1", "2 : 1").
-    Tries the dedicated .score / .score-col element first, then falls back
-    to scanning every descendant.
-    """
-    score_re = re.compile(r"(\d+)\s*[-–—:]\s*(\d+)")
+    Returns:
+      (int, int)      — numeric score found
+      (None, None)    — score is redacted (X-X)
+      None            — no score element found at all (skip the row)
 
-    # Preferred: any element whose class contains "score"
+    Uses \d{1,2} (1–2 digit numbers only) to avoid false matches on:
+      - season notation like '2025-26'
+      - pagination text like '1-100 of 2847'
+      - ISO-style dates like '2025-11-15'
+    Football scores for youth teams fit comfortably within 0-99.
+    Colon is excluded as a separator to avoid matching kick-off times.
+    """
+    # Preferred: dedicated score element (class contains "score")
     score_el = row.find(True, class_=re.compile(r"\bscore\b"))
     if score_el:
-        m = score_re.search(score_el.get_text(strip=True))
+        text = score_el.get_text(strip=True)
+        if _REDACTED_SCORE_RE.search(text):
+            return (None, None)
+        m = _SCORE_RE.search(text)
         if m:
             return int(m.group(1)), int(m.group(2))
 
-    # Fallback: scan all descendant elements
+    # Fallback: scan all descendant elements (dash only — no colon)
     for el in row.find_all(True):
         text = el.get_text(strip=True)
-        m = score_re.search(text)
+        if _REDACTED_SCORE_RE.search(text):
+            return (None, None)
+        m = _SCORE_RE.search(text)
         if m:
             return int(m.group(1)), int(m.group(2))
 
@@ -365,23 +379,39 @@ def parse_results(html: str) -> list[Result]:
     results: list[Result] = []
     seen: set[str] = set()
 
+    _road_re = re.compile(r"\broad-team")
+
     for home_cell in home_cells:
-        # Walk up to the nearest ancestor that also contains a road-team element
-        row = home_cell.parent
-        for _ in range(8):
-            if row is None:
-                break
-            if row.find(True, class_=re.compile(r"\broad-team")):
-                break
-            row = getattr(row, "parent", None)
+        away_cell = None
+        row = home_cell.parent  # default row context
 
-        if row is None:
-            continue
+        # Strategy 1: road-team is a direct sibling (flat / single-level layout).
+        # find_next_sibling pairs the away cell for THIS row only.
+        sib = home_cell.find_next_sibling(True, class_=_road_re)
+        if sib:
+            away_cell = sib
+            # row stays as home_cell.parent (they share the same parent)
 
-        away_cell = row.find(True, class_=re.compile(r"\broad-team"))
+        if not away_cell:
+            # Strategy 2: nested layout — walk up to the tightest ancestor that
+            # contains exactly one road-team element (the paired one).
+            candidate = home_cell.parent
+            for _ in range(8):
+                if candidate is None:
+                    break
+                road_cells = candidate.find_all(True, class_=_road_re)
+                if len(road_cells) == 1:
+                    away_cell = road_cells[0]
+                    row = candidate
+                    break
+                if len(road_cells) > 1:
+                    # Ancestor has multiple rows — fall back to next-in-document
+                    away_cell = home_cell.find_next(True, class_=_road_re)
+                    break
+                candidate = getattr(candidate, "parent", None)
+
         if not away_cell:
             continue
-        # Skip header cells in away column too
         if away_cell.get_text(strip=True).lower() in ("away team", "road team", "away", ""):
             continue
 
@@ -390,15 +420,35 @@ def parse_results(html: str) -> list[Result]:
         if not home or not away:
             continue
 
-        score = _parse_score(row)
+        # --- Score: look for a .score* sibling between home and away cells ---
+        # score is a (home, away) tuple where either value may be None (redacted).
+        # If score itself is None the match has no score element — skip it.
+        score: tuple[int | None, int | None] | None = None
+        el = home_cell.find_next_sibling(True)
+        while el and el is not away_cell:
+            if any("score" in c for c in el.get("class", [])):
+                text = el.get_text(strip=True)
+                if _REDACTED_SCORE_RE.search(text):
+                    score = (None, None)
+                    break
+                m = _SCORE_RE.search(text)
+                if m:
+                    score = (int(m.group(1)), int(m.group(2)))
+                    break
+            el = el.find_next_sibling(True)
+        if score is None:
+            # Nested layout fallback: search within the row container
+            score = _parse_score(row)
         if score is None:
             log.debug(f"No score for {home} v {away} — skipping (postponed?)")
             continue
         home_score, away_score = score
 
+        # --- Date/time: look for a sibling before home_cell ---
         date_str = ""
         time_str = ""
-        for el in row.find_all(True):
+        el = home_cell.find_previous_sibling(True)
+        while el:
             text = el.get_text(strip=True)
             dm = re.search(r"(\d{2}/\d{2}/\d{2})", text)
             if dm:
@@ -407,7 +457,20 @@ def parse_results(html: str) -> list[Result]:
                 if tm:
                     time_str = tm.group(1)
                 break
+            el = el.find_previous_sibling(True)
+        if not date_str:
+            # Nested layout fallback: scan all descendants of row
+            for el in row.find_all(True):
+                text = el.get_text(strip=True)
+                dm = re.search(r"(\d{2}/\d{2}/\d{2})", text)
+                if dm:
+                    date_str = dm.group(1)
+                    tm = re.search(r"(\d{1,2}:\d{2})", text)
+                    if tm:
+                        time_str = tm.group(1)
+                    break
 
+        # --- Venue / competition: siblings after away_cell ---
         venue = ""
         competition = ""
         for el in away_cell.find_next_siblings():
@@ -443,6 +506,11 @@ def parse_results(html: str) -> list[Result]:
         ))
 
     log.info(f"  Found {len(results)} results")
+    if results:
+        r = results[0]
+        hs = "X" if r.home_score is None else r.home_score
+        as_ = "X" if r.away_score is None else r.away_score
+        log.info(f"  Sample: {r.date} {r.home_team} {hs}-{as_} {r.away_team} [{r.division_label}]")
     return results
 
 
