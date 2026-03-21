@@ -199,11 +199,35 @@ def fetch_results(season_id: str, league_name: str) -> list[Result]:
     url = f"{RESULTS_URL}?selectedSeason={season_id}&selectedFixtureGroupKey="
     log.info(f"Fetching results for {league_name} ...")
     html = _fetch_page(url, f"results/{league_name}")
+
     if log.isEnabledFor(logging.DEBUG):
-        # Dump body section only so we can see the actual content structure
-        body_start = html.find("<body")
-        snippet = html[body_start:body_start + 20000] if body_start != -1 else html[:20000]
-        log.debug(f"Results page body (20k):\n{snippet}")
+        soup = BeautifulSoup(html, "html.parser")
+
+        # Basic structure stats
+        log.debug(f"Results HTML total length: {len(html)}")
+        log.debug(f"Results table count: {len(soup.find_all('table'))}")
+        log.debug(f"'home-team' in HTML: {'home-team' in html}")
+        log.debug(f"'road-team' in HTML: {'road-team' in html}")
+
+        # Dump all inline <script> blocks — these may reveal the data endpoint
+        inline_scripts = [
+            s.get_text(strip=True)
+            for s in soup.find_all("script")
+            if not s.get("src") and s.get_text(strip=True)
+        ]
+        for i, script in enumerate(inline_scripts):
+            log.debug(f"Inline script [{i}] ({len(script)} chars):\n{script[:2000]}")
+
+        # Dump all <select> elements (division/season pickers often reveal params)
+        for sel in soup.find_all("select"):
+            opts = [(o.get("value", ""), o.get_text(strip=True)) for o in sel.find_all("option")]
+            log.debug(f"<select name={sel.get('name','?')}>: {opts[:10]}")
+
+        # Look for any URL-like strings in the full HTML
+        api_candidates = re.findall(r'["\'](/[^\s"\'<>?#]{5,})["\']', html)
+        internal_paths = sorted({p for p in api_candidates if "fulltime" not in p and p.startswith("/") and "." not in p.split("/")[-1]})
+        log.debug(f"Internal path candidates in HTML: {internal_paths[:40]}")
+
     return parse_results(html)
 
 
