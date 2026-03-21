@@ -23,7 +23,8 @@ log = logging.getLogger(__name__)
 # Config
 # ---------------------------------------------------------------------------
 
-BASE_URL = "https://fulltime.thefa.com/fixtures/1/100000.html"
+FIXTURES_URL = "https://fulltime.thefa.com/fixtures/1/100000.html"
+RESULTS_URL = "https://fulltime.thefa.com/results.html"
 
 # Each league is identified by its selectedSeason parameter on Full-Time.
 # Update these season IDs at the start of each new season.
@@ -57,16 +58,23 @@ class Fixture(NamedTuple):
     division_label: str
 
 
+class Result(NamedTuple):
+    date: str
+    time: str
+    home_team: str
+    away_team: str
+    home_score: int
+    away_score: int
+    venue: str
+    division_label: str
+
+
 # ---------------------------------------------------------------------------
 # Scraping
 # ---------------------------------------------------------------------------
 
-def fetch_fixtures(season_id: str, league_name: str) -> list[Fixture]:
-    """Fetch all fixtures for a given season/league in a single request."""
-    url = f"{BASE_URL}?selectedSeason={season_id}"
-    log.info(f"Fetching {league_name} from {url} ...")
-
-    # Use SOCKS5 proxy if configured (e.g. Tor on 127.0.0.1:9050 in CI)
+def _fetch_page(url: str, label: str) -> str:
+    """Fetch a URL with retries and browser impersonation. Returns response text."""
     proxy = os.environ.get("SOCKS_PROXY")
     proxies = {"https": proxy, "http": proxy} if proxy else None
 
@@ -76,21 +84,34 @@ def fetch_fixtures(season_id: str, league_name: str) -> list[Fixture]:
             with curl_requests.Session(impersonate="chrome", proxies=proxies) as session:
                 resp = session.get(url, timeout=HTTP_TIMEOUT)
                 resp.raise_for_status()
-
-                return parse_fixtures(resp.text)
+                return resp.text
         except Exception as e:
             last_err = e
             if attempt < HTTP_RETRIES:
                 wait = HTTP_BACKOFF_FACTOR * (2 ** (attempt - 1))
                 log.warning(
-                    f"Attempt {attempt}/{HTTP_RETRIES} failed: {e} "
+                    f"{label} attempt {attempt}/{HTTP_RETRIES} failed: {e} "
                     f"— retrying in {wait}s"
                 )
                 time.sleep(wait)
             else:
-                log.error(f"All {HTTP_RETRIES} attempts failed: {e}")
+                log.error(f"{label} all {HTTP_RETRIES} attempts failed: {e}")
 
     raise last_err  # type: ignore[misc]
+
+
+def fetch_fixtures(season_id: str, league_name: str) -> list[Fixture]:
+    """Fetch all upcoming fixtures for a given season/league."""
+    url = f"{FIXTURES_URL}?selectedSeason={season_id}&selectedFixtureGroupKey="
+    log.info(f"Fetching fixtures for {league_name} ...")
+    return parse_fixtures(_fetch_page(url, f"fixtures/{league_name}"))
+
+
+def fetch_results(season_id: str, league_name: str) -> list[Result]:
+    """Fetch all results for a given season/league."""
+    url = f"{RESULTS_URL}?selectedSeason={season_id}&selectedFixtureGroupKey="
+    log.info(f"Fetching results for {league_name} ...")
+    return parse_results(_fetch_page(url, f"results/{league_name}"))
 
 
 def parse_fixtures(html: str) -> list[Fixture]:
@@ -177,6 +198,88 @@ def parse_fixtures(html: str) -> list[Fixture]:
 
     log.info(f"  Found {len(fixtures)} fixtures")
     return fixtures
+
+
+def parse_results(html: str) -> list[Result]:
+    """Parse the Full-Time results table.
+
+    Same layout as the fixtures table, but the score cell (class: score)
+    contains a result string like "2 - 1" instead of "VS".
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    results: list[Result] = []
+
+    tables = soup.find_all("table")
+    result_table = None
+    for t in tables:
+        if t.find(string=re.compile(r"Home Team", re.I)):
+            result_table = t
+            break
+
+    if not result_table:
+        log.warning("No result table found — page structure may have changed.")
+        return []
+
+    for row in result_table.find_all("tr")[1:]:
+        home_td = row.find("td", class_="home-team")
+        away_td = row.find("td", class_="road-team")
+        if not home_td or not away_td:
+            continue
+
+        home = clean_team_name(home_td.get_text(strip=True))
+        away = clean_team_name(away_td.get_text(strip=True))
+        if not home or not away:
+            continue
+
+        # Score cell
+        score_td = row.find("td", class_="score")
+        score_text = score_td.get_text(strip=True) if score_td else ""
+        score_match = re.search(r"(\d+)\s*[-–]\s*(\d+)", score_text)
+        if not score_match:
+            continue  # skip rows without a valid score (e.g. postponed)
+        home_score = int(score_match.group(1))
+        away_score = int(score_match.group(2))
+
+        date_str = ""
+        time_str = ""
+        for td in row.find_all("td"):
+            cell_text = td.get_text(strip=True)
+            dm = re.search(r"(\d{2}/\d{2}/\d{2})", cell_text)
+            if dm:
+                date_str = dm.group(1)
+                tm = re.search(r"(\d{1,2}:\d{2})", cell_text)
+                if tm:
+                    time_str = tm.group(1)
+                break
+
+        venue = ""
+        competition = ""
+        for td in away_td.find_next_siblings("td"):
+            classes = td.get("class", [])
+            if "status-notes" in classes:
+                break
+            text = td.get_text(strip=True)
+            if not text:
+                continue
+            if not venue:
+                venue = text
+            elif not competition:
+                competition = text
+
+        if date_str:
+            results.append(Result(
+                date=date_str,
+                time=time_str,
+                home_team=home,
+                away_team=away,
+                home_score=home_score,
+                away_score=away_score,
+                venue=venue,
+                division_label=competition or "Unknown Division",
+            ))
+
+    log.info(f"  Found {len(results)} results")
+    return results
 
 
 def clean_team_name(name: str) -> str:
@@ -309,12 +412,33 @@ def fixture_to_dict(fixture: Fixture) -> dict:
     }
 
 
-def write_league_feed(league_name: str, league_slug: str, fixtures: list[Fixture], generated: str) -> None:
-    """Write a single JSON file containing all fixtures for a league."""
+def result_to_dict(result: Result) -> dict:
+    """Serialise a Result to a plain dict for JSON output."""
+    return {
+        "id": hashlib.md5(f"{result.date}|{result.home_team}|{result.away_team}".encode()).hexdigest(),
+        "date": fixture_to_iso_date(result.date),
+        "time": result.time or "10:00",
+        "home_team": result.home_team,
+        "away_team": result.away_team,
+        "home_score": result.home_score,
+        "away_score": result.away_score,
+        "venue": result.venue,
+        "division": result.division_label,
+    }
+
+
+def write_league_feed(
+    league_name: str,
+    league_slug: str,
+    fixtures: list[Fixture],
+    results: list[Result],
+    generated: str,
+) -> None:
+    """Write fixtures.json and results.json for a league."""
     league_dir = FEEDS_DIR / league_slug
     league_dir.mkdir(parents=True, exist_ok=True)
 
-    payload = {
+    fixtures_payload = {
         "league": league_name,
         "generated": generated,
         "fixtures": sorted(
@@ -322,9 +446,22 @@ def write_league_feed(league_name: str, league_slug: str, fixtures: list[Fixture
             key=lambda x: (x["date"], x["time"]),
         ),
     }
-    out = league_dir / "fixtures.json"
-    out.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
-    log.info(f"  Written {out} ({len(fixtures)} fixtures)")
+    out_f = league_dir / "fixtures.json"
+    out_f.write_text(json.dumps(fixtures_payload, indent=2, ensure_ascii=False), encoding="utf-8")
+    log.info(f"  Written {out_f} ({len(fixtures)} fixtures)")
+
+    results_payload = {
+        "league": league_name,
+        "generated": generated,
+        "results": sorted(
+            [result_to_dict(r) for r in results],
+            key=lambda x: (x["date"], x["time"]),
+            reverse=True,  # most recent first
+        ),
+    }
+    out_r = league_dir / "results.json"
+    out_r.write_text(json.dumps(results_payload, indent=2, ensure_ascii=False), encoding="utf-8")
+    log.info(f"  Written {out_r} ({len(results)} results)")
 
 
 def write_team_feed(
@@ -333,28 +470,39 @@ def write_team_feed(
     league_name: str,
     league_slug: str,
     fixtures: list[Fixture],
+    results: list[Result],
     generated: str,
 ) -> None:
-    """Write a JSON file with fixtures relevant to a single team."""
+    """Write a JSON file with fixtures and results relevant to a single team."""
     team_dir = FEEDS_DIR / league_slug / "teams"
     team_dir.mkdir(parents=True, exist_ok=True)
 
     team_fixtures = []
     for f in fixtures:
         is_home = f.home_team == team_name
-        opponent = f.away_team if is_home else f.home_team
         d = fixture_to_dict(f)
         d["home_away"] = "home" if is_home else "away"
-        d["opponent"] = opponent
+        d["opponent"] = f.away_team if is_home else f.home_team
         team_fixtures.append(d)
-
     team_fixtures.sort(key=lambda x: (x["date"], x["time"]))
+
+    team_results = []
+    for r in results:
+        is_home = r.home_team == team_name
+        d = result_to_dict(r)
+        d["home_away"] = "home" if is_home else "away"
+        d["opponent"] = r.away_team if is_home else r.home_team
+        d["goals_for"] = r.home_score if is_home else r.away_score
+        d["goals_against"] = r.away_score if is_home else r.home_score
+        team_results.append(d)
+    team_results.sort(key=lambda x: (x["date"], x["time"]), reverse=True)
 
     payload = {
         "team": team_name,
         "league": league_name,
         "generated": generated,
         "fixtures": team_fixtures,
+        "results": team_results,
     }
     out = team_dir / f"{team_slug}.json"
     out.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
@@ -393,6 +541,7 @@ def write_club_feed(
     club_name: str,
     club_slug: str,
     team_fixtures: list[dict],
+    team_results: list[dict],
     generated: str,
 ) -> None:
     """Write feeds/clubs/<slug>.json aggregating all teams in a club across leagues."""
@@ -403,6 +552,7 @@ def write_club_feed(
         "club": club_name,
         "generated": generated,
         "fixtures": sorted(team_fixtures, key=lambda x: (x["date"], x["time"])),
+        "results": sorted(team_results, key=lambda x: (x["date"], x["time"]), reverse=True),
     }
     out = clubs_dir / f"{club_slug}.json"
     out.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
@@ -429,54 +579,75 @@ def main() -> None:
     total_teams = 0
     index_leagues: list[dict] = []
 
-    # Accumulate all team fixture dicts across leagues for club-level grouping.
-    # Each entry: {"team": str, "league": str, "fixture_dict": dict}
+    # Accumulate all team fixture/result dicts across leagues for club-level grouping.
     all_team_fixture_rows: list[dict] = []
+    all_team_result_rows: list[dict] = []
     all_team_names: list[str] = []
 
     for season_id, league_name in LEAGUES:
         try:
             fixtures = fetch_fixtures(season_id, league_name)
         except Exception as e:
-            log.error(f"Failed to fetch {league_name}: {e}")
+            log.error(f"Failed to fetch fixtures for {league_name}: {e}")
+            fixtures = []
+
+        try:
+            results = fetch_results(season_id, league_name)
+        except Exception as e:
+            log.error(f"Failed to fetch results for {league_name}: {e}")
+            results = []
+
+        if not fixtures and not results:
+            log.warning(f"No data found for {league_name}")
             continue
 
-        if not fixtures:
-            log.warning(f"No fixtures found for {league_name}")
-            continue
-
-        # Group by team name (appears as home or away)
-        teams: dict[str, list[Fixture]] = {}
+        # Group fixtures/results by team name
+        teams_fixtures: dict[str, list[Fixture]] = {}
         for f in fixtures:
             for team in (f.home_team, f.away_team):
                 if team:
-                    teams.setdefault(team, []).append(f)
+                    teams_fixtures.setdefault(team, []).append(f)
+
+        teams_results: dict[str, list[Result]] = {}
+        for r in results:
+            for team in (r.home_team, r.away_team):
+                if team:
+                    teams_results.setdefault(team, []).append(r)
+
+        all_teams = sorted(set(teams_fixtures) | set(teams_results))
 
         league_slug_name = slug(league_name)
         league_dir = OUTPUT_DIR / league_slug_name
         league_dir.mkdir(parents=True, exist_ok=True)
 
-        log.info(f"  {len(teams)} teams, writing to {league_dir}/")
+        log.info(f"  {len(all_teams)} teams, writing to {league_dir}/")
 
-        # --- ICS calendars ---
-        for team_name, team_fixtures in sorted(teams.items()):
-            ics_content = fixtures_to_ics(team_name, team_fixtures)
-            filename = league_dir / f"{slug(team_name)}.ics"
-            filename.write_text(ics_content, encoding="utf-8")
-            log.info(f"    {filename.name} ({len(team_fixtures)} fixtures)")
+        # --- ICS calendars (fixtures only) ---
+        for team_name in all_teams:
+            team_fixtures = teams_fixtures.get(team_name, [])
+            if team_fixtures:
+                ics_content = fixtures_to_ics(team_name, team_fixtures)
+                filename = league_dir / f"{slug(team_name)}.ics"
+                filename.write_text(ics_content, encoding="utf-8")
+                log.info(f"    {filename.name} ({len(team_fixtures)} fixtures)")
 
         # --- JSON feeds (league + team level) ---
-        write_league_feed(league_name, league_slug_name, fixtures, generated)
+        write_league_feed(league_name, league_slug_name, fixtures, results, generated)
 
         team_index_entries: list[dict] = []
-        for team_name, team_fixtures in sorted(teams.items()):
+        for team_name in all_teams:
             team_slug_name = slug(team_name)
-            write_team_feed(team_name, team_slug_name, league_name, league_slug_name, team_fixtures, generated)
+            write_team_feed(
+                team_name, team_slug_name, league_name, league_slug_name,
+                teams_fixtures.get(team_name, []),
+                teams_results.get(team_name, []),
+                generated,
+            )
             team_index_entries.append({"name": team_name, "slug": team_slug_name})
 
-            # Collect enriched fixture dicts for club-level aggregation
+            # Collect enriched dicts for club-level aggregation
             all_team_names.append(team_name)
-            for f in team_fixtures:
+            for f in teams_fixtures.get(team_name, []):
                 is_home = f.home_team == team_name
                 d = fixture_to_dict(f)
                 d["league"] = league_name
@@ -485,17 +656,26 @@ def main() -> None:
                 d["opponent"] = f.away_team if is_home else f.home_team
                 all_team_fixture_rows.append(d)
 
+            for r in teams_results.get(team_name, []):
+                is_home = r.home_team == team_name
+                d = result_to_dict(r)
+                d["league"] = league_name
+                d["team"] = team_name
+                d["home_away"] = "home" if is_home else "away"
+                d["opponent"] = r.away_team if is_home else r.home_team
+                d["goals_for"] = r.home_score if is_home else r.away_score
+                d["goals_against"] = r.away_score if is_home else r.home_score
+                all_team_result_rows.append(d)
+
         index_leagues.append({
             "name": league_name,
             "slug": league_slug_name,
             "teams": team_index_entries,
         })
 
-        total_teams += len(teams)
+        total_teams += len(all_teams)
 
     # --- JSON feeds (club level) ---
-    # Build prefix counts across ALL teams (all leagues) so cross-league clubs
-    # are grouped correctly, then write one feed per inferred club.
     prefix_counts = build_prefix_counts(all_team_names)
 
     club_fixtures: dict[str, list[dict]] = {}
@@ -503,17 +683,32 @@ def main() -> None:
         club_name = infer_club_name(row["team"], prefix_counts)
         club_fixtures.setdefault(club_name, []).append(row)
 
+    club_results: dict[str, list[dict]] = {}
+    for row in all_team_result_rows:
+        club_name = infer_club_name(row["team"], prefix_counts)
+        club_results.setdefault(club_name, []).append(row)
+
+    all_clubs = sorted(set(club_fixtures) | set(club_results))
+
     index_clubs: list[dict] = []
-    for club_name, rows in sorted(club_fixtures.items()):
+    for club_name in all_clubs:
         club_slug_name = slug(club_name)
-        write_club_feed(club_name, club_slug_name, rows, generated)
-        teams_in_club = sorted({r["team"] for r in rows})
+        write_club_feed(
+            club_name, club_slug_name,
+            club_fixtures.get(club_name, []),
+            club_results.get(club_name, []),
+            generated,
+        )
+        teams_in_club = sorted(
+            {r["team"] for r in club_fixtures.get(club_name, [])}
+            | {r["team"] for r in club_results.get(club_name, [])}
+        )
         index_clubs.append({
             "name": club_name,
             "slug": club_slug_name,
             "teams": teams_in_club,
         })
-        log.info(f"  Club feed: {club_slug_name} ({len(teams_in_club)} teams, {len(rows)} fixture entries)")
+        log.info(f"  Club feed: {club_slug_name} ({len(teams_in_club)} teams)")
 
     write_index(index_leagues, index_clubs, generated)
     log.info(
