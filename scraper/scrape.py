@@ -16,7 +16,10 @@ from typing import NamedTuple
 from curl_cffi import requests as curl_requests
 from bs4 import BeautifulSoup
 
-logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
+logging.basicConfig(
+    level=logging.DEBUG if os.environ.get("DEBUG") else logging.INFO,
+    format="%(levelname)s %(message)s",
+)
 log = logging.getLogger(__name__)
 
 # ---------------------------------------------------------------------------
@@ -111,7 +114,9 @@ def fetch_results(season_id: str, league_name: str) -> list[Result]:
     """Fetch all results for a given season/league."""
     url = f"{RESULTS_URL}?selectedSeason={season_id}&selectedFixtureGroupKey="
     log.info(f"Fetching results for {league_name} ...")
-    return parse_results(_fetch_page(url, f"results/{league_name}"))
+    html = _fetch_page(url, f"results/{league_name}")
+    log.debug(f"Results page HTML (first 2000 chars):\n{html[:2000]}")
+    return parse_results(html)
 
 
 def _find_fixture_table(soup: BeautifulSoup, context: str) -> object | None:
