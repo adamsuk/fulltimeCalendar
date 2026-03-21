@@ -305,14 +305,15 @@ def parse_fixtures(html: str) -> list[Fixture]:
 def _parse_score(row) -> tuple[int, int] | None:
     """Extract (home_score, away_score) from a results row.
 
-    Works with both <td> and <div> rows.  Tries the dedicated .score
-    element first, then falls back to scanning every descendant.
-    Accepts dash, en-dash, em-dash, and colon as separators.
+    Works with both <td> and <div> rows.  Accepts dash, en-dash, em-dash,
+    and colon as separators (e.g. "2-1", "2 - 1", "2 : 1").
+    Tries the dedicated .score / .score-col element first, then falls back
+    to scanning every descendant.
     """
     score_re = re.compile(r"(\d+)\s*[-–—:]\s*(\d+)")
 
-    # Preferred: any element with class "score"
-    score_el = row.find(class_="score")
+    # Preferred: any element whose class contains "score"
+    score_el = row.find(True, class_=re.compile(r"\bscore\b"))
     if score_el:
         m = score_re.search(score_el.get_text(strip=True))
         if m:
@@ -331,51 +332,57 @@ def _parse_score(row) -> tuple[int, int] | None:
 def parse_results(html: str) -> list[Result]:
     """Parse the Full-Time results page.
 
-    The results page uses <div> rows (not <table> rows), so this parser
-    searches for elements by class regardless of tag type.  For each
-    home-team element it walks up the DOM to find the nearest ancestor
-    that also contains a road-team sibling, then extracts the score,
-    date, venue, and division from that container.
+    The results page renders rows as <div> elements with classes like
+    "home-team-col" and "road-team-col".  Regex class matching picks up
+    all variations (home-team, home-team-col, etc.).
+    Header cells (text == "Home Team") are skipped automatically.
     """
-    # Use lxml if available — 10-50× faster than html.parser on large HTML.
     parser = "lxml" if _lxml_available() else "html.parser"
     log.info(f"  Parsing {len(html) // 1024}KB of results HTML with {parser} ...")
     soup = BeautifulSoup(html, parser)
 
-    # Check whether home-team appears as a class or just as text/href
-    home_cells = soup.find_all(True, class_="home-team")
-    log.info(f"  home-team class elements found: {len(home_cells)}")
+    # Match any element whose class list contains a token starting with "home-team"
+    home_cells = soup.find_all(True, class_=re.compile(r"\bhome-team"))
+    # Strip header cells — they contain exactly the label text, not a team name
+    home_cells = [
+        c for c in home_cells
+        if c.get_text(strip=True).lower() not in ("home team", "home", "")
+    ]
+    log.info(f"  home-team* elements (data rows): {len(home_cells)}")
+
     if not home_cells:
-        # Fallback: log what 'home-team' really is in this HTML so we can diagnose
         idx = html.find("home-team")
-        if idx != -1:
-            log.warning(f"  'home-team' appears in raw HTML but NOT as a class. Context: ...{html[max(0,idx-80):idx+80]}...")
-        else:
-            log.warning("  'home-team' not found anywhere in HTML.")
+        context = html[max(0, idx - 100):idx + 100] if idx != -1 else "<not found>"
+        log.warning(f"  No home-team data cells found. Raw context: ...{context}...")
         return []
 
-    # Log the structure of the first home-team element so we can see the layout
     first = home_cells[0]
-    log.info(f"  First home-team: <{first.name}> parent=<{first.parent.name}> text={first.get_text(strip=True)!r}")
+    log.info(
+        f"  First home cell: <{first.name} class={first.get('class')}> "
+        f"parent=<{first.parent.name}> text={first.get_text(strip=True)!r}"
+    )
 
     results: list[Result] = []
     seen: set[str] = set()
 
     for home_cell in home_cells:
-        # Walk up until we reach an ancestor that also contains road-team
+        # Walk up to the nearest ancestor that also contains a road-team element
         row = home_cell.parent
         for _ in range(8):
             if row is None:
                 break
-            if row.find(True, class_="road-team"):
+            if row.find(True, class_=re.compile(r"\broad-team")):
                 break
             row = getattr(row, "parent", None)
 
         if row is None:
             continue
 
-        away_cell = row.find(True, class_="road-team")
+        away_cell = row.find(True, class_=re.compile(r"\broad-team"))
         if not away_cell:
+            continue
+        # Skip header cells in away column too
+        if away_cell.get_text(strip=True).lower() in ("away team", "road team", "away", ""):
             continue
 
         home = clean_team_name(home_cell.get_text(strip=True))
@@ -404,8 +411,8 @@ def parse_results(html: str) -> list[Result]:
         venue = ""
         competition = ""
         for el in away_cell.find_next_siblings():
-            classes = el.get("class", [])
-            if "status-notes" in classes:
+            classes = " ".join(el.get("class", []))
+            if "status" in classes:
                 break
             text = el.get_text(strip=True)
             if not text:
