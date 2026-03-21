@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Keyworth United Black U13
+X-WR-CALDESC:Fixtures for Keyworth United Black U13 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:7843d0c805e36313c384dbc74750489b@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260418T110000
+DTEND;TZID=Europe/London:20260418T123000
+SUMMARY:⚽ Keyworth United Black U13 vs Priory Celtic Hoops U13 (Home)
+DESCRIPTION:Division: U13 Sat Spring Div 2 Red\nKeyworth United Black U13 v Priory Celtic Hoops U13\nKO: 11:00
+LOCATION:Platt Lane NG12 5GE
+END:VEVENT
+END:VCALENDAR

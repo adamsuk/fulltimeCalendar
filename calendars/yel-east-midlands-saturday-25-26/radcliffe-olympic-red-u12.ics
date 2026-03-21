@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Radcliffe Olympic Red U12
+X-WR-CALDESC:Fixtures for Radcliffe Olympic Red U12 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:1828c31a8042aeb1910eec8dc707fb5c@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Radcliffe Olympic Red U12 vs Teversal FC U12 (Home)
+DESCRIPTION:Division: U12 Sat Spring Div 2 Red\nRadcliffe Olympic Red U12 v Teversal FC U12\nKO: 10:00
+LOCATION:Bingham Road NG12 2GP
+END:VEVENT
+BEGIN:VEVENT
+UID:011976de673ed7e92ad7c11f98e9f6ca@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T123000
+SUMMARY:⚽ Radcliffe Olympic Red U12 vs Winthorpe & Cod T Black U12 (Away)
+DESCRIPTION:Division: U12 Sat Spring Div 2 Red\nWinthorpe & Cod T Black U12 v Radcliffe Olympic Red U12\nKO: 11:00
+LOCATION:Suthers School NG24 3NH
+END:VEVENT
+END:VCALENDAR

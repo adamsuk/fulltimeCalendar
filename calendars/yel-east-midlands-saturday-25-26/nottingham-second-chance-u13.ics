@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nottingham Second Chance U13
+X-WR-CALDESC:Fixtures for Nottingham Second Chance U13 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:a948328d30226cd6a6d800171af6cd88@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Nottingham Second Chance U13 vs Market Warsop Warriors U13 (Away)
+DESCRIPTION:Division: U13 Sat Spring Div 7 Red\nMarket Warsop Warriors U13 v Nottingham Second Chance U13\nKO: 10:00
+LOCATION:John Fretwell Centre NG19 8LL
+END:VEVENT
+END:VCALENDAR

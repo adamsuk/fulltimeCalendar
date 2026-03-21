@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bagthorpe Athletic U11
+X-WR-CALDESC:Fixtures for Bagthorpe Athletic U11 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:27cea6450e2ef52b0a765c28936e0f1a@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260328T103000
+DTEND;TZID=Europe/London:20260328T113000
+SUMMARY:⚽ Bagthorpe Athletic U11 vs Stapleford Town Warriors U11 (Away)
+DESCRIPTION:Division: U11 Sat Spring Div 3 Red\nStapleford Town Warriors U11 v Bagthorpe Athletic U11\nKO: 10:30
+LOCATION:Ilkeston Road Recreation Ground  NG9 8PY
+END:VEVENT
+BEGIN:VEVENT
+UID:a0745d59e864b7cc551f76c5f6acaf8f@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260414T180000
+DTEND;TZID=Europe/London:20260414T193000
+SUMMARY:⚽ Bagthorpe Athletic U11 vs Borrowash Youth Rams U11 (Home)
+DESCRIPTION:Division: U11 Sat Spring Div 3 Red\nBagthorpe Athletic U11 v Borrowash Youth Rams U11\nKO: 18:00
+LOCATION:Dixies Arms Park NG16 5HF
+END:VEVENT
+BEGIN:VEVENT
+UID:0ffe44413a6156367ac9a2935d8901b0@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Bagthorpe Athletic U11 vs Priory Celtic White U11 (Away)
+DESCRIPTION:Division: U11 Sat Spring Div 3 Red\nPriory Celtic White U11 v Bagthorpe Athletic U11\nKO: 10:00
+LOCATION:Kimberley Leisure Centre NG16 2NJ GP1
+END:VEVENT
+BEGIN:VEVENT
+UID:1c04d535f9b21024286a93748ec3aa19@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T123000
+SUMMARY:⚽ Bagthorpe Athletic U11 vs FC Cavaliers U11 (Home)
+DESCRIPTION:Division: U11 Sat Spring Div 3 Red\nBagthorpe Athletic U11 v FC Cavaliers U11\nKO: 11:00
+LOCATION:Dixies Arms Park NG16 5HF
+END:VEVENT
+END:VCALENDAR

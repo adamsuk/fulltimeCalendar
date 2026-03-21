@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Beaumont Park Pumas U12
+X-WR-CALDESC:Fixtures for Beaumont Park Pumas U12 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:f8e7fcef4de299f959c1914496858cf1@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260328T104500
+DTEND;TZID=Europe/London:20260328T113000
+SUMMARY:⚽ Beaumont Park Pumas U12 vs Basford United United U12 (Home)
+DESCRIPTION:Division: U12 Sat Spring Div 1 Gold\nBeaumont Park Pumas U12 v Basford United United U12\nKO: 10:45
+LOCATION:Beaumont Park LE4 1DS
+END:VEVENT
+BEGIN:VEVENT
+UID:179b3d4f8e0bf8a8f7c1265a4096fb98@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260418T104500
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Beaumont Park Pumas U12 vs Darley Sports Lions 2 U12 (Home)
+DESCRIPTION:Division: U12 Sat Spring Div 1 Gold\nBeaumont Park Pumas U12 v Darley Sports Lions 2 U12\nKO: 10:45
+LOCATION:Beaumont Park LE4 1DS
+END:VEVENT
+END:VCALENDAR

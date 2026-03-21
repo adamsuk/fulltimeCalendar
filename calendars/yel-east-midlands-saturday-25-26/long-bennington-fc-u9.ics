@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Long Bennington FC U9
+X-WR-CALDESC:Fixtures for Long Bennington FC U9 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:078c07e3430741803e882f28fc1b019c@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260328T100000
+DTEND;TZID=Europe/London:20260328T113000
+SUMMARY:⚽ Long Bennington FC U9 vs Keyworth United White U9 (Home)
+DESCRIPTION:Division: U9 Sat Spring Div 8 Blue\nLong Bennington FC U9 v Keyworth United White U9\nKO: 10:00
+LOCATION:Long Bennington QE2 Plyng Fld  NG23 5DJ
+END:VEVENT
+BEGIN:VEVENT
+UID:a792d3f5a9b3e8fdff89d511b09ecd1d@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Long Bennington FC U9 vs Gedling Southbank Jets U9 (Home)
+DESCRIPTION:Division: U9 Sat Spring Div 8 Blue\nLong Bennington FC U9 v Gedling Southbank Jets U9\nKO: 10:00
+LOCATION:Long Bennington QE2 Plyng Fld  NG23 5DJ
+END:VEVENT
+BEGIN:VEVENT
+UID:a4ef9c561f08ee30562abf38c989e8fa@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260425T111500
+DTEND;TZID=Europe/London:20260425T123000
+SUMMARY:⚽ Long Bennington FC U9 vs Bingham Town White U9 (Away)
+DESCRIPTION:Division: U9 Sat Spring Div 8 Blue\nBingham Town White U9 v Long Bennington FC U9\nKO: 11:15
+LOCATION:Butt Field NG13 8GG
+END:VEVENT
+END:VCALENDAR

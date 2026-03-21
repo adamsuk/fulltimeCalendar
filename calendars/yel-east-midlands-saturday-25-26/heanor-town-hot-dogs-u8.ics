@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Heanor Town Hot Dogs U8
+X-WR-CALDESC:Fixtures for Heanor Town Hot Dogs U8 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:d3f2a18605d5a3c1803e9abb1582e87a@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260328T100000
+DTEND;TZID=Europe/London:20260328T113000
+SUMMARY:⚽ Heanor Town Hot Dogs U8 vs Sandiacre Town Saints U8 (Away)
+DESCRIPTION:Division: U8 Sat Spring 5 Red\nSandiacre Town Saints U8 v Heanor Town Hot Dogs U8\nKO: 10:00
+LOCATION:St Giles Park NG10 5EL
+END:VEVENT
+BEGIN:VEVENT
+UID:4b03a5e4104560694c5d6f56872c39c7@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260411T100000
+DTEND;TZID=Europe/London:20260411T113000
+SUMMARY:⚽ Heanor Town Hot Dogs U8 vs Stapleford Town Saxons U8 (Home)
+DESCRIPTION:Division: U8 Sat Spring 5 Red\nHeanor Town Hot Dogs U8 v Stapleford Town Saxons U8\nKO: 10:00
+LOCATION:Lockton Avenue Playing Fields DE75 7EY
+END:VEVENT
+BEGIN:VEVENT
+UID:e80871483e928f1f9685ad3ee8175ca5@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Heanor Town Hot Dogs U8 vs Star Strike Tigers U8 (Away)
+DESCRIPTION:Division: U8 Sat Spring 5 Red\nStar Strike Tigers U8 v Heanor Town Hot Dogs U8\nKO: 10:00
+LOCATION:Robin Hood Road NG5 8NP
+END:VEVENT
+BEGIN:VEVENT
+UID:7b3628ddd1c74bc178eaa7c85aae28b4@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T113000
+SUMMARY:⚽ Heanor Town Hot Dogs U8 vs DLFC Ruby U8 (Home)
+DESCRIPTION:Division: U8 Sat Spring 5 Red\nHeanor Town Hot Dogs U8 v DLFC Ruby U8\nKO: 10:00
+LOCATION:Lockton Avenue Playing Fields DE75 7EY
+END:VEVENT
+END:VCALENDAR

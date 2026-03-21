@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Repton Casuals U13
+X-WR-CALDESC:Fixtures for Repton Casuals U13 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:9abcba115cf1fa3f3d7f4c35cf8aea81@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260328T110000
+DTEND;TZID=Europe/London:20260328T123000
+SUMMARY:⚽ Repton Casuals U13 vs South Normanton Athletic U13 (Home)
+DESCRIPTION:Division: U13 Sat Spring Div 2 Blue\nRepton Casuals U13 v South Normanton Athletic U13\nKO: 11:00
+LOCATION:Broomhills Lane DE65 6FS
+END:VEVENT
+BEGIN:VEVENT
+UID:e8d894ddd5882ec2b0b132faeb68bf63@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260414T180000
+DTEND;TZID=Europe/London:20260414T193000
+SUMMARY:⚽ Repton Casuals U13 vs AFC Chellaston Rams U13 (Home)
+DESCRIPTION:Division: U13 Sat Spring Div 2 Blue\nRepton Casuals U13 v AFC Chellaston Rams U13\nKO: 18:00
+LOCATION:Broomhills Lane DE65 6FS
+END:VEVENT
+BEGIN:VEVENT
+UID:baa88826db4aafa3590b6793ce638844@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260418T110000
+DTEND;TZID=Europe/London:20260418T123000
+SUMMARY:⚽ Repton Casuals U13 vs Silva FC Rushcliffe Black U13 (Home)
+DESCRIPTION:Division: U13 Sat Spring Div 2 Blue\nRepton Casuals U13 v Silva FC Rushcliffe Black U13\nKO: 11:00
+LOCATION:Broomhills Lane DE65 6FS
+END:VEVENT
+BEGIN:VEVENT
+UID:b037bd67a934bd9950543319213c231b@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T123000
+SUMMARY:⚽ Repton Casuals U13 vs Duffield Dynamo United U13 (Away)
+DESCRIPTION:Division: U13 Sat Spring Div 2 Blue\nDuffield Dynamo United U13 v Repton Casuals U13\nKO: 11:00
+LOCATION:Eyes Meadow DE56 4JD
+END:VEVENT
+END:VCALENDAR

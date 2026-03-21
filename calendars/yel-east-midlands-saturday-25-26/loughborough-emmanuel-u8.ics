@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Loughborough Emmanuel U8
+X-WR-CALDESC:Fixtures for Loughborough Emmanuel U8 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:050853a56573ba7f11381979eaabd555@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260328T100000
+DTEND;TZID=Europe/London:20260328T113000
+SUMMARY:⚽ Loughborough Emmanuel U8 vs Radcliffe Olympic Panthers U8 (Home)
+DESCRIPTION:Division: U8 Sat Spring 8\nLoughborough Emmanuel U8 v Radcliffe Olympic Panthers U8\nKO: 10:00
+LOCATION:Charnwood College, Loughborough LE11 4SQ
+END:VEVENT
+BEGIN:VEVENT
+UID:445b9c0f05f942fb54eeb2b4cef40723@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260411T100000
+DTEND;TZID=Europe/London:20260411T113000
+SUMMARY:⚽ Loughborough Emmanuel U8 vs DLFC Vipers U8 (Home)
+DESCRIPTION:Division: U8 Sat Spring 8\nLoughborough Emmanuel U8 v DLFC Vipers U8\nKO: 10:00
+LOCATION:Charnwood College, Loughborough LE11 4SQ
+END:VEVENT
+BEGIN:VEVENT
+UID:748202d3c12483ca1879c1e07d36909a@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Loughborough Emmanuel U8 vs Eastwood Athletic Milan U8 (Away)
+DESCRIPTION:Division: U8 Sat Spring 8\nEastwood Athletic Milan U8 v Loughborough Emmanuel U8\nKO: 10:00
+LOCATION:Hall Park NG16 3AR
+END:VEVENT
+BEGIN:VEVENT
+UID:53945fc7a1c85621254b31e36e440e07@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T113000
+SUMMARY:⚽ Loughborough Emmanuel U8 vs Ollerton Town Black U8 (Away)
+DESCRIPTION:Division: U8 Sat Spring 8\nOllerton Town Black U8 v Loughborough Emmanuel U8\nKO: 10:00
+LOCATION:WALESBY LANE NG22 9UT
+END:VEVENT
+END:VCALENDAR

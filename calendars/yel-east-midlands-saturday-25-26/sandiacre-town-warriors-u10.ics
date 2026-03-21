@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sandiacre Town Warriors U10
+X-WR-CALDESC:Fixtures for Sandiacre Town Warriors U10 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:0892cef8048dce8ec99dbf98970e3e19@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260328T100000
+DTEND;TZID=Europe/London:20260328T113000
+SUMMARY:⚽ Sandiacre Town Warriors U10 vs Toton Tornados Vortex U10 (Away)
+DESCRIPTION:Division: U10 Sat Spring Div 9 Blue\nToton Tornados Vortex U10 v Sandiacre Town Warriors U10\nKO: 10:00
+LOCATION:Manor Farm Recreation Ground NG9 6EL
+END:VEVENT
+BEGIN:VEVENT
+UID:40430674d88d10d572fbb356a48c9389@yel-calendar
+DTSTAMP:20260321T155440Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Sandiacre Town Warriors U10 vs Wollaton H & B Yellow U10 (Home)
+DESCRIPTION:Division: U10 Sat Spring Div 9 Blue\nSandiacre Town Warriors U10 v Wollaton H & B Yellow U10\nKO: 10:00
+LOCATION:Cloudside Junior School NG10 5DE
+END:VEVENT
+END:VCALENDAR
