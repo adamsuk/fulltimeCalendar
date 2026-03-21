@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Underwood Villa Fire U11
+X-WR-CALDESC:Fixtures for Underwood Villa Fire U11 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:cbcc931086fa69529efe15e24687faaa@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T111500
+DTEND;TZID=Europe/London:20260418T123000
+SUMMARY:⚽ Underwood Villa Fire U11 vs Blidworth Bengals U11 (Home)
+DESCRIPTION:Division: U11 Sat Spring Div 2 Red\nUnderwood Villa Fire U11 v Blidworth Bengals U11\nKO: 11:15
+LOCATION:Bracken Park NG16 5FG
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Quarrydale United U9
+X-WR-CALDESC:Fixtures for Quarrydale United U9 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:de87b6796b566e1446505018268d8075@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260321T113000
+DTEND;TZID=Europe/London:20260321T123000
+SUMMARY:⚽ Quarrydale United U9 vs DLFC Grey U9 (Away)
+DESCRIPTION:Division: U9 Sat Spring Div 8 Red\nDLFC Grey U9 v Quarrydale United U9\nKO: 11:30
+LOCATION:Bentinck Miners Welfare NG17 8GS
+END:VEVENT
+BEGIN:VEVENT
+UID:1a9ac83a6d7fcbe5e15d901120e4df6f@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260328T101500
+DTEND;TZID=Europe/London:20260328T113000
+SUMMARY:⚽ Quarrydale United U9 vs Selston FC Black U9 (Home)
+DESCRIPTION:Division: U9 Sat Spring Div 8 Red\nQuarrydale United U9 v Selston FC Black U9\nKO: 10:15
+LOCATION:Bentinck Miners Welfare NG17 8GS
+END:VEVENT
+BEGIN:VEVENT
+UID:3f378ca56b6614c5ac38e36ca75621ae@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Quarrydale United U9 vs Notts County Women U9 ^ (Away)
+DESCRIPTION:Division: U9 Sat Spring Div 8 Red\nNotts County Women U9 ^ v Quarrydale United U9\nKO: 10:00
+LOCATION:Southglade Leisure Centre  NG5 5GU
+END:VEVENT
+BEGIN:VEVENT
+UID:1731aa6444ec48c19d9276f0ed133bdf@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260425T113000
+DTEND;TZID=Europe/London:20260425T123000
+SUMMARY:⚽ Quarrydale United U9 vs Arnold Town Blue U9 (Home)
+DESCRIPTION:Division: U9 Sat Spring Div 8 Red\nQuarrydale United U9 v Arnold Town Blue U9\nKO: 11:30
+LOCATION:Bentinck Miners Welfare NG17 8GS
+END:VEVENT
+BEGIN:VEVENT
+UID:739ec9a339876fb1d50dcf3d53893d6c@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260509T000000
+DTEND;TZID=Europe/London:20260509T013000
+SUMMARY:⚽ Quarrydale United U9 vs Hucknall Sports White U9 (Away)
+DESCRIPTION:Division: U9 Sat YEL Challenge Blue\nHucknall Sports White U9 v Quarrydale United U9\nKO: 00:00
+LOCATION:Engine Rooms NG15 6EP
+END:VEVENT
+END:VCALENDAR

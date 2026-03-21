@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Star Strike Tigers U8
+X-WR-CALDESC:Fixtures for Star Strike Tigers U8 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:1a8e77714874923ce959e311249a7223@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260328T100000
+DTEND;TZID=Europe/London:20260328T113000
+SUMMARY:⚽ Star Strike Tigers U8 vs Toton Tornados Lightening U8 (Away)
+DESCRIPTION:Division: U8 Sat Spring 5 Red\nToton Tornados Lightening U8 v Star Strike Tigers U8\nKO: 10:00
+LOCATION:Manor Farm Recreation Ground NG9 6EL
+END:VEVENT
+BEGIN:VEVENT
+UID:aaaa32bd3032d9928fb575d5944413c5@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260411T100000
+DTEND;TZID=Europe/London:20260411T113000
+SUMMARY:⚽ Star Strike Tigers U8 vs DLFC Ruby U8 (Away)
+DESCRIPTION:Division: U8 Sat Spring 5 Red\nDLFC Ruby U8 v Star Strike Tigers U8\nKO: 10:00
+LOCATION:Greenwich Avenue NG6 0LD
+END:VEVENT
+BEGIN:VEVENT
+UID:e80871483e928f1f9685ad3ee8175ca5@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Star Strike Tigers U8 vs Heanor Town Hot Dogs U8 (Home)
+DESCRIPTION:Division: U8 Sat Spring 5 Red\nStar Strike Tigers U8 v Heanor Town Hot Dogs U8\nKO: 10:00
+LOCATION:Robin Hood Road NG5 8NP
+END:VEVENT
+BEGIN:VEVENT
+UID:134ef59e8c9a2d4369bd5b95a24f3db5@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T113000
+SUMMARY:⚽ Star Strike Tigers U8 vs Wollaton FC Navy U8 (Home)
+DESCRIPTION:Division: U8 Sat Spring 5 Red\nStar Strike Tigers U8 v Wollaton FC Navy U8\nKO: 10:00
+LOCATION:Robin Hood Road NG5 8NP
+END:VEVENT
+END:VCALENDAR

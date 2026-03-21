@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Burton Joyce U8
+X-WR-CALDESC:Fixtures for Burton Joyce U8 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:64ed3db954f4b11f057f86a54ca762b6@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260328T100000
+DTEND;TZID=Europe/London:20260328T113000
+SUMMARY:⚽ Burton Joyce U8 vs Cotgrave FC Claret U8 (Away)
+DESCRIPTION:Division: U8 Sat Spring 7 Blue\nCotgrave FC Claret U8 v Burton Joyce U8\nKO: 10:00
+LOCATION:Cotgrave Welfare NG12 3PJ
+END:VEVENT
+BEGIN:VEVENT
+UID:47577a83e0b0e157cb767f2220f7e41a@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260411T100000
+DTEND;TZID=Europe/London:20260411T113000
+SUMMARY:⚽ Burton Joyce U8 vs Newark Brazil Rio U8 (Home)
+DESCRIPTION:Division: U8 Sat Spring 7 Blue\nBurton Joyce U8 v Newark Brazil Rio U8\nKO: 10:00
+LOCATION:The Poplars, Burton Joyce  NG14 5AN
+END:VEVENT
+BEGIN:VEVENT
+UID:8bbbeb3c132d7353634bf70038a05474@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Burton Joyce U8 vs Radcliffe Olympic Bears U8 (Away)
+DESCRIPTION:Division: U8 Sat Spring 7 Blue\nRadcliffe Olympic Bears U8 v Burton Joyce U8\nKO: 10:00
+LOCATION:Radcliffe-on-Trent Cricket Club NG12 2DU
+END:VEVENT
+BEGIN:VEVENT
+UID:db9992e7901c4af74921166057be8813@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T113000
+SUMMARY:⚽ Burton Joyce U8 vs Bingham Town White U8 (Home)
+DESCRIPTION:Division: U8 Sat Spring 7 Blue\nBurton Joyce U8 v Bingham Town White U8\nKO: 10:00
+LOCATION:The Poplars, Burton Joyce  NG14 5AN
+END:VEVENT
+END:VCALENDAR

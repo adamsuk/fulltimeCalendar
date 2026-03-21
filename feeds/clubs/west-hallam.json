@@ -1,6 +1,6 @@
 {
   "club": "West Hallam",
-  "generated": "2026-03-21T06:30:00Z",
+  "generated": "2026-03-21T14:04:04Z",
   "fixtures": [
     {
       "id": "aabac40662a60bbc75d4a310d232afdd",
@@ -14,19 +14,6 @@
       "team": "West Hallam Pumas U8",
       "home_away": "home",
       "opponent": "WBYFC Valour Red U8"
-    },
-    {
-      "id": "7f3af51997c588aa2e52257c1f59326b",
-      "date": "2026-03-21",
-      "time": "11:00",
-      "home_team": "West Hallam Wanderers U14",
-      "away_team": "Hilton Harriers Bucks U14",
-      "venue": "Dobholes Lane, DE7 6EN",
-      "division": "U14 Sat Spring Div 5 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "West Hallam Wanderers U14",
-      "home_away": "home",
-      "opponent": "Hilton Harriers Bucks U14"
     },
     {
       "id": "9e85820e51360ace740b4e1109c571f3",
@@ -92,6 +79,32 @@
       "team": "West Hallam Titans U7",
       "home_away": "home",
       "opponent": "Willow Wanderers Jaguars U7"
+    },
+    {
+      "id": "d290f0a5d5048d95f716371a224eec81",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "West Hallam Harriers U9",
+      "away_team": "Nottingham FC Blue U9",
+      "venue": "The Recreation Ground DE7 6FF",
+      "division": "U9 Sat Spring Div 7 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "West Hallam Harriers U9",
+      "home_away": "home",
+      "opponent": "Nottingham FC Blue U9"
+    },
+    {
+      "id": "6292b47401354fe63bf8890b88b8dbaf",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "West Hallam Eagles U13",
+      "away_team": "St Anns & Sneinton U13",
+      "venue": "Beech Lane DE7 6JY",
+      "division": "U13 Sat Spring Div 6 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "West Hallam Eagles U13",
+      "home_away": "home",
+      "opponent": "St Anns & Sneinton U13"
     },
     {
       "id": "b42695ec9e097a2cb7ab5e9ccae058df",
@@ -211,6 +224,19 @@
       "opponent": "East Leake Bantams Orange U7"
     },
     {
+      "id": "922feeea0b40ad0659940186f239a42c",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "West Hallam Harriers U9",
+      "away_team": "Sandiacre Town Red U9",
+      "venue": "The Recreation Ground DE7 6FF",
+      "division": "U9 Sat Spring Div 7 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "West Hallam Harriers U9",
+      "home_away": "home",
+      "opponent": "Sandiacre Town Red U9"
+    },
+    {
       "id": "756bb1d79a34285fbe36d647556a7b49",
       "date": "2026-04-18",
       "time": "10:30",
@@ -222,6 +248,19 @@
       "team": "West Hallam Wanderers U14",
       "home_away": "away",
       "opponent": "WBYFC United 14"
+    },
+    {
+      "id": "54a10c6d4dc78eac29a73067ac384182",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "West Hallam Eagles U13",
+      "away_team": "Priory Celtic White U13",
+      "venue": "Beech Lane DE7 6JY",
+      "division": "U13 Sat Spring Div 6 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "West Hallam Eagles U13",
+      "home_away": "home",
+      "opponent": "Priory Celtic White U13"
     },
     {
       "id": "f797afa4c3351296945e1db2e307f7da",
@@ -315,6 +354,19 @@
       "opponent": "Eastwood Ath Dynamos U14"
     },
     {
+      "id": "cc395edfd2712d15e6e108f6d6097c60",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "West Hallam Eagles U13",
+      "away_team": "Selston FC U13",
+      "venue": "Beech Lane DE7 6JY",
+      "division": "U13 Sat Spring Div 6 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "West Hallam Eagles U13",
+      "home_away": "home",
+      "opponent": "Selston FC U13"
+    },
+    {
       "id": "b2021b753d057d82fde914f500a3521d",
       "date": "2026-04-26",
       "time": "10:00",
@@ -366,5 +418,6 @@
       "home_away": "away",
       "opponent": "Bilborough TRD FC U12"
     }
-  ]
+  ],
+  "results": []
 }

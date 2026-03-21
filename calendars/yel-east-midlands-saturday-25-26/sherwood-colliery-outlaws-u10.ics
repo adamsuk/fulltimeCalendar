@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sherwood Colliery Outlaws U10
+X-WR-CALDESC:Fixtures for Sherwood Colliery Outlaws U10 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:fef23811a65333c805b9380a1a2177ba@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260328T100000
+DTEND;TZID=Europe/London:20260328T113000
+SUMMARY:⚽ Sherwood Colliery Outlaws U10 vs Sporting Markfield U10 (Home)
+DESCRIPTION:Division: U10 Sat Spring Premier Division\nSherwood Colliery Outlaws U10 v Sporting Markfield U10\nKO: 10:00
+LOCATION:Debdale Park & Sports Ground NG19 7NS
+END:VEVENT
+BEGIN:VEVENT
+UID:7adb25f44aa61fd4d54d8e64ee6b578e@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T113000
+SUMMARY:⚽ Sherwood Colliery Outlaws U10 vs Long Eaton United Milan U10 (Away)
+DESCRIPTION:Division: U10 Sat Spring Premier Division\nLong Eaton United Milan U10 v Sherwood Colliery Outlaws U10\nKO: 10:00
+LOCATION:Grange Park NG10 2EF
+END:VEVENT
+END:VCALENDAR

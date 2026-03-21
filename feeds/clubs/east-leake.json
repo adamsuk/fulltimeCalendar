@@ -1,6 +1,6 @@
 {
   "club": "East Leake",
-  "generated": "2026-03-21T06:30:00Z",
+  "generated": "2026-03-21T14:04:04Z",
   "fixtures": [
     {
       "id": "91fbc5b344358d7cba21ca77b21fc721",
@@ -263,6 +263,19 @@
       "opponent": "Hucknall Sports Red U13"
     },
     {
+      "id": "ff342390b4955de98a0f678f5b32ee94",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Mickleover Country Park U13",
+      "away_team": "East Leake Bantams Orange U13",
+      "venue": "Mickleover Country Park DE3 0UJ",
+      "division": "U13 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "East Leake Bantams Orange U13",
+      "home_away": "away",
+      "opponent": "Mickleover Country Park U13"
+    },
+    {
       "id": "2e30098665eb2d5616c42c99835a9f36",
       "date": "2026-03-28",
       "time": "11:00",
@@ -523,6 +536,19 @@
       "opponent": "Priory Celtic 1967 U9"
     },
     {
+      "id": "76b7921bffa106ed71a858c147823434",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Mickleover Jnrs Porto U13",
+      "away_team": "East Leake Bantams Orange U13",
+      "venue": "Varsity Grange Football Complex DE3 9EB",
+      "division": "U13 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "East Leake Bantams Orange U13",
+      "home_away": "away",
+      "opponent": "Mickleover Jnrs Porto U13"
+    },
+    {
       "id": "bdffb89eb6e5f81d4b3ffd80810c97a1",
       "date": "2026-04-19",
       "time": "10:00",
@@ -705,6 +731,19 @@
       "opponent": "Carlton Town Yellow U12"
     },
     {
+      "id": "c1098a648269bcb18c689aa28d256579",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "East Leake Bantams Orange U13",
+      "away_team": "Eastwood Athletic Eagles U13",
+      "venue": "Costock Road LE12 6LY",
+      "division": "U13 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "East Leake Bantams Orange U13",
+      "home_away": "home",
+      "opponent": "Eastwood Athletic Eagles U13"
+    },
+    {
       "id": "48fa9a46716eaefe8de2cc42843f72b0",
       "date": "2026-04-25",
       "time": "11:00",
@@ -873,5 +912,6 @@
       "home_away": "home",
       "opponent": "Priory Celtic 1967 U14"
     }
-  ]
+  ],
+  "results": []
 }

@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mountsorrel Juniors U11
+X-WR-CALDESC:Fixtures for Mountsorrel Juniors U11 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:32a48c7aa0ae6efb006e781ca4cb828a@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260414T180000
+DTEND;TZID=Europe/London:20260414T193000
+SUMMARY:⚽ Mountsorrel Juniors U11 vs Southwell City Lions U11 (Home)
+DESCRIPTION:Division: U11 Sat Spring Div 7 Blue\nMountsorrel Juniors U11 v Southwell City Lions U11\nKO: 18:00
+LOCATION:HALSTEAD ROAD PLAYING FIELDS LE12 7JF
+END:VEVENT
+BEGIN:VEVENT
+UID:e49d36e476797e89eb16eb9c8cb17a69@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Mountsorrel Juniors U11 vs Edwalton Cavaliers White U11 (Away)
+DESCRIPTION:Division: U11 Sat Spring Div 7 Blue\nEdwalton Cavaliers White U11 v Mountsorrel Juniors U11\nKO: 10:00
+LOCATION:Rushcliffe School  NG2 7BW
+END:VEVENT
+BEGIN:VEVENT
+UID:78410a0630cc1e0f56384f9f199e4a01@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T113000
+SUMMARY:⚽ Mountsorrel Juniors U11 vs Pegasus FC U11 (Away)
+DESCRIPTION:Division: U11 Sat Spring Div 7 Blue\nPegasus FC U11 v Mountsorrel Juniors U11\nKO: 10:00
+LOCATION:Pasture Road Recreation Ground  NG9 8GN
+END:VEVENT
+END:VCALENDAR

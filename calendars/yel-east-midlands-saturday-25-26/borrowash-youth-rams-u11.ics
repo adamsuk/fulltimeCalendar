@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Borrowash Youth Rams U11
+X-WR-CALDESC:Fixtures for Borrowash Youth Rams U11 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:ebc7261b37e062acaedeee7aae63d3ca@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260321T110000
+DTEND;TZID=Europe/London:20260321T123000
+SUMMARY:⚽ Borrowash Youth Rams U11 vs Priory Celtic White U11 (Home)
+DESCRIPTION:Division: U11 Sat Spring Div 3 Red\nBorrowash Youth Rams U11 v Priory Celtic White U11\nKO: 11:00
+LOCATION:Derwent Meadow DE72 3NN
+END:VEVENT
+BEGIN:VEVENT
+UID:54b81431abeff49ce616bf7ab889f984@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260328T110000
+DTEND;TZID=Europe/London:20260328T123000
+SUMMARY:⚽ Borrowash Youth Rams U11 vs Clay Cross Town Bulldogs U11 (Away)
+DESCRIPTION:Division: U11 Sat Spring Div 3 Red\nClay Cross Town Bulldogs U11 v Borrowash Youth Rams U11\nKO: 11:00
+LOCATION:King George V Playing Field S42 5PE
+END:VEVENT
+BEGIN:VEVENT
+UID:a0745d59e864b7cc551f76c5f6acaf8f@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260414T180000
+DTEND;TZID=Europe/London:20260414T193000
+SUMMARY:⚽ Borrowash Youth Rams U11 vs Bagthorpe Athletic U11 (Away)
+DESCRIPTION:Division: U11 Sat Spring Div 3 Red\nBagthorpe Athletic U11 v Borrowash Youth Rams U11\nKO: 18:00
+LOCATION:Dixies Arms Park NG16 5HF
+END:VEVENT
+BEGIN:VEVENT
+UID:a6a3da5ea1d82e117c6e7c04bbc410b2@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Borrowash Youth Rams U11 vs G3A Lazio U11 (Home)
+DESCRIPTION:Division: U11 Sat Spring Div 3 Red\nBorrowash Youth Rams U11 v G3A Lazio U11\nKO: 10:00
+LOCATION:Derwent Meadow DE72 3NN
+END:VEVENT
+BEGIN:VEVENT
+UID:445c1d381056fd1ab65058b5614b4418@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T113000
+SUMMARY:⚽ Borrowash Youth Rams U11 vs Stapleford Town Warriors U11 (Home)
+DESCRIPTION:Division: U11 Sat Spring Div 3 Red\nBorrowash Youth Rams U11 v Stapleford Town Warriors U11\nKO: 10:00
+LOCATION:Derwent Meadow DE72 3NN
+END:VEVENT
+END:VCALENDAR

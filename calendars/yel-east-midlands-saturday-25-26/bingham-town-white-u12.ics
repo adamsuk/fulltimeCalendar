@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bingham Town White U12
+X-WR-CALDESC:Fixtures for Bingham Town White U12 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:e903a3dec9d584a684e3941f1ea42986@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260416T180000
+DTEND;TZID=Europe/London:20260416T193000
+SUMMARY:⚽ Bingham Town White U12 vs Bingham Town Blue U12 (Home)
+DESCRIPTION:Division: U12 Sat Spring Div 6 Blue\nBingham Town White U12 v Bingham Town Blue U12\nKO: 18:00
+LOCATION:Hose Village Hall LE14 4JT
+END:VEVENT
+BEGIN:VEVENT
+UID:41dcff2eb2bfb817c5275e3415adf30c@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Bingham Town White U12 vs Southwell City Flames U12 (Away)
+DESCRIPTION:Division: U12 Sat Spring Div 6 Blue\nSouthwell City Flames U12 v Bingham Town White U12\nKO: 10:00
+LOCATION:Southwell City FC  NG25 0JP
+END:VEVENT
+BEGIN:VEVENT
+UID:4ef3946664c9f1817aeb31d66802d508@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T123000
+SUMMARY:⚽ Bingham Town White U12 vs Southwell City Titans U12 (Home)
+DESCRIPTION:Division: U12 Sat Spring Div 6 Blue\nBingham Town White U12 v Southwell City Titans U12\nKO: 11:00
+LOCATION:Hose Village Hall LE14 4JT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Woodthorpe Com Dynamo U10
+X-WR-CALDESC:Fixtures for Woodthorpe Com Dynamo U10 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:21231886e44edb3ddb81c7baa755ccf0@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260328T100000
+DTEND;TZID=Europe/London:20260328T113000
+SUMMARY:⚽ Woodthorpe Com Dynamo U10 vs G3A FC Leverkusen U10 (Home)
+DESCRIPTION:Division: U10 Sat Spring Div 8 Red\nWoodthorpe Com Dynamo U10 v G3A FC Leverkusen U10\nKO: 10:00
+LOCATION:Carlton Football Centre (3G) NG4 3SH
+END:VEVENT
+END:VCALENDAR

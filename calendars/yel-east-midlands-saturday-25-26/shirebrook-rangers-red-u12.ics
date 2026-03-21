@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Shirebrook Rangers Red U12
+X-WR-CALDESC:Fixtures for Shirebrook Rangers Red U12 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:a7f4cb42f5ba18f9b51a01ee27facd61@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260328T100000
+DTEND;TZID=Europe/London:20260328T113000
+SUMMARY:⚽ Shirebrook Rangers Red U12 vs Woodhouse Colts Originals U12 (Away)
+DESCRIPTION:Division: U12 Sat Spring Div 3 Red\nWoodhouse Colts Originals U12 v Shirebrook Rangers Red U12\nKO: 10:00
+LOCATION:Queensway Park NG19 0DU
+END:VEVENT
+BEGIN:VEVENT
+UID:c5dfcf7e896b4ed2faa525c888bda863@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T110000
+DTEND;TZID=Europe/London:20260418T123000
+SUMMARY:⚽ Shirebrook Rangers Red U12 vs Southwell City Swifts U12 (Away)
+DESCRIPTION:Division: U12 Sat Spring Div 3 Red\nSouthwell City Swifts U12 v Shirebrook Rangers Red U12\nKO: 11:00
+LOCATION:Southwell City FC  NG25 0JP
+END:VEVENT
+BEGIN:VEVENT
+UID:1ea01fa74079ac5a38ddb558e2bedc02@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T113000
+SUMMARY:⚽ Shirebrook Rangers Red U12 vs Lowdham FC Garibaldi U12 (Away)
+DESCRIPTION:Division: U12 Sat Spring Div 3 Red\nLowdham FC Garibaldi U12 v Shirebrook Rangers Red U12\nKO: 10:00
+LOCATION:Gunthorpe Playing Fields NG14 7EW
+END:VEVENT
+END:VCALENDAR

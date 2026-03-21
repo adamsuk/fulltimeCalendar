@@ -1,6 +1,6 @@
 {
   "club": "Gonerby Yellow",
-  "generated": "2026-03-21T06:30:00Z",
+  "generated": "2026-03-21T14:04:04Z",
   "fixtures": [
     {
       "id": "d9934d118a2065a4462f3d36d6ae7dee",
@@ -40,6 +40,19 @@
       "team": "Gonerby Yellow U12",
       "home_away": "home",
       "opponent": "Melbourne Dynamo Rangers U12"
+    },
+    {
+      "id": "d252c6092c61160074e1e82e01294b8e",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Gonerby Yellow U9",
+      "away_team": "Gonerby Blue U9",
+      "venue": "Gonerby Recreation Ground NG31 8PP",
+      "division": "U9 Sat Spring Div 9 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gonerby Yellow U9",
+      "home_away": "home",
+      "opponent": "Gonerby Blue U9"
     },
     {
       "id": "3dcc0a039acef361d2d7fe099756cdf8",
@@ -94,6 +107,19 @@
       "opponent": "Ravenshead FC U11"
     },
     {
+      "id": "e9f06b2cfa7c7ef4e09c8ec7c4d5971e",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Gonerby Yellow U9",
+      "away_team": "Winthorpe & Cod T Black U9",
+      "venue": "Gonerby Recreation Ground NG31 8PP",
+      "division": "U9 Sat Spring Div 9 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gonerby Yellow U9",
+      "home_away": "home",
+      "opponent": "Winthorpe & Cod T Black U9"
+    },
+    {
       "id": "6a5e916640df312ae337982d2947d564",
       "date": "2026-04-19",
       "time": "11:00",
@@ -145,5 +171,6 @@
       "home_away": "away",
       "opponent": "Ruddington Village Yellow U12"
     }
-  ]
+  ],
+  "results": []
 }

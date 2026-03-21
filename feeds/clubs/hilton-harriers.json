@@ -1,32 +1,19 @@
 {
   "club": "Hilton Harriers",
-  "generated": "2026-03-21T06:30:00Z",
+  "generated": "2026-03-21T14:04:04Z",
   "fixtures": [
     {
-      "id": "47eaf1d8eba9520f006df0e57ea81149",
-      "date": "2026-03-21",
+      "id": "7456bf65cff3c2744792bba0f8ba298e",
+      "date": "2026-03-28",
       "time": "10:00",
-      "home_team": "Ilkeston Town Robins U14",
-      "away_team": "Hilton Harriers Bears U14",
-      "venue": "Booths Playing Fields, Ilkeston DE7 8JF",
-      "division": "u14 Sat Spring Div 1 Silver",
+      "home_team": "Coalville Town Rooks U12",
+      "away_team": "Hilton Harriers Fire U12",
+      "venue": "Owen Street Sports Ground LE67 3DA",
+      "division": "U12 Sat Spring Div 2 Blue",
       "league": "YEL East Midlands Saturday 25/26",
-      "team": "Hilton Harriers Bears U14",
+      "team": "Hilton Harriers Fire U12",
       "home_away": "away",
-      "opponent": "Ilkeston Town Robins U14"
-    },
-    {
-      "id": "7f3af51997c588aa2e52257c1f59326b",
-      "date": "2026-03-21",
-      "time": "11:00",
-      "home_team": "West Hallam Wanderers U14",
-      "away_team": "Hilton Harriers Bucks U14",
-      "venue": "Dobholes Lane, DE7 6EN",
-      "division": "U14 Sat Spring Div 5 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Hilton Harriers Bucks U14",
-      "home_away": "away",
-      "opponent": "West Hallam Wanderers U14"
+      "opponent": "Coalville Town Rooks U12"
     },
     {
       "id": "ddf7b02a0f68cbd3b51cba6435497adf",
@@ -42,6 +29,32 @@
       "opponent": "Wollaton H & B Green U14"
     },
     {
+      "id": "c62f3c43cd9aac5f4e1d32ce9e983d22",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Clifton All Whites Blue U13",
+      "away_team": "Hilton Harriers Vipers U13",
+      "venue": "Norman Archer Memorial Ground NG11 9AZ",
+      "division": "U13 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hilton Harriers Vipers U13",
+      "home_away": "away",
+      "opponent": "Clifton All Whites Blue U13"
+    },
+    {
+      "id": "87ee48cda81d226dc3882475d050acda",
+      "date": "2026-04-11",
+      "time": "09:30",
+      "home_team": "Hilton Harriers Cobras U13",
+      "away_team": "Duffield Dynamo United U13",
+      "venue": "The Mease Pavilion DE65 5LS",
+      "division": "U13 Sat Spring Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hilton Harriers Cobras U13",
+      "home_away": "home",
+      "opponent": "Duffield Dynamo United U13"
+    },
+    {
       "id": "4a69fdca7bd0116ec3cfa0c4f863cd4a",
       "date": "2026-04-18",
       "time": "10:15",
@@ -53,6 +66,19 @@
       "team": "Hilton Harriers Bears U14",
       "home_away": "away",
       "opponent": "Quarrydale United Yellow U14"
+    },
+    {
+      "id": "6032dbc4c4d3e41c83a7af669121e167",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Hilton Harriers Adders U13",
+      "away_team": "Wollaton H & B Oaks U13",
+      "venue": "The Mease Pavilion DE65 5LS",
+      "division": "U13 Sat Spring Div 7 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hilton Harriers Adders U13",
+      "home_away": "home",
+      "opponent": "Wollaton H & B Oaks U13"
     },
     {
       "id": "bf72eed3783ed64676e83abc660f3745",
@@ -94,6 +120,58 @@
       "opponent": "Beeston FC U14"
     },
     {
+      "id": "33e6c24d5e83f3c2e2f00dd49c3d386f",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Hatton United U12",
+      "away_team": "Hilton Harriers Fire U12",
+      "venue": "Goals Arena DE14 1TD",
+      "division": "U12 Sat Spring Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hilton Harriers Fire U12",
+      "home_away": "away",
+      "opponent": "Hatton United U12"
+    },
+    {
+      "id": "f175d7276786835d66ec1ed3eb2185d3",
+      "date": "2026-04-25",
+      "time": "09:30",
+      "home_team": "AFC Chellaston Chiefs U12",
+      "away_team": "Hilton Harriers Fire U12",
+      "venue": "Chellaston Park DE73 6TQ #1",
+      "division": "U12 Sat Spring Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hilton Harriers Fire U12",
+      "home_away": "away",
+      "opponent": "AFC Chellaston Chiefs U12"
+    },
+    {
+      "id": "36c3e9be2a6bd0510a45d44786c148a4",
+      "date": "2026-04-25",
+      "time": "09:30",
+      "home_team": "Hilton Harriers Vipers U13",
+      "away_team": "Breaston Park White U13",
+      "venue": "The Mease Pavilion DE65 5LS",
+      "division": "U13 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hilton Harriers Vipers U13",
+      "home_away": "home",
+      "opponent": "Breaston Park White U13"
+    },
+    {
+      "id": "b951c8b5cd8f2303d8f9e74d37e3a9a2",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Phoenix Inham Ignite U13",
+      "away_team": "Hilton Harriers Adders U13",
+      "venue": "Inham Nook Recreation Ground NG9 4GQ",
+      "division": "U13 Sat Spring Div 7 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hilton Harriers Adders U13",
+      "home_away": "away",
+      "opponent": "Phoenix Inham Ignite U13"
+    },
+    {
       "id": "4405e2cef9327f33baef87739bff2a7a",
       "date": "2026-04-25",
       "time": "11:00",
@@ -119,5 +197,6 @@
       "home_away": "home",
       "opponent": "WBYFC United 14"
     }
-  ]
+  ],
+  "results": []
 }

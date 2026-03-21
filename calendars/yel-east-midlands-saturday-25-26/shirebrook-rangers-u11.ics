@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Shirebrook Rangers U11
+X-WR-CALDESC:Fixtures for Shirebrook Rangers U11 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:b732e808d61a54abaf897a8329d97d2a@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T110000
+DTEND;TZID=Europe/London:20260418T123000
+SUMMARY:⚽ Shirebrook Rangers U11 vs Nottingham FC Emeralds U11 (Home)
+DESCRIPTION:Division: U11 Sat YEL Inter Cup\nShirebrook Rangers U11 v Nottingham FC Emeralds U11\nKO: 11:00
+LOCATION:Shirebrook Academy  NG20 8QF
+END:VEVENT
+END:VCALENDAR

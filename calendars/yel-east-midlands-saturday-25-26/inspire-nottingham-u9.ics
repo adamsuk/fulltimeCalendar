@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Inspire Nottingham U9
+X-WR-CALDESC:Fixtures for Inspire Nottingham U9 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:5debc63462c3fc8c4e3b03cd1a881b56@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260328T100000
+DTEND;TZID=Europe/London:20260328T113000
+SUMMARY:⚽ Inspire Nottingham U9 vs Southwell City Magpies U9 (Home)
+DESCRIPTION:Division: U9 Sat Spring Div 2 Blue\nInspire Nottingham U9 v Southwell City Magpies U9\nKO: 10:00
+LOCATION:Powerleague Arnold NG5 6NZ
+END:VEVENT
+BEGIN:VEVENT
+UID:d4262fdd00fbbbaf000642233c175357@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Inspire Nottingham U9 vs WBYFC Corinthians U9 (Away)
+DESCRIPTION:Division: U9 Sat Spring Div 2 Blue\nWBYFC Corinthians U9 v Inspire Nottingham U9\nKO: 10:00
+LOCATION:Regatta Way NG2 5AT
+END:VEVENT
+BEGIN:VEVENT
+UID:81bd480b30acb8886b553f7104405c38@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260509T000000
+DTEND;TZID=Europe/London:20260509T013000
+SUMMARY:⚽ Inspire Nottingham U9 vs DLFC Red U9 (Away)
+DESCRIPTION:Division: U9 Sat YEL Trophy\nDLFC Red U9 v Inspire Nottingham U9\nKO: 00:00
+LOCATION:Greenwich Avenue NG6 0LD
+END:VEVENT
+END:VCALENDAR

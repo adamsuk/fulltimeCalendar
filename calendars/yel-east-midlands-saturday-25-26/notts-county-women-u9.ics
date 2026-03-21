@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Notts County Women U9 ^
+X-WR-CALDESC:Fixtures for Notts County Women U9 ^ — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:a365d78c0212197d8038a8593f631bf1@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260328T100000
+DTEND;TZID=Europe/London:20260328T113000
+SUMMARY:⚽ Notts County Women U9 ^ vs Arnold Town Blue U9 (Away)
+DESCRIPTION:Division: U9 Sat Spring Div 8 Red\nArnold Town Blue U9 v Notts County Women U9 ^\nKO: 10:00
+LOCATION:Eagle Valley NG5 8PS
+END:VEVENT
+BEGIN:VEVENT
+UID:3f378ca56b6614c5ac38e36ca75621ae@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Notts County Women U9 ^ vs Quarrydale United U9 (Home)
+DESCRIPTION:Division: U9 Sat Spring Div 8 Red\nNotts County Women U9 ^ v Quarrydale United U9\nKO: 10:00
+LOCATION:Southglade Leisure Centre  NG5 5GU
+END:VEVENT
+BEGIN:VEVENT
+UID:2b5ed23874692bc57b537f949d0961b0@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T113000
+SUMMARY:⚽ Notts County Women U9 ^ vs DLFC Grey U9 (Away)
+DESCRIPTION:Division: U9 Sat Spring Div 8 Red\nDLFC Grey U9 v Notts County Women U9 ^\nKO: 10:00
+LOCATION:Greenwich Avenue NG6 0LD
+END:VEVENT
+END:VCALENDAR

@@ -1,19 +1,19 @@
 {
   "club": "Quarrydale United",
-  "generated": "2026-03-21T06:30:00Z",
+  "generated": "2026-03-21T14:04:04Z",
   "fixtures": [
     {
-      "id": "386a8f0e1503bccfd2d0ce2b0a3fd635",
+      "id": "de87b6796b566e1446505018268d8075",
       "date": "2026-03-21",
-      "time": "10:00",
-      "home_team": "Blidworth Bengals Black U14",
-      "away_team": "Quarrydale United Yellow U14",
-      "venue": "Unwin Road  NG17 4HT",
-      "division": "u14 Sat Spring Div 1 Silver",
+      "time": "11:30",
+      "home_team": "DLFC Grey U9",
+      "away_team": "Quarrydale United U9",
+      "venue": "Bentinck Miners Welfare NG17 8GS",
+      "division": "U9 Sat Spring Div 8 Red",
       "league": "YEL East Midlands Saturday 25/26",
-      "team": "Quarrydale United Yellow U14",
+      "team": "Quarrydale United U9",
       "home_away": "away",
-      "opponent": "Blidworth Bengals Black U14"
+      "opponent": "DLFC Grey U9"
     },
     {
       "id": "fcf525c25814d7a292c41ef9380a98ae",
@@ -133,6 +133,32 @@
       "opponent": "Burton Joyce Blue U9"
     },
     {
+      "id": "701bff9c212a0da810071b4812b22140",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Blidworth Bengals Orange U10",
+      "away_team": "Quarrydale United Rangers U10",
+      "venue": "Blidworth & Bilsthorpe Bengals NG22 8QW",
+      "division": "U10 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United Rangers U10",
+      "home_away": "away",
+      "opponent": "Blidworth Bengals Orange U10"
+    },
+    {
+      "id": "1a9ac83a6d7fcbe5e15d901120e4df6f",
+      "date": "2026-03-28",
+      "time": "10:15",
+      "home_team": "Quarrydale United U9",
+      "away_team": "Selston FC Black U9",
+      "venue": "Bentinck Miners Welfare NG17 8GS",
+      "division": "U9 Sat Spring Div 8 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United U9",
+      "home_away": "home",
+      "opponent": "Selston FC Black U9"
+    },
+    {
       "id": "7a8ba3647db70b4548f40b4b9a409727",
       "date": "2026-03-28",
       "time": "10:15",
@@ -144,6 +170,32 @@
       "team": "Quarrydale United Yellow U14",
       "home_away": "home",
       "opponent": "Dunkirk U14"
+    },
+    {
+      "id": "169b8e82be32eced2d3078da5493598b",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Quarrydale United U13",
+      "away_team": "PMG Excel U13",
+      "venue": "Bentinck Miners Welfare NG17 8GS",
+      "division": "U13 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United U13",
+      "home_away": "home",
+      "opponent": "PMG Excel U13"
+    },
+    {
+      "id": "f045fce996260ffe7832e57fa70a737e",
+      "date": "2026-03-28",
+      "time": "11:30",
+      "home_team": "Quarrydale United U11",
+      "away_team": "Meden Vale Colts Green U11",
+      "venue": "Bentinck Miners Welfare NG17 8GS",
+      "division": "U11 Sat Spring Div 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United U11",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts Green U11"
     },
     {
       "id": "e92523830f2aa4a65dbc926036bcc5b8",
@@ -276,6 +328,58 @@
       "opponent": "Sherwood FC Red U8"
     },
     {
+      "id": "c5453b9b16e2c907a3a5ca0f7d3ef42e",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Quarrydale United U11",
+      "away_team": "Ravenshead FC U11",
+      "venue": "Bentinck Miners Welfare NG17 8GS",
+      "division": "U11 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United U11",
+      "home_away": "home",
+      "opponent": "Ravenshead FC U11"
+    },
+    {
+      "id": "a56ad1d407426ac02ea9a806ceca908a",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Hucknall Sports White U10",
+      "away_team": "Quarrydale United Rangers U10",
+      "venue": "Engine Rooms NG15 6EP",
+      "division": "U10 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United Rangers U10",
+      "home_away": "away",
+      "opponent": "Hucknall Sports White U10"
+    },
+    {
+      "id": "c9699b0082440a0126f24a02429fb007",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Silva FC Carlton Black U11",
+      "away_team": "Quarrydale United U11",
+      "venue": "Carlton Forum NG4 3SH",
+      "division": "U11 Sat Spring Div 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United U11",
+      "home_away": "away",
+      "opponent": "Silva FC Carlton Black U11"
+    },
+    {
+      "id": "3f378ca56b6614c5ac38e36ca75621ae",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Notts County Women U9 ^",
+      "away_team": "Quarrydale United U9",
+      "venue": "Southglade Leisure Centre  NG5 5GU",
+      "division": "U9 Sat Spring Div 8 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United U9",
+      "home_away": "away",
+      "opponent": "Notts County Women U9 ^"
+    },
+    {
       "id": "4a69fdca7bd0116ec3cfa0c4f863cd4a",
       "date": "2026-04-18",
       "time": "10:15",
@@ -380,6 +484,45 @@
       "opponent": "Lowdham FC Red U14"
     },
     {
+      "id": "f1677a0d00536a2bba5bb625fee68456",
+      "date": "2026-04-21",
+      "time": "18:15",
+      "home_team": "Quarrydale United U13",
+      "away_team": "Market Warsop Colts U13",
+      "venue": "Bentinck Miners Welfare NG17 8GS",
+      "division": "U13 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United U13",
+      "home_away": "home",
+      "opponent": "Market Warsop Colts U13"
+    },
+    {
+      "id": "822c44e82666d090e0676fb404d2c2d0",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Quarrydale United Rangers U10",
+      "away_team": "Teversal FC Red U10",
+      "venue": "Bentinck Miners Welfare NG17 8GS",
+      "division": "U10 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United Rangers U10",
+      "home_away": "home",
+      "opponent": "Teversal FC Red U10"
+    },
+    {
+      "id": "cc954c1053496d599709d4afe7ba9fed",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Priory Celtic Hoops U13",
+      "away_team": "Quarrydale United U13",
+      "venue": "Kimberley Leisure Centre NG16 2NJ 3G 9v9 Pitch",
+      "division": "U13 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United U13",
+      "home_away": "away",
+      "opponent": "Priory Celtic Hoops U13"
+    },
+    {
       "id": "7f2888b22746c300f0bf9cc426e51821",
       "date": "2026-04-25",
       "time": "11:15",
@@ -391,6 +534,32 @@
       "team": "Quarrydale United Yellow U14",
       "home_away": "away",
       "opponent": "AJ Sport FC U14"
+    },
+    {
+      "id": "ad235143451eddfdef667624e16c88d6",
+      "date": "2026-04-25",
+      "time": "11:30",
+      "home_team": "Quarrydale United U12",
+      "away_team": "ASFC Gold U12",
+      "venue": "Bentinck Miners Welfare NG17 8GS",
+      "division": "U12 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United U12",
+      "home_away": "home",
+      "opponent": "ASFC Gold U12"
+    },
+    {
+      "id": "1731aa6444ec48c19d9276f0ed133bdf",
+      "date": "2026-04-25",
+      "time": "11:30",
+      "home_team": "Quarrydale United U9",
+      "away_team": "Arnold Town Blue U9",
+      "venue": "Bentinck Miners Welfare NG17 8GS",
+      "division": "U9 Sat Spring Div 8 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United U9",
+      "home_away": "home",
+      "opponent": "Arnold Town Blue U9"
     },
     {
       "id": "6e088567c0942196b998a28c44e0d201",
@@ -484,6 +653,32 @@
       "opponent": "Arnold Town Maroon U13"
     },
     {
+      "id": "d6e2c0fef1227188bc67b96b5995f77e",
+      "date": "2026-04-28",
+      "time": "18:15",
+      "home_team": "G3A PSG U11",
+      "away_team": "Quarrydale United U11",
+      "venue": "Bentinck Miners Welfare NG17 8GS",
+      "division": "U11 Sat Spring Div 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United U11",
+      "home_away": "away",
+      "opponent": "G3A PSG U11"
+    },
+    {
+      "id": "739ec9a339876fb1d50dcf3d53893d6c",
+      "date": "2026-05-09",
+      "time": "00:00",
+      "home_team": "Hucknall Sports White U9",
+      "away_team": "Quarrydale United U9",
+      "venue": "Engine Rooms NG15 6EP",
+      "division": "U9 Sat YEL Challenge Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United U9",
+      "home_away": "away",
+      "opponent": "Hucknall Sports White U9"
+    },
+    {
       "id": "7b71501b8e76233ed4be36cc5cd444f2",
       "date": "2026-05-10",
       "time": "12:00",
@@ -496,5 +691,6 @@
       "home_away": "away",
       "opponent": "Sherwood FC Arrows U9"
     }
-  ]
+  ],
+  "results": []
 }

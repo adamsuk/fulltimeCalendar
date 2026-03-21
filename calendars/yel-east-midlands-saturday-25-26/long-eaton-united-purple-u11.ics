@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Long Eaton United Purple U11
+X-WR-CALDESC:Fixtures for Long Eaton United Purple U11 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:401acc78378d46dbf52c5bf6f60c5fbd@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260411T110000
+DTEND;TZID=Europe/London:20260411T123000
+SUMMARY:⚽ Long Eaton United Purple U11 vs Stanton Ilkeston Galacticos U11 (Away)
+DESCRIPTION:Division: U11 Sat Spring Div 5 Blue\nStanton Ilkeston Galacticos U11 v Long Eaton United Purple U11\nKO: 11:00
+LOCATION:Ron Brooks Pavilion DE7 4LD
+END:VEVENT
+BEGIN:VEVENT
+UID:43d1142a0ab291f0594cfbc265f220f4@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260414T180000
+DTEND;TZID=Europe/London:20260414T193000
+SUMMARY:⚽ Long Eaton United Purple U11 vs PMG Engage U11 (Away)
+DESCRIPTION:Division: U11 Sat YEL Inter Cup\nPMG Engage U11 v Long Eaton United Purple U11\nKO: 18:00
+LOCATION:Bulwell Hall Park NG6 8LF
+END:VEVENT
+BEGIN:VEVENT
+UID:0c361f8148c18d20fb6aa9998326a253@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T110000
+DTEND;TZID=Europe/London:20260418T123000
+SUMMARY:⚽ Long Eaton United Purple U11 vs Toton Tigers U11 (Away)
+DESCRIPTION:Division: U11 Sat Spring Div 5 Blue\nToton Tigers U11 v Long Eaton United Purple U11\nKO: 11:00
+LOCATION:Chilwell Olympia NG9 5HR
+END:VEVENT
+BEGIN:VEVENT
+UID:a36ba92de9e73361777f6964e04739ae@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260421T180000
+DTEND;TZID=Europe/London:20260421T193000
+SUMMARY:⚽ Long Eaton United Purple U11 vs Nottingham FC Emeralds U11 (Home)
+DESCRIPTION:Division: U11 Sat Spring Div 5 Blue\nLong Eaton United Purple U11 v Nottingham FC Emeralds U11\nKO: 18:00
+LOCATION:Grange Park NG10 2EF
+END:VEVENT
+END:VCALENDAR

@@ -1,20 +1,7 @@
 {
   "club": "Nottingham FC",
-  "generated": "2026-03-21T06:30:00Z",
+  "generated": "2026-03-21T14:04:04Z",
   "fixtures": [
-    {
-      "id": "bc8a201f8f74478292889898c93e5d4a",
-      "date": "2026-03-21",
-      "time": "11:00",
-      "home_team": "Nottingham FC U14",
-      "away_team": "Mountsorrel Juniors U14",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U14 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Nottingham FC U14",
-      "home_away": "home",
-      "opponent": "Mountsorrel Juniors U14"
-    },
     {
       "id": "72d472079cbaa932df5dbe5e4bb7a2de",
       "date": "2026-03-22",
@@ -79,6 +66,58 @@
       "team": "Nottingham FC Green U13",
       "home_away": "away",
       "opponent": "Eastwood CFC Badgers U13"
+    },
+    {
+      "id": "d290f0a5d5048d95f716371a224eec81",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "West Hallam Harriers U9",
+      "away_team": "Nottingham FC Blue U9",
+      "venue": "The Recreation Ground DE7 6FF",
+      "division": "U9 Sat Spring Div 7 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Blue U9",
+      "home_away": "away",
+      "opponent": "West Hallam Harriers U9"
+    },
+    {
+      "id": "8086518de4075ce20b4bc9672968587b",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Gedling Southbank Lynx U12",
+      "away_team": "Nottingham FC Green U12",
+      "venue": "Trevor Carter Pavilion NG4 1RL",
+      "division": "U12 Sat Spring Div 3 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Green U12",
+      "home_away": "away",
+      "opponent": "Gedling Southbank Lynx U12"
+    },
+    {
+      "id": "93d1d9863184150e2aa8c4b8c59ab467",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Nottingham FC U10",
+      "away_team": "Calverton Miners Welfare U10",
+      "venue": "Melbourne Park NG8 5HL",
+      "division": "U10 Sat Spring Div 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC U10",
+      "home_away": "home",
+      "opponent": "Calverton Miners Welfare U10"
+    },
+    {
+      "id": "8b9633cea0d3b7528a72691db8cbb517",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Newton & Blkwl Tornadoes U13",
+      "away_team": "Nottingham FC Black U13",
+      "venue": "Scanderlands Pavilion DE55 5JJ",
+      "division": "U13 Sat Spring Div 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Black U13",
+      "home_away": "away",
+      "opponent": "Newton & Blkwl Tornadoes U13"
     },
     {
       "id": "2e30098665eb2d5616c42c99835a9f36",
@@ -159,6 +198,58 @@
       "opponent": "Gonerby FC Yellow U8"
     },
     {
+      "id": "21761a8744c70738f64167ddd1615a03",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Nottingham FC Black U13",
+      "away_team": "Arnold Town Yellow U13",
+      "venue": "Melbourne Park NG8 5HL",
+      "division": "U13 Sat Spring Div 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Black U13",
+      "home_away": "home",
+      "opponent": "Arnold Town Yellow U13"
+    },
+    {
+      "id": "44ad93411aedd8d95c2aa116ba8bdbaf",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Nottingham FC Black U13",
+      "away_team": "A.C. United F.C. U13",
+      "venue": "Melbourne Park NG8 5HL",
+      "division": "U13 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Black U13",
+      "home_away": "home",
+      "opponent": "A.C. United F.C. U13"
+    },
+    {
+      "id": "52d0b4cc702f8d85e9e56684e654987d",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Lowdham FC Garibaldi U12",
+      "away_team": "Nottingham FC Green U12",
+      "venue": "Gunthorpe Playing Fields NG14 7EW",
+      "division": "U12 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Green U12",
+      "home_away": "away",
+      "opponent": "Lowdham FC Garibaldi U12"
+    },
+    {
+      "id": "00e70ed8013826ff50ea74e6da1fbc63",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Nottingham FC Onyx U11",
+      "away_team": "WBYFC Bohemians U11",
+      "venue": "Melbourne Park NG8 5HL",
+      "division": "U11 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Onyx U11",
+      "home_away": "home",
+      "opponent": "WBYFC Bohemians U11"
+    },
+    {
       "id": "a47dd7dffb293680d04036697a8cef6f",
       "date": "2026-04-14",
       "time": "18:00",
@@ -183,6 +274,84 @@
       "team": "Nottingham FC Green U13",
       "home_away": "away",
       "opponent": "PMG Excel U13"
+    },
+    {
+      "id": "0fd6d611872c547df6209197dcfefb85",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Nottingham FC Blue U9",
+      "away_team": "WBYFC Rio U9",
+      "venue": "Melbourne Park NG8 5HL",
+      "division": "U9 Sat Spring Div 7 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Blue U9",
+      "home_away": "home",
+      "opponent": "WBYFC Rio U9"
+    },
+    {
+      "id": "c92b97d4908e229eb9cdf60fc95c5b40",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Nottingham FC Green U12",
+      "away_team": "Keyworth United White U12",
+      "venue": "Melbourne Park NG8 5HL",
+      "division": "U12 Sat Spring Div 3 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Green U12",
+      "home_away": "home",
+      "opponent": "Keyworth United White U12"
+    },
+    {
+      "id": "a03bd63be602917751f8d0e42b229959",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Notts Olympic U10",
+      "away_team": "Nottingham FC U10",
+      "venue": "Birchover Park Community Centre NG8 4BW",
+      "division": "U10 Sat Spring Div 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC U10",
+      "home_away": "away",
+      "opponent": "Notts Olympic U10"
+    },
+    {
+      "id": "dc71980a8778e1f99686510bcd3e957d",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Keyworth United Cyan U13",
+      "away_team": "Nottingham FC Black U13",
+      "venue": "Platt Lane NG12 5GE",
+      "division": "U13 Sat Spring Div 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Black U13",
+      "home_away": "away",
+      "opponent": "Keyworth United Cyan U13"
+    },
+    {
+      "id": "b732e808d61a54abaf897a8329d97d2a",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Shirebrook Rangers U11",
+      "away_team": "Nottingham FC Emeralds U11",
+      "venue": "Shirebrook Academy  NG20 8QF",
+      "division": "U11 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Emeralds U11",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers U11"
+    },
+    {
+      "id": "81de4db96052918260f3cc790e35fea8",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Spondon Dynamos AS Yellow U11",
+      "away_team": "Nottingham FC Onyx U11",
+      "venue": "Spital Park DE74 2NQ",
+      "division": "U11 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Onyx U11",
+      "home_away": "away",
+      "opponent": "Spondon Dynamos AS Yellow U11"
     },
     {
       "id": "6df583849f981de6175799fa758a7969",
@@ -250,6 +419,32 @@
       "opponent": "Silva FC Rushcliffe Green U11"
     },
     {
+      "id": "a36ba92de9e73361777f6964e04739ae",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Long Eaton United Purple U11",
+      "away_team": "Nottingham FC Emeralds U11",
+      "venue": "Grange Park NG10 2EF",
+      "division": "U11 Sat Spring Div 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Emeralds U11",
+      "home_away": "away",
+      "opponent": "Long Eaton United Purple U11"
+    },
+    {
+      "id": "ff68253c731fa3f2c8d86e02038ddbee",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Nottingham FC Green U12",
+      "away_team": "Edwalton Cavaliers White U12",
+      "venue": "Melbourne Park NG8 5HL",
+      "division": "U12 Sat Spring Div 3 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Green U12",
+      "home_away": "home",
+      "opponent": "Edwalton Cavaliers White U12"
+    },
+    {
       "id": "ddd58e475e5eb0eb6d037715f239d06a",
       "date": "2026-04-23",
       "time": "18:00",
@@ -276,6 +471,19 @@
       "opponent": "Eastwood CFC Black U13"
     },
     {
+      "id": "30c179fa91c07574445d236f92964d93",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "Lowdham FC Blue U11",
+      "away_team": "Nottingham FC Onyx U11",
+      "venue": "Gunthorpe Playing Fields NG14 7EW",
+      "division": "U11 Sat YEL Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Onyx U11",
+      "home_away": "away",
+      "opponent": "Lowdham FC Blue U11"
+    },
+    {
       "id": "a9964cabfa5afaa042cfa73a425c2389",
       "date": "2026-04-25",
       "time": "10:00",
@@ -287,6 +495,58 @@
       "team": "Nottingham FC U14",
       "home_away": "away",
       "opponent": "Loughborough Eml Hawks U14"
+    },
+    {
+      "id": "769cd83c540611c42bb02c7d826bafc6",
+      "date": "2026-04-25",
+      "time": "10:30",
+      "home_team": "Newark Brazil Corinthians U10",
+      "away_team": "Nottingham FC U10",
+      "venue": "Claypole Playing Field NG23 5BQ",
+      "division": "U10 Sat Spring Div 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC U10",
+      "home_away": "away",
+      "opponent": "Newark Brazil Corinthians U10"
+    },
+    {
+      "id": "92fc741b7aeef456af09a561eb0514da",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Nottingham FC Black U13",
+      "away_team": "Bobbersmill FC U13",
+      "venue": "Melbourne Park NG8 5HL",
+      "division": "U13 Sat Spring Div 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Black U13",
+      "home_away": "home",
+      "opponent": "Bobbersmill FC U13"
+    },
+    {
+      "id": "ef024c92e238ae7dfb1cf4b4ceb401db",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Nottingham FC Emeralds U11",
+      "away_team": "Wollaton H & B Dragons U11",
+      "venue": "Melbourne Park NG8 5HL",
+      "division": "U11 Sat Spring Div 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Emeralds U11",
+      "home_away": "home",
+      "opponent": "Wollaton H & B Dragons U11"
+    },
+    {
+      "id": "d0f24228d47abf5a0312f1583c07f0f8",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Lowdham FC Blue U11",
+      "away_team": "Nottingham FC Onyx U11",
+      "venue": "Gunthorpe Playing Fields NG14 7EW",
+      "division": "U11 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Onyx U11",
+      "home_away": "away",
+      "opponent": "Lowdham FC Blue U11"
     },
     {
       "id": "3d02510a37c5de14cfecb09f91bab37e",
@@ -339,6 +599,33 @@
       "team": "Nottingham FC Green U13",
       "home_away": "home",
       "opponent": "G3A FC Boca U13"
+    },
+    {
+      "id": "be6225bb8d4cf2bca1434de764115c44",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "home_team": "Nottingham FC Onyx U11",
+      "away_team": "Holbrook Sports U11",
+      "venue": "Melbourne Park NG8 5HL",
+      "division": "U11 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Onyx U11",
+      "home_away": "home",
+      "opponent": "Holbrook Sports U11"
+    },
+    {
+      "id": "16e33d19758005821b51190643651e31",
+      "date": "2026-05-31",
+      "time": "11:00",
+      "home_team": "Nottingham FC Emeralds U11",
+      "away_team": "Sherwood FC Red U11",
+      "venue": "Melbourne Park NG8 5HL",
+      "division": "U11 Sat Spring Div 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Emeralds U11",
+      "home_away": "home",
+      "opponent": "Sherwood FC Red U11"
     }
-  ]
+  ],
+  "results": []
 }

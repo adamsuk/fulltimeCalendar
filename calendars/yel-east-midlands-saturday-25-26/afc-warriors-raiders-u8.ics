@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AFC Warriors Raiders U8
+X-WR-CALDESC:Fixtures for AFC Warriors Raiders U8 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:334d84d7e430cde0f4f6a88f56b2bc73@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260328T100000
+DTEND;TZID=Europe/London:20260328T113000
+SUMMARY:⚽ AFC Warriors Raiders U8 vs Carlton Town Golden U8 (Home)
+DESCRIPTION:Division: U8 Sat Spring 6 Red\nAFC Warriors Raiders U8 v Carlton Town Golden U8\nKO: 10:00
+LOCATION:Newark Academy  NG24 3AL
+END:VEVENT
+BEGIN:VEVENT
+UID:e82a4065c7ecac12dc1e31376fcb1644@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260411T100000
+DTEND;TZID=Europe/London:20260411T113000
+SUMMARY:⚽ AFC Warriors Raiders U8 vs Newark Town Titans U8 (Away)
+DESCRIPTION:Division: U8 Sat Spring 6 Red\nNewark Town Titans U8 v AFC Warriors Raiders U8\nKO: 10:00
+LOCATION:Devon Park NG24 4QN
+END:VEVENT
+BEGIN:VEVENT
+UID:78f7d374068c9bf88f119fd6182a7955@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ AFC Warriors Raiders U8 vs Southwell City Pumas U8 (Home)
+DESCRIPTION:Division: U8 Sat Spring 6 Red\nAFC Warriors Raiders U8 v Southwell City Pumas U8\nKO: 10:00
+LOCATION:Newark Academy  NG24 3AL
+END:VEVENT
+BEGIN:VEVENT
+UID:8591c6d3c62cab7b2d8dda152c1d9671@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T113000
+SUMMARY:⚽ AFC Warriors Raiders U8 vs Silva FC Carlton Yellow U8 (Home)
+DESCRIPTION:Division: U8 Sat Spring 6 Red\nAFC Warriors Raiders U8 v Silva FC Carlton Yellow U8\nKO: 10:00
+LOCATION:Newark Academy  NG24 3AL
+END:VEVENT
+END:VCALENDAR

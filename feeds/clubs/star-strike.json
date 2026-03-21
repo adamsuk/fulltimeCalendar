@@ -1,32 +1,19 @@
 {
   "club": "Star Strike",
-  "generated": "2026-03-21T06:30:00Z",
+  "generated": "2026-03-21T14:04:04Z",
   "fixtures": [
     {
-      "id": "b6d2f3b79da611b08878296268f228a9",
+      "id": "c0dee1e987d0e57bcbbd3accf97c71b9",
       "date": "2026-03-21",
       "time": "10:00",
-      "home_team": "Star Strike Tigers Black U14",
-      "away_team": "Sports Gtway Hurricanes U14",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U14 Sat Spring Div 5 Red",
+      "home_team": "Star Strike Tigers U10",
+      "away_team": "Radcliffe Olympic Outlaws U10",
+      "venue": "Breck Hill Park NG5 4GP",
+      "division": "U10 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
-      "team": "Star Strike Tigers Black U14",
+      "team": "Star Strike Tigers U10",
       "home_away": "home",
-      "opponent": "Sports Gtway Hurricanes U14"
-    },
-    {
-      "id": "6390f2864d819cd32266fac7b6afe3d0",
-      "date": "2026-03-21",
-      "time": "11:00",
-      "home_team": "Star Strike Tigers Orange U14",
-      "away_team": "Calverton MW White U14",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U14 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Star Strike Tigers Orange U14",
-      "home_away": "home",
-      "opponent": "Calverton MW White U14"
+      "opponent": "Radcliffe Olympic Outlaws U10"
     },
     {
       "id": "0f7c6132dfaf5e4b0deac3da413a3da8",
@@ -42,6 +29,32 @@
       "opponent": "East Leake Bantams Orange U7"
     },
     {
+      "id": "1a8e77714874923ce959e311249a7223",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Toton Tornados Lightening U8",
+      "away_team": "Star Strike Tigers U8",
+      "venue": "Manor Farm Recreation Ground NG9 6EL",
+      "division": "U8 Sat Spring 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Star Strike Tigers U8",
+      "home_away": "away",
+      "opponent": "Toton Tornados Lightening U8"
+    },
+    {
+      "id": "dd4529d6711a39587356a801307fec1d",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Star Strike Tigers U9",
+      "away_team": "Clifton All Whites Green U9",
+      "venue": "Breck Hill Park NG5 4GP",
+      "division": "U9 Sat Spring Div 7 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Star Strike Tigers U9",
+      "home_away": "home",
+      "opponent": "Clifton All Whites Green U9"
+    },
+    {
       "id": "c11bd9a3ac7e82fb5576f1bcec156a83",
       "date": "2026-03-29",
       "time": "09:00",
@@ -55,6 +68,19 @@
       "opponent": "DLFC Orange U7"
     },
     {
+      "id": "aaaa32bd3032d9928fb575d5944413c5",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "DLFC Ruby U8",
+      "away_team": "Star Strike Tigers U8",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U8 Sat Spring 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Star Strike Tigers U8",
+      "home_away": "away",
+      "opponent": "DLFC Ruby U8"
+    },
+    {
       "id": "51fbf8a1b99e6f8b9a6863ce3960c18e",
       "date": "2026-04-12",
       "time": "10:00",
@@ -66,6 +92,58 @@
       "team": "Star Strike Tigers U7",
       "home_away": "home",
       "opponent": "Silva FC Rushcliffe Panthers U7"
+    },
+    {
+      "id": "770e6a213bd2d66e55642fdbbce2ec81",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Fernwood Foxes Red U10",
+      "away_team": "Star Strike Tigers U10",
+      "venue": "Balderton Playing Fields NG24 3BD",
+      "division": "U10 Sat Spring Div 9 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Star Strike Tigers U10",
+      "home_away": "away",
+      "opponent": "Fernwood Foxes Red U10"
+    },
+    {
+      "id": "56cccc3a9086914111fe305ac9c9600c",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Eastwood Ath Red Devils U12",
+      "away_team": "Star Strike Tigers U12",
+      "venue": "Hall Park NG16 3AR",
+      "division": "U12 Sat Spring Div 7 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Star Strike Tigers U12",
+      "home_away": "away",
+      "opponent": "Eastwood Ath Red Devils U12"
+    },
+    {
+      "id": "e80871483e928f1f9685ad3ee8175ca5",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Star Strike Tigers U8",
+      "away_team": "Heanor Town Hot Dogs U8",
+      "venue": "Robin Hood Road NG5 8NP",
+      "division": "U8 Sat Spring 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Star Strike Tigers U8",
+      "home_away": "home",
+      "opponent": "Heanor Town Hot Dogs U8"
+    },
+    {
+      "id": "f8210a5a0420d95172344f7b0e5b0d90",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Loughborough Emmanuel U9",
+      "away_team": "Star Strike Tigers U9",
+      "venue": "Charnwood College, Loughborough LE11 4SQ",
+      "division": "U9 Sat Spring Div 7 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Star Strike Tigers U9",
+      "home_away": "away",
+      "opponent": "Loughborough Emmanuel U9"
     },
     {
       "id": "b64d6638916e36f0426d05af74efa1bd",
@@ -107,6 +185,32 @@
       "opponent": "Meden Vale Colts Gold U14"
     },
     {
+      "id": "134ef59e8c9a2d4369bd5b95a24f3db5",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Star Strike Tigers U8",
+      "away_team": "Wollaton FC Navy U8",
+      "venue": "Robin Hood Road NG5 8NP",
+      "division": "U8 Sat Spring 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Star Strike Tigers U8",
+      "home_away": "home",
+      "opponent": "Wollaton FC Navy U8"
+    },
+    {
+      "id": "5d5b883f98b354581d768be240dd3aa4",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Star Strike Tigers U9",
+      "away_team": "Woodborough Celtic Warriors U9",
+      "venue": "Breck Hill Park NG5 4GP",
+      "division": "U9 Sat Spring Div 7 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Star Strike Tigers U9",
+      "home_away": "home",
+      "opponent": "Woodborough Celtic Warriors U9"
+    },
+    {
       "id": "4773438a9968122ca19bca44b9a69cbd",
       "date": "2026-04-25",
       "time": "12:30",
@@ -131,6 +235,20 @@
       "team": "Star Strike Tigers U7",
       "home_away": "away",
       "opponent": "Castle Donington Rockets U7"
+    },
+    {
+      "id": "0c9270a3ecc7e6b3b09349f6d3fe707a",
+      "date": "2026-05-09",
+      "time": "00:00",
+      "home_team": "Star Strike Tigers U9",
+      "away_team": "Keyworth United White U9",
+      "venue": "Breck Hill Park NG5 4GP",
+      "division": "U9 Sat YEL Foundation",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Star Strike Tigers U9",
+      "home_away": "home",
+      "opponent": "Keyworth United White U9"
     }
-  ]
+  ],
+  "results": []
 }

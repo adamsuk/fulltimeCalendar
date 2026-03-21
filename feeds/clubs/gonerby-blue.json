@@ -1,6 +1,6 @@
 {
   "club": "Gonerby Blue",
-  "generated": "2026-03-21T06:30:00Z",
+  "generated": "2026-03-21T14:04:04Z",
   "fixtures": [
     {
       "id": "4463632d678bc6b4df602dfff5fdab12",
@@ -42,6 +42,19 @@
       "opponent": "Ollerton Town U13"
     },
     {
+      "id": "d252c6092c61160074e1e82e01294b8e",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Gonerby Yellow U9",
+      "away_team": "Gonerby Blue U9",
+      "venue": "Gonerby Recreation Ground NG31 8PP",
+      "division": "U9 Sat Spring Div 9 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gonerby Blue U9",
+      "home_away": "away",
+      "opponent": "Gonerby Yellow U9"
+    },
+    {
       "id": "ed892805b69aa556265e5cab9ee92111",
       "date": "2026-03-29",
       "time": "10:00",
@@ -79,6 +92,19 @@
       "team": "Gonerby Blue U11",
       "home_away": "away",
       "opponent": "Wollaton H&B Stags U11"
+    },
+    {
+      "id": "3e0cd4b5749ed0d0983602fca7bb5d06",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Newark Brazil Corinthians U9",
+      "away_team": "Gonerby Blue U9",
+      "venue": "Claypole Playing Field NG23 5BQ",
+      "division": "U9 Sat Spring Div 9 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gonerby Blue U9",
+      "home_away": "away",
+      "opponent": "Newark Brazil Corinthians U9"
     },
     {
       "id": "615c1856dc653f24081e055e165dc455",
@@ -132,5 +158,6 @@
       "home_away": "home",
       "opponent": "Keyworth United Red U13"
     }
-  ]
+  ],
+  "results": []
 }

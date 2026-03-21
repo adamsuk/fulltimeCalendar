@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hemington Hammers Hunters U7
+X-WR-CALDESC:Fixtures for Hemington Hammers Hunters U7 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:348b4a831e9b1000a0a2768bb379c3ee@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260328T100000
+DTEND;TZID=Europe/London:20260328T113000
+SUMMARY:⚽ Hemington Hammers Hunters U7 vs DLFC Emerald U7 (Home)
+DESCRIPTION:Division: U7 Sat Spring 6\nHemington Hammers Hunters U7 v DLFC Emerald U7\nKO: 10:00
+LOCATION:Hemington Lane DE74 2RF
+END:VEVENT
+BEGIN:VEVENT
+UID:ec4b992ce1d6397bb7505aa54201d7c0@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260411T100000
+DTEND;TZID=Europe/London:20260411T113000
+SUMMARY:⚽ Hemington Hammers Hunters U7 vs Priory Celtic Green U7 (Away)
+DESCRIPTION:Division: U7 Sat Spring 6\nPriory Celtic Green U7 v Hemington Hammers Hunters U7\nKO: 10:00
+LOCATION:Kimberley Leisure Centre NG16 2NJ GP1
+END:VEVENT
+BEGIN:VEVENT
+UID:0b81303fb6f3c1675bce36ad52951efd@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Hemington Hammers Hunters U7 vs Wollaton H/B Falcons U7 (Home)
+DESCRIPTION:Division: U7 Saturday\nHemington Hammers Hunters U7 v Wollaton H/B Falcons U7\nKO: 10:00
+LOCATION:Hemington Lane DE74 2RF
+END:VEVENT
+BEGIN:VEVENT
+UID:c3969bf64ec1503050094bf2f817bb81@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T113000
+SUMMARY:⚽ Hemington Hammers Hunters U7 vs Spirit Celtic Pumas U7 (Home)
+DESCRIPTION:Division: U7 Sat Spring 6\nHemington Hammers Hunters U7 v Spirit Celtic Pumas U7\nKO: 10:00
+LOCATION:Hemington Lane DE74 2RF
+END:VEVENT
+END:VCALENDAR

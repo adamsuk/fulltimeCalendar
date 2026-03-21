@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Long Eaton United Navy U12
+X-WR-CALDESC:Fixtures for Long Eaton United Navy U12 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:c8d9e577852d295f5db11a0c0e0ac8dc@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T110000
+DTEND;TZID=Europe/London:20260418T123000
+SUMMARY:⚽ Long Eaton United Navy U12 vs Littleover Dazzlers U12 (Home)
+DESCRIPTION:Division: U12 Sat Spring Div 3 Blue\nLong Eaton United Navy U12 v Littleover Dazzlers U12\nKO: 11:00
+LOCATION:Grange Park NG10 2EF
+END:VEVENT
+END:VCALENDAR

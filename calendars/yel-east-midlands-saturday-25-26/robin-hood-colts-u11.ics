@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Robin Hood Colts U11
+X-WR-CALDESC:Fixtures for Robin Hood Colts U11 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:90947ed6b5aa0cb595624cfc422a7087@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260328T100000
+DTEND;TZID=Europe/London:20260328T113000
+SUMMARY:⚽ Robin Hood Colts U11 vs Nottingham Second Chance U11 (Home)
+DESCRIPTION:Division: U11 Sat Spring Div 7 Red\nRobin Hood Colts U11 v Nottingham Second Chance U11\nKO: 10:00
+LOCATION:Sherwood Fields, Edwinstowe NG21 9PN
+END:VEVENT
+BEGIN:VEVENT
+UID:817391e7b51d4d48da7e919fb7acc502@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T123000
+SUMMARY:⚽ Robin Hood Colts U11 vs Alfreton Town Eagles U11 (Away)
+DESCRIPTION:Division: U11 Sat Spring Div 7 Red\nAlfreton Town Eagles U11 v Robin Hood Colts U11\nKO: 11:00
+LOCATION:David Neiper Academy School DE55 7JA
+END:VEVENT
+END:VCALENDAR

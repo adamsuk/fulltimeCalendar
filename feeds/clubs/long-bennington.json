@@ -1,20 +1,7 @@
 {
   "club": "Long Bennington",
-  "generated": "2026-03-21T06:30:00Z",
+  "generated": "2026-03-21T14:04:04Z",
   "fixtures": [
-    {
-      "id": "1cb63d351611b474707e6c417843b444",
-      "date": "2026-03-21",
-      "time": "10:30",
-      "home_team": "Long Bennington U14",
-      "away_team": "Radcliffe Olympic Outlaws U14",
-      "venue": "Long Bennington QE2 Plyng Fld  NG23 5DJ",
-      "division": "U14 Sat Spring Div 7",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Long Bennington U14",
-      "home_away": "home",
-      "opponent": "Radcliffe Olympic Outlaws U14"
-    },
     {
       "id": "d68cafa3efc4fc850b41113b93909b70",
       "date": "2026-03-22",
@@ -27,6 +14,45 @@
       "team": "Long Bennington U10",
       "home_away": "home",
       "opponent": "Newark Brazil Cruzeiro U10"
+    },
+    {
+      "id": "90f9f33ad91a449ee4b43fd2bdf68ef5",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Long Bennington FC U12",
+      "away_team": "Sneinton Town U12",
+      "venue": "QE2 Playing Field NG23 5HD",
+      "division": "U12 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Bennington FC U12",
+      "home_away": "home",
+      "opponent": "Sneinton Town U12"
+    },
+    {
+      "id": "9d22c9aa7c18cbeea70b35af9e7cd599",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Long Bennington FC U7",
+      "away_team": "Keyworth United White U7",
+      "venue": "QE2 Playing Field NG23 5HD",
+      "division": "U7 Sat Spring 6",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Bennington FC U7",
+      "home_away": "home",
+      "opponent": "Keyworth United White U7"
+    },
+    {
+      "id": "078c07e3430741803e882f28fc1b019c",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Long Bennington FC U9",
+      "away_team": "Keyworth United White U9",
+      "venue": "Long Bennington QE2 Plyng Fld  NG23 5DJ",
+      "division": "U9 Sat Spring Div 8 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Bennington FC U9",
+      "home_away": "home",
+      "opponent": "Keyworth United White U9"
     },
     {
       "id": "1f7e01dd67578476180a165a833380d4",
@@ -55,6 +81,84 @@
       "opponent": "AJ Sport Black U10"
     },
     {
+      "id": "6418d15068beb3426f969161d3410596",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Long Bennington FC U7",
+      "away_team": "Spirit Celtic Pumas U7",
+      "venue": "QE2 Playing Field NG23 5HD",
+      "division": "U7 Sat Spring 6",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Bennington FC U7",
+      "home_away": "home",
+      "opponent": "Spirit Celtic Pumas U7"
+    },
+    {
+      "id": "69de3170f43c78ce846c5775b3dd3893",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Long Bennington FC U11",
+      "away_team": "AC United U11",
+      "venue": "QE2 Playing Field NG23 5HD",
+      "division": "U11 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Bennington FC U11",
+      "home_away": "home",
+      "opponent": "AC United U11"
+    },
+    {
+      "id": "d3e1bc65603334f9d767e6e56b8ec408",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Radcliffe Olympic Blue U12",
+      "away_team": "Long Bennington FC U12",
+      "venue": "Bingham Road NG12 2GP",
+      "division": "U12 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Bennington FC U12",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic Blue U12"
+    },
+    {
+      "id": "d722b4c1b682b054aabb842f6af23bbd",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Long Bennington FC U12",
+      "away_team": "Woodhouse Colts Warriors U12",
+      "venue": "QE2 Playing Field NG23 5HD",
+      "division": "U12 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Bennington FC U12",
+      "home_away": "home",
+      "opponent": "Woodhouse Colts Warriors U12"
+    },
+    {
+      "id": "88cc9a22176cee17bf78aadb3498bbd7",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "WBYFC Genk White U7",
+      "away_team": "Long Bennington FC U7",
+      "venue": "Gresham Park  NG2 7YF",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Bennington FC U7",
+      "home_away": "away",
+      "opponent": "WBYFC Genk White U7"
+    },
+    {
+      "id": "a792d3f5a9b3e8fdff89d511b09ecd1d",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Long Bennington FC U9",
+      "away_team": "Gedling Southbank Jets U9",
+      "venue": "Long Bennington QE2 Plyng Fld  NG23 5DJ",
+      "division": "U9 Sat Spring Div 8 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Bennington FC U9",
+      "home_away": "home",
+      "opponent": "Gedling Southbank Jets U9"
+    },
+    {
       "id": "0e44e49d850ab386a3cd5049d954c852",
       "date": "2026-04-18",
       "time": "10:30",
@@ -81,6 +185,45 @@
       "opponent": "Cotgrave FC Claret U10"
     },
     {
+      "id": "8f549cbdf41ac35455c4bcea11216898",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Southwell City Panthers U11",
+      "away_team": "Long Bennington FC U11",
+      "venue": "Southwell City FC  NG25 0JP",
+      "division": "U11 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Bennington FC U11",
+      "home_away": "away",
+      "opponent": "Southwell City Panthers U11"
+    },
+    {
+      "id": "a0acd224e3a5f88b49d65236b29ec02a",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Priory Celtic White U7",
+      "away_team": "Long Bennington FC U7",
+      "venue": "Kimberley Leisure Centre NG16 2NJ GP1",
+      "division": "U7 Sat Spring 6",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Bennington FC U7",
+      "home_away": "away",
+      "opponent": "Priory Celtic White U7"
+    },
+    {
+      "id": "91bd59d7170b4271e700eea133e05d96",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Long Bennington FC U11",
+      "away_team": "Hucknall Sports Blue U11",
+      "venue": "QE2 Playing Field NG23 5HD",
+      "division": "U11 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Bennington FC U11",
+      "home_away": "home",
+      "opponent": "Hucknall Sports Blue U11"
+    },
+    {
       "id": "7d6ca736f1333eb3d305dbf932b6839c",
       "date": "2026-04-25",
       "time": "11:00",
@@ -92,6 +235,32 @@
       "team": "Long Bennington U14",
       "home_away": "home",
       "opponent": "Spirit Celtic White U14"
+    },
+    {
+      "id": "a4ef9c561f08ee30562abf38c989e8fa",
+      "date": "2026-04-25",
+      "time": "11:15",
+      "home_team": "Bingham Town White U9",
+      "away_team": "Long Bennington FC U9",
+      "venue": "Butt Field NG13 8GG",
+      "division": "U9 Sat Spring Div 8 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Bennington FC U9",
+      "home_away": "away",
+      "opponent": "Bingham Town White U9"
+    },
+    {
+      "id": "181c95e936a478843ac4a1bcbd467ccb",
+      "date": "2026-04-25",
+      "time": "11:30",
+      "home_team": "Newark Brazil Corinthians U12",
+      "away_team": "Long Bennington FC U12",
+      "venue": "Magnus School Sports Centre NG24 4BZ",
+      "division": "U12 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Bennington FC U12",
+      "home_away": "away",
+      "opponent": "Newark Brazil Corinthians U12"
     },
     {
       "id": "30c09042266fbc4a80ccf355c4729780",
@@ -106,5 +275,6 @@
       "home_away": "away",
       "opponent": "ASFC Wolves U10"
     }
-  ]
+  ],
+  "results": []
 }

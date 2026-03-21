@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Newhall FC Jaguars U13
+X-WR-CALDESC:Fixtures for Newhall FC Jaguars U13 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:aa2f72587a8e8feae516e11a7b69c8e8@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260411T110000
+DTEND;TZID=Europe/London:20260411T123000
+SUMMARY:⚽ Newhall FC Jaguars U13 vs Mansfield Hos Mills Blue U13 (Away)
+DESCRIPTION:Division: U13 Sat Spring Div 5 Red\nMansfield Hos Mills Blue U13 v Newhall FC Jaguars U13\nKO: 11:00
+LOCATION:The Fieldings  NG17 2TF
+END:VEVENT
+END:VCALENDAR

@@ -1,6 +1,6 @@
 {
   "club": "Alvaston Athletic",
-  "generated": "2026-03-21T06:30:00Z",
+  "generated": "2026-03-21T14:04:04Z",
   "fixtures": [
     {
       "id": "48db16163d7a5f66dc4002102fc99a06",
@@ -40,6 +40,19 @@
       "team": "Alvaston Athletic Lions U13",
       "home_away": "away",
       "opponent": "Spondon Dynamos Blades U13"
+    },
+    {
+      "id": "677c067e5d4fa618fb877247b5092666",
+      "date": "2026-03-28",
+      "time": "10:30",
+      "home_team": "Alvaston Athletic Lions U13",
+      "away_team": "Inspire Nottingham FC Red U13",
+      "venue": "Castle Donnington College DE74 2PJ",
+      "division": "U13 Sat Spring Div 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "home",
+      "opponent": "Inspire Nottingham FC Red U13"
     },
     {
       "id": "b5ab130f86fb4d6f70b70dad7f3af753",
@@ -92,6 +105,19 @@
       "team": "Alvaston Athletic White U7",
       "home_away": "away",
       "opponent": "Sherwood FC Rangers U7"
+    },
+    {
+      "id": "c97e1593e69b7dac61edeb152b10eb4f",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Long Eaton United White U13",
+      "away_team": "Alvaston Athletic Lions U13",
+      "venue": "Grange Park NG10 2EF",
+      "division": "U13 Sat Spring Div 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "away",
+      "opponent": "Long Eaton United White U13"
     },
     {
       "id": "5883abfb8164da0bfe21802a8141b56d",
@@ -158,5 +184,6 @@
       "home_away": "home",
       "opponent": "WBYFC Boca U13"
     }
-  ]
+  ],
+  "results": []
 }

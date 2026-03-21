@@ -1,20 +1,7 @@
 {
   "club": "Calverton MW",
-  "generated": "2026-03-21T06:30:00Z",
+  "generated": "2026-03-21T14:04:04Z",
   "fixtures": [
-    {
-      "id": "6390f2864d819cd32266fac7b6afe3d0",
-      "date": "2026-03-21",
-      "time": "11:00",
-      "home_team": "Star Strike Tigers Orange U14",
-      "away_team": "Calverton MW White U14",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U14 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Calverton MW White U14",
-      "home_away": "away",
-      "opponent": "Star Strike Tigers Orange U14"
-    },
     {
       "id": "6066f7494c64e9d483d2cfee6004ea9e",
       "date": "2026-03-22",
@@ -81,6 +68,19 @@
       "opponent": "Shirebrook Rangers Blue U11"
     },
     {
+      "id": "39975a947a1bd8d736eb2c63c7a17407",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Loughborough Eml Phoenix U13",
+      "away_team": "Calverton MW Red U13",
+      "venue": "Charnwood College, Loughborough LE11 4SQ",
+      "division": "U13 Sat Spring Div 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Calverton MW Red U13",
+      "home_away": "away",
+      "opponent": "Loughborough Eml Phoenix U13"
+    },
+    {
       "id": "5f5fbfd3b1628686003b65741cfa1a97",
       "date": "2026-03-28",
       "time": "10:00",
@@ -131,6 +131,45 @@
       "team": "Calverton MW Blue U12",
       "home_away": "away",
       "opponent": "Mansfield Town Grassroots Blue U12"
+    },
+    {
+      "id": "3218a93015311864b500e77e7906ab02",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Calverton MW Blue U11",
+      "away_team": "Grantham Town U11",
+      "venue": "Kinton Park NG14 6NR",
+      "division": "U11 Sat Spring Div 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Calverton MW Blue U11",
+      "home_away": "home",
+      "opponent": "Grantham Town U11"
+    },
+    {
+      "id": "c70d75a439270a0d346198f06bd5960a",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Winthorpe & Cod T Black U12",
+      "away_team": "Calverton MW Blue U12",
+      "venue": "Stapleford Lane NG24 2QZ",
+      "division": "U12 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Calverton MW Blue U12",
+      "home_away": "away",
+      "opponent": "Winthorpe & Cod T Black U12"
+    },
+    {
+      "id": "c7cfe3e490b0b792e59fcf4a979146ea",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Calverton MW Red U13",
+      "away_team": "AFC Chellaston Rams U13",
+      "venue": "Kinton Park NG14 6NR",
+      "division": "U13 Sat YEL Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Calverton MW Red U13",
+      "home_away": "home",
+      "opponent": "AFC Chellaston Rams U13"
     },
     {
       "id": "94ba37124ce18d6b2e9b9eebae1855e0",
@@ -185,6 +224,45 @@
       "opponent": "Heanor Juniors Ultras U12"
     },
     {
+      "id": "e22c04245ceb86013e57fbc0635225fd",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Calverton MW Blue U11",
+      "away_team": "AFC Warriors Vikings U11",
+      "venue": "Kinton Park NG14 6NR",
+      "division": "U11 Sat Spring Div 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Calverton MW Blue U11",
+      "home_away": "home",
+      "opponent": "AFC Warriors Vikings U11"
+    },
+    {
+      "id": "77cd29e11d8b713100d1fd24d36164f5",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Calverton MW Blue U11",
+      "away_team": "Ravenshead FC U11",
+      "venue": "Kinton Park NG14 6NR",
+      "division": "U11 Sat Spring Div 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Calverton MW Blue U11",
+      "home_away": "home",
+      "opponent": "Ravenshead FC U11"
+    },
+    {
+      "id": "cc509873c481e38fd3fe893645168475",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Calverton MW Red U13",
+      "away_team": "Bingham Town Blue U13",
+      "venue": "Kinton Park NG14 6NR",
+      "division": "U13 Sat Spring Div 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Calverton MW Red U13",
+      "home_away": "home",
+      "opponent": "Bingham Town Blue U13"
+    },
+    {
       "id": "8c1408fd7000f3bb23f2ab989d1b38d0",
       "date": "2026-04-26",
       "time": "09:30",
@@ -210,5 +288,6 @@
       "home_away": "home",
       "opponent": "DLFC Green U9"
     }
-  ]
+  ],
+  "results": []
 }

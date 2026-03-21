@@ -1,6 +1,6 @@
 {
   "club": "Basford CFC",
-  "generated": "2026-03-21T06:30:00Z",
+  "generated": "2026-03-21T14:04:04Z",
   "fixtures": [
     {
       "id": "ccbae34cc349f7a1560928ecaedf3bec",
@@ -40,6 +40,32 @@
       "team": "Basford CFC Barca U9",
       "home_away": "home",
       "opponent": "Eastwood CFC Juventus U9"
+    },
+    {
+      "id": "8465556f3c1623584669cde1808812c4",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Mapperley All Stars Stripes U9",
+      "away_team": "Basford CFC Iconz U9",
+      "venue": "Colwick Recreation Ground NG4 2DW",
+      "division": "U9 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford CFC Iconz U9",
+      "home_away": "away",
+      "opponent": "Mapperley All Stars Stripes U9"
+    },
+    {
+      "id": "eeaa09c734ec546d9ea04141e04d2c7f",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Basford CFC Blue U10",
+      "away_team": "Ilkeston Town PSG U10",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U10 Sat Spring Div 2 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford CFC Blue U10",
+      "home_away": "home",
+      "opponent": "Ilkeston Town PSG U10"
     },
     {
       "id": "e1c212991213063bab82a233d27edd43",
@@ -94,6 +120,45 @@
       "opponent": "Beaufort United Reds U8"
     },
     {
+      "id": "e6f9a086571b9b2814813bd9ecc8c9e2",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "WBYFC Azzuri U10",
+      "away_team": "Basford CFC Blue U10",
+      "venue": "Regatta Way NG2 5AT",
+      "division": "U10 Sat Spring Div 2 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford CFC Blue U10",
+      "home_away": "away",
+      "opponent": "WBYFC Azzuri U10"
+    },
+    {
+      "id": "84e634db8203d636b661ee8071a375f2",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "DLFC Red U9",
+      "away_team": "Basford CFC Iconz U9",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U9 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford CFC Iconz U9",
+      "home_away": "away",
+      "opponent": "DLFC Red U9"
+    },
+    {
+      "id": "876d7a498b10e9506e9d4d076abc33df",
+      "date": "2026-04-18",
+      "time": "12:30",
+      "home_team": "Long Eaton United White U11",
+      "away_team": "Basford CFC Storm U11",
+      "venue": "Grange Park NG10 2EF",
+      "division": "U11 Sat Spring Div 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford CFC Storm U11",
+      "home_away": "away",
+      "opponent": "Long Eaton United White U11"
+    },
+    {
       "id": "5d97f3dcc1a111b67c0db33dbcf64cb8",
       "date": "2026-04-19",
       "time": "10:00",
@@ -131,6 +196,19 @@
       "team": "Basford CFC Gold U8",
       "home_away": "away",
       "opponent": "Beaufort United Reds U8"
+    },
+    {
+      "id": "03585626e7333125444ec3b90c4c23ef",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Basford CFC Blue U10",
+      "away_team": "Southwell City Stars U10",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U10 Sat Spring Div 2 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford CFC Blue U10",
+      "home_away": "home",
+      "opponent": "Southwell City Stars U10"
     },
     {
       "id": "32f50420fb23920875753c9da2b1295f",
@@ -171,5 +249,6 @@
       "home_away": "home",
       "opponent": "Mansfield Town Grassroots U9"
     }
-  ]
+  ],
+  "results": []
 }

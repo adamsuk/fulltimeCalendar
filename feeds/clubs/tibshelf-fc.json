@@ -1,6 +1,6 @@
 {
   "club": "Tibshelf FC",
-  "generated": "2026-03-21T06:30:00Z",
+  "generated": "2026-03-21T14:04:04Z",
   "fixtures": [
     {
       "id": "cb64303768fb283a2c2050ed70316765",
@@ -55,6 +55,19 @@
       "opponent": "East Leake Bantams Black U9"
     },
     {
+      "id": "b1e20e614f10f05bd1aa3b040577b562",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Tibshelf FC White U8",
+      "away_team": "DLFC White U8",
+      "venue": "TIBSHELF SPORTS FIELD DE55 5QE",
+      "division": "U8 Sat Spring 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf FC White U8",
+      "home_away": "home",
+      "opponent": "DLFC White U8"
+    },
+    {
       "id": "c837e11b9a36e1c17e4c683c15327a5b",
       "date": "2026-03-29",
       "time": "10:00",
@@ -107,6 +120,19 @@
       "opponent": "Newark Brazil Cruzeiro U10"
     },
     {
+      "id": "28a069eb7407a677a6c508bca2c5b243",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Tibshelf FC White U8",
+      "away_team": "Collingham FC Lions U8",
+      "venue": "TIBSHELF SPORTS FIELD DE55 5QE",
+      "division": "U8 Sat Spring 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf FC White U8",
+      "home_away": "home",
+      "opponent": "Collingham FC Lions U8"
+    },
+    {
       "id": "650a611cb38a3d2b57bea6ca77abaa47",
       "date": "2026-04-12",
       "time": "10:00",
@@ -131,6 +157,19 @@
       "team": "Tibshelf FC Black U8",
       "home_away": "away",
       "opponent": "DLFC Boca U8"
+    },
+    {
+      "id": "b848ce0b1cf41ee5879b7c91575f3e61",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "ATFA Brinsley Eagles U8",
+      "away_team": "Tibshelf FC White U8",
+      "venue": "Brinsley Parish Council NG163HB",
+      "division": "U8 Sat Spring 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf FC White U8",
+      "home_away": "away",
+      "opponent": "ATFA Brinsley Eagles U8"
     },
     {
       "id": "3fa7900c8f8eb35207f4a9b966231216",
@@ -172,6 +211,19 @@
       "opponent": "ASFC Wolves U10"
     },
     {
+      "id": "c67e69e7e519b8c71517d89f15b93299",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Selston FC U8",
+      "away_team": "Tibshelf FC White U8",
+      "venue": "Selston Parish Hall  NG16 6EE",
+      "division": "U8 Sat Spring 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf FC White U8",
+      "home_away": "away",
+      "opponent": "Selston FC U8"
+    },
+    {
       "id": "679c413e5688bdebeaf0562e529ae04a",
       "date": "2026-04-26",
       "time": "10:00",
@@ -197,5 +249,6 @@
       "home_away": "home",
       "opponent": "Inspire Nottingham FC Black U8"
     }
-  ]
+  ],
+  "results": []
 }

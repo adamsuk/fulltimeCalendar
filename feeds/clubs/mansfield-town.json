@@ -1,20 +1,7 @@
 {
   "club": "Mansfield Town",
-  "generated": "2026-03-21T06:30:00Z",
+  "generated": "2026-03-21T14:04:04Z",
   "fixtures": [
-    {
-      "id": "8e72cc7e5e5541fea5d68066d0869148",
-      "date": "2026-03-21",
-      "time": "11:00",
-      "home_team": "Bagthorpe Athletic U14",
-      "away_team": "Mansfield Town Grassroots U14",
-      "venue": "Dixies Arms Park NG16 5HF",
-      "division": "U14 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Mansfield Town Grassroots U14",
-      "home_away": "away",
-      "opponent": "Bagthorpe Athletic U14"
-    },
     {
       "id": "8abf9638dfc95fb82c61537d23b465b4",
       "date": "2026-03-22",
@@ -66,6 +53,19 @@
       "team": "Mansfield Town Grassroots U9",
       "home_away": "away",
       "opponent": "Canoville Cobras U9"
+    },
+    {
+      "id": "a34585fb72bdf9416de59f3f33286212",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Mansfield Town Grassroots Y/W U12",
+      "away_team": "AFC Chellaston Chargers U12",
+      "venue": "One Call Stadium NG18 5DA",
+      "division": "U12 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mansfield Town Grassroots Y/W U12",
+      "home_away": "home",
+      "opponent": "AFC Chellaston Chargers U12"
     },
     {
       "id": "68abb809db3c9cfd766cd9be7fdce355",
@@ -120,6 +120,19 @@
       "opponent": "Calverton MW Blue U12"
     },
     {
+      "id": "dd7b2a0f570f0285372599093c13dc7d",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Silva FC Rushcliffe Reds U13",
+      "away_team": "Mansfield Town Grassroots U13",
+      "venue": "Rushcliffe School  NG2 7BW",
+      "division": "U13 Sat YEL Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mansfield Town Grassroots U13",
+      "home_away": "away",
+      "opponent": "Silva FC Rushcliffe Reds U13"
+    },
+    {
       "id": "7bbabfbc2572a2cf8fd094d0bb16d0fe",
       "date": "2026-04-18",
       "time": "11:00",
@@ -131,6 +144,19 @@
       "team": "Mansfield Town Grassroots U14",
       "home_away": "away",
       "opponent": "Burton Joyce Blue U14"
+    },
+    {
+      "id": "d946c667d4375315294c3fd9913a3e7a",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Mansfield Town Grassroots Y/W U12",
+      "away_team": "G3A FC Rangers U12",
+      "venue": "R&H Academy NG19 7RT",
+      "division": "U12 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mansfield Town Grassroots Y/W U12",
+      "home_away": "home",
+      "opponent": "G3A FC Rangers U12"
     },
     {
       "id": "79e432415eb447c3157bc870beed911b",
@@ -185,6 +211,19 @@
       "opponent": "ASFC U14"
     },
     {
+      "id": "c7f4318d1ae52de7c33a3016203e7b7b",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Mansfield Town Grassroots U13",
+      "away_team": "Eastwood CFC Red U13",
+      "venue": "R&H Academy NG19 7RT",
+      "division": "U13 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mansfield Town Grassroots U13",
+      "home_away": "home",
+      "opponent": "Eastwood CFC Red U13"
+    },
+    {
       "id": "e1a47ba36426ea4aad061e5b6f992301",
       "date": "2026-04-26",
       "time": "10:00",
@@ -236,5 +275,6 @@
       "home_away": "home",
       "opponent": "Eastwood CFC Madrid U10"
     }
-  ]
+  ],
+  "results": []
 }

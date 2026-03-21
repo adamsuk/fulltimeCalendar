@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stanton Ilkeston Ninjas U13
+X-WR-CALDESC:Fixtures for Stanton Ilkeston Ninjas U13 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:fc205bae5d4d34cc7685424f52d83a2a@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260328T110000
+DTEND;TZID=Europe/London:20260328T123000
+SUMMARY:⚽ Stanton Ilkeston Ninjas U13 vs Wollaton H & B Oaks U13 (Home)
+DESCRIPTION:Division: U13 Sat Spring Div 7 Blue\nStanton Ilkeston Ninjas U13 v Wollaton H & B Oaks U13\nKO: 11:00
+LOCATION:Gallows Inn Playing Fields DE7 5BB
+END:VEVENT
+BEGIN:VEVENT
+UID:24f0e4898f37155b54b9c2f472cb37a2@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Stanton Ilkeston Ninjas U13 vs AFC Chellaston Gladiators U13 (Away)
+DESCRIPTION:Division: U13 Sat Spring Div 7 Blue\nAFC Chellaston Gladiators U13 v Stanton Ilkeston Ninjas U13\nKO: 10:00
+LOCATION:Alvaston Park DE24 8QQ
+END:VEVENT
+END:VCALENDAR

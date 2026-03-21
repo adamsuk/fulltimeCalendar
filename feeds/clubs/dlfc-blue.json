@@ -1,19 +1,19 @@
 {
   "club": "DLFC Blue",
-  "generated": "2026-03-21T06:30:00Z",
+  "generated": "2026-03-21T14:04:04Z",
   "fixtures": [
     {
-      "id": "bb3f2dcb805edebe4cb7d11a0bdf7404",
-      "date": "2026-03-21",
-      "time": "10:30",
-      "home_team": "Collingham FC Cougars U14",
-      "away_team": "DLFC Blue U14",
-      "venue": "SOUTH CLIFTON SPORTS FIELD NG23 7AF",
-      "division": "U14 Sat Spring Div 6 Red",
+      "id": "52179f6ee85f5b0688c628016d00ad30",
+      "date": "2026-03-14",
+      "time": "10:00",
+      "home_team": "Carlton Town Lions U11",
+      "away_team": "DLFC Blue U11",
+      "venue": "Magenta Way NG14 5HH",
+      "division": "U11 Sat Spring Div 8",
       "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Blue U14",
+      "team": "DLFC Blue U11",
       "home_away": "away",
-      "opponent": "Collingham FC Cougars U14"
+      "opponent": "Carlton Town Lions U11"
     },
     {
       "id": "05f7da55d495817733fff6cfe3ec3c76",
@@ -29,6 +29,45 @@
       "opponent": "Hucknall Town Warriors Red U8"
     },
     {
+      "id": "3965e3371d9a3a325784f3782c6f831e",
+      "date": "2026-03-28",
+      "time": "09:00",
+      "home_team": "DLFC Purple U7",
+      "away_team": "DLFC Blue U7",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U7 Sat Spring 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Blue U7",
+      "home_away": "away",
+      "opponent": "DLFC Purple U7"
+    },
+    {
+      "id": "38b582574795cb94b10013cd29049919",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "DLFC Blue U9",
+      "away_team": "AJ Sport Red U9",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U9 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Blue U9",
+      "home_away": "home",
+      "opponent": "AJ Sport Red U9"
+    },
+    {
+      "id": "b9acbdda74ea57ac1c62e9a11f1591b6",
+      "date": "2026-03-28",
+      "time": "11:15",
+      "home_team": "DLFC Blue U11",
+      "away_team": "Radcliffe Olympic Blue U11",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U11 Sat Spring Div 8",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Blue U11",
+      "home_away": "home",
+      "opponent": "Radcliffe Olympic Blue U11"
+    },
+    {
       "id": "9fb0eb891fbc5ddd93b8a7d0b3f193ee",
       "date": "2026-03-29",
       "time": "10:00",
@@ -40,6 +79,19 @@
       "team": "DLFC Blue U8",
       "home_away": "away",
       "opponent": "DLFC Red U8"
+    },
+    {
+      "id": "f14e927a29ce1224f95ac62f06247a6e",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "DLFC Blue U7",
+      "away_team": "Long Eaton United Yellow U7",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U7 Sat Spring 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Blue U7",
+      "home_away": "home",
+      "opponent": "Long Eaton United Yellow U7"
     },
     {
       "id": "11b9785ae3e9d7eeeaf9265ed7462d05",
@@ -55,6 +107,58 @@
       "opponent": "Ernehale Colts U8"
     },
     {
+      "id": "50c9da7c1735f60b77a4197863da6fde",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "DLFC Green U11",
+      "away_team": "DLFC Blue U11",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U11 Sat Spring Div 8",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Blue U11",
+      "home_away": "away",
+      "opponent": "DLFC Green U11"
+    },
+    {
+      "id": "8c84d1fcc08a70527d0b5b6da243eece",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Heanor Junior Raptors U7",
+      "away_team": "DLFC Blue U7",
+      "venue": "Charles Hill DE75 7RN",
+      "division": "U7 Sat Spring 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Blue U7",
+      "home_away": "away",
+      "opponent": "Heanor Junior Raptors U7"
+    },
+    {
+      "id": "16c310957e080e74893b7e71008f9904",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Long Eaton United Nero U9",
+      "away_team": "DLFC Blue U9",
+      "venue": "Grange Park NG10 2EF",
+      "division": "U9 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Blue U9",
+      "home_away": "away",
+      "opponent": "Long Eaton United Nero U9"
+    },
+    {
+      "id": "59aca21204fc02f51ca794ca9c39673a",
+      "date": "2026-04-18",
+      "time": "12:30",
+      "home_team": "DLFC Blue U11",
+      "away_team": "Newark Town Saxons U11",
+      "venue": "Mellish Sports Centre  NG6 9FH",
+      "division": "U11 Sat Spring Div 8",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Blue U11",
+      "home_away": "home",
+      "opponent": "Newark Town Saxons U11"
+    },
+    {
       "id": "bcaf35ec7bccfb6fa8dde052e35f2257",
       "date": "2026-04-19",
       "time": "10:00",
@@ -66,6 +170,45 @@
       "team": "DLFC Blue U8",
       "home_away": "away",
       "opponent": "Carlton Town Blue U8"
+    },
+    {
+      "id": "b82236d90451db4f5c37a101f717a3e8",
+      "date": "2026-04-25",
+      "time": "09:00",
+      "home_team": "DLFC Blue U9",
+      "away_team": "PMG Engage U9",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U9 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Blue U9",
+      "home_away": "home",
+      "opponent": "PMG Engage U9"
+    },
+    {
+      "id": "a416517329d45e4fd2ad4e455bea185d",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Borrowash Youth Lynx U7",
+      "away_team": "DLFC Blue U7",
+      "venue": "Derwent Meadow DE72 3NN",
+      "division": "U7 Sat Spring 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Blue U7",
+      "home_away": "away",
+      "opponent": "Borrowash Youth Lynx U7"
+    },
+    {
+      "id": "91927d49e660110d375e9f86cd64104a",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "DLFC Blue U12",
+      "away_team": "Heanor Juniors Spartans U12",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U12 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Blue U12",
+      "home_away": "home",
+      "opponent": "Heanor Juniors Spartans U12"
     },
     {
       "id": "42d3c54d7fe6b2ea1d744385f82fca9a",
@@ -93,5 +236,6 @@
       "home_away": "away",
       "opponent": "WBYFC Spirit Red U8"
     }
-  ]
+  ],
+  "results": []
 }

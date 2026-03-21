@@ -1,20 +1,7 @@
 {
   "club": "Riverside FC",
-  "generated": "2026-03-21T06:30:00Z",
+  "generated": "2026-03-21T14:04:04Z",
   "fixtures": [
-    {
-      "id": "33c5cb082bae2aed82aacb852ea14cac",
-      "date": "2026-03-21",
-      "time": "10:30",
-      "home_team": "Riverside FC Tides U14",
-      "away_team": "WBYFC Blackhawks U14",
-      "venue": "Long Eaton School  NG10 3NP",
-      "division": "U14 Sat Spring Div 6 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Riverside FC Tides U14",
-      "home_away": "home",
-      "opponent": "WBYFC Blackhawks U14"
-    },
     {
       "id": "96c8d32449f7a6606e39576f15d8e9e4",
       "date": "2026-03-22",
@@ -53,6 +40,19 @@
       "team": "Riverside FC Rockets U12",
       "home_away": "away",
       "opponent": "Ropsley Colts Blue U12"
+    },
+    {
+      "id": "51ef9bfe810e2428e0bb144a80458ab3",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Riverside FC Jets U10",
+      "away_team": "Pegasus FC U10",
+      "venue": "Melbourne Court NG10 3EE",
+      "division": "U10 Sat Spring Div 3 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Riverside FC Jets U10",
+      "home_away": "home",
+      "opponent": "Pegasus FC U10"
     },
     {
       "id": "3c888a7a91f6becd60fdbc708f269147",
@@ -107,6 +107,19 @@
       "opponent": "South Normanton Ath Blue U13"
     },
     {
+      "id": "81fd913248d9fd0450dde6304ccebacb",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Stapleford Town Saxons U10",
+      "away_team": "Riverside FC Jets U10",
+      "venue": "Ilkeston Road NG9 8JD",
+      "division": "U10 Sat Spring Div 3 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Riverside FC Jets U10",
+      "home_away": "away",
+      "opponent": "Stapleford Town Saxons U10"
+    },
+    {
       "id": "2cf441b9283447d5abe3bdbe450cc663",
       "date": "2026-04-18",
       "time": "11:00",
@@ -144,6 +157,19 @@
       "team": "Riverside FC Real U12",
       "home_away": "home",
       "opponent": "Castle Donington Tigers U12"
+    },
+    {
+      "id": "fff8c2eb08b91a8d768834e777824f2b",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Riverside FC Jets U10",
+      "away_team": "Club FDNA Madrid U10",
+      "venue": "Melbourne Court NG10 3EE",
+      "division": "U10 Sat Spring Div 3 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Riverside FC Jets U10",
+      "home_away": "home",
+      "opponent": "Club FDNA Madrid U10"
     },
     {
       "id": "01d60dc3f980e79f585452ae8fe7ded2",
@@ -184,5 +210,6 @@
       "home_away": "away",
       "opponent": "Ropsley Colts U13"
     }
-  ]
+  ],
+  "results": []
 }

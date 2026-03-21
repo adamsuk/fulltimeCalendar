@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Heanor Juniors Rams U11
+X-WR-CALDESC:Fixtures for Heanor Juniors Rams U11 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:6d8e362a61bab7d42a2f0495043f27c4@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260328T110000
+DTEND;TZID=Europe/London:20260328T123000
+SUMMARY:⚽ Heanor Juniors Rams U11 vs Market Warsop Mavericks U11 (Home)
+DESCRIPTION:Division: U11 Sat Spring Div 2 Red\nHeanor Juniors Rams U11 v Market Warsop Mavericks U11\nKO: 11:00
+LOCATION:Charles Hill DE75 7RN
+END:VEVENT
+BEGIN:VEVENT
+UID:2f9391f7e03ee3c8dfe42056d0699bd6@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Heanor Juniors Rams U11 vs Bingham Town Red U11 (Home)
+DESCRIPTION:Division: U11 Sat Spring Div 2 Red\nHeanor Juniors Rams U11 v Bingham Town Red U11\nKO: 10:00
+LOCATION:Charles Hill DE75 7RN
+END:VEVENT
+END:VCALENDAR

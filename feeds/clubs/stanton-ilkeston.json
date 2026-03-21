@@ -1,33 +1,7 @@
 {
   "club": "Stanton Ilkeston",
-  "generated": "2026-03-21T06:30:00Z",
+  "generated": "2026-03-21T14:04:04Z",
   "fixtures": [
-    {
-      "id": "6227193182d85391bb55a704e85bcf68",
-      "date": "2026-03-21",
-      "time": "10:00",
-      "home_team": "Stanton Ilkeston Mustangs U14",
-      "away_team": "Loughborough Eml Hawks U14",
-      "venue": "Ron Brooks Pavilion DE7 4LD",
-      "division": "U14 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Stanton Ilkeston Mustangs U14",
-      "home_away": "home",
-      "opponent": "Loughborough Eml Hawks U14"
-    },
-    {
-      "id": "0078fe8f90c001021190edb545cad31a",
-      "date": "2026-03-21",
-      "time": "10:30",
-      "home_team": "Keyworth United Green U14",
-      "away_team": "Stanton Ilkeston Dragons U14",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U14 Sat Spring Div 7",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Stanton Ilkeston Dragons U14",
-      "home_away": "away",
-      "opponent": "Keyworth United Green U14"
-    },
     {
       "id": "6927714779ae9a83fa0fa2daaa8ff489",
       "date": "2026-03-22",
@@ -55,6 +29,19 @@
       "opponent": "Phoenix Inham Embers U12 FR ONLY"
     },
     {
+      "id": "dbde1247c6a70135121259d466aa58a1",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Stanton Ilkeston Ironmasters U10",
+      "away_team": "Spirit Celtic Red U10",
+      "venue": "Ron Brooks Pavilion DE7 4LD",
+      "division": "U10 Sat Spring Div 9 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Stanton Ilkeston Ironmasters U10",
+      "home_away": "home",
+      "opponent": "Spirit Celtic Red U10"
+    },
+    {
       "id": "f487b3c12d7408441bc6990dcafb37ee",
       "date": "2026-03-28",
       "time": "10:00",
@@ -66,6 +53,45 @@
       "team": "Stanton Ilkeston Mustangs U14",
       "home_away": "away",
       "opponent": "Attenborough Colts Blue U14"
+    },
+    {
+      "id": "fc205bae5d4d34cc7685424f52d83a2a",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Stanton Ilkeston Ninjas U13",
+      "away_team": "Wollaton H & B Oaks U13",
+      "venue": "Gallows Inn Playing Fields DE7 5BB",
+      "division": "U13 Sat Spring Div 7 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Stanton Ilkeston Ninjas U13",
+      "home_away": "home",
+      "opponent": "Wollaton H & B Oaks U13"
+    },
+    {
+      "id": "523c8a625ea5fbe2dcfd7364863c5766",
+      "date": "2026-03-28",
+      "time": "12:00",
+      "home_team": "Stanton Ilkeston Stallions U13",
+      "away_team": "Loughborough Eml Blues U13",
+      "venue": "Ron Brooks Pavilion DE7 4LD",
+      "division": "U13 Sat Spring Div 8",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Stanton Ilkeston Stallions U13",
+      "home_away": "home",
+      "opponent": "Loughborough Eml Blues U13"
+    },
+    {
+      "id": "401acc78378d46dbf52c5bf6f60c5fbd",
+      "date": "2026-04-11",
+      "time": "11:00",
+      "home_team": "Stanton Ilkeston Galacticos U11",
+      "away_team": "Long Eaton United Purple U11",
+      "venue": "Ron Brooks Pavilion DE7 4LD",
+      "division": "U11 Sat Spring Div 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Stanton Ilkeston Galacticos U11",
+      "home_away": "home",
+      "opponent": "Long Eaton United Purple U11"
     },
     {
       "id": "12bf819358ae108e8cea19b5ce2478b5",
@@ -81,6 +107,32 @@
       "opponent": "Hucknall Sports Red U14"
     },
     {
+      "id": "ec584ec2f272e83978266af2856f4229",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Stanton Ilkeston Stallions U13",
+      "away_team": "Mapperley All Stars Blue U13",
+      "venue": "Gallows Inn Playing Fields DE7 5BB",
+      "division": "U13 Sat YEL Foundation Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Stanton Ilkeston Stallions U13",
+      "home_away": "home",
+      "opponent": "Mapperley All Stars Blue U13"
+    },
+    {
+      "id": "24f0e4898f37155b54b9c2f472cb37a2",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "AFC Chellaston Gladiators U13",
+      "away_team": "Stanton Ilkeston Ninjas U13",
+      "venue": "Alvaston Park DE24 8QQ",
+      "division": "U13 Sat Spring Div 7 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Stanton Ilkeston Ninjas U13",
+      "home_away": "away",
+      "opponent": "AFC Chellaston Gladiators U13"
+    },
+    {
       "id": "0e44e49d850ab386a3cd5049d954c852",
       "date": "2026-04-18",
       "time": "10:30",
@@ -92,6 +144,19 @@
       "team": "Stanton Ilkeston Dragons U14",
       "home_away": "home",
       "opponent": "Long Bennington U14"
+    },
+    {
+      "id": "43c89e144aa30b342e8be7c111eb5153",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Stanton Ilkeston Galacticos U11",
+      "away_team": "Dunkirk U11",
+      "venue": "Ron Brooks Pavilion DE7 4LD",
+      "division": "U11 Sat Spring Div 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Stanton Ilkeston Galacticos U11",
+      "home_away": "home",
+      "opponent": "Dunkirk U11"
     },
     {
       "id": "6df583849f981de6175799fa758a7969",
@@ -146,6 +211,19 @@
       "opponent": "Vale FC U11"
     },
     {
+      "id": "638743873db562ac241df6a7b8eb59c4",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "PMG Engage U11",
+      "away_team": "Stanton Ilkeston Galacticos U11",
+      "venue": "Bulwell Hall Park NG6 8LF",
+      "division": "U11 Sat Spring Div 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Stanton Ilkeston Galacticos U11",
+      "home_away": "away",
+      "opponent": "PMG Engage U11"
+    },
+    {
       "id": "48fa9a46716eaefe8de2cc42843f72b0",
       "date": "2026-04-25",
       "time": "11:00",
@@ -157,6 +235,19 @@
       "team": "Stanton Ilkeston Mustangs U14",
       "home_away": "home",
       "opponent": "East Leake Bantams Red U14"
+    },
+    {
+      "id": "8894a165ca788eb0d5e0d38b9fadcdb8",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Aslockton & Orston Red U13",
+      "away_team": "Stanton Ilkeston Stallions U13",
+      "venue": "Orston Sports Field  NG13 9PL",
+      "division": "U13 Sat Spring Div 8",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Stanton Ilkeston Stallions U13",
+      "home_away": "away",
+      "opponent": "Aslockton & Orston Red U13"
     },
     {
       "id": "4bcbf96df78e66a7903d8a272c45ce0e",
@@ -184,5 +275,6 @@
       "home_away": "home",
       "opponent": "Borrowash Youth Panthers U11"
     }
-  ]
+  ],
+  "results": []
 }

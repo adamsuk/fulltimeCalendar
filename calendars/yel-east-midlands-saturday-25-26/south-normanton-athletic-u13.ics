@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:South Normanton Athletic U13
+X-WR-CALDESC:Fixtures for South Normanton Athletic U13 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:9abcba115cf1fa3f3d7f4c35cf8aea81@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260328T110000
+DTEND;TZID=Europe/London:20260328T123000
+SUMMARY:⚽ South Normanton Athletic U13 vs Repton Casuals U13 (Away)
+DESCRIPTION:Division: U13 Sat Spring Div 2 Blue\nRepton Casuals U13 v South Normanton Athletic U13\nKO: 11:00
+LOCATION:Broomhills Lane DE65 6FS
+END:VEVENT
+BEGIN:VEVENT
+UID:f443f53c9e0e3a3eb5e985a552446b6e@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T110000
+DTEND;TZID=Europe/London:20260418T123000
+SUMMARY:⚽ South Normanton Athletic U13 vs WBYFC Galaxy U13 (Home)
+DESCRIPTION:Division: U13 Sat Spring Div 2 Blue\nSouth Normanton Athletic U13 v WBYFC Galaxy U13\nKO: 11:00
+LOCATION:South Street Rec DE55 2DA
+END:VEVENT
+BEGIN:VEVENT
+UID:702309be8ff8785d87300b5886c0b36d@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T123000
+SUMMARY:⚽ South Normanton Athletic U13 vs AFC Chellaston Rams U13 (Away)
+DESCRIPTION:Division: U13 Sat Spring Div 2 Blue\nAFC Chellaston Rams U13 v South Normanton Athletic U13\nKO: 11:00
+LOCATION:Chaddesden Park DE21 6LA
+END:VEVENT
+END:VCALENDAR

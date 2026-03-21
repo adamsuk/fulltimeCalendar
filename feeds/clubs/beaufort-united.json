@@ -1,20 +1,7 @@
 {
   "club": "Beaufort United",
-  "generated": "2026-03-21T06:30:00Z",
+  "generated": "2026-03-21T14:04:04Z",
   "fixtures": [
-    {
-      "id": "ce5590196e9116d0cdf1ddee394ae37e",
-      "date": "2026-03-21",
-      "time": "11:00",
-      "home_team": "Beaufort United Red U14",
-      "away_team": "Southwell City Sharks U14",
-      "venue": "Unwin Road  NG17 4HT",
-      "division": "U14 Sat Spring Div 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Beaufort United Red U14",
-      "home_away": "home",
-      "opponent": "Southwell City Sharks U14"
-    },
     {
       "id": "1f781bf528707ba565e912d90384c3f1",
       "date": "2026-03-22",
@@ -79,6 +66,19 @@
       "team": "Beaufort United Blue U12",
       "home_away": "home",
       "opponent": "Ilkeston Town Roma U12"
+    },
+    {
+      "id": "8300450004b76484e27d016e42cdb0c2",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Mapperley All Stars Blue U10",
+      "away_team": "Beaufort United White U10",
+      "venue": "Colwick Recreation Ground NG4 2DW",
+      "division": "U10 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Beaufort United White U10",
+      "home_away": "away",
+      "opponent": "Mapperley All Stars Blue U10"
     },
     {
       "id": "423e16e1ebf879582d258cd9b67585e5",
@@ -196,6 +196,19 @@
       "team": "Beaufort United White U9",
       "home_away": "away",
       "opponent": "Alfreton Town Lions U9"
+    },
+    {
+      "id": "2a94faf881daa32c27680337865a1107",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Beaufort United White U10",
+      "away_team": "Teversal FC Blue U10",
+      "venue": "Unwin Road  NG17 4HT",
+      "division": "U10 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Beaufort United White U10",
+      "home_away": "home",
+      "opponent": "Teversal FC Blue U10"
     },
     {
       "id": "05c556f66678db713912c13dbccfac34",
@@ -340,5 +353,6 @@
       "home_away": "home",
       "opponent": "Attenborough Colts Orange U14"
     }
-  ]
+  ],
+  "results": []
 }

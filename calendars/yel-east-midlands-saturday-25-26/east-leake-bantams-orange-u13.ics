@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:East Leake Bantams Orange U13
+X-WR-CALDESC:Fixtures for East Leake Bantams Orange U13 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:ff342390b4955de98a0f678f5b32ee94@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260328T100000
+DTEND;TZID=Europe/London:20260328T113000
+SUMMARY:⚽ East Leake Bantams Orange U13 vs Mickleover Country Park U13 (Away)
+DESCRIPTION:Division: U13 Sat Spring Div 4 Blue\nMickleover Country Park U13 v East Leake Bantams Orange U13\nKO: 10:00
+LOCATION:Mickleover Country Park DE3 0UJ
+END:VEVENT
+BEGIN:VEVENT
+UID:76b7921bffa106ed71a858c147823434@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T110000
+DTEND;TZID=Europe/London:20260418T123000
+SUMMARY:⚽ East Leake Bantams Orange U13 vs Mickleover Jnrs Porto U13 (Away)
+DESCRIPTION:Division: U13 Sat Spring Div 4 Blue\nMickleover Jnrs Porto U13 v East Leake Bantams Orange U13\nKO: 11:00
+LOCATION:Varsity Grange Football Complex DE3 9EB
+END:VEVENT
+BEGIN:VEVENT
+UID:c1098a648269bcb18c689aa28d256579@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T113000
+SUMMARY:⚽ East Leake Bantams Orange U13 vs Eastwood Athletic Eagles U13 (Home)
+DESCRIPTION:Division: U13 Sat Spring Div 4 Blue\nEast Leake Bantams Orange U13 v Eastwood Athletic Eagles U13\nKO: 10:00
+LOCATION:Costock Road LE12 6LY
+END:VEVENT
+END:VCALENDAR

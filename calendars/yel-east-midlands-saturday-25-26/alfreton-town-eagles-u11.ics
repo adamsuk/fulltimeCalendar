@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Alfreton Town Eagles U11
+X-WR-CALDESC:Fixtures for Alfreton Town Eagles U11 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:208ac7086df6e2a164e25940a9586528@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260328T113000
+DTEND;TZID=Europe/London:20260328T123000
+SUMMARY:⚽ Alfreton Town Eagles U11 vs Notts County Women U11 ^ (Away)
+DESCRIPTION:Division: U11 Sat Spring Div 7 Red\nNotts County Women U11 ^ v Alfreton Town Eagles U11\nKO: 11:30
+LOCATION:Southglade Leisure Centre  NG5 5GU
+END:VEVENT
+BEGIN:VEVENT
+UID:b4a92a561cef44252a031f8bd2539b56@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Alfreton Town Eagles U11 vs Newton & Blackwell Storm U11 (Home)
+DESCRIPTION:Division: U11 Sat Spring Div 7 Red\nAlfreton Town Eagles U11 v Newton & Blackwell Storm U11\nKO: 10:00
+LOCATION:David Neiper Academy School DE55 7JA
+END:VEVENT
+BEGIN:VEVENT
+UID:6e34072f19223077b449072f49d39436@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260421T180000
+DTEND;TZID=Europe/London:20260421T193000
+SUMMARY:⚽ Alfreton Town Eagles U11 vs DLFC Orange U11 (Away)
+DESCRIPTION:Division: U11 Sat Spring Div 7 Red\nDLFC Orange U11 v Alfreton Town Eagles U11\nKO: 18:00
+LOCATION:Greenwich Avenue NG6 0LD
+END:VEVENT
+BEGIN:VEVENT
+UID:817391e7b51d4d48da7e919fb7acc502@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T123000
+SUMMARY:⚽ Alfreton Town Eagles U11 vs Robin Hood Colts U11 (Home)
+DESCRIPTION:Division: U11 Sat Spring Div 7 Red\nAlfreton Town Eagles U11 v Robin Hood Colts U11\nKO: 11:00
+LOCATION:David Neiper Academy School DE55 7JA
+END:VEVENT
+END:VCALENDAR

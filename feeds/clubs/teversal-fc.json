@@ -1,20 +1,7 @@
 {
   "club": "Teversal FC",
-  "generated": "2026-03-21T06:30:00Z",
+  "generated": "2026-03-21T14:04:04Z",
   "fixtures": [
-    {
-      "id": "c8237fe0356e586555e00f5841acd69f",
-      "date": "2026-03-21",
-      "time": "09:30",
-      "home_team": "Spirit Celtic White U14",
-      "away_team": "Teversal FC 1918 U14",
-      "venue": "Becket School NG2 7QY",
-      "division": "U14 Sat Spring Div 7",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Teversal FC 1918 U14",
-      "home_away": "away",
-      "opponent": "Spirit Celtic White U14"
-    },
     {
       "id": "632c9c151cb0c1c5f12857fb9d9513d4",
       "date": "2026-03-22",
@@ -42,6 +29,32 @@
       "opponent": "Ropsley Colts U13"
     },
     {
+      "id": "182312cd066a27f4c5bf6d42447f2bb6",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Market Warsop Panthers U10",
+      "away_team": "Teversal FC Blue U10",
+      "venue": "John Fretwell Centre NG19 8LL",
+      "division": "U10 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Teversal FC Blue U10",
+      "home_away": "away",
+      "opponent": "Market Warsop Panthers U10"
+    },
+    {
+      "id": "f034ad3faa3afc6287e8ce699ca1f5fa",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Teversal FC Red U10",
+      "away_team": "FC Cavaliers U10",
+      "venue": "Healdswook Park NG17 3EE",
+      "division": "U10 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Teversal FC Red U10",
+      "home_away": "home",
+      "opponent": "FC Cavaliers U10"
+    },
+    {
       "id": "67c63624166a9d4de0f9f57399c8c0ac",
       "date": "2026-04-12",
       "time": "10:00",
@@ -53,6 +66,45 @@
       "team": "Teversal FC U13",
       "home_away": "home",
       "opponent": "Castle Don Hawks U13"
+    },
+    {
+      "id": "2a94faf881daa32c27680337865a1107",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Beaufort United White U10",
+      "away_team": "Teversal FC Blue U10",
+      "venue": "Unwin Road  NG17 4HT",
+      "division": "U10 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Teversal FC Blue U10",
+      "home_away": "away",
+      "opponent": "Beaufort United White U10"
+    },
+    {
+      "id": "c140ff1b2da7f4625d46078d15269518",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Blidworth Bengals Orange U10",
+      "away_team": "Teversal FC Red U10",
+      "venue": "Blidworth & Bilsthorpe Bengals NG22 8QW",
+      "division": "U10 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Teversal FC Red U10",
+      "home_away": "away",
+      "opponent": "Blidworth Bengals Orange U10"
+    },
+    {
+      "id": "1828c31a8042aeb1910eec8dc707fb5c",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic Red U12",
+      "away_team": "Teversal FC U12",
+      "venue": "Bingham Road NG12 2GP",
+      "division": "U12 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Teversal FC U12",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic Red U12"
     },
     {
       "id": "3b6dd644b46e532b821f14e142d8ba4c",
@@ -81,6 +133,32 @@
       "opponent": "DLFC Gold U14"
     },
     {
+      "id": "822c44e82666d090e0676fb404d2c2d0",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Quarrydale United Rangers U10",
+      "away_team": "Teversal FC Red U10",
+      "venue": "Bentinck Miners Welfare NG17 8GS",
+      "division": "U10 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Teversal FC Red U10",
+      "home_away": "away",
+      "opponent": "Quarrydale United Rangers U10"
+    },
+    {
+      "id": "c2634e966dd2e7491da657656683aa0b",
+      "date": "2026-04-25",
+      "time": "11:30",
+      "home_team": "Teversal FC U12",
+      "away_team": "Bingham Town Red U12",
+      "venue": "Unwin Road  NG17 4HT",
+      "division": "U12 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Teversal FC U12",
+      "home_away": "home",
+      "opponent": "Bingham Town Red U12"
+    },
+    {
       "id": "4773438a9968122ca19bca44b9a69cbd",
       "date": "2026-04-25",
       "time": "12:30",
@@ -106,5 +184,6 @@
       "home_away": "away",
       "opponent": "Notts Olympic FC U14"
     }
-  ]
+  ],
+  "results": []
 }

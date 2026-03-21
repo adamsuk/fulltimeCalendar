@@ -1,20 +1,7 @@
 {
   "club": "Beeston FC",
-  "generated": "2026-03-21T06:30:00Z",
+  "generated": "2026-03-21T14:04:04Z",
   "fixtures": [
-    {
-      "id": "3cccedc65a901a151a39a8173006101f",
-      "date": "2026-03-21",
-      "time": "10:00",
-      "home_team": "Eastwood Ath Dynamos U14",
-      "away_team": "Beeston FC U14",
-      "venue": "Hall Park NG16 3AR",
-      "division": "U14 Sat Spring Div 5 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Beeston FC U14",
-      "home_away": "away",
-      "opponent": "Eastwood Ath Dynamos U14"
-    },
     {
       "id": "bf54628b61644451b63725e3970b0c03",
       "date": "2026-03-22",
@@ -105,6 +92,19 @@
       "team": "Beeston FC U14",
       "home_away": "home",
       "opponent": "Attenborough Colts Blue U14"
+    },
+    {
+      "id": "bdb3a3e7a30b42c3b5fd85dedc4effdb",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Moorgreen Colts White U12",
+      "away_team": "Beeston FC U12",
+      "venue": "Birnam Park  NG16 2DE",
+      "division": "U12 Sat Spring Div 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Beeston FC U12",
+      "home_away": "away",
+      "opponent": "Moorgreen Colts White U12"
     },
     {
       "id": "771e9ee6452ba58a01255f65fc4df3c4",
@@ -198,6 +198,19 @@
       "opponent": "Attenborough Colts Green U10"
     },
     {
+      "id": "cd9f4397df630f7b546b72838593e189",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Beeston FC U12",
+      "away_team": "Etwall FC U12",
+      "venue": "Trent Vale Sports Ground  NG9 1ND",
+      "division": "U12 Sat Spring Div 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Beeston FC U12",
+      "home_away": "home",
+      "opponent": "Etwall FC U12"
+    },
+    {
       "id": "e040eaa25279ed53bd9787e2d4264f02",
       "date": "2026-04-26",
       "time": "10:00",
@@ -249,5 +262,6 @@
       "home_away": "home",
       "opponent": "Silva FC Southglade Grey U13"
     }
-  ]
+  ],
+  "results": []
 }

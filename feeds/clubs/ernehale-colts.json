@@ -1,6 +1,6 @@
 {
   "club": "Ernehale Colts",
-  "generated": "2026-03-21T06:30:00Z",
+  "generated": "2026-03-21T14:04:04Z",
   "fixtures": [
     {
       "id": "6d6eb873d751d22f50ac6b544e6bae38",
@@ -66,6 +66,19 @@
       "team": "Ernehale Colts U14",
       "home_away": "away",
       "opponent": "Attenborough Colts Green U14"
+    },
+    {
+      "id": "ff3a6067518caf6f2c0bdbb9512323fd",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Burton Joyce Green U11",
+      "away_team": "Ernehale Colts U11",
+      "venue": "The Poplars, Burton Joyce  NG14 5AN",
+      "division": "U11 Sat Spring Div 7 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ernehale Colts U11",
+      "home_away": "away",
+      "opponent": "Burton Joyce Green U11"
     },
     {
       "id": "1b718c4fdf7a502b0f0e6b29c526ca7a",
@@ -144,6 +157,19 @@
       "team": "Ernehale Colts Black U12",
       "home_away": "home",
       "opponent": "Beeston Park Rangers U12"
+    },
+    {
+      "id": "418f41d0537e95d314d6aeaf3416c343",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Ernehale Colts U11",
+      "away_team": "Newark Town Cavaliers U11",
+      "venue": "King George V Park NG5 6TD",
+      "division": "U11 Sat Spring Div 7 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ernehale Colts U11",
+      "home_away": "home",
+      "opponent": "Newark Town Cavaliers U11"
     },
     {
       "id": "beffc44e5371477ad8c9a723b4c730ee",
@@ -236,5 +262,6 @@
       "home_away": "home",
       "opponent": "Arnold Town White U12"
     }
-  ]
+  ],
+  "results": []
 }

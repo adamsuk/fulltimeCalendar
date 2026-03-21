@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Keyworth United Cyan U13
+X-WR-CALDESC:Fixtures for Keyworth United Cyan U13 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:d9469055cc93636d53166478bb58f46f@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260411T103000
+DTEND;TZID=Europe/London:20260411T113000
+SUMMARY:⚽ Keyworth United Cyan U13 vs Arnold Town Yellow U13 (Away)
+DESCRIPTION:Division: U13 Sat Spring Div 4 Red\nArnold Town Yellow U13 v Keyworth United Cyan U13\nKO: 10:30
+LOCATION:Eagle Valley NG5 8PS
+END:VEVENT
+BEGIN:VEVENT
+UID:dc71980a8778e1f99686510bcd3e957d@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T110000
+DTEND;TZID=Europe/London:20260418T123000
+SUMMARY:⚽ Keyworth United Cyan U13 vs Nottingham FC Black U13 (Home)
+DESCRIPTION:Division: U13 Sat Spring Div 4 Red\nKeyworth United Cyan U13 v Nottingham FC Black U13\nKO: 11:00
+LOCATION:Platt Lane NG12 5GE
+END:VEVENT
+BEGIN:VEVENT
+UID:1400295487b21451e0e6386ca8d95a0d@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T123000
+SUMMARY:⚽ Keyworth United Cyan U13 vs Notts Olympic FC U13 (Away)
+DESCRIPTION:Division: U13 Sat Spring Div 4 Red\nNotts Olympic FC U13 v Keyworth United Cyan U13\nKO: 11:00
+LOCATION:Birchover Park Community Centre NG8 4BW
+END:VEVENT
+END:VCALENDAR

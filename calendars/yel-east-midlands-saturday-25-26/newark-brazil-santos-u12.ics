@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Newark Brazil Santos U12
+X-WR-CALDESC:Fixtures for Newark Brazil Santos U12 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:9c32fe1c26dc1fe9064ad3a8d6731dcc@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260328T100000
+DTEND;TZID=Europe/London:20260328T113000
+SUMMARY:⚽ Newark Brazil Santos U12 vs Cotgrave FC Claret U12 (Away)
+DESCRIPTION:Division: U12 Sat Spring Div 4\nCotgrave FC Claret U12 v Newark Brazil Santos U12\nKO: 10:00
+LOCATION:Ridley Sports Ground  NG12 3HA
+END:VEVENT
+BEGIN:VEVENT
+UID:29c9b2a4021285f2117cc3cff8d53eab@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T110000
+DTEND;TZID=Europe/London:20260418T123000
+SUMMARY:⚽ Newark Brazil Santos U12 vs Clay Cross Town Bulldogs U12 (Home)
+DESCRIPTION:Division: U12 Sat Spring Div 4\nNewark Brazil Santos U12 v Clay Cross Town Bulldogs U12\nKO: 11:00
+LOCATION:Magnus School Sports Centre NG24 4BZ
+END:VEVENT
+BEGIN:VEVENT
+UID:9e3055267d2c9c083d7e41d508f0f311@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260425T113000
+DTEND;TZID=Europe/London:20260425T123000
+SUMMARY:⚽ Newark Brazil Santos U12 vs WBYFC Deportivo U12 (Home)
+DESCRIPTION:Division: U12 Sat Spring Div 4\nNewark Brazil Santos U12 v WBYFC Deportivo U12\nKO: 11:30
+LOCATION:Magnus School Sports Centre NG24 4BZ
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Clifton All Whites Purple U12
+X-WR-CALDESC:Fixtures for Clifton All Whites Purple U12 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:0235d7be27d70c53dbc45e6ba805cb3c@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T123000
+SUMMARY:⚽ Clifton All Whites Purple U12 vs Heanor Juniors Ultras U12 (Home)
+DESCRIPTION:Division: U12 Sat YEL Cup\nClifton All Whites Purple U12 v Heanor Juniors Ultras U12\nKO: 11:00
+LOCATION:Farnborough Academy NG11 8JW
+END:VEVENT
+END:VCALENDAR

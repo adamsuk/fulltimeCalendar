@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Collingham FC Cougars U9
+X-WR-CALDESC:Fixtures for Collingham FC Cougars U9 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:10bbc11f6c08a1492cbf5ccfe6a00ce9@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260328T123000
+DTEND;TZID=Europe/London:20260328T133000
+SUMMARY:⚽ Collingham FC Cougars U9 vs Ravenshead Reds U9 (Home)
+DESCRIPTION:Division: U9 Sat Spring Div 3 Red\nCollingham FC Cougars U9 v Ravenshead Reds U9\nKO: 12:30
+LOCATION:Collingham FC  NG23 7RA
+END:VEVENT
+BEGIN:VEVENT
+UID:836febf6bc83fabc085ea52fecf834d3@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Collingham FC Cougars U9 vs Underwood Villa Panthers U9 (Home)
+DESCRIPTION:Division: U9 Sat Spring Div 3 Red\nCollingham FC Cougars U9 v Underwood Villa Panthers U9\nKO: 10:00
+LOCATION:Collingham FC  NG23 7RA
+END:VEVENT
+BEGIN:VEVENT
+UID:93acb25dfe6b1741c362d5c04e1881ce@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260509T000000
+DTEND;TZID=Europe/London:20260509T013000
+SUMMARY:⚽ Collingham FC Cougars U9 vs AJ Sport Red U9 (Home)
+DESCRIPTION:Division: U9 Sat YEL Shield\nCollingham FC Cougars U9 v AJ Sport Red U9\nKO: 00:00
+LOCATION:Collingham FC  NG23 7RA
+END:VEVENT
+END:VCALENDAR

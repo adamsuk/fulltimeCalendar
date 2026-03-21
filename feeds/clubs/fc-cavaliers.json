@@ -1,19 +1,84 @@
 {
   "club": "FC Cavaliers",
-  "generated": "2026-03-21T06:30:00Z",
+  "generated": "2026-03-21T14:04:04Z",
   "fixtures": [
     {
-      "id": "6009602d0b28798fa0a66acaec30eb51",
+      "id": "79baf08617cbbbfcf22d4b3449375e63",
       "date": "2026-03-21",
       "time": "11:00",
-      "home_team": "FC Cavaliers U14",
-      "away_team": "Silva FC Carlton U14",
+      "home_team": "FC Cavaliers U13",
+      "away_team": "Sandiacre Town Sharks U13",
       "venue": "Vernon Park  NG6 0AE",
-      "division": "U14 Sat Spring Div 2 Blue",
+      "division": "U13 Sat Spring Div 3 Red",
       "league": "YEL East Midlands Saturday 25/26",
-      "team": "FC Cavaliers U14",
+      "team": "FC Cavaliers U13",
       "home_away": "home",
-      "opponent": "Silva FC Carlton U14"
+      "opponent": "Sandiacre Town Sharks U13"
+    },
+    {
+      "id": "f034ad3faa3afc6287e8ce699ca1f5fa",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Teversal FC Red U10",
+      "away_team": "FC Cavaliers U10",
+      "venue": "Healdswook Park NG17 3EE",
+      "division": "U10 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "FC Cavaliers U10",
+      "home_away": "away",
+      "opponent": "Teversal FC Red U10"
+    },
+    {
+      "id": "8916d9753f19f5ca29e4e1009060504d",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Heanor Town Flames U13",
+      "away_team": "FC Cavaliers U13",
+      "venue": "Aldercar Recreation Ground, NG16 4HQ",
+      "division": "U13 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "FC Cavaliers U13",
+      "home_away": "away",
+      "opponent": "Heanor Town Flames U13"
+    },
+    {
+      "id": "cb45117991f12091a96107e1656e5211",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Priory Celtic White U11",
+      "away_team": "FC Cavaliers U11",
+      "venue": "Kimberley Leisure Centre NG16 2NJ GP1",
+      "division": "U11 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "FC Cavaliers U11",
+      "home_away": "away",
+      "opponent": "Priory Celtic White U11"
+    },
+    {
+      "id": "8f5a18886811408b3f0b4b26915fd652",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Kirkby Garibaldi Reds U11",
+      "away_team": "FC Cavaliers U11",
+      "venue": "Calladine Park NG17 1NJ",
+      "division": "U11 Sat YEL Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "FC Cavaliers U11",
+      "home_away": "away",
+      "opponent": "Kirkby Garibaldi Reds U11"
+    },
+    {
+      "id": "39cbb0c4780bf34c974cf47f1a7f3a25",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Cotgrave FC Blue U13",
+      "away_team": "FC Cavaliers U13",
+      "venue": "Sheldon Fields  NG12 3AB",
+      "division": "U13 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "FC Cavaliers U13",
+      "home_away": "away",
+      "opponent": "Cotgrave FC Blue U13"
     },
     {
       "id": "906f290a18d0a8307a47dbbf38eabb64",
@@ -27,6 +92,32 @@
       "team": "FC Cavaliers U14",
       "home_away": "home",
       "opponent": "DLFC Grey U14"
+    },
+    {
+      "id": "2b5afe88c7130df2247fb967f4576b7d",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "WBYFC Palmeiras U12",
+      "away_team": "FC Cavaliers U12",
+      "venue": "Riverside Complex NG7 2SA",
+      "division": "U12 Sat Spring Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "FC Cavaliers U12",
+      "home_away": "away",
+      "opponent": "WBYFC Palmeiras U12"
+    },
+    {
+      "id": "1c04d535f9b21024286a93748ec3aa19",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Bagthorpe Athletic U11",
+      "away_team": "FC Cavaliers U11",
+      "venue": "Dixies Arms Park NG16 5HF",
+      "division": "U11 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "FC Cavaliers U11",
+      "home_away": "away",
+      "opponent": "Bagthorpe Athletic U11"
     },
     {
       "id": "883c259c6f931d7f3c3fe87699f752cd",
@@ -54,5 +145,6 @@
       "home_away": "away",
       "opponent": "Mickleover C P Athletic U14"
     }
-  ]
+  ],
+  "results": []
 }

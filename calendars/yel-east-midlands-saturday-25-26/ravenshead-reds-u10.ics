@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ravenshead Reds U10
+X-WR-CALDESC:Fixtures for Ravenshead Reds U10 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:f84b36a850f9495ba94b9d14d52c9010@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260321T123000
+DTEND;TZID=Europe/London:20260321T133000
+SUMMARY:⚽ Ravenshead Reds U10 vs Collingham FC Lions U10 (Away)
+DESCRIPTION:Division: U10 Sat Spring Div 4 Red\nCollingham FC Lions U10 v Ravenshead Reds U10\nKO: 12:30
+LOCATION:Collingham FC  NG23 7RA
+END:VEVENT
+BEGIN:VEVENT
+UID:bd6df30cda89b94e6ab44de70ac20522@yel-calendar
+DTSTAMP:20260321T140419Z
+DTSTART;TZID=Europe/London:20260328T100000
+DTEND;TZID=Europe/London:20260328T113000
+SUMMARY:⚽ Ravenshead Reds U10 vs Woodthorpe Com Celtic U10 (Home)
+DESCRIPTION:Division: U10 Sat Spring Div 4 Red\nRavenshead Reds U10 v Woodthorpe Com Celtic U10\nKO: 10:00
+LOCATION:Ravenshead Leisure Centre NG15 9AG
+END:VEVENT
+END:VCALENDAR
