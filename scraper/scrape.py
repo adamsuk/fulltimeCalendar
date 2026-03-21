@@ -27,7 +27,7 @@ log = logging.getLogger(__name__)
 # ---------------------------------------------------------------------------
 
 FIXTURES_URL = "https://fulltime.thefa.com/fixtures/1/100000.html"
-RESULTS_URL = "https://fulltime.thefa.com/results.html"
+RESULTS_URL = "https://fulltime.thefa.com/results/1/100000.html"
 
 # Each league is identified by its selectedSeason parameter on Full-Time.
 # Update these season IDs at the start of each new season.
@@ -115,7 +115,7 @@ def fetch_results(season_id: str, league_name: str) -> list[Result]:
     url = f"{RESULTS_URL}?selectedSeason={season_id}&selectedFixtureGroupKey="
     log.info(f"Fetching results for {league_name} ...")
     html = _fetch_page(url, f"results/{league_name}")
-    log.debug(f"Results page HTML (first 2000 chars):\n{html[:2000]}")
+    log.debug(f"Results page HTML (first 5000 chars):\n{html[:5000]}")
     return parse_results(html)
 
 
