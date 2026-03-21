@@ -114,6 +114,27 @@ def fetch_results(season_id: str, league_name: str) -> list[Result]:
     return parse_results(_fetch_page(url, f"results/{league_name}"))
 
 
+def _find_fixture_table(soup: BeautifulSoup, context: str) -> object | None:
+    """Return the first table containing fixture/result rows.
+
+    Tries two strategies:
+    1. A table that has a "Home Team" header (fixtures page).
+    2. A table that contains at least one cell with class "home-team" (results
+       page may omit the header or use a different label).
+    """
+    tables = soup.find_all("table")
+    # Strategy 1: header text
+    for t in tables:
+        if t.find(string=re.compile(r"Home Team", re.I)):
+            return t
+    # Strategy 2: data rows
+    for t in tables:
+        if t.find("td", class_="home-team"):
+            return t
+    log.warning(f"No fixture/result table found for {context} — page structure may have changed.")
+    return None
+
+
 def parse_fixtures(html: str) -> list[Fixture]:
     """Parse the Full-Time fixtures table using CSS classes.
 
@@ -132,16 +153,8 @@ def parse_fixtures(html: str) -> list[Fixture]:
     soup = BeautifulSoup(html, "html.parser")
     fixtures: list[Fixture] = []
 
-    # Find the fixtures table — contains "Home Team" header
-    tables = soup.find_all("table")
-    fixture_table = None
-    for t in tables:
-        if t.find(string=re.compile(r"Home Team", re.I)):
-            fixture_table = t
-            break
-
+    fixture_table = _find_fixture_table(soup, "fixtures")
     if not fixture_table:
-        log.warning("No fixture table found — page structure may have changed.")
         return []
 
     # Parse data rows (skip header)
@@ -200,24 +213,43 @@ def parse_fixtures(html: str) -> list[Fixture]:
     return fixtures
 
 
+def _parse_score(row) -> tuple[int, int] | None:
+    """Extract (home_score, away_score) from a results row.
+
+    Tries the dedicated .score cell first, then falls back to scanning every
+    cell. Accepts dash, en-dash, em-dash, and colon as separators
+    (e.g. "2-1", "2 - 1", "2 : 1").
+    """
+    score_re = re.compile(r"(\d+)\s*[-–—:]\s*(\d+)")
+
+    # Preferred: score cell by class
+    score_td = row.find("td", class_="score")
+    if score_td:
+        m = score_re.search(score_td.get_text(strip=True))
+        if m:
+            return int(m.group(1)), int(m.group(2))
+
+    # Fallback: scan all cells
+    for td in row.find_all("td"):
+        text = td.get_text(strip=True)
+        m = score_re.search(text)
+        if m:
+            return int(m.group(1)), int(m.group(2))
+
+    return None
+
+
 def parse_results(html: str) -> list[Result]:
     """Parse the Full-Time results table.
 
-    Same layout as the fixtures table, but the score cell (class: score)
-    contains a result string like "2 - 1" instead of "VS".
+    Same layout as the fixtures table, but the score cell contains a result
+    string like "2 - 1" instead of "VS".
     """
     soup = BeautifulSoup(html, "html.parser")
     results: list[Result] = []
 
-    tables = soup.find_all("table")
-    result_table = None
-    for t in tables:
-        if t.find(string=re.compile(r"Home Team", re.I)):
-            result_table = t
-            break
-
+    result_table = _find_fixture_table(soup, "results")
     if not result_table:
-        log.warning("No result table found — page structure may have changed.")
         return []
 
     for row in result_table.find_all("tr")[1:]:
@@ -231,14 +263,11 @@ def parse_results(html: str) -> list[Result]:
         if not home or not away:
             continue
 
-        # Score cell
-        score_td = row.find("td", class_="score")
-        score_text = score_td.get_text(strip=True) if score_td else ""
-        score_match = re.search(r"(\d+)\s*[-–]\s*(\d+)", score_text)
-        if not score_match:
-            continue  # skip rows without a valid score (e.g. postponed)
-        home_score = int(score_match.group(1))
-        away_score = int(score_match.group(2))
+        score = _parse_score(row)
+        if score is None:
+            log.debug(f"No score found for {home} v {away} — skipping (postponed?)")
+            continue
+        home_score, away_score = score
 
         date_str = ""
         time_str = ""
