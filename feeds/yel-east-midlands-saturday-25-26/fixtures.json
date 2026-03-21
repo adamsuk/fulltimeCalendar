@@ -1,6 +1,6 @@
 {
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-21T14:12:15Z",
+  "generated": "2026-03-21T14:15:47Z",
   "fixtures": [
     {
       "id": "c77d56e1db575c724f8ee97f372acc07",
@@ -255,15 +255,6 @@
       "division": "U9 Sat Spring Div 8 Red"
     },
     {
-      "id": "afa4fc83bfefa2000f9e8d7ac9f1d1c4",
-      "date": "2026-03-21",
-      "time": "12:00",
-      "home_team": "WBYFC United 14",
-      "away_team": "Bingham Town White U14",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U14 Saturday"
-    },
-    {
       "id": "f84b36a850f9495ba94b9d14d52c9010",
       "date": "2026-03-21",
       "time": "12:30",
@@ -280,15 +271,6 @@
       "away_team": "Radcliffe Olympic Red U12",
       "venue": "Butt Field NG13 8GG",
       "division": "U12 Sat Spring Div 2 Red"
-    },
-    {
-      "id": "658ae9a7cb255ea55dfdcb304c639a37",
-      "date": "2026-03-21",
-      "time": "13:00",
-      "home_team": "Collingham FC Lions U11",
-      "away_team": "Meden Vale Colts Red U11",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U11 Sat Spring Div 5 Red"
     },
     {
       "id": "f6ac657d2f518add00547d42dd7caf8f",
@@ -5040,6 +5022,15 @@
       "home_team": "Keyworth United Red U11",
       "away_team": "Lowdham FC Black U11",
       "venue": "Platt Lane NG12 5GE",
+      "division": "U11 Sat Spring Div 7 Blue"
+    },
+    {
+      "id": "64df7bd151609ff20883e6bf26dff9ca",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Southwell City Lions U11",
+      "away_team": "Keyworth United White U11",
+      "venue": "Southwell City FC  NG25 0JP",
       "division": "U11 Sat Spring Div 7 Blue"
     },
     {
@@ -10587,6 +10578,15 @@
       "division": "U14 Sat Spring Div 6 Red"
     },
     {
+      "id": "184a489836bf564b00164c7c195dea63",
+      "date": "2026-04-28",
+      "time": "11:00",
+      "home_team": "Nottingham FC Emeralds U11",
+      "away_team": "Sherwood FC Red U11",
+      "venue": "Melbourne Park NG8 5HL",
+      "division": "U11 Sat Spring Div 5 Blue"
+    },
+    {
       "id": "f2e5522f357e1ab73a951289baab7f54",
       "date": "2026-04-28",
       "time": "18:00",
@@ -10810,24 +10810,6 @@
       "away_team": "Keyworth United White U9",
       "venue": "Breck Hill Park NG5 4GP",
       "division": "U9 Sat YEL Foundation"
-    },
-    {
-      "id": "d7162edda999eab9545cc2a549ce94bb",
-      "date": "2026-05-31",
-      "time": "10:00",
-      "home_team": "Southwell City Lions U11",
-      "away_team": "Keyworth United White U11",
-      "venue": "Southwell City FC  NG25 0JP",
-      "division": "U11 Sat Spring Div 7 Blue"
-    },
-    {
-      "id": "16e33d19758005821b51190643651e31",
-      "date": "2026-05-31",
-      "time": "11:00",
-      "home_team": "Nottingham FC Emeralds U11",
-      "away_team": "Sherwood FC Red U11",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U11 Sat Spring Div 5 Blue"
     }
   ]
 }
