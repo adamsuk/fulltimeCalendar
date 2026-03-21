@@ -305,10 +305,14 @@ def parse_fixtures(html: str) -> list[Fixture]:
 def _parse_score(row) -> tuple[int, int] | None:
     """Extract (home_score, away_score) from a results row.
 
-    Deliberately excludes ':' as a separator to avoid matching kick-off
-    times like '10:00' as a score.  UK Full-Time uses '-' notation.
+    Uses \d{1,2} (1–2 digit numbers only) to avoid false matches on:
+      - season notation like '2025-26'
+      - pagination text like '1-100 of 2847'
+      - ISO-style dates like '2025-11-15'
+    Football scores for youth teams fit comfortably within 0-99.
+    Colon is excluded as a separator to avoid matching kick-off times.
     """
-    score_re = re.compile(r"(\d+)\s*[-–—]\s*(\d+)")
+    score_re = re.compile(r"(?<![0-9-])(\d{1,2})\s*[-–—]\s*(\d{1,2})(?![0-9])")
 
     # Preferred: dedicated score element (class contains "score")
     score_el = row.find(True, class_=re.compile(r"\bscore\b"))
@@ -405,7 +409,7 @@ def parse_results(html: str) -> list[Result]:
             continue
 
         # --- Score: look for a .score* sibling between home and away cells ---
-        score_re = re.compile(r"(\d+)\s*[-–—]\s*(\d+)")
+        score_re = re.compile(r"(?<![0-9-])(\d{1,2})\s*[-–—]\s*(\d{1,2})(?![0-9])")
         score: tuple[int, int] | None = None
         el = home_cell.find_next_sibling(True)
         while el and el is not away_cell:
