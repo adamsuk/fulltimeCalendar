@@ -198,8 +198,12 @@ def fetch_results(season_id: str, league_name: str) -> list[Result]:
     """Fetch all results for a given season/league."""
     url = f"{RESULTS_URL}?selectedSeason={season_id}&selectedFixtureGroupKey="
     log.info(f"Fetching results for {league_name} ...")
-    html = _fetch_page_js(url, f"results/{league_name}")
-    log.debug(f"Results page HTML (first 5000 chars):\n{html[:5000]}")
+    html = _fetch_page(url, f"results/{league_name}")
+    if log.isEnabledFor(logging.DEBUG):
+        # Dump body section only so we can see the actual content structure
+        body_start = html.find("<body")
+        snippet = html[body_start:body_start + 20000] if body_start != -1 else html[:20000]
+        log.debug(f"Results page body (20k):\n{snippet}")
     return parse_results(html)
 
 
