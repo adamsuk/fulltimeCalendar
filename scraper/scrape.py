@@ -140,7 +140,7 @@ def _fetch_page_js(url: str, label: str) -> str:
                 )
                 try:
                     context = browser.new_context()
-                    # Pre-accept OneTrust consent so the results AJAX fires immediately
+                    # Pre-accept OneTrust consent as a belt-and-suspenders measure
                     context.add_cookies([
                         {
                             "name": "OptanonAlertBoxClosed",
@@ -156,9 +156,21 @@ def _fetch_page_js(url: str, label: str) -> str:
                         },
                     ])
                     page = context.new_page()
-                    # networkidle waits for all AJAX calls (results data) to finish
+
+                    # Block OneTrust's script-blocker so no data-loading scripts
+                    # are suppressed while consent is being evaluated.
+                    page.route("**/*OtAutoBlock*", lambda route: route.abort())
+                    page.route("**/*otSDKStub*", lambda route: route.abort())
+
+                    # Log every XHR/fetch request in DEBUG mode so we can see
+                    # what data endpoints the page calls.
+                    if log.isEnabledFor(logging.DEBUG):
+                        def _log_req(req):
+                            if req.resource_type in ("xhr", "fetch"):
+                                log.debug(f"  XHR/fetch → {req.method} {req.url}")
+                        page.on("request", _log_req)
+
                     page.goto(url, wait_until="networkidle", timeout=HTTP_TIMEOUT * 1000)
-                    # Wait specifically for a results/fixture data cell
                     try:
                         page.wait_for_selector("td.home-team", timeout=30_000)
                     except PWTimeoutError:
