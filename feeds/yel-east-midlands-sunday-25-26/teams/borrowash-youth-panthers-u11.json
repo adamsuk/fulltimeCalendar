@@ -1,7 +1,7 @@
 {
   "team": "Borrowash Youth Panthers U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "924db01eb622ffebc59b89d0606b40de",
@@ -89,14 +89,14 @@
       "time": "12:30",
       "home_team": "Silva FC Rushcliffe Gold U11",
       "away_team": "Borrowash Youth Panthers U11",
-      "home_score": 2612,
-      "away_score": 30,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Sunday",
       "division": "Unknown Division",
       "home_away": "away",
       "opponent": "Silva FC Rushcliffe Gold U11",
-      "goals_for": 30,
-      "goals_against": 2612
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "feaa13baf7dca5bbfc6149c7d7e56755",
@@ -112,21 +112,6 @@
       "opponent": "Beeston FC U11",
       "goals_for": 2,
       "goals_against": 3
-    },
-    {
-      "id": "a98c6536e3a96fa2197e1436ceebecb1",
-      "date": "2025-11-30",
-      "time": "11:00",
-      "home_team": "Silva FC Rushcliffe Red U11",
-      "away_team": "Borrowash Youth Panthers U11",
-      "home_score": 2511,
-      "away_score": 0,
-      "venue": "U11 Sun YEL Foundation Shield",
-      "division": "Unknown Division",
-      "home_away": "away",
-      "opponent": "Silva FC Rushcliffe Red U11",
-      "goals_for": 0,
-      "goals_against": 2511
     },
     {
       "id": "8c4a34df593430914f8bfc08727d1a18",
@@ -219,34 +204,19 @@
       "goals_against": 8
     },
     {
-      "id": "607a09e14898683d48ff72bf717fde9c",
-      "date": "2025-09-14",
-      "time": "11:00",
-      "home_team": "Alfreton Town Scorpions U11",
-      "away_team": "Borrowash Youth Panthers U11",
-      "home_score": 2511,
-      "away_score": 0,
-      "venue": "U11 Sun Winter Div 7",
-      "division": "Unknown Division",
-      "home_away": "away",
-      "opponent": "Alfreton Town Scorpions U11",
-      "goals_for": 0,
-      "goals_against": 2511
-    },
-    {
       "id": "89692d6ba204cbbef79b866e959bfcaa",
       "date": "2025-09-07",
       "time": "11:00",
       "home_team": "Borrowash Youth Panthers U11",
       "away_team": "Stanton Ilkeston Scorpions U11",
-      "home_score": 2511,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Sunday",
       "division": "Unknown Division",
       "home_away": "home",
       "opponent": "Stanton Ilkeston Scorpions U11",
-      "goals_for": 2511,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }

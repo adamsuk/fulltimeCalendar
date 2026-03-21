@@ -1,7 +1,7 @@
 {
   "team": "DLFC Blue U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "52179f6ee85f5b0688c628016d00ad30",
@@ -65,21 +65,6 @@
       "goals_against": 7
     },
     {
-      "id": "52179f6ee85f5b0688c628016d00ad30",
-      "date": "2026-03-14",
-      "time": "10:00",
-      "home_team": "Carlton Town Lions U11",
-      "away_team": "DLFC Blue U11",
-      "home_score": 2610,
-      "away_score": 0,
-      "venue": "U11 Sat Spring Div 8",
-      "division": "Unknown Division",
-      "home_away": "away",
-      "opponent": "Carlton Town Lions U11",
-      "goals_for": 0,
-      "goals_against": 2610
-    },
-    {
       "id": "3e3c7a0ed74d81757fc2403ac5f6c51e",
       "date": "2026-03-07",
       "time": "11:30",
@@ -115,29 +100,14 @@
       "time": "10:45",
       "home_team": "DLFC Blue U11",
       "away_team": "Newark Town Saxons U11",
-      "home_score": 2510,
-      "away_score": 45,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "home",
       "opponent": "Newark Town Saxons U11",
-      "goals_for": 2510,
-      "goals_against": 45
-    },
-    {
-      "id": "8712ff9f543ee1c1d8e13a0f721765b6",
-      "date": "2025-12-06",
-      "time": "11:00",
-      "home_team": "Winthorpe & Cod T Amber U11",
-      "away_team": "DLFC Blue U11",
-      "home_score": 2511,
-      "away_score": 0,
-      "venue": "U11 Sat YEL Foundation Shield",
-      "division": "Unknown Division",
-      "home_away": "away",
-      "opponent": "Winthorpe & Cod T Amber U11",
-      "goals_for": 0,
-      "goals_against": 2511
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "d884f32267564b3aca0f2304a14e7abd",
@@ -250,14 +220,14 @@
       "time": "10:30",
       "home_team": "DLFC Blue U11",
       "away_team": "Hucknall Sports Red U11",
-      "home_score": 2510,
-      "away_score": 30,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "home",
       "opponent": "Hucknall Sports Red U11",
-      "goals_for": 2510,
-      "goals_against": 30
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }

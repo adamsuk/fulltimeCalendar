@@ -1,7 +1,7 @@
 {
   "team": "Clifton All Whites Scarlet U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "9701769e2368fa4cb1a663e3f4eb03d4",
@@ -130,14 +130,14 @@
       "time": "10:00",
       "home_team": "Clifton All Whites Scarlet U11",
       "away_team": "WBYFC Rossoneri U11",
-      "home_score": 2610,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "home",
       "opponent": "WBYFC Rossoneri U11",
-      "goals_for": 2610,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "8e05e38c47d7e04cc3622b0c6a53a512",
@@ -145,14 +145,14 @@
       "time": "11:30",
       "home_team": "Gedling Southbank Wolves U11",
       "away_team": "Clifton All Whites Scarlet U11",
-      "home_score": 2511,
-      "away_score": 30,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "away",
       "opponent": "Gedling Southbank Wolves U11",
-      "goals_for": 30,
-      "goals_against": 2511
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "946685a91a9dcb08f88f1a31773b661e",
@@ -273,21 +273,6 @@
       "opponent": "Wollaton H & B Dragons U11",
       "goals_for": 1,
       "goals_against": 1
-    },
-    {
-      "id": "553a1c5f81145c9c710bd0d38ed3ab2f",
-      "date": "2025-09-06",
-      "time": "11:00",
-      "home_team": "Toton Tigers U11",
-      "away_team": "Clifton All Whites Scarlet U11",
-      "home_score": 2511,
-      "away_score": 0,
-      "venue": "U11 Saturday",
-      "division": "Unknown Division",
-      "home_away": "away",
-      "opponent": "Toton Tigers U11",
-      "goals_for": 0,
-      "goals_against": 2511
     }
   ]
 }

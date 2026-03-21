@@ -1,7 +1,7 @@
 {
   "team": "Club FDNA Madrid U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "9cc4f5e51a26b5489beff0b15df7251d",
@@ -112,14 +112,14 @@
       "time": "10:00",
       "home_team": "DLFC Pink U11",
       "away_team": "Club FDNA Madrid U11",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "away",
       "opponent": "DLFC Pink U11",
-      "goals_for": 0,
-      "goals_against": 2510
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "5692e971e37eab60a87dd5005638c262",
@@ -197,21 +197,6 @@
       "goals_against": 3
     },
     {
-      "id": "e4a3b62fc981420a424876c570b04185",
-      "date": "2025-09-27",
-      "time": "11:00",
-      "home_team": "Club FDNA Madrid U11",
-      "away_team": "Long Eaton United White U11",
-      "home_score": 2511,
-      "away_score": 0,
-      "venue": "U11 Sat Winter Div 1",
-      "division": "Unknown Division",
-      "home_away": "home",
-      "opponent": "Long Eaton United White U11",
-      "goals_for": 2511,
-      "goals_against": 0
-    },
-    {
       "id": "310e5eb949cb834150adcb8b0563b084",
       "date": "2025-09-20",
       "time": "10:00",
@@ -227,34 +212,19 @@
       "goals_against": 3
     },
     {
-      "id": "0e04ce710d0e6743b27bcf6d13ac0bf4",
-      "date": "2025-09-13",
-      "time": "11:30",
-      "home_team": "Club FDNA Madrid U11",
-      "away_team": "Stapleford Town Admirals U11",
-      "home_score": 2511,
-      "away_score": 30,
-      "venue": "U11 Sat Winter Div 1",
-      "division": "Unknown Division",
-      "home_away": "home",
-      "opponent": "Stapleford Town Admirals U11",
-      "goals_for": 2511,
-      "goals_against": 30
-    },
-    {
       "id": "c372d0225d0593c1c9f19ecf21a9c093",
       "date": "2025-09-06",
       "time": "10:45",
       "home_team": "Beaumont Park Panthers U11",
       "away_team": "Club FDNA Madrid U11",
-      "home_score": 2510,
-      "away_score": 45,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "away",
       "opponent": "Beaumont Park Panthers U11",
-      "goals_for": 45,
-      "goals_against": 2510
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "club": "Ancaster Athletic",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "03d309aa1a0390fb3ec36231ba17bd5d",
@@ -110,23 +110,6 @@
       "opponent": "Notts County Women U12 ^",
       "goals_for": 2,
       "goals_against": 2
-    },
-    {
-      "id": "353f4e7519264c04c49f455abf5707a8",
-      "date": "2026-03-01",
-      "time": "10:00",
-      "home_team": "Borrowash Youth Lions U11",
-      "away_team": "Ancaster Athletic U11",
-      "home_score": 2610,
-      "away_score": 0,
-      "venue": "U11 Sun Spring Div 6 Silver",
-      "division": "Unknown Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ancaster Athletic U11",
-      "home_away": "away",
-      "opponent": "Borrowash Youth Lions U11",
-      "goals_for": 0,
-      "goals_against": 2610
     },
     {
       "id": "495b41119914543b3280d8b71dd29f33",
@@ -287,16 +270,16 @@
       "time": "11:30",
       "home_team": "Silva FC Carlton Red U11",
       "away_team": "Ancaster Athletic U11",
-      "home_score": 2511,
-      "away_score": 30,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Sunday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Ancaster Athletic U11",
       "home_away": "away",
       "opponent": "Silva FC Carlton Red U11",
-      "goals_for": 30,
-      "goals_against": 2511
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "659f9b84c8321979db7dbadfc9b9409a",
@@ -331,23 +314,6 @@
       "opponent": "Ropsley Colts Red U12",
       "goals_for": 5,
       "goals_against": 1
-    },
-    {
-      "id": "5dd146ae94dcc88c061648770b0fa6e2",
-      "date": "2025-11-25",
-      "time": "11:00",
-      "home_team": "Ancaster Athletic U11",
-      "away_team": "East Leake Bantams Black U11",
-      "home_score": 2511,
-      "away_score": 0,
-      "venue": "U11 Sun YEL Challenge Trophy",
-      "division": "Unknown Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ancaster Athletic U11",
-      "home_away": "home",
-      "opponent": "East Leake Bantams Black U11",
-      "goals_for": 2511,
-      "goals_against": 0
     },
     {
       "id": "270ba1e05c4a8be9ad572ff5b833a9c2",
@@ -433,23 +399,6 @@
       "opponent": "Tibshelf Community Spiders U11",
       "goals_for": 2,
       "goals_against": 1
-    },
-    {
-      "id": "06ebb7d39dcf0d886e34623b16270ddf",
-      "date": "2025-10-12",
-      "time": "10:00",
-      "home_team": "Spirit Celtic Tigers U12",
-      "away_team": "Ancaster Athletic U12",
-      "home_score": 2510,
-      "away_score": 0,
-      "venue": "U12 Sun Winter Div 5",
-      "division": "Unknown Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ancaster Athletic U12",
-      "home_away": "away",
-      "opponent": "Spirit Celtic Tigers U12",
-      "goals_for": 0,
-      "goals_against": 2510
     },
     {
       "id": "0ec891a9d1f722792c1c5e67f4769f3f",
@@ -593,16 +542,16 @@
       "time": "10:30",
       "home_team": "Ancaster Athletic U11",
       "away_team": "Meden Vale Colts Gold U11",
-      "home_score": 2510,
-      "away_score": 30,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Sunday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Ancaster Athletic U11",
       "home_away": "home",
       "opponent": "Meden Vale Colts Gold U11",
-      "goals_for": 2510,
-      "goals_against": 30
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "e70ee2a3225eca76e6027cf24a339ea0",

@@ -1,6 +1,6 @@
 {
   "club": "Ropsley Colts",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "91fbc5b344358d7cba21ca77b21fc721",
@@ -174,23 +174,6 @@
   ],
   "results": [
     {
-      "id": "d4b0172b6746e29ef8dffbb0d281eb12",
-      "date": "2026-03-15",
-      "time": "11:00",
-      "home_team": "Ropsley Colts U13",
-      "away_team": "South Normanton Ath Blue U13",
-      "home_score": 2611,
-      "away_score": 0,
-      "venue": "U13 Sun Spring Div 6",
-      "division": "Unknown Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ropsley Colts U13",
-      "home_away": "home",
-      "opponent": "South Normanton Ath Blue U13",
-      "goals_for": 2611,
-      "goals_against": 0
-    },
-    {
       "id": "6517db00a41848635ae754147d7f9760",
       "date": "2026-03-15",
       "time": "10:45",
@@ -223,23 +206,6 @@
       "opponent": "Quarrydale United Rangers U9",
       "goals_for": 1,
       "goals_against": 3
-    },
-    {
-      "id": "91fbc5b344358d7cba21ca77b21fc721",
-      "date": "2026-03-15",
-      "time": "10:00",
-      "home_team": "Ropsley Colts Red U12",
-      "away_team": "East Leake Bantams Orange U12",
-      "home_score": 2610,
-      "away_score": 0,
-      "venue": "U12 Sun Spring Div 6 Silver",
-      "division": "Unknown Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ropsley Colts Red U12",
-      "home_away": "home",
-      "opponent": "East Leake Bantams Orange U12",
-      "goals_for": 2610,
-      "goals_against": 0
     },
     {
       "id": "5eb23cb20367ecd00d3f26a17215c9c4",
@@ -361,23 +327,6 @@
       "goals_against": 2
     },
     {
-      "id": "1ff346153194c364188edf898170d690",
-      "date": "2026-03-01",
-      "time": "10:00",
-      "home_team": "Sports Gateway Phoenix U13",
-      "away_team": "Ropsley Colts U13",
-      "home_score": 2610,
-      "away_score": 0,
-      "venue": "U13 Sun YEL Challenge Trophy",
-      "division": "Unknown Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ropsley Colts U13",
-      "home_away": "away",
-      "opponent": "Sports Gateway Phoenix U13",
-      "goals_for": 0,
-      "goals_against": 2610
-    },
-    {
       "id": "75c965cec452e2ab59eb98045560a8f1",
       "date": "2026-03-01",
       "time": "10:00",
@@ -434,16 +383,16 @@
       "time": "10:00",
       "home_team": "RHP Colts Green U9",
       "away_team": "Ropsley Colts U9",
-      "home_score": 2610,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U9 Sunday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Ropsley Colts U9",
       "home_away": "away",
       "opponent": "RHP Colts Green U9",
-      "goals_for": 0,
-      "goals_against": 2610
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "2cf28fdc636cd70c532b8cdeafac103f",
@@ -502,16 +451,16 @@
       "time": "10:00",
       "home_team": "Gedling Southbank Jaguars U9",
       "away_team": "Ropsley Colts U9",
-      "home_score": 2610,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U9 Sunday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Ropsley Colts U9",
       "home_away": "away",
       "opponent": "Gedling Southbank Jaguars U9",
-      "goals_for": 0,
-      "goals_against": 2610
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "8d142c8fdade3abab7fb2283e80f6b08",
@@ -672,16 +621,16 @@
       "time": "10:00",
       "home_team": "Ropsley Colts U9",
       "away_team": "Barrowby FC U9",
-      "home_score": 2610,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U9 Sunday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Ropsley Colts U9",
       "home_away": "home",
       "opponent": "Barrowby FC U9",
-      "goals_for": 2610,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "f8cb56ff1fd7e58f97006b5d3bcb1ef0",
@@ -769,38 +718,21 @@
       "goals_against": 3
     },
     {
-      "id": "c1bbf376c8782956bd1c639e617d36d2",
-      "date": "2025-12-07",
-      "time": "10:00",
-      "home_team": "Ropsley Colts Red U12",
-      "away_team": "WBYFC Flyers U12",
-      "home_score": 2510,
-      "away_score": 0,
-      "venue": "U12 Sun YEL Foundation Shield",
-      "division": "Unknown Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ropsley Colts Red U12",
-      "home_away": "home",
-      "opponent": "WBYFC Flyers U12",
-      "goals_for": 2510,
-      "goals_against": 0
-    },
-    {
       "id": "f038861051e35b089a0b95802e025924",
       "date": "2025-12-07",
       "time": "10:00",
       "home_team": "WBYFC Inter U11",
       "away_team": "Ropsley Colts U11",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Sunday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Ropsley Colts U11",
       "home_away": "away",
       "opponent": "WBYFC Inter U11",
-      "goals_for": 0,
-      "goals_against": 2510
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "276d899ec23ca9a97733bee98c7eba7c",
@@ -1097,16 +1029,16 @@
       "time": "10:00",
       "home_team": "Ropsley Colts U9",
       "away_team": "Beaufort United Red U9",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U9 Sunday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Ropsley Colts U9",
       "home_away": "home",
       "opponent": "Beaufort United Red U9",
-      "goals_for": 2510,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "3552ae0e58b42895099c0c7c5ef85939",
@@ -1114,16 +1046,16 @@
       "time": "11:00",
       "home_team": "Gonerby Yellow U11",
       "away_team": "Ropsley Colts U11",
-      "home_score": 2511,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Sunday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Ropsley Colts U11",
       "home_away": "away",
       "opponent": "Gonerby Yellow U11",
-      "goals_for": 0,
-      "goals_against": 2511
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "020d934b8831e26bc1839aadf0828d19",
@@ -1148,16 +1080,16 @@
       "time": "10:00",
       "home_team": "Market Warsop Raiders U9",
       "away_team": "Ropsley Colts U9",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U9 Sunday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Ropsley Colts U9",
       "home_away": "away",
       "opponent": "Market Warsop Raiders U9",
-      "goals_for": 0,
-      "goals_against": 2510
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "00ee8680d7e52c9768f6c779d2cb48c4",
@@ -1296,23 +1228,6 @@
       "goals_against": 3
     },
     {
-      "id": "9de6b4c547fdeaa1d7a5593999064dff",
-      "date": "2025-09-28",
-      "time": "11:00",
-      "home_team": "East Leake Bantams Orange U12",
-      "away_team": "Ropsley Colts Blue U12",
-      "home_score": 2511,
-      "away_score": 0,
-      "venue": "U12 Sun Winter Div 5",
-      "division": "Unknown Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ropsley Colts Blue U12",
-      "home_away": "away",
-      "opponent": "East Leake Bantams Orange U12",
-      "goals_for": 0,
-      "goals_against": 2511
-    },
-    {
       "id": "269bfa143e34d004eeea002426590e9a",
       "date": "2025-09-28",
       "time": "11:00",
@@ -1369,16 +1284,16 @@
       "time": "10:00",
       "home_team": "RHP Colts Green U9",
       "away_team": "Ropsley Colts U9",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U9 Sunday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Ropsley Colts U9",
       "home_away": "away",
       "opponent": "RHP Colts Green U9",
-      "goals_for": 0,
-      "goals_against": 2510
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "c268f836e8496583fde3fa032f0ce777",
@@ -1437,16 +1352,16 @@
       "time": "10:30",
       "home_team": "Ropsley Colts U9",
       "away_team": "Sherwood Colliery Stags U9",
-      "home_score": 2510,
-      "away_score": 30,
+      "home_score": null,
+      "away_score": null,
       "venue": "U9 Sun Autumn Group 6 Red",
       "division": "Unknown Division",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Ropsley Colts U9",
       "home_away": "home",
       "opponent": "Sherwood Colliery Stags U9",
-      "goals_for": 2510,
-      "goals_against": 30
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "87f81e8c7aabd9d3cd905551d1ad8bdb",
@@ -1539,16 +1454,16 @@
       "time": "10:00",
       "home_team": "Priory Celtic 1967 U9",
       "away_team": "Ropsley Colts U9",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U9 Sunday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Ropsley Colts U9",
       "home_away": "away",
       "opponent": "Priory Celtic 1967 U9",
-      "goals_for": 0,
-      "goals_against": 2510
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "b8d3d02c56d1174b3539f64e53dc2c91",
@@ -1590,16 +1505,16 @@
       "time": "10:30",
       "home_team": "Ropsley Colts U9",
       "away_team": "Barrowby FC U9",
-      "home_score": 2510,
-      "away_score": 30,
+      "home_score": null,
+      "away_score": null,
       "venue": "U9 Sun Autumn Group 6 Red",
       "division": "Unknown Division",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Ropsley Colts U9",
       "home_away": "home",
       "opponent": "Barrowby FC U9",
-      "goals_for": 2510,
-      "goals_against": 30
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "e6614c86bfbdcc97fd634c4da7008edd",
@@ -1624,16 +1539,16 @@
       "time": "10:00",
       "home_team": "Blidworth Bengals Orange U11",
       "away_team": "Ropsley Colts U11",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Sunday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Ropsley Colts U11",
       "home_away": "away",
       "opponent": "Blidworth Bengals Orange U11",
-      "goals_for": 0,
-      "goals_against": 2510
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }

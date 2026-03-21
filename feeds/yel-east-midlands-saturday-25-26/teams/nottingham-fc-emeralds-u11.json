@@ -1,7 +1,7 @@
 {
   "team": "Nottingham FC Emeralds U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "b732e808d61a54abaf897a8329d97d2a",
@@ -215,21 +215,6 @@
       "goals_against": 3
     },
     {
-      "id": "2b20771ca98fe33d3740c1addda79b8c",
-      "date": "2025-09-20",
-      "time": "11:00",
-      "home_team": "Nottingham FC Emeralds U11",
-      "away_team": "Quarrydale United U11",
-      "home_score": 2511,
-      "away_score": 0,
-      "venue": "U11 Sat Winter Div 4 Red",
-      "division": "Unknown Division",
-      "home_away": "home",
-      "opponent": "Quarrydale United U11",
-      "goals_for": 2511,
-      "goals_against": 0
-    },
-    {
       "id": "3a1672a961f61ae68edb655517635238",
       "date": "2025-09-13",
       "time": "11:00",
@@ -250,14 +235,14 @@
       "time": "10:00",
       "home_team": "Shirebrook Rangers U11",
       "away_team": "Nottingham FC Emeralds U11",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "away",
       "opponent": "Shirebrook Rangers U11",
-      "goals_for": 0,
-      "goals_against": 2510
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }

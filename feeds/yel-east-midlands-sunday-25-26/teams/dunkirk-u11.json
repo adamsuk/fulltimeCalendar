@@ -1,7 +1,7 @@
 {
   "team": "Dunkirk U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "e4e0990c447b72deceb81b73dda9e579",
@@ -74,14 +74,14 @@
       "time": "11:00",
       "home_team": "DLFC Black U11",
       "away_team": "Dunkirk U11",
-      "home_score": 2611,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Sunday",
       "division": "Unknown Division",
       "home_away": "away",
       "opponent": "DLFC Black U11",
-      "goals_for": 0,
-      "goals_against": 2611
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "b8bd7e16ea03feb009749cd6be952036",
@@ -129,34 +129,19 @@
       "goals_against": 4
     },
     {
-      "id": "f0360fa0e5f7d6b6ef1f77901221c248",
-      "date": "2026-01-04",
-      "time": "11:00",
-      "home_team": "Dunkirk U11",
-      "away_team": "Mansfield Town Grassroots Blue U11",
-      "home_score": 2611,
-      "away_score": 0,
-      "venue": "U11 Sun Winter Premier Division",
-      "division": "Unknown Division",
-      "home_away": "home",
-      "opponent": "Mansfield Town Grassroots Blue U11",
-      "goals_for": 2611,
-      "goals_against": 0
-    },
-    {
       "id": "41c88b6db2040d0a86c3e6a75c812a6b",
       "date": "2025-12-14",
       "time": "10:00",
       "home_team": "Attenborough Colts Blue U11",
       "away_team": "Dunkirk U11",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Sunday",
       "division": "Unknown Division",
       "home_away": "away",
       "opponent": "Attenborough Colts Blue U11",
-      "goals_for": 0,
-      "goals_against": 2510
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "be2ddb0f6b6318731573404d5654c580",
@@ -269,14 +254,14 @@
       "time": "10:00",
       "home_team": "Ilkeston Town Wolfpack U11",
       "away_team": "Dunkirk U11",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Sunday",
       "division": "Unknown Division",
       "home_away": "away",
       "opponent": "Ilkeston Town Wolfpack U11",
-      "goals_for": 0,
-      "goals_against": 2510
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "club": "Teversal FC",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "632c9c151cb0c1c5f12857fb9d9513d4",
@@ -328,16 +328,16 @@
       "time": "10:00",
       "home_team": "Teversal FC Red U10",
       "away_team": "Loughborough Emmanuel U10",
-      "home_score": 2610,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U10 Saturday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Teversal FC Red U10",
       "home_away": "home",
       "opponent": "Loughborough Emmanuel U10",
-      "goals_for": 2610,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "4c51b2a7c496678afe95478f5ef49b89",
@@ -481,16 +481,16 @@
       "time": "10:00",
       "home_team": "Quarrydale United Rangers U10",
       "away_team": "Teversal FC Red U10",
-      "home_score": 2610,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U10 Sat Friendly 2026 6 Red",
       "division": "Unknown Division",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Teversal FC Red U10",
       "home_away": "away",
       "opponent": "Quarrydale United Rangers U10",
-      "goals_for": 0,
-      "goals_against": 2610
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "a04823c32bde90547d6497becef0c866",
@@ -549,16 +549,16 @@
       "time": "10:00",
       "home_team": "Sherwood Colliery Warriors U10",
       "away_team": "Teversal FC Red U10",
-      "home_score": 2610,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U10 Saturday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Teversal FC Red U10",
       "home_away": "away",
       "opponent": "Sherwood Colliery Warriors U10",
-      "goals_for": 0,
-      "goals_against": 2610
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "b417cd005c84bdda160091912a285ce7",
@@ -566,16 +566,16 @@
       "time": "09:45",
       "home_team": "Basford CFC Blue U10",
       "away_team": "Teversal FC Blue U10",
-      "home_score": 2609,
-      "away_score": 45,
+      "home_score": null,
+      "away_score": null,
       "venue": "U10 Sat Friendly 2026 2 Red",
       "division": "Unknown Division",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Teversal FC Blue U10",
       "home_away": "away",
       "opponent": "Basford CFC Blue U10",
-      "goals_for": 45,
-      "goals_against": 2609
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "cd75fe1e46986bfdd27a89443ab134a3",
@@ -617,16 +617,16 @@
       "time": "10:00",
       "home_team": "Silva FC Brunts U10",
       "away_team": "Teversal FC Red U10",
-      "home_score": 2610,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U10 Sat Friendly 2026 6 Red",
       "division": "Unknown Division",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Teversal FC Red U10",
       "home_away": "away",
       "opponent": "Silva FC Brunts U10",
-      "goals_for": 0,
-      "goals_against": 2610
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "fd1c0b393e626315b0b6075b785c7da7",
@@ -651,16 +651,16 @@
       "time": "09:45",
       "home_team": "Teversal FC Blue U10",
       "away_team": "Burton Joyce Green U10",
-      "home_score": 2609,
-      "away_score": 45,
+      "home_score": null,
+      "away_score": null,
       "venue": "U10 Sat Friendly 2026 2 Red",
       "division": "Unknown Division",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Teversal FC Blue U10",
       "home_away": "home",
       "opponent": "Burton Joyce Green U10",
-      "goals_for": 2609,
-      "goals_against": 45
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "2f9e910b3516aac8f77bca6842b244ec",
@@ -685,16 +685,16 @@
       "time": "11:00",
       "home_team": "Newark Town Titans U10",
       "away_team": "Teversal FC Blue U10",
-      "home_score": 2611,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U10 Sat Friendly 2026 2 Red",
       "division": "Unknown Division",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Teversal FC Blue U10",
       "home_away": "away",
       "opponent": "Newark Town Titans U10",
-      "goals_for": 0,
-      "goals_against": 2611
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "a523065a167b5f8cf823ace7f7e7ef88",
@@ -935,38 +935,21 @@
       "goals_against": 2
     },
     {
-      "id": "cb916164f465cc7329f28134bdfd1f2e",
-      "date": "2025-11-29",
-      "time": "10:00",
-      "home_team": "AJ Sport Red U10",
-      "away_team": "Teversal FC Blue U10",
-      "home_score": 2510,
-      "away_score": 0,
-      "venue": "U10 Sat Winter Div 1 Silver",
-      "division": "Unknown Division",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Teversal FC Blue U10",
-      "home_away": "away",
-      "opponent": "AJ Sport Red U10",
-      "goals_for": 0,
-      "goals_against": 2510
-    },
-    {
       "id": "b76982464ec21b1b9dc01498d5a348cc",
       "date": "2025-11-29",
       "time": "10:00",
       "home_team": "Teversal FC Red U10",
       "away_team": "Gedling Southbank Arrows U10",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U10 Saturday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Teversal FC Red U10",
       "home_away": "home",
       "opponent": "Gedling Southbank Arrows U10",
-      "goals_for": 2510,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "fa30c6649686128e25d3714218cd62b3",
@@ -1195,16 +1178,16 @@
       "time": "09:45",
       "home_team": "Teversal FC Blue U10",
       "away_team": "Woodhouse Colts United U10",
-      "home_score": 2509,
-      "away_score": 45,
+      "home_score": null,
+      "away_score": null,
       "venue": "U10 Saturday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Teversal FC Blue U10",
       "home_away": "home",
       "opponent": "Woodhouse Colts United U10",
-      "goals_for": 2509,
-      "goals_against": 45
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "79214771b3281beb95e5a257d0c83019",
@@ -1212,16 +1195,16 @@
       "time": "10:00",
       "home_team": "Teversal FC Red U10",
       "away_team": "Sandiacre Town Warriors U10",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U10 Saturday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Teversal FC Red U10",
       "home_away": "home",
       "opponent": "Sandiacre Town Warriors U10",
-      "goals_for": 2510,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "6a04ad08e0cbd3deef9e86343078eab2",
@@ -1229,16 +1212,16 @@
       "time": "10:00",
       "home_team": "Teversal FC Red U10",
       "away_team": "Lowdham FC Red U10",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U10 Saturday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Teversal FC Red U10",
       "home_away": "home",
       "opponent": "Lowdham FC Red U10",
-      "goals_for": 2510,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "dc36c7bf1e32401e1f73627cbc353fe0",
@@ -1377,23 +1360,6 @@
       "goals_against": 5
     },
     {
-      "id": "5c35b04bf5d59decad980ef48e6e9d1e",
-      "date": "2025-10-04",
-      "time": "10:00",
-      "home_team": "Teversal FC Red U10",
-      "away_team": "Bobbersmill FC Warriors U10",
-      "home_score": 2510,
-      "away_score": 0,
-      "venue": "U10 Sat Winter Div 7 Red",
-      "division": "Unknown Division",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Teversal FC Red U10",
-      "home_away": "home",
-      "opponent": "Bobbersmill FC Warriors U10",
-      "goals_for": 2510,
-      "goals_against": 0
-    },
-    {
       "id": "80f9a03b5f0e9c55bb62e8670dad3c76",
       "date": "2025-09-28",
       "time": "11:00",
@@ -1433,16 +1399,16 @@
       "time": "10:00",
       "home_team": "Basford CFC Blue U10",
       "away_team": "Teversal FC Blue U10",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U10 Sat Autumn 2 Blue",
       "division": "Unknown Division",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Teversal FC Blue U10",
       "home_away": "away",
       "opponent": "Basford CFC Blue U10",
-      "goals_for": 0,
-      "goals_against": 2510
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "2e46b2d6fb6fba33f1ee10c15424043c",
@@ -1450,16 +1416,16 @@
       "time": "10:00",
       "home_team": "Teversal FC Red U10",
       "away_team": "Codnor Sports Real U10",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U10 Saturday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Teversal FC Red U10",
       "home_away": "home",
       "opponent": "Codnor Sports Real U10",
-      "goals_for": 2510,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "649099db20ed91ed86c5c0d5e0038def",
@@ -1552,16 +1518,16 @@
       "time": "09:45",
       "home_team": "Teversal FC Blue U10",
       "away_team": "Woodthorpe Com Revolution U10",
-      "home_score": 2509,
-      "away_score": 45,
+      "home_score": null,
+      "away_score": null,
       "venue": "U10 Sat Autumn 2 Blue",
       "division": "Unknown Division",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Teversal FC Blue U10",
       "home_away": "home",
       "opponent": "Woodthorpe Com Revolution U10",
-      "goals_for": 2509,
-      "goals_against": 45
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "93bb9075f803c5321e6cc0c129eea23a",
@@ -1569,16 +1535,16 @@
       "time": "09:45",
       "home_team": "Burton Joyce Blue U10",
       "away_team": "Teversal FC Red U10",
-      "home_score": 2509,
-      "away_score": 45,
+      "home_score": null,
+      "away_score": null,
       "venue": "U10 Sat Autumn 6 Blue",
       "division": "Unknown Division",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Teversal FC Red U10",
       "home_away": "away",
       "opponent": "Burton Joyce Blue U10",
-      "goals_for": 45,
-      "goals_against": 2509
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "0366fc0d81c69f766d5a2930b4be304b",
@@ -1654,16 +1620,16 @@
       "time": "10:00",
       "home_team": "Teversal FC Red U10",
       "away_team": "Sherwood Colliery Warriors U10",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U10 Sat Autumn 6 Blue",
       "division": "Unknown Division",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Teversal FC Red U10",
       "home_away": "home",
       "opponent": "Sherwood Colliery Warriors U10",
-      "goals_for": 2510,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "a9e634e9e32650aa325640e6770cda1c",
@@ -1671,16 +1637,16 @@
       "time": "09:45",
       "home_team": "Sherwood Colliery Outlaws U10",
       "away_team": "Teversal FC Blue U10",
-      "home_score": 2509,
-      "away_score": 45,
+      "home_score": null,
+      "away_score": null,
       "venue": "U10 Saturday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Teversal FC Blue U10",
       "home_away": "away",
       "opponent": "Sherwood Colliery Outlaws U10",
-      "goals_for": 45,
-      "goals_against": 2509
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "e01afb61dbfed29dcf2c32529e0be944",
@@ -1739,16 +1705,16 @@
       "time": "10:00",
       "home_team": "Sutton-on-Trent Tornadoes U10",
       "away_team": "Teversal FC Red U10",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U10 Sat Autumn 6 Blue",
       "division": "Unknown Division",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Teversal FC Red U10",
       "home_away": "away",
       "opponent": "Sutton-on-Trent Tornadoes U10",
-      "goals_for": 0,
-      "goals_against": 2510
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "24a4d2ff3580eba8a04e201af9137ec5",
@@ -1773,16 +1739,16 @@
       "time": "09:45",
       "home_team": "Teversal FC Blue U10",
       "away_team": "Tibshelf Community U10",
-      "home_score": 2509,
-      "away_score": 45,
+      "home_score": null,
+      "away_score": null,
       "venue": "U10 Sat Autumn 2 Blue",
       "division": "Unknown Division",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Teversal FC Blue U10",
       "home_away": "home",
       "opponent": "Tibshelf Community U10",
-      "goals_for": 2509,
-      "goals_against": 45
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }

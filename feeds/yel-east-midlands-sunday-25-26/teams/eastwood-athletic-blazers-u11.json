@@ -1,7 +1,7 @@
 {
   "team": "Eastwood Athletic Blazers U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "924db01eb622ffebc59b89d0606b40de",
@@ -103,21 +103,6 @@
       "goals_against": 1
     },
     {
-      "id": "d0eb22ce637841013b2fd2e27b5c01cd",
-      "date": "2026-01-04",
-      "time": "11:00",
-      "home_team": "Carlton Town Yellow U11",
-      "away_team": "Eastwood Athletic Blazers U11",
-      "home_score": 2611,
-      "away_score": 0,
-      "venue": "U11 Sun Winter Div 6 Red",
-      "division": "Unknown Division",
-      "home_away": "away",
-      "opponent": "Carlton Town Yellow U11",
-      "goals_for": 0,
-      "goals_against": 2611
-    },
-    {
       "id": "c0c5d89a1e77cf582114378b7b72b1e2",
       "date": "2025-12-07",
       "time": "11:30",
@@ -208,34 +193,19 @@
       "goals_against": 11
     },
     {
-      "id": "0e7139e8052de7468b6c19d5ae8dd8cd",
-      "date": "2025-09-14",
-      "time": "11:00",
-      "home_team": "Vale FC U11",
-      "away_team": "Eastwood Athletic Blazers U11",
-      "home_score": 2511,
-      "away_score": 0,
-      "venue": "U11 Sun Winter Div 6 Red",
-      "division": "Unknown Division",
-      "home_away": "away",
-      "opponent": "Vale FC U11",
-      "goals_for": 0,
-      "goals_against": 2511
-    },
-    {
       "id": "4f9cbc1b42a5961c5ad96a11f6d1a856",
       "date": "2025-09-07",
       "time": "11:00",
       "home_team": "Eastwood Athletic Blazers U11",
       "away_team": "Manor FC U11",
-      "home_score": 2511,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Sunday",
       "division": "Unknown Division",
       "home_away": "home",
       "opponent": "Manor FC U11",
-      "goals_for": 2511,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }

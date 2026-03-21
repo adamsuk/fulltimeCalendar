@@ -1,7 +1,7 @@
 {
   "team": "Mansfield Town Grassroots Blue U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "2948899f91db01d31bb46281e2e610fc",
@@ -133,21 +133,6 @@
       "goals_against": 2
     },
     {
-      "id": "f0360fa0e5f7d6b6ef1f77901221c248",
-      "date": "2026-01-04",
-      "time": "11:00",
-      "home_team": "Dunkirk U11",
-      "away_team": "Mansfield Town Grassroots Blue U11",
-      "home_score": 2611,
-      "away_score": 0,
-      "venue": "U11 Sun Winter Premier Division",
-      "division": "Unknown Division",
-      "home_away": "away",
-      "opponent": "Dunkirk U11",
-      "goals_for": 0,
-      "goals_against": 2611
-    },
-    {
       "id": "d9aa7159765e5211e49071453e94efcd",
       "date": "2025-12-14",
       "time": "11:30",
@@ -258,14 +243,14 @@
       "time": "10:00",
       "home_team": "Nottingham FC Onyx U11",
       "away_team": "Mansfield Town Grassroots Blue U11",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Sunday",
       "division": "Unknown Division",
       "home_away": "away",
       "opponent": "Nottingham FC Onyx U11",
-      "goals_for": 0,
-      "goals_against": 2510
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }

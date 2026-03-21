@@ -1,7 +1,7 @@
 {
   "team": "Edwalton Cavaliers White U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "e49d36e476797e89eb16eb9c8cb17a69",
@@ -27,21 +27,6 @@
     }
   ],
   "results": [
-    {
-      "id": "9e8ed8d6d80fd18cc09b68e1fa0bd3ce",
-      "date": "2026-03-21",
-      "time": "11:00",
-      "home_team": "Radcliffe Olympic Blue U11",
-      "away_team": "Edwalton Cavaliers White U11",
-      "home_score": 2611,
-      "away_score": 0,
-      "venue": "U11 Sat YEL Foundation Shield",
-      "division": "Unknown Division",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic Blue U11",
-      "goals_for": 0,
-      "goals_against": 2611
-    },
     {
       "id": "742102e61e638282b61d10f2d6378e6e",
       "date": "2026-03-14",
@@ -243,14 +228,14 @@
       "time": "11:00",
       "home_team": "Edwalton Cavaliers White U11",
       "away_team": "Keyworth United Red U11",
-      "home_score": 2511,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "home",
       "opponent": "Keyworth United Red U11",
-      "goals_for": 2511,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }

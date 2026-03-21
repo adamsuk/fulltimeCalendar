@@ -1,7 +1,7 @@
 {
   "team": "Pegasus FC U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "1a2800ea1fcef193e09bf9136cdff71f",
@@ -185,21 +185,6 @@
       "goals_against": 3
     },
     {
-      "id": "9cfaf23f4d2abde8b63928ddebf90245",
-      "date": "2025-09-20",
-      "time": "10:00",
-      "home_team": "Loughborough Emmanuel U11",
-      "away_team": "Pegasus FC U11",
-      "home_score": 2510,
-      "away_score": 0,
-      "venue": "U11 Sat Winter Div 7 Blue",
-      "division": "Unknown Division",
-      "home_away": "away",
-      "opponent": "Loughborough Emmanuel U11",
-      "goals_for": 0,
-      "goals_against": 2510
-    },
-    {
       "id": "3ecd0db8909c7553dc95e8207053bb68",
       "date": "2025-09-13",
       "time": "11:00",
@@ -220,14 +205,14 @@
       "time": "10:00",
       "home_team": "Phoenix Inham Rockets U11",
       "away_team": "Pegasus FC U11",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "away",
       "opponent": "Phoenix Inham Rockets U11",
-      "goals_for": 0,
-      "goals_against": 2510
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }

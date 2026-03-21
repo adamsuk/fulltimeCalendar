@@ -1,7 +1,7 @@
 {
   "team": "Borrowash Youth Rams U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "ebc7261b37e062acaedeee7aae63d3ca",
@@ -60,21 +60,6 @@
     }
   ],
   "results": [
-    {
-      "id": "ebc7261b37e062acaedeee7aae63d3ca",
-      "date": "2026-03-21",
-      "time": "11:00",
-      "home_team": "Borrowash Youth Rams U11",
-      "away_team": "Priory Celtic White U11",
-      "home_score": 2611,
-      "away_score": 0,
-      "venue": "U11 Sat Spring Div 3 Red",
-      "division": "Unknown Division",
-      "home_away": "home",
-      "opponent": "Priory Celtic White U11",
-      "goals_for": 2611,
-      "goals_against": 0
-    },
     {
       "id": "8e5ba8417b2583c52bcb99fc026188b2",
       "date": "2026-03-14",
@@ -246,14 +231,14 @@
       "time": "10:00",
       "home_team": "Borrowash Youth Rams U11",
       "away_team": "Toton Tornados Typhoons U11",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "home",
       "opponent": "Toton Tornados Typhoons U11",
-      "goals_for": 2510,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }

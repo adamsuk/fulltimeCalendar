@@ -1,6 +1,6 @@
 {
   "club": "Darley Sports",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "52a49b6772ffa09aad11678b3a3aa53d",
@@ -240,23 +240,6 @@
       "goals_against": 0
     },
     {
-      "id": "b98e49b2e4db124f514af7af8d73643c",
-      "date": "2026-01-24",
-      "time": "11:00",
-      "home_team": "Beaumont Park Panthers U11",
-      "away_team": "Darley Sports Corinthians U11",
-      "home_score": 2611,
-      "away_score": 0,
-      "venue": "U11 Sat Spring Premier Division",
-      "division": "Unknown Division",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Darley Sports Corinthians U11",
-      "home_away": "away",
-      "opponent": "Beaumont Park Panthers U11",
-      "goals_for": 0,
-      "goals_against": 2611
-    },
-    {
       "id": "20a702cb488c78e1493a372408e49ecc",
       "date": "2026-01-24",
       "time": "10:00",
@@ -313,16 +296,16 @@
       "time": "10:00",
       "home_team": "Darley Sports Corinthians U11",
       "away_team": "Nottingham FC Onyx U11",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Darley Sports Corinthians U11",
       "home_away": "home",
       "opponent": "Nottingham FC Onyx U11",
-      "goals_for": 2510,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "beab5e6ff1f8b3ec0b41ca6eabc0b0dd",
@@ -636,16 +619,16 @@
       "time": "10:00",
       "home_team": "Darley Sports Corinthians U11",
       "away_team": "Spondon Dynamos AS Yellow U11",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Darley Sports Corinthians U11",
       "home_away": "home",
       "opponent": "Spondon Dynamos AS Yellow U11",
-      "goals_for": 2510,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }

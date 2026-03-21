@@ -1,6 +1,6 @@
 {
   "club": "Walesby Juniors",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "299f6730b1b46962232039d147bd8c48",
@@ -259,23 +259,6 @@
       "opponent": "Beaufort United Blue U11",
       "goals_for": 1,
       "goals_against": 2
-    },
-    {
-      "id": "4299627045ef14812498f66dfc6ab65f",
-      "date": "2025-12-14",
-      "time": "11:00",
-      "home_team": "Beaufort United White U14",
-      "away_team": "Walesby Juniors U14",
-      "home_score": 2511,
-      "away_score": 0,
-      "venue": "U14 Sun Winter Div 4 Red",
-      "division": "Unknown Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Walesby Juniors U14",
-      "home_away": "away",
-      "opponent": "Beaufort United White U14",
-      "goals_for": 0,
-      "goals_against": 2511
     },
     {
       "id": "664ed39142819f2d9ae1e3568e91af44",
@@ -555,16 +538,16 @@
       "time": "09:45",
       "home_team": "Kirkby Garibaldi Reds U11",
       "away_team": "Walesby Juniors United U11",
-      "home_score": 2509,
-      "away_score": 45,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Sunday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Walesby Juniors United U11",
       "home_away": "away",
       "opponent": "Kirkby Garibaldi Reds U11",
-      "goals_for": 45,
-      "goals_against": 2509
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }

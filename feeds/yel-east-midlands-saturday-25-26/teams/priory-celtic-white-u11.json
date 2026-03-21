@@ -1,7 +1,7 @@
 {
   "team": "Priory Celtic White U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "ebc7261b37e062acaedeee7aae63d3ca",
@@ -50,21 +50,6 @@
   ],
   "results": [
     {
-      "id": "ebc7261b37e062acaedeee7aae63d3ca",
-      "date": "2026-03-21",
-      "time": "11:00",
-      "home_team": "Borrowash Youth Rams U11",
-      "away_team": "Priory Celtic White U11",
-      "home_score": 2611,
-      "away_score": 0,
-      "venue": "U11 Sat Spring Div 3 Red",
-      "division": "Unknown Division",
-      "home_away": "away",
-      "opponent": "Borrowash Youth Rams U11",
-      "goals_for": 0,
-      "goals_against": 2611
-    },
-    {
       "id": "fa583f33522007e7ad32813eaa87579a",
       "date": "2026-03-14",
       "time": "10:00",
@@ -85,14 +70,14 @@
       "time": "11:00",
       "home_team": "Priory Celtic White U11",
       "away_team": "AFC Warriors Vikings U11",
-      "home_score": 2611,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "home",
       "opponent": "AFC Warriors Vikings U11",
-      "goals_for": 2611,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "676cc13cd52be493067dee4ee4a2e2a4",
@@ -140,21 +125,6 @@
       "goals_against": 2
     },
     {
-      "id": "ce0f64767822871c6874c74ccd3ed94c",
-      "date": "2025-11-22",
-      "time": "11:00",
-      "home_team": "Priory Celtic White U11",
-      "away_team": "Stanton Ilkeston Galacticos U11",
-      "home_score": 2511,
-      "away_score": 0,
-      "venue": "U11 Sat Winter Div 4 Blue",
-      "division": "Unknown Division",
-      "home_away": "home",
-      "opponent": "Stanton Ilkeston Galacticos U11",
-      "goals_for": 2511,
-      "goals_against": 0
-    },
-    {
       "id": "d36a0e281f1fd1f4a29e59b8c06f49cb",
       "date": "2025-11-08",
       "time": "10:45",
@@ -175,14 +145,14 @@
       "time": "10:00",
       "home_team": "Long Eaton United Purple U11",
       "away_team": "Priory Celtic White U11",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "away",
       "opponent": "Long Eaton United Purple U11",
-      "goals_for": 0,
-      "goals_against": 2510
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "e9f80590d66917f0ea4e3d208c8d9b83",
@@ -265,14 +235,14 @@
       "time": "11:40",
       "home_team": "Ilkeston Town Milan U11",
       "away_team": "Priory Celtic White U11",
-      "home_score": 2511,
-      "away_score": 40,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "away",
       "opponent": "Ilkeston Town Milan U11",
-      "goals_for": 40,
-      "goals_against": 2511
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }

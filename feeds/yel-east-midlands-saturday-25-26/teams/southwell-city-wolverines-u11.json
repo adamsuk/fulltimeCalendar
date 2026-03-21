@@ -1,7 +1,7 @@
 {
   "team": "Southwell City Wolverines U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "4ed775ae51f65b9790f5dbd6b5ab0f2d",
@@ -138,14 +138,14 @@
       "time": "11:00",
       "home_team": "Meden Vale Colts Red U11",
       "away_team": "Southwell City Wolverines U11",
-      "home_score": 2511,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "away",
       "opponent": "Meden Vale Colts Red U11",
-      "goals_for": 0,
-      "goals_against": 2511
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "fef08428732443d81c079a423a2e9add",
@@ -153,14 +153,14 @@
       "time": "09:30",
       "home_team": "Southwell City Wolverines U11",
       "away_team": "Woodborough Celtic U11",
-      "home_score": 2509,
-      "away_score": 30,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "home",
       "opponent": "Woodborough Celtic U11",
-      "goals_for": 2509,
-      "goals_against": 30
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "854964a0a1c3cb3749099152bf5267b7",
@@ -223,34 +223,19 @@
       "goals_against": 2
     },
     {
-      "id": "4db1ecd8d8e22db8d841259c472e1410",
-      "date": "2025-09-13",
-      "time": "09:30",
-      "home_team": "AFC Warriors Vikings U11",
-      "away_team": "Southwell City Wolverines U11",
-      "home_score": 2509,
-      "away_score": 30,
-      "venue": "U11 Sat Winter Div 4 Green",
-      "division": "Unknown Division",
-      "home_away": "away",
-      "opponent": "AFC Warriors Vikings U11",
-      "goals_for": 30,
-      "goals_against": 2509
-    },
-    {
       "id": "d79e3e0eab5c0aaa0319a444b23601ea",
       "date": "2025-09-06",
       "time": "09:30",
       "home_team": "Southwell City Wolverines U11",
       "away_team": "Silva FC Carlton Black U11",
-      "home_score": 2509,
-      "away_score": 30,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "home",
       "opponent": "Silva FC Carlton Black U11",
-      "goals_for": 2509,
-      "goals_against": 30
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }

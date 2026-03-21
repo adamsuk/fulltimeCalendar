@@ -1,7 +1,7 @@
 {
   "team": "Silva FC Carlton Black U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "ad4182407b5d86bde9756c79b4242063",
@@ -38,21 +38,6 @@
     }
   ],
   "results": [
-    {
-      "id": "c54816cd2fe49a37c18272242d6c40ea",
-      "date": "2026-03-21",
-      "time": "11:30",
-      "home_team": "Silva FC Carlton Black U11",
-      "away_team": "Meden Vale Colts Green U11",
-      "home_score": 2611,
-      "away_score": 30,
-      "venue": "U11 Sat Spring Div 4 Red",
-      "division": "Unknown Division",
-      "home_away": "home",
-      "opponent": "Meden Vale Colts Green U11",
-      "goals_for": 2611,
-      "goals_against": 30
-    },
     {
       "id": "95c40e09f87aef97c71353a8b81df573",
       "date": "2026-03-14",
@@ -104,14 +89,14 @@
       "time": "11:00",
       "home_team": "Silva FC Carlton Black U11",
       "away_team": "Toton Tigers U11",
-      "home_score": 2611,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "home",
       "opponent": "Toton Tigers U11",
-      "goals_for": 2611,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "cdc51711b519a29d7e337c08e31658b3",
@@ -194,14 +179,14 @@
       "time": "11:00",
       "home_team": "Clay Cross Town Bulldogs U11",
       "away_team": "Silva FC Carlton Black U11",
-      "home_score": 2511,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "away",
       "opponent": "Clay Cross Town Bulldogs U11",
-      "goals_for": 0,
-      "goals_against": 2511
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "15bf9b62d3fd0beaa67d42cd74afed25",
@@ -254,14 +239,14 @@
       "time": "10:00",
       "home_team": "Silva FC Carlton Black U11",
       "away_team": "Iannis FC U11",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "home",
       "opponent": "Iannis FC U11",
-      "goals_for": 2510,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "1920e216d56997cf9fc4d5349ae00057",
@@ -284,14 +269,14 @@
       "time": "09:30",
       "home_team": "Southwell City Wolverines U11",
       "away_team": "Silva FC Carlton Black U11",
-      "home_score": 2509,
-      "away_score": 30,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "away",
       "opponent": "Southwell City Wolverines U11",
-      "goals_for": 30,
-      "goals_against": 2509
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }

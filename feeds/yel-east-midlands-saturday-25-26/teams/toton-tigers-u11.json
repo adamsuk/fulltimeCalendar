@@ -1,7 +1,7 @@
 {
   "team": "Toton Tigers U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "0c361f8148c18d20fb6aa9998326a253",
@@ -67,14 +67,14 @@
       "time": "11:00",
       "home_team": "Silva FC Carlton Black U11",
       "away_team": "Toton Tigers U11",
-      "home_score": 2611,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "away",
       "opponent": "Silva FC Carlton Black U11",
-      "goals_for": 0,
-      "goals_against": 2611
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "44e25df9e4f7610fb528f19ed5cdd194",
@@ -142,14 +142,14 @@
       "time": "12:00",
       "home_team": "Toton Tigers U11",
       "away_team": "Dunkirk U11",
-      "home_score": 2512,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "home",
       "opponent": "Dunkirk U11",
-      "goals_for": 2512,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "b55685ee375e99eee81ecc15e7cada20",
@@ -255,21 +255,6 @@
       "opponent": "Dunkirk U11",
       "goals_for": 1,
       "goals_against": 2
-    },
-    {
-      "id": "553a1c5f81145c9c710bd0d38ed3ab2f",
-      "date": "2025-09-06",
-      "time": "11:00",
-      "home_team": "Toton Tigers U11",
-      "away_team": "Clifton All Whites Scarlet U11",
-      "home_score": 2511,
-      "away_score": 0,
-      "venue": "U11 Saturday",
-      "division": "Unknown Division",
-      "home_away": "home",
-      "opponent": "Clifton All Whites Scarlet U11",
-      "goals_for": 2511,
-      "goals_against": 0
     }
   ]
 }

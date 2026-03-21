@@ -1,7 +1,7 @@
 {
   "team": "Ancaster Athletic U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "f94dbce449e9ff4427b99725af4348e3",
@@ -45,21 +45,6 @@
       "opponent": "Tibshelf Community Spiders U11",
       "goals_for": 1,
       "goals_against": 2
-    },
-    {
-      "id": "353f4e7519264c04c49f455abf5707a8",
-      "date": "2026-03-01",
-      "time": "10:00",
-      "home_team": "Borrowash Youth Lions U11",
-      "away_team": "Ancaster Athletic U11",
-      "home_score": 2610,
-      "away_score": 0,
-      "venue": "U11 Sun Spring Div 6 Silver",
-      "division": "Unknown Division",
-      "home_away": "away",
-      "opponent": "Borrowash Youth Lions U11",
-      "goals_for": 0,
-      "goals_against": 2610
     },
     {
       "id": "495b41119914543b3280d8b71dd29f33",
@@ -127,29 +112,14 @@
       "time": "11:30",
       "home_team": "Silva FC Carlton Red U11",
       "away_team": "Ancaster Athletic U11",
-      "home_score": 2511,
-      "away_score": 30,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Sunday",
       "division": "Unknown Division",
       "home_away": "away",
       "opponent": "Silva FC Carlton Red U11",
-      "goals_for": 30,
-      "goals_against": 2511
-    },
-    {
-      "id": "5dd146ae94dcc88c061648770b0fa6e2",
-      "date": "2025-11-25",
-      "time": "11:00",
-      "home_team": "Ancaster Athletic U11",
-      "away_team": "East Leake Bantams Black U11",
-      "home_score": 2511,
-      "away_score": 0,
-      "venue": "U11 Sun YEL Challenge Trophy",
-      "division": "Unknown Division",
-      "home_away": "home",
-      "opponent": "East Leake Bantams Black U11",
-      "goals_for": 2511,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "e3b7e1333b99585ee5a41bd2ad15fdaf",
@@ -262,14 +232,14 @@
       "time": "10:30",
       "home_team": "Ancaster Athletic U11",
       "away_team": "Meden Vale Colts Gold U11",
-      "home_score": 2510,
-      "away_score": 30,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Sunday",
       "division": "Unknown Division",
       "home_away": "home",
       "opponent": "Meden Vale Colts Gold U11",
-      "goals_for": 2510,
-      "goals_against": 30
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }

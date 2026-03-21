@@ -1,7 +1,7 @@
 {
   "team": "Vale FC U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "cdd9033ae7f65ce14b0292b02eeb6c10",
@@ -112,14 +112,14 @@
       "time": "11:00",
       "home_team": "Vale FC U11",
       "away_team": "Gonerby Blue U11",
-      "home_score": 2511,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Sunday",
       "division": "Unknown Division",
       "home_away": "home",
       "opponent": "Gonerby Blue U11",
-      "goals_for": 2511,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "a56f8c4b78812e3e54616f49531148c1",
@@ -227,34 +227,19 @@
       "goals_against": 3
     },
     {
-      "id": "0e7139e8052de7468b6c19d5ae8dd8cd",
-      "date": "2025-09-14",
-      "time": "11:00",
-      "home_team": "Vale FC U11",
-      "away_team": "Eastwood Athletic Blazers U11",
-      "home_score": 2511,
-      "away_score": 0,
-      "venue": "U11 Sun Winter Div 6 Red",
-      "division": "Unknown Division",
-      "home_away": "home",
-      "opponent": "Eastwood Athletic Blazers U11",
-      "goals_for": 2511,
-      "goals_against": 0
-    },
-    {
       "id": "ba7b1919a750816a42a877ae078c0cb6",
       "date": "2025-09-07",
       "time": "11:00",
       "home_team": "Burton Joyce Blue U11",
       "away_team": "Vale FC U11",
-      "home_score": 2511,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Sunday",
       "division": "Unknown Division",
       "home_away": "away",
       "opponent": "Burton Joyce Blue U11",
-      "goals_for": 0,
-      "goals_against": 2511
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }

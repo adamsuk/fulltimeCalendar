@@ -1,54 +1,9 @@
 {
   "team": "25/26 Rainworth Juniors U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [],
   "results": [
-    {
-      "id": "ed0b2c03c76a35c25f0db696c5a6f8e7",
-      "date": "2025-11-25",
-      "time": "11:00",
-      "home_team": "Bestwood Colliery U11",
-      "away_team": "25/26 Rainworth Juniors U11",
-      "home_score": 2511,
-      "away_score": 0,
-      "venue": "U11 Sun YEL Inter cup",
-      "division": "Unknown Division",
-      "home_away": "away",
-      "opponent": "Bestwood Colliery U11",
-      "goals_for": 0,
-      "goals_against": 2511
-    },
-    {
-      "id": "11350a9cc48751211362045870c7cd75",
-      "date": "2025-11-16",
-      "time": "10:00",
-      "home_team": "Blidworth Bengals Orange U11",
-      "away_team": "25/26 Rainworth Juniors U11",
-      "home_score": 2510,
-      "away_score": 0,
-      "venue": "U11 Sun Winter Div 3 Red",
-      "division": "Unknown Division",
-      "home_away": "away",
-      "opponent": "Blidworth Bengals Orange U11",
-      "goals_for": 0,
-      "goals_against": 2510
-    },
-    {
-      "id": "99da1ec28ab4647e2ca1278b747b7c13",
-      "date": "2025-11-09",
-      "time": "11:00",
-      "home_team": "25/26 Rainworth Juniors U11",
-      "away_team": "Kirkby Colts U11",
-      "home_score": 2511,
-      "away_score": 0,
-      "venue": "U11 Sun Winter Div 3 Red",
-      "division": "Unknown Division",
-      "home_away": "home",
-      "opponent": "Kirkby Colts U11",
-      "goals_for": 2511,
-      "goals_against": 0
-    },
     {
       "id": "7b57e9a805ff34b01ced3a6c24c17188",
       "date": "2025-10-12",
@@ -78,21 +33,6 @@
       "opponent": "Ropsley Colts U11",
       "goals_for": 2,
       "goals_against": 5
-    },
-    {
-      "id": "b57b45a465a5cbda44a085253b0233ee",
-      "date": "2025-09-28",
-      "time": "11:00",
-      "home_team": "25/26 Rainworth Juniors U11",
-      "away_team": "Lowdham FC Rossoneri U11",
-      "home_score": 2511,
-      "away_score": 0,
-      "venue": "U11 Sun Winter Div 3 Red",
-      "division": "Unknown Division",
-      "home_away": "home",
-      "opponent": "Lowdham FC Rossoneri U11",
-      "goals_for": 2511,
-      "goals_against": 0
     },
     {
       "id": "887868a9d946b718780886a39afa5671",
@@ -130,14 +70,14 @@
       "time": "10:00",
       "home_team": "Lowdham FC Rossoneri U11",
       "away_team": "25/26 Rainworth Juniors U11",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Sunday",
       "division": "Unknown Division",
       "home_away": "away",
       "opponent": "Lowdham FC Rossoneri U11",
-      "goals_for": 0,
-      "goals_against": 2510
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }

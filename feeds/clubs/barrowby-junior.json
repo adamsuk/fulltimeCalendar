@@ -1,6 +1,6 @@
 {
   "club": "Barrowby Junior",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "c0e42fb69c5cd44acd890c693e71a7d0",
@@ -176,23 +176,6 @@
       "goals_against": 5
     },
     {
-      "id": "6f14a66847de4e3a5c5467c66771cec5",
-      "date": "2026-03-01",
-      "time": "12:30",
-      "home_team": "Barrowby Junior Greens U14",
-      "away_team": "Clipstone WC Dynamo U14",
-      "home_score": 2612,
-      "away_score": 30,
-      "venue": "U14 Sun Spring Div 3 Red",
-      "division": "Unknown Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Barrowby Junior Greens U14",
-      "home_away": "home",
-      "opponent": "Clipstone WC Dynamo U14",
-      "goals_for": 2612,
-      "goals_against": 30
-    },
-    {
       "id": "f5b9027457b7d9eb8c9aba43f61f9ea9",
       "date": "2026-03-01",
       "time": "11:00",
@@ -361,23 +344,6 @@
       "opponent": "DLFC SFK U13",
       "goals_for": 4,
       "goals_against": 3
-    },
-    {
-      "id": "c4070c8420467f666c27b49c3757802c",
-      "date": "2026-01-25",
-      "time": "11:00",
-      "home_team": "Barrowby Junior Green U13",
-      "away_team": "Pegasus FC U13",
-      "home_score": 2611,
-      "away_score": 0,
-      "venue": "U13 Sun Spring Div 5 Silver",
-      "division": "Unknown Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Barrowby Junior Green U13",
-      "home_away": "home",
-      "opponent": "Pegasus FC U13",
-      "goals_for": 2611,
-      "goals_against": 0
     },
     {
       "id": "f4695fa7f78c504e0f98ca3a342544d7",
@@ -720,23 +686,6 @@
       "goals_against": 2
     },
     {
-      "id": "bc3b71862c607a40d3aa759f58308514",
-      "date": "2025-11-09",
-      "time": "11:00",
-      "home_team": "Barrowby Junior Black U13",
-      "away_team": "South Normanton Ath Blue U13",
-      "home_score": 2511,
-      "away_score": 0,
-      "venue": "U13 Sun Winter Div 6",
-      "division": "Unknown Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Barrowby Junior Black U13",
-      "home_away": "home",
-      "opponent": "South Normanton Ath Blue U13",
-      "goals_for": 2511,
-      "goals_against": 0
-    },
-    {
       "id": "ce752c3fab18e74f473e6c4f201e8720",
       "date": "2025-11-09",
       "time": "11:00",
@@ -1060,23 +1009,6 @@
       "goals_against": 3
     },
     {
-      "id": "22c892701ff56d46c5a6e4716fd11c2d",
-      "date": "2025-09-14",
-      "time": "11:00",
-      "home_team": "Ernehale Colts U14",
-      "away_team": "Barrowby Junior Greens U14",
-      "home_score": 2511,
-      "away_score": 0,
-      "venue": "U14 Sun Winter Div 3 Red",
-      "division": "Unknown Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Barrowby Junior Greens U14",
-      "home_away": "away",
-      "opponent": "Ernehale Colts U14",
-      "goals_for": 0,
-      "goals_against": 2511
-    },
-    {
       "id": "871fb95da3830a7f30a63ea6a4a2fec8",
       "date": "2025-09-14",
       "time": "10:00",
@@ -1167,16 +1099,16 @@
       "time": "10:00",
       "home_team": "Barrowby Junior Green U11",
       "away_team": "Calverton MW White U11",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Sunday",
       "division": "Unknown Division",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Barrowby Junior Green U11",
       "home_away": "home",
       "opponent": "Calverton MW White U11",
-      "goals_for": 2510,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "team": "Lowdham FC Blue U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "e0c6090c6e911f45409ff88c4bf1779c",
@@ -149,29 +149,14 @@
       "time": "11:00",
       "home_team": "Lowdham FC Blue U11",
       "away_team": "Basford CFC Storm U11",
-      "home_score": 2511,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "home",
       "opponent": "Basford CFC Storm U11",
-      "goals_for": 2511,
-      "goals_against": 0
-    },
-    {
-      "id": "5844aaf2369fb20dd41b56504c3bd73a",
-      "date": "2025-11-15",
-      "time": "11:00",
-      "home_team": "Lowdham FC Blue U11",
-      "away_team": "Ilkeston Town Valens U11",
-      "home_score": 2511,
-      "away_score": 0,
-      "venue": "U11 Sat Winter Premier Division",
-      "division": "Unknown Division",
-      "home_away": "home",
-      "opponent": "Ilkeston Town Valens U11",
-      "goals_for": 2511,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "765389341d87a3d3de09bea34a4b09c3",
@@ -269,14 +254,14 @@
       "time": "11:00",
       "home_team": "Silva FC Rushcliffe Red U11",
       "away_team": "Lowdham FC Blue U11",
-      "home_score": 2511,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "away",
       "opponent": "Silva FC Rushcliffe Red U11",
-      "goals_for": 0,
-      "goals_against": 2511
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }

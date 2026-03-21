@@ -1,7 +1,7 @@
 {
   "team": "Toton Tornados Typhoons U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-21T15:54:07Z",
+  "generated": "2026-03-21T16:34:12Z",
   "fixtures": [
     {
       "id": "a15b1eebccf5875296c87b297eb1c349",
@@ -88,21 +88,6 @@
       "goals_against": 10
     },
     {
-      "id": "e6aa524037089ddf74e40f579132fe66",
-      "date": "2026-01-03",
-      "time": "11:30",
-      "home_team": "Ilkeston Town Milan U11",
-      "away_team": "Toton Tornados Typhoons U11",
-      "home_score": 2611,
-      "away_score": 30,
-      "venue": "U11 Sat Winter Div 4 Blue",
-      "division": "Unknown Division",
-      "home_away": "away",
-      "opponent": "Ilkeston Town Milan U11",
-      "goals_for": 30,
-      "goals_against": 2611
-    },
-    {
       "id": "8a99c10325a0d75fb5d4b4d3ece6a953",
       "date": "2025-11-29",
       "time": "11:00",
@@ -153,14 +138,14 @@
       "time": "11:00",
       "home_team": "Toton Tornados Typhoons U11",
       "away_team": "Long Eaton United Orange U11",
-      "home_score": 2511,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "home",
       "opponent": "Long Eaton United Orange U11",
-      "goals_for": 2511,
-      "goals_against": 0
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "e9f80590d66917f0ea4e3d208c8d9b83",
@@ -228,14 +213,14 @@
       "time": "10:00",
       "home_team": "Borrowash Youth Rams U11",
       "away_team": "Toton Tornados Typhoons U11",
-      "home_score": 2510,
-      "away_score": 0,
+      "home_score": null,
+      "away_score": null,
       "venue": "U11 Saturday",
       "division": "Unknown Division",
       "home_away": "away",
       "opponent": "Borrowash Youth Rams U11",
-      "goals_for": 0,
-      "goals_against": 2510
+      "goals_for": null,
+      "goals_against": null
     }
   ]
 }
