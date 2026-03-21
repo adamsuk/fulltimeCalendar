@@ -1,6 +1,6 @@
 {
   "club": "East Leake",
-  "generated": "2026-03-21T16:42:02Z",
+  "generated": "2026-03-21T16:52:30Z",
   "fixtures": [
     {
       "id": "91fbc5b344358d7cba21ca77b21fc721",
@@ -1395,11 +1395,11 @@
       "goals_against": 5
     },
     {
-      "id": "36b9d1cbd8e3cbe3e799339fc03b0074",
+      "id": "a7e2cd449ab13c8dbdf59129e0625196",
       "date": "2026-03-08",
       "time": "10:00",
       "home_team": "East Leake Bantams Orange U11",
-      "away_team": "25/26 East Leake Bantams White U11",
+      "away_team": "East Leake Bantams White U11",
       "home_score": null,
       "away_score": null,
       "venue": "U11 Sunday",
@@ -1407,7 +1407,7 @@
       "league": "YEL East Midlands Sunday 25/26",
       "team": "East Leake Bantams Orange U11",
       "home_away": "home",
-      "opponent": "25/26 East Leake Bantams White U11",
+      "opponent": "East Leake Bantams White U11",
       "goals_for": null,
       "goals_against": null
     },
@@ -1512,6 +1512,23 @@
       "opponent": "Castle Donington Hawks U9",
       "goals_for": 3,
       "goals_against": 2
+    },
+    {
+      "id": "a7e2cd449ab13c8dbdf59129e0625196",
+      "date": "2026-03-08",
+      "time": "10:00",
+      "home_team": "East Leake Bantams Orange U11",
+      "away_team": "East Leake Bantams White U11",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U11 Sunday",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "East Leake Bantams White U11",
+      "home_away": "away",
+      "opponent": "East Leake Bantams Orange U11",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "d1a647b22134226fb735161bae7974fa",
@@ -1973,10 +1990,10 @@
       "goals_against": null
     },
     {
-      "id": "f1071a502a5fb6799bd63f6265c861d9",
+      "id": "660db366b29b758bfcb7ffc5fdff51e4",
       "date": "2026-02-15",
       "time": "11:00",
-      "home_team": "25/26 Riverside Junior Blue U14",
+      "home_team": "Riverside Junior Blue U14",
       "away_team": "East Leake Bantams Orange U14",
       "home_score": 4,
       "away_score": 2,
@@ -1985,7 +2002,7 @@
       "league": "YEL East Midlands Sunday 25/26",
       "team": "East Leake Bantams Orange U14",
       "home_away": "away",
-      "opponent": "25/26 Riverside Junior Blue U14",
+      "opponent": "Riverside Junior Blue U14",
       "goals_for": 2,
       "goals_against": 4
     },
@@ -3061,6 +3078,23 @@
       "goals_against": 1
     },
     {
+      "id": "4c508d146b947111cb5a25070f9f0196",
+      "date": "2025-12-14",
+      "time": "11:00",
+      "home_team": "East Leake Bantams White U11",
+      "away_team": "Arnold Town Blue U11",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U11 Sunday",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "East Leake Bantams White U11",
+      "home_away": "home",
+      "opponent": "Arnold Town Blue U11",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "5160a24e9aca6412fbc42ac644161a14",
       "date": "2025-12-14",
       "time": "10:30",
@@ -3297,6 +3331,23 @@
       "opponent": "Cotgrave FC Blue U10",
       "goals_for": 2,
       "goals_against": 7
+    },
+    {
+      "id": "323e745687428d01f5548877eab24591",
+      "date": "2025-12-07",
+      "time": "11:00",
+      "home_team": "East Leake Bantams White U11",
+      "away_team": "Burton Joyce Blue U11",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "U11 Sun YEL Challenge Trophy",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "East Leake Bantams White U11",
+      "home_away": "home",
+      "opponent": "Burton Joyce Blue U11",
+      "goals_for": 1,
+      "goals_against": 5
     },
     {
       "id": "1a2410296c2f628c5ba7849b82d09f6f",
@@ -4268,6 +4319,23 @@
       "goals_against": 0
     },
     {
+      "id": "77a557393e77f20e745c8f7c57110e4a",
+      "date": "2025-11-09",
+      "time": "11:00",
+      "home_team": "East Leake Bantams White U11",
+      "away_team": "Ruddington Village Black U11",
+      "home_score": 0,
+      "away_score": 6,
+      "venue": "U11 Sun Winter Div 4 Blue",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "East Leake Bantams White U11",
+      "home_away": "home",
+      "opponent": "Ruddington Village Black U11",
+      "goals_for": 0,
+      "goals_against": 6
+    },
+    {
       "id": "764e11f44781a09bae39e7e605d1e906",
       "date": "2025-11-09",
       "time": "11:00",
@@ -4982,6 +5050,23 @@
       "goals_against": 2
     },
     {
+      "id": "1d93e34bcd1e8a54adf8ac0e951bd896",
+      "date": "2025-10-12",
+      "time": "09:15",
+      "home_team": "WBYFC Inter U11",
+      "away_team": "East Leake Bantams White U11",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "U11 Sun Winter Div 4 Blue",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "East Leake Bantams White U11",
+      "home_away": "away",
+      "opponent": "WBYFC Inter U11",
+      "goals_for": 1,
+      "goals_against": 6
+    },
+    {
       "id": "40c6cfaa1e842449b7f85579dcb48f5a",
       "date": "2025-10-11",
       "time": "10:30",
@@ -5271,10 +5356,10 @@
       "goals_against": null
     },
     {
-      "id": "c2d6fcb74c36035020ab42216a714e24",
+      "id": "ff19cecc912a30353998017dff576b29",
       "date": "2025-10-05",
       "time": "09:45",
-      "home_team": "25/26 East Leake Bantams White U11",
+      "home_team": "East Leake Bantams White U11",
       "away_team": "East Leake Bantams Black U11",
       "home_score": 2,
       "away_score": 9,
@@ -5283,7 +5368,7 @@
       "league": "YEL East Midlands Sunday 25/26",
       "team": "East Leake Bantams Black U11",
       "home_away": "away",
-      "opponent": "25/26 East Leake Bantams White U11",
+      "opponent": "East Leake Bantams White U11",
       "goals_for": 9,
       "goals_against": 2
     },
@@ -5303,6 +5388,23 @@
       "opponent": "Silva FC Rushcliffe Yellow U10",
       "goals_for": 4,
       "goals_against": 4
+    },
+    {
+      "id": "ff19cecc912a30353998017dff576b29",
+      "date": "2025-10-05",
+      "time": "09:45",
+      "home_team": "East Leake Bantams White U11",
+      "away_team": "East Leake Bantams Black U11",
+      "home_score": 2,
+      "away_score": 9,
+      "venue": "U11 Sun Winter Div 4 Blue",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "East Leake Bantams White U11",
+      "home_away": "home",
+      "opponent": "East Leake Bantams Black U11",
+      "goals_for": 2,
+      "goals_against": 9
     },
     {
       "id": "ec1810ff4d02468c3fe51d4d64f24855",
@@ -5354,6 +5456,23 @@
       "opponent": "Keyworth United Cyan U13",
       "goals_for": 4,
       "goals_against": 0
+    },
+    {
+      "id": "88ef93b58225b29383cd1df5075f592b",
+      "date": "2025-09-28",
+      "time": "11:30",
+      "home_team": "East Leake Bantams White U11",
+      "away_team": "Moorgreen Colts Blue U11",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U11 Sunday",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "East Leake Bantams White U11",
+      "home_away": "home",
+      "opponent": "Moorgreen Colts Blue U11",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "794e64da59a94636a6a6cd485692e88d",
@@ -5711,6 +5830,23 @@
       "opponent": "Nottingham FC Green U13",
       "goals_for": 2,
       "goals_against": 3
+    },
+    {
+      "id": "c14219ab8e0f18079f10e115f8522cde",
+      "date": "2025-09-21",
+      "time": "11:00",
+      "home_team": "East Leake Bantams White U11",
+      "away_team": "Attenborough Colts Yellow U11",
+      "home_score": 0,
+      "away_score": 9,
+      "venue": "U11 Sun Winter Div 4 Blue",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "East Leake Bantams White U11",
+      "home_away": "home",
+      "opponent": "Attenborough Colts Yellow U11",
+      "goals_for": 0,
+      "goals_against": 9
     },
     {
       "id": "f522c2956914a4a2f454a333ea3ca6b2",
@@ -6359,6 +6495,23 @@
       "goals_against": null
     },
     {
+      "id": "1bc2a1f3ac5fac628e1c5d78102a3c1a",
+      "date": "2025-09-14",
+      "time": "09:00",
+      "home_team": "Long Eaton United Red U11",
+      "away_team": "East Leake Bantams White U11",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "U11 Sun Winter Div 4 Blue",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "East Leake Bantams White U11",
+      "home_away": "away",
+      "opponent": "Long Eaton United Red U11",
+      "goals_for": 0,
+      "goals_against": 6
+    },
+    {
       "id": "bf011d548a941c5cb07fe034c8c92478",
       "date": "2025-09-13",
       "time": "11:00",
@@ -6646,6 +6799,23 @@
       "opponent": "WBYFC Atlantis U13",
       "goals_for": 6,
       "goals_against": 4
+    },
+    {
+      "id": "0d3de5ba73ae5d828e0ad569c3a2849d",
+      "date": "2025-09-07",
+      "time": "10:00",
+      "home_team": "East Leake Bantams White U11",
+      "away_team": "Gedling Southbank Titans U11",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U11 Sunday",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "East Leake Bantams White U11",
+      "home_away": "home",
+      "opponent": "Gedling Southbank Titans U11",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "58ab1c0c43602f62377a9a2c54b5934d",

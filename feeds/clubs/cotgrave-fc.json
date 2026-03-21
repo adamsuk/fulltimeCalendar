@@ -1,6 +1,6 @@
 {
   "club": "Cotgrave FC",
-  "generated": "2026-03-21T16:42:02Z",
+  "generated": "2026-03-21T16:52:30Z",
   "fixtures": [
     {
       "id": "7f878d7d42a1bfe33be2bb2bab1f1416",
@@ -4108,6 +4108,23 @@
       "goals_against": 1
     },
     {
+      "id": "c43e4e315cc5632b1e80847f7a7ea3b3",
+      "date": "2025-11-09",
+      "time": "10:30",
+      "home_team": "Cotgrave FC White U13",
+      "away_team": "Bottesford White U13",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "U13 Sun Winter Div 1 Silver",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Cotgrave FC White U13",
+      "home_away": "home",
+      "opponent": "Bottesford White U13",
+      "goals_for": 0,
+      "goals_against": 5
+    },
+    {
       "id": "33797f76861840da2db8e1a2e3db054f",
       "date": "2025-11-09",
       "time": "10:00",
@@ -4618,6 +4635,23 @@
       "goals_against": 0
     },
     {
+      "id": "cb740ed2d2c4f63e75830e9f3a653730",
+      "date": "2025-10-12",
+      "time": "10:30",
+      "home_team": "Cotgrave FC White U13",
+      "away_team": "PMG Excel U13",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "U13 Sun Winter Div 1 Silver",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Cotgrave FC White U13",
+      "home_away": "home",
+      "opponent": "PMG Excel U13",
+      "goals_for": 0,
+      "goals_against": 5
+    },
+    {
       "id": "958be2df73b01d492aa4133e55f3d6ce",
       "date": "2025-10-12",
       "time": "10:00",
@@ -4941,6 +4975,23 @@
       "goals_against": 0
     },
     {
+      "id": "9a719d0f0a7e2e7bb56fe8f80d6d0f48",
+      "date": "2025-10-05",
+      "time": "11:00",
+      "home_team": "Pelican Colts Blue U13",
+      "away_team": "Cotgrave FC White U13",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "U13 Sun Winter Div 1 Silver",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Cotgrave FC White U13",
+      "home_away": "away",
+      "opponent": "Pelican Colts Blue U13",
+      "goals_for": 3,
+      "goals_against": 3
+    },
+    {
       "id": "9051e15a0c73210de1194667c03f854c",
       "date": "2025-10-05",
       "time": "10:15",
@@ -5213,6 +5264,23 @@
       "goals_against": null
     },
     {
+      "id": "e05a2b2c7a44e03506f61fbf57da5f83",
+      "date": "2025-09-28",
+      "time": "11:00",
+      "home_team": "Cotgrave FC White U13",
+      "away_team": "Breaston Park Black U13",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "U13 Sun Winter Div 1 Silver",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Cotgrave FC White U13",
+      "home_away": "home",
+      "opponent": "Breaston Park Black U13",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
       "id": "307f32979b9f4c7231527e30f289acf3",
       "date": "2025-09-28",
       "time": "10:00",
@@ -5383,10 +5451,10 @@
       "goals_against": 1
     },
     {
-      "id": "a41fec9869610a0ad230268ac7d1d378",
+      "id": "be0f79edb7a78d125911eb911edb6f76",
       "date": "2025-09-27",
       "time": "10:00",
-      "home_team": "25/26 NG United U13",
+      "home_team": "NG United U13",
       "away_team": "Cotgrave FC Blue U13",
       "home_score": 1,
       "away_score": 7,
@@ -5395,7 +5463,7 @@
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Cotgrave FC Blue U13",
       "home_away": "away",
-      "opponent": "25/26 NG United U13",
+      "opponent": "NG United U13",
       "goals_for": 7,
       "goals_against": 1
     },
@@ -5653,6 +5721,23 @@
       "opponent": "Notts County Women U10 ^",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "c02e3df354639c06174c30ad213ef3b1",
+      "date": "2025-09-21",
+      "time": "10:00",
+      "home_team": "Silva FC Carlton Blue U13",
+      "away_team": "Cotgrave FC White U13",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "U13 Sun Winter Div 1 Silver",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Cotgrave FC White U13",
+      "home_away": "away",
+      "opponent": "Silva FC Carlton Blue U13",
+      "goals_for": 2,
+      "goals_against": 2
     },
     {
       "id": "6ef9e39c8dec0a4678a76bef6fc356ec",
@@ -6010,6 +6095,23 @@
       "opponent": "WBYFC Rosario U10",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "de63fb7a661880fbec3a4db827ad5c65",
+      "date": "2025-09-14",
+      "time": "10:00",
+      "home_team": "Cotgrave FC White U13",
+      "away_team": "Aspire U13",
+      "home_score": 2,
+      "away_score": 7,
+      "venue": "U13 Sun Winter Div 1 Silver",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Cotgrave FC White U13",
+      "home_away": "home",
+      "opponent": "Aspire U13",
+      "goals_for": 2,
+      "goals_against": 7
     },
     {
       "id": "f9751dae79629a5b4e287d577447c6f0",

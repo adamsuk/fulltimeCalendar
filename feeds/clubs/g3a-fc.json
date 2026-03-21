@@ -1,6 +1,6 @@
 {
   "club": "G3A FC",
-  "generated": "2026-03-21T16:42:02Z",
+  "generated": "2026-03-21T16:52:30Z",
   "fixtures": [
     {
       "id": "6d6eb873d751d22f50ac6b544e6bae38",
@@ -1980,6 +1980,23 @@
       "goals_against": 7
     },
     {
+      "id": "02823131a7f9fbbd5a2e4583af20309c",
+      "date": "2025-12-13",
+      "time": "11:00",
+      "home_team": "G3A FC Juve U13",
+      "away_team": "Market Warsop Colts U13",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "U13 Sat YEL Shield",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "G3A FC Juve U13",
+      "home_away": "home",
+      "opponent": "Market Warsop Colts U13",
+      "goals_for": 2,
+      "goals_against": 5
+    },
+    {
       "id": "2dc8d54ef566b9adcda85c6b0c0743ec",
       "date": "2025-12-13",
       "time": "10:00",
@@ -2558,6 +2575,23 @@
       "goals_against": 5
     },
     {
+      "id": "80e90b35f4af357825918627efc62496",
+      "date": "2025-11-15",
+      "time": "11:00",
+      "home_team": "G3A FC Juve U13",
+      "away_team": "Willow Wanderers Wolves U13",
+      "home_score": 0,
+      "away_score": 6,
+      "venue": "U13 Sat Winter Div 2 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "G3A FC Juve U13",
+      "home_away": "home",
+      "opponent": "Willow Wanderers Wolves U13",
+      "goals_for": 0,
+      "goals_against": 6
+    },
+    {
       "id": "5e437dd23e3153d02551dc1449bff5ee",
       "date": "2025-11-15",
       "time": "10:00",
@@ -2743,6 +2777,23 @@
       "opponent": "Silva FC Rushcliffe Reds U13",
       "goals_for": 4,
       "goals_against": 7
+    },
+    {
+      "id": "dd832b0dd1ea0eb98a72b0431eec6e6c",
+      "date": "2025-11-08",
+      "time": "11:00",
+      "home_team": "FC Cavaliers U13",
+      "away_team": "G3A FC Juve U13",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "U13 Sat Winter Div 2 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "G3A FC Juve U13",
+      "home_away": "away",
+      "opponent": "FC Cavaliers U13",
+      "goals_for": 3,
+      "goals_against": 0
     },
     {
       "id": "5432421a3b604f5f7469fb0e0f4f39e5",
@@ -3000,10 +3051,10 @@
       "goals_against": 4
     },
     {
-      "id": "62b941da07498a052f496535bf6d7f96",
+      "id": "7cddafe8d8cd8d067e82413a369eab39",
       "date": "2025-10-11",
       "time": "11:00",
-      "home_team": "25/26 G3A FC Juve U13",
+      "home_team": "G3A FC Juve U13",
       "away_team": "G3A FC Benfica U13",
       "home_score": 2,
       "away_score": 5,
@@ -3012,9 +3063,26 @@
       "league": "YEL East Midlands Saturday 25/26",
       "team": "G3A FC Benfica U13",
       "home_away": "away",
-      "opponent": "25/26 G3A FC Juve U13",
+      "opponent": "G3A FC Juve U13",
       "goals_for": 5,
       "goals_against": 2
+    },
+    {
+      "id": "7cddafe8d8cd8d067e82413a369eab39",
+      "date": "2025-10-11",
+      "time": "11:00",
+      "home_team": "G3A FC Juve U13",
+      "away_team": "G3A FC Benfica U13",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "U13 Sat Winter Div 2 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "G3A FC Juve U13",
+      "home_away": "home",
+      "opponent": "G3A FC Benfica U13",
+      "goals_for": 2,
+      "goals_against": 5
     },
     {
       "id": "6eedbbd9fe5608332f042a7878e62230",
@@ -3374,6 +3442,23 @@
       "goals_against": 2
     },
     {
+      "id": "8ce3b8a79df3ca1c3dea283cde76f3c7",
+      "date": "2025-09-27",
+      "time": "11:00",
+      "home_team": "South Normanton Athletic U13",
+      "away_team": "G3A FC Juve U13",
+      "home_score": 7,
+      "away_score": 2,
+      "venue": "U13 Sat Winter Div 2 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "G3A FC Juve U13",
+      "home_away": "away",
+      "opponent": "South Normanton Athletic U13",
+      "goals_for": 2,
+      "goals_against": 7
+    },
+    {
       "id": "4cd9bb291b2a598207af63f6eeac7edd",
       "date": "2025-09-27",
       "time": "11:00",
@@ -3680,11 +3765,11 @@
       "goals_against": 3
     },
     {
-      "id": "3beb2ffadfaecdcdb0e5a2eb29b2ef0f",
+      "id": "2cabcbafc21f09c25036147d504222d9",
       "date": "2025-09-14",
       "time": "11:00",
       "home_team": "G3A FC Boca U13",
-      "away_team": "25/26 Alfreton Town Tornados U13",
+      "away_team": "Alfreton Town Tornados U13",
       "home_score": 6,
       "away_score": 1,
       "venue": "U13 Sun Winter Div 1 Gold",
@@ -3692,7 +3777,7 @@
       "league": "YEL East Midlands Sunday 25/26",
       "team": "G3A FC Boca U13",
       "home_away": "home",
-      "opponent": "25/26 Alfreton Town Tornados U13",
+      "opponent": "Alfreton Town Tornados U13",
       "goals_for": 6,
       "goals_against": 1
     },
@@ -3814,6 +3899,23 @@
       "opponent": "PFA U13",
       "goals_for": 1,
       "goals_against": 8
+    },
+    {
+      "id": "b832a366dc3ddedc1a23c4d2eb414e9a",
+      "date": "2025-09-13",
+      "time": "10:15",
+      "home_team": "Quarrydale United U13",
+      "away_team": "G3A FC Juve U13",
+      "home_score": 4,
+      "away_score": 4,
+      "venue": "U13 Sat Winter Div 2 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "G3A FC Juve U13",
+      "home_away": "away",
+      "opponent": "Quarrydale United U13",
+      "goals_for": 4,
+      "goals_against": 4
     },
     {
       "id": "8d601b4bd3b5815bc31e81a37be85f62",

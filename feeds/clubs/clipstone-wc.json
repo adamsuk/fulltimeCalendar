@@ -1,6 +1,6 @@
 {
   "club": "Clipstone WC",
-  "generated": "2026-03-21T16:42:02Z",
+  "generated": "2026-03-21T16:52:30Z",
   "fixtures": [
     {
       "id": "5fc115b1847794da62aa47c982700f3a",
@@ -257,11 +257,11 @@
       "goals_against": 3
     },
     {
-      "id": "6d5a4a6669f3600336d60afa73d15f57",
+      "id": "3d330925a1d26db730edcb8886b91256",
       "date": "2025-12-07",
       "time": "11:00",
       "home_team": "Clipstone WC Lazio U14",
-      "away_team": "25/26 Riverside Junior Blue U14",
+      "away_team": "Riverside Junior Blue U14",
       "home_score": 0,
       "away_score": 9,
       "venue": "U14 Sun YEL Shield",
@@ -269,9 +269,43 @@
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Clipstone WC Lazio U14",
       "home_away": "home",
-      "opponent": "25/26 Riverside Junior Blue U14",
+      "opponent": "Riverside Junior Blue U14",
       "goals_for": 0,
       "goals_against": 9
+    },
+    {
+      "id": "1d2bbbbb921279dd552a46551090e71f",
+      "date": "2025-12-07",
+      "time": "11:00",
+      "home_team": "Meden Vale Colts Gold U13",
+      "away_team": "Clipstone WC Valencia U13",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "U13 Sun YEL Shield",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Clipstone WC Valencia U13",
+      "home_away": "away",
+      "opponent": "Meden Vale Colts Gold U13",
+      "goals_for": 1,
+      "goals_against": 6
+    },
+    {
+      "id": "8efffd9a980bd1748c8e7dc3ea74116d",
+      "date": "2025-11-30",
+      "time": "10:00",
+      "home_team": "Ashfield Athletic U13",
+      "away_team": "Clipstone WC Valencia U13",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "U13 Sun Winter Div 3 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Clipstone WC Valencia U13",
+      "home_away": "away",
+      "opponent": "Ashfield Athletic U13",
+      "goals_for": 4,
+      "goals_against": 3
     },
     {
       "id": "c828e7aebd5fae8b4a006f29e025b17c",
@@ -288,6 +322,40 @@
       "home_away": "home",
       "opponent": "Mansfield Athletic Blue U14",
       "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "88dc84f477d283d7995ddb464bce3e82",
+      "date": "2025-11-16",
+      "time": "11:45",
+      "home_team": "Gedling Southbank White U13",
+      "away_team": "Clipstone WC Valencia U13",
+      "home_score": 4,
+      "away_score": 9,
+      "venue": "U13 Sun Winter Div 3 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Clipstone WC Valencia U13",
+      "home_away": "away",
+      "opponent": "Gedling Southbank White U13",
+      "goals_for": 9,
+      "goals_against": 4
+    },
+    {
+      "id": "9a6f3065fee74e16ef48079b2272eab0",
+      "date": "2025-11-09",
+      "time": "11:00",
+      "home_team": "Clipstone WC Valencia U13",
+      "away_team": "Shirebrook Rangers Blue U13",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "U13 Sun Winter Div 3 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Clipstone WC Valencia U13",
+      "home_away": "home",
+      "opponent": "Shirebrook Rangers Blue U13",
+      "goals_for": 4,
       "goals_against": 2
     },
     {
@@ -376,6 +444,23 @@
       "goals_against": 3
     },
     {
+      "id": "302d0eb8f94c19674620a5f53ef8cec1",
+      "date": "2025-10-05",
+      "time": "10:00",
+      "home_team": "Lowdham FC Green U13",
+      "away_team": "Clipstone WC Valencia U13",
+      "home_score": 6,
+      "away_score": 6,
+      "venue": "U13 Sun Winter Div 3 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Clipstone WC Valencia U13",
+      "home_away": "away",
+      "opponent": "Lowdham FC Green U13",
+      "goals_for": 6,
+      "goals_against": 6
+    },
+    {
       "id": "076293091c7286cdf02f90674885d9c1",
       "date": "2025-09-28",
       "time": "11:00",
@@ -408,6 +493,23 @@
       "opponent": "Newark Town FC Saxons U14",
       "goals_for": 0,
       "goals_against": 3
+    },
+    {
+      "id": "50d0db82006248b6a56d2b86953801cf",
+      "date": "2025-09-28",
+      "time": "11:00",
+      "home_team": "Clipstone WC Valencia U13",
+      "away_team": "Arnold Town White U13",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "U13 Sun Winter Div 3 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Clipstone WC Valencia U13",
+      "home_away": "home",
+      "opponent": "Arnold Town White U13",
+      "goals_for": 1,
+      "goals_against": 5
     },
     {
       "id": "a351ed246e1fd9e31b1ee31f5a68d933",
@@ -461,6 +563,23 @@
       "goals_against": 3
     },
     {
+      "id": "ea5a834d7e3511c5a570ce0207a995ae",
+      "date": "2025-09-14",
+      "time": "11:00",
+      "home_team": "Clipstone WC Valencia U13",
+      "away_team": "Ashfield Athletic U13",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "U13 Sun Winter Div 3 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Clipstone WC Valencia U13",
+      "home_away": "home",
+      "opponent": "Ashfield Athletic U13",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
       "id": "7a5db5524b3b55dccb703970cd643794",
       "date": "2025-09-14",
       "time": "10:00",
@@ -509,6 +628,23 @@
       "home_away": "home",
       "opponent": "Mansfield Athletic Blue U14",
       "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "ad69997849994d0a5ae9d461d2311464",
+      "date": "2025-09-07",
+      "time": "11:00",
+      "home_team": "Arnold Town White U13",
+      "away_team": "Clipstone WC Valencia U13",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "U13 Sunday",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Clipstone WC Valencia U13",
+      "home_away": "away",
+      "opponent": "Arnold Town White U13",
+      "goals_for": 3,
       "goals_against": 2
     }
   ]
