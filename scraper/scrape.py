@@ -523,8 +523,15 @@ def _lxml_available() -> bool:
 
 
 def clean_team_name(name: str) -> str:
-    """Normalise team names for use as filenames and calendar titles."""
-    return re.sub(r"\s+", " ", name).strip()
+    """Normalise team names for use as filenames and calendar titles.
+
+    Strips trailing season suffixes like ' 25-26' or ' 2025-26' that the
+    Full-Time results feed sometimes appends but the fixtures feed omits,
+    which would otherwise create separate JSON files for the same team.
+    """
+    name = re.sub(r"\s+", " ", name).strip()
+    name = re.sub(r"\s+\d{2,4}-\d{2,4}$", "", name)
+    return name
 
 
 def slug(name: str) -> str:
