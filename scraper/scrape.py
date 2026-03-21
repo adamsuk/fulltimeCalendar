@@ -110,11 +110,65 @@ def fetch_fixtures(season_id: str, league_name: str) -> list[Fixture]:
     return parse_fixtures(_fetch_page(url, f"fixtures/{league_name}"))
 
 
+def _fetch_page_js(url: str, label: str) -> str:
+    """Fetch a JavaScript-rendered page using Playwright (headless Chromium).
+
+    Waits for the results table to appear (up to 20 s) before returning the
+    fully-rendered HTML.  Falls back to an empty string on any error so that
+    callers can degrade gracefully.
+    """
+    try:
+        from playwright.sync_api import sync_playwright, TimeoutError as PWTimeoutError
+    except ImportError:
+        log.error("playwright not installed — cannot fetch JS-rendered results page")
+        return ""
+
+    proxy = os.environ.get("SOCKS_PROXY")
+    proxy_settings = None
+    if proxy:
+        # Playwright expects {"server": "socks5://host:port"}
+        proxy_settings = {"server": proxy}
+
+    last_err: Exception | None = None
+    for attempt in range(1, HTTP_RETRIES + 1):
+        try:
+            with sync_playwright() as pw:
+                browser = pw.chromium.launch(
+                    headless=True,
+                    proxy=proxy_settings,
+                )
+                try:
+                    page = browser.new_page()
+                    page.goto(url, wait_until="domcontentloaded", timeout=HTTP_TIMEOUT * 1000)
+                    # Wait for the results table to be populated by JS
+                    try:
+                        page.wait_for_selector("table", timeout=20_000)
+                    except PWTimeoutError:
+                        log.warning(f"{label}: timed out waiting for table — returning partial HTML")
+                    html = page.content()
+                finally:
+                    browser.close()
+            return html
+        except Exception as e:
+            last_err = e
+            if attempt < HTTP_RETRIES:
+                wait = HTTP_BACKOFF_FACTOR * (2 ** (attempt - 1))
+                log.warning(
+                    f"{label} attempt {attempt}/{HTTP_RETRIES} failed: {e} "
+                    f"— retrying in {wait}s"
+                )
+                time.sleep(wait)
+            else:
+                log.error(f"{label} all {HTTP_RETRIES} attempts failed: {e}")
+
+    return ""
+
+
 def fetch_results(season_id: str, league_name: str) -> list[Result]:
     """Fetch all results for a given season/league."""
     url = f"{RESULTS_URL}?selectedSeason={season_id}&selectedFixtureGroupKey="
     log.info(f"Fetching results for {league_name} ...")
-    html = _fetch_page(url, f"results/{league_name}")
+    html = _fetch_page_js(url, f"results/{league_name}")
     log.debug(f"Results page HTML (first 5000 chars):\n{html[:5000]}")
     return parse_results(html)
 
