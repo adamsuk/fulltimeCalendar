@@ -37,6 +37,7 @@ jobs:
       - name: Run scraper
         env:
           SOCKS_PROXY: socks5h://127.0.0.1:9050
+          DEBUG: "1"
         run: |
           # Clear old calendars and feeds so removed teams/leagues don't linger
           rm -rf calendars/ feeds/
