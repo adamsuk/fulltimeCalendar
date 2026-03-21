@@ -337,21 +337,28 @@ def parse_results(html: str) -> list[Result]:
     that also contains a road-team sibling, then extracts the score,
     date, venue, and division from that container.
     """
-    soup = BeautifulSoup(html, "html.parser")
-    results: list[Result] = []
+    # Use lxml if available — 10-50× faster than html.parser on large HTML.
+    parser = "lxml" if _lxml_available() else "html.parser"
+    log.info(f"  Parsing {len(html) // 1024}KB of results HTML with {parser} ...")
+    soup = BeautifulSoup(html, parser)
 
+    # Check whether home-team appears as a class or just as text/href
     home_cells = soup.find_all(True, class_="home-team")
+    log.info(f"  home-team class elements found: {len(home_cells)}")
     if not home_cells:
-        log.warning("No home-team elements found in results page — page structure may have changed.")
+        # Fallback: log what 'home-team' really is in this HTML so we can diagnose
+        idx = html.find("home-team")
+        if idx != -1:
+            log.warning(f"  'home-team' appears in raw HTML but NOT as a class. Context: ...{html[max(0,idx-80):idx+80]}...")
+        else:
+            log.warning("  'home-team' not found anywhere in HTML.")
         return []
 
-    if log.isEnabledFor(logging.DEBUG):
-        first = home_cells[0]
-        log.debug(
-            f"First home-team: <{first.name}> inside <{first.parent.name}>; "
-            f"row HTML sample: {str(first.parent)[:400]}"
-        )
+    # Log the structure of the first home-team element so we can see the layout
+    first = home_cells[0]
+    log.info(f"  First home-team: <{first.name}> parent=<{first.parent.name}> text={first.get_text(strip=True)!r}")
 
+    results: list[Result] = []
     seen: set[str] = set()
 
     for home_cell in home_cells:
@@ -412,7 +419,6 @@ def parse_results(html: str) -> list[Result]:
         if not date_str:
             continue
 
-        # Deduplicate: same match can appear in multiple ancestor walk steps
         key = f"{date_str}|{home}|{away}"
         if key in seen:
             continue
@@ -431,6 +437,14 @@ def parse_results(html: str) -> list[Result]:
 
     log.info(f"  Found {len(results)} results")
     return results
+
+
+def _lxml_available() -> bool:
+    try:
+        import lxml  # noqa: F401
+        return True
+    except ImportError:
+        return False
 
 
 def clean_team_name(name: str) -> str:
