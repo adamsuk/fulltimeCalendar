@@ -27,9 +27,10 @@ All feeds are published under `feeds/` and can be fetched as raw GitHub URLs. Th
 | File | Contents |
 |---|---|
 | `feeds/index.json` | All leagues, teams, and clubs with their slugs |
-| `feeds/<league>/fixtures.json` | Every fixture in a league, sorted by date/time |
-| `feeds/<league>/teams/<team>.json` | All fixtures for one team |
-| `feeds/clubs/<club>.json` | All fixtures for every team in a club, across leagues |
+| `feeds/<league>/fixtures.json` | Every upcoming fixture in a league, sorted by date/time |
+| `feeds/<league>/results.json` | Every result in a league, most recent first |
+| `feeds/<league>/teams/<team>.json` | Fixtures and results for one team |
+| `feeds/clubs/<club>.json` | Fixtures and results for every team in a club, across leagues |
 
 ### Club feeds
 
@@ -39,9 +40,9 @@ A club feed aggregates all teams belonging to the same club — including teams 
 - `Alfreton Town Cobras U11` + `Alfreton Town All Stars U13` → club `Alfreton Town`
 - `Attenborough Colts Black U10` + `Attenborough Colts Spartans U14` → club `Attenborough Colts`
 
-### Fixture object shape
+### Object shapes
 
-Every fixture in every feed contains:
+Fixture (in `fixtures.json` and `fixtures` arrays):
 
 ```json
 {
@@ -55,7 +56,23 @@ Every fixture in every feed contains:
 }
 ```
 
-Team and club feeds additionally include `league`, `team`, `home_away` (`"home"` or `"away"`), and `opponent`.
+Result (in `results.json` and `results` arrays):
+
+```json
+{
+  "id": "...",
+  "date": "2026-03-15",
+  "time": "10:00",
+  "home_team": "Arnold Town Blue U11",
+  "away_team": "Opponent FC U11",
+  "home_score": 3,
+  "away_score": 1,
+  "venue": "The Ground",
+  "division": "U11 Division 1"
+}
+```
+
+Team and club feeds additionally include `league`, `team`, `home_away` (`"home"` or `"away"`), `opponent`, and (results only) `goals_for` and `goals_against`.
 
 ### Using a feed on a static site
 
