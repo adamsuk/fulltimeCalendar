@@ -525,12 +525,16 @@ def _lxml_available() -> bool:
 def clean_team_name(name: str) -> str:
     """Normalise team names for use as filenames and calendar titles.
 
-    Strips trailing season suffixes like ' 25-26' or ' 2025-26' that the
-    Full-Time results feed sometimes appends but the fixtures feed omits,
-    which would otherwise create separate JSON files for the same team.
+    The Full-Time results feed sometimes prepends a season token like
+    '25/26 ' to team names while the fixtures feed omits it, which would
+    otherwise create separate JSON files for the same team.  Strip both
+    leading and trailing season tokens in NN/NN or NN-NN format.
     """
     name = re.sub(r"\s+", " ", name).strip()
-    name = re.sub(r"\s+\d{2,4}-\d{2,4}$", "", name)
+    # Leading: e.g. "25/26 Team Name" or "2025/26 Team Name"
+    name = re.sub(r"^\d{2,4}[/-]\d{2,4}\s+", "", name)
+    # Trailing: e.g. "Team Name 25-26" or "Team Name 2025/26"
+    name = re.sub(r"\s+\d{2,4}[/-]\d{2,4}$", "", name)
     return name
 
 
