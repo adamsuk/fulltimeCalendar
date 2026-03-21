@@ -126,8 +126,9 @@ def _fetch_page_js(url: str, label: str) -> str:
     proxy = os.environ.get("SOCKS_PROXY")
     proxy_settings = None
     if proxy:
-        # Playwright expects {"server": "socks5://host:port"}
-        proxy_settings = {"server": proxy}
+        # Playwright speaks socks5://, not the curl-style socks5h:// variant
+        server = proxy.replace("socks5h://", "socks5://")
+        proxy_settings = {"server": server}
 
     last_err: Exception | None = None
     for attempt in range(1, HTTP_RETRIES + 1):
