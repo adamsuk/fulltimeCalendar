@@ -525,16 +525,17 @@ def _lxml_available() -> bool:
 def clean_team_name(name: str) -> str:
     """Normalise team names for use as filenames and calendar titles.
 
-    The Full-Time results feed sometimes prepends a season token like
-    '25/26 ' to team names while the fixtures feed omits it, which would
-    otherwise create separate JSON files for the same team.  Strip both
-    leading and trailing season tokens in NN/NN or NN-NN format.
+    The Full-Time results feed sometimes prepends a season token to team
+    names while the fixtures feed omits it.  Strip all known variants so
+    both pages resolve to the same team name key:
+      - "(25/26) Team Name"  — parenthesised leading prefix
+      - "25/26 Team Name"    — bare leading prefix
+      - "Team Name 25-26"    — trailing suffix (hyphen or slash separator)
     """
     name = re.sub(r"\s+", " ", name).strip()
-    # Leading: e.g. "25/26 Team Name" or "2025/26 Team Name"
-    name = re.sub(r"^\d{2,4}[/-]\d{2,4}\s+", "", name)
-    # Trailing: e.g. "Team Name 25-26" or "Team Name 2025/26"
-    name = re.sub(r"\s+\d{2,4}[/-]\d{2,4}$", "", name)
+    name = re.sub(r"^\(\d{2,4}[/-]\d{2,4}\)\s*", "", name)  # (25/26) prefix
+    name = re.sub(r"^\d{2,4}[/-]\d{2,4}\s+", "", name)       # 25/26 prefix
+    name = re.sub(r"\s+\d{2,4}[/-]\d{2,4}$", "", name)        # trailing 25-26
     return name
 
 
@@ -759,17 +760,53 @@ def write_team_feed(
     out.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
+# Matches tokens that are purely punctuation/symbols (e.g. "&", "/").
+# A prefix must never end on one of these — it produces a bad club name.
+_PUNCT_ONLY_RE = re.compile(r"^[^a-zA-Z0-9]+$")
+
+# All-uppercase tokens of ≥ 4 characters are treated as standalone club
+# abbreviations (e.g. DLFC, ASFC, WBYFC).  Three-letter codes like AFC or
+# CFC are intentionally excluded because they act as generic prefixes shared
+# across many unrelated clubs (AFC Chellaston, AFC Warriors, …).
+_CLUB_ABBREV_RE = re.compile(r"^[A-Z]{4,}$")
+
+
+def _normalise_for_grouping(name: str) -> str:
+    """Return a normalised copy of a team name used only for club grouping.
+
+    Strips dots from uppercase-letter abbreviation patterns so that
+    punctuation variants of the same club resolve to the same prefix key
+    (e.g. 'A.C. United F.C.' and 'AC United FC' both become 'AC United FC').
+    The original name is never modified — this is purely for comparison.
+    """
+    return re.sub(r"([A-Z])\.", r"\1", name).strip()
+
+
 def infer_club_name(team_name: str, prefix_counts: dict[str, int]) -> str:
     """Return the inferred club name for a team using pre-computed prefix counts.
 
-    Algorithm: strip the age-group suffix (U7–U21), then find the *shortest*
-    word-prefix (≥ 2 words) that is shared by at least 2 teams.  Shortest-first
-    prevents over-splitting (e.g. 'Arnold Town Maroon' beats 'Arnold Town').
-    If no shared prefix exists, return the stripped name as-is (singleton club).
+    Algorithm:
+      1. Normalise the name (strip abbreviation dots) and strip age-group suffix.
+      2. Find the *shortest* word-prefix whose normalised form appears ≥ 2 times
+         in prefix_counts.  Shortest-first prevents over-splitting.
+      3. Skip any prefix that ends on a punctuation-only token (e.g. '&') —
+         those produce truncated club names like 'Allexton &'.
+      4. Allow a 1-word prefix only when that word is a ≥ 4-char all-caps
+         abbreviation (e.g. DLFC, ASFC) so abbreviation clubs are not split
+         by colour/squad suffix.
+      5. Fall back to the full stripped name for singletons.
+
+    The returned name is the normalised prefix form (e.g. 'AC United' rather
+    than 'A.C. United') for consistency across all teams in the club.
     """
-    stripped = re.sub(r"\s+U\d{1,2}$", "", team_name, flags=re.IGNORECASE).strip()
+    norm = _normalise_for_grouping(team_name)
+    stripped = re.sub(r"\s+U\d{1,2}$", "", norm, flags=re.IGNORECASE).strip()
     words = stripped.split()
-    for length in range(2, len(words) + 1):
+    for length in range(1, len(words) + 1):
+        if length == 1 and not _CLUB_ABBREV_RE.match(words[0]):
+            continue  # only allow bare single-word prefix for e.g. DLFC
+        if _PUNCT_ONLY_RE.match(words[length - 1]):
+            continue  # never end on "&" or similar
         prefix = " ".join(words[:length])
         if prefix_counts.get(prefix, 0) >= 2:
             return prefix
@@ -777,12 +814,21 @@ def infer_club_name(team_name: str, prefix_counts: dict[str, int]) -> str:
 
 
 def build_prefix_counts(team_names: list[str]) -> dict[str, int]:
-    """Count how many team names share each word-prefix (≥ 2 words, age group stripped)."""
+    """Count how many team names share each word-prefix (age group stripped).
+
+    Uses the same normalisation and filtering rules as infer_club_name so
+    that prefix keys are consistent between the two functions.
+    """
     counts: dict[str, int] = {}
     for name in team_names:
-        stripped = re.sub(r"\s+U\d{1,2}$", "", name, flags=re.IGNORECASE).strip()
+        norm = _normalise_for_grouping(name)
+        stripped = re.sub(r"\s+U\d{1,2}$", "", norm, flags=re.IGNORECASE).strip()
         words = stripped.split()
-        for length in range(2, len(words) + 1):
+        for length in range(1, len(words) + 1):
+            if length == 1 and not _CLUB_ABBREV_RE.match(words[0]):
+                continue
+            if _PUNCT_ONLY_RE.match(words[length - 1]):
+                continue
             prefix = " ".join(words[:length])
             counts[prefix] = counts.get(prefix, 0) + 1
     return counts
