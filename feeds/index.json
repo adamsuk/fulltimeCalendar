@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-22T06:37:55Z",
+  "generated": "2026-03-22T07:58:54Z",
   "leagues": [
     {
       "name": "YEL East Midlands Sunday 25/26",
@@ -2583,10 +2583,6 @@
       "name": "YEL East Midlands Saturday 25/26",
       "slug": "yel-east-midlands-saturday-25-26",
       "teams": [
-        {
-          "name": "(25/26) Ravenshead Reds U13",
-          "slug": "25-26-ravenshead-reds-u13"
-        },
         {
           "name": "A.C. United F.C. U13",
           "slug": "a-c-united-f-c-u13"
@@ -5212,6 +5208,10 @@
           "slug": "ravenshead-reds-u10"
         },
         {
+          "name": "Ravenshead Reds U13",
+          "slug": "ravenshead-reds-u13"
+        },
+        {
           "name": "Ravenshead Reds U14",
           "slug": "ravenshead-reds-u14"
         },
@@ -6316,25 +6316,12 @@
   ],
   "clubs": [
     {
-      "name": "(25/26) Ravenshead Reds",
-      "slug": "25-26-ravenshead-reds",
-      "teams": [
-        "(25/26) Ravenshead Reds U13"
-      ]
-    },
-    {
-      "name": "A.C. United",
-      "slug": "a-c-united",
-      "teams": [
-        "A.C. United F.C. U13",
-        "A.C. United U8",
-        "A.C. United U9"
-      ]
-    },
-    {
       "name": "AC United",
       "slug": "ac-united",
       "teams": [
+        "A.C. United F.C. U13",
+        "A.C. United U8",
+        "A.C. United U9",
         "AC United U10",
         "AC United U11"
       ]
@@ -6400,27 +6387,15 @@
       "name": "ASFC",
       "slug": "asfc",
       "teams": [
+        "ASFC Gold U12",
         "ASFC U12",
-        "ASFC U14"
-      ]
-    },
-    {
-      "name": "ASFC Gold",
-      "slug": "asfc-gold",
-      "teams": [
-        "ASFC Gold U12"
-      ]
-    },
-    {
-      "name": "ASFC Wolves",
-      "slug": "asfc-wolves",
-      "teams": [
+        "ASFC U14",
         "ASFC Wolves U10"
       ]
     },
     {
-      "name": "ATFA Brinsley",
-      "slug": "atfa-brinsley",
+      "name": "ATFA",
+      "slug": "atfa",
       "teams": [
         "ATFA Brinsley Ballers U9",
         "ATFA Brinsley Bullets U11",
@@ -6447,8 +6422,8 @@
       ]
     },
     {
-      "name": "Allexton &",
-      "slug": "allexton",
+      "name": "Allexton & New",
+      "slug": "allexton-new",
       "teams": [
         "Allexton & New Parks Junior U14",
         "Allexton & New Parks Magpies U12"
@@ -6525,8 +6500,8 @@
       ]
     },
     {
-      "name": "Aslockton &",
-      "slug": "aslockton",
+      "name": "Aslockton & Orston",
+      "slug": "aslockton-orston",
       "teams": [
         "Aslockton & Orston Black U13",
         "Aslockton & Orston Blue U10",
@@ -7140,181 +7115,61 @@
       ]
     },
     {
-      "name": "DLFC Barca",
-      "slug": "dlfc-barca",
+      "name": "DLFC",
+      "slug": "dlfc",
       "teams": [
-        "DLFC Barca U7"
-      ]
-    },
-    {
-      "name": "DLFC Black",
-      "slug": "dlfc-black",
-      "teams": [
+        "DLFC Barca U7",
         "DLFC Black U10",
         "DLFC Black U11",
         "DLFC Black U12",
         "DLFC Black U7",
         "DLFC Black U8",
-        "DLFC Black U9"
-      ]
-    },
-    {
-      "name": "DLFC Blue",
-      "slug": "dlfc-blue",
-      "teams": [
+        "DLFC Black U9",
         "DLFC Blue U11",
         "DLFC Blue U12",
         "DLFC Blue U14",
         "DLFC Blue U7",
         "DLFC Blue U8",
-        "DLFC Blue U9"
-      ]
-    },
-    {
-      "name": "DLFC Boca",
-      "slug": "dlfc-boca",
-      "teams": [
-        "DLFC Boca U8"
-      ]
-    },
-    {
-      "name": "DLFC Emerald",
-      "slug": "dlfc-emerald",
-      "teams": [
+        "DLFC Blue U9",
+        "DLFC Boca U8",
         "DLFC Emerald U10",
         "DLFC Emerald U7",
         "DLFC Emerald U8",
-        "DLFC Emerald U9"
-      ]
-    },
-    {
-      "name": "DLFC Gold",
-      "slug": "dlfc-gold",
-      "teams": [
+        "DLFC Emerald U9",
         "DLFC Gold U10",
         "DLFC Gold U14",
-        "DLFC Gold U8"
-      ]
-    },
-    {
-      "name": "DLFC Green",
-      "slug": "dlfc-green",
-      "teams": [
+        "DLFC Gold U8",
         "DLFC Green U11",
         "DLFC Green U8",
-        "DLFC Green U9"
-      ]
-    },
-    {
-      "name": "DLFC Grey",
-      "slug": "dlfc-grey",
-      "teams": [
+        "DLFC Green U9",
         "DLFC Grey U10",
         "DLFC Grey U11",
         "DLFC Grey U14",
-        "DLFC Grey U9"
-      ]
-    },
-    {
-      "name": "DLFC Lions",
-      "slug": "dlfc-lions",
-      "teams": [
-        "DLFC Lions U9"
-      ]
-    },
-    {
-      "name": "DLFC Madrid",
-      "slug": "dlfc-madrid",
-      "teams": [
-        "DLFC Madrid U7"
-      ]
-    },
-    {
-      "name": "DLFC Orange",
-      "slug": "dlfc-orange",
-      "teams": [
+        "DLFC Grey U9",
+        "DLFC Lions U9",
+        "DLFC Madrid U7",
         "DLFC Orange U11",
         "DLFC Orange U13",
         "DLFC Orange U14",
         "DLFC Orange U7",
-        "DLFC Orange U9"
-      ]
-    },
-    {
-      "name": "DLFC Pink",
-      "slug": "dlfc-pink",
-      "teams": [
-        "DLFC Pink U11"
-      ]
-    },
-    {
-      "name": "DLFC Purple",
-      "slug": "dlfc-purple",
-      "teams": [
+        "DLFC Orange U9",
+        "DLFC Pink U11",
         "DLFC Purple U12",
         "DLFC Purple U7",
         "DLFC Purple U8",
-        "DLFC Purple U9"
-      ]
-    },
-    {
-      "name": "DLFC Red",
-      "slug": "dlfc-red",
-      "teams": [
+        "DLFC Purple U9",
         "DLFC Red U10",
         "DLFC Red U11",
         "DLFC Red U14",
         "DLFC Red U7",
         "DLFC Red U8",
-        "DLFC Red U9"
-      ]
-    },
-    {
-      "name": "DLFC Ruby",
-      "slug": "dlfc-ruby",
-      "teams": [
-        "DLFC Ruby U8"
-      ]
-    },
-    {
-      "name": "DLFC SFK",
-      "slug": "dlfc-sfk",
-      "teams": [
-        "DLFC SFK U13"
-      ]
-    },
-    {
-      "name": "DLFC Tangerine",
-      "slug": "dlfc-tangerine",
-      "teams": [
-        "DLFC Tangerine U7"
-      ]
-    },
-    {
-      "name": "DLFC Teal",
-      "slug": "dlfc-teal",
-      "teams": [
-        "DLFC Teal U11"
-      ]
-    },
-    {
-      "name": "DLFC Vipers",
-      "slug": "dlfc-vipers",
-      "teams": [
-        "DLFC Vipers U8"
-      ]
-    },
-    {
-      "name": "DLFC White",
-      "slug": "dlfc-white",
-      "teams": [
-        "DLFC White U8"
-      ]
-    },
-    {
-      "name": "DLFC Yellow",
-      "slug": "dlfc-yellow",
-      "teams": [
+        "DLFC Red U9",
+        "DLFC Ruby U8",
+        "DLFC SFK U13",
+        "DLFC Tangerine U7",
+        "DLFC Teal U11",
+        "DLFC Vipers U8",
+        "DLFC White U8",
         "DLFC Yellow U12",
         "DLFC Yellow U7",
         "DLFC Yellow U8",
@@ -7631,8 +7486,8 @@
       ]
     },
     {
-      "name": "Greenbank J.F.C. U12 Corinthians",
-      "slug": "greenbank-j-f-c-u12-corinthians",
+      "name": "Greenbank JFC U12 Corinthians",
+      "slug": "greenbank-jfc-u12-corinthians",
       "teams": [
         "Greenbank J.F.C. U12 Corinthians"
       ]
@@ -8311,12 +8166,18 @@
       ]
     },
     {
-      "name": "Newton &",
-      "slug": "newton",
+      "name": "Newton & Blackwell",
+      "slug": "newton-blackwell",
       "teams": [
         "Newton & Blackwell Cosmos U13",
         "Newton & Blackwell Storm U11",
-        "Newton & Blackwell U12",
+        "Newton & Blackwell U12"
+      ]
+    },
+    {
+      "name": "Newton & Blkwl",
+      "slug": "newton-blkwl",
+      "teams": [
         "Newton & Blkwl Thunder U13",
         "Newton & Blkwl Tornadoes U13"
       ]
@@ -8632,6 +8493,7 @@
         "Ravenshead Reds U10",
         "Ravenshead Reds U11",
         "Ravenshead Reds U12",
+        "Ravenshead Reds U13",
         "Ravenshead Reds U14",
         "Ravenshead Reds U9",
         "Ravenshead Reds Vikings U11"
@@ -9190,433 +9052,79 @@
       ]
     },
     {
-      "name": "WBYFC AC",
-      "slug": "wbyfc-ac",
+      "name": "WBYFC",
+      "slug": "wbyfc",
       "teams": [
-        "WBYFC AC U14"
-      ]
-    },
-    {
-      "name": "WBYFC Ajax Black",
-      "slug": "wbyfc-ajax-black",
-      "teams": [
-        "WBYFC Ajax Black U7"
-      ]
-    },
-    {
-      "name": "WBYFC Anderlecht",
-      "slug": "wbyfc-anderlecht",
-      "teams": [
+        "WBYFC AC U14",
+        "WBYFC Ajax Black U7",
         "WBYFC Anderlecht Black U7",
-        "WBYFC Anderlecht Red U7"
-      ]
-    },
-    {
-      "name": "WBYFC Apollo",
-      "slug": "wbyfc-apollo",
-      "teams": [
-        "WBYFC Apollo U13"
-      ]
-    },
-    {
-      "name": "WBYFC Arrows",
-      "slug": "wbyfc-arrows",
-      "teams": [
-        "WBYFC Arrows U11"
-      ]
-    },
-    {
-      "name": "WBYFC Atlantis",
-      "slug": "wbyfc-atlantis",
-      "teams": [
-        "WBYFC Atlantis U13"
-      ]
-    },
-    {
-      "name": "WBYFC Atletico",
-      "slug": "wbyfc-atletico",
-      "teams": [
-        "WBYFC Atletico U10"
-      ]
-    },
-    {
-      "name": "WBYFC Azzuri",
-      "slug": "wbyfc-azzuri",
-      "teams": [
-        "WBYFC Azzuri U10"
-      ]
-    },
-    {
-      "name": "WBYFC BVB",
-      "slug": "wbyfc-bvb",
-      "teams": [
-        "WBYFC BVB U10"
-      ]
-    },
-    {
-      "name": "WBYFC Bayern",
-      "slug": "wbyfc-bayern",
-      "teams": [
-        "WBYFC Bayern U10"
-      ]
-    },
-    {
-      "name": "WBYFC Blackhawks",
-      "slug": "wbyfc-blackhawks",
-      "teams": [
-        "WBYFC Blackhawks U14"
-      ]
-    },
-    {
-      "name": "WBYFC Boca",
-      "slug": "wbyfc-boca",
-      "teams": [
-        "WBYFC Boca U13"
-      ]
-    },
-    {
-      "name": "WBYFC Bohemians",
-      "slug": "wbyfc-bohemians",
-      "teams": [
-        "WBYFC Bohemians U11"
-      ]
-    },
-    {
-      "name": "WBYFC Bruges",
-      "slug": "wbyfc-bruges",
-      "teams": [
+        "WBYFC Anderlecht Red U7",
+        "WBYFC Apollo U13",
+        "WBYFC Arrows U11",
+        "WBYFC Atlantis U13",
+        "WBYFC Atletico U10",
+        "WBYFC Azzuri U10",
+        "WBYFC BVB U10",
+        "WBYFC Bayern U10",
+        "WBYFC Blackhawks U14",
+        "WBYFC Boca U13",
+        "WBYFC Bohemians U11",
         "WBYFC Bruges Black U7",
         "WBYFC Bruges Stripes U7",
-        "WBYFC Bruges White U7"
-      ]
-    },
-    {
-      "name": "WBYFC Buffalos",
-      "slug": "wbyfc-buffalos",
-      "teams": [
-        "WBYFC Buffalos U12"
-      ]
-    },
-    {
-      "name": "WBYFC Celtics",
-      "slug": "wbyfc-celtics",
-      "teams": [
-        "WBYFC Celtics U13"
-      ]
-    },
-    {
-      "name": "WBYFC Copa",
-      "slug": "wbyfc-copa",
-      "teams": [
-        "WBYFC Copa U12"
-      ]
-    },
-    {
-      "name": "WBYFC Corinthians",
-      "slug": "wbyfc-corinthians",
-      "teams": [
-        "WBYFC Corinthians U9"
-      ]
-    },
-    {
-      "name": "WBYFC Courage",
-      "slug": "wbyfc-courage",
-      "teams": [
+        "WBYFC Bruges White U7",
+        "WBYFC Buffalos U12",
+        "WBYFC Celtics U13",
+        "WBYFC Copa U12",
+        "WBYFC Corinthians U9",
         "WBYFC Courage Black U8",
-        "WBYFC Courage Red U8"
-      ]
-    },
-    {
-      "name": "WBYFC Crusaders",
-      "slug": "wbyfc-crusaders",
-      "teams": [
+        "WBYFC Courage Red U8",
         "WBYFC Crusaders Black U8",
-        "WBYFC Crusaders Red U8"
-      ]
-    },
-    {
-      "name": "WBYFC Deportivo",
-      "slug": "wbyfc-deportivo",
-      "teams": [
-        "WBYFC Deportivo U12"
-      ]
-    },
-    {
-      "name": "WBYFC Diavola",
-      "slug": "wbyfc-diavola",
-      "teams": [
-        "WBYFC Diavola U10"
-      ]
-    },
-    {
-      "name": "WBYFC Dynamos",
-      "slug": "wbyfc-dynamos",
-      "teams": [
+        "WBYFC Crusaders Red U8",
+        "WBYFC Deportivo U12",
+        "WBYFC Diavola U10",
         "WBYFC Dynamos Black U8",
         "WBYFC Dynamos Red U8",
-        "WBYFC Dynamos Stripes U8"
-      ]
-    },
-    {
-      "name": "WBYFC Feyanoord",
-      "slug": "wbyfc-feyanoord",
-      "teams": [
+        "WBYFC Dynamos Stripes U8",
         "WBYFC Feyanoord Black U7",
-        "WBYFC Feyanoord Red U7"
-      ]
-    },
-    {
-      "name": "WBYFC Flyers",
-      "slug": "wbyfc-flyers",
-      "teams": [
-        "WBYFC Flyers U12"
-      ]
-    },
-    {
-      "name": "WBYFC Galaxy",
-      "slug": "wbyfc-galaxy",
-      "teams": [
-        "WBYFC Galaxy U13"
-      ]
-    },
-    {
-      "name": "WBYFC Genk",
-      "slug": "wbyfc-genk",
-      "teams": [
+        "WBYFC Feyanoord Red U7",
+        "WBYFC Flyers U12",
+        "WBYFC Galaxy U13",
         "WBYFC Genk U7",
-        "WBYFC Genk White U7"
-      ]
-    },
-    {
-      "name": "WBYFC Giants",
-      "slug": "wbyfc-giants",
-      "teams": [
-        "WBYFC Giants U14"
-      ]
-    },
-    {
-      "name": "WBYFC Independiente",
-      "slug": "wbyfc-independiente",
-      "teams": [
-        "WBYFC Independiente U9"
-      ]
-    },
-    {
-      "name": "WBYFC Inter",
-      "slug": "wbyfc-inter",
-      "teams": [
-        "WBYFC Inter U11"
-      ]
-    },
-    {
-      "name": "WBYFC Invicta",
-      "slug": "wbyfc-invicta",
-      "teams": [
-        "WBYFC Invicta U11"
-      ]
-    },
-    {
-      "name": "WBYFC Juve",
-      "slug": "wbyfc-juve",
-      "teams": [
-        "WBYFC Juve U10"
-      ]
-    },
-    {
-      "name": "WBYFC Knights Black",
-      "slug": "wbyfc-knights-black",
-      "teams": [
-        "WBYFC Knights Black U8"
-      ]
-    },
-    {
-      "name": "WBYFC Leverkusen",
-      "slug": "wbyfc-leverkusen",
-      "teams": [
-        "WBYFC Leverkusen U10"
-      ]
-    },
-    {
-      "name": "WBYFC Lyon",
-      "slug": "wbyfc-lyon",
-      "teams": [
-        "WBYFC Lyon U9"
-      ]
-    },
-    {
-      "name": "WBYFC Marseille",
-      "slug": "wbyfc-marseille",
-      "teams": [
-        "WBYFC Marseille U9"
-      ]
-    },
-    {
-      "name": "WBYFC Mavericks",
-      "slug": "wbyfc-mavericks",
-      "teams": [
-        "WBYFC Mavericks U12"
-      ]
-    },
-    {
-      "name": "WBYFC Mustangs",
-      "slug": "wbyfc-mustangs",
-      "teams": [
-        "WBYFC Mustangs U11"
-      ]
-    },
-    {
-      "name": "WBYFC Napoli",
-      "slug": "wbyfc-napoli",
-      "teams": [
-        "WBYFC Napoli U10"
-      ]
-    },
-    {
-      "name": "WBYFC Olympia",
-      "slug": "wbyfc-olympia",
-      "teams": [
-        "WBYFC Olympia U9"
-      ]
-    },
-    {
-      "name": "WBYFC PSG",
-      "slug": "wbyfc-psg",
-      "teams": [
-        "WBYFC PSG U9"
-      ]
-    },
-    {
-      "name": "WBYFC Palmeiras",
-      "slug": "wbyfc-palmeiras",
-      "teams": [
-        "WBYFC Palmeiras U12"
-      ]
-    },
-    {
-      "name": "WBYFC Phoenix",
-      "slug": "wbyfc-phoenix",
-      "teams": [
-        "WBYFC Phoenix U13"
-      ]
-    },
-    {
-      "name": "WBYFC Rapids",
-      "slug": "wbyfc-rapids",
-      "teams": [
-        "WBYFC Rapids U11"
-      ]
-    },
-    {
-      "name": "WBYFC Rio",
-      "slug": "wbyfc-rio",
-      "teams": [
-        "WBYFC Rio U9"
-      ]
-    },
-    {
-      "name": "WBYFC Roma",
-      "slug": "wbyfc-roma",
-      "teams": [
-        "WBYFC Roma U10"
-      ]
-    },
-    {
-      "name": "WBYFC Rosario",
-      "slug": "wbyfc-rosario",
-      "teams": [
-        "WBYFC Rosario U10"
-      ]
-    },
-    {
-      "name": "WBYFC Rossoneri",
-      "slug": "wbyfc-rossoneri",
-      "teams": [
-        "WBYFC Rossoneri U11"
-      ]
-    },
-    {
-      "name": "WBYFC Scorpions",
-      "slug": "wbyfc-scorpions",
-      "teams": [
-        "WBYFC Scorpions U14"
-      ]
-    },
-    {
-      "name": "WBYFC Sharks",
-      "slug": "wbyfc-sharks",
-      "teams": [
-        "WBYFC Sharks U12"
-      ]
-    },
-    {
-      "name": "WBYFC Spartans",
-      "slug": "wbyfc-spartans",
-      "teams": [
-        "WBYFC Spartans U13"
-      ]
-    },
-    {
-      "name": "WBYFC Spirit",
-      "slug": "wbyfc-spirit",
-      "teams": [
+        "WBYFC Genk White U7",
+        "WBYFC Giants U14",
+        "WBYFC Independiente U9",
+        "WBYFC Inter U11",
+        "WBYFC Invicta U11",
+        "WBYFC Juve U10",
+        "WBYFC Knights Black U8",
+        "WBYFC Leverkusen U10",
+        "WBYFC Lyon U9",
+        "WBYFC Marseille U9",
+        "WBYFC Mavericks U12",
+        "WBYFC Mustangs U11",
+        "WBYFC Napoli U10",
+        "WBYFC Olympia U9",
+        "WBYFC PSG U9",
+        "WBYFC Palmeiras U12",
+        "WBYFC Phoenix U13",
+        "WBYFC Rapids U11",
+        "WBYFC Rio U9",
+        "WBYFC Roma U10",
+        "WBYFC Rosario U10",
+        "WBYFC Rossoneri U11",
+        "WBYFC Scorpions U14",
+        "WBYFC Sharks U12",
+        "WBYFC Spartans U13",
         "WBYFC Spirit Black U8",
-        "WBYFC Spirit Red U8"
-      ]
-    },
-    {
-      "name": "WBYFC Sporting",
-      "slug": "wbyfc-sporting",
-      "teams": [
-        "WBYFC Sporting U10"
-      ]
-    },
-    {
-      "name": "WBYFC Sportivo",
-      "slug": "wbyfc-sportivo",
-      "teams": [
-        "WBYFC Sportivo U14"
-      ]
-    },
-    {
-      "name": "WBYFC Tecnica",
-      "slug": "wbyfc-tecnica",
-      "teams": [
-        "WBYFC Tecnica U12"
-      ]
-    },
-    {
-      "name": "WBYFC Thunderbolts",
-      "slug": "wbyfc-thunderbolts",
-      "teams": [
-        "WBYFC Thunderbolts U12"
-      ]
-    },
-    {
-      "name": "WBYFC Union",
-      "slug": "wbyfc-union",
-      "teams": [
-        "WBYFC Union U9"
-      ]
-    },
-    {
-      "name": "WBYFC United 14",
-      "slug": "wbyfc-united-14",
-      "teams": [
-        "WBYFC United 14"
-      ]
-    },
-    {
-      "name": "WBYFC Valour",
-      "slug": "wbyfc-valour",
-      "teams": [
+        "WBYFC Spirit Red U8",
+        "WBYFC Sporting U10",
+        "WBYFC Sportivo U14",
+        "WBYFC Tecnica U12",
+        "WBYFC Thunderbolts U12",
+        "WBYFC Union U9",
+        "WBYFC United 14",
         "WBYFC Valour Black U8",
-        "WBYFC Valour Red U8"
-      ]
-    },
-    {
-      "name": "WBYFC Wanderers",
-      "slug": "wbyfc-wanderers",
-      "teams": [
+        "WBYFC Valour Red U8",
         "WBYFC Wanderers U9"
       ]
     },
@@ -9683,8 +9191,8 @@
       ]
     },
     {
-      "name": "Winthorpe &",
-      "slug": "winthorpe",
+      "name": "Winthorpe & Cod",
+      "slug": "winthorpe-cod",
       "teams": [
         "Winthorpe & Cod T Amber U11",
         "Winthorpe & Cod T Amber U9",
