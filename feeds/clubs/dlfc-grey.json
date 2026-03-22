@@ -1,20 +1,7 @@
 {
   "club": "DLFC Grey",
-  "generated": "2026-03-21T17:16:34Z",
+  "generated": "2026-03-22T06:37:55Z",
   "fixtures": [
-    {
-      "id": "de87b6796b566e1446505018268d8075",
-      "date": "2026-03-21",
-      "time": "11:30",
-      "home_team": "DLFC Grey U9",
-      "away_team": "Quarrydale United U9",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U9 Sat Spring Div 8 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Grey U9",
-      "home_away": "home",
-      "opponent": "Quarrydale United U9"
-    },
     {
       "id": "16d463f40025dea443ccfa0bb7dc0b0a",
       "date": "2026-03-28",
@@ -160,6 +147,23 @@
     }
   ],
   "results": [
+    {
+      "id": "de87b6796b566e1446505018268d8075",
+      "date": "2026-03-21",
+      "time": "11:30",
+      "home_team": "DLFC Grey U9",
+      "away_team": "Quarrydale United U9",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "U9 Sat Spring Div 8 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Grey U9",
+      "home_away": "home",
+      "opponent": "Quarrydale United U9",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "3a97219c635ea901bb7d3d66ef965ff0",
       "date": "2026-03-21",

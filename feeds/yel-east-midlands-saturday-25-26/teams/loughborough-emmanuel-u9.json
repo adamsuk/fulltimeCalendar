@@ -1,19 +1,8 @@
 {
   "team": "Loughborough Emmanuel U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-21T17:16:34Z",
+  "generated": "2026-03-22T06:37:55Z",
   "fixtures": [
-    {
-      "id": "1c1acc9ae01a73fff3e3dbd43091cffc",
-      "date": "2026-03-21",
-      "time": "10:00",
-      "home_team": "Edwalton Cavaliers White U9",
-      "away_team": "Loughborough Emmanuel U9",
-      "venue": "Nottingham Football Centre NG2 7BW",
-      "division": "U9 Sat Spring Div 7 Blue",
-      "home_away": "away",
-      "opponent": "Edwalton Cavaliers White U9"
-    },
     {
       "id": "b82ab85172793bf7e4cc356419939fc7",
       "date": "2026-04-11",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "1c1acc9ae01a73fff3e3dbd43091cffc",
+      "date": "2026-03-21",
+      "time": "10:00",
+      "home_team": "Edwalton Cavaliers White U9",
+      "away_team": "Loughborough Emmanuel U9",
+      "home_score": 5,
+      "away_score": 5,
+      "venue": "U9 Sat Spring Div 7 Blue",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Edwalton Cavaliers White U9",
+      "goals_for": 5,
+      "goals_against": 5
+    },
     {
       "id": "31bb52d6ab60011dc0c250ed94c4c8cd",
       "date": "2026-03-14",
