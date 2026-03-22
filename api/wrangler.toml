@@ -1,0 +1,10 @@
+name = "fulltimecalendar-api"
+main = "src/index.ts"
+compatibility_date = "2024-09-23"
+
+[vars]
+GITHUB_REPO = "adamsuk/fulltimeCalendar"
+GITHUB_BRANCH = "main"
+
+# Optional: set GITHUB_TOKEN as a secret for higher rate limits
+# wrangler secret put GITHUB_TOKEN
