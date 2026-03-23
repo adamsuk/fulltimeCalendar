@@ -1,19 +1,8 @@
 {
   "team": "Attenborough Colts Blue U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "bfabbb9f76d1a4655306a0ebcf8fa0a8",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Attenborough Colts Blue U10",
-      "away_team": "Market Warsop Linden U10",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U10 Sun Spring Premier Div",
-      "home_away": "home",
-      "opponent": "Market Warsop Linden U10"
-    },
     {
       "id": "9d69b26be5c5ed3d9afc98472f918e1c",
       "date": "2026-03-29",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "bfabbb9f76d1a4655306a0ebcf8fa0a8",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Attenborough Colts Blue U10",
+      "away_team": "Market Warsop Linden U10",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "U10 Sun Spring Premier Div",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Market Warsop Linden U10",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "aa5bf32c6fa6ca88bc3788657aa2e3ac",
       "date": "2026-03-15",

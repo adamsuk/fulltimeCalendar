@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Bruges White U7",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "d6ba9bfe5d5cdd5354642c5f22d59bea",
-      "date": "2026-03-21",
-      "time": "10:00",
-      "home_team": "WBYFC Bruges White U7",
-      "away_team": "WBYFC Bruges Black U7",
-      "venue": "Gresham Park  NG2 7YF",
-      "division": "U7 Sat Spring 3 Blue",
-      "home_away": "home",
-      "opponent": "WBYFC Bruges Black U7"
-    },
     {
       "id": "c93ace52ee6f80fe7ee1476f86816d60",
       "date": "2026-03-28",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d6ba9bfe5d5cdd5354642c5f22d59bea",
+      "date": "2026-03-21",
+      "time": "10:00",
+      "home_team": "WBYFC Bruges White U7",
+      "away_team": "WBYFC Bruges Black U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Sat Spring 3 Blue",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "WBYFC Bruges Black U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "e5089f614c660c50c38df0f193a1e25f",
       "date": "2026-03-14",

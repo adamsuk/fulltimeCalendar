@@ -1,19 +1,8 @@
 {
   "team": "Ollerton Town U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "1a61e2ca0e6c44540980729c538e59af",
-      "date": "2026-03-22",
-      "time": "12:30",
-      "home_team": "Tuxford FC U12",
-      "away_team": "Ollerton Town U12",
-      "venue": "Harby Playing Fields NG23 7ED",
-      "division": "U12 Sun YEL Inter Cup",
-      "home_away": "away",
-      "opponent": "Tuxford FC U12"
-    },
     {
       "id": "943cb2334c613bfc1d758a51168916e2",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "1a61e2ca0e6c44540980729c538e59af",
+      "date": "2026-03-22",
+      "time": "12:30",
+      "home_team": "Tuxford FC U12",
+      "away_team": "Ollerton Town U12",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "U12 Sun YEL Inter Cup",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Tuxford FC U12",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "f870468a8b83f5236ad0373f682aa2ad",
       "date": "2026-03-15",

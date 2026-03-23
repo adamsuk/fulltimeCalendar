@@ -1,33 +1,7 @@
 {
   "club": "Dunkirk",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "be909e6869fd424a3af2788bad594ce8",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Calverton MW Blue U12",
-      "away_team": "Dunkirk U12",
-      "venue": "Kinton Park NG14 6NR",
-      "division": "U12 Sun Spring Premier Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Dunkirk U12",
-      "home_away": "away",
-      "opponent": "Calverton MW Blue U12"
-    },
-    {
-      "id": "e4e0990c447b72deceb81b73dda9e579",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Dunkirk U11",
-      "away_team": "Silva FC Rushcliffe Green U11",
-      "venue": "Ron Steel Sports Ground NG7 2SA",
-      "division": "U11 Sun Spring Premier Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Dunkirk U11",
-      "home_away": "home",
-      "opponent": "Silva FC Rushcliffe Green U11"
-    },
     {
       "id": "7a8ba3647db70b4548f40b4b9a409727",
       "date": "2026-03-28",
@@ -225,6 +199,40 @@
     }
   ],
   "results": [
+    {
+      "id": "e4e0990c447b72deceb81b73dda9e579",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Dunkirk U11",
+      "away_team": "Silva FC Rushcliffe Green U11",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "U11 Sun Spring Premier Division",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Dunkirk U11",
+      "home_away": "home",
+      "opponent": "Silva FC Rushcliffe Green U11",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
+      "id": "be909e6869fd424a3af2788bad594ce8",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Calverton MW Blue U12",
+      "away_team": "Dunkirk U12",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "U12 Sun Spring Premier Division",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Dunkirk U12",
+      "home_away": "away",
+      "opponent": "Calverton MW Blue U12",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "367dcecc5c978589c6cfd117d6cfd0ad",
       "date": "2026-03-21",

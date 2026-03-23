@@ -1,19 +1,8 @@
 {
   "team": "Moorgreen Colts Blue U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "a46390d2208f4df899f13a6084a276ed",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Moorgreen Colts Blue U11",
-      "away_team": "Gonerby Yellow U11",
-      "venue": "Birnham Pk A610 Estwd/Kim Bypss NG16 2DE",
-      "division": "U11 Sun YEL Inter cup",
-      "home_away": "home",
-      "opponent": "Gonerby Yellow U11"
-    },
     {
       "id": "3e6c37885d3fd57b523c8a4321a414ad",
       "date": "2026-03-29",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a46390d2208f4df899f13a6084a276ed",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Moorgreen Colts Blue U11",
+      "away_team": "Gonerby Yellow U11",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "U11 Sun YEL Inter cup",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Gonerby Yellow U11",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "f61cc8337848709dc865a951c23d1c02",
       "date": "2026-03-15",

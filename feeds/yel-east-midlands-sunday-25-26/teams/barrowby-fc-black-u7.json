@@ -1,19 +1,8 @@
 {
   "team": "Barrowby FC Black U7",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "b54d803e3b53aba38578d4f59cdd7eca",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Clifton AW Yellow U7",
-      "away_team": "Barrowby FC Black U7",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U7 Sun Spring Orange",
-      "home_away": "away",
-      "opponent": "Clifton AW Yellow U7"
-    },
     {
       "id": "7b06dab684edd1def6288297588bc799",
       "date": "2026-03-29",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b54d803e3b53aba38578d4f59cdd7eca",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Clifton AW Yellow U7",
+      "away_team": "Barrowby FC Black U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Sun Spring Orange",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Clifton AW Yellow U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "ac2ea0bee02d074c3801bdd695f84123",
       "date": "2026-03-15",

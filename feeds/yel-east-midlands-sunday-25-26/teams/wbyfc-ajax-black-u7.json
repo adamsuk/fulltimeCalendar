@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Ajax Black U7",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "ccf4fdf00c18cf4d2968aff628b8568d",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Long Eaton United Red U7",
-      "away_team": "WBYFC Ajax Black U7",
-      "venue": "Grange Park NG10 2EG",
-      "division": "U7 Sun Spring Orange",
-      "home_away": "away",
-      "opponent": "Long Eaton United Red U7"
-    },
     {
       "id": "40d772237ccd3592d35dbaa89b1f71ee",
       "date": "2026-03-29",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ccf4fdf00c18cf4d2968aff628b8568d",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Long Eaton United Red U7",
+      "away_team": "WBYFC Ajax Black U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Sun Spring Orange",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Long Eaton United Red U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "ac2ea0bee02d074c3801bdd695f84123",
       "date": "2026-03-15",

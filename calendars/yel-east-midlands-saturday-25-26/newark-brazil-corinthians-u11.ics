@@ -7,21 +7,21 @@ X-WR-CALNAME:Newark Brazil Corinthians U11
 X-WR-CALDESC:Fixtures for Newark Brazil Corinthians U11 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:f6ac657d2f518add00547d42dd7caf8f@yel-calendar
-DTSTAMP:20260322T080022Z
-DTSTART;TZID=Europe/London:20260321T183000
-DTEND;TZID=Europe/London:20260321T193000
-SUMMARY:⚽ Newark Brazil Corinthians U11 vs Collingham FC Cougars U11 (Away)
-DESCRIPTION:Division: U11 Sat Spring Div 4 Green\nCollingham FC Cougars U11 v Newark Brazil Corinthians U11\nKO: 18:30
-LOCATION:Collingham FC  NG23 7RA
-END:VEVENT
-BEGIN:VEVENT
 UID:bbca7511b4ac6010d4d8ea8779c8dfd3@yel-calendar
-DTSTAMP:20260322T080022Z
+DTSTAMP:20260323T070035Z
 DTSTART;TZID=Europe/London:20260418T110000
 DTEND;TZID=Europe/London:20260418T123000
 SUMMARY:⚽ Newark Brazil Corinthians U11 vs Newark Town Titans U11 (Home)
 DESCRIPTION:Division: U11 Sat Spring Div 4 Green\nNewark Brazil Corinthians U11 v Newark Town Titans U11\nKO: 11:00
 LOCATION:Magnus School Sports Centre NG24 4BZ
+END:VEVENT
+BEGIN:VEVENT
+UID:88a86009e2c26cd0d13f2c3dd53321bd@yel-calendar
+DTSTAMP:20260323T070035Z
+DTSTART;TZID=Europe/London:20260421T183000
+DTEND;TZID=Europe/London:20260421T193000
+SUMMARY:⚽ Newark Brazil Corinthians U11 vs Collingham FC Cougars U11 (Away)
+DESCRIPTION:Division: U11 Sat Spring Div 4 Green\nCollingham FC Cougars U11 v Newark Brazil Corinthians U11\nKO: 18:30
+LOCATION:Collingham FC  NG23 7RA
 END:VEVENT
 END:VCALENDAR

@@ -1,19 +1,8 @@
 {
   "team": "Long Eaton United Black U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "8afc69ef6fc4abb273eeadb4b17dfdcb",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Long Eaton United Black U13",
-      "away_team": "Aspire U13",
-      "venue": "Grange Park NG10 2EG",
-      "division": "U13 Sun YEL Trophy",
-      "home_away": "home",
-      "opponent": "Aspire U13"
-    },
     {
       "id": "65fab8fa9a4b08d72f3184a360ac9cbe",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8afc69ef6fc4abb273eeadb4b17dfdcb",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Long Eaton United Black U13",
+      "away_team": "Aspire U13",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "U13 Sun YEL Trophy",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Aspire U13",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "77895acbd5d392ef70a422bad917eb0f",
       "date": "2026-03-15",

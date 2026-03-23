@@ -1,19 +1,8 @@
 {
   "team": "Hemington Hammers Hornets U8",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "8d5dad16d70a5aad5798fd6fd6afe83e",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Coalville Town Ravens U8",
-      "away_team": "Hemington Hammers Hornets U8",
-      "venue": "Coalville Town FC LE67 3WD",
-      "division": "U8 Sun Spring 3 Blue",
-      "home_away": "away",
-      "opponent": "Coalville Town Ravens U8"
-    },
     {
       "id": "2d692cf449d8274b87569d48b7ed2261",
       "date": "2026-03-29",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8d5dad16d70a5aad5798fd6fd6afe83e",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Coalville Town Ravens U8",
+      "away_team": "Hemington Hammers Hornets U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U8 Sun Spring 3 Blue",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Coalville Town Ravens U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "9f08abd5bdfa7704e7427c4a58b88b70",
       "date": "2026-03-15",

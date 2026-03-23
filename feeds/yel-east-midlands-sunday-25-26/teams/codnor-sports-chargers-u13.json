@@ -1,19 +1,8 @@
 {
   "team": "Codnor Sports Chargers U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "71a8fe96c24bd1b8e3aa62ad79e823bf",
-      "date": "2026-03-22",
-      "time": "12:30",
-      "home_team": "Arnold Town White U13",
-      "away_team": "Codnor Sports Chargers U13",
-      "venue": "Eagle Valley NG5 8PS",
-      "division": "U13 Sun Spring Div 2 Blue",
-      "home_away": "away",
-      "opponent": "Arnold Town White U13"
-    },
     {
       "id": "5f671116e55e07e36f37587c58e6b717",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "71a8fe96c24bd1b8e3aa62ad79e823bf",
+      "date": "2026-03-22",
+      "time": "12:30",
+      "home_team": "Arnold Town White U13",
+      "away_team": "Codnor Sports Chargers U13",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "U13 Sun Spring Div 2 Blue",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Arnold Town White U13",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "44e140f229e4b1e63dea0cdbc1ecd449",
       "date": "2026-03-15",

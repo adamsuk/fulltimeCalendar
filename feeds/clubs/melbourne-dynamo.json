@@ -1,33 +1,7 @@
 {
   "club": "Melbourne Dynamo",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "e9c25d8dc4972b1ee748d81a9886503b",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "West Hallam Roses U10",
-      "away_team": "Melbourne Dynamo U10 Tigers",
-      "venue": "Stanley Village Rec Ground DE7 6FF",
-      "division": "U10 Sun Spring Div 4 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Melbourne Dynamo U10 Tigers",
-      "home_away": "away",
-      "opponent": "West Hallam Roses U10"
-    },
-    {
-      "id": "d850c870935cd5f9046be0f6adfa92ab",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Gonerby Yellow U12",
-      "away_team": "Melbourne Dynamo Rangers U12",
-      "venue": "Hougham & Marston Playing Field NG32 2HL",
-      "division": "U12 Sun YEL Shield",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Melbourne Dynamo Rangers U12",
-      "home_away": "away",
-      "opponent": "Gonerby Yellow U12"
-    },
     {
       "id": "1c8aba6da10aa4f42ecab9d92988db06",
       "date": "2026-03-29",
@@ -82,6 +56,40 @@
     }
   ],
   "results": [
+    {
+      "id": "d850c870935cd5f9046be0f6adfa92ab",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Gonerby Yellow U12",
+      "away_team": "Melbourne Dynamo Rangers U12",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "U12 Sun YEL Shield",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Melbourne Dynamo Rangers U12",
+      "home_away": "away",
+      "opponent": "Gonerby Yellow U12",
+      "goals_for": 4,
+      "goals_against": 0
+    },
+    {
+      "id": "e9c25d8dc4972b1ee748d81a9886503b",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "West Hallam Roses U10",
+      "away_team": "Melbourne Dynamo U10 Tigers",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "U10 Sun Spring Div 4 Blue",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Melbourne Dynamo U10 Tigers",
+      "home_away": "away",
+      "opponent": "West Hallam Roses U10",
+      "goals_for": 6,
+      "goals_against": 1
+    },
     {
       "id": "6e6deb50208bb724dfc3f1407dc67d7d",
       "date": "2026-03-15",

@@ -1,19 +1,8 @@
 {
   "team": "DLFC Gold U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "ce7d1b64d6c972db9d5ba5bb6aaee1be",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Sherwood Colliery U13 *",
-      "away_team": "DLFC Gold U14",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U14 Sun Spring Div 1 Silver",
-      "home_away": "away",
-      "opponent": "Sherwood Colliery U13 *"
-    },
     {
       "id": "de81843c5d0cce5d5cc9bf5965a84e05",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ce7d1b64d6c972db9d5ba5bb6aaee1be",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Sherwood Colliery U13 *",
+      "away_team": "DLFC Gold U14",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "U14 Sun Spring Div 1 Silver",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery U13 *",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "359f04d51440679285f84c48d79e57b5",
       "date": "2026-03-15",

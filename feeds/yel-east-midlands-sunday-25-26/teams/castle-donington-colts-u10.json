@@ -1,19 +1,8 @@
 {
   "team": "Castle Donington Colts U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "e8c00f3f981763fcd2c2bfc6b6ba60a8",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Clifton AW Green U10",
-      "away_team": "Castle Donington Colts U10",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U10 Sun Spring Div 6 Blue",
-      "home_away": "away",
-      "opponent": "Clifton AW Green U10"
-    },
     {
       "id": "ca3600ba3fad7e26e0847723074a8d58",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e8c00f3f981763fcd2c2bfc6b6ba60a8",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Clifton AW Green U10",
+      "away_team": "Castle Donington Colts U10",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "U10 Sun Spring Div 6 Blue",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Clifton AW Green U10",
+      "goals_for": 3,
+      "goals_against": 5
+    },
     {
       "id": "72b608721a44b3b989bb299ebff05a5f",
       "date": "2026-03-15",

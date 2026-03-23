@@ -1,19 +1,8 @@
 {
   "team": "DLFC Red U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "a8cd5a01b91eb586945de9ba90015dc3",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Attenborough Colts Blue U11",
-      "away_team": "DLFC Red U11",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U11 Sunday",
-      "home_away": "away",
-      "opponent": "Attenborough Colts Blue U11"
-    },
     {
       "id": "b6a2f6265b1e511cb2ef0b510daecb23",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a8cd5a01b91eb586945de9ba90015dc3",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Attenborough Colts Blue U11",
+      "away_team": "DLFC Red U11",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U11 Sunday",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Attenborough Colts Blue U11",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "dfecee228dd35581bf050bea4914a3d4",
       "date": "2026-03-15",

@@ -7,21 +7,21 @@ X-WR-CALNAME:Shirebrook Rangers Blue U11
 X-WR-CALDESC:Fixtures for Shirebrook Rangers Blue U11 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:d1dd660984f137ed9b0847a56ae23bae@yel-calendar
-DTSTAMP:20260322T080004Z
-DTSTART;TZID=Europe/London:20260322T100000
-DTEND;TZID=Europe/London:20260322T113000
-SUMMARY:⚽ Shirebrook Rangers Blue U11 vs Calverton MW White U11 (Away)
-DESCRIPTION:Division: U11 Sun Spring Div 5 Red\nCalverton MW White U11 v Shirebrook Rangers Blue U11\nKO: 10:00
-LOCATION:Kinton Park NG14 6NR
-END:VEVENT
-BEGIN:VEVENT
 UID:5b3480c2a34230257659e63ceeda9b77@yel-calendar
-DTSTAMP:20260322T080004Z
+DTSTAMP:20260323T070014Z
 DTSTART;TZID=Europe/London:20260419T100000
 DTEND;TZID=Europe/London:20260419T113000
 SUMMARY:⚽ Shirebrook Rangers Blue U11 vs Shirebrook Rangers Red U11 (Home)
 DESCRIPTION:Division: U11 Sun Spring Div 5 Red\nShirebrook Rangers Blue U11 v Shirebrook Rangers Red U11\nKO: 10:00
+LOCATION:Shirebrook Academy NG20 8QF
+END:VEVENT
+BEGIN:VEVENT
+UID:1d3a1d29b0df7ba8129dffb9e1079d3d@yel-calendar
+DTSTAMP:20260323T070014Z
+DTSTART;TZID=Europe/London:20260423T183000
+DTEND;TZID=Europe/London:20260423T193000
+SUMMARY:⚽ Shirebrook Rangers Blue U11 vs Gonerby Yellow U11 (Home)
+DESCRIPTION:Division: U11 Sun YEL Inter cup\nShirebrook Rangers Blue U11 v Gonerby Yellow U11\nKO: 18:30
 LOCATION:Shirebrook Academy NG20 8QF
 END:VEVENT
 END:VCALENDAR

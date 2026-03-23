@@ -1,6 +1,6 @@
 {
   "club": "South Normanton",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
     {
       "id": "d4b0172b6746e29ef8dffbb0d281eb12",
@@ -14,19 +14,6 @@
       "team": "South Normanton Ath Blue U13",
       "home_away": "away",
       "opponent": "Ropsley Colts U13"
-    },
-    {
-      "id": "143a2f08c16cebae697c5f937ab62005",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "South Normanton Ath Blue U13",
-      "away_team": "Clipstone Welfare Porto U13",
-      "venue": "South Street Recreation Ground DE55 2BZ",
-      "division": "U13 Sun Spring Div 6",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "South Normanton Ath Blue U13",
-      "home_away": "home",
-      "opponent": "Clipstone Welfare Porto U13"
     },
     {
       "id": "9abcba115cf1fa3f3d7f4c35cf8aea81",
@@ -95,6 +82,23 @@
     }
   ],
   "results": [
+    {
+      "id": "143a2f08c16cebae697c5f937ab62005",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "South Normanton Ath Blue U13",
+      "away_team": "Clipstone Welfare Porto U13",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "U13 Sun Spring Div 6",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "South Normanton Ath Blue U13",
+      "home_away": "home",
+      "opponent": "Clipstone Welfare Porto U13",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "078272d2ebc68ff9fd15f813b4b38699",
       "date": "2026-03-21",

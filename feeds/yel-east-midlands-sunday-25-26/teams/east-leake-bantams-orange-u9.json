@@ -1,19 +1,8 @@
 {
   "team": "East Leake Bantams Orange U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "7a7289a02c3dc0e6f1dcdc2591b59c0a",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Breaston Park Green U9",
-      "away_team": "East Leake Bantams Orange U9",
-      "venue": "Soldiers and Sailors Pitch DE72 3TT",
-      "division": "U9 Sun Spring Div 4 Blue",
-      "home_away": "away",
-      "opponent": "Breaston Park Green U9"
-    },
     {
       "id": "24c05abfd6c67238acdd703733405704",
       "date": "2026-03-29",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7a7289a02c3dc0e6f1dcdc2591b59c0a",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Breaston Park Green U9",
+      "away_team": "East Leake Bantams Orange U9",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "U9 Sun Spring Div 4 Blue",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Breaston Park Green U9",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "4e868cefbb792c4f457c1f4b6590aa9d",
       "date": "2026-03-15",

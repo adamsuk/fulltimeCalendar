@@ -1,7 +1,20 @@
 {
   "club": "Loughborough Eml",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
+    {
+      "id": "8f1f3738b1a9977b036f4768f867933b",
+      "date": "2026-03-24",
+      "time": "18:00",
+      "home_team": "Loughborough Eml Phoenix U13",
+      "away_team": "Calverton MW Red U13",
+      "venue": "Charnwood College, Loughborough LE11 4SQ",
+      "division": "U13 Sat Spring Div 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Loughborough Eml Phoenix U13",
+      "home_away": "home",
+      "opponent": "Calverton MW Red U13"
+    },
     {
       "id": "803dbcc1776a3362a50d350540186352",
       "date": "2026-03-28",
@@ -27,19 +40,6 @@
       "team": "Loughborough Eml Hawks U14",
       "home_away": "away",
       "opponent": "Priory Celtic White U14"
-    },
-    {
-      "id": "39975a947a1bd8d736eb2c63c7a17407",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Loughborough Eml Phoenix U13",
-      "away_team": "Calverton MW Red U13",
-      "venue": "Charnwood College, Loughborough LE11 4SQ",
-      "division": "U13 Sat Spring Div 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Loughborough Eml Phoenix U13",
-      "home_away": "home",
-      "opponent": "Calverton MW Red U13"
     },
     {
       "id": "523c8a625ea5fbe2dcfd7364863c5766",
@@ -99,7 +99,7 @@
       "time": "10:00",
       "home_team": "Loughborough Eml Carillons U12",
       "away_team": "Woodthorpe Cty Energy U12",
-      "venue": "Carillion CrIcket Club LE11 1ST",
+      "venue": "Charnwood College, Loughborough LE11 4SQ",
       "division": "U12 Sat Spring Div 8",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Loughborough Eml Carillons U12",
@@ -131,19 +131,6 @@
       "team": "Loughborough Eml Phoenix U13",
       "home_away": "home",
       "opponent": "Gonerby FC Yellow U13"
-    },
-    {
-      "id": "f99977c89224bd6ea7b1137f7025ed04",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Loughborough Eml Blues U13",
-      "away_team": "Keyworth United White U13",
-      "venue": "Charnwood College, Loughborough LE11 4SQ",
-      "division": "U13 Sat Spring Div 8",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Loughborough Eml Blues U13",
-      "home_away": "home",
-      "opponent": "Keyworth United White U13"
     },
     {
       "id": "6a125ec240f0ae5e40133141e72e08f4",
@@ -264,6 +251,23 @@
     }
   ],
   "results": [
+    {
+      "id": "f99977c89224bd6ea7b1137f7025ed04",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Loughborough Eml Blues U13",
+      "away_team": "Keyworth United White U13",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "U13 Sat Spring Div 8",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Loughborough Eml Blues U13",
+      "home_away": "home",
+      "opponent": "Keyworth United White U13",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "35bb1bbb9101c78014779ecb27c91f65",
       "date": "2026-03-21",

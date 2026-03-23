@@ -1,19 +1,8 @@
 {
   "team": "Mansfield Town Grassroots U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "657450090561124d7c94561b52d3c3ea",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Mansfield Town Grassroots U10",
-      "away_team": "Eastwood CFC Aces U10",
-      "venue": "One Call Stadium NG18 5DA",
-      "division": "U10 Sun Spring Div 1 Gold",
-      "home_away": "home",
-      "opponent": "Eastwood CFC Aces U10"
-    },
     {
       "id": "1553aed0fe00ad62d194a99c7f7b5aca",
       "date": "2026-04-12",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "657450090561124d7c94561b52d3c3ea",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Mansfield Town Grassroots U10",
+      "away_team": "Eastwood CFC Aces U10",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "U10 Sun Spring Div 1 Gold",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Eastwood CFC Aces U10",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "2e4bf98748de850808f0d5f023d8f5c2",
       "date": "2026-03-15",

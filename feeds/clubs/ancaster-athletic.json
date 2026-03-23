@@ -1,20 +1,7 @@
 {
   "club": "Ancaster Athletic",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "03d309aa1a0390fb3ec36231ba17bd5d",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Robin Hood Colts U12",
-      "away_team": "Ancaster Athletic U12",
-      "venue": "Sherwood Fields, Edwinstowe NG21 9PW",
-      "division": "U12 Sun Spring Div 4",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ancaster Athletic U12",
-      "home_away": "away",
-      "opponent": "Robin Hood Colts U12"
-    },
     {
       "id": "f94dbce449e9ff4427b99725af4348e3",
       "date": "2026-04-19",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "03d309aa1a0390fb3ec36231ba17bd5d",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Robin Hood Colts U12",
+      "away_team": "Ancaster Athletic U12",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "U12 Sun Spring Div 4",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ancaster Athletic U12",
+      "home_away": "away",
+      "opponent": "Robin Hood Colts U12",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "c8c6504ab7d41c1d18ec4f6be1edab36",
       "date": "2026-03-15",

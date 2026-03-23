@@ -1,19 +1,8 @@
 {
   "team": "Clifton All Whites Orange U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "b5d416c8b8a3f5f146132b1ad8a915be",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Sports Gateway Spitfire U14",
-      "away_team": "Clifton All Whites Orange U14",
-      "venue": "Papplewick Green NG15 8HR",
-      "division": "U14 Sun YEL Shield",
-      "home_away": "away",
-      "opponent": "Sports Gateway Spitfire U14"
-    },
     {
       "id": "f85dca7ab7e1b205f5a1c938dedd355a",
       "date": "2026-03-29",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b5d416c8b8a3f5f146132b1ad8a915be",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Sports Gateway Spitfire U14",
+      "away_team": "Clifton All Whites Orange U14",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "U14 Sun YEL Shield",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Sports Gateway Spitfire U14",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "cf0e658534cbdcd5398404d1f93bc035",
       "date": "2026-03-15",

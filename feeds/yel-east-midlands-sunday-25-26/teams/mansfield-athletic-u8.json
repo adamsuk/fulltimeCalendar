@@ -1,7 +1,7 @@
 {
   "team": "Mansfield Athletic U8",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
     {
       "id": "9bf6c232f0d7883b58f2abc28f9a8940",
@@ -13,17 +13,6 @@
       "division": "U8 Sun Spring 4 Red",
       "home_away": "home",
       "opponent": "DLFC Purple U8"
-    },
-    {
-      "id": "0b69616cc79c63121876a1787dbbad86",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Heanor Juniors Cobras U8",
-      "away_team": "Mansfield Athletic U8",
-      "venue": "Charles Hill DE75 7RN",
-      "division": "U8 Sun Spring 4 Red",
-      "home_away": "away",
-      "opponent": "Heanor Juniors Cobras U8"
     },
     {
       "id": "b2e49ac36799fb9ab9808f0aeb333029",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0b69616cc79c63121876a1787dbbad86",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Heanor Juniors Cobras U8",
+      "away_team": "Mansfield Athletic U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U8 Sun Spring 4 Red",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Heanor Juniors Cobras U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "8e166af2c5dc44902894906302d06d07",
       "date": "2026-03-08",

@@ -1,19 +1,8 @@
 {
   "team": "Moorgreen Colts Blue U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "3e726f5dabd560225ec1fbbfaf403531",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Moorgreen Colts Blue U13",
-      "away_team": "Sneinton Town U13",
-      "venue": "Birnham Pk A610 Estwd/Kim Bypss NG16 2DE",
-      "division": "U13 Sun Spring Div 1 Silver",
-      "home_away": "home",
-      "opponent": "Sneinton Town U13"
-    },
     {
       "id": "2054eec30005cbb523cdbf3ded57ace3",
       "date": "2026-04-16",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "3e726f5dabd560225ec1fbbfaf403531",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Moorgreen Colts Blue U13",
+      "away_team": "Sneinton Town U13",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "U13 Sun Spring Div 1 Silver",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Sneinton Town U13",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "fddefd01e835ca58ee9d7153669d622d",
       "date": "2026-03-15",

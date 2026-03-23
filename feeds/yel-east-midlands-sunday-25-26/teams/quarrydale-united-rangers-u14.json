@@ -1,19 +1,8 @@
 {
   "team": "Quarrydale United Rangers U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "8608b8d44e016c19f9a33c4141981343",
-      "date": "2026-03-22",
-      "time": "11:30",
-      "home_team": "Quarrydale United Rangers U14",
-      "away_team": "Willow Wanderers Bulldogs U14",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U14 Sun Spring Div 1 Gold",
-      "home_away": "home",
-      "opponent": "Willow Wanderers Bulldogs U14"
-    },
     {
       "id": "c791772aacccfb3cc05e6507e5657bfd",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8608b8d44e016c19f9a33c4141981343",
+      "date": "2026-03-22",
+      "time": "11:30",
+      "home_team": "Quarrydale United Rangers U14",
+      "away_team": "Willow Wanderers Bulldogs U14",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "U14 Sun Spring Div 1 Gold",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Willow Wanderers Bulldogs U14",
+      "goals_for": 3,
+      "goals_against": 4
+    },
     {
       "id": "6fa1ba165b071709d296128de0109fc9",
       "date": "2026-03-15",

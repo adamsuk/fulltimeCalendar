@@ -1,19 +1,8 @@
 {
   "team": "Melbourne Dynamo U10 Tigers",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "e9c25d8dc4972b1ee748d81a9886503b",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "West Hallam Roses U10",
-      "away_team": "Melbourne Dynamo U10 Tigers",
-      "venue": "Stanley Village Rec Ground DE7 6FF",
-      "division": "U10 Sun Spring Div 4 Blue",
-      "home_away": "away",
-      "opponent": "West Hallam Roses U10"
-    },
     {
       "id": "25b3914e6edd9aeda9cf75909e68cf77",
       "date": "2026-03-29",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e9c25d8dc4972b1ee748d81a9886503b",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "West Hallam Roses U10",
+      "away_team": "Melbourne Dynamo U10 Tigers",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "U10 Sun Spring Div 4 Blue",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "West Hallam Roses U10",
+      "goals_for": 6,
+      "goals_against": 1
+    },
     {
       "id": "6e6deb50208bb724dfc3f1407dc67d7d",
       "date": "2026-03-15",

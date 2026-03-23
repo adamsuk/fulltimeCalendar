@@ -1,20 +1,7 @@
 {
   "club": "Newton & Blackwell",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "60c18bea2b897bbf0b5a12f6e5404e1e",
-      "date": "2026-03-22",
-      "time": "11:15",
-      "home_team": "Silva FC Rushcliffe Whites U12",
-      "away_team": "Newton & Blackwell U12",
-      "venue": "Rushcliffe School NG2 7BZ",
-      "division": "U12 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Newton & Blackwell U12",
-      "home_away": "away",
-      "opponent": "Silva FC Rushcliffe Whites U12"
-    },
     {
       "id": "f7c13513051e59772a62408d5311b151",
       "date": "2026-03-28",
@@ -53,6 +40,19 @@
       "team": "Newton & Blackwell Cosmos U13",
       "home_away": "away",
       "opponent": "Nottingham FC Green U13"
+    },
+    {
+      "id": "daff3f3dfb8702cee3decb5486f9496c",
+      "date": "2026-04-16",
+      "time": "18:00",
+      "home_team": "Newton & Blackwell U12",
+      "away_team": "Nottingham FC Blue U12",
+      "venue": "Scanderlands Pavilion DE55 5JJ",
+      "division": "U12 Sun YEL Trophy",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Newton & Blackwell U12",
+      "home_away": "home",
+      "opponent": "Nottingham FC Blue U12"
     },
     {
       "id": "b4a92a561cef44252a031f8bd2539b56",
@@ -121,6 +121,23 @@
     }
   ],
   "results": [
+    {
+      "id": "60c18bea2b897bbf0b5a12f6e5404e1e",
+      "date": "2026-03-22",
+      "time": "11:15",
+      "home_team": "Silva FC Rushcliffe Whites U12",
+      "away_team": "Newton & Blackwell U12",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "U12 Sun Spring Div 1 Silver",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Newton & Blackwell U12",
+      "home_away": "away",
+      "opponent": "Silva FC Rushcliffe Whites U12",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "e36c895afb0ca0e95d18f58adfdf3811",
       "date": "2026-03-21",

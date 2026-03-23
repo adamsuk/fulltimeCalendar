@@ -1,19 +1,8 @@
 {
   "team": "Teversal FC U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "632c9c151cb0c1c5f12857fb9d9513d4",
-      "date": "2026-03-22",
-      "time": "11:30",
-      "home_team": "Teversal FC U14",
-      "away_team": "Attenborough Colts Yellow U14",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U14 Sun Spring Div 1 Silver",
-      "home_away": "home",
-      "opponent": "Attenborough Colts Yellow U14"
-    },
     {
       "id": "de81843c5d0cce5d5cc9bf5965a84e05",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "632c9c151cb0c1c5f12857fb9d9513d4",
+      "date": "2026-03-22",
+      "time": "11:30",
+      "home_team": "Teversal FC U14",
+      "away_team": "Attenborough Colts Yellow U14",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "U14 Sun Spring Div 1 Silver",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Attenborough Colts Yellow U14",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "39480343f94bb257fd0df8e4a3e48fdc",
       "date": "2026-03-15",

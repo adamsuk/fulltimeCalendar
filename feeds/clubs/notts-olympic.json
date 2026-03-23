@@ -1,20 +1,7 @@
 {
   "club": "Notts Olympic",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "72d472079cbaa932df5dbe5e4bb7a2de",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Notts Olympic FC U12",
-      "away_team": "Nottingham FC Blue U12",
-      "venue": "Birchover Park NG8 4BS",
-      "division": "U12 Sun YEL Trophy",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Notts Olympic FC U12",
-      "home_away": "home",
-      "opponent": "Nottingham FC Blue U12"
-    },
     {
       "id": "6a9973e983ed1c28c3a77f28cb9015eb",
       "date": "2026-03-22",
@@ -186,6 +173,23 @@
     }
   ],
   "results": [
+    {
+      "id": "72d472079cbaa932df5dbe5e4bb7a2de",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Notts Olympic FC U12",
+      "away_team": "Nottingham FC Blue U12",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "U12 Sun YEL Trophy",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Notts Olympic FC U12",
+      "home_away": "home",
+      "opponent": "Nottingham FC Blue U12",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "c579587602be8f668bc8fc1a85d5d2d5",
       "date": "2026-03-21",

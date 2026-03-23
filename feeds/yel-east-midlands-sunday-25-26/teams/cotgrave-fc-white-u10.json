@@ -1,19 +1,8 @@
 {
   "team": "Cotgrave FC White U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "069f530d7ea704db3ae4bf46db731685",
-      "date": "2026-03-22",
-      "time": "10:45",
-      "home_team": "Basford United Girls U10 ^^",
-      "away_team": "Cotgrave FC White U10",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U10 Sun Spring Div 7 Blue",
-      "home_away": "away",
-      "opponent": "Basford United Girls U10 ^^"
-    },
     {
       "id": "f8c2c8b6a414df5b151206e358f705ad",
       "date": "2026-03-29",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "069f530d7ea704db3ae4bf46db731685",
+      "date": "2026-03-22",
+      "time": "10:45",
+      "home_team": "Basford United Girls U10 ^^",
+      "away_team": "Cotgrave FC White U10",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "U10 Sun Spring Div 7 Blue",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Basford United Girls U10 ^^",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "63f6a3525e48e2b89b71f8ea98e382ff",
       "date": "2026-03-15",

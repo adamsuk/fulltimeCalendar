@@ -1,19 +1,8 @@
 {
   "team": "Cotgrave FC Claret U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "d05980b3025974c69c1bca1020bbe632",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Tibshelf FC U10",
-      "away_team": "Cotgrave FC Claret U10",
-      "venue": "Tibshelf Sports Ground DE55 5QE",
-      "division": "U10 Sun Spring Div 1 Silver",
-      "home_away": "away",
-      "opponent": "Tibshelf FC U10"
-    },
     {
       "id": "1f7ef5764f126d0884711e679e24e3c4",
       "date": "2026-03-29",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d05980b3025974c69c1bca1020bbe632",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Tibshelf FC U10",
+      "away_team": "Cotgrave FC Claret U10",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "U10 Sun Spring Div 1 Silver",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Tibshelf FC U10",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "5ea8413220684f0fd5a345a1af781659",
       "date": "2026-03-15",

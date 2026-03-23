@@ -1,19 +1,8 @@
 {
   "team": "Lowdham FC EB U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "626bf0b95e401f043bb490a21c727637",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Lowdham FC EB U10",
-      "away_team": "Kirkby Colts U10",
-      "venue": "Butts Field NG13 8LE",
-      "division": "U10 Sun Spring Div 4 Red",
-      "home_away": "home",
-      "opponent": "Kirkby Colts U10"
-    },
     {
       "id": "a3cadbc3ed1d254390020471975c945e",
       "date": "2026-03-29",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "626bf0b95e401f043bb490a21c727637",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Lowdham FC EB U10",
+      "away_team": "Kirkby Colts U10",
+      "home_score": 3,
+      "away_score": 5,
+      "venue": "U10 Sun Spring Div 4 Red",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Kirkby Colts U10",
+      "goals_for": 3,
+      "goals_against": 5
+    },
     {
       "id": "f76b763a65755270e9b2557f28aa4dd8",
       "date": "2026-03-15",

@@ -1,19 +1,8 @@
 {
   "team": "Sherwood FC Blue U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "1eb8a2a356519f3cf4bf764b378c1fdc",
-      "date": "2026-03-22",
-      "time": "12:00",
-      "home_team": "Gedling Southbank Titans U10",
-      "away_team": "Sherwood FC Blue U10",
-      "venue": "Redhill Leisure Centre NG5 8GX",
-      "division": "U10 Sun Spring Div 5 Blue",
-      "home_away": "away",
-      "opponent": "Gedling Southbank Titans U10"
-    },
     {
       "id": "1010769665e69b3b4e933f1e9ba5fcd4",
       "date": "2026-03-29",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "1eb8a2a356519f3cf4bf764b378c1fdc",
+      "date": "2026-03-22",
+      "time": "12:00",
+      "home_team": "Gedling Southbank Titans U10",
+      "away_team": "Sherwood FC Blue U10",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "U10 Sun Spring Div 5 Blue",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Gedling Southbank Titans U10",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "28c6ce82c8ca33b9fdd99fd7f4d34e7c",
       "date": "2026-03-15",

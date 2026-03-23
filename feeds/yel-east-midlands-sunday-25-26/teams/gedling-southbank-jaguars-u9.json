@@ -1,19 +1,8 @@
 {
   "team": "Gedling Southbank Jaguars U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "b6a95ce57251e013d26a29dd948b3e50",
-      "date": "2026-03-22",
-      "time": "12:00",
-      "home_team": "Gedling Southbank Jaguars U9",
-      "away_team": "Silva FC Rushcliffe Gold U9",
-      "venue": "Redhill Leisure Centre NG5 8GX",
-      "division": "U9 Sun Spring Div 5 Blue",
-      "home_away": "home",
-      "opponent": "Silva FC Rushcliffe Gold U9"
-    },
     {
       "id": "439e8a9cdd1135a8f1040ae00ed3539f",
       "date": "2026-04-23",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b6a95ce57251e013d26a29dd948b3e50",
+      "date": "2026-03-22",
+      "time": "12:00",
+      "home_team": "Gedling Southbank Jaguars U9",
+      "away_team": "Silva FC Rushcliffe Gold U9",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "U9 Sun Spring Div 5 Blue",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Silva FC Rushcliffe Gold U9",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "f963e90e5c7be2fad36ed636831eaa99",
       "date": "2026-03-15",

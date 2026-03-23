@@ -1,20 +1,7 @@
 {
   "club": "Dunkirk Colts U8 ^",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "8dec1233bfc31fc25e65c3f385efaeb4",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Dunkirk Colts U8 ^",
-      "away_team": "Quarrydale United United U9",
-      "venue": "Ron Steel Sports Ground NG7 2SA",
-      "division": "U9 Sun Spring Div 1",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Dunkirk Colts U8 ^",
-      "home_away": "home",
-      "opponent": "Quarrydale United United U9"
-    },
     {
       "id": "4ba1e4151680f4120e7694a1c111a4af",
       "date": "2026-03-29",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "8dec1233bfc31fc25e65c3f385efaeb4",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Dunkirk Colts U8 ^",
+      "away_team": "Quarrydale United United U9",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "U9 Sun Spring Div 1",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Dunkirk Colts U8 ^",
+      "home_away": "home",
+      "opponent": "Quarrydale United United U9",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "35de9c6de19f0c2cd96e73332024eec2",
       "date": "2026-03-15",

@@ -1,19 +1,8 @@
 {
   "team": "Newton & Blackwell U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "60c18bea2b897bbf0b5a12f6e5404e1e",
-      "date": "2026-03-22",
-      "time": "11:15",
-      "home_team": "Silva FC Rushcliffe Whites U12",
-      "away_team": "Newton & Blackwell U12",
-      "venue": "Rushcliffe School NG2 7BZ",
-      "division": "U12 Sun Spring Div 1 Silver",
-      "home_away": "away",
-      "opponent": "Silva FC Rushcliffe Whites U12"
-    },
     {
       "id": "57043b2f73866769637819bca196fbf3",
       "date": "2026-03-29",
@@ -24,6 +13,17 @@
       "division": "U12 Sun Spring Div 1 Silver",
       "home_away": "home",
       "opponent": "PMG Excel U12"
+    },
+    {
+      "id": "daff3f3dfb8702cee3decb5486f9496c",
+      "date": "2026-04-16",
+      "time": "18:00",
+      "home_team": "Newton & Blackwell U12",
+      "away_team": "Nottingham FC Blue U12",
+      "venue": "Scanderlands Pavilion DE55 5JJ",
+      "division": "U12 Sun YEL Trophy",
+      "home_away": "home",
+      "opponent": "Nottingham FC Blue U12"
     },
     {
       "id": "b00a16171524a47e5755344d95dae2ed",
@@ -38,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "60c18bea2b897bbf0b5a12f6e5404e1e",
+      "date": "2026-03-22",
+      "time": "11:15",
+      "home_team": "Silva FC Rushcliffe Whites U12",
+      "away_team": "Newton & Blackwell U12",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "U12 Sun Spring Div 1 Silver",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Silva FC Rushcliffe Whites U12",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "53b45c229f38088e21f975b382b315b8",
       "date": "2026-03-15",

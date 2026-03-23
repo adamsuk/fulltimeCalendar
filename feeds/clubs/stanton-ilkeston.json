@@ -1,20 +1,7 @@
 {
   "club": "Stanton Ilkeston",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "6927714779ae9a83fa0fa2daaa8ff489",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Stanton Ilkeston Phoenix U11",
-      "away_team": "WBYFC Rapids U11",
-      "venue": "Riverside Complex NG7 2SA",
-      "division": "U11 Sun Spring Div 7",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Stanton Ilkeston Phoenix U11",
-      "home_away": "home",
-      "opponent": "WBYFC Rapids U11"
-    },
     {
       "id": "427b46393480247b3132dc8b2b36bbca",
       "date": "2026-03-22",
@@ -277,6 +264,23 @@
     }
   ],
   "results": [
+    {
+      "id": "6927714779ae9a83fa0fa2daaa8ff489",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Stanton Ilkeston Phoenix U11",
+      "away_team": "WBYFC Rapids U11",
+      "home_score": 0,
+      "away_score": 7,
+      "venue": "U11 Sun Spring Div 7",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Stanton Ilkeston Phoenix U11",
+      "home_away": "home",
+      "opponent": "WBYFC Rapids U11",
+      "goals_for": 0,
+      "goals_against": 7
+    },
     {
       "id": "e2d1c7476d340f366d08abc2f1e213ec",
       "date": "2026-03-21",

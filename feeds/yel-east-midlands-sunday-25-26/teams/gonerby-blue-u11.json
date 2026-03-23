@@ -1,19 +1,8 @@
 {
   "team": "Gonerby Blue U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "3e15d32a46b54acf881567f43c180823",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Gonerby Blue U11",
-      "away_team": "Notts County Women U11 ^",
-      "venue": "Grantham Meres Leisure Centre NG31 7XQ",
-      "division": "U11 Sun Spring Div 6 Gold",
-      "home_away": "home",
-      "opponent": "Notts County Women U11 ^"
-    },
     {
       "id": "370a81950f46649df73ff7806d3a4792",
       "date": "2026-03-29",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "3e15d32a46b54acf881567f43c180823",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Gonerby Blue U11",
+      "away_team": "Notts County Women U11 ^",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "U11 Sun Spring Div 6 Gold",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Notts County Women U11 ^",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "f413c92088e046d9fd7834fad277692f",
       "date": "2026-03-15",

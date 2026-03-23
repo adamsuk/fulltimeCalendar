@@ -1,19 +1,8 @@
 {
   "team": "Castle Donington Tigers U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "5cf903f3f3e6e57ea3b1addc26db4ec3",
-      "date": "2026-03-22",
-      "time": "09:00",
-      "home_team": "Pelican Colts Yellow U12",
-      "away_team": "Castle Donington Tigers U12",
-      "venue": "Dave Eastwood Sports Ground NG7 2SA",
-      "division": "U12 Sun Spring Div 5",
-      "home_away": "away",
-      "opponent": "Pelican Colts Yellow U12"
-    },
     {
       "id": "f9f9ba3a059ddd1f63406bd7b68adb87",
       "date": "2026-04-19",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5cf903f3f3e6e57ea3b1addc26db4ec3",
+      "date": "2026-03-22",
+      "time": "09:00",
+      "home_team": "Pelican Colts Yellow U12",
+      "away_team": "Castle Donington Tigers U12",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "U12 Sun Spring Div 5",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Pelican Colts Yellow U12",
+      "goals_for": 6,
+      "goals_against": 1
+    },
     {
       "id": "f83f3cecdf03c6a338ddf2292cb87231",
       "date": "2026-03-15",

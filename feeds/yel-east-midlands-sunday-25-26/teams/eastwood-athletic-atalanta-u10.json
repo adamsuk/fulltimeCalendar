@@ -1,19 +1,8 @@
 {
   "team": "Eastwood Athletic Atalanta U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "6c2966b5880ab00abe400c2a5b0f41dd",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Selston FC Black U10",
-      "away_team": "Eastwood Athletic Atalanta U10",
-      "venue": "Selston Parish NG16 6EE",
-      "division": "U10 Sun Spring Div 5 Red",
-      "home_away": "away",
-      "opponent": "Selston FC Black U10"
-    },
     {
       "id": "7c3b4680d1b18829067a3f0eee3fb2cb",
       "date": "2026-03-29",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6c2966b5880ab00abe400c2a5b0f41dd",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Selston FC Black U10",
+      "away_team": "Eastwood Athletic Atalanta U10",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "U10 Sun Spring Div 5 Red",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Selston FC Black U10",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "8852c6bef611418cad32ca314aaa17b2",
       "date": "2026-03-15",

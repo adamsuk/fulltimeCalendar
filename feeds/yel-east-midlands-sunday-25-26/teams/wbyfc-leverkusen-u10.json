@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Leverkusen U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "a3c293cb403bda477d7d2de8f88a4762",
-      "date": "2026-03-22",
-      "time": "09:00",
-      "home_team": "WBYFC Leverkusen U10",
-      "away_team": "Wollaton H&B Gold U10",
-      "venue": "Gresham Sports Ground 3G Surface NG2 7YF",
-      "division": "U10 Sun Spring Div 6 Blue",
-      "home_away": "home",
-      "opponent": "Wollaton H&B Gold U10"
-    },
     {
       "id": "ca3600ba3fad7e26e0847723074a8d58",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a3c293cb403bda477d7d2de8f88a4762",
+      "date": "2026-03-22",
+      "time": "09:00",
+      "home_team": "WBYFC Leverkusen U10",
+      "away_team": "Wollaton H&B Gold U10",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "U10 Sun Spring Div 6 Blue",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Wollaton H&B Gold U10",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "4b7a5d55179ddc4af5871f2b0216aa74",
       "date": "2026-03-15",

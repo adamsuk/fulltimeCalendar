@@ -1,19 +1,8 @@
 {
   "team": "Ilkeston Town Panthers U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "f9e1e874b8e1c2b4ad153c27529b0cd7",
-      "date": "2026-03-22",
-      "time": "11:30",
-      "home_team": "Robin Hood Colts Red U13",
-      "away_team": "Ilkeston Town Panthers U13",
-      "venue": "Sherwood Fields, Edwinstowe NG21 9PW",
-      "division": "U13 Sun Spring Div 5 Gold",
-      "home_away": "away",
-      "opponent": "Robin Hood Colts Red U13"
-    },
     {
       "id": "dd1a4e2b14183b6d7f815dc9c241b313",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f9e1e874b8e1c2b4ad153c27529b0cd7",
+      "date": "2026-03-22",
+      "time": "11:30",
+      "home_team": "Robin Hood Colts Red U13",
+      "away_team": "Ilkeston Town Panthers U13",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "U13 Sun Spring Div 5 Gold",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Robin Hood Colts Red U13",
+      "goals_for": 6,
+      "goals_against": 1
+    },
     {
       "id": "3438029ed1d00e79bbc7ca886064fefd",
       "date": "2026-03-15",

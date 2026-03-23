@@ -1,21 +1,36 @@
 {
   "team": "Spondon Dynamos Blades U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
+    {
+      "id": "164dc7bf0a632df6aad452d32429e2e9",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Spondon Dynamos Blades U13",
+      "away_team": "Nottingham FC Green U13",
+      "venue": "Kirk Hallam Community Acadamy DE7 4HH",
+      "division": "U13 Sun YEL Cup",
+      "home_away": "home",
+      "opponent": "Nottingham FC Green U13"
+    }
+  ],
+  "results": [
     {
       "id": "1437a9a84ac071ecb22381ec56ae0b23",
       "date": "2026-03-22",
       "time": "10:50",
       "home_team": "Spondon Dynamos Blades U13",
       "away_team": "Alvaston Athletic Lions U13",
-      "venue": "Kirk Hallam Community Acadamy DE7 4HH",
-      "division": "U13 Sun Spring Premier Division",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "U13 Sun Spring Premier Division",
+      "division": "Unknown Division",
       "home_away": "home",
-      "opponent": "Alvaston Athletic Lions U13"
-    }
-  ],
-  "results": [
+      "opponent": "Alvaston Athletic Lions U13",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "f95c0afaec73c1036707a3ef99bae1f4",
       "date": "2026-03-15",

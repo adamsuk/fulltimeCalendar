@@ -1,19 +1,8 @@
 {
   "team": "Ilkeston Town Robins U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "38e282a80c6f8a989fcdcf952cf08727",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Ilkeston Town Robins U13",
-      "away_team": "Meden Vale Colts Gold U13",
-      "venue": "Booths Playing Fields DE7 8JF",
-      "division": "U13 Sun Spring Div 3",
-      "home_away": "home",
-      "opponent": "Meden Vale Colts Gold U13"
-    },
     {
       "id": "2c1942b16087d940f7a753e759d132f9",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "38e282a80c6f8a989fcdcf952cf08727",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Robins U13",
+      "away_team": "Meden Vale Colts Gold U13",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "U13 Sun Spring Div 3",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts Gold U13",
+      "goals_for": 6,
+      "goals_against": 0
+    },
     {
       "id": "d51b943d633c824946c64732635436f2",
       "date": "2026-03-15",

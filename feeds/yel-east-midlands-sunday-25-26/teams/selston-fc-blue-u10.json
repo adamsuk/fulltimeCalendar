@@ -1,19 +1,8 @@
 {
   "team": "Selston FC Blue U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "c71d62d299ff57b08a28fbece92ca599",
-      "date": "2026-03-22",
-      "time": "12:30",
-      "home_team": "Collingham FC Panthers U10",
-      "away_team": "Selston FC Blue U10",
-      "venue": "Collingham FC NG23 7RA",
-      "division": "U10 Sun Spring Div 2 Red",
-      "home_away": "away",
-      "opponent": "Collingham FC Panthers U10"
-    },
     {
       "id": "ae80fd8ff68b2951160d23a45b181c9a",
       "date": "2026-03-29",
@@ -28,19 +17,34 @@
   ],
   "results": [
     {
+      "id": "c71d62d299ff57b08a28fbece92ca599",
+      "date": "2026-03-22",
+      "time": "12:30",
+      "home_team": "Collingham FC Panthers U10",
+      "away_team": "Selston FC Blue U10",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "U10 Sun Spring Div 2 Red",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Collingham FC Panthers U10",
+      "goals_for": 0,
+      "goals_against": 4
+    },
+    {
       "id": "c67265e4d31378a1d5c8db9626495122",
       "date": "2026-03-15",
       "time": "10:00",
       "home_team": "Club FDNA Barca U10",
       "away_team": "Selston FC Blue U10",
-      "home_score": 3,
-      "away_score": 1,
+      "home_score": 1,
+      "away_score": 3,
       "venue": "U10 Sun Spring Div 2 Red",
       "division": "Unknown Division",
       "home_away": "away",
       "opponent": "Club FDNA Barca U10",
-      "goals_for": 1,
-      "goals_against": 3
+      "goals_for": 3,
+      "goals_against": 1
     },
     {
       "id": "e2e1fa962b922a0f8af629d7c57f4f87",

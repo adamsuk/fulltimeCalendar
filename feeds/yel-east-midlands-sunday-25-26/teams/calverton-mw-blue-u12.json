@@ -1,19 +1,8 @@
 {
   "team": "Calverton MW Blue U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "be909e6869fd424a3af2788bad594ce8",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Calverton MW Blue U12",
-      "away_team": "Dunkirk U12",
-      "venue": "Kinton Park NG14 6NR",
-      "division": "U12 Sun Spring Premier Division",
-      "home_away": "home",
-      "opponent": "Dunkirk U12"
-    },
     {
       "id": "7b783b4eaf86e7f33f1cea6e67f48691",
       "date": "2026-04-16",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "be909e6869fd424a3af2788bad594ce8",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Calverton MW Blue U12",
+      "away_team": "Dunkirk U12",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "U12 Sun Spring Premier Division",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Dunkirk U12",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "26776a83c755368e92280e7055f4d0f8",
       "date": "2026-03-15",

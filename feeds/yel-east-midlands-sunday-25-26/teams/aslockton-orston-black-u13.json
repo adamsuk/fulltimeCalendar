@@ -1,19 +1,8 @@
 {
   "team": "Aslockton & Orston Black U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "bc5392f592cb55d13a34d302a48d8c4b",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Aslockton & Orston Black U13",
-      "away_team": "Eastwood CFC Black U13",
-      "venue": "Orston Sports Field  NG13 9PL",
-      "division": "U13 Sun Spring Div 1 Gold",
-      "home_away": "home",
-      "opponent": "Eastwood CFC Black U13"
-    },
     {
       "id": "eab653555401f5e7af7a4271560d6f9d",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "bc5392f592cb55d13a34d302a48d8c4b",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Aslockton & Orston Black U13",
+      "away_team": "Eastwood CFC Black U13",
+      "home_score": 6,
+      "away_score": 4,
+      "venue": "U13 Sun Spring Div 1 Gold",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Eastwood CFC Black U13",
+      "goals_for": 6,
+      "goals_against": 4
+    },
     {
       "id": "62a95ca71402b011f212acc9ccbc20db",
       "date": "2026-03-15",

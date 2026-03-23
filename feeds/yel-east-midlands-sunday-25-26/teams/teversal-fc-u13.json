@@ -1,19 +1,8 @@
 {
   "team": "Teversal FC U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "e61f3649748b5d62ca8b250ab471f6d1",
-      "date": "2026-03-22",
-      "time": "12:30",
-      "home_team": "Teversal FC U13",
-      "away_team": "Ropsley Colts U13",
-      "venue": "Peartree Lane NG17 3JP",
-      "division": "U13 Sun Spring Div 6",
-      "home_away": "home",
-      "opponent": "Ropsley Colts U13"
-    },
     {
       "id": "67c63624166a9d4de0f9f57399c8c0ac",
       "date": "2026-04-12",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e61f3649748b5d62ca8b250ab471f6d1",
+      "date": "2026-03-22",
+      "time": "12:30",
+      "home_team": "Teversal FC U13",
+      "away_team": "Ropsley Colts U13",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "U13 Sun Spring Div 6",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Ropsley Colts U13",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "7fd7cc167f4798e7925dd324454fb93b",
       "date": "2026-03-15",

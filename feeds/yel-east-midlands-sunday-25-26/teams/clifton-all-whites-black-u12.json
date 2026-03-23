@@ -1,19 +1,8 @@
 {
   "team": "Clifton All Whites Black U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "2e7d5ffe8f6baf33a222a7eab4ee4fc9",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Arnold Town Maroon U12",
-      "away_team": "Clifton All Whites Black U12",
-      "venue": "Eagle Valley NG5 8PS",
-      "division": "U12 Sun Spring Div 1 Silver",
-      "home_away": "away",
-      "opponent": "Arnold Town Maroon U12"
-    },
     {
       "id": "8bd4cc8c839415d03451edf096abe620",
       "date": "2026-04-23",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2e7d5ffe8f6baf33a222a7eab4ee4fc9",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Arnold Town Maroon U12",
+      "away_team": "Clifton All Whites Black U12",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "U12 Sun Spring Div 1 Silver",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Arnold Town Maroon U12",
+      "goals_for": 6,
+      "goals_against": 2
+    },
     {
       "id": "7be6da3c335f28d119c16baca76047aa",
       "date": "2026-03-15",

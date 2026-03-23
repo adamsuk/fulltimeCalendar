@@ -1,19 +1,8 @@
 {
   "team": "Toton Tornados Cyclones U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "cb16e86e0ffeb1c803959361e300c93a",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Heanor Juniors Predators U10",
-      "away_team": "Toton Tornados Cyclones U10",
-      "venue": "Charles Hill DE75 7RN",
-      "division": "U10 Sun Spring Div 5 Red",
-      "home_away": "away",
-      "opponent": "Heanor Juniors Predators U10"
-    },
     {
       "id": "4e17c038a866c61970d6a2b8a2b6d960",
       "date": "2026-03-29",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "cb16e86e0ffeb1c803959361e300c93a",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Heanor Juniors Predators U10",
+      "away_team": "Toton Tornados Cyclones U10",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "U10 Sun Spring Div 5 Red",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Heanor Juniors Predators U10",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "ac575a63b78f9d1587e42c4c1d2f971f",
       "date": "2026-03-15",

@@ -1,19 +1,8 @@
 {
   "team": "Moorgreen Colts Blue U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "b2e3b6a6601b9e49e9ef913e88a98647",
-      "date": "2026-03-22",
-      "time": "12:00",
-      "home_team": "Moorgreen Colts Blue U14",
-      "away_team": "PMG Excel U14",
-      "venue": "Birnham Pk A610 Estwd/Kim Bypss NG16 2DE",
-      "division": "U14 Sun YEL Shield",
-      "home_away": "home",
-      "opponent": "PMG Excel U14"
-    },
     {
       "id": "7bf2f8dc64a1759ee02b71175ea10f94",
       "date": "2026-03-29",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b2e3b6a6601b9e49e9ef913e88a98647",
+      "date": "2026-03-22",
+      "time": "12:00",
+      "home_team": "Moorgreen Colts Blue U14",
+      "away_team": "PMG Excel U14",
+      "home_score": 0,
+      "away_score": 10,
+      "venue": "U14 Sun YEL Shield",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "PMG Excel U14",
+      "goals_for": 0,
+      "goals_against": 10
+    },
     {
       "id": "9c59e1e368393f1cb48078d310f0b691",
       "date": "2026-03-15",

@@ -1,19 +1,8 @@
 {
   "team": "Barrowby FC Black U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "35a2a2a8035cbecea27376b9836bb845",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Carlton Town Blue U10",
-      "away_team": "Barrowby FC Black U10",
-      "venue": "Magenta Way NG14 5HH",
-      "division": "U10 Sun Spring Div 6 Red",
-      "home_away": "away",
-      "opponent": "Carlton Town Blue U10"
-    },
     {
       "id": "f235ca71b423a59a30110008c9976e9b",
       "date": "2026-03-29",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "35a2a2a8035cbecea27376b9836bb845",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Carlton Town Blue U10",
+      "away_team": "Barrowby FC Black U10",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "U10 Sun Spring Div 6 Red",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Carlton Town Blue U10",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "63d75024da0f9ab893a010e2f9bda437",
       "date": "2026-03-15",

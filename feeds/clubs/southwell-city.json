@@ -1,33 +1,7 @@
 {
   "club": "Southwell City",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "ed2dcdeb09bed1b372280ecbae30436b",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Southwell City Devils U8",
-      "away_team": "DLFC Gold U8",
-      "venue": "Southwell City FC NG25 0JP",
-      "division": "U8 Sun Spring 1",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Southwell City Devils U8",
-      "home_away": "home",
-      "opponent": "DLFC Gold U8"
-    },
-    {
-      "id": "0c62b3449450fad92cac43453b1b2e94",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Keyworth United Yellow U13",
-      "away_team": "Southwell City Falcons U13",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U13 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Southwell City Falcons U13",
-      "home_away": "away",
-      "opponent": "Keyworth United Yellow U13"
-    },
     {
       "id": "a1908cca3700838a30315a8b391f9135",
       "date": "2026-03-28",
@@ -302,19 +276,6 @@
       "opponent": "Newark Brazil Santos U8"
     },
     {
-      "id": "64df7bd151609ff20883e6bf26dff9ca",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Southwell City Lions U11",
-      "away_team": "Keyworth United White U11",
-      "venue": "Southwell City FC  NG25 0JP",
-      "division": "U11 Sat Spring Div 7 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Southwell City Lions U11",
-      "home_away": "home",
-      "opponent": "Keyworth United White U11"
-    },
-    {
       "id": "78f7d374068c9bf88f119fd6182a7955",
       "date": "2026-04-18",
       "time": "10:00",
@@ -365,6 +326,19 @@
       "team": "Southwell City Wolverines U11",
       "home_away": "home",
       "opponent": "Cotgrave FC Claret U11"
+    },
+    {
+      "id": "64df7bd151609ff20883e6bf26dff9ca",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Southwell City Lions U11",
+      "away_team": "Keyworth United White U11",
+      "venue": "Southwell City FC  NG25 0JP",
+      "division": "U11 Sat Spring Div 7 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Southwell City Lions U11",
+      "home_away": "home",
+      "opponent": "Keyworth United White U11"
     },
     {
       "id": "c622189f384fb4a980cabc5123982269",
@@ -628,6 +602,40 @@
     }
   ],
   "results": [
+    {
+      "id": "0c62b3449450fad92cac43453b1b2e94",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Keyworth United Yellow U13",
+      "away_team": "Southwell City Falcons U13",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "U13 Sun Spring Div 1 Silver",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Southwell City Falcons U13",
+      "home_away": "away",
+      "opponent": "Keyworth United Yellow U13",
+      "goals_for": 3,
+      "goals_against": 5
+    },
+    {
+      "id": "ed2dcdeb09bed1b372280ecbae30436b",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Southwell City Devils U8",
+      "away_team": "DLFC Gold U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U8 Sun Spring 1",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Southwell City Devils U8",
+      "home_away": "home",
+      "opponent": "DLFC Gold U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "08a0fc52076377fcd3e7e4f6b9d160ec",
       "date": "2026-03-21",

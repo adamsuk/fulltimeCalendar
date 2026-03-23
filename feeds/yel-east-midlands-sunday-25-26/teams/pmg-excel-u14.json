@@ -1,19 +1,8 @@
 {
   "team": "PMG Excel U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "b2e3b6a6601b9e49e9ef913e88a98647",
-      "date": "2026-03-22",
-      "time": "12:00",
-      "home_team": "Moorgreen Colts Blue U14",
-      "away_team": "PMG Excel U14",
-      "venue": "Birnham Pk A610 Estwd/Kim Bypss NG16 2DE",
-      "division": "U14 Sun YEL Shield",
-      "home_away": "away",
-      "opponent": "Moorgreen Colts Blue U14"
-    },
     {
       "id": "5ea6a0eb8f5adccfecdc5859ee15eedd",
       "date": "2026-03-29",
@@ -24,6 +13,17 @@
       "division": "U14 Sun Spring Div 3 Blue",
       "home_away": "away",
       "opponent": "Ernehale Colts U14"
+    },
+    {
+      "id": "6e1645ac59fee1c60b64528fa35108a3",
+      "date": "2026-04-16",
+      "time": "18:00",
+      "home_team": "Carlton Town Wolves U14",
+      "away_team": "PMG Excel U14",
+      "venue": "Magenta Way NG14 5HH",
+      "division": "U14 Sun YEL Shield",
+      "home_away": "away",
+      "opponent": "Carlton Town Wolves U14"
     },
     {
       "id": "cea4579bbbb4d52e1bc76b2fc8620427",
@@ -49,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b2e3b6a6601b9e49e9ef913e88a98647",
+      "date": "2026-03-22",
+      "time": "12:00",
+      "home_team": "Moorgreen Colts Blue U14",
+      "away_team": "PMG Excel U14",
+      "home_score": 0,
+      "away_score": 10,
+      "venue": "U14 Sun YEL Shield",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Moorgreen Colts Blue U14",
+      "goals_for": 10,
+      "goals_against": 0
+    },
     {
       "id": "0ed6187cf8946c5c6cd9f315d3c1052d",
       "date": "2026-03-15",

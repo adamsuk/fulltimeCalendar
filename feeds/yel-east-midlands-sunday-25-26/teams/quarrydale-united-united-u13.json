@@ -1,19 +1,8 @@
 {
   "team": "Quarrydale United United U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "fcf525c25814d7a292c41ef9380a98ae",
-      "date": "2026-03-22",
-      "time": "09:30",
-      "home_team": "Quarrydale United United U13",
-      "away_team": "Long Eaton United Red U13",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U13 Sun YEL Shield",
-      "home_away": "home",
-      "opponent": "Long Eaton United Red U13"
-    },
     {
       "id": "35da660cb3ee0d1fee4e739438022a37",
       "date": "2026-03-29",
@@ -26,8 +15,8 @@
       "opponent": "Priory Celtic 1967 U13"
     },
     {
-      "id": "61f3e5ac9c91e5b82479b81a1e747366",
-      "date": "2026-04-19",
+      "id": "17e201c4e08201adc3bcdb240550362a",
+      "date": "2026-04-12",
       "time": "10:00",
       "home_team": "Hucknall Sports White U13",
       "away_team": "Quarrydale United United U13",
@@ -35,6 +24,17 @@
       "division": "U13 Sun Spring Div 2 Red",
       "home_away": "away",
       "opponent": "Hucknall Sports White U13"
+    },
+    {
+      "id": "ef7b11c26019eae407441b0bf9040171",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "WBYFC Atlantis U13",
+      "away_team": "Quarrydale United United U13",
+      "venue": "Regatta Way NG2 5AT",
+      "division": "U13 Sun YEL Shield",
+      "home_away": "away",
+      "opponent": "WBYFC Atlantis U13"
     },
     {
       "id": "b9bcafbb46e2fa7bfecc36f41b2b74cb",
@@ -49,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "fcf525c25814d7a292c41ef9380a98ae",
+      "date": "2026-03-22",
+      "time": "09:30",
+      "home_team": "Quarrydale United United U13",
+      "away_team": "Long Eaton United Red U13",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "U13 Sun YEL Shield",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Long Eaton United Red U13",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "d5b953849b9cbee5671f443d93af8eca",
       "date": "2026-03-08",

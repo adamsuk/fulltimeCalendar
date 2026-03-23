@@ -1,6 +1,6 @@
 {
   "club": "Radcliffe Olympic",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
     {
       "id": "b5380b814e938970d9b439a54ab4e2ff",
@@ -14,71 +14,6 @@
       "team": "Radcliffe Olympic Leopards U8",
       "home_away": "home",
       "opponent": "WBYFC Dynamos Stripes U8"
-    },
-    {
-      "id": "c0dee1e987d0e57bcbbd3accf97c71b9",
-      "date": "2026-03-21",
-      "time": "10:00",
-      "home_team": "Star Strike Tigers U10",
-      "away_team": "Radcliffe Olympic Outlaws U10",
-      "venue": "Breck Hill Park NG5 4GP",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Radcliffe Olympic Outlaws U10",
-      "home_away": "away",
-      "opponent": "Star Strike Tigers U10"
-    },
-    {
-      "id": "21e2067a97ef6faa3f0ee8fefe1d36d2",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic Jaguars U8",
-      "away_team": "Club FDNA Marseille U8",
-      "venue": "Radcliffe on Trent Cricket Club NG12 2DU",
-      "division": "U8 Sun Spring 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Radcliffe Olympic Jaguars U8",
-      "home_away": "home",
-      "opponent": "Club FDNA Marseille U8"
-    },
-    {
-      "id": "6cfbef85c8a56a69e9873ba1b5d71f7c",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "WBYFC Feyanoord Black U7",
-      "away_team": "Radcliffe Olympic Tigers U7",
-      "venue": "Gresham Sports Pitch NG2 7YF",
-      "division": "U7 Sun Spring Yellow",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Radcliffe Olympic Tigers U7",
-      "home_away": "away",
-      "opponent": "WBYFC Feyanoord Black U7"
-    },
-    {
-      "id": "fa752d9e21041553c2f830f40f9da3cf",
-      "date": "2026-03-22",
-      "time": "10:30",
-      "home_team": "Radcliffe Olympic Lions U7",
-      "away_team": "Mapperley All Stars Yellow U7",
-      "venue": "Radcliffe on Trent Cricket Club NG12 2DU",
-      "division": "U7 Sun Spring Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Radcliffe Olympic Lions U7",
-      "home_away": "home",
-      "opponent": "Mapperley All Stars Yellow U7"
-    },
-    {
-      "id": "b3d42adbf4356b4f534e4564aac53182",
-      "date": "2026-03-22",
-      "time": "10:30",
-      "home_team": "Radcliffe Olympic U11",
-      "away_team": "G3A FC Ajax U11",
-      "venue": "Bingham Road NG12 2GP",
-      "division": "U11 Sun YEL Trophy",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Radcliffe Olympic U11",
-      "home_away": "home",
-      "opponent": "G3A FC Ajax U11"
     },
     {
       "id": "e3098a3c6f61ab8ac4080f75ca18791f",
@@ -705,19 +640,6 @@
       "opponent": "Newark Brazil Corinthians U8"
     },
     {
-      "id": "8af9f57877b701d3c53d485f91d6ff02",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Sneinton Town U12",
-      "away_team": "Radcliffe Olympic Blue U12",
-      "venue": "Nottingham Academy NG3 7EB",
-      "division": "U12 Sat Spring Div 7 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Radcliffe Olympic Blue U12",
-      "home_away": "away",
-      "opponent": "Sneinton Town U12"
-    },
-    {
       "id": "b3f626dc53ede848b820aa4cb3ac93b5",
       "date": "2026-04-25",
       "time": "10:00",
@@ -848,6 +770,19 @@
       "opponent": "Winthorpe & Cod T Black U12"
     },
     {
+      "id": "8af9f57877b701d3c53d485f91d6ff02",
+      "date": "2026-04-25",
+      "time": "11:30",
+      "home_team": "Sneinton Town U12",
+      "away_team": "Radcliffe Olympic Blue U12",
+      "venue": "Carlton le Willows School NG4 4AA",
+      "division": "U12 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Radcliffe Olympic Blue U12",
+      "home_away": "away",
+      "opponent": "Sneinton Town U12"
+    },
+    {
       "id": "17fe4e62f195011d585c2da50f7e0c2f",
       "date": "2026-04-26",
       "time": "10:00",
@@ -914,6 +849,74 @@
     }
   ],
   "results": [
+    {
+      "id": "fa752d9e21041553c2f830f40f9da3cf",
+      "date": "2026-03-22",
+      "time": "10:30",
+      "home_team": "Radcliffe Olympic Lions U7",
+      "away_team": "Mapperley All Stars Yellow U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Sun Spring Blue",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Radcliffe Olympic Lions U7",
+      "home_away": "home",
+      "opponent": "Mapperley All Stars Yellow U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "b3d42adbf4356b4f534e4564aac53182",
+      "date": "2026-03-22",
+      "time": "10:30",
+      "home_team": "Radcliffe Olympic U11",
+      "away_team": "G3A FC Ajax U11",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "U11 Sun YEL Trophy",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Radcliffe Olympic U11",
+      "home_away": "home",
+      "opponent": "G3A FC Ajax U11",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
+      "id": "21e2067a97ef6faa3f0ee8fefe1d36d2",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic Jaguars U8",
+      "away_team": "Club FDNA Marseille U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U8 Sun Spring 2 Blue",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Radcliffe Olympic Jaguars U8",
+      "home_away": "home",
+      "opponent": "Club FDNA Marseille U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "6cfbef85c8a56a69e9873ba1b5d71f7c",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "WBYFC Feyanoord Black U7",
+      "away_team": "Radcliffe Olympic Tigers U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Sun Spring Yellow",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Radcliffe Olympic Tigers U7",
+      "home_away": "away",
+      "opponent": "WBYFC Feyanoord Black U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "39b1e52a77e0e93ed67dbe73296fa719",
       "date": "2026-03-21",
@@ -1049,6 +1052,23 @@
       "opponent": "Bottesford Blue U9",
       "goals_for": 5,
       "goals_against": 1
+    },
+    {
+      "id": "c0dee1e987d0e57bcbbd3accf97c71b9",
+      "date": "2026-03-21",
+      "time": "10:00",
+      "home_team": "Star Strike Tigers U10",
+      "away_team": "Radcliffe Olympic Outlaws U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U10 Saturday",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Radcliffe Olympic Outlaws U10",
+      "home_away": "away",
+      "opponent": "Star Strike Tigers U10",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "39f2dff503bb849a6a21f35557d9face",

@@ -1,33 +1,7 @@
 {
   "club": "Ashfield Athletic",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "598f87f4116b3a1f0b19b190da2dc7e2",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Shirebrook Rangers U12",
-      "away_team": "Ashfield Athletic U12",
-      "venue": "Shirebrook Academy NG20 8QF",
-      "division": "U12 Sun Spring Div 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ashfield Athletic U12",
-      "home_away": "away",
-      "opponent": "Shirebrook Rangers U12"
-    },
-    {
-      "id": "4e80443f0c6a67b086d2619713c9e8f5",
-      "date": "2026-03-22",
-      "time": "10:30",
-      "home_team": "Asfordby Panthers U13",
-      "away_team": "Ashfield Athletic U13",
-      "venue": "Asfordby Acres LE14 3TL",
-      "division": "U13 Sun Spring Div 3",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ashfield Athletic U13",
-      "home_away": "away",
-      "opponent": "Asfordby Panthers U13"
-    },
     {
       "id": "b1a0defaa02e2a4c5385aea33d7a16db",
       "date": "2026-03-29",
@@ -69,6 +43,40 @@
     }
   ],
   "results": [
+    {
+      "id": "4e80443f0c6a67b086d2619713c9e8f5",
+      "date": "2026-03-22",
+      "time": "10:30",
+      "home_team": "Asfordby Panthers U13",
+      "away_team": "Ashfield Athletic U13",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "U13 Sun Spring Div 3",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ashfield Athletic U13",
+      "home_away": "away",
+      "opponent": "Asfordby Panthers U13",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
+      "id": "598f87f4116b3a1f0b19b190da2dc7e2",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers U12",
+      "away_team": "Ashfield Athletic U12",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "U12 Sun Spring Div 2 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ashfield Athletic U12",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers U12",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "6bdb49bafa5228b1d94a720838682f0c",
       "date": "2026-03-15",

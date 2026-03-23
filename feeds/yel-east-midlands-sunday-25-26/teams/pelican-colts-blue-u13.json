@@ -1,19 +1,8 @@
 {
   "team": "Pelican Colts Blue U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "33bea1a75b2f08c8e825d8f2e893c4d1",
-      "date": "2026-03-22",
-      "time": "11:30",
-      "home_team": "Priory Celtic Hoops U13",
-      "away_team": "Pelican Colts Blue U13",
-      "venue": "Kimberley Leisure Centre NG16 2NJ",
-      "division": "U13 Sun YEL Trophy",
-      "home_away": "away",
-      "opponent": "Priory Celtic Hoops U13"
-    },
     {
       "id": "2228a78dfb23aa3e3d68b40678f94e96",
       "date": "2026-03-29",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "33bea1a75b2f08c8e825d8f2e893c4d1",
+      "date": "2026-03-22",
+      "time": "11:30",
+      "home_team": "Priory Celtic Hoops U13",
+      "away_team": "Pelican Colts Blue U13",
+      "home_score": 6,
+      "away_score": 4,
+      "venue": "U13 Sun YEL Trophy",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Priory Celtic Hoops U13",
+      "goals_for": 4,
+      "goals_against": 6
+    },
     {
       "id": "ac126945cb0c85b3d38f76b099e678e0",
       "date": "2026-03-15",

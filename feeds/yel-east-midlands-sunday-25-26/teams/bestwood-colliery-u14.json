@@ -1,19 +1,8 @@
 {
   "team": "Bestwood Colliery U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "872318dca2080e08ef3aefcd63106845",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Attenborough Colts Spartans U14",
-      "away_team": "Bestwood Colliery U14",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U14 Sun YEL Cup",
-      "home_away": "away",
-      "opponent": "Attenborough Colts Spartans U14"
-    },
     {
       "id": "901588587bbded3f7f60cc61f81ab3e4",
       "date": "2026-03-29",
@@ -46,9 +35,35 @@
       "division": "U14 Sun Spring Premier Division",
       "home_away": "home",
       "opponent": "Selston U14"
+    },
+    {
+      "id": "cf56b3049290c3e5a85f79c531794cc2",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "Keyworth United Warriors U14",
+      "away_team": "Bestwood Colliery U14",
+      "venue": "Platt Lane NG12 5GE",
+      "division": "U14 Sun YEL Cup",
+      "home_away": "away",
+      "opponent": "Keyworth United Warriors U14"
     }
   ],
   "results": [
+    {
+      "id": "872318dca2080e08ef3aefcd63106845",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Attenborough Colts Spartans U14",
+      "away_team": "Bestwood Colliery U14",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "U14 Sun YEL Cup",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Attenborough Colts Spartans U14",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "343d71f7e83222e4a09c0dbabbe630b3",
       "date": "2026-03-15",

@@ -1,30 +1,8 @@
 {
   "team": "WBYFC Courage Black U8",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "ad0e744fbfaca2314937daab22ab2b1b",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "WBYFC Courage Black U8",
-      "away_team": "Eastwood CFC Eagles U8",
-      "venue": "Alford Road, NG2 6HP",
-      "division": "U8 Sun Spring 2 Blue",
-      "home_away": "home",
-      "opponent": "Eastwood CFC Eagles U8"
-    },
-    {
-      "id": "10f87826dd725bc94294f449222d05a5",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Mapperley All Stars Blue U8",
-      "away_team": "WBYFC Courage Black U8",
-      "venue": "Colwick Recreation Ground NG4 2DW",
-      "division": "U8 Sunday",
-      "home_away": "away",
-      "opponent": "Mapperley All Stars Blue U8"
-    },
     {
       "id": "76202adc63a1bb0d42e36a1c0ce5a34c",
       "date": "2026-04-12",
@@ -60,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ad0e744fbfaca2314937daab22ab2b1b",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "WBYFC Courage Black U8",
+      "away_team": "Eastwood CFC Eagles U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U8 Sun Spring 2 Blue",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Eastwood CFC Eagles U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "27edaeb7c60e1c8566d75685f59a75dc",
       "date": "2026-03-15",

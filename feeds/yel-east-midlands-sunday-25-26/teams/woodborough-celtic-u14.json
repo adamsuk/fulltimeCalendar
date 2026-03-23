@@ -1,19 +1,8 @@
 {
   "team": "Woodborough Celtic U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "3cbc1f3eff73f5f342fcc522e94c934b",
-      "date": "2026-03-22",
-      "time": "10:30",
-      "home_team": "WBYFC AC U14",
-      "away_team": "Woodborough Celtic U14",
-      "venue": "Riverside Complex NG7 2SA",
-      "division": "U14 Sun Spring Div 2 Red",
-      "home_away": "away",
-      "opponent": "WBYFC AC U14"
-    },
     {
       "id": "16550dcd2233e58ad724a1f254027f1f",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "3cbc1f3eff73f5f342fcc522e94c934b",
+      "date": "2026-03-22",
+      "time": "10:30",
+      "home_team": "WBYFC AC U14",
+      "away_team": "Woodborough Celtic U14",
+      "home_score": 1,
+      "away_score": 11,
+      "venue": "U14 Sun Spring Div 2 Red",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "WBYFC AC U14",
+      "goals_for": 11,
+      "goals_against": 1
+    },
     {
       "id": "70f0bc26524e8d5b058b6eb5e203c244",
       "date": "2026-03-15",

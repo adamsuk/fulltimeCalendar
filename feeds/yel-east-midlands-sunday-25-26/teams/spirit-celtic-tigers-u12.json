@@ -1,19 +1,8 @@
 {
   "team": "Spirit Celtic Tigers U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "108dd6c13d6b1b2625e95f1d3cf840b8",
-      "date": "2026-03-22",
-      "time": "09:30",
-      "home_team": "Woodhouse Colts Red U12",
-      "away_team": "Spirit Celtic Tigers U12",
-      "venue": "Queensway Park NG19 0BX",
-      "division": "U12 Sun Spring Div 5",
-      "home_away": "away",
-      "opponent": "Woodhouse Colts Red U12"
-    },
     {
       "id": "44778a874c9a49470dda237106e69aa6",
       "date": "2026-03-29",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "108dd6c13d6b1b2625e95f1d3cf840b8",
+      "date": "2026-03-22",
+      "time": "09:30",
+      "home_team": "Woodhouse Colts Red U12",
+      "away_team": "Spirit Celtic Tigers U12",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "U12 Sun Spring Div 5",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Woodhouse Colts Red U12",
+      "goals_for": 5,
+      "goals_against": 0
+    },
     {
       "id": "f5642595c4ff5612ea81d425f1d08b9c",
       "date": "2026-03-15",

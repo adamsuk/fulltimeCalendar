@@ -1,46 +1,7 @@
 {
   "club": "Collingham FC",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "d2c17b0f8710d562646acd2cc8ce8440",
-      "date": "2026-03-14",
-      "time": "10:00",
-      "home_team": "Collingham FC Lions U7",
-      "away_team": "Silva FC Carlton Purple U7",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U7 Sat Spring 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Collingham FC Lions U7",
-      "home_away": "home",
-      "opponent": "Silva FC Carlton Purple U7"
-    },
-    {
-      "id": "0ab381374194cc2401cbdd6402add910",
-      "date": "2026-03-14",
-      "time": "11:00",
-      "home_team": "Arnold Town Blue U12",
-      "away_team": "Collingham FC Lions U12",
-      "venue": "Eagle Valley NG5 8PS",
-      "division": "U12 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Collingham FC Lions U12",
-      "home_away": "away",
-      "opponent": "Arnold Town Blue U12"
-    },
-    {
-      "id": "8a60b77c449b8b8a56ff1a57d69479de",
-      "date": "2026-03-21",
-      "time": "10:30",
-      "home_team": "Collingham FC Lions U12",
-      "away_team": "Edwalton Cavaliers White U12",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U12 Sat YEL Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Collingham FC Lions U12",
-      "home_away": "home",
-      "opponent": "Edwalton Cavaliers White U12"
-    },
     {
       "id": "9482081b7991f2d6b616c59a65a49ad9",
       "date": "2026-03-21",
@@ -53,45 +14,6 @@
       "team": "Collingham FC Lions U14",
       "home_away": "away",
       "opponent": "AJ Sport FC U14"
-    },
-    {
-      "id": "d7f3fdf5c0e7b8a169abfa7e748ef101",
-      "date": "2026-03-21",
-      "time": "11:30",
-      "home_team": "Long Eaton United Purple U11",
-      "away_team": "Collingham FC Cougars U11",
-      "venue": "Grange Park NG10 2EF",
-      "division": "U11 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Collingham FC Cougars U11",
-      "home_away": "away",
-      "opponent": "Long Eaton United Purple U11"
-    },
-    {
-      "id": "f6ac657d2f518add00547d42dd7caf8f",
-      "date": "2026-03-21",
-      "time": "18:30",
-      "home_team": "Collingham FC Cougars U11",
-      "away_team": "Newark Brazil Corinthians U11",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U11 Sat Spring Div 4 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Collingham FC Cougars U11",
-      "home_away": "home",
-      "opponent": "Newark Brazil Corinthians U11"
-    },
-    {
-      "id": "c71d62d299ff57b08a28fbece92ca599",
-      "date": "2026-03-22",
-      "time": "12:30",
-      "home_team": "Collingham FC Panthers U10",
-      "away_team": "Selston FC Blue U10",
-      "venue": "Collingham FC NG23 7RA",
-      "division": "U10 Sun Spring Div 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Collingham FC Panthers U10",
-      "home_away": "home",
-      "opponent": "Selston FC Blue U10"
     },
     {
       "id": "9ee7f2c1b4383450b68e29ec7ceccc84",
@@ -484,6 +406,19 @@
       "opponent": "Gedling Southbank Reds U10"
     },
     {
+      "id": "88a86009e2c26cd0d13f2c3dd53321bd",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "Collingham FC Cougars U11",
+      "away_team": "Newark Brazil Corinthians U11",
+      "venue": "Collingham FC  NG23 7RA",
+      "division": "U11 Sat Spring Div 4 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Collingham FC Cougars U11",
+      "home_away": "home",
+      "opponent": "Newark Brazil Corinthians U11"
+    },
+    {
       "id": "cef6c5dea70f7286dec0638653de6c3a",
       "date": "2026-04-25",
       "time": "10:00",
@@ -642,6 +577,23 @@
   ],
   "results": [
     {
+      "id": "c71d62d299ff57b08a28fbece92ca599",
+      "date": "2026-03-22",
+      "time": "12:30",
+      "home_team": "Collingham FC Panthers U10",
+      "away_team": "Selston FC Blue U10",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "U10 Sun Spring Div 2 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Collingham FC Panthers U10",
+      "home_away": "home",
+      "opponent": "Selston FC Blue U10",
+      "goals_for": 4,
+      "goals_against": 0
+    },
+    {
       "id": "658ae9a7cb255ea55dfdcb304c639a37",
       "date": "2026-03-21",
       "time": "13:00",
@@ -759,6 +711,23 @@
       "opponent": "DLFC Blue U14",
       "goals_for": 3,
       "goals_against": 3
+    },
+    {
+      "id": "8a60b77c449b8b8a56ff1a57d69479de",
+      "date": "2026-03-21",
+      "time": "10:30",
+      "home_team": "Collingham FC Lions U12",
+      "away_team": "Edwalton Cavaliers White U12",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "U12 Sat YEL Shield",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Collingham FC Lions U12",
+      "home_away": "home",
+      "opponent": "Edwalton Cavaliers White U12",
+      "goals_for": 0,
+      "goals_against": 1
     },
     {
       "id": "4683121a4994b1a67877b4975a6a8456",

@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Marseille U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "444a3cc137eaf2f34e75e2285f5448c0",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Calverton MW Maroon U9",
-      "away_team": "WBYFC Marseille U9",
-      "venue": "Kinton Park NG14 6NR",
-      "division": "U9 Sun Spring Div 7",
-      "home_away": "away",
-      "opponent": "Calverton MW Maroon U9"
-    },
     {
       "id": "7cf76c79a264826d2af83dde7e92d9c3",
       "date": "2026-03-29",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "444a3cc137eaf2f34e75e2285f5448c0",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Calverton MW Maroon U9",
+      "away_team": "WBYFC Marseille U9",
+      "home_score": 9,
+      "away_score": 4,
+      "venue": "U9 Sun Spring Div 7",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Calverton MW Maroon U9",
+      "goals_for": 4,
+      "goals_against": 9
+    },
     {
       "id": "a49a3496a949836b225b1cc5495be26a",
       "date": "2026-03-15",

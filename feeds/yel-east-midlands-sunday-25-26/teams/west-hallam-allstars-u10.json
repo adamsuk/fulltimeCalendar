@@ -1,19 +1,8 @@
 {
   "team": "West Hallam Allstars U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "9e85820e51360ace740b4e1109c571f3",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "West Hallam Allstars U10",
-      "away_team": "Mapperley All Stars Stripes U10",
-      "venue": "Stanley Village Rec Ground DE7 6FF",
-      "division": "U10 Sun Spring Div 2 Blue",
-      "home_away": "home",
-      "opponent": "Mapperley All Stars Stripes U10"
-    },
     {
       "id": "5943c2a43a90b33a521c4aad4303ac09",
       "date": "2026-03-29",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "9e85820e51360ace740b4e1109c571f3",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "West Hallam Allstars U10",
+      "away_team": "Mapperley All Stars Stripes U10",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "U10 Sun Spring Div 2 Blue",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Mapperley All Stars Stripes U10",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "9f51e19baeaae6c5862c5bed0b7ed2f4",
       "date": "2026-03-15",

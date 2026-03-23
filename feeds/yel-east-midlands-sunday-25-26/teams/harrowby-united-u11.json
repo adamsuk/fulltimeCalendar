@@ -1,19 +1,8 @@
 {
   "team": "Harrowby United U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "c8baa7d21260199d35ba8c62c399040f",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Harrowby United U11",
-      "away_team": "Nottingham FC Onyx U11",
-      "venue": "HARROWBY LANE PLAYING FIELDS NG31 9QY",
-      "division": "U11 Sun YEL Cup",
-      "home_away": "home",
-      "opponent": "Nottingham FC Onyx U11"
-    },
     {
       "id": "f2724d2096042255080095b676ae5462",
       "date": "2026-04-16",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c8baa7d21260199d35ba8c62c399040f",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Harrowby United U11",
+      "away_team": "Nottingham FC Onyx U11",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "U11 Sun YEL Cup",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Nottingham FC Onyx U11",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "fef52e6af9ee3bf21708394e5192512c",
       "date": "2026-03-15",

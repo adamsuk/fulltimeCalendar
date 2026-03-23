@@ -1,19 +1,8 @@
 {
   "team": "Meden Vale Colts Green U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "c0e42fb69c5cd44acd890c693e71a7d0",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Barrowby Junior Green U11",
-      "away_team": "Meden Vale Colts Green U11",
-      "venue": "Barrowby FC NG32 1DJ",
-      "division": "U11 Sun Spring Div 4 Red",
-      "home_away": "away",
-      "opponent": "Barrowby Junior Green U11"
-    },
     {
       "id": "6a5e916640df312ae337982d2947d564",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c0e42fb69c5cd44acd890c693e71a7d0",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Barrowby Junior Green U11",
+      "away_team": "Meden Vale Colts Green U11",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "U11 Sun Spring Div 4 Red",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Barrowby Junior Green U11",
+      "goals_for": 5,
+      "goals_against": 2
+    },
     {
       "id": "ed28a6ff4401b234e50f9a4b5254dd74",
       "date": "2026-03-15",

@@ -1,19 +1,8 @@
 {
   "team": "Borrowash Youth Leopards U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "e5d7d5b8cfeb332d78b71b3893fac6a5",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Borrowash Youth Leopards U9",
-      "away_team": "Priory Celtic 1967 U9",
-      "venue": "Deans Drive DE72 3GE",
-      "division": "U9 Sun YEL Challenge Trophy",
-      "home_away": "home",
-      "opponent": "Priory Celtic 1967 U9"
-    },
     {
       "id": "e8335c732b8210461874b2ca2841bdcf",
       "date": "2026-03-29",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e5d7d5b8cfeb332d78b71b3893fac6a5",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Borrowash Youth Leopards U9",
+      "away_team": "Priory Celtic 1967 U9",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "U9 Sun YEL Challenge Trophy",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Priory Celtic 1967 U9",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "d1eeb02ede263e187115ea0a8c0c55b1",
       "date": "2026-03-08",

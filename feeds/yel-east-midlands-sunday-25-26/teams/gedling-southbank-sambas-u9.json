@@ -1,19 +1,8 @@
 {
   "team": "Gedling Southbank Sambas U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "85729af8e9d241b238a1fe52344dffa0",
-      "date": "2026-03-22",
-      "time": "09:00",
-      "home_team": "DLFC Black U9",
-      "away_team": "Gedling Southbank Sambas U9",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U9 Sun Spring Div 2 Blue",
-      "home_away": "away",
-      "opponent": "DLFC Black U9"
-    },
     {
       "id": "9c75fa50d930681cb005934033835f1b",
       "date": "2026-03-29",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "85729af8e9d241b238a1fe52344dffa0",
+      "date": "2026-03-22",
+      "time": "09:00",
+      "home_team": "DLFC Black U9",
+      "away_team": "Gedling Southbank Sambas U9",
+      "home_score": 6,
+      "away_score": 2,
+      "venue": "U9 Sun Spring Div 2 Blue",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "DLFC Black U9",
+      "goals_for": 2,
+      "goals_against": 6
+    },
     {
       "id": "c7c7cf54da411e5a9622476540078352",
       "date": "2026-03-15",

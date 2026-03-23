@@ -1,30 +1,8 @@
 {
   "team": "Mapperley All Stars Stripes U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "9e85820e51360ace740b4e1109c571f3",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "West Hallam Allstars U10",
-      "away_team": "Mapperley All Stars Stripes U10",
-      "venue": "Stanley Village Rec Ground DE7 6FF",
-      "division": "U10 Sun Spring Div 2 Blue",
-      "home_away": "away",
-      "opponent": "West Hallam Allstars U10"
-    },
-    {
-      "id": "bbe77291403c2a666a194a4018ab11f6",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Mapperley All Stars Stripes U10",
-      "away_team": "Keyworth United White U10",
-      "venue": "Colwick Recreation Ground NG4 2DW",
-      "division": "U10 Sun Spring Div 2 Blue",
-      "home_away": "home",
-      "opponent": "Keyworth United White U10"
-    },
     {
       "id": "3d1701988abbe297ba000556ab9316d1",
       "date": "2026-04-19",
@@ -35,9 +13,35 @@
       "division": "U10 Sun Spring Div 2 Blue",
       "home_away": "away",
       "opponent": "Aslockton & Orston Blue U10"
+    },
+    {
+      "id": "1663d185ec8ab1578648680eb747008f",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Mapperley All Stars Stripes U10",
+      "away_team": "Keyworth United White U10",
+      "venue": "Colwick Recreation Ground NG4 2DW",
+      "division": "U10 Sun Spring Div 2 Blue",
+      "home_away": "home",
+      "opponent": "Keyworth United White U10"
     }
   ],
   "results": [
+    {
+      "id": "9e85820e51360ace740b4e1109c571f3",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "West Hallam Allstars U10",
+      "away_team": "Mapperley All Stars Stripes U10",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "U10 Sun Spring Div 2 Blue",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "West Hallam Allstars U10",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "4df425bac41ecba5aa24007dfa299e9b",
       "date": "2026-03-15",

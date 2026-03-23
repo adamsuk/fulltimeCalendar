@@ -1,46 +1,7 @@
 {
   "club": "Eastwood Athletic",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "6c2966b5880ab00abe400c2a5b0f41dd",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Selston FC Black U10",
-      "away_team": "Eastwood Athletic Atalanta U10",
-      "venue": "Selston Parish NG16 6EE",
-      "division": "U10 Sun Spring Div 5 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Eastwood Athletic Atalanta U10",
-      "home_away": "away",
-      "opponent": "Selston FC Black U10"
-    },
-    {
-      "id": "627f2867f9ebf1d3dcbc51ae00dc84eb",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Eastwood Athletic Vipers U14",
-      "away_team": "Castle Donington Lions U14",
-      "venue": "Hall Park NG16 3AR",
-      "division": "U14 Sun Spring Div 3 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Eastwood Athletic Vipers U14",
-      "home_away": "home",
-      "opponent": "Castle Donington Lions U14"
-    },
-    {
-      "id": "924db01eb622ffebc59b89d0606b40de",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Eastwood Athletic Blazers U11",
-      "away_team": "Borrowash Youth Panthers U11",
-      "venue": "Hall Park NG16 3AR",
-      "division": "U11 Sun Spring Div 7",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Eastwood Athletic Blazers U11",
-      "home_away": "home",
-      "opponent": "Borrowash Youth Panthers U11"
-    },
     {
       "id": "a39f5970ddcddf816a54968f8780999a",
       "date": "2026-03-28",
@@ -224,8 +185,8 @@
       "opponent": "Loughborough Eml Foxes U13"
     },
     {
-      "id": "14ced43aa84ab58749fbda993c4aa82f",
-      "date": "2026-04-23",
+      "id": "a4a4c56b0218f256830bc9bdab91bff0",
+      "date": "2026-04-22",
       "time": "18:00",
       "home_team": "Eastwood Athletic Vipers U14",
       "away_team": "Breaston Park Green U14",
@@ -342,6 +303,57 @@
     }
   ],
   "results": [
+    {
+      "id": "924db01eb622ffebc59b89d0606b40de",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Eastwood Athletic Blazers U11",
+      "away_team": "Borrowash Youth Panthers U11",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "U11 Sun Spring Div 7",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Eastwood Athletic Blazers U11",
+      "home_away": "home",
+      "opponent": "Borrowash Youth Panthers U11",
+      "goals_for": 1,
+      "goals_against": 4
+    },
+    {
+      "id": "6c2966b5880ab00abe400c2a5b0f41dd",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Selston FC Black U10",
+      "away_team": "Eastwood Athletic Atalanta U10",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "U10 Sun Spring Div 5 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Eastwood Athletic Atalanta U10",
+      "home_away": "away",
+      "opponent": "Selston FC Black U10",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
+      "id": "627f2867f9ebf1d3dcbc51ae00dc84eb",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Eastwood Athletic Vipers U14",
+      "away_team": "Castle Donington Lions U14",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "U14 Sun Spring Div 3 Blue",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Eastwood Athletic Vipers U14",
+      "home_away": "home",
+      "opponent": "Castle Donington Lions U14",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "cebc1ee2c6645af3f93a739523b4ed8f",
       "date": "2026-03-21",

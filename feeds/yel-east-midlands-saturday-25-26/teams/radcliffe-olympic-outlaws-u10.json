@@ -1,19 +1,8 @@
 {
   "team": "Radcliffe Olympic Outlaws U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "c0dee1e987d0e57bcbbd3accf97c71b9",
-      "date": "2026-03-21",
-      "time": "10:00",
-      "home_team": "Star Strike Tigers U10",
-      "away_team": "Radcliffe Olympic Outlaws U10",
-      "venue": "Breck Hill Park NG5 4GP",
-      "division": "U10 Saturday",
-      "home_away": "away",
-      "opponent": "Star Strike Tigers U10"
-    },
     {
       "id": "74003dd6edb8b62120d7dd16f85fe2e8",
       "date": "2026-04-21",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c0dee1e987d0e57bcbbd3accf97c71b9",
+      "date": "2026-03-21",
+      "time": "10:00",
+      "home_team": "Star Strike Tigers U10",
+      "away_team": "Radcliffe Olympic Outlaws U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U10 Saturday",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Star Strike Tigers U10",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "92f704b09320ef68c9f50a86c1ad7ca0",
       "date": "2026-03-14",

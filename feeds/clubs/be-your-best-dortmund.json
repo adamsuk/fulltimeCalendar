@@ -1,20 +1,7 @@
 {
   "club": "Be Your Best Dortmund",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "a85cc8d26ccc93d5f8d7e88d1e6c9d68",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "PFA Whites U10",
-      "away_team": "Be Your Best Dortmund U10",
-      "venue": "Dallygate Road NG33 5DP",
-      "division": "U10 Sun Spring Div 6 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Be Your Best Dortmund U10",
-      "home_away": "away",
-      "opponent": "PFA Whites U10"
-    },
     {
       "id": "ed892805b69aa556265e5cab9ee92111",
       "date": "2026-03-29",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "a85cc8d26ccc93d5f8d7e88d1e6c9d68",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "PFA Whites U10",
+      "away_team": "Be Your Best Dortmund U10",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "U10 Sun Spring Div 6 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Be Your Best Dortmund U10",
+      "home_away": "away",
+      "opponent": "PFA Whites U10",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "63d75024da0f9ab893a010e2f9bda437",
       "date": "2026-03-15",

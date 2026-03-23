@@ -1,20 +1,7 @@
 {
   "club": "Ravenshead FC",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "b3c306f1b2f698527cfe4ffc00a229a6",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Ravenshead FC U11",
-      "away_team": "Bestwood Colliery U11",
-      "venue": "Ravenshead leisure Centre NG15 9AG",
-      "division": "U11 Sun Spring Div 4 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ravenshead FC U11",
-      "home_away": "home",
-      "opponent": "Bestwood Colliery U11"
-    },
     {
       "id": "26a40080e7d949fce3227ff2a19241cd",
       "date": "2026-03-28",
@@ -94,19 +81,6 @@
       "opponent": "AFC Warriors Vikings U11"
     },
     {
-      "id": "77cd29e11d8b713100d1fd24d36164f5",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Calverton MW Blue U11",
-      "away_team": "Ravenshead FC U11",
-      "venue": "Kinton Park NG14 6NR",
-      "division": "U11 Sat Spring Div 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ravenshead FC U11",
-      "home_away": "away",
-      "opponent": "Calverton MW Blue U11"
-    },
-    {
       "id": "62e45d6f03ea86666f5dac0fdb4c7822",
       "date": "2026-04-26",
       "time": "10:00",
@@ -118,9 +92,39 @@
       "team": "Ravenshead FC U11",
       "home_away": "home",
       "opponent": "PMG Excel U11"
+    },
+    {
+      "id": "702a5c1b569262dbfb4a2f2f374e8474",
+      "date": "2026-04-28",
+      "time": "18:30",
+      "home_team": "Calverton MW Blue U11",
+      "away_team": "Ravenshead FC U11",
+      "venue": "Kinton Park NG14 6NR",
+      "division": "U11 Sat Spring Div 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ravenshead FC U11",
+      "home_away": "away",
+      "opponent": "Calverton MW Blue U11"
     }
   ],
   "results": [
+    {
+      "id": "b3c306f1b2f698527cfe4ffc00a229a6",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Ravenshead FC U11",
+      "away_team": "Bestwood Colliery U11",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "U11 Sun Spring Div 4 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ravenshead FC U11",
+      "home_away": "home",
+      "opponent": "Bestwood Colliery U11",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "e906ade37f110d6cf2b6104157f2013b",
       "date": "2026-03-21",

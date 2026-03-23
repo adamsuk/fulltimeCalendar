@@ -1,19 +1,8 @@
 {
   "team": "Pegasus FC U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "8a3bdc998114b2ed11ffc38f460ff604",
-      "date": "2026-03-22",
-      "time": "11:15",
-      "home_team": "Ilkeston Town Saxons U9",
-      "away_team": "Pegasus FC U9",
-      "venue": "Booths Playing Fields DE7 8JF",
-      "division": "U9 Sun Spring Div 7",
-      "home_away": "away",
-      "opponent": "Ilkeston Town Saxons U9"
-    },
     {
       "id": "7361f7afbdb6374165601578b35e29a2",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8a3bdc998114b2ed11ffc38f460ff604",
+      "date": "2026-03-22",
+      "time": "11:15",
+      "home_team": "Ilkeston Town Saxons U9",
+      "away_team": "Pegasus FC U9",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "U9 Sun Spring Div 7",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Ilkeston Town Saxons U9",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "a49a3496a949836b225b1cc5495be26a",
       "date": "2026-03-15",

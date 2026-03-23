@@ -1,19 +1,8 @@
 {
   "team": "Beeston FC U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "c760019e1caab5286e08805cc21f6177",
-      "date": "2026-03-22",
-      "time": "12:00",
-      "home_team": "Keyworth United Red U14",
-      "away_team": "Beeston FC U14",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U14 Sun YEL Inter Cup",
-      "home_away": "away",
-      "opponent": "Keyworth United Red U14"
-    },
     {
       "id": "b0d617c4bb5f9ac5a7f011016dfbe03a",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c760019e1caab5286e08805cc21f6177",
+      "date": "2026-03-22",
+      "time": "12:00",
+      "home_team": "Keyworth United Red U14",
+      "away_team": "Beeston FC U14",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "U14 Sun YEL Inter Cup",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Keyworth United Red U14",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "ac8a07cd1d8f3c85e8b7b1ab905320a3",
       "date": "2026-03-15",

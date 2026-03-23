@@ -1,19 +1,8 @@
 {
   "team": "Spirit Celtic White U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "392953c9907f75136e4bd658a0e9a95a",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Spirit Celtic White U11",
-      "away_team": "East Leake Bantams Black U11",
-      "venue": "Becket School NG2 7QY",
-      "division": "U11 Sun Spring Div 5 Blue",
-      "home_away": "home",
-      "opponent": "East Leake Bantams Black U11"
-    },
     {
       "id": "a925ad25eca552b75daba3185054444c",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "392953c9907f75136e4bd658a0e9a95a",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Spirit Celtic White U11",
+      "away_team": "East Leake Bantams Black U11",
+      "home_score": 13,
+      "away_score": 1,
+      "venue": "U11 Sun Spring Div 5 Blue",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "East Leake Bantams Black U11",
+      "goals_for": 13,
+      "goals_against": 1
+    },
     {
       "id": "d6d3be2d107634f4d451037e4f58a53b",
       "date": "2026-03-08",

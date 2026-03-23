@@ -1,19 +1,8 @@
 {
   "team": "Cotgrave FC Blue U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "7f878d7d42a1bfe33be2bb2bab1f1416",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Heanor Juniors Ultras U12",
-      "away_team": "Cotgrave FC Blue U12",
-      "venue": "Charles Hill DE75 7RN",
-      "division": "U12 Sun Spring Premier Division",
-      "home_away": "away",
-      "opponent": "Heanor Juniors Ultras U12"
-    },
     {
       "id": "e1a47ba36426ea4aad061e5b6f992301",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7f878d7d42a1bfe33be2bb2bab1f1416",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Heanor Juniors Ultras U12",
+      "away_team": "Cotgrave FC Blue U12",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "U12 Sun Spring Premier Division",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Heanor Juniors Ultras U12",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "764572ac825ecf156a94a311a1d4a844",
       "date": "2026-03-15",

@@ -1,20 +1,7 @@
 {
   "club": "Shirebrook Soldiers",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "0e74a2ee6177c2b1e8dda0ddbbb3b505",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Notts County Women U10 ^",
-      "away_team": "Shirebrook Soldiers Warriors U10",
-      "venue": "Southglade Leisure Centre NG5 5GU",
-      "division": "U10 Sun Spring Div 4 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Shirebrook Soldiers Warriors U10",
-      "home_away": "away",
-      "opponent": "Notts County Women U10 ^"
-    },
     {
       "id": "ec0ca4e03f37edac687aee149be50b62",
       "date": "2026-03-28",
@@ -82,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "0e74a2ee6177c2b1e8dda0ddbbb3b505",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Notts County Women U10 ^",
+      "away_team": "Shirebrook Soldiers Warriors U10",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "U10 Sun Spring Div 4 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Shirebrook Soldiers Warriors U10",
+      "home_away": "away",
+      "opponent": "Notts County Women U10 ^",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "6fb72ed8bbed507110cc60f1b5ca7ed6",
       "date": "2026-03-21",

@@ -1,19 +1,8 @@
 {
   "team": "Gedling Southbank Titans U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "2325d54b6aa92deeaeabf1b4a2806309",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Long Eaton United Red U11",
-      "away_team": "Gedling Southbank Titans U11",
-      "venue": "Grange Park NG10 2EG",
-      "division": "U11 Sun YEL Shield",
-      "home_away": "away",
-      "opponent": "Long Eaton United Red U11"
-    },
     {
       "id": "9ce40ba9089abe5f6647ab35fd064711",
       "date": "2026-04-16",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2325d54b6aa92deeaeabf1b4a2806309",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Long Eaton United Red U11",
+      "away_team": "Gedling Southbank Titans U11",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "U11 Sun YEL Shield",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Long Eaton United Red U11",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "41b34dc75665812d9fe5a5714ef498bd",
       "date": "2026-03-15",

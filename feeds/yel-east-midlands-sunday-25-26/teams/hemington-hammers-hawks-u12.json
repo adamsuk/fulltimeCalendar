@@ -1,19 +1,8 @@
 {
   "team": "Hemington Hammers Hawks U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "a6ca94b1207b0c3abf8fcb1f465859a5",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "WBYFC Flyers U12",
-      "away_team": "Hemington Hammers Hawks U12",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U12 Sun Spring Div 7",
-      "home_away": "away",
-      "opponent": "WBYFC Flyers U12"
-    },
     {
       "id": "d933f7216cc196d60e353b2f99ea713c",
       "date": "2026-03-29",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a6ca94b1207b0c3abf8fcb1f465859a5",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "WBYFC Flyers U12",
+      "away_team": "Hemington Hammers Hawks U12",
+      "home_score": 6,
+      "away_score": 5,
+      "venue": "U12 Sun Spring Div 7",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "WBYFC Flyers U12",
+      "goals_for": 5,
+      "goals_against": 6
+    },
     {
       "id": "385998f0bd7d47a4bb75a883639f2f21",
       "date": "2026-03-15",

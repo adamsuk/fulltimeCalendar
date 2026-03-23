@@ -1,19 +1,8 @@
 {
   "team": "Silva FC Sherwood U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "868344aa5dd6f337e115fd8dd3c18785",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Basford United FC Yellow U13",
-      "away_team": "Silva FC Sherwood U13",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U13 Sun YEL Cup",
-      "home_away": "away",
-      "opponent": "Basford United FC Yellow U13"
-    },
     {
       "id": "3acebda611df7313ebe5f99130fc08d6",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "868344aa5dd6f337e115fd8dd3c18785",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Basford United FC Yellow U13",
+      "away_team": "Silva FC Sherwood U13",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "U13 Sun YEL Cup",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Basford United FC Yellow U13",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "0c2a8e7c1b5347a07a00df9f0467abf3",
       "date": "2026-03-15",

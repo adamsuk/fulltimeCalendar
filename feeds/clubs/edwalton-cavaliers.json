@@ -1,6 +1,6 @@
 {
   "club": "Edwalton Cavaliers",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
     {
       "id": "de62a172d3a907454cb24cec42166ca8",
@@ -14,19 +14,6 @@
       "team": "Edwalton Cavaliers Blue U11",
       "home_away": "away",
       "opponent": "Willington FC Rams CM U11"
-    },
-    {
-      "id": "8a60b77c449b8b8a56ff1a57d69479de",
-      "date": "2026-03-21",
-      "time": "10:30",
-      "home_team": "Collingham FC Lions U12",
-      "away_team": "Edwalton Cavaliers White U12",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U12 Sat YEL Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Edwalton Cavaliers White U12",
-      "home_away": "away",
-      "opponent": "Collingham FC Lions U12"
     },
     {
       "id": "f86c57b8d29b6c8f1f091e50f22228c3",
@@ -131,6 +118,19 @@
       "team": "Edwalton Cavaliers White U7",
       "home_away": "home",
       "opponent": "Wollaton H/B Cobras U7"
+    },
+    {
+      "id": "2b9a03120bd8d240b4af85be4b008bdc",
+      "date": "2026-04-14",
+      "time": "18:30",
+      "home_team": "Ruddington Village U12",
+      "away_team": "Edwalton Cavaliers White U12",
+      "venue": "Jubilee Fields NG11 6NX",
+      "division": "U12 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Edwalton Cavaliers White U12",
+      "home_away": "away",
+      "opponent": "Ruddington Village U12"
     },
     {
       "id": "959eb92b29d38773c84838df0a40dc4b",
@@ -250,19 +250,6 @@
       "opponent": "Pegasus FC U11"
     },
     {
-      "id": "ff68253c731fa3f2c8d86e02038ddbee",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Nottingham FC Green U12",
-      "away_team": "Edwalton Cavaliers White U12",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U12 Sat Spring Div 3 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Edwalton Cavaliers White U12",
-      "home_away": "away",
-      "opponent": "Nottingham FC Green U12"
-    },
-    {
       "id": "3eaa0137ed152f0880b6634d9d39b4b1",
       "date": "2026-04-25",
       "time": "10:00",
@@ -274,19 +261,6 @@
       "team": "Edwalton Cavaliers Red U11",
       "home_away": "home",
       "opponent": "WBYFC Rossoneri U11"
-    },
-    {
-      "id": "fd7a074cf7fd744d1a85d08423ce90bd",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Ruddington Village U12",
-      "away_team": "Edwalton Cavaliers White U12",
-      "venue": "Jubilee Fields NG11 6NX",
-      "division": "U12 Sat Spring Div 3 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Edwalton Cavaliers White U12",
-      "home_away": "away",
-      "opponent": "Ruddington Village U12"
     },
     {
       "id": "5712eaa387d2052fad700957a334e9a8",
@@ -313,6 +287,32 @@
       "team": "Edwalton Cavaliers Blue U13",
       "home_away": "home",
       "opponent": "Loughborough Eml Phoenix U13"
+    },
+    {
+      "id": "b619fbda30d337b235dd9ec410ec0132",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "home_team": "Nottingham FC Green U12",
+      "away_team": "Edwalton Cavaliers White U12",
+      "venue": "Melbourne Park NG8 5HL",
+      "division": "U12 Sat Spring Div 3 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Edwalton Cavaliers White U12",
+      "home_away": "away",
+      "opponent": "Nottingham FC Green U12"
+    },
+    {
+      "id": "16d5a6b79b84a582353bcf893536ce61",
+      "date": "2026-04-28",
+      "time": "18:30",
+      "home_team": "Ruddington Village U12",
+      "away_team": "Edwalton Cavaliers White U12",
+      "venue": "Jubilee Fields NG11 6NX",
+      "division": "U12 Sat Spring Div 3 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Edwalton Cavaliers White U12",
+      "home_away": "away",
+      "opponent": "Ruddington Village U12"
     },
     {
       "id": "29607ad0c51c113d4cd8989db88f7dae",
@@ -362,6 +362,23 @@
       "opponent": "Loughborough Emmanuel U11",
       "goals_for": 4,
       "goals_against": 1
+    },
+    {
+      "id": "8a60b77c449b8b8a56ff1a57d69479de",
+      "date": "2026-03-21",
+      "time": "10:30",
+      "home_team": "Collingham FC Lions U12",
+      "away_team": "Edwalton Cavaliers White U12",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "U12 Sat YEL Shield",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Edwalton Cavaliers White U12",
+      "home_away": "away",
+      "opponent": "Collingham FC Lions U12",
+      "goals_for": 1,
+      "goals_against": 0
     },
     {
       "id": "725f48857b4b5a4383d9593fb1fc9b4e",

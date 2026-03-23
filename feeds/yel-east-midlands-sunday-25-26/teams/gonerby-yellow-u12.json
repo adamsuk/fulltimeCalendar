@@ -1,19 +1,8 @@
 {
   "team": "Gonerby Yellow U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "d850c870935cd5f9046be0f6adfa92ab",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Gonerby Yellow U12",
-      "away_team": "Melbourne Dynamo Rangers U12",
-      "venue": "Hougham & Marston Playing Field NG32 2HL",
-      "division": "U12 Sun YEL Shield",
-      "home_away": "home",
-      "opponent": "Melbourne Dynamo Rangers U12"
-    },
     {
       "id": "a47dbc5089efc9505bf35bf3e7d94f45",
       "date": "2026-03-29",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d850c870935cd5f9046be0f6adfa92ab",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Gonerby Yellow U12",
+      "away_team": "Melbourne Dynamo Rangers U12",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "U12 Sun YEL Shield",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Melbourne Dynamo Rangers U12",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "95b47fafc58365e40937381d1266eb2d",
       "date": "2026-03-15",

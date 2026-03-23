@@ -1,19 +1,8 @@
 {
   "team": "Mansfield Athletic U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "014c6b508f76ccd8524e47a9e9d50e59",
-      "date": "2026-03-22",
-      "time": "11:30",
-      "home_team": "Mansfield Athletic U12",
-      "away_team": "WBYFC Copa U12",
-      "venue": "Unwin Road NG17 4HT",
-      "division": "U12 Sun Spring Div 1 Silver",
-      "home_away": "home",
-      "opponent": "WBYFC Copa U12"
-    },
     {
       "id": "1e08acd2a7025297a27202e8ae6e9657",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "014c6b508f76ccd8524e47a9e9d50e59",
+      "date": "2026-03-22",
+      "time": "11:30",
+      "home_team": "Mansfield Athletic U12",
+      "away_team": "WBYFC Copa U12",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "U12 Sun Spring Div 1 Silver",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "WBYFC Copa U12",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "0aa13cc52311ed42c5af7ab81ff90d18",
       "date": "2026-03-15",

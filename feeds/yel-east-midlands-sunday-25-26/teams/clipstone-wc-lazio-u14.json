@@ -1,19 +1,8 @@
 {
   "team": "Clipstone WC Lazio U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "5fc115b1847794da62aa47c982700f3a",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Clipstone WC Lazio U14",
-      "away_team": "East Leake Bantams Black U14",
-      "venue": "Clipstone Welfare NG21 9AB",
-      "division": "U14 Sun Spring Div 4",
-      "home_away": "home",
-      "opponent": "East Leake Bantams Black U14"
-    },
     {
       "id": "c75aeadd17961c25f1a525eadf4f5a8c",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5fc115b1847794da62aa47c982700f3a",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Clipstone WC Lazio U14",
+      "away_team": "East Leake Bantams Black U14",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "U14 Sun Spring Div 4",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "East Leake Bantams Black U14",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "fd9eb67f96bd4ba25a594e47837827ea",
       "date": "2026-03-15",

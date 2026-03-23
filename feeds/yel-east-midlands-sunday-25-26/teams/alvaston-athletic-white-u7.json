@@ -1,19 +1,8 @@
 {
   "team": "Alvaston Athletic White U7",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "5ebfb2590d2431020c9438529d6b5e31",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Mansfield Athletic U7",
-      "away_team": "Alvaston Athletic White U7",
-      "venue": "Unwin Road NG17 4HT",
-      "division": "U7 Sun Spring White",
-      "home_away": "away",
-      "opponent": "Mansfield Athletic U7"
-    },
     {
       "id": "b5ab130f86fb4d6f70b70dad7f3af753",
       "date": "2026-03-29",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5ebfb2590d2431020c9438529d6b5e31",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Mansfield Athletic U7",
+      "away_team": "Alvaston Athletic White U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Sun Spring White",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Mansfield Athletic U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "e7f7a1c90414c6914baceccc2e4113ba",
       "date": "2026-03-15",

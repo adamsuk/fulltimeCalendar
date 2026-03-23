@@ -1,19 +1,8 @@
 {
   "team": "Willington FC Blue U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "8abf9638dfc95fb82c61537d23b465b4",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Willington FC Blue U12",
-      "away_team": "Mansfield Town Grassroots Blue U12",
-      "venue": "Willington Power Station DE65 6DE",
-      "division": "U12 Sun YEL Cup",
-      "home_away": "home",
-      "opponent": "Mansfield Town Grassroots Blue U12"
-    },
     {
       "id": "d566d4f3c305713e15e2adff9f797fe8",
       "date": "2026-03-29",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8abf9638dfc95fb82c61537d23b465b4",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Willington FC Blue U12",
+      "away_team": "Mansfield Town Grassroots Blue U12",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "U12 Sun YEL Cup",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Mansfield Town Grassroots Blue U12",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "f0afcd634e8925fa9b5ea00c24b1aec9",
       "date": "2026-03-08",

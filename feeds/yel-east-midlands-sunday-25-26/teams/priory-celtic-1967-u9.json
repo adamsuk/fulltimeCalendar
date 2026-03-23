@@ -1,19 +1,8 @@
 {
   "team": "Priory Celtic 1967 U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "e5d7d5b8cfeb332d78b71b3893fac6a5",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Borrowash Youth Leopards U9",
-      "away_team": "Priory Celtic 1967 U9",
-      "venue": "Deans Drive DE72 3GE",
-      "division": "U9 Sun YEL Challenge Trophy",
-      "home_away": "away",
-      "opponent": "Borrowash Youth Leopards U9"
-    },
     {
       "id": "0111dd93ee1bb98fdfa87c14a0b5cb12",
       "date": "2026-04-16",
@@ -46,9 +35,35 @@
       "division": "U9 Sun Spring Div 6 Blue",
       "home_away": "away",
       "opponent": "Castle Donington Hawks U9"
+    },
+    {
+      "id": "cac361961179eb35c61eea378d2e40de",
+      "date": "2026-05-10",
+      "time": "12:00",
+      "home_team": "Priory Celtic 1967 U9",
+      "away_team": "WBYFC Lyon U9",
+      "venue": "Norman Archer Memorial Ground NG11 9AZ",
+      "division": "U9 Sun YEL Challenge Trophy",
+      "home_away": "home",
+      "opponent": "WBYFC Lyon U9"
     }
   ],
   "results": [
+    {
+      "id": "e5d7d5b8cfeb332d78b71b3893fac6a5",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Borrowash Youth Leopards U9",
+      "away_team": "Priory Celtic 1967 U9",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "U9 Sun YEL Challenge Trophy",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Borrowash Youth Leopards U9",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "b7f905782626a0cd457a43fa704646ee",
       "date": "2026-03-15",

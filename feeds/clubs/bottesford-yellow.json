@@ -1,33 +1,7 @@
 {
   "club": "Bottesford Yellow",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "e1fa25dbd3c96c1469c83a2cbe51c091",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Heanor Town Sambas U14",
-      "away_team": "Bottesford Yellow U14",
-      "venue": "Riddings Park DE55 4EW",
-      "division": "U14 Sun YEL Trophy",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Bottesford Yellow U14",
-      "home_away": "away",
-      "opponent": "Heanor Town Sambas U14"
-    },
-    {
-      "id": "5b44e7ee21054b257c6a1a32d38c5b85",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Bottesford Yellow U9",
-      "away_team": "DLFC Green U9",
-      "venue": "Nottingham Road NG13 0AP",
-      "division": "U9 Sun Spring Div 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Bottesford Yellow U9",
-      "home_away": "home",
-      "opponent": "DLFC Green U9"
-    },
     {
       "id": "aa270f88d66f4f174ad93a47e43b79bc",
       "date": "2026-03-28",
@@ -186,6 +160,40 @@
     }
   ],
   "results": [
+    {
+      "id": "e1fa25dbd3c96c1469c83a2cbe51c091",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Heanor Town Sambas U14",
+      "away_team": "Bottesford Yellow U14",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "U14 Sun YEL Trophy",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Bottesford Yellow U14",
+      "home_away": "away",
+      "opponent": "Heanor Town Sambas U14",
+      "goals_for": 3,
+      "goals_against": 4
+    },
+    {
+      "id": "5b44e7ee21054b257c6a1a32d38c5b85",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Bottesford Yellow U9",
+      "away_team": "DLFC Green U9",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "U9 Sun Spring Div 2 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Bottesford Yellow U9",
+      "home_away": "home",
+      "opponent": "DLFC Green U9",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "8acdccad75abd9794149f76986a124f9",
       "date": "2026-03-21",

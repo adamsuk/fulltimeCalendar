@@ -1,19 +1,8 @@
 {
   "team": "Wollaton H&B Stags U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "6315cb600f628852508f82523302452a",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Shirebrook Rangers Red U11",
-      "away_team": "Wollaton H&B Stags U11",
-      "venue": "Shirebrook Academy NG20 8QF",
-      "division": "U11 Sun YEL Challenge Trophy",
-      "home_away": "away",
-      "opponent": "Shirebrook Rangers Red U11"
-    },
     {
       "id": "eeaa8584d4f7c56da82d0d3889e09a9c",
       "date": "2026-04-16",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6315cb600f628852508f82523302452a",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Shirebrook Rangers Red U11",
+      "away_team": "Wollaton H&B Stags U11",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "U11 Sun YEL Challenge Trophy",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers Red U11",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "c42ae386d1ce33fa5b2546206b9d5d4f",
       "date": "2026-03-15",

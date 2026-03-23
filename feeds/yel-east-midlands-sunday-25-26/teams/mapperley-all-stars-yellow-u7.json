@@ -1,19 +1,8 @@
 {
   "team": "Mapperley All Stars Yellow U7",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "fa752d9e21041553c2f830f40f9da3cf",
-      "date": "2026-03-22",
-      "time": "10:30",
-      "home_team": "Radcliffe Olympic Lions U7",
-      "away_team": "Mapperley All Stars Yellow U7",
-      "venue": "Radcliffe on Trent Cricket Club NG12 2DU",
-      "division": "U7 Sun Spring Blue",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic Lions U7"
-    },
     {
       "id": "71f601d1444a55ba67215ba0f08771e2",
       "date": "2026-03-29",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "fa752d9e21041553c2f830f40f9da3cf",
+      "date": "2026-03-22",
+      "time": "10:30",
+      "home_team": "Radcliffe Olympic Lions U7",
+      "away_team": "Mapperley All Stars Yellow U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Sun Spring Blue",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic Lions U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "3a6dfe976351f36289816528191089fd",
       "date": "2026-03-15",

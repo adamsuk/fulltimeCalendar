@@ -1,19 +1,8 @@
 {
   "team": "Silva FC Southglade Black U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "329b082fae756fd3d3ec93a0db746299",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Silva FC Southglade Black U10",
-      "away_team": "Ilkeston Town Ajax U10",
-      "venue": "Southglade Leisure Centre NG5 5GU",
-      "division": "U10 Sun Spring Div 3 Red",
-      "home_away": "home",
-      "opponent": "Ilkeston Town Ajax U10"
-    },
     {
       "id": "77122eab75e7bf1e665f0a140466709c",
       "date": "2026-03-29",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "329b082fae756fd3d3ec93a0db746299",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Silva FC Southglade Black U10",
+      "away_team": "Ilkeston Town Ajax U10",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "U10 Sun Spring Div 3 Red",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Ilkeston Town Ajax U10",
+      "goals_for": 6,
+      "goals_against": 1
+    },
     {
       "id": "f7013ad9358f691fca26f70c4649aeee",
       "date": "2026-03-15",

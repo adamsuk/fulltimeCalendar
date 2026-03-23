@@ -1,19 +1,8 @@
 {
   "team": "Gonerby Yellow U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "d9934d118a2065a4462f3d36d6ae7dee",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "WBYFC Sporting U10",
-      "away_team": "Gonerby Yellow U10",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U10 Sun Spring Div 7 Blue",
-      "home_away": "away",
-      "opponent": "WBYFC Sporting U10"
-    },
     {
       "id": "3dcc0a039acef361d2d7fe099756cdf8",
       "date": "2026-03-29",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d9934d118a2065a4462f3d36d6ae7dee",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "WBYFC Sporting U10",
+      "away_team": "Gonerby Yellow U10",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "U10 Sun Spring Div 7 Blue",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "WBYFC Sporting U10",
+      "goals_for": 0,
+      "goals_against": 5
+    },
     {
       "id": "63f6a3525e48e2b89b71f8ea98e382ff",
       "date": "2026-03-15",

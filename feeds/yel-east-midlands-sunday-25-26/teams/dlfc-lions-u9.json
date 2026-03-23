@@ -1,19 +1,8 @@
 {
   "team": "DLFC Lions U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "9358b6c4dfee61fc2b4af0c98cbfc4bd",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "DLFC Lions U9",
-      "away_team": "Club FDNA Munich U9",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U9 Sun Spring Premier Div",
-      "home_away": "home",
-      "opponent": "Club FDNA Munich U9"
-    },
     {
       "id": "7e159265514a40e76abdc1163401fb15",
       "date": "2026-03-29",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "9358b6c4dfee61fc2b4af0c98cbfc4bd",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "DLFC Lions U9",
+      "away_team": "Club FDNA Munich U9",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "U9 Sun Spring Premier Div",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Club FDNA Munich U9",
+      "goals_for": 0,
+      "goals_against": 5
+    },
     {
       "id": "15dad22363d4c4008b7965a44d072911",
       "date": "2026-03-15",

@@ -1,19 +1,8 @@
 {
   "team": "Silva FC Magpies U7",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "be36962adc97c171368412af22736c31",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Silva FC Magpies U7",
-      "away_team": "Attenborough Colts Blue U7",
-      "venue": "Carlton Football Centre (3G) NG4 3SH",
-      "division": "U7 Sun Spring Blue",
-      "home_away": "home",
-      "opponent": "Attenborough Colts Blue U7"
-    },
     {
       "id": "71f601d1444a55ba67215ba0f08771e2",
       "date": "2026-03-29",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "be36962adc97c171368412af22736c31",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Silva FC Magpies U7",
+      "away_team": "Attenborough Colts Blue U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Sun Spring Blue",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Attenborough Colts Blue U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "5470d31fe7fcc37a7b9e52d520005aa4",
       "date": "2026-03-15",

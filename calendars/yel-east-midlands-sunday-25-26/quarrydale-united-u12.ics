@@ -7,17 +7,8 @@ X-WR-CALNAME:Quarrydale United U12
 X-WR-CALDESC:Fixtures for Quarrydale United U12 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:a1656de2356ead488a1d039523ffd958@yel-calendar
-DTSTAMP:20260322T080004Z
-DTSTART;TZID=Europe/London:20260322T103000
-DTEND;TZID=Europe/London:20260322T113000
-SUMMARY:⚽ Quarrydale United U12 vs Riverside FC Real U12 (Away)
-DESCRIPTION:Division: U12 Sun YEL Challenge Trophy\nRiverside FC Real U12 v Quarrydale United U12\nKO: 10:30
-LOCATION:Melbourne Court NG10 3EE
-END:VEVENT
-BEGIN:VEVENT
 UID:b49b38cff04a86342092d157c4a52baf@yel-calendar
-DTSTAMP:20260322T080004Z
+DTSTAMP:20260323T070014Z
 DTSTART;TZID=Europe/London:20260419T110000
 DTEND;TZID=Europe/London:20260419T123000
 SUMMARY:⚽ Quarrydale United U12 vs Chesterfield Town Blue U12 (Away)
@@ -25,8 +16,17 @@ DESCRIPTION:Division: U12 Sun Spring Div 5\nChesterfield Town Blue U12 v Quarryd
 LOCATION:Recreation ground S41 8SW
 END:VEVENT
 BEGIN:VEVENT
+UID:1bdf4b90b27a1dc544812c6daaf4bfbd@yel-calendar
+DTSTAMP:20260323T070014Z
+DTSTART;TZID=Europe/London:20260423T183000
+DTEND;TZID=Europe/London:20260423T193000
+SUMMARY:⚽ Quarrydale United U12 vs Harrowby United U12 (Away)
+DESCRIPTION:Division: U12 Sun YEL Challenge Trophy\nHarrowby United U12 v Quarrydale United U12\nKO: 18:30
+LOCATION:HARROWBY LANE PLAYING FIELDS NG31 9QY
+END:VEVENT
+BEGIN:VEVENT
 UID:d8e540aa7dba721d7d02bd8a86a61cfd@yel-calendar
-DTSTAMP:20260322T080004Z
+DTSTAMP:20260323T070014Z
 DTSTART;TZID=Europe/London:20260426T103000
 DTEND;TZID=Europe/London:20260426T113000
 SUMMARY:⚽ Quarrydale United U12 vs Riverside FC Real U12 (Home)

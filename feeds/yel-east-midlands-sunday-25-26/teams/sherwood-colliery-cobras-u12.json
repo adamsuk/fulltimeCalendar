@@ -1,19 +1,8 @@
 {
   "team": "Sherwood Colliery Cobras U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "06c85a4bb2ba03bb1dc2d934206a4e96",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Woodhouse Colts Rhinos U12",
-      "away_team": "Sherwood Colliery Cobras U12",
-      "venue": "Forest Town Welfare NG19 0EE",
-      "division": "U12 Sun Spring Div 1 Gold",
-      "home_away": "away",
-      "opponent": "Woodhouse Colts Rhinos U12"
-    },
     {
       "id": "35da22324871a375c2d9c41975dc5cb3",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "06c85a4bb2ba03bb1dc2d934206a4e96",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Woodhouse Colts Rhinos U12",
+      "away_team": "Sherwood Colliery Cobras U12",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "U12 Sun Spring Div 1 Gold",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Woodhouse Colts Rhinos U12",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "ccc2a8e2a87a74c867c3b3d07eaf0dc3",
       "date": "2026-03-15",

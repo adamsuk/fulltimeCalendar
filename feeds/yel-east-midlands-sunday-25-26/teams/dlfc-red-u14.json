@@ -1,19 +1,8 @@
 {
   "team": "DLFC Red U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "17626ee68281aae649d55a0adeda21b6",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Sporting Markfield U14",
-      "away_team": "DLFC Red U14",
-      "venue": "Jubilee Playing Fields LE67 9PX",
-      "division": "U14 Sun Spring Premier Division",
-      "home_away": "away",
-      "opponent": "Sporting Markfield U14"
-    },
     {
       "id": "96bc7bfe0ba1a8b1b5f1f51814ab6a71",
       "date": "2026-04-16",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "17626ee68281aae649d55a0adeda21b6",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Sporting Markfield U14",
+      "away_team": "DLFC Red U14",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "U14 Sun Spring Premier Division",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Sporting Markfield U14",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "daec44ea27a7816d3f4d4cafa69e94d8",
       "date": "2026-03-15",

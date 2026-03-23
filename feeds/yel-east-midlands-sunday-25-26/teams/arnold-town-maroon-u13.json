@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town Maroon U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "4be7efcf8aae35efe65331b059e5a54e",
-      "date": "2026-03-22",
-      "time": "11:30",
-      "home_team": "Arnold Town Maroon U13",
-      "away_team": "Silva FC Carlton Blue U13",
-      "venue": "Southglade Leisure Centre NG5 5GU",
-      "division": "U13 Sun Spring Div 2 Red",
-      "home_away": "home",
-      "opponent": "Silva FC Carlton Blue U13"
-    },
     {
       "id": "77972fc5d7fc3310f3d51a9e719dd2cb",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "4be7efcf8aae35efe65331b059e5a54e",
+      "date": "2026-03-22",
+      "time": "11:30",
+      "home_team": "Arnold Town Maroon U13",
+      "away_team": "Silva FC Carlton Blue U13",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "U13 Sun Spring Div 2 Red",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Silva FC Carlton Blue U13",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "0b26969c03c5aaad619d242e44828c87",
       "date": "2026-03-15",

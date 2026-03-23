@@ -1,19 +1,8 @@
 {
   "team": "Selston FC U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "7eb513e3b79a2d9101c3dd706503c5e3",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Selston FC U12",
-      "away_team": "Burton Joyce Green U12",
-      "venue": "Mayfield Street Recreation Grnd NG17 8LU",
-      "division": "U12 Sun Spring Div 2 Red",
-      "home_away": "home",
-      "opponent": "Burton Joyce Green U12"
-    },
     {
       "id": "f2d6e01e181f9dfb92f6a898eaf7352c",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7eb513e3b79a2d9101c3dd706503c5e3",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Selston FC U12",
+      "away_team": "Burton Joyce Green U12",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "U12 Sun Spring Div 2 Red",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Burton Joyce Green U12",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "fd2a21e1a6333f5f87452593b7b8a557",
       "date": "2026-03-15",

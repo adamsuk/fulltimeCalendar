@@ -1,19 +1,8 @@
 {
   "team": "Shirebrook Rangers U8",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "3a4f8e74de325d3fbb0898513518a45b",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Priory Celtic Hoops U8",
-      "away_team": "Shirebrook Rangers U8",
-      "venue": "Kimberley Leisure Centre NG16 2NJ",
-      "division": "U8 Sun Spring 3 Red",
-      "home_away": "away",
-      "opponent": "Priory Celtic Hoops U8"
-    },
     {
       "id": "8bc9395f8f7de96344e4aed4b361155c",
       "date": "2026-03-29",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "3a4f8e74de325d3fbb0898513518a45b",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Priory Celtic Hoops U8",
+      "away_team": "Shirebrook Rangers U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U8 Sun Spring 3 Red",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Priory Celtic Hoops U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "77e29c1c5a03707cc2ee35466e29186b",
       "date": "2026-03-15",

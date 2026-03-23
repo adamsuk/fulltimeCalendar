@@ -1,19 +1,8 @@
 {
   "team": "Ilkeston Town Roma U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "609a8fdd9161cc1a6044659a6209b382",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Beaufort United Blue U12",
-      "away_team": "Ilkeston Town Roma U12",
-      "venue": "Unwin Road NG17 4HT",
-      "division": "U12 Sun Spring Div 4",
-      "home_away": "away",
-      "opponent": "Beaufort United Blue U12"
-    },
     {
       "id": "d7aa17b05f8a9e39b41c91ef49153249",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "609a8fdd9161cc1a6044659a6209b382",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Beaufort United Blue U12",
+      "away_team": "Ilkeston Town Roma U12",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "U12 Sun Spring Div 4",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Beaufort United Blue U12",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "600c6a16cc4af2732ebfcc5ee4457bb8",
       "date": "2026-03-15",

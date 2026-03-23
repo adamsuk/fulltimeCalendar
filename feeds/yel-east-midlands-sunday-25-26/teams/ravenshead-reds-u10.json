@@ -1,19 +1,8 @@
 {
   "team": "Ravenshead Reds U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "66cc2280efb2fbe34336f18916e57d5a",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Gedling Southbank Reds U10",
-      "away_team": "Ravenshead Reds U10",
-      "venue": "Trevor Carter Pavillion NG4 1RL",
-      "division": "U10 Sun Spring Div 2 Red",
-      "home_away": "away",
-      "opponent": "Gedling Southbank Reds U10"
-    },
     {
       "id": "ec6ee5ba4fef06a72e9f6cdefc1dba9e",
       "date": "2026-04-14",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "66cc2280efb2fbe34336f18916e57d5a",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Gedling Southbank Reds U10",
+      "away_team": "Ravenshead Reds U10",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "U10 Sun Spring Div 2 Red",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Gedling Southbank Reds U10",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "e2e1fa962b922a0f8af629d7c57f4f87",
       "date": "2026-03-08",

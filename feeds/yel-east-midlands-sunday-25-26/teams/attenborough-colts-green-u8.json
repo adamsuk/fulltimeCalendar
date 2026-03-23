@@ -1,19 +1,8 @@
 {
   "team": "Attenborough Colts Green U8",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "ed46851fb5b5eb71dfd86a686ebf1ef5",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "West Hallam Dragons U8",
-      "away_team": "Attenborough Colts Green U8",
-      "venue": "Beech Lane DE7 6JY",
-      "division": "U8 Sun Spring 5 Blue",
-      "home_away": "away",
-      "opponent": "West Hallam Dragons U8"
-    },
     {
       "id": "2d04bdd44c5dec248ec516b62d673934",
       "date": "2026-03-29",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ed46851fb5b5eb71dfd86a686ebf1ef5",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "West Hallam Dragons U8",
+      "away_team": "Attenborough Colts Green U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U8 Sun Spring 5 Blue",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "West Hallam Dragons U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "92d5e3a47eb7aa3085dd5898af90b443",
       "date": "2026-03-15",

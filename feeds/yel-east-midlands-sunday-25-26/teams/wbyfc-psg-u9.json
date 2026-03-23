@@ -1,19 +1,8 @@
 {
   "team": "WBYFC PSG U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "e08bff5f27cada0008892225511f32d0",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Castle Donington Titans U9",
-      "away_team": "WBYFC PSG U9",
-      "venue": "Spital Park DE74 2NQ",
-      "division": "U9 Sun Spring Div 2 Blue",
-      "home_away": "away",
-      "opponent": "Castle Donington Titans U9"
-    },
     {
       "id": "82a4039aaeaeb5dbb51b24e5af750053",
       "date": "2026-03-29",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e08bff5f27cada0008892225511f32d0",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Castle Donington Titans U9",
+      "away_team": "WBYFC PSG U9",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "U9 Sun Spring Div 2 Blue",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Castle Donington Titans U9",
+      "goals_for": 6,
+      "goals_against": 2
+    },
     {
       "id": "7ea35acaae27e8a824127a8cf0db88d4",
       "date": "2026-03-15",

@@ -1,20 +1,7 @@
 {
   "club": "Gonerby FC",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "d2eedc203f6c5ec8bd5027638ec5b622",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "NG United U8",
-      "away_team": "Gonerby FC Yellow U8",
-      "venue": "Robin Hood Road NG5 8NP",
-      "division": "U8 Sun Spring 4 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Gonerby FC Yellow U8",
-      "home_away": "away",
-      "opponent": "NG United U8"
-    },
     {
       "id": "bf8ce4f91b88d64c27de5919baed9d7f",
       "date": "2026-03-28",
@@ -147,6 +134,23 @@
     }
   ],
   "results": [
+    {
+      "id": "d2eedc203f6c5ec8bd5027638ec5b622",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "NG United U8",
+      "away_team": "Gonerby FC Yellow U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U8 Sun Spring 4 Blue",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gonerby FC Yellow U8",
+      "home_away": "away",
+      "opponent": "NG United U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "87019fdd69deecd787e808d1d184a068",
       "date": "2026-03-21",

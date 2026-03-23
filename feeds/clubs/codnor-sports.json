@@ -1,33 +1,7 @@
 {
   "club": "Codnor Sports",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "299f6730b1b46962232039d147bd8c48",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Codnor Sports Juniors U11",
-      "away_team": "Walesby Juniors United U11",
-      "venue": "Mill Lane Recreation Ground DE5 9QF",
-      "division": "U11 Sun YEL Shield",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Codnor Sports Juniors U11",
-      "home_away": "home",
-      "opponent": "Walesby Juniors United U11"
-    },
-    {
-      "id": "71a8fe96c24bd1b8e3aa62ad79e823bf",
-      "date": "2026-03-22",
-      "time": "12:30",
-      "home_team": "Arnold Town White U13",
-      "away_team": "Codnor Sports Chargers U13",
-      "venue": "Eagle Valley NG5 8PS",
-      "division": "U13 Sun Spring Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Codnor Sports Chargers U13",
-      "home_away": "away",
-      "opponent": "Arnold Town White U13"
-    },
     {
       "id": "2b10b066949d2d08bb0ab92949d30426",
       "date": "2026-03-28",
@@ -147,6 +121,40 @@
     }
   ],
   "results": [
+    {
+      "id": "71a8fe96c24bd1b8e3aa62ad79e823bf",
+      "date": "2026-03-22",
+      "time": "12:30",
+      "home_team": "Arnold Town White U13",
+      "away_team": "Codnor Sports Chargers U13",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "U13 Sun Spring Div 2 Blue",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Codnor Sports Chargers U13",
+      "home_away": "away",
+      "opponent": "Arnold Town White U13",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
+      "id": "299f6730b1b46962232039d147bd8c48",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Codnor Sports Juniors U11",
+      "away_team": "Walesby Juniors United U11",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "U11 Sun YEL Shield",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Codnor Sports Juniors U11",
+      "home_away": "home",
+      "opponent": "Walesby Juniors United U11",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "5e2d40736b731786f9998d6e966ab4ac",
       "date": "2026-03-21",

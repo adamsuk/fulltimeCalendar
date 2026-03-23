@@ -1,6 +1,6 @@
 {
   "club": "Carlton Town",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
     {
       "id": "52179f6ee85f5b0688c628016d00ad30",
@@ -14,58 +14,6 @@
       "team": "Carlton Town Lions U11",
       "home_away": "home",
       "opponent": "DLFC Blue U11"
-    },
-    {
-      "id": "53914a0db638acbeace2731a7eac416a",
-      "date": "2026-03-22",
-      "time": "09:30",
-      "home_team": "Borrowash Youth Lions U11",
-      "away_team": "Carlton Town Yellow U11",
-      "venue": "Derwent Meadow DE72 3NN",
-      "division": "U11 Sun YEL Foundation Shield",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Carlton Town Yellow U11",
-      "home_away": "away",
-      "opponent": "Borrowash Youth Lions U11"
-    },
-    {
-      "id": "35a2a2a8035cbecea27376b9836bb845",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Carlton Town Blue U10",
-      "away_team": "Barrowby FC Black U10",
-      "venue": "Magenta Way NG14 5HH",
-      "division": "U10 Sun Spring Div 6 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Carlton Town Blue U10",
-      "home_away": "home",
-      "opponent": "Barrowby FC Black U10"
-    },
-    {
-      "id": "94184fb21182b3ba6b17e8d397ac49e4",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Market Warsop Lions U8",
-      "away_team": "Carlton Town Blue U8",
-      "venue": "John Fretwell Centre NG19 8LL",
-      "division": "U8 Sun Spring 5 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Carlton Town Blue U8",
-      "home_away": "away",
-      "opponent": "Market Warsop Lions U8"
-    },
-    {
-      "id": "10762f285d1c9610e12c202033cbad6b",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Carlton Town Yellow U8",
-      "away_team": "WBYFC Valour Black U8",
-      "venue": "Magenta Way NG14 5HH",
-      "division": "U8 Sun Spring 4 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Carlton Town Yellow U8",
-      "home_away": "home",
-      "opponent": "WBYFC Valour Black U8"
     },
     {
       "id": "67f4d4724e8f6361b0947658fca1bdf9",
@@ -146,17 +94,17 @@
       "opponent": "Hucknall Sports Blue U10"
     },
     {
-      "id": "164cb6df48a0bcb033f9e5880142b6be",
+      "id": "7b8f72972977d7133498fd239a495f43",
       "date": "2026-03-29",
       "time": "10:00",
       "home_team": "Carlton Town Blue U8",
-      "away_team": "Alfreton Town Diamonds U8 ^^",
+      "away_team": "Breaston Park U8",
       "venue": "Magenta Way NG14 5HH",
-      "division": "U8 Sun Spring 5 Red",
+      "division": "U8 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Carlton Town Blue U8",
       "home_away": "home",
-      "opponent": "Alfreton Town Diamonds U8 ^^"
+      "opponent": "Breaston Park U8"
     },
     {
       "id": "a598013960b8dd019a68668a94de3e27",
@@ -248,6 +196,19 @@
       "team": "Carlton Town Yellow U14",
       "home_away": "away",
       "opponent": "Beaufort United Black U14"
+    },
+    {
+      "id": "6e1645ac59fee1c60b64528fa35108a3",
+      "date": "2026-04-16",
+      "time": "18:00",
+      "home_team": "Carlton Town Wolves U14",
+      "away_team": "PMG Excel U14",
+      "venue": "Magenta Way NG14 5HH",
+      "division": "U14 Sun YEL Shield",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Carlton Town Wolves U14",
+      "home_away": "home",
+      "opponent": "PMG Excel U14"
     },
     {
       "id": "54c5746099a77ab171cf9671595c940e",
@@ -472,6 +433,74 @@
     }
   ],
   "results": [
+    {
+      "id": "35a2a2a8035cbecea27376b9836bb845",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Carlton Town Blue U10",
+      "away_team": "Barrowby FC Black U10",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "U10 Sun Spring Div 6 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Carlton Town Blue U10",
+      "home_away": "home",
+      "opponent": "Barrowby FC Black U10",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
+      "id": "94184fb21182b3ba6b17e8d397ac49e4",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Market Warsop Lions U8",
+      "away_team": "Carlton Town Blue U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U8 Sun Spring 5 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Carlton Town Blue U8",
+      "home_away": "away",
+      "opponent": "Market Warsop Lions U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "10762f285d1c9610e12c202033cbad6b",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Carlton Town Yellow U8",
+      "away_team": "WBYFC Valour Black U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U8 Sun Spring 4 Blue",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Carlton Town Yellow U8",
+      "home_away": "home",
+      "opponent": "WBYFC Valour Black U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "53914a0db638acbeace2731a7eac416a",
+      "date": "2026-03-22",
+      "time": "09:30",
+      "home_team": "Borrowash Youth Lions U11",
+      "away_team": "Carlton Town Yellow U11",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "U11 Sun YEL Foundation Shield",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Carlton Town Yellow U11",
+      "home_away": "away",
+      "opponent": "Borrowash Youth Lions U11",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "d31ca9295a36c7bb7ac3466babe8c455",
       "date": "2026-03-21",

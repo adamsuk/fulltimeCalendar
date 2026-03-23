@@ -1,7 +1,7 @@
 {
   "team": "East Leake Bantams Orange U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
     {
       "id": "91fbc5b344358d7cba21ca77b21fc721",
@@ -13,17 +13,6 @@
       "division": "U12 Sun Spring Div 6 Silver",
       "home_away": "away",
       "opponent": "Ropsley Colts Red U12"
-    },
-    {
-      "id": "62155730608badee59b6ccf025646e76",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "East Leake Bantams Orange U12",
-      "away_team": "Willow Wanderers Spartans U12",
-      "venue": "Costock Road LE12 6LY",
-      "division": "U12 Sun Spring Div 6 Silver",
-      "home_away": "home",
-      "opponent": "Willow Wanderers Spartans U12"
     },
     {
       "id": "3942313221dd9e0121947b453bd602af",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "62155730608badee59b6ccf025646e76",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "East Leake Bantams Orange U12",
+      "away_team": "Willow Wanderers Spartans U12",
+      "home_score": 1,
+      "away_score": 11,
+      "venue": "U12 Sun Spring Div 6 Silver",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Willow Wanderers Spartans U12",
+      "goals_for": 1,
+      "goals_against": 11
+    },
     {
       "id": "8b86b3c1fe5c1a6bdb26dbc2db681fa9",
       "date": "2026-03-08",

@@ -1,20 +1,7 @@
 {
   "club": "PFA Blue",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "5d99db5fc0e390a04a3c5e0d7834d7f8",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "PFA Blue U10",
-      "away_team": "Keyworth United Black U10",
-      "venue": "Dallygate Road NG33 5DP",
-      "division": "U10 Sun Spring Div 3 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "PFA Blue U10",
-      "home_away": "home",
-      "opponent": "Keyworth United Black U10"
-    },
     {
       "id": "362c8e162544d5366509cc008a8922fe",
       "date": "2026-03-29",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "5d99db5fc0e390a04a3c5e0d7834d7f8",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "PFA Blue U10",
+      "away_team": "Keyworth United Black U10",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "U10 Sun Spring Div 3 Blue",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "PFA Blue U10",
+      "home_away": "home",
+      "opponent": "Keyworth United Black U10",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "6f68023abaa29412d6a92e66d6235c25",
       "date": "2026-03-15",

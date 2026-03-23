@@ -1,19 +1,8 @@
 {
   "team": "Kirkby Colts U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "fca8aa22151ed3a539a8bf107475bea2",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Blidworth Bengals Orange U14",
-      "away_team": "Kirkby Colts U14",
-      "venue": "Eakring Road NG22 8QW",
-      "division": "U14 Sun Spring Div 2 Red",
-      "home_away": "away",
-      "opponent": "Blidworth Bengals Orange U14"
-    },
     {
       "id": "a24f5c234769779523d8ab2d383d8ac6",
       "date": "2026-03-29",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "fca8aa22151ed3a539a8bf107475bea2",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Blidworth Bengals Orange U14",
+      "away_team": "Kirkby Colts U14",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "U14 Sun Spring Div 2 Red",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Blidworth Bengals Orange U14",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "8c4c98970338fe8f63718d05ce412a26",
       "date": "2026-03-01",

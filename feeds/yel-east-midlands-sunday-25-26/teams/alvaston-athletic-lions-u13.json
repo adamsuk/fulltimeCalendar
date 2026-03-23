@@ -1,19 +1,8 @@
 {
   "team": "Alvaston Athletic Lions U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "1437a9a84ac071ecb22381ec56ae0b23",
-      "date": "2026-03-22",
-      "time": "10:50",
-      "home_team": "Spondon Dynamos Blades U13",
-      "away_team": "Alvaston Athletic Lions U13",
-      "venue": "Kirk Hallam Community Acadamy DE7 4HH",
-      "division": "U13 Sun Spring Premier Division",
-      "home_away": "away",
-      "opponent": "Spondon Dynamos Blades U13"
-    },
     {
       "id": "0b1f604e51151b845632f33a96cda615",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "1437a9a84ac071ecb22381ec56ae0b23",
+      "date": "2026-03-22",
+      "time": "10:50",
+      "home_team": "Spondon Dynamos Blades U13",
+      "away_team": "Alvaston Athletic Lions U13",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "U13 Sun Spring Premier Division",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Spondon Dynamos Blades U13",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "b3b2919f77eb50d4482cc9f2a110c395",
       "date": "2026-03-08",

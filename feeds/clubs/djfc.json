@@ -1,20 +1,7 @@
 {
   "club": "DJFC",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "ddb033529ec9ab4dd8b0c272f8d67a66",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "DJFC U13",
-      "away_team": "Breaston Park Green U13",
-      "venue": "Joseph Whitaker School NG21 0AG",
-      "division": "U13 Sun Spring Div 6",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DJFC U13",
-      "home_away": "home",
-      "opponent": "Breaston Park Green U13"
-    },
     {
       "id": "7333d1bc98cbf9b93270ab0f50250469",
       "date": "2026-03-28",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "ddb033529ec9ab4dd8b0c272f8d67a66",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "DJFC U13",
+      "away_team": "Breaston Park Green U13",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "U13 Sun Spring Div 6",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "DJFC U13",
+      "home_away": "home",
+      "opponent": "Breaston Park Green U13",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "0a3fcadf3607e70fd2b1f91d5af3e9df",
       "date": "2026-03-21",

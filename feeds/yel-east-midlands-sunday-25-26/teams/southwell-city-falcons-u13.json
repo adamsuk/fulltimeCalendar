@@ -1,19 +1,8 @@
 {
   "team": "Southwell City Falcons U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "0c62b3449450fad92cac43453b1b2e94",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Keyworth United Yellow U13",
-      "away_team": "Southwell City Falcons U13",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U13 Sun Spring Div 1 Silver",
-      "home_away": "away",
-      "opponent": "Keyworth United Yellow U13"
-    },
     {
       "id": "2054eec30005cbb523cdbf3ded57ace3",
       "date": "2026-04-16",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0c62b3449450fad92cac43453b1b2e94",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Keyworth United Yellow U13",
+      "away_team": "Southwell City Falcons U13",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "U13 Sun Spring Div 1 Silver",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Keyworth United Yellow U13",
+      "goals_for": 3,
+      "goals_against": 5
+    },
     {
       "id": "88c9a218e605f27fca69c23d67473f19",
       "date": "2026-03-15",

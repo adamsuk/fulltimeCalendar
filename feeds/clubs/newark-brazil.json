@@ -1,6 +1,6 @@
 {
   "club": "Newark Brazil",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
     {
       "id": "536fc701714fec9e11ce99d063f8404f",
@@ -14,32 +14,6 @@
       "team": "Newark Brazil Corinthians U9",
       "home_away": "away",
       "opponent": "Woodthorpe Com Fire U9"
-    },
-    {
-      "id": "f6ac657d2f518add00547d42dd7caf8f",
-      "date": "2026-03-21",
-      "time": "18:30",
-      "home_team": "Collingham FC Cougars U11",
-      "away_team": "Newark Brazil Corinthians U11",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U11 Sat Spring Div 4 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Newark Brazil Corinthians U11",
-      "home_away": "away",
-      "opponent": "Collingham FC Cougars U11"
-    },
-    {
-      "id": "d68cafa3efc4fc850b41113b93909b70",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Long Bennington U10",
-      "away_team": "Newark Brazil Cruzeiro U10",
-      "venue": "QE2 Playing Field NG23 5HD",
-      "division": "U10 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Newark Brazil Cruzeiro U10",
-      "home_away": "away",
-      "opponent": "Long Bennington U10"
     },
     {
       "id": "aa582fd73b3eed716855e1230065b6cc",
@@ -471,6 +445,19 @@
       "opponent": "Calverton Miners Welfare U10"
     },
     {
+      "id": "88a86009e2c26cd0d13f2c3dd53321bd",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "Collingham FC Cougars U11",
+      "away_team": "Newark Brazil Corinthians U11",
+      "venue": "Collingham FC  NG23 7RA",
+      "division": "U11 Sat Spring Div 4 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Newark Brazil Corinthians U11",
+      "home_away": "away",
+      "opponent": "Collingham FC Cougars U11"
+    },
+    {
       "id": "74003dd6edb8b62120d7dd16f85fe2e8",
       "date": "2026-04-21",
       "time": "18:30",
@@ -667,6 +654,23 @@
     }
   ],
   "results": [
+    {
+      "id": "d68cafa3efc4fc850b41113b93909b70",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Long Bennington U10",
+      "away_team": "Newark Brazil Cruzeiro U10",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "U10 Sun Spring Div 1 Silver",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Newark Brazil Cruzeiro U10",
+      "home_away": "away",
+      "opponent": "Long Bennington U10",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "0dff962c4d218340ac94bfa7d9d3a693",
       "date": "2026-03-21",

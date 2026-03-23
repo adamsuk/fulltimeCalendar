@@ -1,6 +1,6 @@
 {
   "club": "Inspire Nottingham",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
     {
       "id": "9c1acd7c4738caf2451fe4127e94174a",
@@ -14,32 +14,6 @@
       "team": "Inspire Nottingham White U8",
       "home_away": "away",
       "opponent": "DLFC Red U8"
-    },
-    {
-      "id": "38ec0210fa8b6a20ba5868cc7353aa2b",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Inspire Nottingham Black U7",
-      "away_team": "Moorgreen Colts 1985 U7",
-      "venue": "Powerleague Nottingham Arnold NG5 6NZ",
-      "division": "U7 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Inspire Nottingham Black U7",
-      "home_away": "home",
-      "opponent": "Moorgreen Colts 1985 U7"
-    },
-    {
-      "id": "7f20440fde7d2c925b480af8e8d7405a",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Inspire Nottingham FC Black U8",
-      "away_team": "Mapperley All Stars Blue U8",
-      "venue": "Powerleague Nottingham Arnold NG5 6NZ",
-      "division": "U8 Sun Spring 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Inspire Nottingham FC Black U8",
-      "home_away": "home",
-      "opponent": "Mapperley All Stars Blue U8"
     },
     {
       "id": "808e569d57fe57f9737c77997c03d768",
@@ -381,6 +355,40 @@
     }
   ],
   "results": [
+    {
+      "id": "38ec0210fa8b6a20ba5868cc7353aa2b",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Inspire Nottingham Black U7",
+      "away_team": "Moorgreen Colts 1985 U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Sunday",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Inspire Nottingham Black U7",
+      "home_away": "home",
+      "opponent": "Moorgreen Colts 1985 U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "7f20440fde7d2c925b480af8e8d7405a",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Inspire Nottingham FC Black U8",
+      "away_team": "Mapperley All Stars Blue U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U8 Sun Spring 2 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Inspire Nottingham FC Black U8",
+      "home_away": "home",
+      "opponent": "Mapperley All Stars Blue U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "932b023c63fcf42d32c6d8285fab64bb",
       "date": "2026-03-21",

@@ -1,46 +1,7 @@
 {
   "club": "Gonerby Yellow",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "d9934d118a2065a4462f3d36d6ae7dee",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "WBYFC Sporting U10",
-      "away_team": "Gonerby Yellow U10",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U10 Sun Spring Div 7 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Gonerby Yellow U10",
-      "home_away": "away",
-      "opponent": "WBYFC Sporting U10"
-    },
-    {
-      "id": "a46390d2208f4df899f13a6084a276ed",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Moorgreen Colts Blue U11",
-      "away_team": "Gonerby Yellow U11",
-      "venue": "Birnham Pk A610 Estwd/Kim Bypss NG16 2DE",
-      "division": "U11 Sun YEL Inter cup",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Gonerby Yellow U11",
-      "home_away": "away",
-      "opponent": "Moorgreen Colts Blue U11"
-    },
-    {
-      "id": "d850c870935cd5f9046be0f6adfa92ab",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Gonerby Yellow U12",
-      "away_team": "Melbourne Dynamo Rangers U12",
-      "venue": "Hougham & Marston Playing Field NG32 2HL",
-      "division": "U12 Sun YEL Shield",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Gonerby Yellow U12",
-      "home_away": "home",
-      "opponent": "Melbourne Dynamo Rangers U12"
-    },
     {
       "id": "d252c6092c61160074e1e82e01294b8e",
       "date": "2026-03-28",
@@ -146,6 +107,19 @@
       "opponent": "Bestwood Colliery Red U12"
     },
     {
+      "id": "1d3a1d29b0df7ba8129dffb9e1079d3d",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Shirebrook Rangers Blue U11",
+      "away_team": "Gonerby Yellow U11",
+      "venue": "Shirebrook Academy NG20 8QF",
+      "division": "U11 Sun YEL Inter cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gonerby Yellow U11",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers Blue U11"
+    },
+    {
       "id": "5fad19a9da56e16034b2fbb189bbd41f",
       "date": "2026-04-26",
       "time": "10:00",
@@ -173,6 +147,57 @@
     }
   ],
   "results": [
+    {
+      "id": "d850c870935cd5f9046be0f6adfa92ab",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Gonerby Yellow U12",
+      "away_team": "Melbourne Dynamo Rangers U12",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "U12 Sun YEL Shield",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gonerby Yellow U12",
+      "home_away": "home",
+      "opponent": "Melbourne Dynamo Rangers U12",
+      "goals_for": 0,
+      "goals_against": 4
+    },
+    {
+      "id": "d9934d118a2065a4462f3d36d6ae7dee",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "WBYFC Sporting U10",
+      "away_team": "Gonerby Yellow U10",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "U10 Sun Spring Div 7 Blue",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gonerby Yellow U10",
+      "home_away": "away",
+      "opponent": "WBYFC Sporting U10",
+      "goals_for": 0,
+      "goals_against": 5
+    },
+    {
+      "id": "a46390d2208f4df899f13a6084a276ed",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Moorgreen Colts Blue U11",
+      "away_team": "Gonerby Yellow U11",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "U11 Sun YEL Inter cup",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gonerby Yellow U11",
+      "home_away": "away",
+      "opponent": "Moorgreen Colts Blue U11",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "bb77c3c23454def4d6f27dd57e457b30",
       "date": "2026-03-21",

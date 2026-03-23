@@ -1,19 +1,8 @@
 {
   "team": "Ernehale Colts Black U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "93719b4c0b3b0506d45ab5fc225a2d1f",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Ernehale Colts Black U12",
-      "away_team": "Bilborough TRD FC U12",
-      "venue": "King George V Park NG5 6TD",
-      "division": "U12 Sun YEL Challenge Trophy",
-      "home_away": "home",
-      "opponent": "Bilborough TRD FC U12"
-    },
     {
       "id": "046e858043e97590058a10078fe31304",
       "date": "2026-03-29",
@@ -35,6 +24,17 @@
       "division": "U12 Sun Spring Div 6 Gold",
       "home_away": "home",
       "opponent": "Beeston Park Rangers U12"
+    },
+    {
+      "id": "63ccc9828f7a847dbbbaa0087a29dc2f",
+      "date": "2026-04-16",
+      "time": "18:00",
+      "home_team": "Ernehale Colts Black U12",
+      "away_team": "Riverside FC Rockets U12",
+      "venue": "King George V Park NG5 6TD",
+      "division": "U12 Sun YEL Challenge Trophy",
+      "home_away": "home",
+      "opponent": "Riverside FC Rockets U12"
     },
     {
       "id": "de1e604ea34d2eb9e41bdb9cc703972d",
@@ -60,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "93719b4c0b3b0506d45ab5fc225a2d1f",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Ernehale Colts Black U12",
+      "away_team": "Bilborough TRD FC U12",
+      "home_score": 7,
+      "away_score": 2,
+      "venue": "U12 Sun YEL Challenge Trophy",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Bilborough TRD FC U12",
+      "goals_for": 7,
+      "goals_against": 2
+    },
     {
       "id": "3ea2ad09d2d6cdc1a045e67b3be01520",
       "date": "2026-03-15",

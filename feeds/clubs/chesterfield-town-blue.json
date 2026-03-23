@@ -1,20 +1,7 @@
 {
   "club": "Chesterfield Town Blue",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "a8747ecf99a53941dc21ae19f063f4a7",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Chesterfield Town Blue U12",
-      "away_team": "Heanor Town Tigers U12",
-      "venue": "Recreation ground S41 8SW",
-      "division": "U12 Sun Spring Div 5",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Chesterfield Town Blue U12",
-      "home_away": "home",
-      "opponent": "Heanor Town Tigers U12"
-    },
     {
       "id": "75cbaa06012b6f0d939ed6977eee1eea",
       "date": "2026-03-29",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "a8747ecf99a53941dc21ae19f063f4a7",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Chesterfield Town Blue U12",
+      "away_team": "Heanor Town Tigers U12",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "U12 Sun Spring Div 5",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Chesterfield Town Blue U12",
+      "home_away": "home",
+      "opponent": "Heanor Town Tigers U12",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "f83f3cecdf03c6a338ddf2292cb87231",
       "date": "2026-03-15",

@@ -1,20 +1,7 @@
 {
   "club": "Wollaton H/B",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "b284736e62d3759a83fd24e4971b22e9",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "G3A FC Miami U8",
-      "away_team": "Wollaton H/B Tigers U8",
-      "venue": "Brunts Academy NG18 2AT",
-      "division": "U8 Sun Spring 4 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Wollaton H/B Tigers U8",
-      "home_away": "away",
-      "opponent": "G3A FC Miami U8"
-    },
     {
       "id": "6d92f7235dedbeeb5e40dc6c03ee5fcd",
       "date": "2026-03-28",
@@ -173,6 +160,23 @@
     }
   ],
   "results": [
+    {
+      "id": "b284736e62d3759a83fd24e4971b22e9",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "G3A FC Miami U8",
+      "away_team": "Wollaton H/B Tigers U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U8 Sun Spring 4 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Wollaton H/B Tigers U8",
+      "home_away": "away",
+      "opponent": "G3A FC Miami U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "dbe15642a679a0b2a94b2d79e20daa5a",
       "date": "2026-03-21",

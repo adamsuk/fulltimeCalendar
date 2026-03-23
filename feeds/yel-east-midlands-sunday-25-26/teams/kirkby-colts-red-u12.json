@@ -1,19 +1,8 @@
 {
   "team": "Kirkby Colts Red U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "2b103e8e7935b8bb7601c80f64d6f6ac",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Kirkby Colts Red U12",
-      "away_team": "PMG Excel U12",
-      "venue": "Cowpasture La, Recreation Grnd NG17 5DW",
-      "division": "U12 Sun Spring Div 1 Silver",
-      "home_away": "home",
-      "opponent": "PMG Excel U12"
-    },
     {
       "id": "0b78fc196d1ff0be6fa8b11b86c0a6cd",
       "date": "2026-04-19",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2b103e8e7935b8bb7601c80f64d6f6ac",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Kirkby Colts Red U12",
+      "away_team": "PMG Excel U12",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "U12 Sun Spring Div 1 Silver",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "PMG Excel U12",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "e634632d468ee87d6445a3143347d1c4",
       "date": "2026-03-15",

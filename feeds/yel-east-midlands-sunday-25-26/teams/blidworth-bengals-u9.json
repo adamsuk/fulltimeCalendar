@@ -1,19 +1,8 @@
 {
   "team": "Blidworth Bengals U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "642beba3017d1b70135e8a2041782821",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Ravenshead Reds U9",
-      "away_team": "Blidworth Bengals U9",
-      "venue": "Ravenshead leisure Centre NG15 9AG",
-      "division": "U9 Sun Spring Div 5 Red",
-      "home_away": "away",
-      "opponent": "Ravenshead Reds U9"
-    },
     {
       "id": "e92523830f2aa4a65dbc926036bcc5b8",
       "date": "2026-03-29",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "642beba3017d1b70135e8a2041782821",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Ravenshead Reds U9",
+      "away_team": "Blidworth Bengals U9",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "U9 Sun Spring Div 5 Red",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Ravenshead Reds U9",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "1a5d084d0e5cb0165144e27f3ecc2e04",
       "date": "2026-03-15",

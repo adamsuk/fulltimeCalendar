@@ -1,19 +1,8 @@
 {
   "team": "Robin Hood Colts Red U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "c1aaa073c389a71a743752a840b7f78e",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Market Warsop Raiders U9",
-      "away_team": "Robin Hood Colts Red U9",
-      "venue": "John Fretwell Centre NG19 8LL",
-      "division": "U9 Sun Spring Div 6 Red",
-      "home_away": "away",
-      "opponent": "Market Warsop Raiders U9"
-    },
     {
       "id": "f7ad85f085e52917cdb363769f86d774",
       "date": "2026-03-29",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c1aaa073c389a71a743752a840b7f78e",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Market Warsop Raiders U9",
+      "away_team": "Robin Hood Colts Red U9",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "U9 Sun Spring Div 6 Red",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Market Warsop Raiders U9",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "d455e66676f6f952245c8a3a40d81595",
       "date": "2026-03-08",

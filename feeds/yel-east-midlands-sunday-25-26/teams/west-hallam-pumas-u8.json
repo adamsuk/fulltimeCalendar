@@ -1,7 +1,7 @@
 {
   "team": "West Hallam Pumas U8",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
     {
       "id": "aabac40662a60bbc75d4a310d232afdd",
@@ -13,17 +13,6 @@
       "division": "U8 Sun Spring 5 Blue",
       "home_away": "home",
       "opponent": "WBYFC Valour Red U8"
-    },
-    {
-      "id": "69d0f9f5ed21aa7fe57e9b1952d4783a",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Clifton AW Diamonds U8",
-      "away_team": "West Hallam Pumas U8",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U8 Sun Spring 5 Blue",
-      "home_away": "away",
-      "opponent": "Clifton AW Diamonds U8"
     },
     {
       "id": "b42695ec9e097a2cb7ab5e9ccae058df",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "69d0f9f5ed21aa7fe57e9b1952d4783a",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Clifton AW Diamonds U8",
+      "away_team": "West Hallam Pumas U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U8 Sun Spring 5 Blue",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Clifton AW Diamonds U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "495ff48239092e0f03238706615054f4",
       "date": "2026-03-15",

@@ -1,19 +1,8 @@
 {
   "team": "Kirkby Colts Red U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "7568511cb8f697669bf6e36592a4de56",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Kirkby Colts Red U9",
-      "away_team": "Lowdham FC U9",
-      "venue": "Newstead Sports Ground NG15 0BU",
-      "division": "U9 Sun Spring Div 6 Red",
-      "home_away": "home",
-      "opponent": "Lowdham FC U9"
-    },
     {
       "id": "aa7231f6051e2322b143b06fa3eaa703",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7568511cb8f697669bf6e36592a4de56",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Kirkby Colts Red U9",
+      "away_team": "Lowdham FC U9",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "U9 Sun Spring Div 6 Red",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Lowdham FC U9",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "6887b5b8ea276773bfccfaa1bd4ab4e3",
       "date": "2026-03-15",

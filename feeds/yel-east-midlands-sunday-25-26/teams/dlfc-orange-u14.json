@@ -1,19 +1,8 @@
 {
   "team": "DLFC Orange U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "ce3331e73aad4459085e495201cf6839",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Cotgrave FC Claret U14",
-      "away_team": "DLFC Orange U14",
-      "venue": "Cotgrave Welfare NG12 3PJ",
-      "division": "U14 Sun YEL Inter Cup",
-      "home_away": "away",
-      "opponent": "Cotgrave FC Claret U14"
-    },
     {
       "id": "ada0a457c23f325ebf374918bc06bd4d",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ce3331e73aad4459085e495201cf6839",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Cotgrave FC Claret U14",
+      "away_team": "DLFC Orange U14",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "U14 Sun YEL Inter Cup",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Cotgrave FC Claret U14",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "3e343e965096d057dd782531f81b5fe4",
       "date": "2026-03-15",

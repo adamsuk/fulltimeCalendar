@@ -1,20 +1,7 @@
 {
   "club": "Rainworth Juniors",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "8f6b658589e072674fb91f7d3c9fdeab",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Kirkby Colts U13",
-      "away_team": "Rainworth Juniors U13",
-      "venue": "Mansfield Road NG17 3EE",
-      "division": "U13 Sun Spring Div 4 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Rainworth Juniors U13",
-      "home_away": "away",
-      "opponent": "Kirkby Colts U13"
-    },
     {
       "id": "26a40080e7d949fce3227ff2a19241cd",
       "date": "2026-03-28",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "8f6b658589e072674fb91f7d3c9fdeab",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Kirkby Colts U13",
+      "away_team": "Rainworth Juniors U13",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "U13 Sun Spring Div 4 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Rainworth Juniors U13",
+      "home_away": "away",
+      "opponent": "Kirkby Colts U13",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "16ba90e33df33b852a1a6395cf567e08",
       "date": "2026-03-15",

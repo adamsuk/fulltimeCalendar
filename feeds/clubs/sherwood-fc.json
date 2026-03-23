@@ -1,6 +1,6 @@
 {
   "club": "Sherwood FC",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
     {
       "id": "e9b635d0131f62aa78c063375c87d2ed",
@@ -16,32 +16,6 @@
       "opponent": "Grantham Town U12"
     },
     {
-      "id": "52342dafdde6482bc7a646036cb8f7a7",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Sherwood FC Arrows U9",
-      "away_team": "DLFC Orange U9",
-      "venue": "Mellish Sports Centre NG6 9FH",
-      "division": "U9 Sun Spring Div 5 Green",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Sherwood FC Arrows U9",
-      "home_away": "home",
-      "opponent": "DLFC Orange U9"
-    },
-    {
-      "id": "d7aa25c733ffc51957d1baf1647fdf43",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Wollaton H&B Panthers U9",
-      "away_team": "Sherwood FC Hoods U9",
-      "venue": "The Trinity Catholic School NG8 3EZ",
-      "division": "U9 Sun Spring Div 7",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Sherwood FC Hoods U9",
-      "home_away": "away",
-      "opponent": "Wollaton H&B Panthers U9"
-    },
-    {
       "id": "63b4e591b82a11ae48453b579e4ac7c9",
       "date": "2026-03-22",
       "time": "10:00",
@@ -53,32 +27,6 @@
       "team": "Sherwood FC Rangers U7",
       "home_away": "home",
       "opponent": "Castle Donington Jets U7"
-    },
-    {
-      "id": "e2e150ce3060bcf266798f39d29a05c3",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Hucknall Sports Red U8",
-      "away_team": "Sherwood FC Red U8",
-      "venue": "Goosedale Sport Club NG6 8UJ",
-      "division": "U8 Sun Spring 3 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Sherwood FC Red U8",
-      "home_away": "away",
-      "opponent": "Hucknall Sports Red U8"
-    },
-    {
-      "id": "1eb8a2a356519f3cf4bf764b378c1fdc",
-      "date": "2026-03-22",
-      "time": "12:00",
-      "home_team": "Gedling Southbank Titans U10",
-      "away_team": "Sherwood FC Blue U10",
-      "venue": "Redhill Leisure Centre NG5 8GX",
-      "division": "U10 Sun Spring Div 5 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Sherwood FC Blue U10",
-      "home_away": "away",
-      "opponent": "Gedling Southbank Titans U10"
     },
     {
       "id": "78d4c25edd2240e2ae2660638dbc5d50",
@@ -433,6 +381,74 @@
     }
   ],
   "results": [
+    {
+      "id": "1eb8a2a356519f3cf4bf764b378c1fdc",
+      "date": "2026-03-22",
+      "time": "12:00",
+      "home_team": "Gedling Southbank Titans U10",
+      "away_team": "Sherwood FC Blue U10",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "U10 Sun Spring Div 5 Blue",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Blue U10",
+      "home_away": "away",
+      "opponent": "Gedling Southbank Titans U10",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
+      "id": "e2e150ce3060bcf266798f39d29a05c3",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Hucknall Sports Red U8",
+      "away_team": "Sherwood FC Red U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U8 Sun Spring 3 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Red U8",
+      "home_away": "away",
+      "opponent": "Hucknall Sports Red U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "52342dafdde6482bc7a646036cb8f7a7",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Sherwood FC Arrows U9",
+      "away_team": "DLFC Orange U9",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "U9 Sun Spring Div 5 Green",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "home",
+      "opponent": "DLFC Orange U9",
+      "goals_for": 5,
+      "goals_against": 1
+    },
+    {
+      "id": "d7aa25c733ffc51957d1baf1647fdf43",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Wollaton H&B Panthers U9",
+      "away_team": "Sherwood FC Hoods U9",
+      "home_score": 3,
+      "away_score": 14,
+      "venue": "U9 Sun Spring Div 7",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "away",
+      "opponent": "Wollaton H&B Panthers U9",
+      "goals_for": 14,
+      "goals_against": 3
+    },
     {
       "id": "b9196602c57982d955348aefc28de138",
       "date": "2026-03-21",

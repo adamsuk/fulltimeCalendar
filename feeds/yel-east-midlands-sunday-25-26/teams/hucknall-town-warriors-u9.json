@@ -1,19 +1,8 @@
 {
   "team": "Hucknall Town Warriors U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "880f0769f7b6b2e1eb7b1ad3762dd03b",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Hucknall Town Warriors U9",
-      "away_team": "Priory Celtic Green U9",
-      "venue": "Flying High Academy NG15 6WU",
-      "division": "U9 Sun Spring Div 6 Green",
-      "home_away": "home",
-      "opponent": "Priory Celtic Green U9"
-    },
     {
       "id": "02c08e929ffc1fb1f68ea5ffe0876d6e",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "880f0769f7b6b2e1eb7b1ad3762dd03b",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Hucknall Town Warriors U9",
+      "away_team": "Priory Celtic Green U9",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "U9 Sun Spring Div 6 Green",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Priory Celtic Green U9",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "1e4b1d555bb407a5971f9f6952cd9fc5",
       "date": "2026-03-15",

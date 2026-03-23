@@ -1,7 +1,7 @@
 {
   "team": "DLFC Purple U8",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
     {
       "id": "9bf6c232f0d7883b58f2abc28f9a8940",
@@ -13,17 +13,6 @@
       "division": "U8 Sun Spring 4 Red",
       "home_away": "away",
       "opponent": "Mansfield Athletic U8"
-    },
-    {
-      "id": "021f4e567b7043d29cc386563ee77a64",
-      "date": "2026-03-22",
-      "time": "10:30",
-      "home_team": "DLFC Purple U8",
-      "away_team": "Hucknall Sports White U8",
-      "venue": "Bestwood Road Sports Club NG6 8AU",
-      "division": "U8 Sun Spring 4 Red",
-      "home_away": "home",
-      "opponent": "Hucknall Sports White U8"
     },
     {
       "id": "55c7035c620dae60f706a292dd3a6444",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "021f4e567b7043d29cc386563ee77a64",
+      "date": "2026-03-22",
+      "time": "10:30",
+      "home_team": "DLFC Purple U8",
+      "away_team": "Hucknall Sports White U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U8 Sun Spring 4 Red",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Hucknall Sports White U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "a44080f0e569f1308be4d46686c2d485",
       "date": "2026-03-08",

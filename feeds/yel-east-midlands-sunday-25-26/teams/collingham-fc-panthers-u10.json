@@ -1,19 +1,8 @@
 {
   "team": "Collingham FC Panthers U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "c71d62d299ff57b08a28fbece92ca599",
-      "date": "2026-03-22",
-      "time": "12:30",
-      "home_team": "Collingham FC Panthers U10",
-      "away_team": "Selston FC Blue U10",
-      "venue": "Collingham FC NG23 7RA",
-      "division": "U10 Sun Spring Div 2 Red",
-      "home_away": "home",
-      "opponent": "Selston FC Blue U10"
-    },
     {
       "id": "d1a39aba138b0074374841db6c38e337",
       "date": "2026-03-29",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c71d62d299ff57b08a28fbece92ca599",
+      "date": "2026-03-22",
+      "time": "12:30",
+      "home_team": "Collingham FC Panthers U10",
+      "away_team": "Selston FC Blue U10",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "U10 Sun Spring Div 2 Red",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Selston FC Blue U10",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "5ea8413220684f0fd5a345a1af781659",
       "date": "2026-03-15",

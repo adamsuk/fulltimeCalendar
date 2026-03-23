@@ -1,19 +1,8 @@
 {
   "team": "Radcliffe Olympic U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "b3d42adbf4356b4f534e4564aac53182",
-      "date": "2026-03-22",
-      "time": "10:30",
-      "home_team": "Radcliffe Olympic U11",
-      "away_team": "G3A FC Ajax U11",
-      "venue": "Bingham Road NG12 2GP",
-      "division": "U11 Sun YEL Trophy",
-      "home_away": "home",
-      "opponent": "G3A FC Ajax U11"
-    },
     {
       "id": "ff2300b3610d358904db1161de6224f7",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b3d42adbf4356b4f534e4564aac53182",
+      "date": "2026-03-22",
+      "time": "10:30",
+      "home_team": "Radcliffe Olympic U11",
+      "away_team": "G3A FC Ajax U11",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "U11 Sun YEL Trophy",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "G3A FC Ajax U11",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "3c07dbbbcbb76529f6a9478db5f439fc",
       "date": "2026-03-15",

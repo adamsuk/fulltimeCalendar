@@ -1,19 +1,8 @@
 {
   "team": "Silva FC Rushcliffe Red U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "e1bafc207eef24b8fcbe135f8e8345d6",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "WBYFC Bayern U10",
-      "away_team": "Silva FC Rushcliffe Red U10",
-      "venue": "Gresham Sports Pitch NG2 7YF",
-      "division": "U10 Sun Spring Premier Div",
-      "home_away": "away",
-      "opponent": "WBYFC Bayern U10"
-    },
     {
       "id": "639b3ac2fc6c4e3ab687b2040bb80ac8",
       "date": "2026-03-29",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e1bafc207eef24b8fcbe135f8e8345d6",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "WBYFC Bayern U10",
+      "away_team": "Silva FC Rushcliffe Red U10",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "U10 Sun Spring Premier Div",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "WBYFC Bayern U10",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "f96475264d9e1b5cbc9727b8322f636a",
       "date": "2026-03-15",

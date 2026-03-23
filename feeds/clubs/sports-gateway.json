@@ -1,46 +1,7 @@
 {
   "club": "Sports Gateway",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "6f0d906518c07b198b051c8209bb8a57",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Sports Gateway Arcs U9",
-      "away_team": "Sandiacre Town Titans U9",
-      "venue": "Papplewick Green NG15 8HR",
-      "division": "U9 Sun Spring Div 6 Green",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Sports Gateway Arcs U9",
-      "home_away": "home",
-      "opponent": "Sandiacre Town Titans U9"
-    },
-    {
-      "id": "b5d416c8b8a3f5f146132b1ad8a915be",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Sports Gateway Spitfire U14",
-      "away_team": "Clifton All Whites Orange U14",
-      "venue": "Papplewick Green NG15 8HR",
-      "division": "U14 Sun YEL Shield",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Sports Gateway Spitfire U14",
-      "home_away": "home",
-      "opponent": "Clifton All Whites Orange U14"
-    },
-    {
-      "id": "a5264c22a8fd440e3a9248773a1ca7b8",
-      "date": "2026-03-22",
-      "time": "10:30",
-      "home_team": "Barrowby Junior Green U13",
-      "away_team": "Sports Gateway Phoenix U13",
-      "venue": "Low Field NG32 1DJ",
-      "division": "U13 Sun Spring Div 5 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Sports Gateway Phoenix U13",
-      "home_away": "away",
-      "opponent": "Barrowby Junior Green U13"
-    },
     {
       "id": "60200a7ad1f281b00685fcd558d2da09",
       "date": "2026-03-28",
@@ -120,6 +81,19 @@
       "opponent": "Hucknall Town Warriors U11"
     },
     {
+      "id": "63919bbb1fba9c14a556de28c6037edc",
+      "date": "2026-04-16",
+      "time": "18:00",
+      "home_team": "Castle Donington Lions U14",
+      "away_team": "Sports Gateway Spitfire U14",
+      "venue": "Spital Park DE74 2NQ",
+      "division": "U14 Sun YEL Shield",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sports Gateway Spitfire U14",
+      "home_away": "away",
+      "opponent": "Castle Donington Lions U14"
+    },
+    {
       "id": "81b906c536385b1fde357d30e3c2bf30",
       "date": "2026-04-18",
       "time": "10:00",
@@ -183,6 +157,19 @@
       "team": "Sports Gateway Blue U11",
       "home_away": "home",
       "opponent": "Ravenshead Reds Outlaws U11"
+    },
+    {
+      "id": "64eaa43130a5fd9d227f8bfeaa06f604",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Hucknall Sports Red U13",
+      "away_team": "Sports Gateway Phoenix U13",
+      "venue": "Engine Rooms NG15 6EP",
+      "division": "U13 Sun YEL Challenge Trophy",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sports Gateway Phoenix U13",
+      "home_away": "away",
+      "opponent": "Hucknall Sports Red U13"
     },
     {
       "id": "f5207ad9b7ac054ed408e4695184c561",
@@ -251,6 +238,57 @@
     }
   ],
   "results": [
+    {
+      "id": "a5264c22a8fd440e3a9248773a1ca7b8",
+      "date": "2026-03-22",
+      "time": "10:30",
+      "home_team": "Barrowby Junior Green U13",
+      "away_team": "Sports Gateway Phoenix U13",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "U13 Sun Spring Div 5 Silver",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sports Gateway Phoenix U13",
+      "home_away": "away",
+      "opponent": "Barrowby Junior Green U13",
+      "goals_for": 0,
+      "goals_against": 6
+    },
+    {
+      "id": "6f0d906518c07b198b051c8209bb8a57",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Sports Gateway Arcs U9",
+      "away_team": "Sandiacre Town Titans U9",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "U9 Sun Spring Div 6 Green",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sports Gateway Arcs U9",
+      "home_away": "home",
+      "opponent": "Sandiacre Town Titans U9",
+      "goals_for": 3,
+      "goals_against": 0
+    },
+    {
+      "id": "b5d416c8b8a3f5f146132b1ad8a915be",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Sports Gateway Spitfire U14",
+      "away_team": "Clifton All Whites Orange U14",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "U14 Sun YEL Shield",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sports Gateway Spitfire U14",
+      "home_away": "home",
+      "opponent": "Clifton All Whites Orange U14",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "bc6bedfe9c60bbe6c767849065b864ac",
       "date": "2026-03-21",

@@ -1,33 +1,7 @@
 {
   "club": "Barrowby Junior",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "c0e42fb69c5cd44acd890c693e71a7d0",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Barrowby Junior Green U11",
-      "away_team": "Meden Vale Colts Green U11",
-      "venue": "Barrowby FC NG32 1DJ",
-      "division": "U11 Sun Spring Div 4 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Barrowby Junior Green U11",
-      "home_away": "home",
-      "opponent": "Meden Vale Colts Green U11"
-    },
-    {
-      "id": "a5264c22a8fd440e3a9248773a1ca7b8",
-      "date": "2026-03-22",
-      "time": "10:30",
-      "home_team": "Barrowby Junior Green U13",
-      "away_team": "Sports Gateway Phoenix U13",
-      "venue": "Low Field NG32 1DJ",
-      "division": "U13 Sun Spring Div 5 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Barrowby Junior Green U13",
-      "home_away": "home",
-      "opponent": "Sports Gateway Phoenix U13"
-    },
     {
       "id": "0d40859d8a71264ebd22d58229ca02e4",
       "date": "2026-04-19",
@@ -53,9 +27,56 @@
       "team": "Barrowby Junior Greens U14",
       "home_away": "away",
       "opponent": "Sports Gateway Spitfire U14"
+    },
+    {
+      "id": "b47b24872bae983f48b6fc2d1a7f6af2",
+      "date": "2026-05-03",
+      "time": "11:00",
+      "home_team": "Barrowby Junior Green U13",
+      "away_team": "Mansfield Athletic U13",
+      "venue": "Low Field NG32 1DJ",
+      "division": "U13 Sun YEL Challenge Trophy",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Barrowby Junior Green U13",
+      "home_away": "home",
+      "opponent": "Mansfield Athletic U13"
     }
   ],
   "results": [
+    {
+      "id": "a5264c22a8fd440e3a9248773a1ca7b8",
+      "date": "2026-03-22",
+      "time": "10:30",
+      "home_team": "Barrowby Junior Green U13",
+      "away_team": "Sports Gateway Phoenix U13",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "U13 Sun Spring Div 5 Silver",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Barrowby Junior Green U13",
+      "home_away": "home",
+      "opponent": "Sports Gateway Phoenix U13",
+      "goals_for": 6,
+      "goals_against": 0
+    },
+    {
+      "id": "c0e42fb69c5cd44acd890c693e71a7d0",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Barrowby Junior Green U11",
+      "away_team": "Meden Vale Colts Green U11",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "U11 Sun Spring Div 4 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Barrowby Junior Green U11",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts Green U11",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "79ad7fbad4a52208b70032d11ba7d610",
       "date": "2026-03-15",

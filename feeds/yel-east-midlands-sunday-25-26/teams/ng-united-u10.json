@@ -1,19 +1,8 @@
 {
   "team": "NG United U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "f1d108d49ef7bf3d09b9aadde9aaefc6",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "NG United U10",
-      "away_team": "Club FDNA Barca U10",
-      "venue": "Robin Hood Road NG5 8NP",
-      "division": "U10 Sun Spring Div 2 Red",
-      "home_away": "home",
-      "opponent": "Club FDNA Barca U10"
-    },
     {
       "id": "ec6ee5ba4fef06a72e9f6cdefc1dba9e",
       "date": "2026-04-14",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f1d108d49ef7bf3d09b9aadde9aaefc6",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "NG United U10",
+      "away_team": "Club FDNA Barca U10",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "U10 Sun Spring Div 2 Red",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Club FDNA Barca U10",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "de0d66e5f4a76f8ba6715e41446391d1",
       "date": "2026-03-15",

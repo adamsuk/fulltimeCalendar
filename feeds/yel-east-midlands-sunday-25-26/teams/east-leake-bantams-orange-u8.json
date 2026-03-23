@@ -1,30 +1,8 @@
 {
   "team": "East Leake Bantams Orange U8",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "5b67f322f42cd892b855ae76a7298892",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Attenborough Colts Yellow U8",
-      "away_team": "East Leake Bantams Orange U8",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U8 Sun Spring 3 Blue",
-      "home_away": "away",
-      "opponent": "Attenborough Colts Yellow U8"
-    },
-    {
-      "id": "bb45f83abaf19398b4cc58bcef1f26ef",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "East Leake Bantams Orange U8",
-      "away_team": "East Leake Bantams Black U8",
-      "venue": "Costock Road LE12 6LY",
-      "division": "U8 Sun Spring 3 Blue",
-      "home_away": "home",
-      "opponent": "East Leake Bantams Black U8"
-    },
     {
       "id": "4800b39e8f0b627e25d22152ed6c6d0a",
       "date": "2026-04-12",
@@ -60,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5b67f322f42cd892b855ae76a7298892",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Attenborough Colts Yellow U8",
+      "away_team": "East Leake Bantams Orange U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U8 Sun Spring 3 Blue",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Attenborough Colts Yellow U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "04062a67b94b3666df560f459f7cd770",
       "date": "2026-03-15",

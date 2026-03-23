@@ -1,19 +1,8 @@
 {
   "team": "WBYFC BVB U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "d59d5df884401115b3795b15690558c9",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Grantham Town U10",
-      "away_team": "WBYFC BVB U10",
-      "venue": "Grantham Town Football Club NG31 7XQ",
-      "division": "U10 Sun Spring Div 3 Blue",
-      "home_away": "away",
-      "opponent": "Grantham Town U10"
-    },
     {
       "id": "20bfcb04da43c17d721ca9f883db041c",
       "date": "2026-03-29",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d59d5df884401115b3795b15690558c9",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Grantham Town U10",
+      "away_team": "WBYFC BVB U10",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "U10 Sun Spring Div 3 Blue",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Grantham Town U10",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "6f68023abaa29412d6a92e66d6235c25",
       "date": "2026-03-15",

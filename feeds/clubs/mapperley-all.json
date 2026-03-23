@@ -1,46 +1,7 @@
 {
   "club": "Mapperley All",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "6066f7494c64e9d483d2cfee6004ea9e",
-      "date": "2026-03-22",
-      "time": "09:30",
-      "home_team": "Mapperley All Stars Blue U9",
-      "away_team": "Calverton MW White U9",
-      "venue": "Colwick Recreation Ground NG4 2DW",
-      "division": "U9 Sun Spring Div 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Mapperley All Stars Blue U9",
-      "home_away": "home",
-      "opponent": "Calverton MW White U9"
-    },
-    {
-      "id": "7f20440fde7d2c925b480af8e8d7405a",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Inspire Nottingham FC Black U8",
-      "away_team": "Mapperley All Stars Blue U8",
-      "venue": "Powerleague Nottingham Arnold NG5 6NZ",
-      "division": "U8 Sun Spring 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Mapperley All Stars Blue U8",
-      "home_away": "away",
-      "opponent": "Inspire Nottingham FC Black U8"
-    },
-    {
-      "id": "9e85820e51360ace740b4e1109c571f3",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "West Hallam Allstars U10",
-      "away_team": "Mapperley All Stars Stripes U10",
-      "venue": "Stanley Village Rec Ground DE7 6FF",
-      "division": "U10 Sun Spring Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Mapperley All Stars Stripes U10",
-      "home_away": "away",
-      "opponent": "West Hallam Allstars U10"
-    },
     {
       "id": "808e569d57fe57f9737c77997c03d768",
       "date": "2026-03-22",
@@ -53,19 +14,6 @@
       "team": "Mapperley All Stars Yellow U8",
       "home_away": "home",
       "opponent": "Inspire Nottingham White U8"
-    },
-    {
-      "id": "fa752d9e21041553c2f830f40f9da3cf",
-      "date": "2026-03-22",
-      "time": "10:30",
-      "home_team": "Radcliffe Olympic Lions U7",
-      "away_team": "Mapperley All Stars Yellow U7",
-      "venue": "Radcliffe on Trent Cricket Club NG12 2DU",
-      "division": "U7 Sun Spring Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Mapperley All Stars Yellow U7",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic Lions U7"
     },
     {
       "id": "8300450004b76484e27d016e42cdb0c2",
@@ -107,19 +55,6 @@
       "opponent": "Lowdham FC Stripes U9"
     },
     {
-      "id": "10f87826dd725bc94294f449222d05a5",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Mapperley All Stars Blue U8",
-      "away_team": "WBYFC Courage Black U8",
-      "venue": "Colwick Recreation Ground NG4 2DW",
-      "division": "U8 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Mapperley All Stars Blue U8",
-      "home_away": "home",
-      "opponent": "WBYFC Courage Black U8"
-    },
-    {
       "id": "1a42b5a1dac74d7018313b7b42727d74",
       "date": "2026-03-29",
       "time": "10:00",
@@ -131,19 +66,6 @@
       "team": "Mapperley All Stars Blue U9",
       "home_away": "away",
       "opponent": "Sherwood Colliery Blue U9"
-    },
-    {
-      "id": "bbe77291403c2a666a194a4018ab11f6",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Mapperley All Stars Stripes U10",
-      "away_team": "Keyworth United White U10",
-      "venue": "Colwick Recreation Ground NG4 2DW",
-      "division": "U10 Sun Spring Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Mapperley All Stars Stripes U10",
-      "home_away": "home",
-      "opponent": "Keyworth United White U10"
     },
     {
       "id": "71f601d1444a55ba67215ba0f08771e2",
@@ -346,7 +268,7 @@
       "time": "10:00",
       "home_team": "Hucknall Sports Red U14",
       "away_team": "Mapperley All Stars United U14",
-      "venue": "Engine Rooms NG15 6EP",
+      "venue": "Goosedale Sports Club NG6 8UJ",
       "division": "u14 Sat Spring Div 3 Red",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Mapperley All Stars United U14",
@@ -419,6 +341,19 @@
       "opponent": "Beaufort United Reds U8"
     },
     {
+      "id": "1663d185ec8ab1578648680eb747008f",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Mapperley All Stars Stripes U10",
+      "away_team": "Keyworth United White U10",
+      "venue": "Colwick Recreation Ground NG4 2DW",
+      "division": "U10 Sun Spring Div 2 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Mapperley All Stars Stripes U10",
+      "home_away": "home",
+      "opponent": "Keyworth United White U10"
+    },
+    {
       "id": "261cafd5e3dbd49908d62580f15b85f0",
       "date": "2026-04-26",
       "time": "10:00",
@@ -459,6 +394,74 @@
     }
   ],
   "results": [
+    {
+      "id": "fa752d9e21041553c2f830f40f9da3cf",
+      "date": "2026-03-22",
+      "time": "10:30",
+      "home_team": "Radcliffe Olympic Lions U7",
+      "away_team": "Mapperley All Stars Yellow U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Sun Spring Blue",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Mapperley All Stars Yellow U7",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic Lions U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "7f20440fde7d2c925b480af8e8d7405a",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Inspire Nottingham FC Black U8",
+      "away_team": "Mapperley All Stars Blue U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U8 Sun Spring 2 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Mapperley All Stars Blue U8",
+      "home_away": "away",
+      "opponent": "Inspire Nottingham FC Black U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "9e85820e51360ace740b4e1109c571f3",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "West Hallam Allstars U10",
+      "away_team": "Mapperley All Stars Stripes U10",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "U10 Sun Spring Div 2 Blue",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Mapperley All Stars Stripes U10",
+      "home_away": "away",
+      "opponent": "West Hallam Allstars U10",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
+      "id": "6066f7494c64e9d483d2cfee6004ea9e",
+      "date": "2026-03-22",
+      "time": "09:30",
+      "home_team": "Mapperley All Stars Blue U9",
+      "away_team": "Calverton MW White U9",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "U9 Sun Spring Div 2 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Mapperley All Stars Blue U9",
+      "home_away": "home",
+      "opponent": "Calverton MW White U9",
+      "goals_for": 2,
+      "goals_against": 6
+    },
     {
       "id": "cf4900eeedad83f182e7741dc1ef7828",
       "date": "2026-03-21",

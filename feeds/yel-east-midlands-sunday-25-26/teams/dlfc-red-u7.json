@@ -1,19 +1,8 @@
 {
   "team": "DLFC Red U7",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "07383b14a92a092f8ebff9d140aa417b",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "DLFC Tangerine U7",
-      "away_team": "DLFC Red U7",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U7 Sun Spring Yellow",
-      "home_away": "away",
-      "opponent": "DLFC Tangerine U7"
-    },
     {
       "id": "9bf2893d3281e9594d726ba04adb246c",
       "date": "2026-03-29",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "07383b14a92a092f8ebff9d140aa417b",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "DLFC Tangerine U7",
+      "away_team": "DLFC Red U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Sun Spring Yellow",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "DLFC Tangerine U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "26bdac004335da2d4421eab14148f1b4",
       "date": "2026-03-08",

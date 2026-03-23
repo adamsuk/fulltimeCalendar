@@ -1,19 +1,8 @@
 {
   "team": "Silva FC Southglade Grey U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "4b1eeaa90c45576ea00c286433a95ae8",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Attenborough Colts U13",
-      "away_team": "Silva FC Southglade Grey U13",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U13 Sun Spring Div 4 Blue",
-      "home_away": "away",
-      "opponent": "Attenborough Colts U13"
-    },
     {
       "id": "3db00df3de5be948ec0d002d4375c46a",
       "date": "2026-04-12",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "4b1eeaa90c45576ea00c286433a95ae8",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Attenborough Colts U13",
+      "away_team": "Silva FC Southglade Grey U13",
+      "home_score": 4,
+      "away_score": 4,
+      "venue": "U13 Sun Spring Div 4 Blue",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Attenborough Colts U13",
+      "goals_for": 4,
+      "goals_against": 4
+    },
     {
       "id": "805f42c7726de64aef2b4497dfe578f9",
       "date": "2026-03-15",

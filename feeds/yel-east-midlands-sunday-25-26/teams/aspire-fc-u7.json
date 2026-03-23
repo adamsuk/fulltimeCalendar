@@ -1,19 +1,8 @@
 {
   "team": "Aspire FC U7",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "e5f7b149d5ff5c1cc116d1a5a8525a23",
-      "date": "2026-03-22",
-      "time": "09:30",
-      "home_team": "Aspire FC U7",
-      "away_team": "Clifton AW Purple U7",
-      "venue": "Nottingham Trent University NG11 8NS",
-      "division": "U7 Sun Spring Blue",
-      "home_away": "home",
-      "opponent": "Clifton AW Purple U7"
-    },
     {
       "id": "64ae14cd5fbab8ce5e6bee15ebffeefc",
       "date": "2026-04-12",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e5f7b149d5ff5c1cc116d1a5a8525a23",
+      "date": "2026-03-22",
+      "time": "09:30",
+      "home_team": "Aspire FC U7",
+      "away_team": "Clifton AW Purple U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Sun Spring Blue",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Clifton AW Purple U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "d9a7cb73432082e364c840dbdff81dd9",
       "date": "2026-03-15",

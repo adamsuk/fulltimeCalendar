@@ -1,20 +1,7 @@
 {
   "club": "Spondon Dynamos",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "1437a9a84ac071ecb22381ec56ae0b23",
-      "date": "2026-03-22",
-      "time": "10:50",
-      "home_team": "Spondon Dynamos Blades U13",
-      "away_team": "Alvaston Athletic Lions U13",
-      "venue": "Kirk Hallam Community Acadamy DE7 4HH",
-      "division": "U13 Sun Spring Premier Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Spondon Dynamos Blades U13",
-      "home_away": "home",
-      "opponent": "Alvaston Athletic Lions U13"
-    },
     {
       "id": "17816d22ad803bf8f7f2f9275b2c92c1",
       "date": "2026-03-28",
@@ -68,6 +55,19 @@
       "opponent": "Newton & Blkwl Thunder U13"
     },
     {
+      "id": "164dc7bf0a632df6aad452d32429e2e9",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Spondon Dynamos Blades U13",
+      "away_team": "Nottingham FC Green U13",
+      "venue": "Kirk Hallam Community Acadamy DE7 4HH",
+      "division": "U13 Sun YEL Cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Spondon Dynamos Blades U13",
+      "home_away": "home",
+      "opponent": "Nottingham FC Green U13"
+    },
+    {
       "id": "d2b5ab30a9cf2c9211ec1c55d5f56dbd",
       "date": "2026-04-25",
       "time": "11:00",
@@ -95,6 +95,23 @@
     }
   ],
   "results": [
+    {
+      "id": "1437a9a84ac071ecb22381ec56ae0b23",
+      "date": "2026-03-22",
+      "time": "10:50",
+      "home_team": "Spondon Dynamos Blades U13",
+      "away_team": "Alvaston Athletic Lions U13",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "U13 Sun Spring Premier Division",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Spondon Dynamos Blades U13",
+      "home_away": "home",
+      "opponent": "Alvaston Athletic Lions U13",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "3a91a46096d95a6dd83a4e89a5478786",
       "date": "2026-03-21",

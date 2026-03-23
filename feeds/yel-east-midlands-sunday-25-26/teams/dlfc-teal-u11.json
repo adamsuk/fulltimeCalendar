@@ -1,19 +1,8 @@
 {
   "team": "DLFC Teal U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "1a43a6582f7cfab6119e56fec51f0125",
-      "date": "2026-03-22",
-      "time": "12:30",
-      "home_team": "DLFC Teal U11",
-      "away_team": "Silva FC Rushcliffe Red U11",
-      "venue": "Mellish Sports Centre NG6 9FH",
-      "division": "U11 Sun Spring Div 5 Blue",
-      "home_away": "home",
-      "opponent": "Silva FC Rushcliffe Red U11"
-    },
     {
       "id": "fdf8364965012d26b2ac7b1081d59bc9",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "1a43a6582f7cfab6119e56fec51f0125",
+      "date": "2026-03-22",
+      "time": "12:30",
+      "home_team": "DLFC Teal U11",
+      "away_team": "Silva FC Rushcliffe Red U11",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "U11 Sun Spring Div 5 Blue",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Silva FC Rushcliffe Red U11",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "c4c896eef36f308f24131786de76164d",
       "date": "2026-03-15",

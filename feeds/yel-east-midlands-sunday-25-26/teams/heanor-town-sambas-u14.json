@@ -1,19 +1,8 @@
 {
   "team": "Heanor Town Sambas U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "e1fa25dbd3c96c1469c83a2cbe51c091",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Heanor Town Sambas U14",
-      "away_team": "Bottesford Yellow U14",
-      "venue": "Riddings Park DE55 4EW",
-      "division": "U14 Sun YEL Trophy",
-      "home_away": "home",
-      "opponent": "Bottesford Yellow U14"
-    },
     {
       "id": "dea9889be2eca2b04d678a66fb03d755",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e1fa25dbd3c96c1469c83a2cbe51c091",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Heanor Town Sambas U14",
+      "away_team": "Bottesford Yellow U14",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "U14 Sun YEL Trophy",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Bottesford Yellow U14",
+      "goals_for": 4,
+      "goals_against": 3
+    },
     {
       "id": "bef51a86055c389a95549e3793a1bcbf",
       "date": "2026-03-15",

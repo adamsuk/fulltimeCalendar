@@ -1,33 +1,7 @@
 {
   "club": "Burton Joyce",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "63ffdf7334d746300b5357d98686631e",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Meden Vale Colts Gold U11",
-      "away_team": "Burton Joyce Blue U11",
-      "venue": "Elkesley Road Ground NG20 9PS",
-      "division": "U11 Sun Spring Div 5 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Burton Joyce Blue U11",
-      "home_away": "away",
-      "opponent": "Meden Vale Colts Gold U11"
-    },
-    {
-      "id": "7eb513e3b79a2d9101c3dd706503c5e3",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Selston FC U12",
-      "away_team": "Burton Joyce Green U12",
-      "venue": "Mayfield Street Recreation Grnd NG17 8LU",
-      "division": "U12 Sun Spring Div 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Burton Joyce Green U12",
-      "home_away": "away",
-      "opponent": "Selston FC U12"
-    },
     {
       "id": "ae72360fead2fb885e3547ab2dff1145",
       "date": "2026-03-22",
@@ -316,6 +290,40 @@
     }
   ],
   "results": [
+    {
+      "id": "63ffdf7334d746300b5357d98686631e",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Meden Vale Colts Gold U11",
+      "away_team": "Burton Joyce Blue U11",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "U11 Sun Spring Div 5 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Burton Joyce Blue U11",
+      "home_away": "away",
+      "opponent": "Meden Vale Colts Gold U11",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
+      "id": "7eb513e3b79a2d9101c3dd706503c5e3",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Selston FC U12",
+      "away_team": "Burton Joyce Green U12",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "U12 Sun Spring Div 2 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Burton Joyce Green U12",
+      "home_away": "away",
+      "opponent": "Selston FC U12",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "40a1f59840b539d39f57652f27244f12",
       "date": "2026-03-21",

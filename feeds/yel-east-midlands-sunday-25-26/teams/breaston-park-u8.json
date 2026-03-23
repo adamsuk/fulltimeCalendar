@@ -1,29 +1,18 @@
 {
   "team": "Breaston Park U8",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
     {
-      "id": "7d0de686a71fcafe896318cffa43689d",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Breaston Park U8",
-      "away_team": "East Leake White U8",
-      "venue": "Soldiers and Sailors Pitch DE72 3TT",
-      "division": "U8 Sun Spring 5 Blue",
-      "home_away": "home",
-      "opponent": "East Leake White U8"
-    },
-    {
-      "id": "5bab4f34460ea934268bdfcbf7d31090",
+      "id": "7b8f72972977d7133498fd239a495f43",
       "date": "2026-03-29",
       "time": "10:00",
-      "home_team": "WBYFC Valour Red U8",
+      "home_team": "Carlton Town Blue U8",
       "away_team": "Breaston Park U8",
-      "venue": "Alford Road, NG2 6HP",
-      "division": "U8 Sun Spring 5 Blue",
+      "venue": "Magenta Way NG14 5HH",
+      "division": "U8 Sunday",
       "home_away": "away",
-      "opponent": "WBYFC Valour Red U8"
+      "opponent": "Carlton Town Blue U8"
     },
     {
       "id": "e6d12a8373ac9c149b8fb7d6f0ef69e7",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7d0de686a71fcafe896318cffa43689d",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Breaston Park U8",
+      "away_team": "East Leake White U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U8 Sun Spring 5 Blue",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "East Leake White U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "92d5e3a47eb7aa3085dd5898af90b443",
       "date": "2026-03-15",

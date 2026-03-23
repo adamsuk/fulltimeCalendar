@@ -1,19 +1,8 @@
 {
   "team": "Borrowash Youth Panthers U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "924db01eb622ffebc59b89d0606b40de",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Eastwood Athletic Blazers U11",
-      "away_team": "Borrowash Youth Panthers U11",
-      "venue": "Hall Park NG16 3AR",
-      "division": "U11 Sun Spring Div 7",
-      "home_away": "away",
-      "opponent": "Eastwood Athletic Blazers U11"
-    },
     {
       "id": "f4ee80431f26157f2045157e2be79b95",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "924db01eb622ffebc59b89d0606b40de",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Eastwood Athletic Blazers U11",
+      "away_team": "Borrowash Youth Panthers U11",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "U11 Sun Spring Div 7",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Eastwood Athletic Blazers U11",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "7aff782ec3529542b1ecbddecdd3aaba",
       "date": "2026-03-15",

@@ -1,33 +1,7 @@
 {
   "club": "Aslockton & Orston",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "bc5392f592cb55d13a34d302a48d8c4b",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Aslockton & Orston Black U13",
-      "away_team": "Eastwood CFC Black U13",
-      "venue": "Orston Sports Field  NG13 9PL",
-      "division": "U13 Sun Spring Div 1 Gold",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Aslockton & Orston Black U13",
-      "home_away": "home",
-      "opponent": "Eastwood CFC Black U13"
-    },
-    {
-      "id": "ccbae34cc349f7a1560928ecaedf3bec",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Aslockton & Orston Blue U10",
-      "away_team": "Basford CFC Blue U10",
-      "venue": "Orston Sports Field  NG13 9PL",
-      "division": "U10 Sun Spring Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Aslockton & Orston Blue U10",
-      "home_away": "home",
-      "opponent": "Basford CFC Blue U10"
-    },
     {
       "id": "f8cda8bde0267f7b6db41afb384c0645",
       "date": "2026-03-28",
@@ -160,6 +134,40 @@
     }
   ],
   "results": [
+    {
+      "id": "bc5392f592cb55d13a34d302a48d8c4b",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Aslockton & Orston Black U13",
+      "away_team": "Eastwood CFC Black U13",
+      "home_score": 6,
+      "away_score": 4,
+      "venue": "U13 Sun Spring Div 1 Gold",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Aslockton & Orston Black U13",
+      "home_away": "home",
+      "opponent": "Eastwood CFC Black U13",
+      "goals_for": 6,
+      "goals_against": 4
+    },
+    {
+      "id": "ccbae34cc349f7a1560928ecaedf3bec",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Aslockton & Orston Blue U10",
+      "away_team": "Basford CFC Blue U10",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "U10 Sun Spring Div 2 Blue",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Aslockton & Orston Blue U10",
+      "home_away": "home",
+      "opponent": "Basford CFC Blue U10",
+      "goals_for": 3,
+      "goals_against": 4
+    },
     {
       "id": "9106340f4a0b66394536539a92b175ed",
       "date": "2026-03-21",

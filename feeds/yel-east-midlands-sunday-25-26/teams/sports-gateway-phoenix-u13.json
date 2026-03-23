@@ -1,19 +1,8 @@
 {
   "team": "Sports Gateway Phoenix U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "a5264c22a8fd440e3a9248773a1ca7b8",
-      "date": "2026-03-22",
-      "time": "10:30",
-      "home_team": "Barrowby Junior Green U13",
-      "away_team": "Sports Gateway Phoenix U13",
-      "venue": "Low Field NG32 1DJ",
-      "division": "U13 Sun Spring Div 5 Silver",
-      "home_away": "away",
-      "opponent": "Barrowby Junior Green U13"
-    },
     {
       "id": "6357459ed81b88f9bc45c8ccfd62b47c",
       "date": "2026-03-29",
@@ -37,6 +26,17 @@
       "opponent": "Barrowby Junior Black U13"
     },
     {
+      "id": "64eaa43130a5fd9d227f8bfeaa06f604",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Hucknall Sports Red U13",
+      "away_team": "Sports Gateway Phoenix U13",
+      "venue": "Engine Rooms NG15 6EP",
+      "division": "U13 Sun YEL Challenge Trophy",
+      "home_away": "away",
+      "opponent": "Hucknall Sports Red U13"
+    },
+    {
       "id": "32dc82caf2c41bd15375d1ed8deffed2",
       "date": "2026-04-26",
       "time": "10:00",
@@ -49,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a5264c22a8fd440e3a9248773a1ca7b8",
+      "date": "2026-03-22",
+      "time": "10:30",
+      "home_team": "Barrowby Junior Green U13",
+      "away_team": "Sports Gateway Phoenix U13",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "U13 Sun Spring Div 5 Silver",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Barrowby Junior Green U13",
+      "goals_for": 0,
+      "goals_against": 6
+    },
     {
       "id": "8233cab67dd349782a06f194598217a5",
       "date": "2026-03-15",

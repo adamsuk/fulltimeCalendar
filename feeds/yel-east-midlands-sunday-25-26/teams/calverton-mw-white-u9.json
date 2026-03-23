@@ -1,19 +1,8 @@
 {
   "team": "Calverton MW White U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "6066f7494c64e9d483d2cfee6004ea9e",
-      "date": "2026-03-22",
-      "time": "09:30",
-      "home_team": "Mapperley All Stars Blue U9",
-      "away_team": "Calverton MW White U9",
-      "venue": "Colwick Recreation Ground NG4 2DW",
-      "division": "U9 Sun Spring Div 2 Red",
-      "home_away": "away",
-      "opponent": "Mapperley All Stars Blue U9"
-    },
     {
       "id": "6558d4326d36f42579e32c1ce264c0f7",
       "date": "2026-03-29",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6066f7494c64e9d483d2cfee6004ea9e",
+      "date": "2026-03-22",
+      "time": "09:30",
+      "home_team": "Mapperley All Stars Blue U9",
+      "away_team": "Calverton MW White U9",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "U9 Sun Spring Div 2 Red",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Mapperley All Stars Blue U9",
+      "goals_for": 6,
+      "goals_against": 2
+    },
     {
       "id": "54e4c422d03ad2217cdc71240d8c2921",
       "date": "2026-03-08",

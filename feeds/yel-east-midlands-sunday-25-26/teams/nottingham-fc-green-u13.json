@@ -1,19 +1,8 @@
 {
   "team": "Nottingham FC Green U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "5f7fd2ae0078e49498cc1798aca5df38",
-      "date": "2026-03-22",
-      "time": "12:40",
-      "home_team": "Eastwood CFC Badgers U13",
-      "away_team": "Nottingham FC Green U13",
-      "venue": "Coronation Park NG16 3HB",
-      "division": "U13 Sun YEL Cup",
-      "home_away": "away",
-      "opponent": "Eastwood CFC Badgers U13"
-    },
     {
       "id": "2e505901aa155c4133ff33dad050823d",
       "date": "2026-03-29",
@@ -48,6 +37,17 @@
       "opponent": "Aslockton & Orston Black U13"
     },
     {
+      "id": "164dc7bf0a632df6aad452d32429e2e9",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Spondon Dynamos Blades U13",
+      "away_team": "Nottingham FC Green U13",
+      "venue": "Kirk Hallam Community Acadamy DE7 4HH",
+      "division": "U13 Sun YEL Cup",
+      "home_away": "away",
+      "opponent": "Spondon Dynamos Blades U13"
+    },
+    {
       "id": "c3706460574d583d4f15ab9f91cc50d4",
       "date": "2026-04-23",
       "time": "18:00",
@@ -71,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5f7fd2ae0078e49498cc1798aca5df38",
+      "date": "2026-03-22",
+      "time": "12:40",
+      "home_team": "Eastwood CFC Badgers U13",
+      "away_team": "Nottingham FC Green U13",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "U13 Sun YEL Cup",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Eastwood CFC Badgers U13",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "19631e7c2c1629b080d3b03f3817bd83",
       "date": "2026-03-15",

@@ -1,19 +1,8 @@
 {
   "team": "Willow Wanderers Harriers U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "b661eb6e014ee1a67c0c617afe876ee4",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Castle Donington Tigers U11",
-      "away_team": "Willow Wanderers Harriers U11",
-      "venue": "Spital Park DE74 2NQ",
-      "division": "U11 Sun Spring Div 6 Silver",
-      "home_away": "away",
-      "opponent": "Castle Donington Tigers U11"
-    },
     {
       "id": "5f74cc8dcf03c0ff9a6a2fd0843938b2",
       "date": "2026-04-15",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b661eb6e014ee1a67c0c617afe876ee4",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Castle Donington Tigers U11",
+      "away_team": "Willow Wanderers Harriers U11",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "U11 Sun Spring Div 6 Silver",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Castle Donington Tigers U11",
+      "goals_for": 6,
+      "goals_against": 1
+    },
     {
       "id": "755a9edec2ef36835d91bf8e07efe841",
       "date": "2026-03-15",

@@ -1,19 +1,8 @@
 {
   "team": "Ernehale Colts U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "af5c627600c2fef7c581723b91651033",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Ernehale Colts U9",
-      "away_team": "Castle Donington Hawks U9",
-      "venue": "King George V Park NG5 6TD",
-      "division": "U9 Sun Spring Div 6 Blue",
-      "home_away": "home",
-      "opponent": "Castle Donington Hawks U9"
-    },
     {
       "id": "dd86138005df4e902aa5398eb7d35704",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "af5c627600c2fef7c581723b91651033",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Ernehale Colts U9",
+      "away_team": "Castle Donington Hawks U9",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "U9 Sun Spring Div 6 Blue",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Castle Donington Hawks U9",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "708ba2f64144938a4755f0f9db38aa8f",
       "date": "2026-03-15",

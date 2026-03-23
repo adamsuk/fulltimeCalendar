@@ -1,19 +1,8 @@
 {
   "team": "Long Eaton United Red U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "fcf525c25814d7a292c41ef9380a98ae",
-      "date": "2026-03-22",
-      "time": "09:30",
-      "home_team": "Quarrydale United United U13",
-      "away_team": "Long Eaton United Red U13",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U13 Sun YEL Shield",
-      "home_away": "away",
-      "opponent": "Quarrydale United United U13"
-    },
     {
       "id": "64dec021ea3f68366160619dfb487319",
       "date": "2026-04-16",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "fcf525c25814d7a292c41ef9380a98ae",
+      "date": "2026-03-22",
+      "time": "09:30",
+      "home_team": "Quarrydale United United U13",
+      "away_team": "Long Eaton United Red U13",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "U13 Sun YEL Shield",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Quarrydale United United U13",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "ea4d8f893644ea3f12fae0b451fbebaa",
       "date": "2026-03-15",

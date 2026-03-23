@@ -1,33 +1,7 @@
 {
   "club": "Castle Don",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "91b89399812f9d09f7b8dc24c3346686",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "WBYFC Atlantis U13",
-      "away_team": "Castle Don Barbarians U13",
-      "venue": "Riverside Complex NG7 2SA",
-      "division": "U13 Sun Spring Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Castle Don Barbarians U13",
-      "home_away": "away",
-      "opponent": "WBYFC Atlantis U13"
-    },
-    {
-      "id": "96c8d32449f7a6606e39576f15d8e9e4",
-      "date": "2026-03-22",
-      "time": "10:30",
-      "home_team": "Riverside FC Panthers U13",
-      "away_team": "Castle Don Hawks U13",
-      "venue": "West Park Long Eaton NG10 4AA",
-      "division": "U13 Sun Spring Div 6",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Castle Don Hawks U13",
-      "home_away": "away",
-      "opponent": "Riverside FC Panthers U13"
-    },
     {
       "id": "67c63624166a9d4de0f9f57399c8c0ac",
       "date": "2026-04-12",
@@ -69,6 +43,40 @@
     }
   ],
   "results": [
+    {
+      "id": "96c8d32449f7a6606e39576f15d8e9e4",
+      "date": "2026-03-22",
+      "time": "10:30",
+      "home_team": "Riverside FC Panthers U13",
+      "away_team": "Castle Don Hawks U13",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "U13 Sun Spring Div 6",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Castle Don Hawks U13",
+      "home_away": "away",
+      "opponent": "Riverside FC Panthers U13",
+      "goals_for": 1,
+      "goals_against": 5
+    },
+    {
+      "id": "91b89399812f9d09f7b8dc24c3346686",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "WBYFC Atlantis U13",
+      "away_team": "Castle Don Barbarians U13",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "U13 Sun Spring Div 2 Blue",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Castle Don Barbarians U13",
+      "home_away": "away",
+      "opponent": "WBYFC Atlantis U13",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "fa6cf22caf2caf9d8d9d22e522f29149",
       "date": "2026-03-15",

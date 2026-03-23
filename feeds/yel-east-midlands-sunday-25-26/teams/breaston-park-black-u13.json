@@ -1,19 +1,8 @@
 {
   "team": "Breaston Park Black U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "a3e9ebdc3fd58449fca4dbe60581bf16",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Mickleover FC Juniors Phoenix U13",
-      "away_team": "Breaston Park Black U13",
-      "venue": "Varsity Grange Football Complex DE3 9EB",
-      "division": "U13 Sun Spring Div 2 Blue",
-      "home_away": "away",
-      "opponent": "Mickleover FC Juniors Phoenix U13"
-    },
     {
       "id": "ac36d4ad8190aaafc2c5118f0921a681",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a3e9ebdc3fd58449fca4dbe60581bf16",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Mickleover FC Juniors Phoenix U13",
+      "away_team": "Breaston Park Black U13",
+      "home_score": 0,
+      "away_score": 6,
+      "venue": "U13 Sun Spring Div 2 Blue",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Mickleover FC Juniors Phoenix U13",
+      "goals_for": 6,
+      "goals_against": 0
+    },
     {
       "id": "93b4fedab61ac7a16469c99cb0515bd5",
       "date": "2026-03-15",

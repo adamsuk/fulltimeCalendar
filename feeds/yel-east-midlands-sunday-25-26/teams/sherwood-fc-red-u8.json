@@ -1,19 +1,8 @@
 {
   "team": "Sherwood FC Red U8",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "e2e150ce3060bcf266798f39d29a05c3",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Hucknall Sports Red U8",
-      "away_team": "Sherwood FC Red U8",
-      "venue": "Goosedale Sport Club NG6 8UJ",
-      "division": "U8 Sun Spring 3 Red",
-      "home_away": "away",
-      "opponent": "Hucknall Sports Red U8"
-    },
     {
       "id": "6185c14be03b32c6b9bdc50f47a4668b",
       "date": "2026-03-29",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e2e150ce3060bcf266798f39d29a05c3",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Hucknall Sports Red U8",
+      "away_team": "Sherwood FC Red U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U8 Sun Spring 3 Red",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Hucknall Sports Red U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "d4b98e8d99378e344d0c7d4898e0eb07",
       "date": "2026-03-15",

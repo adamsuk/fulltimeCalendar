@@ -1,19 +1,8 @@
 {
   "team": "Barrowby FC Black U8",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "abc8c8f7a917fb68b1ace410620aef2d",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Barrowby FC Black U8",
-      "away_team": "Quarrydale United U8",
-      "venue": "Low Field NG32 1DJ",
-      "division": "U8 Sun Spring 3 Red",
-      "home_away": "home",
-      "opponent": "Quarrydale United U8"
-    },
     {
       "id": "46dc9d1bbb049844535cce0a6bc3714f",
       "date": "2026-03-29",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "abc8c8f7a917fb68b1ace410620aef2d",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Barrowby FC Black U8",
+      "away_team": "Quarrydale United U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U8 Sun Spring 3 Red",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Quarrydale United U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "e7ae1fc0e6b428ab3ce3262e6868695a",
       "date": "2026-03-08",

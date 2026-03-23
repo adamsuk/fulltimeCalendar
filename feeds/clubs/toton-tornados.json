@@ -1,33 +1,7 @@
 {
   "club": "Toton Tornados",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "cb16e86e0ffeb1c803959361e300c93a",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Heanor Juniors Predators U10",
-      "away_team": "Toton Tornados Cyclones U10",
-      "venue": "Charles Hill DE75 7RN",
-      "division": "U10 Sun Spring Div 5 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Toton Tornados Cyclones U10",
-      "home_away": "away",
-      "opponent": "Heanor Juniors Predators U10"
-    },
-    {
-      "id": "254cd7e73d16aae9836860d37f6d35a8",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Quarrydale United U11",
-      "away_team": "Toton Tornados Hurricanes U11",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U11 Sun YEL Challenge Trophy",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Toton Tornados Hurricanes U11",
-      "home_away": "away",
-      "opponent": "Quarrydale United U11"
-    },
     {
       "id": "5b200a8b0cdc642364e4fde37388bd7b",
       "date": "2026-03-28",
@@ -264,6 +238,40 @@
     }
   ],
   "results": [
+    {
+      "id": "cb16e86e0ffeb1c803959361e300c93a",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Heanor Juniors Predators U10",
+      "away_team": "Toton Tornados Cyclones U10",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "U10 Sun Spring Div 5 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Toton Tornados Cyclones U10",
+      "home_away": "away",
+      "opponent": "Heanor Juniors Predators U10",
+      "goals_for": 3,
+      "goals_against": 3
+    },
+    {
+      "id": "254cd7e73d16aae9836860d37f6d35a8",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Quarrydale United U11",
+      "away_team": "Toton Tornados Hurricanes U11",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "U11 Sun YEL Challenge Trophy",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Toton Tornados Hurricanes U11",
+      "home_away": "away",
+      "opponent": "Quarrydale United U11",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "0a0269999e9dcfd9be4ab1d36f55572d",
       "date": "2026-03-21",

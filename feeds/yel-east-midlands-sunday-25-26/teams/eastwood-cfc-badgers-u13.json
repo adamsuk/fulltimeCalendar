@@ -1,19 +1,8 @@
 {
   "team": "Eastwood CFC Badgers U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "5f7fd2ae0078e49498cc1798aca5df38",
-      "date": "2026-03-22",
-      "time": "12:40",
-      "home_team": "Eastwood CFC Badgers U13",
-      "away_team": "Nottingham FC Green U13",
-      "venue": "Coronation Park NG16 3HB",
-      "division": "U13 Sun YEL Cup",
-      "home_away": "home",
-      "opponent": "Nottingham FC Green U13"
-    },
     {
       "id": "d62bfbff0ad28581b7c6e48e3118cd06",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5f7fd2ae0078e49498cc1798aca5df38",
+      "date": "2026-03-22",
+      "time": "12:40",
+      "home_team": "Eastwood CFC Badgers U13",
+      "away_team": "Nottingham FC Green U13",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "U13 Sun YEL Cup",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Nottingham FC Green U13",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "0c2a8e7c1b5347a07a00df9f0467abf3",
       "date": "2026-03-15",

@@ -1,21 +1,36 @@
 {
   "team": "Sandiacre Town Hurricanes U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
+    {
+      "id": "feaccb08f2a62694652963e36e711701",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "Basford United Lions U12",
+      "away_team": "Sandiacre Town Hurricanes U12",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U12 Sun YEL Shield",
+      "home_away": "away",
+      "opponent": "Basford United Lions U12"
+    }
+  ],
+  "results": [
     {
       "id": "0bd29a42af646c88898940a545a22e11",
       "date": "2026-03-22",
       "time": "12:00",
       "home_team": "Pelican Colts Blue U12",
       "away_team": "Sandiacre Town Hurricanes U12",
-      "venue": "Dave Eastwood Sports Ground NG7 2SA",
-      "division": "U12 Sun Spring Div 2 Blue",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "U12 Sun Spring Div 2 Blue",
+      "division": "Unknown Division",
       "home_away": "away",
-      "opponent": "Pelican Colts Blue U12"
-    }
-  ],
-  "results": [
+      "opponent": "Pelican Colts Blue U12",
+      "goals_for": 0,
+      "goals_against": 0
+    },
     {
       "id": "1da2c13b39dc4a7f41cae9cd7917d0e3",
       "date": "2026-03-15",

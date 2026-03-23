@@ -1,19 +1,8 @@
 {
   "team": "Southwell City Devils U8",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "ed2dcdeb09bed1b372280ecbae30436b",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Southwell City Devils U8",
-      "away_team": "DLFC Gold U8",
-      "venue": "Southwell City FC NG25 0JP",
-      "division": "U8 Sun Spring 1",
-      "home_away": "home",
-      "opponent": "DLFC Gold U8"
-    },
     {
       "id": "1d7755a51593103a813d2c6e84152e50",
       "date": "2026-03-29",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ed2dcdeb09bed1b372280ecbae30436b",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Southwell City Devils U8",
+      "away_team": "DLFC Gold U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U8 Sun Spring 1",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "DLFC Gold U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "23155cc6b4859a0cf896227931496136",
       "date": "2026-03-15",

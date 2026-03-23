@@ -1,19 +1,8 @@
 {
   "team": "Pegasus FC U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "606c9aaf703bc38bb07bbf1a2f9989b8",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Pegasus FC U12",
-      "away_team": "DLFC Black U12",
-      "venue": "Pasture Road Recreation Ground NG9 8GN",
-      "division": "U12 Sun Spring Div 7",
-      "home_away": "home",
-      "opponent": "DLFC Black U12"
-    },
     {
       "id": "d933f7216cc196d60e353b2f99ea713c",
       "date": "2026-03-29",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "606c9aaf703bc38bb07bbf1a2f9989b8",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Pegasus FC U12",
+      "away_team": "DLFC Black U12",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "U12 Sun Spring Div 7",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "DLFC Black U12",
+      "goals_for": 2,
+      "goals_against": 6
+    },
     {
       "id": "c062f56b8ad5a6dec6f3e909e7da35cf",
       "date": "2026-03-15",

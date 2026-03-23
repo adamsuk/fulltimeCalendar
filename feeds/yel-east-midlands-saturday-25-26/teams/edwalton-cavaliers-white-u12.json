@@ -1,19 +1,8 @@
 {
   "team": "Edwalton Cavaliers White U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "8a60b77c449b8b8a56ff1a57d69479de",
-      "date": "2026-03-21",
-      "time": "10:30",
-      "home_team": "Collingham FC Lions U12",
-      "away_team": "Edwalton Cavaliers White U12",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U12 Sat YEL Shield",
-      "home_away": "away",
-      "opponent": "Collingham FC Lions U12"
-    },
     {
       "id": "9b616a63d88830be7c3d1e524b89e15f",
       "date": "2026-03-28",
@@ -26,8 +15,19 @@
       "opponent": "Keyworth United White U12"
     },
     {
-      "id": "ff68253c731fa3f2c8d86e02038ddbee",
-      "date": "2026-04-21",
+      "id": "2b9a03120bd8d240b4af85be4b008bdc",
+      "date": "2026-04-14",
+      "time": "18:30",
+      "home_team": "Ruddington Village U12",
+      "away_team": "Edwalton Cavaliers White U12",
+      "venue": "Jubilee Fields NG11 6NX",
+      "division": "U12 Sat YEL Shield",
+      "home_away": "away",
+      "opponent": "Ruddington Village U12"
+    },
+    {
+      "id": "b619fbda30d337b235dd9ec410ec0132",
+      "date": "2026-04-28",
       "time": "18:00",
       "home_team": "Nottingham FC Green U12",
       "away_team": "Edwalton Cavaliers White U12",
@@ -37,9 +37,9 @@
       "opponent": "Nottingham FC Green U12"
     },
     {
-      "id": "fd7a074cf7fd744d1a85d08423ce90bd",
-      "date": "2026-04-25",
-      "time": "10:00",
+      "id": "16d5a6b79b84a582353bcf893536ce61",
+      "date": "2026-04-28",
+      "time": "18:30",
       "home_team": "Ruddington Village U12",
       "away_team": "Edwalton Cavaliers White U12",
       "venue": "Jubilee Fields NG11 6NX",
@@ -49,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8a60b77c449b8b8a56ff1a57d69479de",
+      "date": "2026-03-21",
+      "time": "10:30",
+      "home_team": "Collingham FC Lions U12",
+      "away_team": "Edwalton Cavaliers White U12",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "U12 Sat YEL Shield",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Collingham FC Lions U12",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "b8a58a05c95efbfd6ca337ca9916554e",
       "date": "2026-03-14",

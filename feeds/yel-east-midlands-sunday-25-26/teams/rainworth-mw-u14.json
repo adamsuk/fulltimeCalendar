@@ -1,19 +1,8 @@
 {
   "team": "Rainworth MW U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "4d8a1e7990da9a3baf5d7045f6c93cb8",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Mansfield Athletic Blue U14",
-      "away_team": "Rainworth MW U14",
-      "venue": "Polly Bowls NG17 4HN",
-      "division": "U14 Sun Spring Div 4",
-      "home_away": "away",
-      "opponent": "Mansfield Athletic Blue U14"
-    },
     {
       "id": "b0d617c4bb5f9ac5a7f011016dfbe03a",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "4d8a1e7990da9a3baf5d7045f6c93cb8",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Mansfield Athletic Blue U14",
+      "away_team": "Rainworth MW U14",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "U14 Sun Spring Div 4",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Mansfield Athletic Blue U14",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "9c59e1e368393f1cb48078d310f0b691",
       "date": "2026-03-15",

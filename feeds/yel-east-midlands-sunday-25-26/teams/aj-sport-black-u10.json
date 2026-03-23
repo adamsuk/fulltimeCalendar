@@ -1,19 +1,8 @@
 {
   "team": "AJ Sport Black U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "35b46096e0406ece8cd36419ba7bfe5d",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "ASFC Wolves U10",
-      "away_team": "AJ Sport Black U10",
-      "venue": "Park Road Recreation Ground NG20 8JG",
-      "division": "U10 Sun Spring Div 1 Silver",
-      "home_away": "away",
-      "opponent": "ASFC Wolves U10"
-    },
     {
       "id": "961b5ba25f10df3878c3943c8a227841",
       "date": "2026-03-29",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "35b46096e0406ece8cd36419ba7bfe5d",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "ASFC Wolves U10",
+      "away_team": "AJ Sport Black U10",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "U10 Sun Spring Div 1 Silver",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "ASFC Wolves U10",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "2c7fc1ca4bb6f7c40cca698adbb1e6d5",
       "date": "2026-03-15",

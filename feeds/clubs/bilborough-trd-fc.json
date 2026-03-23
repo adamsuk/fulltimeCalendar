@@ -1,20 +1,7 @@
 {
   "club": "Bilborough TRD FC",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "93719b4c0b3b0506d45ab5fc225a2d1f",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Ernehale Colts Black U12",
-      "away_team": "Bilborough TRD FC U12",
-      "venue": "King George V Park NG5 6TD",
-      "division": "U12 Sun YEL Challenge Trophy",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Bilborough TRD FC U12",
-      "home_away": "away",
-      "opponent": "Ernehale Colts Black U12"
-    },
     {
       "id": "046e858043e97590058a10078fe31304",
       "date": "2026-03-29",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "93719b4c0b3b0506d45ab5fc225a2d1f",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Ernehale Colts Black U12",
+      "away_team": "Bilborough TRD FC U12",
+      "home_score": 7,
+      "away_score": 2,
+      "venue": "U12 Sun YEL Challenge Trophy",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Bilborough TRD FC U12",
+      "home_away": "away",
+      "opponent": "Ernehale Colts Black U12",
+      "goals_for": 2,
+      "goals_against": 7
+    },
     {
       "id": "d49fe79911bc4ffd3fe94ebe8386c31e",
       "date": "2026-03-15",

@@ -1,19 +1,8 @@
 {
   "team": "Mansfield Athletic U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "5e0d5b83b19e2591acecfd1e610c3927",
-      "date": "2026-03-22",
-      "time": "11:30",
-      "home_team": "Mansfield Athletic U13",
-      "away_team": "DLFC SFK U13",
-      "venue": "Unwin Road NG17 4HT",
-      "division": "U13 Sun YEL Challenge Trophy",
-      "home_away": "home",
-      "opponent": "DLFC SFK U13"
-    },
     {
       "id": "f3d4e3c55296edde1870ad91e3d9e4eb",
       "date": "2026-03-29",
@@ -57,9 +46,35 @@
       "division": "U13 Sun Spring Div 5 Silver",
       "home_away": "home",
       "opponent": "Sports Gateway Phoenix U13"
+    },
+    {
+      "id": "b47b24872bae983f48b6fc2d1a7f6af2",
+      "date": "2026-05-03",
+      "time": "11:00",
+      "home_team": "Barrowby Junior Green U13",
+      "away_team": "Mansfield Athletic U13",
+      "venue": "Low Field NG32 1DJ",
+      "division": "U13 Sun YEL Challenge Trophy",
+      "home_away": "away",
+      "opponent": "Barrowby Junior Green U13"
     }
   ],
   "results": [
+    {
+      "id": "5e0d5b83b19e2591acecfd1e610c3927",
+      "date": "2026-03-22",
+      "time": "11:30",
+      "home_team": "Mansfield Athletic U13",
+      "away_team": "DLFC SFK U13",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "U13 Sun YEL Challenge Trophy",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "DLFC SFK U13",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "47d8ab774d29169fe50408228225df35",
       "date": "2026-03-15",

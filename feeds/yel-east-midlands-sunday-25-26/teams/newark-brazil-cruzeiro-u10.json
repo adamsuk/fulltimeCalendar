@@ -1,19 +1,8 @@
 {
   "team": "Newark Brazil Cruzeiro U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "d68cafa3efc4fc850b41113b93909b70",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Long Bennington U10",
-      "away_team": "Newark Brazil Cruzeiro U10",
-      "venue": "QE2 Playing Field NG23 5HD",
-      "division": "U10 Sun Spring Div 1 Silver",
-      "home_away": "away",
-      "opponent": "Long Bennington U10"
-    },
     {
       "id": "47b8370f146656273f15d7bc8c9b37bc",
       "date": "2026-03-29",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d68cafa3efc4fc850b41113b93909b70",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Long Bennington U10",
+      "away_team": "Newark Brazil Cruzeiro U10",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "U10 Sun Spring Div 1 Silver",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Long Bennington U10",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "585b6f82b055100060e19bd42decf0c8",
       "date": "2026-03-15",

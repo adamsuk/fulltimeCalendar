@@ -1,19 +1,8 @@
 {
   "team": "DLFC SFK U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "5e0d5b83b19e2591acecfd1e610c3927",
-      "date": "2026-03-22",
-      "time": "11:30",
-      "home_team": "Mansfield Athletic U13",
-      "away_team": "DLFC SFK U13",
-      "venue": "Unwin Road NG17 4HT",
-      "division": "U13 Sun YEL Challenge Trophy",
-      "home_away": "away",
-      "opponent": "Mansfield Athletic U13"
-    },
     {
       "id": "4ff429dfa1061b85b394f424c6a5262a",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5e0d5b83b19e2591acecfd1e610c3927",
+      "date": "2026-03-22",
+      "time": "11:30",
+      "home_team": "Mansfield Athletic U13",
+      "away_team": "DLFC SFK U13",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "U13 Sun YEL Challenge Trophy",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "Mansfield Athletic U13",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "63a283e9f83742f813e72c0f49b37556",
       "date": "2026-03-15",

@@ -1,20 +1,7 @@
 {
   "club": "Harrowby United",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "c8baa7d21260199d35ba8c62c399040f",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Harrowby United U11",
-      "away_team": "Nottingham FC Onyx U11",
-      "venue": "HARROWBY LANE PLAYING FIELDS NG31 9QY",
-      "division": "U11 Sun YEL Cup",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Harrowby United U11",
-      "home_away": "home",
-      "opponent": "Nottingham FC Onyx U11"
-    },
     {
       "id": "f2724d2096042255080095b676ae5462",
       "date": "2026-04-16",
@@ -55,6 +42,19 @@
       "opponent": "Willow Wanderers Spartans U12"
     },
     {
+      "id": "1bdf4b90b27a1dc544812c6daaf4bfbd",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Harrowby United U12",
+      "away_team": "Quarrydale United U12",
+      "venue": "HARROWBY LANE PLAYING FIELDS NG31 9QY",
+      "division": "U12 Sun YEL Challenge Trophy",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Harrowby United U12",
+      "home_away": "home",
+      "opponent": "Quarrydale United U12"
+    },
+    {
       "id": "3118f3da533c5baaf0515b0cb0f0cfd7",
       "date": "2026-04-26",
       "time": "11:00",
@@ -82,6 +82,23 @@
     }
   ],
   "results": [
+    {
+      "id": "c8baa7d21260199d35ba8c62c399040f",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Harrowby United U11",
+      "away_team": "Nottingham FC Onyx U11",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "U11 Sun YEL Cup",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Harrowby United U11",
+      "home_away": "home",
+      "opponent": "Nottingham FC Onyx U11",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "fef52e6af9ee3bf21708394e5192512c",
       "date": "2026-03-15",

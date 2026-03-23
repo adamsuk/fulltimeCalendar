@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Lyon U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "c11a7c5acddfd5962544af3f2ebb11e7",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "WBYFC Lyon U9",
-      "away_team": "Castle Donington Warriors U9",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U9 Sun Spring Div 5 Blue",
-      "home_away": "home",
-      "opponent": "Castle Donington Warriors U9"
-    },
     {
       "id": "dde99881b742cfd7f2d022029b603b95",
       "date": "2026-03-29",
@@ -46,9 +35,35 @@
       "division": "U9 Sun Spring Div 5 Blue",
       "home_away": "away",
       "opponent": "Willow Wanderers Sharks U9"
+    },
+    {
+      "id": "cac361961179eb35c61eea378d2e40de",
+      "date": "2026-05-10",
+      "time": "12:00",
+      "home_team": "Priory Celtic 1967 U9",
+      "away_team": "WBYFC Lyon U9",
+      "venue": "Norman Archer Memorial Ground NG11 9AZ",
+      "division": "U9 Sun YEL Challenge Trophy",
+      "home_away": "away",
+      "opponent": "Priory Celtic 1967 U9"
     }
   ],
   "results": [
+    {
+      "id": "c11a7c5acddfd5962544af3f2ebb11e7",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "WBYFC Lyon U9",
+      "away_team": "Castle Donington Warriors U9",
+      "home_score": 5,
+      "away_score": 8,
+      "venue": "U9 Sun Spring Div 5 Blue",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Castle Donington Warriors U9",
+      "goals_for": 5,
+      "goals_against": 8
+    },
     {
       "id": "6887b5b8ea276773bfccfaa1bd4ab4e3",
       "date": "2026-03-15",

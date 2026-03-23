@@ -1,19 +1,8 @@
 {
   "team": "Lowdham FC Green U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "637865e71c3458612daef9a66dc36ca3",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "ATFA Brinsley Raptors U13",
-      "away_team": "Lowdham FC Green U13",
-      "venue": "Brinsley Park NG16 5AY",
-      "division": "U13 Sun Spring Div 4 Red",
-      "home_away": "away",
-      "opponent": "ATFA Brinsley Raptors U13"
-    },
     {
       "id": "33306e5f7541c89309e56683f8462651",
       "date": "2026-03-29",
@@ -24,6 +13,17 @@
       "division": "U13 Sun Spring Div 4 Red",
       "home_away": "away",
       "opponent": "Hucknall Sports Black U13"
+    },
+    {
+      "id": "e067b427e9f25f135532f3d1377c8160",
+      "date": "2026-04-16",
+      "time": "18:00",
+      "home_team": "Lowdham FC Green U13",
+      "away_team": "Gedling Southbank White U13",
+      "venue": "Caythorpe Cricket Club NG14 7EB",
+      "division": "U13 Sun YEL Inter Cup",
+      "home_away": "home",
+      "opponent": "Gedling Southbank White U13"
     },
     {
       "id": "780660cfd7651a90d2c7c4fcb4779295",
@@ -49,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "637865e71c3458612daef9a66dc36ca3",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "ATFA Brinsley Raptors U13",
+      "away_team": "Lowdham FC Green U13",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "U13 Sun Spring Div 4 Red",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "ATFA Brinsley Raptors U13",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "e10796e328efdabb8cda2d28969a2c0e",
       "date": "2026-03-15",

@@ -1,20 +1,7 @@
 {
   "club": "Gotham Rangers",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "2948899f91db01d31bb46281e2e610fc",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "home_team": "Mansfield Town Grassroots Blue U11",
-      "away_team": "Gotham Rangers U11",
-      "venue": "One Call Stadium NG18 5DA",
-      "division": "U11 Sun YEL Trophy",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Gotham Rangers U11",
-      "home_away": "away",
-      "opponent": "Mansfield Town Grassroots Blue U11"
-    },
     {
       "id": "7ada9594413e8c40c258cc76b58fa73d",
       "date": "2026-03-28",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "2948899f91db01d31bb46281e2e610fc",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "home_team": "Mansfield Town Grassroots Blue U11",
+      "away_team": "Gotham Rangers U11",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "U11 Sun YEL Trophy",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gotham Rangers U11",
+      "home_away": "away",
+      "opponent": "Mansfield Town Grassroots Blue U11",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "cc98595be29e1c0762933fb5e1ac89d7",
       "date": "2026-03-21",

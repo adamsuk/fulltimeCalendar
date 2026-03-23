@@ -1,19 +1,8 @@
 {
   "team": "Gonerby Blue U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "4463632d678bc6b4df602dfff5fdab12",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Gonerby Blue U10",
-      "away_team": "Hucknall Sports Blue U10",
-      "venue": "Gonerby Recreation Ground NG31 8PP",
-      "division": "U10 Sun Spring Div 6 Red",
-      "home_away": "home",
-      "opponent": "Hucknall Sports Blue U10"
-    },
     {
       "id": "ed892805b69aa556265e5cab9ee92111",
       "date": "2026-03-29",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "4463632d678bc6b4df602dfff5fdab12",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Gonerby Blue U10",
+      "away_team": "Hucknall Sports Blue U10",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "U10 Sun Spring Div 6 Red",
+      "division": "Unknown Division",
+      "home_away": "home",
+      "opponent": "Hucknall Sports Blue U10",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "6d4bc7a376a0d5b596d26de5db9a7c9a",
       "date": "2026-03-15",

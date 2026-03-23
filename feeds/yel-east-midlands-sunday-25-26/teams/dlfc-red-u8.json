@@ -1,7 +1,7 @@
 {
   "team": "DLFC Red U8",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
     {
       "id": "9c1acd7c4738caf2451fe4127e94174a",
@@ -13,17 +13,6 @@
       "division": "U8 Sun Friendly 2026 Div 5 Red",
       "home_away": "home",
       "opponent": "Inspire Nottingham White U8"
-    },
-    {
-      "id": "c7101c579c20202ea14734376e20d5c2",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "WBYFC Spirit Red U8",
-      "away_team": "DLFC Red U8",
-      "venue": "Alford Road, NG2 6HP",
-      "division": "U8 Sun Spring 5 Red",
-      "home_away": "away",
-      "opponent": "WBYFC Spirit Red U8"
     },
     {
       "id": "9fb0eb891fbc5ddd93b8a7d0b3f193ee",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c7101c579c20202ea14734376e20d5c2",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "WBYFC Spirit Red U8",
+      "away_team": "DLFC Red U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U8 Sun Spring 5 Red",
+      "division": "Unknown Division",
+      "home_away": "away",
+      "opponent": "WBYFC Spirit Red U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "d6fcb1fa79a0c3c4e9bff96773cd8433",
       "date": "2026-03-15",

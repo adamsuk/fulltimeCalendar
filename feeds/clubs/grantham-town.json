@@ -1,6 +1,6 @@
 {
   "club": "Grantham Town",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
     {
       "id": "e9b635d0131f62aa78c063375c87d2ed",
@@ -14,19 +14,6 @@
       "team": "Grantham Town U12",
       "home_away": "home",
       "opponent": "Sherwood FC Yellow U12"
-    },
-    {
-      "id": "d59d5df884401115b3795b15690558c9",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Grantham Town U10",
-      "away_team": "WBYFC BVB U10",
-      "venue": "Grantham Town Football Club NG31 7XQ",
-      "division": "U10 Sun Spring Div 3 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Grantham Town U10",
-      "home_away": "home",
-      "opponent": "WBYFC BVB U10"
     },
     {
       "id": "bf8ce4f91b88d64c27de5919baed9d7f",
@@ -94,6 +81,19 @@
       "opponent": "Silva FC Rushcliffe U12"
     },
     {
+      "id": "a2e4ec3124d88634757d7ec0c42c4deb",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Grantham Town U14",
+      "away_team": "RHP Colts White U14",
+      "venue": "YMCA Newark and Sherwood Comm NG24 4FH",
+      "division": "u14 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Grantham Town U14",
+      "home_away": "home",
+      "opponent": "RHP Colts White U14"
+    },
+    {
       "id": "0955bde66c77457fdff6296e152ad709",
       "date": "2026-03-28",
       "time": "10:00",
@@ -105,19 +105,6 @@
       "team": "Grantham Town U7",
       "home_away": "away",
       "opponent": "Muskham Cougars Rockets U7"
-    },
-    {
-      "id": "a2e4ec3124d88634757d7ec0c42c4deb",
-      "date": "2026-03-28",
-      "time": "14:00",
-      "home_team": "Grantham Town U14",
-      "away_team": "RHP Colts White U14",
-      "venue": "GRANTHAM MERES LEISURE CENTRE NG31 7XQ",
-      "division": "u14 Sat Spring Div 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Grantham Town U14",
-      "home_away": "home",
-      "opponent": "RHP Colts White U14"
     },
     {
       "id": "7082a589b944db0ae0229cdfc2d65d52",
@@ -368,6 +355,23 @@
     }
   ],
   "results": [
+    {
+      "id": "d59d5df884401115b3795b15690558c9",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Grantham Town U10",
+      "away_team": "WBYFC BVB U10",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "U10 Sun Spring Div 3 Blue",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Grantham Town U10",
+      "home_away": "home",
+      "opponent": "WBYFC BVB U10",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "aaf51a3cbaa814cdec28ff3a4e5f444e",
       "date": "2026-03-21",

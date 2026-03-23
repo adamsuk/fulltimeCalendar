@@ -1,20 +1,7 @@
 {
   "club": "Bagthorpe Athletic",
-  "generated": "2026-03-22T07:58:54Z",
+  "generated": "2026-03-23T06:59:52Z",
   "fixtures": [
-    {
-      "id": "1c3e65762707d576113c84f378b68b30",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Bagthorpe Athletic U9",
-      "away_team": "Alfreton Town Lions U9",
-      "venue": "Dixies Arms Park NG16 5HF",
-      "division": "U9 Sun Spring Div 4 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Bagthorpe Athletic U9",
-      "home_away": "home",
-      "opponent": "Alfreton Town Lions U9"
-    },
     {
       "id": "27cea6450e2ef52b0a765c28936e0f1a",
       "date": "2026-03-28",
@@ -96,7 +83,7 @@
     {
       "id": "7f2bb7662f350042c2a50ed99683c8f9",
       "date": "2026-04-18",
-      "time": "10:00",
+      "time": "09:15",
       "home_team": "Hatton United U12",
       "away_team": "Bagthorpe Athletic Eagles U12",
       "venue": "Goals Arena DE14 1TD",
@@ -199,6 +186,23 @@
     }
   ],
   "results": [
+    {
+      "id": "1c3e65762707d576113c84f378b68b30",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Bagthorpe Athletic U9",
+      "away_team": "Alfreton Town Lions U9",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "U9 Sun Spring Div 4 Red",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Bagthorpe Athletic U9",
+      "home_away": "home",
+      "opponent": "Alfreton Town Lions U9",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "8e72cc7e5e5541fea5d68066d0869148",
       "date": "2026-03-21",
