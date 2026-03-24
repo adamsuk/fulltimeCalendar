@@ -1,6 +1,6 @@
 {
   "club": "WBYFC",
-  "generated": "2026-03-23T06:59:52Z",
+  "generated": "2026-03-24T06:52:21Z",
   "fixtures": [
     {
       "id": "c77d56e1db575c724f8ee97f372acc07",
@@ -81,6 +81,19 @@
       "opponent": "Clay Cross Town Bulldogs U12"
     },
     {
+      "id": "c64063d567b62656650204f221a2311b",
+      "date": "2026-03-28",
+      "time": "09:30",
+      "home_team": "Stapleford Town Saxons U7",
+      "away_team": "WBYFC Bruges Stripes U7",
+      "venue": "Hickings Lane NG9 8PG",
+      "division": "U7 Sat Spring 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Bruges Stripes U7",
+      "home_away": "away",
+      "opponent": "Stapleford Town Saxons U7"
+    },
+    {
       "id": "090e1cfede1b001cf25a80251af843af",
       "date": "2026-03-28",
       "time": "10:00",
@@ -118,19 +131,6 @@
       "team": "WBYFC Bruges Black U7",
       "home_away": "home",
       "opponent": "Bottesford U7 Blue"
-    },
-    {
-      "id": "c64063d567b62656650204f221a2311b",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Stapleford Town Saxons U7",
-      "away_team": "WBYFC Bruges Stripes U7",
-      "venue": "Hickings Lane NG9 8PG",
-      "division": "U7 Sat Spring 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "WBYFC Bruges Stripes U7",
-      "home_away": "away",
-      "opponent": "Stapleford Town Saxons U7"
     },
     {
       "id": "c93ace52ee6f80fe7ee1476f86816d60",
@@ -172,6 +172,19 @@
       "opponent": "Inspire Nottingham Black U8"
     },
     {
+      "id": "2e9a3acc93a2d8bd681afacd5d861945",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic Pumas U8",
+      "away_team": "WBYFC Crusaders Red U8",
+      "venue": "Radcliffe-on-Trent Cricket Club NG12 2DU",
+      "division": "U8 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Crusaders Red U8",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic Pumas U8"
+    },
+    {
       "id": "385c0dd4c8bb0d9a53dc3faf67f4d3f6",
       "date": "2026-03-28",
       "time": "10:00",
@@ -211,17 +224,17 @@
       "opponent": "DLFC Ruby U8"
     },
     {
-      "id": "9a4c3466f529a2970218c86edc1e4351",
+      "id": "0f99f694fbcb7e9b554c5f9710b6b054",
       "date": "2026-03-28",
       "time": "10:00",
       "home_team": "WBYFC Dynamos Stripes U8",
-      "away_team": "Inspire Nottingham Red U8",
+      "away_team": "Castle Donington Rex's U8",
       "venue": "Alford Road, NG2 6HP",
-      "division": "U8 Sat Spring 7 Red",
+      "division": "U8 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "WBYFC Dynamos Stripes U8",
       "home_away": "home",
-      "opponent": "Inspire Nottingham Red U8"
+      "opponent": "Castle Donington Rex's U8"
     },
     {
       "id": "36e43bb90a1cc752facdbb2542f8e25b",
@@ -367,19 +380,6 @@
       "opponent": "Bilborough Town U9"
     },
     {
-      "id": "18d18d0c013585fc0b8e45ba6fa16ae3",
-      "date": "2026-03-28",
-      "time": "10:30",
-      "home_team": "DLFC Yellow U8",
-      "away_team": "WBYFC Crusaders Red U8",
-      "venue": "Bestwood Road Sports Club NG6 8UA",
-      "division": "U8 Sat Spring 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "WBYFC Crusaders Red U8",
-      "home_away": "away",
-      "opponent": "DLFC Yellow U8"
-    },
-    {
       "id": "e162d1cffd5faea777ebecae86cfe4ed",
       "date": "2026-03-28",
       "time": "11:00",
@@ -419,17 +419,17 @@
       "opponent": "Kirkby Colts U14"
     },
     {
-      "id": "40d772237ccd3592d35dbaa89b1f71ee",
+      "id": "fb7de0f002af34c57686021bd4def6cf",
       "date": "2026-03-29",
       "time": "10:00",
       "home_team": "WBYFC Ajax Black U7",
-      "away_team": "Arnold Town U7",
+      "away_team": "DLFC Barca U7",
       "venue": "Gresham Sports Pitch NG2 7YF",
-      "division": "U7 Sun Spring Orange",
+      "division": "U7 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "WBYFC Ajax Black U7",
       "home_away": "home",
-      "opponent": "Arnold Town U7"
+      "opponent": "DLFC Barca U7"
     },
     {
       "id": "917cb81692ce3b88f558dbd56a6e8796",
@@ -755,19 +755,6 @@
       "team": "WBYFC Olympia U9",
       "home_away": "home",
       "opponent": "Loughborough Emmanuel U9"
-    },
-    {
-      "id": "04fa36a955ecf62a1ecb26a1e1c6bb05",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Clifton AW Yellow U7",
-      "away_team": "WBYFC Ajax Black U7",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U7 Sun Spring Orange",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "WBYFC Ajax Black U7",
-      "home_away": "away",
-      "opponent": "Clifton AW Yellow U7"
     },
     {
       "id": "76202adc63a1bb0d42e36a1c0ce5a34c",
@@ -1147,6 +1134,19 @@
       "opponent": "Woodborough Celtic Wolves U8"
     },
     {
+      "id": "f443f53c9e0e3a3eb5e985a552446b6e",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "South Normanton Athletic U13",
+      "away_team": "WBYFC Galaxy U13",
+      "venue": "South Street Rec DE55 2DA",
+      "division": "U13 Sat Spring Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Galaxy U13",
+      "home_away": "away",
+      "opponent": "South Normanton Athletic U13"
+    },
+    {
       "id": "f6f1ad33e6780a986243637a64303e27",
       "date": "2026-04-18",
       "time": "10:00",
@@ -1353,19 +1353,6 @@
       "team": "WBYFC Apollo U13",
       "home_away": "away",
       "opponent": "St Anns & Sneinton U13"
-    },
-    {
-      "id": "f443f53c9e0e3a3eb5e985a552446b6e",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "South Normanton Athletic U13",
-      "away_team": "WBYFC Galaxy U13",
-      "venue": "South Street Rec DE55 2DA",
-      "division": "U13 Sat Spring Div 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "WBYFC Galaxy U13",
-      "home_away": "away",
-      "opponent": "South Normanton Athletic U13"
     },
     {
       "id": "2688ec25afd6b728499a1c4a6cd9bcab",

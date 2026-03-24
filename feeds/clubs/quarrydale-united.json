@@ -1,6 +1,6 @@
 {
   "club": "Quarrydale United",
-  "generated": "2026-03-23T06:59:52Z",
+  "generated": "2026-03-24T06:52:21Z",
   "fixtures": [
     {
       "id": "ae72360fead2fb885e3547ab2dff1145",
@@ -94,6 +94,19 @@
       "opponent": "Blidworth Bengals U9"
     },
     {
+      "id": "8baba77eeac66022921ea655857081b3",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Ajax U10",
+      "away_team": "Quarrydale United U10",
+      "venue": "New Manor Ground DE7 8JF",
+      "division": "U10 Sun Spring Div 3 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Quarrydale United U10",
+      "home_away": "away",
+      "opponent": "Ilkeston Town Ajax U10"
+    },
+    {
       "id": "bde3e8e38647441d1caee0269eb2b839",
       "date": "2026-03-29",
       "time": "10:00",
@@ -107,17 +120,30 @@
       "opponent": "Alfreton Town Scorpions U11"
     },
     {
-      "id": "8fbf4d162c4a1832ec3803e9f8c40ede",
+      "id": "13897db1ba86066d04e3ba6898be0811",
       "date": "2026-03-29",
       "time": "10:00",
-      "home_team": "Moorgreen Colts 1985 U7",
+      "home_team": "Harrowby United U12",
+      "away_team": "Quarrydale United U12",
+      "venue": "HARROWBY LANE PLAYING FIELDS NG31 9QY",
+      "division": "U12 Sun YEL Challenge Trophy",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Quarrydale United U12",
+      "home_away": "away",
+      "opponent": "Harrowby United U12"
+    },
+    {
+      "id": "8d6b505a2dea6f7dcef1cbc2dad21eff",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Mapperley All Stars Yellow U7",
       "away_team": "Quarrydale United U7",
-      "venue": "Birnham Pk A610 Estwd/Kim Bypss NG16 2DE",
-      "division": "U7 Sun Spring Green",
+      "venue": "Colwick Recreation Ground NG4 2DW",
+      "division": "U7 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Quarrydale United U7",
       "home_away": "away",
-      "opponent": "Moorgreen Colts 1985 U7"
+      "opponent": "Mapperley All Stars Yellow U7"
     },
     {
       "id": "233618cc654f87b62124838daaf61a5b",
@@ -157,19 +183,6 @@
       "team": "Quarrydale United United U13",
       "home_away": "away",
       "opponent": "Priory Celtic 1967 U13"
-    },
-    {
-      "id": "8baba77eeac66022921ea655857081b3",
-      "date": "2026-03-29",
-      "time": "11:15",
-      "home_team": "Ilkeston Town Ajax U10",
-      "away_team": "Quarrydale United U10",
-      "venue": "New Manor Ground DE7 8JF",
-      "division": "U10 Sun Spring Div 3 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Quarrydale United U10",
-      "home_away": "away",
-      "opponent": "Ilkeston Town Ajax U10"
     },
     {
       "id": "d730e6d4bc0f75ae6303ee26152c6b3c",
@@ -328,19 +341,6 @@
       "opponent": "Pelican Colts U11"
     },
     {
-      "id": "a5c5ac374e1f1bcb21a1ea1d782e598f",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Quarrydale United U7",
-      "away_team": "Barrowby FC Green U7",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U7 Sun Spring Green",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Quarrydale United U7",
-      "home_away": "home",
-      "opponent": "Barrowby FC Green U7"
-    },
-    {
       "id": "36596e910b4ec5e1440969163e69999f",
       "date": "2026-04-19",
       "time": "10:00",
@@ -391,19 +391,6 @@
       "team": "Quarrydale United U13",
       "home_away": "home",
       "opponent": "Market Warsop Colts U13"
-    },
-    {
-      "id": "1bdf4b90b27a1dc544812c6daaf4bfbd",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Harrowby United U12",
-      "away_team": "Quarrydale United U12",
-      "venue": "HARROWBY LANE PLAYING FIELDS NG31 9QY",
-      "division": "U12 Sun YEL Challenge Trophy",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Quarrydale United U12",
-      "home_away": "away",
-      "opponent": "Harrowby United U12"
     },
     {
       "id": "822c44e82666d090e0676fb404d2c2d0",
