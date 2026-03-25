@@ -1,46 +1,7 @@
 {
   "club": "Matlock Town",
-  "generated": "2026-03-25T13:55:34Z",
+  "generated": "2026-03-25T14:33:00Z",
   "fixtures": [
-    {
-      "id": "67febbffee3205c3b7aa65614971eca9",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Gainsborough Trinity Community FC U15",
-      "away_team": "Matlock Town Juniors U15 Girls",
-      "venue": "ROSES SPORTS GROUND",
-      "division": "U15 Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Matlock Town Juniors U15 Girls",
-      "home_away": "away",
-      "opponent": "Gainsborough Trinity Community FC U15"
-    },
-    {
-      "id": "9660bd602f4b984654e960be522d07e3",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Newark Town FC U15 Girls",
-      "away_team": "Matlock Town Juniors U15 Girls",
-      "venue": "DEVON PARK",
-      "division": "U15 Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Matlock Town Juniors U15 Girls",
-      "home_away": "away",
-      "opponent": "Newark Town FC U15 Girls"
-    },
-    {
-      "id": "94c9f81856c6799a2d297d43e7de8e31",
-      "date": "2026-03-22",
-      "time": "11:30",
-      "home_team": "Matlock Town Juniors U15 Girls",
-      "away_team": "Gainsborough Trinity Community FC U15",
-      "venue": "CAVENDISH FIELDS SPORTS ASSOCIATION",
-      "division": "U15 Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Matlock Town Juniors U15 Girls",
-      "home_away": "home",
-      "opponent": "Gainsborough Trinity Community FC U15"
-    },
     {
       "id": "0ef5f02f1002ba5033d70780f989555e",
       "date": "2026-03-29",
@@ -66,6 +27,19 @@
       "team": "Matlock Town Juniors U14 's Gladiators",
       "home_away": "away",
       "opponent": "Notts County F.C. Girls U13"
+    },
+    {
+      "id": "7fdf2e9283240fd51c6438e1411f09ea",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Newark Town FC U15 Girls",
+      "away_team": "Matlock Town Juniors U15 Girls",
+      "venue": "DEVON PARK",
+      "division": "U15 Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Matlock Town Juniors U15 Girls",
+      "home_away": "away",
+      "opponent": "Newark Town FC U15 Girls"
     },
     {
       "id": "3db7fa1935fbd794fd5f88b0813adc8e",
@@ -105,6 +79,32 @@
       "team": "Matlock Town Juniors U14 Spartans Girls",
       "home_away": "away",
       "opponent": "Gedling Southbank FC U14 Warriors"
+    },
+    {
+      "id": "63a7aff56d3f5c25450b9b37be09afda",
+      "date": "2026-04-22",
+      "time": "19:00",
+      "home_team": "Matlock Town Juniors U15 Girls",
+      "away_team": "Outwoods U15 Falcons",
+      "venue": "CAVENDISH FIELDS SPORTS ASSOCIATION",
+      "division": "U15 Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Matlock Town Juniors U15 Girls",
+      "home_away": "home",
+      "opponent": "Outwoods U15 Falcons"
+    },
+    {
+      "id": "bb41f0a3e801405b23edc1340493e1b9",
+      "date": "2026-04-22",
+      "time": "19:00",
+      "home_team": "Outwoods U15 Falcons",
+      "away_team": "Matlock Town Juniors U15 Girls",
+      "venue": "THE DE FERRERS ACADEMY - DOVE CAMPUS",
+      "division": "U15 Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Matlock Town Juniors U15 Girls",
+      "home_away": "away",
+      "opponent": "Outwoods U15 Falcons"
     },
     {
       "id": "639d42c052b980c01be13104aa58716c",
@@ -159,17 +159,30 @@
       "opponent": "Arnold Eagles F.C. Girls U14 Hurricanes"
     },
     {
-      "id": "73308c1955e53becb8179a8a260a54a8",
+      "id": "9975dcdefcb0d41392090f86d9c153e2",
       "date": "2026-05-03",
       "time": "10:00",
+      "home_team": "Gainsborough Trinity Community FC U15",
+      "away_team": "Matlock Town Juniors U15 Girls",
+      "venue": "ROSES SPORTS GROUND",
+      "division": "U15 Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Matlock Town Juniors U15 Girls",
+      "home_away": "away",
+      "opponent": "Gainsborough Trinity Community FC U15"
+    },
+    {
+      "id": "734c288287af0c65bdf62594357528d5",
+      "date": "2026-05-03",
+      "time": "11:30",
       "home_team": "Matlock Town Juniors U15 Girls",
-      "away_team": "Outwoods U15 Falcons",
+      "away_team": "Gainsborough Trinity Community FC U15",
       "venue": "CAVENDISH FIELDS SPORTS ASSOCIATION",
       "division": "U15 Div 1",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Matlock Town Juniors U15 Girls",
       "home_away": "home",
-      "opponent": "Outwoods U15 Falcons"
+      "opponent": "Gainsborough Trinity Community FC U15"
     },
     {
       "id": "b34e6c13a7572027d70de0266324e33e",
@@ -196,19 +209,6 @@
       "team": "Matlock Town Juniors U15 Girls",
       "home_away": "home",
       "opponent": "Ilkeston Town Juniors U15 Robins"
-    },
-    {
-      "id": "61765f231edd402da7af829566ae9f99",
-      "date": "2026-05-17",
-      "time": "10:00",
-      "home_team": "Outwoods U15 Falcons",
-      "away_team": "Matlock Town Juniors U15 Girls",
-      "venue": "THE DE FERRERS ACADEMY - DOVE CAMPUS",
-      "division": "U15 Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Matlock Town Juniors U15 Girls",
-      "home_away": "away",
-      "opponent": "Outwoods U15 Falcons"
     },
     {
       "id": "30074013a12bdcf1e142a7728c965a38",
