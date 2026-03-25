@@ -1,6 +1,8 @@
 name: Scrape YEL Fixtures
 
 on:
+  push:
+    branches: [main]
   schedule:
     # Run every day at 06:00 UTC (7am BST / 6am GMT)
     - cron: "0 6 * * *"
