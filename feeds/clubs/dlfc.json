@@ -1,6 +1,6 @@
 {
   "club": "DLFC",
-  "generated": "2026-03-24T06:52:21Z",
+  "generated": "2026-03-25T06:50:56Z",
   "fixtures": [
     {
       "id": "9c1acd7c4738caf2451fe4127e94174a",
@@ -14,19 +14,6 @@
       "team": "DLFC Red U8",
       "home_away": "home",
       "opponent": "Inspire Nottingham White U8"
-    },
-    {
-      "id": "52179f6ee85f5b0688c628016d00ad30",
-      "date": "2026-03-14",
-      "time": "11:00",
-      "home_team": "Carlton Town Lions U11",
-      "away_team": "DLFC Blue U11",
-      "venue": "Magenta Way NG14 5HH",
-      "division": "U11 Sat Spring Div 8",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Blue U11",
-      "home_away": "away",
-      "opponent": "Carlton Town Lions U11"
     },
     {
       "id": "b88ddd5dde791a7078fe14b8970340b8",
@@ -484,19 +471,6 @@
       "opponent": "Eastwood CFC Madrid U10"
     },
     {
-      "id": "e396744bf929e47de307133ea381b165",
-      "date": "2026-03-29",
-      "time": "11:00",
-      "home_team": "DLFC Green U9",
-      "away_team": "Hucknall Sports Black U9",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U9 Sun Spring Div 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Green U9",
-      "home_away": "home",
-      "opponent": "Hucknall Sports Black U9"
-    },
-    {
       "id": "8b1abbdea9f407d4b06182089280e070",
       "date": "2026-03-29",
       "time": "11:00",
@@ -541,7 +515,7 @@
       "time": "10:00",
       "home_team": "DLFC Emerald U7",
       "away_team": "Priory Celtic White U7",
-      "venue": "DL Football Coaching (DLFC) U7 Emerald",
+      "venue": "Greenwich Avenue NG6 0LD",
       "division": "U7 Sat Spring 6",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "DLFC Emerald U7",
@@ -642,10 +616,10 @@
     {
       "id": "ba65f33020005df5fb4737285f8b3155",
       "date": "2026-04-11",
-      "time": "10:00",
+      "time": "11:00",
       "home_team": "DLFC Yellow U8",
       "away_team": "Hucknall Sports Red U8",
-      "venue": "Greenwich Avenue NG6 0LD",
+      "venue": "Bestwood Road Sports Club NG6 8UA",
       "division": "U8 Sat Spring 4 Red",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "DLFC Yellow U8",
@@ -677,32 +651,6 @@
       "team": "DLFC Black U8",
       "home_away": "away",
       "opponent": "Ilkeston Town Zurich U8"
-    },
-    {
-      "id": "11b9785ae3e9d7eeeaf9265ed7462d05",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "DLFC Blue U8",
-      "away_team": "Ernehale Colts U8",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U8 Sun Spring 5 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Blue U8",
-      "home_away": "home",
-      "opponent": "Ernehale Colts U8"
-    },
-    {
-      "id": "dbe6b24c302ec0e1fe837e8140eb8648",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "DLFC Boca U8",
-      "away_team": "Tibshelf FC Black U8",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U8 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Boca U8",
-      "home_away": "home",
-      "opponent": "Tibshelf FC Black U8"
     },
     {
       "id": "63e34480befed28816296e3a74fc3778",
@@ -744,19 +692,6 @@
       "opponent": "Willow Wanderers Jaguars U7"
     },
     {
-      "id": "21d7436669942bc8504bfb55759ffa42",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "DLFC Purple U8",
-      "away_team": "Heanor Juniors Rhinos U8",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U8 Sun Spring 4 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Purple U8",
-      "home_away": "home",
-      "opponent": "Heanor Juniors Rhinos U8"
-    },
-    {
       "id": "810bf1bdb56e4e062d94b85b7a50d7ac",
       "date": "2026-04-12",
       "time": "10:00",
@@ -794,6 +729,58 @@
       "team": "DLFC Tangerine U7",
       "home_away": "home",
       "opponent": "WBYFC Feyanoord Red U7"
+    },
+    {
+      "id": "11b9785ae3e9d7eeeaf9265ed7462d05",
+      "date": "2026-04-12",
+      "time": "11:00",
+      "home_team": "DLFC Blue U8",
+      "away_team": "Ernehale Colts U8",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U8 Sun Spring 5 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "DLFC Blue U8",
+      "home_away": "home",
+      "opponent": "Ernehale Colts U8"
+    },
+    {
+      "id": "dbe6b24c302ec0e1fe837e8140eb8648",
+      "date": "2026-04-12",
+      "time": "11:00",
+      "home_team": "DLFC Boca U8",
+      "away_team": "Tibshelf FC Black U8",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U8 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "DLFC Boca U8",
+      "home_away": "home",
+      "opponent": "Tibshelf FC Black U8"
+    },
+    {
+      "id": "21d7436669942bc8504bfb55759ffa42",
+      "date": "2026-04-12",
+      "time": "11:00",
+      "home_team": "DLFC Purple U8",
+      "away_team": "Heanor Juniors Rhinos U8",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U8 Sun Spring 4 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "DLFC Purple U8",
+      "home_away": "home",
+      "opponent": "Heanor Juniors Rhinos U8"
+    },
+    {
+      "id": "0f8a9838aad21cfed38642ebe56e32d3",
+      "date": "2026-04-12",
+      "time": "11:00",
+      "home_team": "DLFC Red U14",
+      "away_team": "Ilkeston Town Bears U14",
+      "venue": "Mellish Sports Centre NG6 9FH",
+      "division": "U14 Sun Spring Premier Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "DLFC Red U14",
+      "home_away": "home",
+      "opponent": "Ilkeston Town Bears U14"
     },
     {
       "id": "50c9da7c1735f60b77a4197863da6fde",
@@ -835,17 +822,17 @@
       "opponent": "Nottingham Second Chance U11"
     },
     {
-      "id": "96bc7bfe0ba1a8b1b5f1f51814ab6a71",
+      "id": "6cb4bb410b708f42f485267dfad5700f",
       "date": "2026-04-16",
-      "time": "18:30",
-      "home_team": "DLFC Red U14",
-      "away_team": "Ilkeston Town Bears U14",
-      "venue": "Mellish Sports Centre NG6 9FH",
-      "division": "U14 Sun Spring Premier Division",
+      "time": "18:00",
+      "home_team": "DLFC Green U9",
+      "away_team": "Hucknall Sports Black U9",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U9 Sun Spring Div 2 Red",
       "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Red U14",
+      "team": "DLFC Green U9",
       "home_away": "home",
-      "opponent": "Ilkeston Town Bears U14"
+      "opponent": "Hucknall Sports Black U9"
     },
     {
       "id": "99c01b16a7b676e04dd36ce2231c26f3",
@@ -6697,23 +6684,6 @@
       "goals_against": null
     },
     {
-      "id": "5c7b459ed6524bee75e9d2984a81b178",
-      "date": "2026-02-01",
-      "time": "11:00",
-      "home_team": "Mapperley All Stars Blue U8",
-      "away_team": "DLFC Purple U8",
-      "home_score": null,
-      "away_score": null,
-      "venue": "U8 Sun Friendly 2026 Div 3 Red",
-      "division": "Unknown Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Purple U8",
-      "home_away": "away",
-      "opponent": "Mapperley All Stars Blue U8",
-      "goals_for": null,
-      "goals_against": null
-    },
-    {
       "id": "84d804a62abec037d9242c2f796dfff4",
       "date": "2026-02-01",
       "time": "11:00",
@@ -8091,11 +8061,11 @@
       "goals_against": 4
     },
     {
-      "id": "6672a999e7afe7a6a90635821716fd6e",
+      "id": "b6f5ac198163db622b2a7ed5c4cf926b",
       "date": "2026-01-24",
       "time": "09:30",
       "home_team": "DLFC Purple U7",
-      "away_team": "WBYFC Genk U7",
+      "away_team": "WBYFC Genk Black U7",
       "home_score": null,
       "away_score": null,
       "venue": "U7 Sat Friendly 2026 New",
@@ -8103,7 +8073,7 @@
       "league": "YEL East Midlands Saturday 25/26",
       "team": "DLFC Purple U7",
       "home_away": "home",
-      "opponent": "WBYFC Genk U7",
+      "opponent": "WBYFC Genk Black U7",
       "goals_for": null,
       "goals_against": null
     },

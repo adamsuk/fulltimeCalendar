@@ -8,7 +8,7 @@ X-WR-CALDESC:Fixtures for Castle Donington Lions U14 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:3541b6f177b02744e87921b42bcd9154@yel-calendar
-DTSTAMP:20260324T065236Z
+DTSTAMP:20260325T065130Z
 DTSTART;TZID=Europe/London:20260329T110000
 DTEND;TZID=Europe/London:20260329T123000
 SUMMARY:⚽ Castle Donington Lions U14 vs Breaston Park Green U14 (Away)
@@ -16,21 +16,21 @@ DESCRIPTION:Division: U14 Sun Spring Div 3 Blue\nBreaston Park Green U14 v Castl
 LOCATION:Wilsthorpe high school NG10 4WT
 END:VEVENT
 BEGIN:VEVENT
-UID:274d02113ee88003105f636477d96ed5@yel-calendar
-DTSTAMP:20260324T065236Z
-DTSTART;TZID=Europe/London:20260412T100000
-DTEND;TZID=Europe/London:20260412T113000
-SUMMARY:⚽ Castle Donington Lions U14 vs Attenborough Colts Green U14 (Away)
-DESCRIPTION:Division: U14 Sun Spring Div 3 Blue\nAttenborough Colts Green U14 v Castle Donington Lions U14\nKO: 10:00
-LOCATION:Chilwell Olympia NG9 5HR
-END:VEVENT
-BEGIN:VEVENT
 UID:63919bbb1fba9c14a556de28c6037edc@yel-calendar
-DTSTAMP:20260324T065236Z
+DTSTAMP:20260325T065130Z
 DTSTART;TZID=Europe/London:20260416T180000
 DTEND;TZID=Europe/London:20260416T193000
 SUMMARY:⚽ Castle Donington Lions U14 vs Sports Gateway Spitfire U14 (Home)
 DESCRIPTION:Division: U14 Sun YEL Shield\nCastle Donington Lions U14 v Sports Gateway Spitfire U14\nKO: 18:00
 LOCATION:Spital Park DE74 2NQ
+END:VEVENT
+BEGIN:VEVENT
+UID:6e7a9faa967d8dab469c0ca81f3c91f4@yel-calendar
+DTSTAMP:20260325T065130Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Castle Donington Lions U14 vs Attenborough Colts Green U14 (Away)
+DESCRIPTION:Division: U14 Sun Spring Div 3 Blue\nAttenborough Colts Green U14 v Castle Donington Lions U14\nKO: 10:00
+LOCATION:Chilwell Olympia NG9 5HR
 END:VEVENT
 END:VCALENDAR

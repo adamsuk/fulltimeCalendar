@@ -1,6 +1,6 @@
 {
   "club": "Ilkeston Town",
-  "generated": "2026-03-24T06:52:21Z",
+  "generated": "2026-03-25T06:50:56Z",
   "fixtures": [
     {
       "id": "78bc4a46ec5d4c7845fdf99d19938a8c",
@@ -237,6 +237,19 @@
       "opponent": "DLFC Black U8"
     },
     {
+      "id": "0f8a9838aad21cfed38642ebe56e32d3",
+      "date": "2026-04-12",
+      "time": "11:00",
+      "home_team": "DLFC Red U14",
+      "away_team": "Ilkeston Town Bears U14",
+      "venue": "Mellish Sports Centre NG6 9FH",
+      "division": "U14 Sun Spring Premier Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ilkeston Town Bears U14",
+      "home_away": "away",
+      "opponent": "DLFC Red U14"
+    },
+    {
       "id": "511836173bbfdc9bb7e61c5080e27fd3",
       "date": "2026-04-16",
       "time": "18:00",
@@ -248,19 +261,6 @@
       "team": "Ilkeston Town Reds U14",
       "home_away": "away",
       "opponent": "Notts Olympic FC U14"
-    },
-    {
-      "id": "96bc7bfe0ba1a8b1b5f1f51814ab6a71",
-      "date": "2026-04-16",
-      "time": "18:30",
-      "home_team": "DLFC Red U14",
-      "away_team": "Ilkeston Town Bears U14",
-      "venue": "Mellish Sports Centre NG6 9FH",
-      "division": "U14 Sun Spring Premier Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ilkeston Town Bears U14",
-      "home_away": "away",
-      "opponent": "DLFC Red U14"
     },
     {
       "id": "b2c189f87e0338cc7cdbc25652cfbb8b",
@@ -437,7 +437,7 @@
       "time": "18:00",
       "home_team": "Ilkeston Town Robins U14",
       "away_team": "Dunkirk U14",
-      "venue": "Abbotsford Community Centre DE7 9JJ",
+      "venue": "New Manor Ground DE7 8JF",
       "division": "u14 Sat Spring Div 1 Silver",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Ilkeston Town Robins U14",
@@ -2397,10 +2397,10 @@
       "goals_against": null
     },
     {
-      "id": "305afa82e155b2d3b80de4af26d7caa5",
+      "id": "9cd2e2bf5defcd1bb643f589b45ee71c",
       "date": "2026-02-07",
       "time": "10:30",
-      "home_team": "WBYFC Genk U7",
+      "home_team": "WBYFC Genk Black U7",
       "away_team": "Ilkeston Town Robins U7",
       "home_score": null,
       "away_score": null,
@@ -2409,7 +2409,7 @@
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Ilkeston Town Robins U7",
       "home_away": "away",
-      "opponent": "WBYFC Genk U7",
+      "opponent": "WBYFC Genk Black U7",
       "goals_for": null,
       "goals_against": null
     },

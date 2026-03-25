@@ -1,6 +1,6 @@
 {
   "club": "Quarrydale United",
-  "generated": "2026-03-24T06:52:21Z",
+  "generated": "2026-03-25T06:50:56Z",
   "fixtures": [
     {
       "id": "ae72360fead2fb885e3547ab2dff1145",
@@ -42,32 +42,6 @@
       "opponent": "Selston FC Black U9"
     },
     {
-      "id": "7a8ba3647db70b4548f40b4b9a409727",
-      "date": "2026-03-28",
-      "time": "10:15",
-      "home_team": "Quarrydale United Yellow U14",
-      "away_team": "Dunkirk U14",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "u14 Sat Spring Div 1 Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Quarrydale United Yellow U14",
-      "home_away": "home",
-      "opponent": "Dunkirk U14"
-    },
-    {
-      "id": "169b8e82be32eced2d3078da5493598b",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "home_team": "Quarrydale United U13",
-      "away_team": "PMG Excel U13",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U13 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Quarrydale United U13",
-      "home_away": "home",
-      "opponent": "PMG Excel U13"
-    },
-    {
       "id": "f045fce996260ffe7832e57fa70a737e",
       "date": "2026-03-28",
       "time": "11:30",
@@ -79,6 +53,19 @@
       "team": "Quarrydale United U11",
       "home_away": "home",
       "opponent": "Meden Vale Colts Green U11"
+    },
+    {
+      "id": "169b8e82be32eced2d3078da5493598b",
+      "date": "2026-03-28",
+      "time": "12:00",
+      "home_team": "Quarrydale United U13",
+      "away_team": "PMG Excel U13",
+      "venue": "Bentinck Miners Welfare NG17 8GS",
+      "division": "U13 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United U13",
+      "home_away": "home",
+      "opponent": "PMG Excel U13"
     },
     {
       "id": "e92523830f2aa4a65dbc926036bcc5b8",
@@ -185,6 +172,32 @@
       "opponent": "Priory Celtic 1967 U13"
     },
     {
+      "id": "0c4439d9ba0c89c848b98fdeff485089",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Quarrydale United U11",
+      "away_team": "Ravenshead FC U11",
+      "venue": "Bentinck Miners Welfare NG17 8GS",
+      "division": "U11 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United U11",
+      "home_away": "home",
+      "opponent": "Ravenshead FC U11"
+    },
+    {
+      "id": "4cfb19b1a50858d26214477583c2ed11",
+      "date": "2026-04-11",
+      "time": "10:15",
+      "home_team": "Quarrydale United Yellow U14",
+      "away_team": "Dunkirk U14",
+      "venue": "Bentinck Miners Welfare NG17 8GS",
+      "division": "u14 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United Yellow U14",
+      "home_away": "home",
+      "opponent": "Dunkirk U14"
+    },
+    {
       "id": "d730e6d4bc0f75ae6303ee26152c6b3c",
       "date": "2026-04-12",
       "time": "10:00",
@@ -235,19 +248,6 @@
       "team": "Quarrydale United United U13",
       "home_away": "away",
       "opponent": "Hucknall Sports White U13"
-    },
-    {
-      "id": "c5453b9b16e2c907a3a5ca0f7d3ef42e",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Quarrydale United U11",
-      "away_team": "Ravenshead FC U11",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U11 Sat YEL Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Quarrydale United U11",
-      "home_away": "home",
-      "opponent": "Ravenshead FC U11"
     },
     {
       "id": "15ac3225f52d94877774f1d99b9da282",
@@ -354,6 +354,19 @@
       "opponent": "Shirebrook Rangers U8"
     },
     {
+      "id": "ef7b11c26019eae407441b0bf9040171",
+      "date": "2026-04-19",
+      "time": "10:15",
+      "home_team": "WBYFC Atlantis U13",
+      "away_team": "Quarrydale United United U13",
+      "venue": "Regatta Way NG2 5AT",
+      "division": "U13 Sun YEL Shield",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Quarrydale United United U13",
+      "home_away": "away",
+      "opponent": "WBYFC Atlantis U13"
+    },
+    {
       "id": "b49b38cff04a86342092d157c4a52baf",
       "date": "2026-04-19",
       "time": "11:00",
@@ -365,19 +378,6 @@
       "team": "Quarrydale United U12",
       "home_away": "away",
       "opponent": "Chesterfield Town Blue U12"
-    },
-    {
-      "id": "ef7b11c26019eae407441b0bf9040171",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "WBYFC Atlantis U13",
-      "away_team": "Quarrydale United United U13",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U13 Sun YEL Shield",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Quarrydale United United U13",
-      "home_away": "away",
-      "opponent": "WBYFC Atlantis U13"
     },
     {
       "id": "f1677a0d00536a2bba5bb625fee68456",

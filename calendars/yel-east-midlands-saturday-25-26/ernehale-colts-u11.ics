@@ -7,21 +7,21 @@ X-WR-CALNAME:Ernehale Colts U11
 X-WR-CALDESC:Fixtures for Ernehale Colts U11 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:ff3a6067518caf6f2c0bdbb9512323fd@yel-calendar
-DTSTAMP:20260324T065256Z
-DTSTART;TZID=Europe/London:20260328T100000
-DTEND;TZID=Europe/London:20260328T113000
-SUMMARY:⚽ Ernehale Colts U11 vs Burton Joyce Green U11 (Away)
-DESCRIPTION:Division: U11 Sat Spring Div 7 Gold\nBurton Joyce Green U11 v Ernehale Colts U11\nKO: 10:00
-LOCATION:The Poplars, Burton Joyce  NG14 5AN
-END:VEVENT
-BEGIN:VEVENT
 UID:418f41d0537e95d314d6aeaf3416c343@yel-calendar
-DTSTAMP:20260324T065256Z
+DTSTAMP:20260325T065150Z
 DTSTART;TZID=Europe/London:20260418T100000
 DTEND;TZID=Europe/London:20260418T113000
 SUMMARY:⚽ Ernehale Colts U11 vs Newark Town Cavaliers U11 (Home)
 DESCRIPTION:Division: U11 Sat Spring Div 7 Gold\nErnehale Colts U11 v Newark Town Cavaliers U11\nKO: 10:00
 LOCATION:King George V Park NG5 6TD
+END:VEVENT
+BEGIN:VEVENT
+UID:ebffc11d7b4abffeef2c3071d8dcec24@yel-calendar
+DTSTAMP:20260325T065150Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T113000
+SUMMARY:⚽ Ernehale Colts U11 vs Burton Joyce Green U11 (Away)
+DESCRIPTION:Division: U11 Sat Spring Div 7 Gold\nBurton Joyce Green U11 v Ernehale Colts U11\nKO: 10:00
+LOCATION:The Poplars, Burton Joyce  NG14 5AN
 END:VEVENT
 END:VCALENDAR

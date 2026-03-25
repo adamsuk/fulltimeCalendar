@@ -1,20 +1,7 @@
 {
   "club": "PMG Excel",
-  "generated": "2026-03-24T06:52:21Z",
+  "generated": "2026-03-25T06:50:56Z",
   "fixtures": [
-    {
-      "id": "169b8e82be32eced2d3078da5493598b",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "home_team": "Quarrydale United U13",
-      "away_team": "PMG Excel U13",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U13 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "PMG Excel U13",
-      "home_away": "away",
-      "opponent": "Quarrydale United U13"
-    },
     {
       "id": "b89cf0e8e1b2a7e14d2cd6a0c1bb4cc0",
       "date": "2026-03-28",
@@ -29,6 +16,19 @@
       "opponent": "Collingham FC Cougars U10"
     },
     {
+      "id": "169b8e82be32eced2d3078da5493598b",
+      "date": "2026-03-28",
+      "time": "12:00",
+      "home_team": "Quarrydale United U13",
+      "away_team": "PMG Excel U13",
+      "venue": "Bentinck Miners Welfare NG17 8GS",
+      "division": "U13 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "PMG Excel U13",
+      "home_away": "away",
+      "opponent": "Quarrydale United U13"
+    },
+    {
       "id": "569fa4dfbc1678ee8a44da03aec48f7d",
       "date": "2026-03-29",
       "time": "10:00",
@@ -40,6 +40,19 @@
       "team": "PMG Excel U10",
       "home_away": "away",
       "opponent": "Borrowash Youth Tigers U10"
+    },
+    {
+      "id": "9706c41769ad435d0ceba7a990b2476e",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "PMG Excel U11",
+      "away_team": "Gonerby Yellow U11",
+      "venue": "Bulwell Hall Park NG6 8LF",
+      "division": "U11 Sun Spring Div 4 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "PMG Excel U11",
+      "home_away": "home",
+      "opponent": "Gonerby Yellow U11"
     },
     {
       "id": "57043b2f73866769637819bca196fbf3",
@@ -200,7 +213,7 @@
     {
       "id": "01d8be4ff4a00d8e432d94525df12e78",
       "date": "2026-04-19",
-      "time": "11:00",
+      "time": "10:00",
       "home_team": "WBYFC Copa U12",
       "away_team": "PMG Excel U12",
       "venue": "Regatta Way NG2 5AT",
@@ -316,23 +329,6 @@
     }
   ],
   "results": [
-    {
-      "id": "9706c41769ad435d0ceba7a990b2476e",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "PMG Excel U11",
-      "away_team": "Gonerby Yellow U11",
-      "home_score": 3,
-      "away_score": 3,
-      "venue": "U11 Sun Spring Div 4 Red",
-      "division": "Unknown Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "PMG Excel U11",
-      "home_away": "home",
-      "opponent": "Gonerby Yellow U11",
-      "goals_for": 3,
-      "goals_against": 3
-    },
     {
       "id": "b2e3b6a6601b9e49e9ef913e88a98647",
       "date": "2026-03-22",

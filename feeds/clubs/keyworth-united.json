@@ -1,20 +1,7 @@
 {
   "club": "Keyworth United",
-  "generated": "2026-03-24T06:52:21Z",
+  "generated": "2026-03-25T06:50:56Z",
   "fixtures": [
-    {
-      "id": "844cda86e961489e0697f3faff967a75",
-      "date": "2026-03-24",
-      "time": "18:00",
-      "home_team": "Silva FC Rushcliffe Sapphire U10",
-      "away_team": "Keyworth United Red U10",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U10 Sat Spring Div 5 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Keyworth United Red U10",
-      "home_away": "away",
-      "opponent": "Silva FC Rushcliffe Sapphire U10"
-    },
     {
       "id": "6d9d7ee640bd2ffe1bb1256a1a1a416d",
       "date": "2026-03-28",
@@ -261,19 +248,6 @@
       "team": "Keyworth United Red U13",
       "home_away": "home",
       "opponent": "Radford FC U13"
-    },
-    {
-      "id": "2228a78dfb23aa3e3d68b40678f94e96",
-      "date": "2026-03-29",
-      "time": "11:00",
-      "home_team": "Pelican Colts Blue U13",
-      "away_team": "Keyworth United Yellow U13",
-      "venue": "Dave Eastwood Sports Ground NG7 2SA",
-      "division": "U13 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Keyworth United Yellow U13",
-      "home_away": "away",
-      "opponent": "Pelican Colts Blue U13"
     },
     {
       "id": "7aea50534b2c93b71b6fc320e792b0c7",
@@ -848,6 +822,19 @@
       "opponent": "Long Eaton United Black U13"
     },
     {
+      "id": "beff5ced5942746c31b4257c6eabfdd2",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "Pelican Colts Blue U13",
+      "away_team": "Keyworth United Yellow U13",
+      "venue": "Dave Eastwood Sports Ground NG7 2SA",
+      "division": "U13 Sun Spring Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Keyworth United Yellow U13",
+      "home_away": "away",
+      "opponent": "Pelican Colts Blue U13"
+    },
+    {
       "id": "ee8946a6febf56be142fe785eeb77e08",
       "date": "2026-04-25",
       "time": "10:00",
@@ -1229,6 +1216,23 @@
       "opponent": "Loughborough Eml Blues U13",
       "goals_for": 2,
       "goals_against": 0
+    },
+    {
+      "id": "844cda86e961489e0697f3faff967a75",
+      "date": "2026-03-24",
+      "time": "18:00",
+      "home_team": "Silva FC Rushcliffe Sapphire U10",
+      "away_team": "Keyworth United Red U10",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "U10 Sat Spring Div 5 Green",
+      "division": "Unknown Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Keyworth United Red U10",
+      "home_away": "away",
+      "opponent": "Silva FC Rushcliffe Sapphire U10",
+      "goals_for": 5,
+      "goals_against": 1
     },
     {
       "id": "c760019e1caab5286e08805cc21f6177",
