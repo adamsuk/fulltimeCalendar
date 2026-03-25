@@ -1,6 +1,6 @@
 {
   "club": "Long Eaton",
-  "generated": "2026-03-25T12:50:50Z",
+  "generated": "2026-03-25T13:55:34Z",
   "fixtures": [
     {
       "id": "93ce811a49d103684b947037606eba2d",
@@ -170,6 +170,19 @@
       "team": "Long Eaton United Red U7",
       "home_away": "away",
       "opponent": "Market Warsop Mini Mavs U7"
+    },
+    {
+      "id": "e71094ffd2c6c808798ff6a174e882d3",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Arnold Eagles F.C. Girls U12 FC",
+      "away_team": "Long Eaton United U12 Girls",
+      "venue": "CALVERTON MINERS WELFARE TRUST",
+      "division": "U12 Div 1 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U12 Girls",
+      "home_away": "away",
+      "opponent": "Arnold Eagles F.C. Girls U12 FC"
     },
     {
       "id": "d5decc70b5746a7acbdfbe6b18ec6e78",
@@ -497,6 +510,19 @@
       "opponent": "Basford CFC Storm U11"
     },
     {
+      "id": "13f4b7c824c049b92a4fca47bdb4d249",
+      "date": "2026-04-19",
+      "time": "09:30",
+      "home_team": "Long Eaton United U12 Girls",
+      "away_team": "Cotgrave FC U12 Girls",
+      "venue": "GRANGE PARK",
+      "division": "U12 Div 1 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U12 Girls",
+      "home_away": "home",
+      "opponent": "Cotgrave FC U12 Girls"
+    },
+    {
       "id": "3fa7900c8f8eb35207f4a9b966231216",
       "date": "2026-04-19",
       "time": "10:00",
@@ -716,6 +742,19 @@
       "team": "Long Eaton United Red U13",
       "home_away": "away",
       "opponent": "Ashfield Athletic U13"
+    },
+    {
+      "id": "51d50dd9bd9716c1e3756f0706b787d7",
+      "date": "2026-05-31",
+      "time": "10:00",
+      "home_team": "Long Eaton United U12 Girls",
+      "away_team": "Hucknall & Linby Harriers FC U12",
+      "venue": "GRANGE PARK",
+      "division": "U12 Div 1 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U12 Girls",
+      "home_away": "home",
+      "opponent": "Hucknall & Linby Harriers FC U12"
     }
   ],
   "results": [
@@ -803,6 +842,23 @@
       "opponent": "Quarrydale United United U13",
       "goals_for": 1,
       "goals_against": 5
+    },
+    {
+      "id": "a6a39609d65cccd02290c298730ef54e",
+      "date": "2026-03-22",
+      "time": "09:30",
+      "home_team": "Long Eaton United U12 Girls",
+      "away_team": "Sandiacre Town Youth U12 Panthers Girls",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "U12 Div 1 P2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U12 Girls",
+      "home_away": "home",
+      "opponent": "Sandiacre Town Youth U12 Panthers Girls",
+      "goals_for": 1,
+      "goals_against": 1
     },
     {
       "id": "0a68a67ede13368add334da7ffbb74fc",
@@ -1058,6 +1114,23 @@
       "opponent": "Wollaton H & B Tigers U9",
       "goals_for": 1,
       "goals_against": 0
+    },
+    {
+      "id": "eaf299e781235edcf4c3d97168f4bfab",
+      "date": "2026-03-15",
+      "time": "12:00",
+      "home_team": "Keyworth United F.C. U12 Warriors",
+      "away_team": "Long Eaton United U12 Girls",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "U12 Div 1 P2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U12 Girls",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U12 Warriors",
+      "goals_for": 2,
+      "goals_against": 5
     },
     {
       "id": "ea4d8f893644ea3f12fae0b451fbebaa",
@@ -1536,6 +1609,23 @@
       "goals_against": null
     },
     {
+      "id": "2be1df9aa36b82d49306fa7c4ffa127a",
+      "date": "2026-03-08",
+      "time": "10:00",
+      "home_team": "Notts County F.C. Girls U15",
+      "away_team": "Long Eaton United U16 Girls",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "U16 Div 1 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U16 Girls",
+      "home_away": "away",
+      "opponent": "Notts County F.C. Girls U15",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
       "id": "142a117e853973373077f10d18e50262",
       "date": "2026-03-08",
       "time": "09:30",
@@ -1859,6 +1949,23 @@
       "goals_against": 2
     },
     {
+      "id": "40ca265502f30aa0c4e527985ffcfac6",
+      "date": "2026-03-01",
+      "time": "13:00",
+      "home_team": "Mansfield Town F.C. Girls U12",
+      "away_team": "Long Eaton United U12 Girls",
+      "home_score": 6,
+      "away_score": 2,
+      "venue": "U12 Div 1 P2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U12 Girls",
+      "home_away": "away",
+      "opponent": "Mansfield Town F.C. Girls U12",
+      "goals_for": 2,
+      "goals_against": 6
+    },
+    {
       "id": "1653a0477a9bd939387d16b75511ac6e",
       "date": "2026-03-01",
       "time": "11:00",
@@ -1942,6 +2049,23 @@
       "opponent": "Arnold Town U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "39145460d3c9b412a2cf81b3f24162b5",
+      "date": "2026-03-01",
+      "time": "10:00",
+      "home_team": "Brodsworth Welfare AFC- Warriors U16",
+      "away_team": "Long Eaton United U16 Girls",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "U16 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U16 Girls",
+      "home_away": "away",
+      "opponent": "Brodsworth Welfare AFC- Warriors U16",
+      "goals_for": 2,
+      "goals_against": 3
     },
     {
       "id": "170f7956252c8fca46689d7a09557e13",
@@ -2129,6 +2253,40 @@
       "opponent": "Sneinton Town U13",
       "goals_for": 1,
       "goals_against": 3
+    },
+    {
+      "id": "1c63b01813eaddefbb38da56c8007120",
+      "date": "2026-02-22",
+      "time": "12:30",
+      "home_team": "Long Eaton United U16 Girls",
+      "away_team": "Newark Town FC U16 Girls",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "U16 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U16 Girls",
+      "home_away": "home",
+      "opponent": "Newark Town FC U16 Girls",
+      "goals_for": 0,
+      "goals_against": 4
+    },
+    {
+      "id": "7b58c22139b95014f931f0a9fc01e3e6",
+      "date": "2026-02-22",
+      "time": "11:30",
+      "home_team": "Long Eaton United U12 Girls",
+      "away_team": "Burton Joyce F.C. Girls U12 Olympians",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "U12 Div 1 P2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U12 Girls",
+      "home_away": "home",
+      "opponent": "Burton Joyce F.C. Girls U12 Olympians",
+      "goals_for": 0,
+      "goals_against": 4
     },
     {
       "id": "7dea06a2741b02aaaf60a5d513880469",
@@ -2573,6 +2731,23 @@
       "goals_against": 0
     },
     {
+      "id": "7d23723eb8a1f8e6ed8c88a6361ccbdd",
+      "date": "2026-02-08",
+      "time": "10:00",
+      "home_team": "Long Eaton United U16 Girls",
+      "away_team": "Woodlands Women U16 Goldsocks",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "U16 Div 1 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U16 Girls",
+      "home_away": "home",
+      "opponent": "Woodlands Women U16 Goldsocks",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
       "id": "bf85166b627135a5aaf09f3861313669",
       "date": "2026-02-08",
       "time": "09:00",
@@ -2741,6 +2916,23 @@
       "opponent": "Long Eaton United Athletico U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "9ada552b74eb1c087e687afa6ff8b8c2",
+      "date": "2026-02-01",
+      "time": "12:30",
+      "home_team": "Notts County F.C. Girls U15",
+      "away_team": "Long Eaton United U16 Girls",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "U16 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U16 Girls",
+      "home_away": "away",
+      "opponent": "Notts County F.C. Girls U15",
+      "goals_for": 4,
+      "goals_against": 0
     },
     {
       "id": "51a1f658ff151ae9839be58a3a710f88",
@@ -3081,6 +3273,23 @@
       "opponent": "Carlton Town Yellow U11",
       "goals_for": 2,
       "goals_against": 2
+    },
+    {
+      "id": "dba2c3723b48276050051920842269c2",
+      "date": "2026-01-25",
+      "time": "10:00",
+      "home_team": "Woodlands Women U16 Goldsocks",
+      "away_team": "Long Eaton United U16 Girls",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "U16 Div 1 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U16 Girls",
+      "home_away": "away",
+      "opponent": "Woodlands Women U16 Goldsocks",
+      "goals_for": 2,
+      "goals_against": 1
     },
     {
       "id": "2e718f43c876ab6c5e1be4b2a07fcace",
@@ -3437,6 +3646,23 @@
       "home_away": "home",
       "opponent": "Quarrydale United U11",
       "goals_for": 6,
+      "goals_against": 0
+    },
+    {
+      "id": "4e390b0b75e9ecda936202496f6782cf",
+      "date": "2026-01-18",
+      "time": "10:00",
+      "home_team": "Newark Town FC U16 Girls",
+      "away_team": "Long Eaton United U16 Girls",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "U16 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U16 Girls",
+      "home_away": "away",
+      "opponent": "Newark Town FC U16 Girls",
+      "goals_for": 3,
       "goals_against": 0
     },
     {
@@ -4103,6 +4329,23 @@
       "goals_against": null
     },
     {
+      "id": "68cb467f32251dbfa1948e6e519183be",
+      "date": "2025-12-07",
+      "time": "14:15",
+      "home_team": "Long Eaton United U16 Girls",
+      "away_team": "Brodsworth Welfare AFC- Warriors U16",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "U16 Div 1 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U16 Girls",
+      "home_away": "home",
+      "opponent": "Brodsworth Welfare AFC- Warriors U16",
+      "goals_for": 3,
+      "goals_against": 4
+    },
+    {
       "id": "12874d72bfd39c3235e7649105b0eb58",
       "date": "2025-12-07",
       "time": "11:15",
@@ -4460,6 +4703,23 @@
       "goals_against": 0
     },
     {
+      "id": "2ef51421f0897cf43d08622533a5534c",
+      "date": "2025-11-30",
+      "time": "10:00",
+      "home_team": "Woodlands Women U16 Goldsocks",
+      "away_team": "Long Eaton United U16 Girls",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "U16 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U16 Girls",
+      "home_away": "away",
+      "opponent": "Woodlands Women U16 Goldsocks",
+      "goals_for": 5,
+      "goals_against": 2
+    },
+    {
       "id": "32e9900428491b9ced8f1f154327703d",
       "date": "2025-11-29",
       "time": "11:00",
@@ -4696,6 +4956,23 @@
       "opponent": "Wollaton H & B Rockets U12",
       "goals_for": 3,
       "goals_against": 3
+    },
+    {
+      "id": "e770259e3012094dda3502c710240b65",
+      "date": "2025-11-23",
+      "time": "13:00",
+      "home_team": "Long Eaton United U16 Girls",
+      "away_team": "Keyworth United F.C. U16 Wildcats",
+      "home_score": 11,
+      "away_score": 1,
+      "venue": "U16 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U16 Girls",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U16 Wildcats",
+      "goals_for": 11,
+      "goals_against": 1
     },
     {
       "id": "69b2b5866f5179e77db1a2e8171f1d40",
@@ -5055,6 +5332,23 @@
       "goals_against": 1
     },
     {
+      "id": "0a3c0fa6b26fbafb356303a5ba6b7936",
+      "date": "2025-11-16",
+      "time": "12:30",
+      "home_team": "Long Eaton United U16 Girls",
+      "away_team": "Nottingham F.C. Youth U16 Piranhas",
+      "home_score": 4,
+      "away_score": 4,
+      "venue": "U16 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U16 Girls",
+      "home_away": "home",
+      "opponent": "Nottingham F.C. Youth U16 Piranhas",
+      "goals_for": 4,
+      "goals_against": 4
+    },
+    {
       "id": "b448206c4ebe6a08354330834962902e",
       "date": "2025-11-16",
       "time": "10:30",
@@ -5308,6 +5602,23 @@
       "opponent": "Castle Donington Rockets U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "318835c467cae0dd8138e3b884ae7712",
+      "date": "2025-11-09",
+      "time": "10:00",
+      "home_team": "Notts County F.C. Girls U15",
+      "away_team": "Long Eaton United U16 Girls",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "U16 Div 1 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U16 Girls",
+      "home_away": "away",
+      "opponent": "Notts County F.C. Girls U15",
+      "goals_for": 3,
+      "goals_against": 5
     },
     {
       "id": "5119bec63342f11baa73da0f4d27916d",
@@ -5699,6 +6010,23 @@
       "opponent": "WBYFC Rapids U11",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "e7c5fcb6f331a9cf890ce2d90767589a",
+      "date": "2025-11-02",
+      "time": "10:00",
+      "home_team": "Long Eaton United U16 Girls",
+      "away_team": "Woodlands Women U16 Goldsocks",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "U16 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U16 Girls",
+      "home_away": "home",
+      "opponent": "Woodlands Women U16 Goldsocks",
+      "goals_for": 1,
+      "goals_against": 2
     },
     {
       "id": "aaa1ffff104c97a395eacade41c35e31",
@@ -6177,6 +6505,23 @@
       "goals_against": null
     },
     {
+      "id": "9e5c5485cbca616094ac2094ebf76dda",
+      "date": "2025-10-12",
+      "time": "14:00",
+      "home_team": "Long Eaton United U16 Girls",
+      "away_team": "Newark Town FC U16 Girls",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "U16 Div 1 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U16 Girls",
+      "home_away": "home",
+      "opponent": "Newark Town FC U16 Girls",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
       "id": "19ad9c0dc9e96bcf86f2e4c698ffcbc2",
       "date": "2025-10-12",
       "time": "11:00",
@@ -6532,6 +6877,23 @@
       "opponent": "Ollerton Town Red U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "d31186ee330c4cd91394ed81c248c5dc",
+      "date": "2025-10-05",
+      "time": "14:00",
+      "home_team": "Keyworth United F.C. U16 Wildcats",
+      "away_team": "Long Eaton United U16 Girls",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "U16 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U16 Girls",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U16 Wildcats",
+      "goals_for": 1,
+      "goals_against": 1
     },
     {
       "id": "732a73d5c2ffd97a0475fab03aa3ac32",
@@ -6923,6 +7285,23 @@
       "opponent": "Priory Celtic White U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "c8f9cab3687ba785ca26a48aabe46047",
+      "date": "2025-09-28",
+      "time": "14:00",
+      "home_team": "Long Eaton United U16 Girls",
+      "away_team": "Brodsworth Welfare AFC- Warriors U16",
+      "home_score": 0,
+      "away_score": 13,
+      "venue": "U16 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U16 Girls",
+      "home_away": "home",
+      "opponent": "Brodsworth Welfare AFC- Warriors U16",
+      "goals_for": 0,
+      "goals_against": 13
     },
     {
       "id": "18650c2d95bbaf18d24ca034bf24b033",
@@ -7775,6 +8154,23 @@
       "goals_against": 5
     },
     {
+      "id": "7d753effd41abf6d5449674b19b807af",
+      "date": "2025-09-14",
+      "time": "12:00",
+      "home_team": "Long Eaton United U16 Girls",
+      "away_team": "Notts County F.C. Girls U15",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "U16 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U16 Girls",
+      "home_away": "home",
+      "opponent": "Notts County F.C. Girls U15",
+      "goals_for": 1,
+      "goals_against": 4
+    },
+    {
       "id": "3084c9a2e8bcf9a1ff2983e9f71aefd9",
       "date": "2025-09-14",
       "time": "10:40",
@@ -8215,6 +8611,23 @@
       "opponent": "Ravenshead Reds Red Arrows U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "5508fec3b700219d4798535d0505ab4f",
+      "date": "2025-09-07",
+      "time": "10:30",
+      "home_team": "Nottingham F.C. Youth U16 Piranhas",
+      "away_team": "Long Eaton United U16 Girls",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "U16 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Eaton United U16 Girls",
+      "home_away": "away",
+      "opponent": "Nottingham F.C. Youth U16 Piranhas",
+      "goals_for": 3,
+      "goals_against": 2
     },
     {
       "id": "546312e91fa2c6af73f8d6cff3cc3078",

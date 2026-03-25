@@ -1,6 +1,6 @@
 {
   "club": "Clifton All",
-  "generated": "2026-03-25T12:50:50Z",
+  "generated": "2026-03-25T13:55:34Z",
   "fixtures": [
     {
       "id": "5ad61638d371d0596b1a645b09cf8f0e",
@@ -172,6 +172,19 @@
       "opponent": "Eastwood Athletic Eagles U13"
     },
     {
+      "id": "6dc13aee9ed9097f4945fcb4b8d9cbce",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U13",
+      "away_team": "Newark Town FC U13 Nesbitts",
+      "venue": "CLIFTON FOOTBALL CENTRE",
+      "division": "U13 Div 1 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U13",
+      "home_away": "home",
+      "opponent": "Newark Town FC U13 Nesbitts"
+    },
+    {
       "id": "a40f95ba5bf7bae158a86a61e55dd54a",
       "date": "2026-04-14",
       "time": "18:00",
@@ -287,6 +300,19 @@
       "team": "Clifton All Whites Yellow U12",
       "home_away": "home",
       "opponent": "Ruddington Village U12"
+    },
+    {
+      "id": "0f28d683478244b5156134fe66ae1971",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U16 Girls",
+      "away_team": "Burton Joyce F.C. Girls U16",
+      "venue": "FARNBOROUGH ACADEMY SPORTS CENTRE",
+      "division": "U16 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U16 Girls",
+      "home_away": "home",
+      "opponent": "Burton Joyce F.C. Girls U16"
     },
     {
       "id": "3bc63f59d3c7bd8228c6b622feccfac9",
@@ -471,6 +497,19 @@
       "opponent": "Sherwood Colliery Outlaws U12"
     },
     {
+      "id": "ee6a4a73a2705bb84cdc3c67ae360abe",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Southwell City FC U13 All Whites",
+      "away_team": "Clifton All Whites U13",
+      "venue": "CENTENARY SPORTS GROUND",
+      "division": "U13 Div 1 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U13",
+      "home_away": "away",
+      "opponent": "Southwell City FC U13 All Whites"
+    },
+    {
       "id": "9b1b7ca68524f740e12e5901806348ee",
       "date": "2026-04-26",
       "time": "11:00",
@@ -482,6 +521,45 @@
       "team": "Clifton All Whites Orange U14",
       "home_away": "home",
       "opponent": "Breaston Park Green U14"
+    },
+    {
+      "id": "540cbe83420f9be4c1ececc8515e9200",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Burton Joyce F.C. Girls U16",
+      "away_team": "Clifton All Whites U16 Girls",
+      "venue": "POPLARS SPORTS GROUND",
+      "division": "U16 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U16 Girls",
+      "home_away": "away",
+      "opponent": "Burton Joyce F.C. Girls U16"
+    },
+    {
+      "id": "05c29d667278832aa8605b534cddf34d",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U16 Girls",
+      "away_team": "Beeston F.C. U16 Girls",
+      "venue": "FARNBOROUGH ACADEMY SPORTS CENTRE",
+      "division": "U16 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U16 Girls",
+      "home_away": "home",
+      "opponent": "Beeston F.C. U16 Girls"
+    },
+    {
+      "id": "3a92c7b2d831f182a442a452b9137ef3",
+      "date": "2026-05-17",
+      "time": "10:00",
+      "home_team": "Nottingham F.C. Youth U16 Diamonds",
+      "away_team": "Clifton All Whites U16 Girls",
+      "venue": "MELBOURNE PARK",
+      "division": "U16 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U16 Girls",
+      "home_away": "away",
+      "opponent": "Nottingham F.C. Youth U16 Diamonds"
     }
   ],
   "results": [
@@ -535,6 +613,40 @@
       "opponent": "Sports Gateway Spitfire U14",
       "goals_for": 2,
       "goals_against": 4
+    },
+    {
+      "id": "888cb8fb48db9b2d6d7daa60622f2806",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U13",
+      "away_team": "Phoenix Inham F.C. U13 Starfire",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "U13 Div 1 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U13",
+      "home_away": "home",
+      "opponent": "Phoenix Inham F.C. U13 Starfire",
+      "goals_for": 2,
+      "goals_against": 3
+    },
+    {
+      "id": "e66e82cd7365c0e1f653c7415d715245",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Pelican Colts F.C. Youth U16 girls",
+      "away_team": "Clifton All Whites U16 Girls",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "U16 Div 3 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U16 Girls",
+      "home_away": "away",
+      "opponent": "Pelican Colts F.C. Youth U16 girls",
+      "goals_for": 2,
+      "goals_against": 1
     },
     {
       "id": "a25ac758cc905c5eff15beefe96c6eda",
@@ -773,6 +885,23 @@
       "opponent": "Castle Donington Lions U14",
       "goals_for": 3,
       "goals_against": 2
+    },
+    {
+      "id": "38f7ca9f2de2734a7b04cf912db8e29d",
+      "date": "2026-03-15",
+      "time": "10:00",
+      "home_team": "Woodlands Women U16 Greensocks",
+      "away_team": "Clifton All Whites U16 Girls",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "U16 Div 3",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U16 Girls",
+      "home_away": "away",
+      "opponent": "Woodlands Women U16 Greensocks",
+      "goals_for": 1,
+      "goals_against": 1
     },
     {
       "id": "6bd8f7ae41ff9a7112cf7c569281ef42",
@@ -1064,6 +1193,40 @@
       "goals_against": 4
     },
     {
+      "id": "00b803e56b83fb9d558bae92f5f1ccc8",
+      "date": "2026-03-08",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic FC U13 Ravens",
+      "away_team": "Clifton All Whites U13",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "U13 (11v11) Div 1 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U13",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC U13 Ravens",
+      "goals_for": 2,
+      "goals_against": 3
+    },
+    {
+      "id": "856e6009be729a07a88e5d9b51c057e0",
+      "date": "2026-03-08",
+      "time": "10:00",
+      "home_team": "Woodlands Women U16 Greensocks",
+      "away_team": "Clifton All Whites U16 Girls",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "U16 Div 3 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U16 Girls",
+      "home_away": "away",
+      "opponent": "Woodlands Women U16 Greensocks",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
       "id": "acb894954c96993a028d23d065963f9b",
       "date": "2026-03-07",
       "time": "12:30",
@@ -1285,6 +1448,23 @@
       "goals_against": 2
     },
     {
+      "id": "d118c0b7f9111c334e85efdc302ef9e8",
+      "date": "2026-03-01",
+      "time": "12:30",
+      "home_team": "Canoville FC U13 FC Bulldogs",
+      "away_team": "Clifton All Whites U13",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "U13 Div 1 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U13",
+      "home_away": "away",
+      "opponent": "Canoville FC U13 FC Bulldogs",
+      "goals_for": 0,
+      "goals_against": 6
+    },
+    {
       "id": "514ec6abbd16a6da7e0cb4a1eaa6f557",
       "date": "2026-03-01",
       "time": "10:45",
@@ -1470,6 +1650,40 @@
       "opponent": "Sherwood FC Lions U9",
       "goals_for": 1,
       "goals_against": 1
+    },
+    {
+      "id": "0d7a85bf77a2cc6be3aa9ed1d3187529",
+      "date": "2026-02-22",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U13",
+      "away_team": "Canoville FC U13 FC Bulldogs",
+      "home_score": 0,
+      "away_score": 8,
+      "venue": "U13 Div 1 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U13",
+      "home_away": "home",
+      "opponent": "Canoville FC U13 FC Bulldogs",
+      "goals_for": 0,
+      "goals_against": 8
+    },
+    {
+      "id": "a733140fac3cc3e4e816961e0474cf0f",
+      "date": "2026-02-22",
+      "time": "10:00",
+      "home_team": "Keyworth United F.C. U16 Emeralds",
+      "away_team": "Clifton All Whites U16 Girls",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "U16 Div 3",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U16 Girls",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U16 Emeralds",
+      "goals_for": 4,
+      "goals_against": 0
     },
     {
       "id": "15958a9ce7b48a07b6f623afbf239d03",
@@ -1744,6 +1958,23 @@
       "goals_against": 2
     },
     {
+      "id": "fdb8f83a85a34829132f9914c453ab16",
+      "date": "2026-02-08",
+      "time": "12:30",
+      "home_team": "Newark Town FC U13 Nesbitts",
+      "away_team": "Clifton All Whites U13",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "U13 Div 1 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U13",
+      "home_away": "away",
+      "opponent": "Newark Town FC U13 Nesbitts",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
       "id": "b40ca3f8fc308d3a35fcad3efc05e475",
       "date": "2026-02-08",
       "time": "10:00",
@@ -1878,6 +2109,23 @@
       "opponent": "G3A FC Inter U12",
       "goals_for": 1,
       "goals_against": 0
+    },
+    {
+      "id": "349ff2f7ca5cb047256fdd6d00233ade",
+      "date": "2026-02-01",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U13",
+      "away_team": "Shardlow St. James U13 Jets Girls",
+      "home_score": 3,
+      "away_score": 5,
+      "venue": "U13 Div 1 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U13",
+      "home_away": "home",
+      "opponent": "Shardlow St. James U13 Jets Girls",
+      "goals_for": 3,
+      "goals_against": 5
     },
     {
       "id": "9e48cfdf3139ff329824088422683497",
@@ -2084,6 +2332,40 @@
       "goals_against": 1
     },
     {
+      "id": "d844464ea91a4c95bee115fa376f45cc",
+      "date": "2026-01-25",
+      "time": "11:00",
+      "home_team": "Radcliffe Olympic FC U13 Ravens",
+      "away_team": "Clifton All Whites U13",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "U13 Div 1 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U13",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC U13 Ravens",
+      "goals_for": 0,
+      "goals_against": 5
+    },
+    {
+      "id": "9c5ac526e14c33d8f9bb86a51b9529f5",
+      "date": "2026-01-25",
+      "time": "10:00",
+      "home_team": "Pelican Colts F.C. Youth U16 girls",
+      "away_team": "Clifton All Whites U16 Girls",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "U16 Div 3",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U16 Girls",
+      "home_away": "away",
+      "opponent": "Pelican Colts F.C. Youth U16 girls",
+      "goals_for": 1,
+      "goals_against": 4
+    },
+    {
       "id": "f74f7f57a367898b35138e26113d31df",
       "date": "2026-01-24",
       "time": "14:00",
@@ -2252,6 +2534,23 @@
       "opponent": "Mapperley All Stars Yellow U9",
       "goals_for": 4,
       "goals_against": 5
+    },
+    {
+      "id": "1dec7a9d1176e04fbf09048a90f8880f",
+      "date": "2026-01-18",
+      "time": "12:00",
+      "home_team": "Beeston F.C. U16 Girls",
+      "away_team": "Clifton All Whites U16 Girls",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "U16 Div 3 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U16 Girls",
+      "home_away": "away",
+      "opponent": "Beeston F.C. U16 Girls",
+      "goals_for": 4,
+      "goals_against": 0
     },
     {
       "id": "9bbb867f308fb13f11d21fba3712d193",
@@ -2611,6 +2910,23 @@
       "goals_against": null
     },
     {
+      "id": "1fb3157abb5049e2429b88e7b68b36d4",
+      "date": "2026-01-04",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U16 Girls",
+      "away_team": "Nottingham F.C. Youth U16 Diamonds",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "U16 Div 3 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U16 Girls",
+      "home_away": "home",
+      "opponent": "Nottingham F.C. Youth U16 Diamonds",
+      "goals_for": 0,
+      "goals_against": 2
+    },
+    {
       "id": "4f9749af5b22a18b8274772aff48f8c9",
       "date": "2026-01-03",
       "time": "15:00",
@@ -2660,6 +2976,23 @@
       "opponent": "AC United FC",
       "goals_for": 1,
       "goals_against": 2
+    },
+    {
+      "id": "6eed33f0b3d8a95f7cb89cb0b63d431a",
+      "date": "2025-12-14",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U13",
+      "away_team": "Southwell City FC U13 All Whites",
+      "home_score": 1,
+      "away_score": 11,
+      "venue": "U13 (11v11) Div 1 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U13",
+      "home_away": "home",
+      "opponent": "Southwell City FC U13 All Whites",
+      "goals_for": 1,
+      "goals_against": 11
     },
     {
       "id": "056887bd46c2ea5eb652fee4a12a6f37",
@@ -2849,6 +3182,23 @@
       "goals_against": null
     },
     {
+      "id": "9537d5ab1586ed830c5938c92a89c02e",
+      "date": "2025-12-07",
+      "time": "12:30",
+      "home_team": "Canoville FC U13 FC Bulldogs",
+      "away_team": "Clifton All Whites U13",
+      "home_score": 11,
+      "away_score": 0,
+      "venue": "U13 (11v11) Div 1 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U13",
+      "home_away": "away",
+      "opponent": "Canoville FC U13 FC Bulldogs",
+      "goals_for": 0,
+      "goals_against": 11
+    },
+    {
       "id": "962054c6775a2172dd27d5ce4328ed18",
       "date": "2025-12-07",
       "time": "11:00",
@@ -2931,6 +3281,40 @@
       "home_away": "away",
       "opponent": "Eastwood CFC Eagles U12",
       "goals_for": 4,
+      "goals_against": 2
+    },
+    {
+      "id": "db9795766fe14d116180d41811f88479",
+      "date": "2025-11-30",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U13",
+      "away_team": "Priory Celtic F.C. U13 Girls",
+      "home_score": 3,
+      "away_score": 9,
+      "venue": "U13 Div 1 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U13",
+      "home_away": "home",
+      "opponent": "Priory Celtic F.C. U13 Girls",
+      "goals_for": 3,
+      "goals_against": 9
+    },
+    {
+      "id": "73e2e25c78a694b87273fbcde9c39ebd",
+      "date": "2025-11-30",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U16 Girls",
+      "away_team": "Heanor Town Juniors U16 Tornados",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "U16 Div 3",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U16 Girls",
+      "home_away": "home",
+      "opponent": "Heanor Town Juniors U16 Tornados",
+      "goals_for": 2,
       "goals_against": 2
     },
     {
@@ -3478,6 +3862,23 @@
       "goals_against": 5
     },
     {
+      "id": "45e24e67157ab64011125b972c698fa8",
+      "date": "2025-11-09",
+      "time": "10:30",
+      "home_team": "Woodlands Women U16 Greensocks",
+      "away_team": "Clifton All Whites U16 Girls",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "U16 Div 3 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U16 Girls",
+      "home_away": "away",
+      "opponent": "Woodlands Women U16 Greensocks",
+      "goals_for": 2,
+      "goals_against": 4
+    },
+    {
       "id": "33797f76861840da2db8e1a2e3db054f",
       "date": "2025-11-09",
       "time": "10:00",
@@ -3493,6 +3894,23 @@
       "opponent": "Cotgrave FC Blue U12",
       "goals_for": 2,
       "goals_against": 3
+    },
+    {
+      "id": "2c21b84d2d9f56357dd72b32033f38b6",
+      "date": "2025-11-09",
+      "time": "10:00",
+      "home_team": "Newark Town FC U13 Nesbitts",
+      "away_team": "Clifton All Whites U13",
+      "home_score": 5,
+      "away_score": 5,
+      "venue": "U13 (11v11) Div 1 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U13",
+      "home_away": "away",
+      "opponent": "Newark Town FC U13 Nesbitts",
+      "goals_for": 5,
+      "goals_against": 5
     },
     {
       "id": "91b5867388ad947ddc223f4826bc777a",
@@ -3714,6 +4132,23 @@
       "opponent": "Marlborough Rovers U14",
       "goals_for": 1,
       "goals_against": 7
+    },
+    {
+      "id": "0d42c15fbebfce7113ba1d13912382b5",
+      "date": "2025-11-02",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U16 Girls",
+      "away_team": "Nottingham F.C. Youth U16 Diamonds",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "U16 Div 3",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U16 Girls",
+      "home_away": "home",
+      "opponent": "Nottingham F.C. Youth U16 Diamonds",
+      "goals_for": 2,
+      "goals_against": 1
     },
     {
       "id": "375028d2eab9eafdedd7aeaf932850c1",
@@ -4158,6 +4593,40 @@
       "goals_against": 4
     },
     {
+      "id": "c2a05e854d0d202fe0b2dc344d4e77fc",
+      "date": "2025-10-12",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U13",
+      "away_team": "Meden Vale Colts F.C. U13 Girls",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "U13 (11v11) Div 1 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U13",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts F.C. U13 Girls",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "58a391b3e16882ca9f979a5644c42d6e",
+      "date": "2025-10-12",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U16 Girls",
+      "away_team": "Keyworth United F.C. U16 Emeralds",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "U16 Div 3 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U16 Girls",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U16 Emeralds",
+      "goals_for": 4,
+      "goals_against": 1
+    },
+    {
       "id": "a55d2c470b455874f0f4aa011cbfd26b",
       "date": "2025-10-11",
       "time": "15:00",
@@ -4396,6 +4865,23 @@
       "goals_against": 6
     },
     {
+      "id": "6a87d94204bb89446baaf25e5af54b0f",
+      "date": "2025-10-05",
+      "time": "12:00",
+      "home_team": "Priory Celtic F.C. U13 Girls",
+      "away_team": "Clifton All Whites U13",
+      "home_score": 3,
+      "away_score": 8,
+      "venue": "U13 Div 1 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U13",
+      "home_away": "away",
+      "opponent": "Priory Celtic F.C. U13 Girls",
+      "goals_for": 8,
+      "goals_against": 3
+    },
+    {
       "id": "4554bf7ec2f8df7c7ba01e35767ae39c",
       "date": "2025-10-05",
       "time": "11:00",
@@ -4445,6 +4931,23 @@
       "opponent": "Dunkirk U12",
       "goals_for": 2,
       "goals_against": 7
+    },
+    {
+      "id": "17da9b0a75b406f42c4cf266f3becb69",
+      "date": "2025-10-05",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U16 Girls",
+      "away_team": "Pelican Colts F.C. Youth U16 girls",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "U16 Div 3",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U16 Girls",
+      "home_away": "home",
+      "opponent": "Pelican Colts F.C. Youth U16 girls",
+      "goals_for": 5,
+      "goals_against": 2
     },
     {
       "id": "542a5973e7f728252ef886ddee4b3638",
@@ -4547,6 +5050,40 @@
       "opponent": "Mansfield Town Grassroots Blue U12",
       "goals_for": 1,
       "goals_against": 1
+    },
+    {
+      "id": "d401cab41d20a6b4a8c50048e360b805",
+      "date": "2025-09-28",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U13",
+      "away_team": "Radcliffe Olympic FC U13 Ravens",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "U13 Div 1 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U13",
+      "home_away": "home",
+      "opponent": "Radcliffe Olympic FC U13 Ravens",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
+      "id": "1f441a66cd66dd0da8b853df6d8db415",
+      "date": "2025-09-28",
+      "time": "10:00",
+      "home_team": "Heanor Town Juniors U16 Tornados",
+      "away_team": "Clifton All Whites U16 Girls",
+      "home_score": 7,
+      "away_score": 0,
+      "venue": "U16 Div 3",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U16 Girls",
+      "home_away": "away",
+      "opponent": "Heanor Town Juniors U16 Tornados",
+      "goals_for": 0,
+      "goals_against": 7
     },
     {
       "id": "5eba949f28f088431c122e62769dd306",
@@ -4804,6 +5341,40 @@
       "goals_against": 1
     },
     {
+      "id": "b1c746608104f8b22043bee041a47e99",
+      "date": "2025-09-21",
+      "time": "10:00",
+      "home_team": "Shardlow St. James U13 Jets Girls",
+      "away_team": "Clifton All Whites U13",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "U13 Div 1 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U13",
+      "home_away": "away",
+      "opponent": "Shardlow St. James U13 Jets Girls",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
+      "id": "21c7b56581aebbe87c21453e6d51d180",
+      "date": "2025-09-21",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U16 Girls",
+      "away_team": "Keyworth United F.C. U16 Emeralds",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "U16 Div 3",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U16 Girls",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U16 Emeralds",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
       "id": "525548830ce4f3b64a533c4486d84e75",
       "date": "2025-09-20",
       "time": "11:15",
@@ -4989,6 +5560,23 @@
       "opponent": "Basford CFC Iconz U9",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "6909f0972cbbc1f36cef6030e5d1f24c",
+      "date": "2025-09-14",
+      "time": "12:00",
+      "home_team": "Beeston F.C. U16 Girls",
+      "away_team": "Clifton All Whites U16 Girls",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "U16 Div 3",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U16 Girls",
+      "home_away": "away",
+      "opponent": "Beeston F.C. U16 Girls",
+      "goals_for": 4,
+      "goals_against": 2
     },
     {
       "id": "9637633dbb0a80ce6ad27084139d0146",
@@ -5229,6 +5817,23 @@
       "goals_against": 1
     },
     {
+      "id": "9861d8add4d980d73110f2af98452cce",
+      "date": "2025-09-07",
+      "time": "11:30",
+      "home_team": "Clifton All Whites U13",
+      "away_team": "Southwell City FC U13 All Whites",
+      "home_score": 5,
+      "away_score": 10,
+      "venue": "U13 Div 1 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U13",
+      "home_away": "home",
+      "opponent": "Southwell City FC U13 All Whites",
+      "goals_for": 5,
+      "goals_against": 10
+    },
+    {
       "id": "2b56ac31e3f726c2f7c484528487e6e0",
       "date": "2025-09-07",
       "time": "11:00",
@@ -5261,6 +5866,23 @@
       "opponent": "Riverside Junior Blue U14",
       "goals_for": 1,
       "goals_against": 9
+    },
+    {
+      "id": "77cd89626588727383998ffeb80c9936",
+      "date": "2025-09-07",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U16 Girls",
+      "away_team": "Woodlands Women U16 Greensocks",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "U16 Div 3",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U16 Girls",
+      "home_away": "home",
+      "opponent": "Woodlands Women U16 Greensocks",
+      "goals_for": 4,
+      "goals_against": 0
     },
     {
       "id": "78e4f2641be700039731aa2bd0bc0f35",

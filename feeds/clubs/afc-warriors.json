@@ -1,6 +1,6 @@
 {
   "club": "AFC Warriors",
-  "generated": "2026-03-25T12:50:50Z",
+  "generated": "2026-03-25T13:55:34Z",
   "fixtures": [
     {
       "id": "af90e498dbe2544d2a2195c0a161b51e",
@@ -53,6 +53,19 @@
       "team": "AFC Warriors Spartans U13",
       "home_away": "home",
       "opponent": "Sports Gateway Lions U13"
+    },
+    {
+      "id": "78bf917331e4ec709e8416893e4b224a",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Robin Hood Colts FC Youth U13",
+      "away_team": "AFC Warriors Youth U13",
+      "venue": "SHERWOOD FIELDS (ROBIN HOOD COLTS FC)",
+      "division": "U13 Div 2 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "AFC Warriors Youth U13",
+      "home_away": "away",
+      "opponent": "Robin Hood Colts FC Youth U13"
     },
     {
       "id": "1cb7f5ec11507ae4cda647d438bb538e",
@@ -198,6 +211,19 @@
       "opponent": "Collingham FC Development"
     },
     {
+      "id": "9e18811c709694dcef155335fa39d37b",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Willow Wanderers F.C. Youth U13 Orcas",
+      "away_team": "AFC Warriors Youth U13",
+      "venue": "CARLTON-LE-WILLOWS ACADEMY",
+      "division": "U13 Div 2 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "AFC Warriors Youth U13",
+      "home_away": "away",
+      "opponent": "Willow Wanderers F.C. Youth U13 Orcas"
+    },
+    {
       "id": "e22c04245ceb86013e57fbc0635225fd",
       "date": "2026-04-21",
       "time": "18:00",
@@ -326,9 +352,52 @@
       "team": "AFC Warriors Development",
       "home_away": "away",
       "opponent": "Quorn FC Methodists"
+    },
+    {
+      "id": "97e3cc860f3dd54b5687d6461fba0427",
+      "date": "2026-05-10",
+      "time": "12:15",
+      "home_team": "AFC Warriors Youth U13",
+      "away_team": "Hucknall & Linby Harriers FC U13",
+      "venue": "NEWARK ACADEMY",
+      "division": "U13 Div 2 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "AFC Warriors Youth U13",
+      "home_away": "home",
+      "opponent": "Hucknall & Linby Harriers FC U13"
+    },
+    {
+      "id": "7c550a9432355f924cefdcc20b961189",
+      "date": "2026-05-31",
+      "time": "10:00",
+      "home_team": "Wollaton Hall & Bramcote F.C. Youth U13",
+      "away_team": "AFC Warriors Youth U13",
+      "venue": "THE TRINITY CATHOLIC SCHOOL",
+      "division": "U13 Div 2 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "AFC Warriors Youth U13",
+      "home_away": "away",
+      "opponent": "Wollaton Hall & Bramcote F.C. Youth U13"
     }
   ],
   "results": [
+    {
+      "id": "25a684c388221079bdc0e04e6f6f39e2",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Robin Hood Colts FC Youth U13",
+      "away_team": "AFC Warriors Youth U13",
+      "home_score": 7,
+      "away_score": 3,
+      "venue": "U13 (11v11) Div 2 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "AFC Warriors Youth U13",
+      "home_away": "away",
+      "opponent": "Robin Hood Colts FC Youth U13",
+      "goals_for": 3,
+      "goals_against": 7
+    },
     {
       "id": "6b421c84b3a97a8e2c6085636c7fa5a1",
       "date": "2026-03-21",
@@ -413,6 +482,23 @@
       "opponent": "Calverton MW Blue U11",
       "goals_for": 1,
       "goals_against": 3
+    },
+    {
+      "id": "d7ed4a9df5be48f199b827a67d59f15b",
+      "date": "2026-03-15",
+      "time": "11:00",
+      "home_team": "AFC Warriors Youth U13",
+      "away_team": "Robin Hood Colts FC Youth U13",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "U13 Div 2 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "AFC Warriors Youth U13",
+      "home_away": "home",
+      "opponent": "Robin Hood Colts FC Youth U13",
+      "goals_for": 0,
+      "goals_against": 2
     },
     {
       "id": "1154430b539c26b87516f10f1b1d08ec",
@@ -619,6 +705,23 @@
       "goals_against": 3
     },
     {
+      "id": "c5b3648a1638f9786417bfbc44366c9d",
+      "date": "2026-03-01",
+      "time": "11:00",
+      "home_team": "AFC Warriors Youth U13",
+      "away_team": "Shirebrook Rangers & Juniors U13 Girls",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "U13 (11v11) Div 2 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "AFC Warriors Youth U13",
+      "home_away": "home",
+      "opponent": "Shirebrook Rangers & Juniors U13 Girls",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
       "id": "70135d8d722900c9dda4cd656c822eae",
       "date": "2026-02-28",
       "time": "10:00",
@@ -651,6 +754,23 @@
       "opponent": "Silva FC Carlton Yellow U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "ab09bb541863475f69d58cfdfe63a166",
+      "date": "2026-02-22",
+      "time": "11:30",
+      "home_team": "Sandiacre Town Youth U13 Royals",
+      "away_team": "AFC Warriors Youth U13",
+      "home_score": 4,
+      "away_score": 5,
+      "venue": "U13 Div 2 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "AFC Warriors Youth U13",
+      "home_away": "away",
+      "opponent": "Sandiacre Town Youth U13 Royals",
+      "goals_for": 5,
+      "goals_against": 4
     },
     {
       "id": "239cd609682c394f283f98d2723b3b56",
@@ -923,6 +1043,23 @@
       "opponent": "Radcliffe Olympic Bears U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "66c9407c10013937324ac8756c576ab9",
+      "date": "2026-01-25",
+      "time": "11:30",
+      "home_team": "Shirebrook Rangers & Juniors U13 Girls",
+      "away_team": "AFC Warriors Youth U13",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "U13 (11v11) Div 2 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "AFC Warriors Youth U13",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers & Juniors U13 Girls",
+      "goals_for": 5,
+      "goals_against": 0
     },
     {
       "id": "411335ac04112f39525e57949698fd68",
@@ -1231,6 +1368,23 @@
       "goals_against": 0
     },
     {
+      "id": "b55451ea11276daa4ec52090fde27c0e",
+      "date": "2025-12-07",
+      "time": "10:00",
+      "home_team": "Wollaton Hall & Bramcote F.C. Youth U13",
+      "away_team": "AFC Warriors Youth U13",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "U13 (11v11) Div 2 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "AFC Warriors Youth U13",
+      "home_away": "away",
+      "opponent": "Wollaton Hall & Bramcote F.C. Youth U13",
+      "goals_for": 1,
+      "goals_against": 5
+    },
+    {
       "id": "5952718ebdab37d75716ffec7b9738d7",
       "date": "2025-12-06",
       "time": "11:30",
@@ -1297,6 +1451,23 @@
       "opponent": "Spirit Celtic White U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "b97e71ef73b7930f70a6944a809727f3",
+      "date": "2025-11-30",
+      "time": "11:00",
+      "home_team": "AFC Warriors Youth U13",
+      "away_team": "Shirebrook Rangers & Juniors U13 Girls",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "U13 Div 2 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "AFC Warriors Youth U13",
+      "home_away": "home",
+      "opponent": "Shirebrook Rangers & Juniors U13 Girls",
+      "goals_for": 2,
+      "goals_against": 0
     },
     {
       "id": "cc427eb279e8cd8eabd71ba7a54906e0",
@@ -1382,6 +1553,23 @@
       "opponent": "Collingham FC Cougars U11",
       "goals_for": 7,
       "goals_against": 2
+    },
+    {
+      "id": "b99492e88af187a0600ecea90a8c7f6a",
+      "date": "2025-11-23",
+      "time": "11:00",
+      "home_team": "AFC Warriors Youth U13",
+      "away_team": "Arnold Town FC U13 Girls",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "U13 (11v11) Div 2 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "AFC Warriors Youth U13",
+      "home_away": "home",
+      "opponent": "Arnold Town FC U13 Girls",
+      "goals_for": 2,
+      "goals_against": 1
     },
     {
       "id": "44c74702e24bfd94f7538eb4d6ecd921",
@@ -1588,6 +1776,23 @@
       "goals_against": 2
     },
     {
+      "id": "d13d9b610c9bb781e8e6c414b095a69a",
+      "date": "2025-11-02",
+      "time": "11:00",
+      "home_team": "AFC Warriors Youth U13",
+      "away_team": "Wollaton Hall & Bramcote F.C. Youth U13",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "U13 Div 2 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "AFC Warriors Youth U13",
+      "home_away": "home",
+      "opponent": "Wollaton Hall & Bramcote F.C. Youth U13",
+      "goals_for": 2,
+      "goals_against": 4
+    },
+    {
       "id": "76c4260b9ebf4582875efe8472fe76a9",
       "date": "2025-11-01",
       "time": "14:00",
@@ -1690,6 +1895,23 @@
       "goals_against": null
     },
     {
+      "id": "dabd186efc30dfb88a2c27bf7869d622",
+      "date": "2025-10-12",
+      "time": "11:00",
+      "home_team": "AFC Warriors Youth U13",
+      "away_team": "Arnold Eagles F.C. Girls U13 Raptors",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "U13 (11v11) Div 2 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "AFC Warriors Youth U13",
+      "home_away": "home",
+      "opponent": "Arnold Eagles F.C. Girls U13 Raptors",
+      "goals_for": 3,
+      "goals_against": 3
+    },
+    {
       "id": "bf4322db4a459e10b625bc44113caf20",
       "date": "2025-10-11",
       "time": "11:00",
@@ -1775,6 +1997,23 @@
       "goals_against": 5
     },
     {
+      "id": "511b677fbe8b1e39a650999e7129daba",
+      "date": "2025-10-05",
+      "time": "11:00",
+      "home_team": "AFC Warriors Youth U13",
+      "away_team": "Willow Wanderers F.C. Youth U13 Orcas",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "U13 Div 2 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "AFC Warriors Youth U13",
+      "home_away": "home",
+      "opponent": "Willow Wanderers F.C. Youth U13 Orcas",
+      "goals_for": 3,
+      "goals_against": 4
+    },
+    {
       "id": "5d2e7772b7f5c86c32c301dec3493d06",
       "date": "2025-10-04",
       "time": "11:15",
@@ -1841,6 +2080,23 @@
       "opponent": "Bottesford Blue U11",
       "goals_for": 5,
       "goals_against": 0
+    },
+    {
+      "id": "bbf497e4a0eb9fb61b9ccd97b9d81ab5",
+      "date": "2025-09-28",
+      "time": "11:00",
+      "home_team": "Arnold Town FC U13 Girls",
+      "away_team": "AFC Warriors Youth U13",
+      "home_score": 5,
+      "away_score": 4,
+      "venue": "U13 Div 2 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "AFC Warriors Youth U13",
+      "home_away": "away",
+      "opponent": "Arnold Town FC U13 Girls",
+      "goals_for": 4,
+      "goals_against": 5
     },
     {
       "id": "7b00dbf1423179c2a8006ba98d2831b4",
@@ -2047,6 +2303,23 @@
       "goals_against": 2
     },
     {
+      "id": "13dcc404338b0d3dc5beb5200a36b27d",
+      "date": "2025-09-14",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers & Juniors U13 Girls",
+      "away_team": "AFC Warriors Youth U13",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "U13 Div 2 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "AFC Warriors Youth U13",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers & Juniors U13 Girls",
+      "goals_for": 4,
+      "goals_against": 0
+    },
+    {
       "id": "f07a4009fc9c2ed6c8974800b094992d",
       "date": "2025-09-13",
       "time": "12:00",
@@ -2130,6 +2403,23 @@
       "opponent": "Edwalton Cavaliers Blue U9",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "86d2683cd250e314b445e93884035c34",
+      "date": "2025-09-07",
+      "time": "11:00",
+      "home_team": "AFC Warriors Youth U13",
+      "away_team": "Sandiacre Town Youth U13 Royals",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "U13 Div 2 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "AFC Warriors Youth U13",
+      "home_away": "home",
+      "opponent": "Sandiacre Town Youth U13 Royals",
+      "goals_for": 5,
+      "goals_against": 0
     },
     {
       "id": "ec82e1fc557fee6fa87f1c697b8bac97",

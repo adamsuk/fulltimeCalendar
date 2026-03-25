@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:West Bridgford Colts U18 Rangers Girls
+X-WR-CALDESC:Fixtures for West Bridgford Colts U18 Rangers Girls — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:d21c143fea7e316524c479f974abf349@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T113000
+SUMMARY:⚽ West Bridgford Colts U18 Rangers Girls vs Belper Town Juniors U18 Girls (Away)
+DESCRIPTION:Division: U18 Div 1 Phase 2\nBelper Town Juniors U18 Girls v West Bridgford Colts U18 Rangers Girls\nKO: 10:00
+LOCATION:THORNTONS PLAYING FIELDS
+END:VEVENT
+BEGIN:VEVENT
+UID:e615578c2ac7615a7908127b8a2403af@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ West Bridgford Colts U18 Rangers Girls vs Pilsley Community U17 Ladies (Home)
+DESCRIPTION:Division: U18 Div 1 Phase 2\nWest Bridgford Colts U18 Rangers Girls v Pilsley Community U17 Ladies\nKO: 10:00
+LOCATION:GRESHAM SPORTS PARK
+END:VEVENT
+BEGIN:VEVENT
+UID:a80483c8eece0a238e0b424cc9acf92b@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260517T100000
+DTEND;TZID=Europe/London:20260517T113000
+SUMMARY:⚽ West Bridgford Colts U18 Rangers Girls vs Long Bennington FC U18 Girls (Home)
+DESCRIPTION:Division: U18 Div 1 Phase 2\nWest Bridgford Colts U18 Rangers Girls v Long Bennington FC U18 Girls\nKO: 10:00
+LOCATION:GRESHAM SPORTS PARK
+END:VEVENT
+END:VCALENDAR

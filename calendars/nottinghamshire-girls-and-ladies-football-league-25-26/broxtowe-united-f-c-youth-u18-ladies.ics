@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Broxtowe United F.C. Youth U18 Ladies
+X-WR-CALDESC:Fixtures for Broxtowe United F.C. Youth U18 Ladies — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:4ef21cc17bb779aaac945e4c4de8fce7@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260412T103000
+DTEND;TZID=Europe/London:20260412T113000
+SUMMARY:⚽ Broxtowe United F.C. Youth U18 Ladies vs Gedling Southbank FC U17 Red Devils (Home)
+DESCRIPTION:Division: U18 Div 2 Phase 2\nBroxtowe United F.C. Youth U18 Ladies v Gedling Southbank FC U17 Red Devils\nKO: 10:30
+LOCATION:WEIRFIELDS RECREATION GROUND
+END:VEVENT
+BEGIN:VEVENT
+UID:a7e62a150bcc9174fb33ef64da683dfc@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Broxtowe United F.C. Youth U18 Ladies vs Chesterfield Town U17 Girls (Away)
+DESCRIPTION:Division: U18 Div 2 Phase 2\nChesterfield Town U17 Girls v Broxtowe United F.C. Youth U18 Ladies\nKO: 10:00
+LOCATION:HIGHFIELD PARK
+END:VEVENT
+BEGIN:VEVENT
+UID:a2b80a808c9ce3bba101e60fd4c235ab@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260419T120000
+DTEND;TZID=Europe/London:20260419T133000
+SUMMARY:⚽ Broxtowe United F.C. Youth U18 Ladies vs Southwell City FC U18 Girls (Away)
+DESCRIPTION:Division: U18 Div 2 Phase 2\nSouthwell City FC U18 Girls v Broxtowe United F.C. Youth U18 Ladies\nKO: 12:00
+LOCATION:CENTENARY SPORTS GROUND
+END:VEVENT
+BEGIN:VEVENT
+UID:d1e124ee5eac5c4f3d14df6eea7cd08e@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260426T103000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Broxtowe United F.C. Youth U18 Ladies vs Shirebrook Rangers & Juniors U18 Girls (Home)
+DESCRIPTION:Division: U18 Div 2 Phase 2\nBroxtowe United F.C. Youth U18 Ladies v Shirebrook Rangers & Juniors U18 Girls\nKO: 10:30
+LOCATION:WEIRFIELDS RECREATION GROUND
+END:VEVENT
+END:VCALENDAR

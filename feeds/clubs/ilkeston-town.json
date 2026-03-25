@@ -1,6 +1,6 @@
 {
   "club": "Ilkeston Town",
-  "generated": "2026-03-25T12:50:50Z",
+  "generated": "2026-03-25T13:55:34Z",
   "fixtures": [
     {
       "id": "78bc4a46ec5d4c7845fdf99d19938a8c",
@@ -235,6 +235,19 @@
       "team": "Ilkeston Town Zurich U8",
       "home_away": "home",
       "opponent": "DLFC Black U8"
+    },
+    {
+      "id": "940c4d131eb576b39f70d6cc694b3823",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Juniors U15 Robins",
+      "away_team": "Gainsborough Trinity Community FC U15",
+      "venue": "ILKESTON TOWN FOOTBALL CLUB",
+      "division": "U15 Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ilkeston Town Juniors U15 Robins",
+      "home_away": "home",
+      "opponent": "Gainsborough Trinity Community FC U15"
     },
     {
       "id": "0f8a9838aad21cfed38642ebe56e32d3",
@@ -625,9 +638,39 @@
       "team": "Ilkeston Town White Star U14",
       "home_away": "home",
       "opponent": "Meden Vale Colts Red U14"
+    },
+    {
+      "id": "551b198f2ac879ddbaa7ba3eb714f7e8",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Matlock Town Juniors U15 Girls",
+      "away_team": "Ilkeston Town Juniors U15 Robins",
+      "venue": "CAVENDISH FIELDS SPORTS ASSOCIATION",
+      "division": "U15 Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ilkeston Town Juniors U15 Robins",
+      "home_away": "away",
+      "opponent": "Matlock Town Juniors U15 Girls"
     }
   ],
   "results": [
+    {
+      "id": "42bff8cda083186a95236135347703ac",
+      "date": "2026-03-22",
+      "time": "13:00",
+      "home_team": "Ilkeston Town Juniors U15 Robins",
+      "away_team": "Notts County F.C. Girls U14",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "U15 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ilkeston Town Juniors U15 Robins",
+      "home_away": "home",
+      "opponent": "Notts County F.C. Girls U14",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "f9e1e874b8e1c2b4ad153c27529b0cd7",
       "date": "2026-03-22",
@@ -1292,6 +1335,23 @@
       "goals_against": null
     },
     {
+      "id": "8403d4e8364509e8dc30825f4c497c38",
+      "date": "2026-03-08",
+      "time": "15:00",
+      "home_team": "Ilkeston Town Juniors U15 Robins",
+      "away_team": "Outwoods U15 Falcons",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "U15 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ilkeston Town Juniors U15 Robins",
+      "home_away": "home",
+      "opponent": "Outwoods U15 Falcons",
+      "goals_for": 0,
+      "goals_against": 5
+    },
+    {
       "id": "f277e1d471f869c111c27481310a3a1c",
       "date": "2026-03-08",
       "time": "11:40",
@@ -1666,6 +1726,23 @@
       "goals_against": null
     },
     {
+      "id": "dab028846cca8349daa876ba06c95975",
+      "date": "2026-03-01",
+      "time": "10:30",
+      "home_team": "Ilkeston Town Juniors U15 Robins",
+      "away_team": "Matlock Town Juniors U15 Girls",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "U15 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ilkeston Town Juniors U15 Robins",
+      "home_away": "home",
+      "opponent": "Matlock Town Juniors U15 Girls",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
       "id": "3b390fe9fdb79cb5698012b528dbf9df",
       "date": "2026-03-01",
       "time": "10:00",
@@ -1902,6 +1979,23 @@
       "opponent": "Cotgrave FC U8 Girls ^",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "4c8e9439a78ce303f7aaacd254b35f2b",
+      "date": "2026-02-22",
+      "time": "12:30",
+      "home_team": "Arnold Eagles F.C. Girls U15 Fire",
+      "away_team": "Ilkeston Town Juniors U15 Robins",
+      "home_score": 4,
+      "away_score": 4,
+      "venue": "U15 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ilkeston Town Juniors U15 Robins",
+      "home_away": "away",
+      "opponent": "Arnold Eagles F.C. Girls U15 Fire",
+      "goals_for": 4,
+      "goals_against": 4
     },
     {
       "id": "3316f3113ef3d7dc4ededa22e344afa2",
@@ -2431,6 +2525,23 @@
       "goals_against": 5
     },
     {
+      "id": "709e37e4e316c4ac87c4ccf7bd7d14ee",
+      "date": "2026-02-01",
+      "time": "12:30",
+      "home_team": "Gainsborough Trinity Community FC U15",
+      "away_team": "Ilkeston Town Juniors U15 Robins",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "U15 Div 1 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ilkeston Town Juniors U15 Robins",
+      "home_away": "away",
+      "opponent": "Gainsborough Trinity Community FC U15",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
       "id": "a81c7cb7214e20a5cfb55b8d01a700c4",
       "date": "2026-02-01",
       "time": "11:40",
@@ -2924,6 +3035,23 @@
       "goals_against": 0
     },
     {
+      "id": "f8b36068bb5605676ea0642eb9dd310b",
+      "date": "2026-01-25",
+      "time": "10:00",
+      "home_team": "Gainsborough Trinity Community FC U15",
+      "away_team": "Ilkeston Town Juniors U15 Robins",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "U15 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ilkeston Town Juniors U15 Robins",
+      "home_away": "away",
+      "opponent": "Gainsborough Trinity Community FC U15",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
       "id": "e1a04fa98f86157b15f21a5a7ae80290",
       "date": "2026-01-25",
       "time": "09:00",
@@ -3126,6 +3254,23 @@
       "opponent": "Keyworth United Red U13",
       "goals_for": 5,
       "goals_against": 1
+    },
+    {
+      "id": "83115e3c25711f245db4e851d5af9b8e",
+      "date": "2026-01-18",
+      "time": "11:30",
+      "home_team": "Ilkeston Town Juniors U15 Robins",
+      "away_team": "West Bridgford Colts U15 Lionesses",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "U15 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ilkeston Town Juniors U15 Robins",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U15 Lionesses",
+      "goals_for": 4,
+      "goals_against": 3
     },
     {
       "id": "161a4a925f2b88cd475a3d90d05e68f5",
@@ -3434,6 +3579,23 @@
       "goals_against": 1
     },
     {
+      "id": "2bc4d4d0a3dcab857ee887c3d66570a2",
+      "date": "2025-12-14",
+      "time": "14:30",
+      "home_team": "Mansfield Town F.C. Girls U15",
+      "away_team": "Ilkeston Town Juniors U15 Robins",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "U15 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ilkeston Town Juniors U15 Robins",
+      "home_away": "away",
+      "opponent": "Mansfield Town F.C. Girls U15",
+      "goals_for": 3,
+      "goals_against": 0
+    },
+    {
       "id": "f30aecf32d232b6dc9bc93e5571984d1",
       "date": "2025-12-14",
       "time": "12:30",
@@ -3737,6 +3899,23 @@
       "home_away": "away",
       "opponent": "Castle Donington Tigers U12",
       "goals_for": 9,
+      "goals_against": 2
+    },
+    {
+      "id": "5c842529fa16f26e67663fd1838a2785",
+      "date": "2025-12-07",
+      "time": "10:15",
+      "home_team": "West Bridgford Colts U15 Lionesses",
+      "away_team": "Ilkeston Town Juniors U15 Robins",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "U15 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ilkeston Town Juniors U15 Robins",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U15 Lionesses",
+      "goals_for": 3,
       "goals_against": 2
     },
     {
@@ -4335,6 +4514,23 @@
       "goals_against": 7
     },
     {
+      "id": "764ed8739f52cd65da01f17c77c9de49",
+      "date": "2025-11-16",
+      "time": "10:30",
+      "home_team": "Ilkeston Town Juniors U15 Robins",
+      "away_team": "Arnold Eagles F.C. Girls U15 Fire",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "U15 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ilkeston Town Juniors U15 Robins",
+      "home_away": "home",
+      "opponent": "Arnold Eagles F.C. Girls U15 Fire",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
       "id": "d9753ded7f3e92a185ac461adbeb4327",
       "date": "2025-11-16",
       "time": "10:00",
@@ -4556,6 +4752,23 @@
       "goals_against": 10
     },
     {
+      "id": "6b0418ad24e291ec8b8357a4ec3150ec",
+      "date": "2025-11-09",
+      "time": "10:30",
+      "home_team": "Ilkeston Town Juniors U15 Robins",
+      "away_team": "Mansfield Town F.C. Girls U15",
+      "home_score": 7,
+      "away_score": 0,
+      "venue": "U15 Div 1 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ilkeston Town Juniors U15 Robins",
+      "home_away": "home",
+      "opponent": "Mansfield Town F.C. Girls U15",
+      "goals_for": 7,
+      "goals_against": 0
+    },
+    {
       "id": "a7e7c14b35521fd10a0cfb3a63d58d31",
       "date": "2025-11-09",
       "time": "10:00",
@@ -4775,6 +4988,23 @@
       "opponent": "Toton Tornados Lightening U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "b6ba4e6dad217fbad44f1ffe9911fab5",
+      "date": "2025-11-02",
+      "time": "12:30",
+      "home_team": "Newark Town FC U15 Girls",
+      "away_team": "Ilkeston Town Juniors U15 Robins",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "U15 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ilkeston Town Juniors U15 Robins",
+      "home_away": "away",
+      "opponent": "Newark Town FC U15 Girls",
+      "goals_for": 2,
+      "goals_against": 2
     },
     {
       "id": "c0fbfd6e781ae36d36f950900c42134e",
@@ -5132,6 +5362,23 @@
       "opponent": "Willington FC United SN U11",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "90d9ca5c417a5f5277896996bae2f6d9",
+      "date": "2025-10-12",
+      "time": "12:15",
+      "home_team": "Gainsborough Trinity Community FC U15",
+      "away_team": "Ilkeston Town Juniors U15 Robins",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "U15 Div 1 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ilkeston Town Juniors U15 Robins",
+      "home_away": "away",
+      "opponent": "Gainsborough Trinity Community FC U15",
+      "goals_for": 0,
+      "goals_against": 3
     },
     {
       "id": "dc36c7bf1e32401e1f73627cbc353fe0",
@@ -5746,6 +5993,23 @@
       "goals_against": null
     },
     {
+      "id": "a4d9203dfdced83b2cfcc07d198732ce",
+      "date": "2025-10-05",
+      "time": "10:00",
+      "home_team": "Outwoods U15 Falcons",
+      "away_team": "Ilkeston Town Juniors U15 Robins",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "U15 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ilkeston Town Juniors U15 Robins",
+      "home_away": "away",
+      "opponent": "Outwoods U15 Falcons",
+      "goals_for": 0,
+      "goals_against": 3
+    },
+    {
       "id": "baeb53bca20710e0c344716f97f207c3",
       "date": "2025-10-04",
       "time": "11:40",
@@ -6050,6 +6314,23 @@
       "opponent": "Basford CFC Gold U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "01246a72e7df149cc0626ba9630eebf2",
+      "date": "2025-09-28",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Juniors U15 Robins",
+      "away_team": "Newark Town FC U15 Girls",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "U15 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ilkeston Town Juniors U15 Robins",
+      "home_away": "home",
+      "opponent": "Newark Town FC U15 Girls",
+      "goals_for": 2,
+      "goals_against": 4
     },
     {
       "id": "b69080cbdc1358d8679284d411631836",
@@ -6407,6 +6688,23 @@
       "opponent": "Silva FC Carlton Green U9",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "48cd6ecc80dcb9cc76e13ebfb517231e",
+      "date": "2025-09-21",
+      "time": "10:00",
+      "home_team": "Notts County F.C. Girls U14",
+      "away_team": "Ilkeston Town Juniors U15 Robins",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "U15 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ilkeston Town Juniors U15 Robins",
+      "home_away": "away",
+      "opponent": "Notts County F.C. Girls U14",
+      "goals_for": 3,
+      "goals_against": 2
     },
     {
       "id": "a1bcba1b3b3e2dcfced7fecfff37a946",
@@ -6815,6 +7113,23 @@
       "opponent": "Attenborough Colts Yellow U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "c94b6ac2fb41b42d59884345310b63b3",
+      "date": "2025-09-14",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Juniors U15 Robins",
+      "away_team": "Mansfield Town F.C. Girls U15",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "U15 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ilkeston Town Juniors U15 Robins",
+      "home_away": "home",
+      "opponent": "Mansfield Town F.C. Girls U15",
+      "goals_for": 4,
+      "goals_against": 1
     },
     {
       "id": "a28f8211007b5c5185524541d5440dc2",

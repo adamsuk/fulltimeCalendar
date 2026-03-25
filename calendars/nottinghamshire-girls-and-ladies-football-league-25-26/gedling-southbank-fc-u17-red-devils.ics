@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gedling Southbank FC U17 Red Devils
+X-WR-CALDESC:Fixtures for Gedling Southbank FC U17 Red Devils — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:7fe99f08f2b4f4d2a78c5f6bb618d20d@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Gedling Southbank FC U17 Red Devils vs Meden Vale Colts F.C. U18 Ladies (Home)
+DESCRIPTION:Division: U18 Div 2 Phase 2\nGedling Southbank FC U17 Red Devils v Meden Vale Colts F.C. U18 Ladies\nKO: 10:00
+LOCATION:THE TREVOR CARTER PAVILION
+END:VEVENT
+BEGIN:VEVENT
+UID:4ef21cc17bb779aaac945e4c4de8fce7@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260412T103000
+DTEND;TZID=Europe/London:20260412T113000
+SUMMARY:⚽ Gedling Southbank FC U17 Red Devils vs Broxtowe United F.C. Youth U18 Ladies (Away)
+DESCRIPTION:Division: U18 Div 2 Phase 2\nBroxtowe United F.C. Youth U18 Ladies v Gedling Southbank FC U17 Red Devils\nKO: 10:30
+LOCATION:WEIRFIELDS RECREATION GROUND
+END:VEVENT
+BEGIN:VEVENT
+UID:abe75ab3b23877ef9c4420c4fe306972@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260510T124500
+DTEND;TZID=Europe/London:20260510T133000
+SUMMARY:⚽ Gedling Southbank FC U17 Red Devils vs Chesterfield Town U17 Girls (Home)
+DESCRIPTION:Division: U18 Div 2 Phase 2\nGedling Southbank FC U17 Red Devils v Chesterfield Town U17 Girls\nKO: 12:45
+LOCATION:THE TREVOR CARTER PAVILION
+END:VEVENT
+END:VCALENDAR

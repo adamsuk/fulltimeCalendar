@@ -1,6 +1,6 @@
 {
   "club": "Edwalton Cavaliers",
-  "generated": "2026-03-25T12:50:50Z",
+  "generated": "2026-03-25T13:55:34Z",
   "fixtures": [
     {
       "id": "de62a172d3a907454cb24cec42166ca8",
@@ -105,6 +105,19 @@
       "team": "Edwalton Cavaliers White U14",
       "home_away": "away",
       "opponent": "Riverside FC Tides U14"
+    },
+    {
+      "id": "3165d6a288a1cffd1f75ccb6b3d974ed",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "away_team": "Stapleford Town FC U11 Girls Jaguars",
+      "venue": "RUSHCLIFFE SPENCER ACADEMY",
+      "division": "U11 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "home_away": "home",
+      "opponent": "Stapleford Town FC U11 Girls Jaguars"
     },
     {
       "id": "abb45ac3e19ba25b1bc3934271b5ddea",
@@ -329,6 +342,23 @@
     }
   ],
   "results": [
+    {
+      "id": "9e4073c33ba0566981059aadbc6820cf",
+      "date": "2026-03-22",
+      "time": "10:30",
+      "home_team": "Bottesford U11 Girls",
+      "away_team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U11 Development",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "home_away": "away",
+      "opponent": "Bottesford U11 Girls",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "5f9aa1a07a5110b5430b9b80b2642a9d",
       "date": "2026-03-21",
@@ -636,6 +666,23 @@
       "goals_against": 5
     },
     {
+      "id": "c90a4072feb53abaca3b9dea6ef34d2f",
+      "date": "2026-03-08",
+      "time": "10:00",
+      "home_team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "away_team": "Matlock Town Juniors U11 Girls",
+      "home_score": 3,
+      "away_score": 5,
+      "venue": "U11 CUP 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "home_away": "home",
+      "opponent": "Matlock Town Juniors U11 Girls",
+      "goals_for": 3,
+      "goals_against": 5
+    },
+    {
       "id": "7b3e5495f64e45887408051490676e71",
       "date": "2026-03-07",
       "time": "11:15",
@@ -857,6 +904,23 @@
       "goals_against": 7
     },
     {
+      "id": "b70e37147d685754f7543d1ea9dd80b1",
+      "date": "2026-02-22",
+      "time": "10:00",
+      "home_team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "away_team": "Sherwood Colliery F.C. Ladies U11",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "U11 CUP 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery F.C. Ladies U11",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
       "id": "de7a80d08b858bff05ca5e726a31d602",
       "date": "2026-02-21",
       "time": "10:00",
@@ -904,6 +968,23 @@
       "team": "Edwalton Cavaliers White U9",
       "home_away": "away",
       "opponent": "Bottesford Blue U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "0211980f773fc40d42cdc4d87076ac93",
+      "date": "2026-02-15",
+      "time": "10:00",
+      "home_team": "Arnold Eagles F.C. Girls U11 Rangers",
+      "away_team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U11 Development",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "home_away": "away",
+      "opponent": "Arnold Eagles F.C. Girls U11 Rangers",
       "goals_for": null,
       "goals_against": null
     },
@@ -957,6 +1038,23 @@
       "opponent": "Clifton All Whites Yellow U12",
       "goals_for": 1,
       "goals_against": 5
+    },
+    {
+      "id": "d325a5545e65eb0bbe4e173357b6868b",
+      "date": "2026-02-08",
+      "time": "09:30",
+      "home_team": "Stapleford Town FC U11 Girls Jaguars",
+      "away_team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U11 Development",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "home_away": "away",
+      "opponent": "Stapleford Town FC U11 Girls Jaguars",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "ccf80e6958f319ab098c0deac587da9b",
@@ -1244,6 +1342,23 @@
       "team": "Edwalton Cavaliers Blue U9",
       "home_away": "home",
       "opponent": "Lowdham FC Stripes U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "e77c4a28ad56f05f61c0a0cb396d6823",
+      "date": "2026-01-18",
+      "time": "10:00",
+      "home_team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "away_team": "Bingham Town F.C. U11 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U11 Development",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "home_away": "home",
+      "opponent": "Bingham Town F.C. U11 Girls",
       "goals_for": null,
       "goals_against": null
     },
@@ -1911,6 +2026,23 @@
       "goals_against": 4
     },
     {
+      "id": "80a7808eace8b75d18fd219e1f9d65bb",
+      "date": "2025-11-16",
+      "time": "10:00",
+      "home_team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "away_team": "Bottesford U11 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U11 Development Red",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "home_away": "home",
+      "opponent": "Bottesford U11 Girls",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "e8da2de16ced61f19fc524011d04266c",
       "date": "2025-11-15",
       "time": "14:30",
@@ -1977,6 +2109,23 @@
       "opponent": "Gedling Southbank Warriors U10",
       "goals_for": 4,
       "goals_against": 4
+    },
+    {
+      "id": "052f48c3496c6b160b9d9a82030b9845",
+      "date": "2025-11-09",
+      "time": "10:00",
+      "home_team": "Keyworth United F.C. U11 Tigers",
+      "away_team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U11 Development Red",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U11 Tigers",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "ad50e4aa6391d62cc3b65f2f28cdc54c",
@@ -2353,6 +2502,23 @@
       "goals_against": 4
     },
     {
+      "id": "0142d543b23df524fb2d66746c57d8f7",
+      "date": "2025-10-05",
+      "time": "10:00",
+      "home_team": "WH&BFC Wildhearts",
+      "away_team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U11 Development Red",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "home_away": "away",
+      "opponent": "WH&BFC Wildhearts",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "036b2aa309d851fb9077b8e49e568b4f",
       "date": "2025-10-04",
       "time": "11:30",
@@ -2487,6 +2653,23 @@
       "opponent": "Gonerby Yellow U9",
       "goals_for": 3,
       "goals_against": 3
+    },
+    {
+      "id": "db986fc414a28fd1f418150038aed085",
+      "date": "2025-09-28",
+      "time": "10:00",
+      "home_team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "away_team": "Hasland Community U11 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U11 Development Red",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "home_away": "home",
+      "opponent": "Hasland Community U11 Girls",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "4db66a662e8b4481dff49e8f3004307c",
@@ -2659,6 +2842,23 @@
       "goals_against": 4
     },
     {
+      "id": "d231fcc2ca71052d34e67ecceeb42ec5",
+      "date": "2025-09-21",
+      "time": "10:00",
+      "home_team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "away_team": "Cotgrave FC U11 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U11 Development Red",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "home_away": "home",
+      "opponent": "Cotgrave FC U11 Girls",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "9b309d9d410c2e63e79b56f5ea1c822e",
       "date": "2025-09-20",
       "time": "11:30",
@@ -2810,6 +3010,23 @@
       "opponent": "WBYFC Rossoneri U11",
       "goals_for": 1,
       "goals_against": 4
+    },
+    {
+      "id": "c05299c8ee733bdacc8543df5225b893",
+      "date": "2025-09-14",
+      "time": "10:00",
+      "home_team": "Keyworth United F.C. U11 Jaguars",
+      "away_team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U11 Development Red",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U11 Jaguars",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "65a51442feb235c81a95d1cba5916d5b",
@@ -2995,6 +3212,23 @@
       "team": "Edwalton Cavaliers Blue U9",
       "home_away": "away",
       "opponent": "AFC Warriors Hunters U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "47874aed47a49de6fd05ed6913856915",
+      "date": "2025-09-07",
+      "time": "09:30",
+      "home_team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "away_team": "Bingham Town F.C. U11 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U11 Development Red",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Edwalton Cavaliers F.C. Girls U11 Blue",
+      "home_away": "home",
+      "opponent": "Bingham Town F.C. U11 Girls",
       "goals_for": null,
       "goals_against": null
     },

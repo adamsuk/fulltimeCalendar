@@ -1,6 +1,6 @@
 {
   "club": "Basford United",
-  "generated": "2026-03-25T12:50:50Z",
+  "generated": "2026-03-25T13:55:34Z",
   "fixtures": [
     {
       "id": "0b2b31a328330ebadc30db695ca1e60b",
@@ -66,6 +66,32 @@
       "team": "Basford United Lions U12",
       "home_away": "away",
       "opponent": "Notts Olympic FC U12"
+    },
+    {
+      "id": "69046bd9f1d6130d94dd5e330d635ad0",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Basford United F.C. U13 Girls",
+      "away_team": "Gedling Southbank FC U13 Rockets",
+      "venue": "MILL STREET RECREATION GROUND",
+      "division": "U13 Div 3 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U13 Girls",
+      "home_away": "home",
+      "opponent": "Gedling Southbank FC U13 Rockets"
+    },
+    {
+      "id": "a3f1c2a25140eb6110b4019ab40cf937",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Bingham Town F.C. U13 Girls Red",
+      "away_team": "Basford United F.C. U13 Girls",
+      "venue": "BUTT FIELD SPORTS CLUB",
+      "division": "U13 Div 3 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U13 Girls",
+      "home_away": "away",
+      "opponent": "Bingham Town F.C. U13 Girls Red"
     },
     {
       "id": "ce2be44d53132fb668964bc49e59f2a1",
@@ -287,6 +313,19 @@
       "team": "Basford United Silva U12",
       "home_away": "away",
       "opponent": "Nottingham FC Blue U12"
+    },
+    {
+      "id": "2086abc63b08e9b0f955b8ba32d33a65",
+      "date": "2026-05-31",
+      "time": "10:00",
+      "home_team": "West Hallam Juniors U13 Diamonds",
+      "away_team": "Basford United F.C. U13 Girls",
+      "venue": "STANLEY COMMON RECREATION GROUND",
+      "division": "U13 Div 3 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U13 Girls",
+      "home_away": "away",
+      "opponent": "West Hallam Juniors U13 Diamonds"
     }
   ],
   "results": [
@@ -580,6 +619,23 @@
       "goals_against": 2
     },
     {
+      "id": "a589bd5fcaf177550566b50abb38b6ea",
+      "date": "2026-03-15",
+      "time": "10:00",
+      "home_team": "Basford United F.C. U13 Girls",
+      "away_team": "Moorgreen Colts F.C. Youth U13",
+      "home_score": 7,
+      "away_score": 1,
+      "venue": "U13 Div 3 9 v 9",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U13 Girls",
+      "home_away": "home",
+      "opponent": "Moorgreen Colts F.C. Youth U13",
+      "goals_for": 7,
+      "goals_against": 1
+    },
+    {
       "id": "3788914c54830965a88d8e2a304c2a44",
       "date": "2026-03-14",
       "time": "12:30",
@@ -680,6 +736,23 @@
       "opponent": "Mapperley All Stars Yellow U13",
       "goals_for": 5,
       "goals_against": 0
+    },
+    {
+      "id": "09225b36658e067553bacd1b4c093c3b",
+      "date": "2026-03-08",
+      "time": "12:30",
+      "home_team": "Meden Vale Colts F.C. U13 Girls",
+      "away_team": "Basford United F.C. U13 Girls",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "U13 Div 3 9 v 9",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U13 Girls",
+      "home_away": "away",
+      "opponent": "Meden Vale Colts F.C. U13 Girls",
+      "goals_for": 1,
+      "goals_against": 2
     },
     {
       "id": "6afa19fe958feb66452e9514d1206d57",
@@ -1005,6 +1078,23 @@
       "goals_against": 0
     },
     {
+      "id": "2dd16a55ece7a0e434a9de68e483dc92",
+      "date": "2026-02-22",
+      "time": "10:00",
+      "home_team": "Basford United F.C. U13 Girls",
+      "away_team": "Ravenshead Reds F.C. Youth U13",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "U13 Div 3 9 v 9",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U13 Girls",
+      "home_away": "home",
+      "opponent": "Ravenshead Reds F.C. Youth U13",
+      "goals_for": 3,
+      "goals_against": 0
+    },
+    {
       "id": "825ac3d3023b957187e3c1b766d9cba1",
       "date": "2026-02-21",
       "time": "11:15",
@@ -1090,6 +1180,23 @@
       "goals_against": 2
     },
     {
+      "id": "161b1fcec4ad3fa5b4c81c77e14eddaa",
+      "date": "2026-02-08",
+      "time": "10:00",
+      "home_team": "Basford United F.C. U13 Girls",
+      "away_team": "West Hallam Juniors U13 Diamonds",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "U13 Div 3 9 v 9",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U13 Girls",
+      "home_away": "home",
+      "opponent": "West Hallam Juniors U13 Diamonds",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
       "id": "d3f0eb376a8a4fac7464ef3f4cd8df95",
       "date": "2026-02-08",
       "time": "09:30",
@@ -1173,6 +1280,23 @@
       "opponent": "Gonerby Yellow U10",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "cdd2d3780bb97d4ede5918285f204d53",
+      "date": "2026-02-01",
+      "time": "10:00",
+      "home_team": "Basford United F.C. U13 Girls",
+      "away_team": "Hilton Harriers U13 Girls",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "U13 (9v9) League Cup 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U13 Girls",
+      "home_away": "home",
+      "opponent": "Hilton Harriers U13 Girls",
+      "goals_for": 1,
+      "goals_against": 6
     },
     {
       "id": "fac781eb4373d48ea4c5887e2bbd45e1",
@@ -1311,6 +1435,23 @@
       "goals_against": 4
     },
     {
+      "id": "5b98d76848e15ff0664e12583d6945a9",
+      "date": "2026-01-25",
+      "time": "10:00",
+      "home_team": "Ravenshead Reds F.C. Youth U13",
+      "away_team": "Basford United F.C. U13 Girls",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "U13 Div 3 9 v 9",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U13 Girls",
+      "home_away": "away",
+      "opponent": "Ravenshead Reds F.C. Youth U13",
+      "goals_for": 5,
+      "goals_against": 2
+    },
+    {
       "id": "805e7f20fec2e6248448b0cabdc0332e",
       "date": "2026-01-24",
       "time": "12:15",
@@ -1411,6 +1552,23 @@
       "opponent": "Keyworth United Warriors U14",
       "goals_for": 0,
       "goals_against": 4
+    },
+    {
+      "id": "4de5280262d2c6436bd039707258e0d9",
+      "date": "2026-01-18",
+      "time": "11:45",
+      "home_team": "Basford United F.C. U13 Girls",
+      "away_team": "Silva FC U13 Rushcliffe Pink",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "U13 Div 3 9 v 9",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U13 Girls",
+      "home_away": "home",
+      "opponent": "Silva FC U13 Rushcliffe Pink",
+      "goals_for": 4,
+      "goals_against": 1
     },
     {
       "id": "e44031ecd93bc1b0ddbf35a9d75a055f",
@@ -1583,6 +1741,23 @@
       "goals_against": 3
     },
     {
+      "id": "0c3a6ca2eeb18b621aa033c115917532",
+      "date": "2026-01-04",
+      "time": "10:00",
+      "home_team": "Basford United F.C. U13 Girls",
+      "away_team": "Riverside Junior U13 Sapphires",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "U13 Div 3 9 v 9",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U13 Girls",
+      "home_away": "home",
+      "opponent": "Riverside Junior U13 Sapphires",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
       "id": "a8b14ab9ed2d1369d42dc76ff6ab9074",
       "date": "2025-12-14",
       "time": "10:45",
@@ -1753,6 +1928,23 @@
       "goals_against": 2
     },
     {
+      "id": "c2cb40d6e6871b58b1689b543007b447",
+      "date": "2025-12-07",
+      "time": "10:00",
+      "home_team": "Basford United F.C. U13 Girls",
+      "away_team": "West Hallam Juniors U13 Diamonds",
+      "home_score": 6,
+      "away_score": 2,
+      "venue": "U13 (9v9) League Cup 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U13 Girls",
+      "home_away": "home",
+      "opponent": "West Hallam Juniors U13 Diamonds",
+      "goals_for": 6,
+      "goals_against": 2
+    },
+    {
       "id": "3155c5c2a03ee3b63a705f68a203c801",
       "date": "2025-12-07",
       "time": "09:30",
@@ -1835,6 +2027,23 @@
       "home_away": "away",
       "opponent": "Hucknall Sports Red U12",
       "goals_for": 3,
+      "goals_against": 1
+    },
+    {
+      "id": "cff141f780447007c8db78ff4b6f54ab",
+      "date": "2025-11-30",
+      "time": "11:30",
+      "home_team": "Arnold Eagles F.C. Girls U13 Harriers",
+      "away_team": "Basford United F.C. U13 Girls",
+      "home_score": 1,
+      "away_score": 8,
+      "venue": "U13 Div 3 9 v 9",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U13 Girls",
+      "home_away": "away",
+      "opponent": "Arnold Eagles F.C. Girls U13 Harriers",
+      "goals_for": 8,
       "goals_against": 1
     },
     {
@@ -2042,6 +2251,23 @@
       "goals_against": 2
     },
     {
+      "id": "72dd3b48f21820776cecef23366cb098",
+      "date": "2025-11-16",
+      "time": "10:30",
+      "home_team": "Basford United F.C. U13 Girls",
+      "away_team": "Meden Vale Colts F.C. U13 Girls",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "U13 Div 3 9 v 9",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U13 Girls",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts F.C. U13 Girls",
+      "goals_for": 0,
+      "goals_against": 3
+    },
+    {
       "id": "40f9d6d4d67dcbca9370231e0b0f4067",
       "date": "2025-11-15",
       "time": "11:45",
@@ -2057,6 +2283,23 @@
       "opponent": "A.C. United F.C. U13",
       "goals_for": 2,
       "goals_against": 2
+    },
+    {
+      "id": "5ebf1f9b1b24bbb6baeaffd371e55c1c",
+      "date": "2025-11-09",
+      "time": "12:00",
+      "home_team": "Moorgreen Colts F.C. Youth U13",
+      "away_team": "Basford United F.C. U13 Girls",
+      "home_score": 3,
+      "away_score": 10,
+      "venue": "U13 (9v9) League Cup 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U13 Girls",
+      "home_away": "away",
+      "opponent": "Moorgreen Colts F.C. Youth U13",
+      "goals_for": 10,
+      "goals_against": 3
     },
     {
       "id": "a71d466962461e2522c0191684f26685",
@@ -2091,6 +2334,23 @@
       "opponent": "Cotgrave FC White U10",
       "goals_for": 1,
       "goals_against": 4
+    },
+    {
+      "id": "c641a5c4ee35bee2f423a3ec40581419",
+      "date": "2025-11-09",
+      "time": "10:30",
+      "home_team": "Basford United F.C. U15 Girls",
+      "away_team": "Gainsborough Trinity Community FC U15",
+      "home_score": 0,
+      "away_score": 8,
+      "venue": "U15 Div 1 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U15 Girls",
+      "home_away": "home",
+      "opponent": "Gainsborough Trinity Community FC U15",
+      "goals_for": 0,
+      "goals_against": 8
     },
     {
       "id": "1fdecc8bcfce117679617ee3c514a794",
@@ -2229,6 +2489,23 @@
       "goals_against": 1
     },
     {
+      "id": "2f89613daf766bc50ec496b858c9d451",
+      "date": "2025-11-02",
+      "time": "10:00",
+      "home_team": "Silva FC U13 Rushcliffe Pink",
+      "away_team": "Basford United F.C. U13 Girls",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "U13 Div 3 9 v 9",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U13 Girls",
+      "home_away": "away",
+      "opponent": "Silva FC U13 Rushcliffe Pink",
+      "goals_for": 5,
+      "goals_against": 1
+    },
+    {
       "id": "209f2b8a9a495c98980ded02de339fd1",
       "date": "2025-11-01",
       "time": "11:00",
@@ -2331,6 +2608,23 @@
       "goals_against": 2
     },
     {
+      "id": "5c81cc74368034e3737940cf58e02257",
+      "date": "2025-10-12",
+      "time": "10:00",
+      "home_team": "Basford United F.C. U13 Girls",
+      "away_team": "Keyworth United F.C. U13 Fireworks",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "U13 (9v9) League Cup 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U13 Girls",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U13 Fireworks",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
       "id": "59b2cb8970b547ebaa62bb550af55f01",
       "date": "2025-10-11",
       "time": "12:00",
@@ -2414,6 +2708,23 @@
       "opponent": "Stapleford Town Saxons U13",
       "goals_for": 3,
       "goals_against": 3
+    },
+    {
+      "id": "982fa82de0cf4d531fa1baff34d7379d",
+      "date": "2025-10-05",
+      "time": "11:30",
+      "home_team": "Riverside Junior U13 Sapphires",
+      "away_team": "Basford United F.C. U13 Girls",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "U13 Div 3 9 v 9",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U13 Girls",
+      "home_away": "away",
+      "opponent": "Riverside Junior U13 Sapphires",
+      "goals_for": 0,
+      "goals_against": 1
     },
     {
       "id": "4554bf7ec2f8df7c7ba01e35767ae39c",
@@ -2518,6 +2829,23 @@
       "goals_against": 2
     },
     {
+      "id": "26bf385acf6e9ba51d1468e96f45a7f6",
+      "date": "2025-09-28",
+      "time": "14:00",
+      "home_team": "Basford United F.C. Ladies First",
+      "away_team": "Eastwood & Kimberley FC",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "Women's County Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. Ladies First",
+      "home_away": "home",
+      "opponent": "Eastwood & Kimberley FC",
+      "goals_for": 4,
+      "goals_against": 1
+    },
+    {
       "id": "fae4f87f31a37bf9d2661f04f90ed84d",
       "date": "2025-09-28",
       "time": "12:15",
@@ -2584,6 +2912,23 @@
       "opponent": "Sporting Markfield U14",
       "goals_for": 1,
       "goals_against": 1
+    },
+    {
+      "id": "ba95948d9bc0acf1e0254d347013b743",
+      "date": "2025-09-28",
+      "time": "10:00",
+      "home_team": "Basford United F.C. U13 Girls",
+      "away_team": "Bingham Town F.C. U13 Girls Red",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "U13 Div 3 9 v 9",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U13 Girls",
+      "home_away": "home",
+      "opponent": "Bingham Town F.C. U13 Girls Red",
+      "goals_for": 2,
+      "goals_against": 4
     },
     {
       "id": "b0ec6d28769920d448bf9befe4817806",
@@ -2703,6 +3048,23 @@
       "opponent": "WBYFC Boca U13",
       "goals_for": 2,
       "goals_against": 2
+    },
+    {
+      "id": "641531b16e7ef8aebf833946d8429132",
+      "date": "2025-09-21",
+      "time": "10:00",
+      "home_team": "Gedling Southbank FC U13 Rockets",
+      "away_team": "Basford United F.C. U13 Girls",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "U13 Div 3 9 v 9",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U13 Girls",
+      "home_away": "away",
+      "opponent": "Gedling Southbank FC U13 Rockets",
+      "goals_for": 2,
+      "goals_against": 3
     },
     {
       "id": "ab1c28de0f66f72afd3cb94228bde949",
@@ -2875,6 +3237,23 @@
       "goals_against": 1
     },
     {
+      "id": "0df905e46c38dc84087bc4e04a7521b9",
+      "date": "2025-09-14",
+      "time": "09:30",
+      "home_team": "Basford United F.C. U13 Girls",
+      "away_team": "Arnold Eagles F.C. Girls U13 Harriers",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "U13 Div 3 9 v 9",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U13 Girls",
+      "home_away": "home",
+      "opponent": "Arnold Eagles F.C. Girls U13 Harriers",
+      "goals_for": 2,
+      "goals_against": 3
+    },
+    {
       "id": "bb11752d08cf5e1f02238263772cf64f",
       "date": "2025-09-13",
       "time": "11:15",
@@ -2992,6 +3371,23 @@
       "opponent": "Newton & Blackwell U12",
       "goals_for": 2,
       "goals_against": 0
+    },
+    {
+      "id": "d597e4406316d3c5a8d3c6689974af63",
+      "date": "2025-09-07",
+      "time": "12:00",
+      "home_team": "Moorgreen Colts F.C. Youth U13",
+      "away_team": "Basford United F.C. U13 Girls",
+      "home_score": 1,
+      "away_score": 13,
+      "venue": "U13 Div 3 9 v 9",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Basford United F.C. U13 Girls",
+      "home_away": "away",
+      "opponent": "Moorgreen Colts F.C. Youth U13",
+      "goals_for": 13,
+      "goals_against": 1
     },
     {
       "id": "aa3f45c352f879a347592c25ca9a8b75",

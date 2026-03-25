@@ -1,6 +1,6 @@
 {
   "club": "Langwith Whitestar",
-  "generated": "2026-03-25T12:50:50Z",
+  "generated": "2026-03-25T13:55:34Z",
   "fixtures": [
     {
       "id": "7cfcbaffede28da14b0b8dc24cec8e9e",
@@ -14,6 +14,32 @@
       "team": "Langwith Whitestar FC",
       "home_away": "away",
       "opponent": "Cotgrave Reserves"
+    },
+    {
+      "id": "02df4fd87bb8e8d436f6d0d1928ac28b",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Woodthorpe Community U12 Warriors",
+      "away_team": "Langwith Whitestar U12 United",
+      "venue": "SOUTHGLADE LEISURE CENTRE",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Langwith Whitestar U12 United",
+      "home_away": "away",
+      "opponent": "Woodthorpe Community U12 Warriors"
+    },
+    {
+      "id": "f679a4686afe9d88e063fa978359e707",
+      "date": "2026-04-12",
+      "time": "10:15",
+      "home_team": "Langwith Whitestar U12 United",
+      "away_team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "venue": "Langwith Whitestar U12 United",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Langwith Whitestar U12 United",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery F.C. Ladies U12 Blue"
     },
     {
       "id": "dcff9f9321c83418c9f9e366d4765c4c",
@@ -30,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "6fa4b27244c5e20fa2695c74ad7940b3",
+      "date": "2026-03-22",
+      "time": "12:00",
+      "home_team": "Keyworth United F.C. U12 Shooting Stars",
+      "away_team": "Langwith Whitestar U12 United",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "U12 Cup 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Langwith Whitestar U12 United",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U12 Shooting Stars",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "674311ab8da804e3dc274c59b5255d0e",
       "date": "2026-03-22",
@@ -65,6 +108,40 @@
       "goals_against": 2
     },
     {
+      "id": "79204fa1d6ae2e44ab72e49b362cc7b4",
+      "date": "2026-03-15",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "away_team": "Langwith Whitestar U12 United",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "U12 Div 2 P2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Langwith Whitestar U12 United",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC U12 Girls Eagles",
+      "goals_for": 6,
+      "goals_against": 1
+    },
+    {
+      "id": "6943b44a91a82b35a92b4aeba08b1a8e",
+      "date": "2026-03-08",
+      "time": "13:00",
+      "home_team": "Arnold Eagles F.C. Girls U12 FC",
+      "away_team": "Langwith Whitestar U12 United",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "U12 Cup 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Langwith Whitestar U12 United",
+      "home_away": "away",
+      "opponent": "Arnold Eagles F.C. Girls U12 FC",
+      "goals_for": 3,
+      "goals_against": 0
+    },
+    {
       "id": "a77f44de2adffb0d5f314ce003464793",
       "date": "2026-03-08",
       "time": "11:00",
@@ -78,6 +155,23 @@
       "team": "Langwith Whitestar U11",
       "home_away": "away",
       "opponent": "Beaufort United Blue U11",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
+      "id": "fc694803b178e838be012f2ec2a5e3ce",
+      "date": "2026-02-22",
+      "time": "10:15",
+      "home_team": "Langwith Whitestar U12 United",
+      "away_team": "Keyworth United F.C. U12 Shooting Stars",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "U12 Div 2 P2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Langwith Whitestar U12 United",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U12 Shooting Stars",
       "goals_for": 1,
       "goals_against": 1
     },
@@ -97,6 +191,23 @@
       "opponent": "AFC Parabellum",
       "goals_for": 0,
       "goals_against": 9
+    },
+    {
+      "id": "cf1e329960e807a8fc7e3cc660a265d4",
+      "date": "2026-02-08",
+      "time": "11:30",
+      "home_team": "Langwith Whitestar U12 United",
+      "away_team": "Sandiacre Town Youth U12 Panthers Girls",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "U12 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Langwith Whitestar U12 United",
+      "home_away": "home",
+      "opponent": "Sandiacre Town Youth U12 Panthers Girls",
+      "goals_for": 0,
+      "goals_against": 3
     },
     {
       "id": "414ef9b708651733e67920346c437e1b",
@@ -133,6 +244,23 @@
       "goals_against": 2
     },
     {
+      "id": "96ca11e8f137dbf7344d16e48e67ecda",
+      "date": "2026-02-01",
+      "time": "10:30",
+      "home_team": "Keyworth United F.C. U12 Shooting Stars",
+      "away_team": "Langwith Whitestar U12 United",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "U12 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Langwith Whitestar U12 United",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U12 Shooting Stars",
+      "goals_for": 2,
+      "goals_against": 3
+    },
+    {
       "id": "df8fb56df70cb23db14a061f2ebd84ac",
       "date": "2026-01-31",
       "time": "14:00",
@@ -150,6 +278,23 @@
       "goals_against": 1
     },
     {
+      "id": "3aca10403cf04ffe50da8321f7836cfc",
+      "date": "2026-01-25",
+      "time": "13:00",
+      "home_team": "Mansfield Town F.C. Girls U12",
+      "away_team": "Langwith Whitestar U12 United",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "U12 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Langwith Whitestar U12 United",
+      "home_away": "away",
+      "opponent": "Mansfield Town F.C. Girls U12",
+      "goals_for": 0,
+      "goals_against": 0
+    },
+    {
       "id": "aa7ac539eb5f294fbae40ca2ae8c5e91",
       "date": "2026-01-25",
       "time": "10:00",
@@ -164,6 +309,23 @@
       "home_away": "away",
       "opponent": "Alfreton Town Cobras U11",
       "goals_for": 3,
+      "goals_against": 2
+    },
+    {
+      "id": "8061ed3c7e3c864bd2dcccc532ca92f4",
+      "date": "2026-01-18",
+      "time": "11:30",
+      "home_team": "Langwith Whitestar U12 United",
+      "away_team": "Keyworth United F.C. U12 Warriors",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "U12 Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Langwith Whitestar U12 United",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U12 Warriors",
+      "goals_for": 1,
       "goals_against": 2
     },
     {
@@ -201,6 +363,23 @@
       "goals_against": 3
     },
     {
+      "id": "561e536ca14836dbbe357935a91e489a",
+      "date": "2025-12-14",
+      "time": "10:15",
+      "home_team": "Langwith Whitestar U12 United",
+      "away_team": "Keyworth United F.C. U12 Warriors",
+      "home_score": 0,
+      "away_score": 6,
+      "venue": "U12 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Langwith Whitestar U12 United",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U12 Warriors",
+      "goals_for": 0,
+      "goals_against": 6
+    },
+    {
       "id": "30c885c0561584dd45d97d46bacf6c84",
       "date": "2025-12-14",
       "time": "10:00",
@@ -233,6 +412,23 @@
       "opponent": "Alfreton Town Cobras U11",
       "goals_for": 3,
       "goals_against": 2
+    },
+    {
+      "id": "d7c38cc9dc18a133a481c396a424f059",
+      "date": "2025-11-30",
+      "time": "11:15",
+      "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "away_team": "Langwith Whitestar U12 United",
+      "home_score": 3,
+      "away_score": 7,
+      "venue": "U12 Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Langwith Whitestar U12 United",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC U12 Girls Eagles",
+      "goals_for": 7,
+      "goals_against": 3
     },
     {
       "id": "b8576eb6fe806f67f9df0b28217be52a",
@@ -269,6 +465,23 @@
       "goals_against": 8
     },
     {
+      "id": "207e0c79d4010e588fe90999bf9f5303",
+      "date": "2025-11-23",
+      "time": "10:15",
+      "home_team": "Langwith Whitestar U12 United",
+      "away_team": "Hucknall & Linby Harriers FC U12",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "U12 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Langwith Whitestar U12 United",
+      "home_away": "home",
+      "opponent": "Hucknall & Linby Harriers FC U12",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
       "id": "1ea83af5e12f29aada1ce7aa4e01a323",
       "date": "2025-11-09",
       "time": "11:00",
@@ -286,6 +499,23 @@
       "goals_against": 0
     },
     {
+      "id": "c13df750d7d86424d2501e609dd88b10",
+      "date": "2025-11-09",
+      "time": "10:30",
+      "home_team": "Sandiacre Town Youth U12 Panthers Girls",
+      "away_team": "Langwith Whitestar U12 United",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "U12 Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Langwith Whitestar U12 United",
+      "home_away": "away",
+      "opponent": "Sandiacre Town Youth U12 Panthers Girls",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
       "id": "7cd3d57aa063c09da9517e203527b428",
       "date": "2025-11-02",
       "time": "11:00",
@@ -301,6 +531,23 @@
       "opponent": "Matlock Town Juniors U11",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "76a4860e92506ce1f308cff25ade3817",
+      "date": "2025-11-02",
+      "time": "09:30",
+      "home_team": "Langwith Whitestar U12 United",
+      "away_team": "Burton Joyce F.C. Girls U12 Olympians",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "U12 Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Langwith Whitestar U12 United",
+      "home_away": "home",
+      "opponent": "Burton Joyce F.C. Girls U12 Olympians",
+      "goals_for": 0,
+      "goals_against": 5
     },
     {
       "id": "3cedb9ee1363d94d0ec5e669767fad86",
@@ -371,6 +618,23 @@
       "goals_against": 1
     },
     {
+      "id": "87c3cc554ed5d93ae70fff4d674e3bf2",
+      "date": "2025-10-05",
+      "time": "10:00",
+      "home_team": "Keyworth United F.C. U12 Warriors",
+      "away_team": "Langwith Whitestar U12 United",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "U12",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Langwith Whitestar U12 United",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U12 Warriors",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
       "id": "68b634d75f17917566412bb8b2dd5873",
       "date": "2025-09-28",
       "time": "11:00",
@@ -386,6 +650,23 @@
       "opponent": "Beaufort United Blue U11",
       "goals_for": 2,
       "goals_against": 6
+    },
+    {
+      "id": "1dd884b22aa267326730c3208b985df0",
+      "date": "2025-09-28",
+      "time": "09:00",
+      "home_team": "Langwith Whitestar U12 United",
+      "away_team": "Keyworth United F.C. U12 Vipers",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "U12",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Langwith Whitestar U12 United",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U12 Vipers",
+      "goals_for": 3,
+      "goals_against": 1
     },
     {
       "id": "4261da410c51ea4a3f6f7755d2f1d99a",
@@ -422,6 +703,23 @@
       "goals_against": 1
     },
     {
+      "id": "9f86a1a8f26099d21680fab2e224e641",
+      "date": "2025-09-21",
+      "time": "10:00",
+      "home_team": "Burton Joyce F.C. Girls U12 Outlaws",
+      "away_team": "Langwith Whitestar U12 United",
+      "home_score": 0,
+      "away_score": 6,
+      "venue": "U12",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Langwith Whitestar U12 United",
+      "home_away": "away",
+      "opponent": "Burton Joyce F.C. Girls U12 Outlaws",
+      "goals_for": 6,
+      "goals_against": 0
+    },
+    {
       "id": "19503dd2d4c273035e4ac75b0f75b2bd",
       "date": "2025-09-20",
       "time": "15:00",
@@ -437,6 +735,23 @@
       "opponent": "AJ Sport FC",
       "goals_for": 1,
       "goals_against": 1
+    },
+    {
+      "id": "ec98e0ad4483912308f5704e2dc0e7f9",
+      "date": "2025-09-14",
+      "time": "11:00",
+      "home_team": "Hucknall & Linby Harriers FC U12",
+      "away_team": "Langwith Whitestar U12 United",
+      "home_score": 4,
+      "away_score": 4,
+      "venue": "U12",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Langwith Whitestar U12 United",
+      "home_away": "away",
+      "opponent": "Hucknall & Linby Harriers FC U12",
+      "goals_for": 4,
+      "goals_against": 4
     },
     {
       "id": "a308e4512a1608b1db7de9fdf9ea348b",
@@ -488,6 +803,23 @@
       "opponent": "Beaufort United Blue U11",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "3de7bd118e781fbbd9505a43a5aeed2d",
+      "date": "2025-09-07",
+      "time": "11:30",
+      "home_team": "Cotgrave FC U12 Girls",
+      "away_team": "Langwith Whitestar U12 United",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "U12",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Langwith Whitestar U12 United",
+      "home_away": "away",
+      "opponent": "Cotgrave FC U12 Girls",
+      "goals_for": 4,
+      "goals_against": 2
     },
     {
       "id": "827f7b4faf52e7bc3102a8f35ad94c4a",

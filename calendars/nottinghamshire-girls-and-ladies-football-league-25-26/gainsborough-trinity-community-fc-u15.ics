@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gainsborough Trinity Community FC U15
+X-WR-CALDESC:Fixtures for Gainsborough Trinity Community FC U15 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:67febbffee3205c3b7aa65614971eca9@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260322T100000
+DTEND;TZID=Europe/London:20260322T113000
+SUMMARY:⚽ Gainsborough Trinity Community FC U15 vs Matlock Town Juniors U15 Girls (Home)
+DESCRIPTION:Division: U15 Div 1\nGainsborough Trinity Community FC U15 v Matlock Town Juniors U15 Girls\nKO: 10:00
+LOCATION:ROSES SPORTS GROUND
+END:VEVENT
+BEGIN:VEVENT
+UID:94c9f81856c6799a2d297d43e7de8e31@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260322T113000
+DTEND;TZID=Europe/London:20260322T123000
+SUMMARY:⚽ Gainsborough Trinity Community FC U15 vs Matlock Town Juniors U15 Girls (Away)
+DESCRIPTION:Division: U15 Div 1\nMatlock Town Juniors U15 Girls v Gainsborough Trinity Community FC U15\nKO: 11:30
+LOCATION:CAVENDISH FIELDS SPORTS ASSOCIATION
+END:VEVENT
+BEGIN:VEVENT
+UID:940c4d131eb576b39f70d6cc694b3823@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T113000
+SUMMARY:⚽ Gainsborough Trinity Community FC U15 vs Ilkeston Town Juniors U15 Robins (Away)
+DESCRIPTION:Division: U15 Div 1\nIlkeston Town Juniors U15 Robins v Gainsborough Trinity Community FC U15\nKO: 10:00
+LOCATION:ILKESTON TOWN FOOTBALL CLUB
+END:VEVENT
+END:VCALENDAR

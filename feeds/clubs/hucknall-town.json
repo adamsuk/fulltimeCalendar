@@ -1,6 +1,6 @@
 {
   "club": "Hucknall Town",
-  "generated": "2026-03-25T12:50:50Z",
+  "generated": "2026-03-25T13:55:34Z",
   "fixtures": [
     {
       "id": "68447e01292922a46ac89a37b55d5de5",
@@ -107,6 +107,19 @@
       "opponent": "Mansfield Athletic U8"
     },
     {
+      "id": "eee5a35d39b0b6c274106a5e7b47c930",
+      "date": "2026-03-29",
+      "time": "14:00",
+      "home_team": "Hucknall Town FC Women",
+      "away_team": "Keyworth United FC First",
+      "venue": "HUCKNALL TOWN FOOTBALL CLUB",
+      "division": "Seniors Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall Town FC Women",
+      "home_away": "home",
+      "opponent": "Keyworth United FC First"
+    },
+    {
       "id": "bf27581d43e2b5a53e41fb4ba5a0f87f",
       "date": "2026-04-04",
       "time": "15:00",
@@ -196,6 +209,19 @@
       "team": "Hucknall Town Warriors Y/W U8",
       "home_away": "away",
       "opponent": "G3A FC Miami U8"
+    },
+    {
+      "id": "b31a1913aaac4c4abc539fd33691894f",
+      "date": "2026-04-12",
+      "time": "14:00",
+      "home_team": "Hucknall Town FC Women",
+      "away_team": "Mansfield Town Ladies FC Development",
+      "venue": "HUCKNALL TOWN FOOTBALL CLUB",
+      "division": "Seniors Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall Town FC Women",
+      "home_away": "home",
+      "opponent": "Mansfield Town Ladies FC Development"
     },
     {
       "id": "a07996d5fc216029b04d6c00343592ca",
@@ -341,6 +367,19 @@
       "opponent": "DLFC Purple U8"
     },
     {
+      "id": "c3938069449b026b23ea7f0f388d4498",
+      "date": "2026-04-19",
+      "time": "10:30",
+      "home_team": "Lowdham Colts FC Ladies",
+      "away_team": "Hucknall Town FC Women",
+      "venue": "MAGNA MEADOWS PLAYING FIELD",
+      "division": "Seniors Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall Town FC Women",
+      "home_away": "away",
+      "opponent": "Lowdham Colts FC Ladies"
+    },
+    {
       "id": "1773b857a013f153e0831f40849688a1",
       "date": "2026-04-25",
       "time": "10:00",
@@ -472,6 +511,23 @@
     }
   ],
   "results": [
+    {
+      "id": "ee3f4aa988e055cbe71d03fb8cde836b",
+      "date": "2026-03-22",
+      "time": "14:00",
+      "home_team": "Radcliffe Olympic FC Ladies",
+      "away_team": "Hucknall Town FC Women",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "Seniors Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall Town FC Women",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC Ladies",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "05f7da55d495817733fff6cfe3ec3c76",
       "date": "2026-03-22",
@@ -949,6 +1005,23 @@
       "goals_against": null
     },
     {
+      "id": "dff4b425e9f7a755c4ca981b7305f2e7",
+      "date": "2026-03-08",
+      "time": "10:00",
+      "home_team": "Calverton Miners Welfare FC",
+      "away_team": "Hucknall Town FC Women",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "Seniors Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall Town FC Women",
+      "home_away": "away",
+      "opponent": "Calverton Miners Welfare FC",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
       "id": "3f0c1e84df33eb17048554eb6e2d4184",
       "date": "2026-03-07",
       "time": "15:00",
@@ -1170,6 +1243,23 @@
       "goals_against": 6
     },
     {
+      "id": "623301543a0e13ccb40e0ad78347abb7",
+      "date": "2026-02-22",
+      "time": "14:00",
+      "home_team": "Keyworth United FC First",
+      "away_team": "Hucknall Town FC Women",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "Seniors Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall Town FC Women",
+      "home_away": "away",
+      "opponent": "Keyworth United FC First",
+      "goals_for": 0,
+      "goals_against": 2
+    },
+    {
       "id": "eb26366e2c2d22598b6a328320e5f022",
       "date": "2026-02-22",
       "time": "10:00",
@@ -1270,6 +1360,23 @@
       "opponent": "Sherwood Colliery U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "8746378fdce05f832429c6353695123b",
+      "date": "2026-02-08",
+      "time": "13:00",
+      "home_team": "Nottingham Trent Uni FC Womens Pink",
+      "away_team": "Hucknall Town FC Women",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "Seniors Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall Town FC Women",
+      "home_away": "away",
+      "opponent": "Nottingham Trent Uni FC Womens Pink",
+      "goals_for": 1,
+      "goals_against": 0
     },
     {
       "id": "3a24a45742350f72e5a2441f6bf10748",
@@ -1595,6 +1702,23 @@
       "goals_against": null
     },
     {
+      "id": "2f8bca25471487b274ef6e4dedca5f3a",
+      "date": "2026-01-25",
+      "time": "10:00",
+      "home_team": "Calverton Miners Welfare FC",
+      "away_team": "Hucknall Town FC Women",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "Senior Div 1 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall Town FC Women",
+      "home_away": "away",
+      "opponent": "Calverton Miners Welfare FC",
+      "goals_for": 0,
+      "goals_against": 6
+    },
+    {
       "id": "280820425ebdde1301ba330f92a8ca5f",
       "date": "2026-01-25",
       "time": "09:30",
@@ -1729,6 +1853,23 @@
       "opponent": "Bilborough Town U9",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "8c7be19d98aaca08532c09fbd7743593",
+      "date": "2026-01-18",
+      "time": "14:00",
+      "home_team": "Hucknall Town FC Women",
+      "away_team": "Nottingham Trent Uni FC Womens Pink",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "Seniors Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall Town FC Women",
+      "home_away": "home",
+      "opponent": "Nottingham Trent Uni FC Womens Pink",
+      "goals_for": 5,
+      "goals_against": 1
     },
     {
       "id": "eb1b101b1a759a160f5e2067ba6612f8",
@@ -2173,6 +2314,23 @@
       "goals_against": 12
     },
     {
+      "id": "81f3ae98370b92d493ad366d16c4b9b0",
+      "date": "2025-12-07",
+      "time": "14:00",
+      "home_team": "Hucknall Town FC Women",
+      "away_team": "Arnold Eagles FC Development",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "Seniors Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall Town FC Women",
+      "home_away": "home",
+      "opponent": "Arnold Eagles FC Development",
+      "goals_for": 4,
+      "goals_against": 0
+    },
+    {
       "id": "e3b302e48bd18d7f0c5316aada9aa016",
       "date": "2025-12-07",
       "time": "11:00",
@@ -2564,6 +2722,23 @@
       "goals_against": null
     },
     {
+      "id": "8b002ddd2f490bca087c511b37119b80",
+      "date": "2025-11-09",
+      "time": "13:00",
+      "home_team": "Nottingham Trent Uni FC Womens Pink",
+      "away_team": "Hucknall Town FC Women",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "Senior Div 1 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall Town FC Women",
+      "home_away": "away",
+      "opponent": "Nottingham Trent Uni FC Womens Pink",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
       "id": "9eacb2ea79748b4bdf9df22698905236",
       "date": "2025-11-09",
       "time": "10:00",
@@ -2734,6 +2909,23 @@
       "goals_against": null
     },
     {
+      "id": "09312668473cff0d8ba6bdecc677d65d",
+      "date": "2025-11-02",
+      "time": "14:00",
+      "home_team": "Hucknall Town FC Women",
+      "away_team": "Calverton Miners Welfare FC",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "Seniors Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall Town FC Women",
+      "home_away": "home",
+      "opponent": "Calverton Miners Welfare FC",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
       "id": "0e9eb1fcec8f978a0e97474abde1349b",
       "date": "2025-11-02",
       "time": "10:30",
@@ -2870,6 +3062,23 @@
       "goals_against": null
     },
     {
+      "id": "a00726368465140d24781a4ac626ecad",
+      "date": "2025-10-19",
+      "time": "13:30",
+      "home_team": "Hucknall Town FC Women",
+      "away_team": "West Bridgford Colts Womens",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "Women's County Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall Town FC Women",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts Womens",
+      "goals_for": 1,
+      "goals_against": 4
+    },
+    {
       "id": "e89c87d9fd245d60a3bd6ff861b7bce3",
       "date": "2025-10-18",
       "time": "14:00",
@@ -2919,6 +3128,23 @@
       "opponent": "Keyworth United Blue U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "0671cb2b6d4e4ee895024a72c0591957",
+      "date": "2025-10-12",
+      "time": "14:00",
+      "home_team": "Hucknall Town FC Women",
+      "away_team": "Arnold Eagles FC Development",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "Senior Div 1 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall Town FC Women",
+      "home_away": "home",
+      "opponent": "Arnold Eagles FC Development",
+      "goals_for": 1,
+      "goals_against": 3
     },
     {
       "id": "2978e73118792dd9ad3bbc5b894ae20c",
@@ -3312,6 +3538,23 @@
       "goals_against": null
     },
     {
+      "id": "27a4225ccbe8e9bf8363a4f3c8c5ccf8",
+      "date": "2025-09-28",
+      "time": "14:00",
+      "home_team": "Hucknall Town FC Women",
+      "away_team": "Lowdham Colts FC Ladies",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "Seniors Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall Town FC Women",
+      "home_away": "home",
+      "opponent": "Lowdham Colts FC Ladies",
+      "goals_for": 4,
+      "goals_against": 1
+    },
+    {
       "id": "b26ddeea253f6860cd80f442cb4c518f",
       "date": "2025-09-28",
       "time": "12:00",
@@ -3499,6 +3742,23 @@
       "goals_against": null
     },
     {
+      "id": "cba0ce0c18973a42dfc1b056f0f9189a",
+      "date": "2025-09-21",
+      "time": "13:30",
+      "home_team": "Cotgrave FC Ladies",
+      "away_team": "Hucknall Town FC Women",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "Women's County Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall Town FC Women",
+      "home_away": "away",
+      "opponent": "Cotgrave FC Ladies",
+      "goals_for": 3,
+      "goals_against": 0
+    },
+    {
       "id": "f64aaa4f4605fcf5f875d29a4f7c2a36",
       "date": "2025-09-21",
       "time": "11:00",
@@ -3667,6 +3927,23 @@
       "opponent": "Silva FC Carlton Purple U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "7622ff12cdb2d24aea09e2eb34e9b18f",
+      "date": "2025-09-14",
+      "time": "14:00",
+      "home_team": "Arnold Eagles FC Development",
+      "away_team": "Hucknall Town FC Women",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "Seniors Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall Town FC Women",
+      "home_away": "away",
+      "opponent": "Arnold Eagles FC Development",
+      "goals_for": 3,
+      "goals_against": 0
     },
     {
       "id": "9b145ba7830a8fac86bd477d40da7a89",
@@ -3871,6 +4148,23 @@
       "opponent": "Lowdham FC Red U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "44503bf946d7a8ffe3d605784af2dc5c",
+      "date": "2025-09-07",
+      "time": "14:00",
+      "home_team": "Hucknall Town FC Women",
+      "away_team": "Radcliffe Olympic FC Ladies",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "Seniors Div 1",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall Town FC Women",
+      "home_away": "home",
+      "opponent": "Radcliffe Olympic FC Ladies",
+      "goals_for": 5,
+      "goals_against": 2
     },
     {
       "id": "e0d78eed94efacc23eecfade6afb38a2",

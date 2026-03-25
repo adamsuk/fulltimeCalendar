@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Keyworth United F.C. U10 Leopards
+X-WR-CALDESC:Fixtures for Keyworth United F.C. U10 Leopards — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:845355a2a41bc387680e9ba6b921b119@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260322T110000
+DTEND;TZID=Europe/London:20260322T123000
+SUMMARY:⚽ Keyworth United F.C. U10 Leopards vs Meden Vale Colts F.C. U10 Girls (Away)
+DESCRIPTION:Division: U10 Development\nMeden Vale Colts F.C. U10 Girls v Keyworth United F.C. U10 Leopards\nKO: 11:00
+LOCATION:Meden Vale Colts F.C. U10 Girls
+END:VEVENT
+BEGIN:VEVENT
+UID:e9cd41d39fec0c988a281715568ad825@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260329T120000
+DTEND;TZID=Europe/London:20260329T133000
+SUMMARY:⚽ Keyworth United F.C. U10 Leopards vs Arnold Eagles F.C. Girls U10 Braves (Away)
+DESCRIPTION:Division: U10 Development\nArnold Eagles F.C. Girls U10 Braves v Keyworth United F.C. U10 Leopards\nKO: 12:00
+LOCATION:CALVERTON MINERS WELFARE TRUST
+END:VEVENT
+END:VCALENDAR

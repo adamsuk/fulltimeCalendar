@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Meden Vale Colts F.C. U7 Girls
+X-WR-CALDESC:Fixtures for Meden Vale Colts F.C. U7 Girls — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:e72f1bd43d31c208e91c78d723804711@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260329T093000
+DTEND;TZID=Europe/London:20260329T103000
+SUMMARY:⚽ Meden Vale Colts F.C. U7 Girls vs West Bridgford Colts U7 Ember (Home)
+DESCRIPTION:Division: U7 Development\nMeden Vale Colts F.C. U7 Girls v West Bridgford Colts U7 Ember\nKO: 09:30
+LOCATION:CARR LANE PARK
+END:VEVENT
+BEGIN:VEVENT
+UID:e553528ab51ad298a484a41cf068c5a8@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T113000
+SUMMARY:⚽ Meden Vale Colts F.C. U7 Girls vs West Bridgford Colts U7 Ashes (Away)
+DESCRIPTION:Division: U7 Development\nWest Bridgford Colts U7 Ashes v Meden Vale Colts F.C. U7 Girls\nKO: 10:00
+LOCATION:West Bridgford Colts U7 Ashes
+END:VEVENT
+BEGIN:VEVENT
+UID:020830ba25f9a577a360d7c70a421662@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Meden Vale Colts F.C. U7 Girls vs Bingham Town F.C. U7 Girls (Home)
+DESCRIPTION:Division: U7 Development\nMeden Vale Colts F.C. U7 Girls v Bingham Town F.C. U7 Girls\nKO: 10:00
+LOCATION:CARR LANE PARK
+END:VEVENT
+END:VCALENDAR

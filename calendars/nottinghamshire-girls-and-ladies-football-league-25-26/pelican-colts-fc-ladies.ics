@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pelican Colts FC Ladies
+X-WR-CALDESC:Fixtures for Pelican Colts FC Ladies — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:30ca6cb54aa4519f419c8085c7a771ce@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260412T140000
+DTEND;TZID=Europe/London:20260412T153000
+SUMMARY:⚽ Pelican Colts FC Ladies vs Lowdham Colts FC Development (Home)
+DESCRIPTION:Division: Seniors Div 3\nPelican Colts FC Ladies v Lowdham Colts FC Development\nKO: 14:00
+LOCATION:DAVE EASTWOOD SPORTS GROUND
+END:VEVENT
+BEGIN:VEVENT
+UID:aa0108d3599e52cb9680e4f6986ca7c4@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260412T140000
+DTEND;TZID=Europe/London:20260412T153000
+SUMMARY:⚽ Pelican Colts FC Ladies vs West Bridgford Colts Women's Development (Home)
+DESCRIPTION:Division: Senior Div 4\nPelican Colts FC Ladies v West Bridgford Colts Women's Development\nKO: 14:00
+LOCATION:DAVE EASTWOOD SPORTS GROUND
+END:VEVENT
+BEGIN:VEVENT
+UID:29c0bd61f269d0fe48ac323200172b69@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260419T140000
+DTEND;TZID=Europe/London:20260419T153000
+SUMMARY:⚽ Pelican Colts FC Ladies vs Ravenshead Reds FC (Home)
+DESCRIPTION:Division: Senior Div 4\nPelican Colts FC Ladies v Ravenshead Reds FC\nKO: 14:00
+LOCATION:DAVE EASTWOOD SPORTS GROUND
+END:VEVENT
+BEGIN:VEVENT
+UID:1c749bd7c70fd1a0c1eaf720116c6d51@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260503T140000
+DTEND;TZID=Europe/London:20260503T153000
+SUMMARY:⚽ Pelican Colts FC Ladies vs Beeston FC Women (Home)
+DESCRIPTION:Division: Senior Div 4\nPelican Colts FC Ladies v Beeston FC Women\nKO: 14:00
+LOCATION:DAVE EASTWOOD SPORTS GROUND
+END:VEVENT
+END:VCALENDAR

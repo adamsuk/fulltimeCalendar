@@ -1,6 +1,6 @@
 {
   "club": "Sherwood FC",
-  "generated": "2026-03-25T12:50:50Z",
+  "generated": "2026-03-25T13:55:34Z",
   "fixtures": [
     {
       "id": "e9b635d0131f62aa78c063375c87d2ed",
@@ -172,6 +172,19 @@
       "opponent": "Quarrydale United U8"
     },
     {
+      "id": "f069f1bbd71741d677bd03f2dc2b2086",
+      "date": "2026-04-12",
+      "time": "10:30",
+      "home_team": "Sherwood FC Development Women",
+      "away_team": "Gedling Southbank FC Ladies",
+      "venue": "MELBOURNE PARK",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Development Women",
+      "home_away": "home",
+      "opponent": "Gedling Southbank FC Ladies"
+    },
+    {
       "id": "a40f95ba5bf7bae158a86a61e55dd54a",
       "date": "2026-04-14",
       "time": "18:00",
@@ -276,6 +289,19 @@
       "opponent": "Barrowby FC Black U8"
     },
     {
+      "id": "68a3383d06f1dc48152fa3b4f7b5df38",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Arnold Town FC Women",
+      "away_team": "Sherwood FC Development Women",
+      "venue": "EAGLE VALLEY",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Development Women",
+      "home_away": "away",
+      "opponent": "Arnold Town FC Women"
+    },
+    {
       "id": "b49210ad2baa1fe0ddef08ff0ef76911",
       "date": "2026-04-25",
       "time": "10:00",
@@ -328,6 +354,19 @@
       "opponent": "Shirebrook Rangers U8"
     },
     {
+      "id": "080b03d31c6231faa7f75de36f088362",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Priory Celtic FC Ladies First Team",
+      "away_team": "Sherwood FC Development Women",
+      "venue": "THE KIMBERLEY SCHOOL",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Development Women",
+      "home_away": "away",
+      "opponent": "Priory Celtic FC Ladies First Team"
+    },
+    {
       "id": "184a489836bf564b00164c7c195dea63",
       "date": "2026-04-28",
       "time": "11:00",
@@ -339,6 +378,32 @@
       "team": "Sherwood FC Red U11",
       "home_away": "away",
       "opponent": "Nottingham FC Emeralds U11"
+    },
+    {
+      "id": "bff8a803e47f188f7ea1775a440a69ea",
+      "date": "2026-05-03",
+      "time": "14:00",
+      "home_team": "Retford FC Ladies",
+      "away_team": "Sherwood FC Development Women",
+      "venue": "RETFORD FC (THE RAIL)",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Development Women",
+      "home_away": "away",
+      "opponent": "Retford FC Ladies"
+    },
+    {
+      "id": "f45041bd37d2891259c0b2a4dd3bec34",
+      "date": "2026-05-10",
+      "time": "10:30",
+      "home_team": "Sherwood FC Development Women",
+      "away_team": "Arnold Town FC Women",
+      "venue": "MELBOURNE PARK",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Development Women",
+      "home_away": "home",
+      "opponent": "Arnold Town FC Women"
     },
     {
       "id": "7b71501b8e76233ed4be36cc5cd444f2",
@@ -365,9 +430,52 @@
       "team": "Sherwood FC Blue U10",
       "home_away": "away",
       "opponent": "Eastwood Athletic Atalanta U10"
+    },
+    {
+      "id": "c9023a13d2e33de3f961bf31cfe818a5",
+      "date": "2026-05-17",
+      "time": "10:30",
+      "home_team": "Sherwood FC Development Women",
+      "away_team": "Shirebrook Rangers Women",
+      "venue": "MELBOURNE PARK",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Development Women",
+      "home_away": "home",
+      "opponent": "Shirebrook Rangers Women"
+    },
+    {
+      "id": "6130391408b8aafb50709478c4db2e94",
+      "date": "2026-05-24",
+      "time": "10:30",
+      "home_team": "Sherwood FC Development Women",
+      "away_team": "Retford FC Ladies",
+      "venue": "MELBOURNE PARK",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Development Women",
+      "home_away": "home",
+      "opponent": "Retford FC Ladies"
     }
   ],
   "results": [
+    {
+      "id": "737b8b6fa14d72917d2fd310a3666c92",
+      "date": "2026-03-22",
+      "time": "12:30",
+      "home_team": "Sherwood FC U12 Girls",
+      "away_team": "ATFA Brinsley FC U12",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "Other Fixtures",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "home",
+      "opponent": "ATFA Brinsley FC U12",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "1eb8a2a356519f3cf4bf764b378c1fdc",
       "date": "2026-03-22",
@@ -401,6 +509,23 @@
       "opponent": "Hucknall Sports Red U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "7987307290f0ddb509416a1fa30437fe",
+      "date": "2026-03-22",
+      "time": "10:30",
+      "home_team": "Sherwood FC Development Women",
+      "away_team": "Sherwood Colliery FC Ladies",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "Seniors Div 2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Development Women",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery FC Ladies",
+      "goals_for": 2,
+      "goals_against": 6
     },
     {
       "id": "52342dafdde6482bc7a646036cb8f7a7",
@@ -522,6 +647,23 @@
       "goals_against": 3
     },
     {
+      "id": "edc5d4f59604ac7f8783b5fac0c0e452",
+      "date": "2026-03-15",
+      "time": "12:30",
+      "home_team": "Sherwood FC U12 Girls",
+      "away_team": "West Bridgford Colts U12 Flames",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "U12 Div 2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U12 Flames",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
       "id": "07a44fc04ca45a25b6006fb63d4deba0",
       "date": "2026-03-15",
       "time": "10:00",
@@ -605,6 +747,23 @@
       "opponent": "Barrowby FC Green U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "405eb7e386b21f010e33147812406127",
+      "date": "2026-03-15",
+      "time": "10:00",
+      "home_team": "Sherwood FC Development Women",
+      "away_team": "Southwell City FC Ladies",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "Seniors Div 2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Development Women",
+      "home_away": "home",
+      "opponent": "Southwell City FC Ladies",
+      "goals_for": 1,
+      "goals_against": 4
     },
     {
       "id": "3dadf01369ae339b323aeee41377c848",
@@ -707,6 +866,23 @@
       "opponent": "Grantham Town U12",
       "goals_for": 4,
       "goals_against": 1
+    },
+    {
+      "id": "38ea3ee1eff109d62a1b56817f6dcb2f",
+      "date": "2026-03-08",
+      "time": "14:00",
+      "home_team": "Gedling Southbank FC Ladies",
+      "away_team": "Sherwood FC Development Women",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "Seniors Div 2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Development Women",
+      "home_away": "away",
+      "opponent": "Gedling Southbank FC Ladies",
+      "goals_for": 0,
+      "goals_against": 6
     },
     {
       "id": "805d9a24d17b4ac20577c945bb8f9197",
@@ -947,6 +1123,23 @@
       "goals_against": null
     },
     {
+      "id": "15d74b6afe710b77a5f6a95f97bfec53",
+      "date": "2026-03-01",
+      "time": "10:00",
+      "home_team": "Blidworth Bengals F.C. U12",
+      "away_team": "Sherwood FC U12 Girls",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "U12 Cup 2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "away",
+      "opponent": "Blidworth Bengals F.C. U12",
+      "goals_for": 1,
+      "goals_against": 4
+    },
+    {
       "id": "fa0ef5819c18d3f0c46f09094d120d6f",
       "date": "2026-02-28",
       "time": "12:00",
@@ -1015,6 +1208,23 @@
       "goals_against": 1
     },
     {
+      "id": "cbd3ce3fd9966fe29633db04ae2cb777",
+      "date": "2026-02-22",
+      "time": "12:30",
+      "home_team": "Shirebrook Rangers Women",
+      "away_team": "Sherwood FC Development Women",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "Seniors Div 2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Development Women",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers Women",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
       "id": "847040fccdc8133e5893dac28073f85e",
       "date": "2026-02-22",
       "time": "11:30",
@@ -1081,6 +1291,23 @@
       "opponent": "Carlton Town Yellow U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "0629653ffd44ee77dea807d83925192c",
+      "date": "2026-02-22",
+      "time": "10:00",
+      "home_team": "Sherwood FC U12 Girls",
+      "away_team": "Bingham Town F.C. U12 Girls Red",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "Other Fixtures",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "home",
+      "opponent": "Bingham Town F.C. U12 Girls Red",
+      "goals_for": 2,
+      "goals_against": 3
     },
     {
       "id": "4a80be6ddbb7a7af89952973caaaf694",
@@ -1219,6 +1446,23 @@
       "goals_against": null
     },
     {
+      "id": "22e53f61f4e5cb5074f48f12090c82be",
+      "date": "2026-02-08",
+      "time": "10:00",
+      "home_team": "Newark Town FC U12 Girls",
+      "away_team": "Sherwood FC U12 Girls",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "Other Fixtures",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "away",
+      "opponent": "Newark Town FC U12 Girls",
+      "goals_for": 0,
+      "goals_against": 3
+    },
+    {
       "id": "4ffbd203a3a65c37539d270f1c602152",
       "date": "2026-02-07",
       "time": "11:45",
@@ -1355,6 +1599,23 @@
       "goals_against": null
     },
     {
+      "id": "72b8096d22b7ee417d249113b5695ee2",
+      "date": "2026-02-01",
+      "time": "10:00",
+      "home_team": "Sherwood FC U12 Girls",
+      "away_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "U12 Div 2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "home",
+      "opponent": "Radcliffe Olympic FC U12 Girls Eagles",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
       "id": "5a93af62df7776198be457360ff3c8e9",
       "date": "2026-01-31",
       "time": "10:00",
@@ -1437,6 +1698,23 @@
       "home_away": "away",
       "opponent": "Notts County Women U12 ^",
       "goals_for": 0,
+      "goals_against": 2
+    },
+    {
+      "id": "26563029b3fc5ff64f397889e01f13fa",
+      "date": "2026-01-25",
+      "time": "13:30",
+      "home_team": "Underwood Villa FC Youth Ladies",
+      "away_team": "Sherwood FC Development Women",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "Senior Div 2 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Development Women",
+      "home_away": "away",
+      "opponent": "Underwood Villa FC Youth Ladies",
+      "goals_for": 1,
       "goals_against": 2
     },
     {
@@ -1525,6 +1803,23 @@
       "goals_against": null
     },
     {
+      "id": "5b60bae612f4b08b819ed08b14b6b786",
+      "date": "2026-01-25",
+      "time": "10:00",
+      "home_team": "Sherwood FC U12 Girls",
+      "away_team": "West Bridgford Colts U12 Lightning",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "Other Fixtures",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U12 Lightning",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
       "id": "3066afb813117086dcff65ff5d598238",
       "date": "2026-01-24",
       "time": "11:45",
@@ -1608,6 +1903,40 @@
       "opponent": "Silva FC Rushcliffe U12",
       "goals_for": 3,
       "goals_against": 5
+    },
+    {
+      "id": "81efaa376b525edb3ca91dd0c8059136",
+      "date": "2026-01-18",
+      "time": "14:30",
+      "home_team": "Sherwood Colliery FC Ladies",
+      "away_team": "Sherwood FC Development Women",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "Seniors Div 2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Development Women",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery FC Ladies",
+      "goals_for": 0,
+      "goals_against": 6
+    },
+    {
+      "id": "bf8d2ff394133bf84d0ff1b6bed02263",
+      "date": "2026-01-18",
+      "time": "11:30",
+      "home_team": "Sandiacre Town Youth U12 Panthers Girls",
+      "away_team": "Sherwood FC U12 Girls",
+      "home_score": 10,
+      "away_score": 0,
+      "venue": "U12 Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "away",
+      "opponent": "Sandiacre Town Youth U12 Panthers Girls",
+      "goals_for": 0,
+      "goals_against": 10
     },
     {
       "id": "e2f104181f32d13a04fa1451f101e2e4",
@@ -1763,6 +2092,23 @@
       "goals_against": 1
     },
     {
+      "id": "f437001a22d17c34a89c3cac31d65425",
+      "date": "2025-12-14",
+      "time": "13:30",
+      "home_team": "Underwood Villa FC Youth Ladies",
+      "away_team": "Sherwood FC Development Women",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "Seniors Div 2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Development Women",
+      "home_away": "away",
+      "opponent": "Underwood Villa FC Youth Ladies",
+      "goals_for": 1,
+      "goals_against": 0
+    },
+    {
       "id": "43f76a19f181d3e2b6db63569af5b72a",
       "date": "2025-12-14",
       "time": "12:00",
@@ -1846,6 +2192,23 @@
       "opponent": "Barrowby FC Green U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "262d6449eda0ee942cdc4abc22401117",
+      "date": "2025-12-14",
+      "time": "10:00",
+      "home_team": "Sherwood FC U12 Girls",
+      "away_team": "Woodthorpe Community U12 Warriors",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "U12 Div 2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "home",
+      "opponent": "Woodthorpe Community U12 Warriors",
+      "goals_for": 0,
+      "goals_against": 3
     },
     {
       "id": "538c3a4c4faa5cbeb1ce6cf54e6e5f49",
@@ -2001,6 +2364,23 @@
       "goals_against": null
     },
     {
+      "id": "4b1a4d69d6db246006eed93e48b8769f",
+      "date": "2025-12-07",
+      "time": "10:00",
+      "home_team": "Cotgrave FC U12 Girls",
+      "away_team": "Sherwood FC U12 Girls",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "U12 Div 2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "away",
+      "opponent": "Cotgrave FC U12 Girls",
+      "goals_for": 1,
+      "goals_against": 5
+    },
+    {
       "id": "8df8af9f150194605e996505a3f1dea7",
       "date": "2025-12-06",
       "time": "11:15",
@@ -2101,6 +2481,40 @@
       "opponent": "Star Strike Tigers U10",
       "goals_for": 7,
       "goals_against": 1
+    },
+    {
+      "id": "6c1ef44ee81a2fd69a9c3327c9372b74",
+      "date": "2025-11-30",
+      "time": "14:00",
+      "home_team": "Southwell City FC Ladies",
+      "away_team": "Sherwood FC Development Women",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "Seniors Div 2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Development Women",
+      "home_away": "away",
+      "opponent": "Southwell City FC Ladies",
+      "goals_for": 1,
+      "goals_against": 4
+    },
+    {
+      "id": "6b7cfe05ed317f12d829e83a315039c1",
+      "date": "2025-11-30",
+      "time": "10:45",
+      "home_team": "West Bridgford Colts U12 Flames",
+      "away_team": "Sherwood FC U12 Girls",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "U12 Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U12 Flames",
+      "goals_for": 3,
+      "goals_against": 2
     },
     {
       "id": "d5cbebd3430f08336cdcebcd8ec098c4",
@@ -2290,6 +2704,23 @@
       "goals_against": null
     },
     {
+      "id": "006ebea8f98f320d55fff5308cdc77fa",
+      "date": "2025-11-23",
+      "time": "10:00",
+      "home_team": "ATFA Brinsley FC U12",
+      "away_team": "Sherwood FC U12 Girls",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "U12 Div 2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "away",
+      "opponent": "ATFA Brinsley FC U12",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
       "id": "352983fb6af9571341e94dfc36c5a9bd",
       "date": "2025-11-22",
       "time": "11:30",
@@ -2375,6 +2806,23 @@
       "goals_against": 7
     },
     {
+      "id": "1fc021a323913007947539b7f0a96a10",
+      "date": "2025-11-16",
+      "time": "13:00",
+      "home_team": "Sherwood FC Development Women",
+      "away_team": "Eastwood & Kimberley FC",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "Seniors Div 2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Development Women",
+      "home_away": "home",
+      "opponent": "Eastwood & Kimberley FC",
+      "goals_for": 1,
+      "goals_against": 5
+    },
+    {
       "id": "45f89026c192ca1e063213541942d8f2",
       "date": "2025-11-16",
       "time": "10:00",
@@ -2424,6 +2872,23 @@
       "opponent": "Alvaston Athletic Black U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "8c9c29e4dd0f3c0fa2af4786a47eec36",
+      "date": "2025-11-16",
+      "time": "10:00",
+      "home_team": "Keyworth United F.C. U12 Vipers",
+      "away_team": "Sherwood FC U12 Girls",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "U12 Div 2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U12 Vipers",
+      "goals_for": 1,
+      "goals_against": 2
     },
     {
       "id": "214664b8f707612157616e476dc87c94",
@@ -2494,6 +2959,23 @@
       "goals_against": null
     },
     {
+      "id": "26019afb0e47a97ceed64093a4ef874b",
+      "date": "2025-11-09",
+      "time": "10:30",
+      "home_team": "Sherwood FC Development Women",
+      "away_team": "Southwell City FC Ladies",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "Senior Div 2 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Development Women",
+      "home_away": "home",
+      "opponent": "Southwell City FC Ladies",
+      "goals_for": 3,
+      "goals_against": 3
+    },
+    {
       "id": "a91cbb79f1394824f81985387904f165",
       "date": "2025-11-09",
       "time": "10:00",
@@ -2542,6 +3024,23 @@
       "home_away": "home",
       "opponent": "Sports Gateway Arcs U9",
       "goals_for": 3,
+      "goals_against": 3
+    },
+    {
+      "id": "922540c27ae16f47aef419c408685e62",
+      "date": "2025-11-09",
+      "time": "10:00",
+      "home_team": "Sherwood FC U12 Girls",
+      "away_team": "Cotgrave FC U12 Girls",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "U12 Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "home",
+      "opponent": "Cotgrave FC U12 Girls",
+      "goals_for": 1,
       "goals_against": 3
     },
     {
@@ -2647,6 +3146,40 @@
       "goals_against": 2
     },
     {
+      "id": "72e163acf5067a47ae1e5c39b2735f6a",
+      "date": "2025-11-02",
+      "time": "10:30",
+      "home_team": "Sherwood FC Development Women",
+      "away_team": "Shirebrook Rangers Women",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "Senior Div 2 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Development Women",
+      "home_away": "home",
+      "opponent": "Shirebrook Rangers Women",
+      "goals_for": 0,
+      "goals_against": 2
+    },
+    {
+      "id": "14945f525a45eb4aa8b7a4736d1ab40a",
+      "date": "2025-11-02",
+      "time": "10:00",
+      "home_team": "Sherwood FC U12 Girls",
+      "away_team": "Arnold Eagles F.C. Girls U12 FC",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "U12 Div 2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "home",
+      "opponent": "Arnold Eagles F.C. Girls U12 FC",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
       "id": "82d177be8536fd0a8fc4e86a2d5cb0ae",
       "date": "2025-11-01",
       "time": "10:00",
@@ -2679,6 +3212,40 @@
       "opponent": "Barrowby FC Black U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "8fefa0dcc1588b982099d9f1fcf76a02",
+      "date": "2025-10-19",
+      "time": "13:30",
+      "home_team": "Radcliffe Olympic FC Ladies",
+      "away_team": "Sherwood FC Senior Women",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "Women's County Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Senior Women",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC Ladies",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
+      "id": "0c183f85aa52eabe9f3c42d95171b98d",
+      "date": "2025-10-19",
+      "time": "10:30",
+      "home_team": "Sherwood FC Development Women",
+      "away_team": "Underwood Villa FC Youth Ladies",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "Seniors Div 2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Development Women",
+      "home_away": "home",
+      "opponent": "Underwood Villa FC Youth Ladies",
+      "goals_for": 5,
+      "goals_against": 2
     },
     {
       "id": "36abd8056e2fd74cb11c7f55b58f8a86",
@@ -2781,6 +3348,23 @@
       "opponent": "Hucknall Town Warriors Red U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "4ef3512d3a4ef58198a834b98966bfd1",
+      "date": "2025-10-12",
+      "time": "10:00",
+      "home_team": "Woodthorpe Community U12 Warriors",
+      "away_team": "Sherwood FC U12 Girls",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "U12",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "away",
+      "opponent": "Woodthorpe Community U12 Warriors",
+      "goals_for": 0,
+      "goals_against": 6
     },
     {
       "id": "045053975aeae48ed5f30910e518d50f",
@@ -3157,6 +3741,23 @@
       "goals_against": null
     },
     {
+      "id": "fb399c60f17ad42377de10114456c57d",
+      "date": "2025-09-28",
+      "time": "10:00",
+      "home_team": "Sherwood FC U12 Girls",
+      "away_team": "Matlock Town Junior U12 Girls Gladiators",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "U12",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "home",
+      "opponent": "Matlock Town Junior U12 Girls Gladiators",
+      "goals_for": 5,
+      "goals_against": 1
+    },
+    {
       "id": "b738cb813781e53f3998868828d3bc45",
       "date": "2025-09-28",
       "time": "09:50",
@@ -3257,6 +3858,57 @@
       "opponent": "Silva FC Carlton Hoods U11",
       "goals_for": 3,
       "goals_against": 6
+    },
+    {
+      "id": "5aa13df1122022ef92a6a1a1b53951f1",
+      "date": "2025-09-21",
+      "time": "14:00",
+      "home_team": "Eastwood & Kimberley FC",
+      "away_team": "Sherwood FC Development Women",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "Seniors Div 2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Development Women",
+      "home_away": "away",
+      "opponent": "Eastwood & Kimberley FC",
+      "goals_for": 0,
+      "goals_against": 6
+    },
+    {
+      "id": "0863d6b30473ed5eedf8689444645544",
+      "date": "2025-09-21",
+      "time": "13:30",
+      "home_team": "Sherwood FC Senior Women",
+      "away_team": "Gedling Southbank FC Ladies",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "Women's County Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Senior Women",
+      "home_away": "home",
+      "opponent": "Gedling Southbank FC Ladies",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "6b07c412a6d0c79772005f7fe134a985",
+      "date": "2025-09-21",
+      "time": "11:30",
+      "home_team": "Arnold Eagles F.C. Girls U12 FC",
+      "away_team": "Sherwood FC U12 Girls",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "U12",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "away",
+      "opponent": "Arnold Eagles F.C. Girls U12 FC",
+      "goals_for": 0,
+      "goals_against": 3
     },
     {
       "id": "bdcfd127e833a3c30b7bda2696e54fb9",
@@ -3480,6 +4132,23 @@
       "goals_against": null
     },
     {
+      "id": "1ebd25cf6bcadf583bad5ef4c50125b0",
+      "date": "2025-09-14",
+      "time": "11:30",
+      "home_team": "Sherwood FC U12 Girls",
+      "away_team": "ATFA Brinsley FC U12",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "U12",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "home",
+      "opponent": "ATFA Brinsley FC U12",
+      "goals_for": 4,
+      "goals_against": 1
+    },
+    {
       "id": "86ffbb9c107fe0f959aeae0cef2491be",
       "date": "2025-09-14",
       "time": "10:40",
@@ -3495,6 +4164,23 @@
       "opponent": "Radcliffe Olympic Lions U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "ca6c05175fa391dd7d08baec4a326522",
+      "date": "2025-09-14",
+      "time": "10:30",
+      "home_team": "Sherwood FC Development Women",
+      "away_team": "Priory Celtic FC Ladies First Team",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "Seniors Div 2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC Development Women",
+      "home_away": "home",
+      "opponent": "Priory Celtic FC Ladies First Team",
+      "goals_for": 1,
+      "goals_against": 1
     },
     {
       "id": "c4cccbd79c61f2f479fbf205b85b150f",
@@ -3750,6 +4436,23 @@
       "opponent": "West Hallam Dragons U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "b4d45ee77623a45967c7f27cd73f0771",
+      "date": "2025-09-07",
+      "time": "10:00",
+      "home_team": "Sherwood FC U12 Girls",
+      "away_team": "Bingham Town F.C. U12 Girls Blue",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "U12",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "home",
+      "opponent": "Bingham Town F.C. U12 Girls Blue",
+      "goals_for": 3,
+      "goals_against": 2
     },
     {
       "id": "e09cdd7d5b48ebcb4b92850cd0170727",

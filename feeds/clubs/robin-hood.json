@@ -1,6 +1,6 @@
 {
   "club": "Robin Hood",
-  "generated": "2026-03-25T12:50:50Z",
+  "generated": "2026-03-25T13:55:34Z",
   "fixtures": [
     {
       "id": "90947ed6b5aa0cb595624cfc422a7087",
@@ -42,6 +42,32 @@
       "opponent": "RHP Colts Green U9"
     },
     {
+      "id": "78bf917331e4ec709e8416893e4b224a",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Robin Hood Colts FC Youth U13",
+      "away_team": "AFC Warriors Youth U13",
+      "venue": "SHERWOOD FIELDS (ROBIN HOOD COLTS FC)",
+      "division": "U13 Div 2 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Robin Hood Colts FC Youth U13",
+      "home_away": "home",
+      "opponent": "AFC Warriors Youth U13"
+    },
+    {
+      "id": "f5dff237b9c32e20d08b6a1444cc39e0",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Robin Hood Colts FC Youth U13",
+      "away_team": "Willow Wanderers F.C. Youth U13 Orcas",
+      "venue": "SHERWOOD FIELDS (ROBIN HOOD COLTS FC)",
+      "division": "U13 Div 2 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Robin Hood Colts FC Youth U13",
+      "home_away": "home",
+      "opponent": "Willow Wanderers F.C. Youth U13 Orcas"
+    },
+    {
       "id": "a5f7462df57d9d566152fe3ceff88644",
       "date": "2026-04-18",
       "time": "15:00",
@@ -53,6 +79,19 @@
       "team": "Robin Hood Colts FC",
       "home_away": "home",
       "opponent": "Trent Vineyard FC"
+    },
+    {
+      "id": "116b061923806f902d1c830543461342",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Robin Hood Colts FC Youth U13",
+      "away_team": "Wollaton Hall & Bramcote F.C. Youth U13",
+      "venue": "SHERWOOD FIELDS (ROBIN HOOD COLTS FC)",
+      "division": "U13 Div 2 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Robin Hood Colts FC Youth U13",
+      "home_away": "home",
+      "opponent": "Wollaton Hall & Bramcote F.C. Youth U13"
     },
     {
       "id": "a02f841a53a3ed7960f7492a9a864f68",
@@ -105,6 +144,32 @@
       "team": "Robin Hood Colts FC",
       "home_away": "away",
       "opponent": "AJ Sport F.C. Reserves"
+    },
+    {
+      "id": "1a255d74ce9b4129454b7d09c3f78d7b",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Wollaton Hall & Bramcote F.C. Youth U13",
+      "away_team": "Robin Hood Colts FC Youth U13",
+      "venue": "THE TRINITY CATHOLIC SCHOOL",
+      "division": "U13 Div 2 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Robin Hood Colts FC Youth U13",
+      "home_away": "away",
+      "opponent": "Wollaton Hall & Bramcote F.C. Youth U13"
+    },
+    {
+      "id": "430933308ed59bc46ef312f462916cbd",
+      "date": "2026-05-31",
+      "time": "10:00",
+      "home_team": "Willow Wanderers F.C. Youth U13 Orcas",
+      "away_team": "Robin Hood Colts FC Youth U13",
+      "venue": "CARLTON-LE-WILLOWS ACADEMY",
+      "division": "U13 Div 2 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Robin Hood Colts FC Youth U13",
+      "home_away": "away",
+      "opponent": "Willow Wanderers F.C. Youth U13 Orcas"
     }
   ],
   "results": [
@@ -160,6 +225,23 @@
       "goals_against": 3
     },
     {
+      "id": "25a684c388221079bdc0e04e6f6f39e2",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Robin Hood Colts FC Youth U13",
+      "away_team": "AFC Warriors Youth U13",
+      "home_score": 7,
+      "away_score": 3,
+      "venue": "U13 (11v11) Div 2 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Robin Hood Colts FC Youth U13",
+      "home_away": "home",
+      "opponent": "AFC Warriors Youth U13",
+      "goals_for": 7,
+      "goals_against": 3
+    },
+    {
       "id": "2db21d29dafefdd043556a578cc1e636",
       "date": "2026-03-21",
       "time": "15:00",
@@ -209,6 +291,23 @@
       "opponent": "Beaufort United Blue U12",
       "goals_for": 2,
       "goals_against": 4
+    },
+    {
+      "id": "d7ed4a9df5be48f199b827a67d59f15b",
+      "date": "2026-03-15",
+      "time": "11:00",
+      "home_team": "AFC Warriors Youth U13",
+      "away_team": "Robin Hood Colts FC Youth U13",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "U13 Div 2 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Robin Hood Colts FC Youth U13",
+      "home_away": "away",
+      "opponent": "AFC Warriors Youth U13",
+      "goals_for": 2,
+      "goals_against": 0
     },
     {
       "id": "f835dd892da3d33183af7dccc5eb4fd7",
@@ -313,6 +412,23 @@
       "goals_against": 8
     },
     {
+      "id": "484ac21ef0ad228dfc2f1e97f7580dab",
+      "date": "2026-03-08",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers & Juniors U13 Girls",
+      "away_team": "Robin Hood Colts FC Youth U13",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "U13 Div 2 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Robin Hood Colts FC Youth U13",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers & Juniors U13 Girls",
+      "goals_for": 5,
+      "goals_against": 0
+    },
+    {
       "id": "ef31d754086844a3b0ef2a17f854eef1",
       "date": "2026-03-07",
       "time": "15:00",
@@ -362,6 +478,23 @@
       "opponent": "Kirkby Colts Red U9",
       "goals_for": 3,
       "goals_against": 1
+    },
+    {
+      "id": "89b6d7844000cb1fb4d850ecfc359462",
+      "date": "2026-02-22",
+      "time": "12:30",
+      "home_team": "Arnold Town FC U13 Girls",
+      "away_team": "Robin Hood Colts FC Youth U13",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "U13 Div 2 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Robin Hood Colts FC Youth U13",
+      "home_away": "away",
+      "opponent": "Arnold Town FC U13 Girls",
+      "goals_for": 2,
+      "goals_against": 2
     },
     {
       "id": "2a297eddef9c5ebf1b05245f7370a8e7",
@@ -500,6 +633,23 @@
       "goals_against": 2
     },
     {
+      "id": "b4dae38b4abd867b0d0b448285b1d4bb",
+      "date": "2026-02-08",
+      "time": "10:00",
+      "home_team": "Robin Hood Colts FC Youth U13",
+      "away_team": "Arnold Town FC U13 Girls",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "U13 (11v11) Div 2 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Robin Hood Colts FC Youth U13",
+      "home_away": "home",
+      "opponent": "Arnold Town FC U13 Girls",
+      "goals_for": 4,
+      "goals_against": 2
+    },
+    {
       "id": "534f64a11c91b7cbd53bff63432d8550",
       "date": "2026-02-07",
       "time": "14:00",
@@ -634,6 +784,23 @@
       "opponent": "Blidworth Bengals U9",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "3b6e1dfa50cec9ae014929242b5e7733",
+      "date": "2026-01-25",
+      "time": "10:00",
+      "home_team": "Robin Hood Colts FC Youth U13",
+      "away_team": "Wollaton Hall & Bramcote F.C. Youth U13",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "U13 (11v11) Div 2 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Robin Hood Colts FC Youth U13",
+      "home_away": "home",
+      "opponent": "Wollaton Hall & Bramcote F.C. Youth U13",
+      "goals_for": 2,
+      "goals_against": 3
     },
     {
       "id": "7f2df451aea1ac613339475acdbff87d",
@@ -857,6 +1024,23 @@
       "goals_against": 3
     },
     {
+      "id": "dea650362ea7bc18f37ab74d94c04461",
+      "date": "2025-12-07",
+      "time": "11:00",
+      "home_team": "Arnold Town FC U13 Girls",
+      "away_team": "Robin Hood Colts FC Youth U13",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "U13 (11v11) Div 2 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Robin Hood Colts FC Youth U13",
+      "home_away": "away",
+      "opponent": "Arnold Town FC U13 Girls",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
       "id": "6a7dc82c3b7bf82f30453562915ceefc",
       "date": "2025-12-07",
       "time": "09:30",
@@ -942,6 +1126,23 @@
       "goals_against": 0
     },
     {
+      "id": "ebdd93cc211347d3013bb0345904895a",
+      "date": "2025-11-30",
+      "time": "10:00",
+      "home_team": "Robin Hood Colts FC Youth U13",
+      "away_team": "Sandiacre Town Youth U13 Royals",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "U13 Div 2 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Robin Hood Colts FC Youth U13",
+      "home_away": "home",
+      "opponent": "Sandiacre Town Youth U13 Royals",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
       "id": "203cea288b1eadbdc70c62d5742a8747",
       "date": "2025-11-29",
       "time": "14:00",
@@ -1008,6 +1209,23 @@
       "opponent": "RHP Colts Green U9",
       "goals_for": 1,
       "goals_against": 2
+    },
+    {
+      "id": "114dc46cf3fb1114237d52049ff49fd2",
+      "date": "2025-11-23",
+      "time": "10:00",
+      "home_team": "Hucknall & Linby Harriers FC U13",
+      "away_team": "Robin Hood Colts FC Youth U13",
+      "home_score": 0,
+      "away_score": 9,
+      "venue": "U13 Div 2 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Robin Hood Colts FC Youth U13",
+      "home_away": "away",
+      "opponent": "Hucknall & Linby Harriers FC U13",
+      "goals_for": 9,
+      "goals_against": 0
     },
     {
       "id": "9ed24a7874d84ca8f4b01364ff6937a8",
@@ -1180,6 +1398,23 @@
       "goals_against": null
     },
     {
+      "id": "b1bc1227fc01e502d3aef6f9f3efd0a6",
+      "date": "2025-11-02",
+      "time": "10:00",
+      "home_team": "Robin Hood Colts FC Youth U13",
+      "away_team": "Hucknall & Linby Harriers FC U13",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "U13 Div 2 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Robin Hood Colts FC Youth U13",
+      "home_away": "home",
+      "opponent": "Hucknall & Linby Harriers FC U13",
+      "goals_for": 1,
+      "goals_against": 0
+    },
+    {
       "id": "5d37c1789c3dee2b59e642db1b508df3",
       "date": "2025-11-01",
       "time": "14:00",
@@ -1229,6 +1464,23 @@
       "opponent": "City United FC",
       "goals_for": 1,
       "goals_against": 1
+    },
+    {
+      "id": "c9af5705cd2beb5277b04e2c36bc86b7",
+      "date": "2025-10-12",
+      "time": "12:30",
+      "home_team": "Robin Hood Colts FC Youth U13",
+      "away_team": "Sandiacre Town Youth U13 Royals",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "U13 (11v11) Div 2 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Robin Hood Colts FC Youth U13",
+      "home_away": "home",
+      "opponent": "Sandiacre Town Youth U13 Royals",
+      "goals_for": 5,
+      "goals_against": 0
     },
     {
       "id": "b962cf3d54c1fceb723f0924091283f8",
@@ -1348,6 +1600,23 @@
       "opponent": "Sherwood Colliery Outlaws U12",
       "goals_for": 0,
       "goals_against": 12
+    },
+    {
+      "id": "1c1eda941734121f4429c13183bf4fb9",
+      "date": "2025-10-05",
+      "time": "10:00",
+      "home_team": "Robin Hood Colts FC Youth U13",
+      "away_team": "Arnold Town FC U13 Girls",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "U13 Div 2 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Robin Hood Colts FC Youth U13",
+      "home_away": "home",
+      "opponent": "Arnold Town FC U13 Girls",
+      "goals_for": 4,
+      "goals_against": 0
     },
     {
       "id": "f694844bea3b49f007bf29ca6c260b0b",
@@ -1520,6 +1789,23 @@
       "goals_against": 10
     },
     {
+      "id": "e22eb7523c632660e2568ca526409d60",
+      "date": "2025-09-21",
+      "time": "10:00",
+      "home_team": "Robin Hood Colts FC Youth U13",
+      "away_team": "Shirebrook Rangers & Juniors U13 Girls",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "U13 Div 2 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Robin Hood Colts FC Youth U13",
+      "home_away": "home",
+      "opponent": "Shirebrook Rangers & Juniors U13 Girls",
+      "goals_for": 6,
+      "goals_against": 1
+    },
+    {
       "id": "32be18971ab022cb3a0964a25b934300",
       "date": "2025-09-20",
       "time": "15:00",
@@ -1569,6 +1855,23 @@
       "opponent": "Pegasus FC U13",
       "goals_for": 5,
       "goals_against": 0
+    },
+    {
+      "id": "d8b76bb90cbe668c0b334130dec72cdc",
+      "date": "2025-09-14",
+      "time": "10:30",
+      "home_team": "Sandiacre Town Youth U13 Royals",
+      "away_team": "Robin Hood Colts FC Youth U13",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "U13 Div 2 11 v 11",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Robin Hood Colts FC Youth U13",
+      "home_away": "away",
+      "opponent": "Sandiacre Town Youth U13 Royals",
+      "goals_for": 4,
+      "goals_against": 1
     },
     {
       "id": "e58297de728b118cb31d8321129dbc12",

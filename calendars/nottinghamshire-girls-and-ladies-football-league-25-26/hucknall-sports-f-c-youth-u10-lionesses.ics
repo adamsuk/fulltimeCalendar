@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hucknall Sports F.C. Youth U10 Lionesses
+X-WR-CALDESC:Fixtures for Hucknall Sports F.C. Youth U10 Lionesses — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:2d9d7830793c222c13d3a486e43b7939@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Hucknall Sports F.C. Youth U10 Lionesses vs Canoville FC U10 FC Gold (Home)
+DESCRIPTION:Division: U10 Development\nHucknall Sports F.C. Youth U10 Lionesses v Canoville FC U10 FC Gold\nKO: 10:00
+LOCATION:Hucknall Sports F.C. Youth U10 Lionesses
+END:VEVENT
+END:VCALENDAR

@@ -1,6 +1,6 @@
 {
   "club": "Sutton Bonington",
-  "generated": "2026-03-25T12:50:50Z",
+  "generated": "2026-03-25T13:55:34Z",
   "fixtures": [
     {
       "id": "b55a5f1349a2503d42a820e21802b34e",
@@ -79,9 +79,39 @@
       "team": "Sutton Bonington Hornets U9",
       "home_away": "away",
       "opponent": "Eastwood CFC Red U9"
+    },
+    {
+      "id": "e68470efc4e7910bcb166e2040336624",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Ravenshead Reds F.C. Youth U12",
+      "away_team": "Sutton Bonington U12 Comets",
+      "venue": "Ravenshead Reds F.C. Youth U12 (SUN) GIR",
+      "division": "U12 Div 5 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sutton Bonington U12 Comets",
+      "home_away": "away",
+      "opponent": "Ravenshead Reds F.C. Youth U12"
     }
   ],
   "results": [
+    {
+      "id": "0413f69463f694501d9ba9cd3b0d20e1",
+      "date": "2026-03-22",
+      "time": "09:45",
+      "home_team": "Sherwood Colliery F.C. Ladies U12 Black",
+      "away_team": "Sutton Bonington U12 Comets",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "U12 Div 5 P2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sutton Bonington U12 Comets",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery F.C. Ladies U12 Black",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "321748dfb823f52ef28530236cbf92d5",
       "date": "2026-03-21",
@@ -117,6 +147,40 @@
       "goals_against": 0
     },
     {
+      "id": "00d73d695fa23ecacb306f2ea1b15081",
+      "date": "2026-03-08",
+      "time": "11:00",
+      "home_team": "Ravenshead Reds F.C. Youth U12",
+      "away_team": "Sutton Bonington U12 Comets",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "U12 Div 5",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sutton Bonington U12 Comets",
+      "home_away": "away",
+      "opponent": "Ravenshead Reds F.C. Youth U12",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
+      "id": "0792e673f0a89dee2ee3a9e542ee3b6e",
+      "date": "2026-03-01",
+      "time": "10:00",
+      "home_team": "Eastwood CFC U12 Girls",
+      "away_team": "Sutton Bonington U12 Comets",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "U12 Cup 4",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sutton Bonington U12 Comets",
+      "home_away": "away",
+      "opponent": "Eastwood CFC U12 Girls",
+      "goals_for": 0,
+      "goals_against": 3
+    },
+    {
       "id": "f86241bdd42b094e1cf55ecf507c12fb",
       "date": "2026-02-28",
       "time": "12:00",
@@ -131,6 +195,23 @@
       "home_away": "away",
       "opponent": "WBYFC Independiente U9",
       "goals_for": 7,
+      "goals_against": 2
+    },
+    {
+      "id": "808a2ff5df9c5a3e85c16a516729e5f0",
+      "date": "2026-02-22",
+      "time": "11:00",
+      "home_team": "Sutton Bonington U12 Comets",
+      "away_team": "Sherwood Colliery F.C. Ladies U12 Black",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "U12 Div 5",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sutton Bonington U12 Comets",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery F.C. Ladies U12 Black",
+      "goals_for": 1,
       "goals_against": 2
     },
     {
@@ -149,6 +230,23 @@
       "opponent": "WBYFC Corinthians U9",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "589d8a0f18237178f75c1ff27629f23a",
+      "date": "2026-02-01",
+      "time": "10:00",
+      "home_team": "Tansley Juniors U12 Girls",
+      "away_team": "Sutton Bonington U12 Comets",
+      "home_score": 5,
+      "away_score": 4,
+      "venue": "U12 Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sutton Bonington U12 Comets",
+      "home_away": "away",
+      "opponent": "Tansley Juniors U12 Girls",
+      "goals_for": 4,
+      "goals_against": 5
     },
     {
       "id": "7c38555dc9dfb16940593c50c8e46b37",
@@ -185,6 +283,23 @@
       "goals_against": null
     },
     {
+      "id": "7066cf0e4e9a7a392f8a86f9bf5a72aa",
+      "date": "2026-01-18",
+      "time": "11:00",
+      "home_team": "Sutton Bonington U12 Comets",
+      "away_team": "Muskham Cougars F.C. Youth U12",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "U12 Div 5",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sutton Bonington U12 Comets",
+      "home_away": "home",
+      "opponent": "Muskham Cougars F.C. Youth U12",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
       "id": "84e9b1b3a3ae21b516454f5eca9ac242",
       "date": "2026-01-17",
       "time": "11:00",
@@ -200,6 +315,23 @@
       "opponent": "Clifton All Whites Blue U9",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "a10341d8623e90a34cdc6acbf65b0c5d",
+      "date": "2025-12-07",
+      "time": "11:00",
+      "home_team": "Sutton Bonington U12 Comets",
+      "away_team": "Tansley Juniors U12 Girls",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "U12 Div 5",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sutton Bonington U12 Comets",
+      "home_away": "home",
+      "opponent": "Tansley Juniors U12 Girls",
+      "goals_for": 5,
+      "goals_against": 0
     },
     {
       "id": "cde3f07222f4978b1d31da0d663f151a",
@@ -236,6 +368,23 @@
       "goals_against": null
     },
     {
+      "id": "4e127ae285bff2462bba785822b32d15",
+      "date": "2025-11-23",
+      "time": "10:00",
+      "home_team": "Eastwood CFC U12 Girls",
+      "away_team": "Sutton Bonington U12 Comets",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "U12 Div 5",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sutton Bonington U12 Comets",
+      "home_away": "away",
+      "opponent": "Eastwood CFC U12 Girls",
+      "goals_for": 1,
+      "goals_against": 5
+    },
+    {
       "id": "cebe455789a51f0c7a9291435e0c307d",
       "date": "2025-11-22",
       "time": "11:00",
@@ -253,6 +402,23 @@
       "goals_against": 1
     },
     {
+      "id": "56939483b0a8c056ed60322e6eb5b9da",
+      "date": "2025-11-16",
+      "time": "11:00",
+      "home_team": "Sutton Bonington U12 Comets",
+      "away_team": "Dunton & Broughton United Juniors U12 Li",
+      "home_score": 0,
+      "away_score": 18,
+      "venue": "Girls Under 12 County Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sutton Bonington U12 Comets",
+      "home_away": "home",
+      "opponent": "Dunton & Broughton United Juniors U12 Li",
+      "goals_for": 0,
+      "goals_against": 18
+    },
+    {
       "id": "03a866ae99c48a3dfeb06f017af6191a",
       "date": "2025-11-15",
       "time": "10:00",
@@ -268,6 +434,23 @@
       "opponent": "Stapleford Town U9",
       "goals_for": 3,
       "goals_against": 1
+    },
+    {
+      "id": "b4fbe6d0874f62ef1514824c04a02ecf",
+      "date": "2025-11-09",
+      "time": "12:30",
+      "home_team": "Sherwood Colliery F.C. Ladies U12 Black",
+      "away_team": "Sutton Bonington U12 Comets",
+      "home_score": 10,
+      "away_score": 0,
+      "venue": "U12 Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sutton Bonington U12 Comets",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery F.C. Ladies U12 Black",
+      "goals_for": 0,
+      "goals_against": 10
     },
     {
       "id": "185dc9de9faccc1bc32df66c2470c605",
@@ -304,6 +487,23 @@
       "goals_against": null
     },
     {
+      "id": "c5b33d646519aec1284dc55e658892b7",
+      "date": "2025-10-12",
+      "time": "10:00",
+      "home_team": "Tansley Juniors U12 Girls",
+      "away_team": "Sutton Bonington U12 Comets",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "U12",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sutton Bonington U12 Comets",
+      "home_away": "away",
+      "opponent": "Tansley Juniors U12 Girls",
+      "goals_for": 0,
+      "goals_against": 0
+    },
+    {
       "id": "ee261ec092f7cc7360a8df075da07767",
       "date": "2025-10-11",
       "time": "11:00",
@@ -319,6 +519,23 @@
       "opponent": "AJ Sport Red U9",
       "goals_for": 2,
       "goals_against": 0
+    },
+    {
+      "id": "2d37536462e72cbec39f232c8c76f8a6",
+      "date": "2025-10-05",
+      "time": "11:00",
+      "home_team": "Sutton Bonington U12 Comets",
+      "away_team": "Ravenshead Reds F.C. Youth U12",
+      "home_score": 0,
+      "away_score": 6,
+      "venue": "U12",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sutton Bonington U12 Comets",
+      "home_away": "home",
+      "opponent": "Ravenshead Reds F.C. Youth U12",
+      "goals_for": 0,
+      "goals_against": 6
     },
     {
       "id": "e87bc7b227d4e67ca0a47bbfeb8cef0e",
@@ -338,6 +555,23 @@
       "goals_against": 5
     },
     {
+      "id": "5e7faf20e28d8ce4e15d8b0d4c47d730",
+      "date": "2025-09-28",
+      "time": "11:00",
+      "home_team": "Sutton Bonington U12 Comets",
+      "away_team": "Clipstone Welfare Colts F.C. Youth U12",
+      "home_score": 0,
+      "away_score": 8,
+      "venue": "U12",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sutton Bonington U12 Comets",
+      "home_away": "home",
+      "opponent": "Clipstone Welfare Colts F.C. Youth U12",
+      "goals_for": 0,
+      "goals_against": 8
+    },
+    {
       "id": "857c2d21512626fcc75c4c01af7daed7",
       "date": "2025-09-27",
       "time": "10:00",
@@ -353,6 +587,23 @@
       "opponent": "A.C. United U9",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "eab59375aa70c9e2374642210a020d97",
+      "date": "2025-09-21",
+      "time": "10:00",
+      "home_team": "Muskham Cougars F.C. Youth U12",
+      "away_team": "Sutton Bonington U12 Comets",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "U12",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sutton Bonington U12 Comets",
+      "home_away": "away",
+      "opponent": "Muskham Cougars F.C. Youth U12",
+      "goals_for": 0,
+      "goals_against": 3
     },
     {
       "id": "36e019a227edd1d6f22ebd874954e105",

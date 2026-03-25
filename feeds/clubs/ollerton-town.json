@@ -1,6 +1,6 @@
 {
   "club": "Ollerton Town",
-  "generated": "2026-03-25T12:50:50Z",
+  "generated": "2026-03-25T13:55:34Z",
   "fixtures": [
     {
       "id": "7c4b1227b85ed5541cd19b999efef51d",
@@ -40,6 +40,19 @@
       "team": "Ollerton Town Red U8",
       "home_away": "away",
       "opponent": "Wollaton FC Sky U8"
+    },
+    {
+      "id": "78bba25d94e288edd38abbb32e07da84",
+      "date": "2026-03-29",
+      "time": "10:30",
+      "home_team": "West Bridgford Colts U12 Lightning",
+      "away_team": "Ollerton Town Community FC U12 Girls",
+      "venue": "REGATTA WAY SPORTS GROUND",
+      "division": "Other Fixtures",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC U12 Girls",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U12 Lightning"
     },
     {
       "id": "1a4ad3f992b8fdd126a0b671946c1f08",
@@ -217,6 +230,23 @@
       "goals_against": 1
     },
     {
+      "id": "0b2b315fba33f5a913f00aef5292efe9",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Ollerton Town Community FC U12 Girls",
+      "away_team": "Keyworth United F.C. U12 Vipers",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "U12 Cup 2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC U12 Girls",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U12 Vipers",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
       "id": "4e42e3302915f5b54449daa15100bf61",
       "date": "2026-03-21",
       "time": "11:15",
@@ -387,6 +417,23 @@
       "goals_against": 3
     },
     {
+      "id": "6e9a6daa36ff6b294716853074ff9894",
+      "date": "2026-03-08",
+      "time": "10:00",
+      "home_team": "Blidworth Bengals F.C. U12",
+      "away_team": "Ollerton Town Community FC U12 Girls",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "U12 Div 3",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC U12 Girls",
+      "home_away": "away",
+      "opponent": "Blidworth Bengals F.C. U12",
+      "goals_for": 1,
+      "goals_against": 0
+    },
+    {
       "id": "f8e9cabf7b258bb02f319465ed82f045",
       "date": "2026-03-07",
       "time": "10:00",
@@ -419,6 +466,23 @@
       "opponent": "Star Strike Tigers Black U14",
       "goals_for": 3,
       "goals_against": 5
+    },
+    {
+      "id": "4241a8ebd47798d349e47081f23cb30b",
+      "date": "2026-03-01",
+      "time": "12:00",
+      "home_team": "Ollerton Town Community FC U12 Girls",
+      "away_team": "Woodthorpe Community U12 Warriors",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "U12 Cup 2",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC U12 Girls",
+      "home_away": "home",
+      "opponent": "Woodthorpe Community U12 Warriors",
+      "goals_for": 2,
+      "goals_against": 0
     },
     {
       "id": "dca53ebe9d77fbd99d32b8b0602a222b",
@@ -487,6 +551,23 @@
       "opponent": "Shirebrook Soldiers Cobras U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "a4513ccdf78b89b50160a62cdd1538da",
+      "date": "2026-02-22",
+      "time": "12:00",
+      "home_team": "Keyworth United F.C. U12 Vipers",
+      "away_team": "Ollerton Town Community FC U12 Girls",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "Other Fixtures",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC U12 Girls",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U12 Vipers",
+      "goals_for": 3,
+      "goals_against": 1
     },
     {
       "id": "4ed40613a2014a7308a098ce9984a1fd",
@@ -642,6 +723,23 @@
       "goals_against": null
     },
     {
+      "id": "125ca0dba76a57bf4df8546c185efcdb",
+      "date": "2026-02-01",
+      "time": "14:30",
+      "home_team": "Ollerton Town Community FC U12 Girls",
+      "away_team": "Bingham Town F.C. U12 Girls Blue",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "U12 Div 3",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC U12 Girls",
+      "home_away": "home",
+      "opponent": "Bingham Town F.C. U12 Girls Blue",
+      "goals_for": 0,
+      "goals_against": 0
+    },
+    {
       "id": "149b998e39572b0c7e6496ffc4312bcf",
       "date": "2026-02-01",
       "time": "12:30",
@@ -727,6 +825,23 @@
       "goals_against": null
     },
     {
+      "id": "0c8ee2ded2f0a78e3fc5ac5cccffe5fd",
+      "date": "2026-01-25",
+      "time": "14:00",
+      "home_team": "Ollerton Town Community FC Ladies",
+      "away_team": "Keyworth United FC First",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "Senior Div 1 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC Ladies",
+      "home_away": "home",
+      "opponent": "Keyworth United FC First",
+      "goals_for": 2,
+      "goals_against": 4
+    },
+    {
       "id": "905bf8c5543e77e437eec1a085ee0dd1",
       "date": "2026-01-25",
       "time": "12:30",
@@ -742,6 +857,23 @@
       "opponent": "Ilkeston Town Panthers U13",
       "goals_for": 2,
       "goals_against": 5
+    },
+    {
+      "id": "82e2e95d13cc7abe9677b19541955aa4",
+      "date": "2026-01-25",
+      "time": "12:30",
+      "home_team": "Ollerton Town Community FC U12 Girls",
+      "away_team": "ATFA Brinsley FC U12",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "U12 Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC U12 Girls",
+      "home_away": "home",
+      "opponent": "ATFA Brinsley FC U12",
+      "goals_for": 2,
+      "goals_against": 0
     },
     {
       "id": "416fd84f885446f5d3c42658bd798b4d",
@@ -829,6 +961,23 @@
       "goals_against": 4
     },
     {
+      "id": "ca273801f380630248527fd7678f5f31",
+      "date": "2026-01-18",
+      "time": "10:00",
+      "home_team": "Bingham Town F.C. U12 Girls Blue",
+      "away_team": "Ollerton Town Community FC U12 Girls",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "U12 Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC U12 Girls",
+      "home_away": "away",
+      "opponent": "Bingham Town F.C. U12 Girls Blue",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
       "id": "9ad9e102c24812806264da46d6361c56",
       "date": "2026-01-17",
       "time": "12:00",
@@ -861,6 +1010,23 @@
       "opponent": "Carlton Town Golden U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "2c9a9e05619171a9f52977650e262fd3",
+      "date": "2025-12-14",
+      "time": "12:00",
+      "home_team": "Ollerton Town Community FC U12 Girls",
+      "away_team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "U12 Div 3",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC U12 Girls",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "goals_for": 1,
+      "goals_against": 1
     },
     {
       "id": "29a5633da69a4556c089713ff6772d76",
@@ -929,6 +1095,40 @@
       "opponent": "RHP Colts Green U14",
       "goals_for": 4,
       "goals_against": 5
+    },
+    {
+      "id": "aa0b442efaff0c240a71c937b5e2eed3",
+      "date": "2025-12-07",
+      "time": "14:00",
+      "home_team": "Ollerton Town Community FC Ladies",
+      "away_team": "Radcliffe Olympic FC Ladies",
+      "home_score": 5,
+      "away_score": 5,
+      "venue": "Senior Div 1 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC Ladies",
+      "home_away": "home",
+      "opponent": "Radcliffe Olympic FC Ladies",
+      "goals_for": 5,
+      "goals_against": 5
+    },
+    {
+      "id": "4142df39fa8c5c35279a455e59361d55",
+      "date": "2025-12-07",
+      "time": "13:00",
+      "home_team": "Ollerton Town Community FC U12 Girls",
+      "away_team": "Gedling Southbank FC U12 Hunters",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "U12 Div 3",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC U12 Girls",
+      "home_away": "home",
+      "opponent": "Gedling Southbank FC U12 Hunters",
+      "goals_for": 0,
+      "goals_against": 0
     },
     {
       "id": "1fc57c7f3c25720b978011c6abb13373",
@@ -1050,6 +1250,23 @@
       "goals_against": 1
     },
     {
+      "id": "775540f8634948940134709faf12d31b",
+      "date": "2025-11-23",
+      "time": "10:00",
+      "home_team": "Ollerton Town Community FC U12 Girls",
+      "away_team": "Burton Joyce F.C. Girls U12 Outlaws",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "U12 Div 3",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC U12 Girls",
+      "home_away": "home",
+      "opponent": "Burton Joyce F.C. Girls U12 Outlaws",
+      "goals_for": 4,
+      "goals_against": 0
+    },
+    {
       "id": "deba4ae234d23a34c42e28f5b903a526",
       "date": "2025-11-22",
       "time": "10:00",
@@ -1101,6 +1318,23 @@
       "goals_against": 1
     },
     {
+      "id": "b85f959d18cb82671068fab7d6d08513",
+      "date": "2025-11-16",
+      "time": "10:00",
+      "home_team": "Bingham Town F.C. U12 Girls Red",
+      "away_team": "Ollerton Town Community FC U12 Girls",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "U12 Div 3",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC U12 Girls",
+      "home_away": "away",
+      "opponent": "Bingham Town F.C. U12 Girls Red",
+      "goals_for": 5,
+      "goals_against": 2
+    },
+    {
       "id": "ce4524d530025b90cd02eba2ed7b7bf6",
       "date": "2025-11-09",
       "time": "12:30",
@@ -1131,6 +1365,23 @@
       "team": "Ollerton Town U12",
       "home_away": "away",
       "opponent": "Beaufort United Blue U12",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
+      "id": "50bd5274684e5e39e148c8f8297fd2fb",
+      "date": "2025-11-09",
+      "time": "10:00",
+      "home_team": "Gedling Southbank FC U12 Hunters",
+      "away_team": "Ollerton Town Community FC U12 Girls",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "U12 Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC U12 Girls",
+      "home_away": "away",
+      "opponent": "Gedling Southbank FC U12 Hunters",
       "goals_for": 3,
       "goals_against": 1
     },
@@ -1184,6 +1435,23 @@
       "opponent": "Beeston FC U14",
       "goals_for": 6,
       "goals_against": 2
+    },
+    {
+      "id": "49a585bc0d27e229d61477c54ddb70aa",
+      "date": "2025-11-02",
+      "time": "10:45",
+      "home_team": "West Bridgford Colts U12 Lightning",
+      "away_team": "Ollerton Town Community FC U12 Girls",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "U12 Div 3",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC U12 Girls",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U12 Lightning",
+      "goals_for": 0,
+      "goals_against": 1
     },
     {
       "id": "d91ecb9f76f2bbfd128b09123788f1d2",
@@ -1288,6 +1556,23 @@
       "goals_against": null
     },
     {
+      "id": "e7326c5bda1571644fd37f57f424659c",
+      "date": "2025-10-12",
+      "time": "15:00",
+      "home_team": "Mansfield Town Ladies FC Development",
+      "away_team": "Ollerton Town Community FC Ladies",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "Senior Div 1 League Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC Ladies",
+      "home_away": "away",
+      "opponent": "Mansfield Town Ladies FC Development",
+      "goals_for": 5,
+      "goals_against": 1
+    },
+    {
       "id": "58b257ceb3186d55d4df4eae3ced1f26",
       "date": "2025-10-12",
       "time": "12:30",
@@ -1303,6 +1588,23 @@
       "opponent": "Tuxford FC U12",
       "goals_for": 1,
       "goals_against": 3
+    },
+    {
+      "id": "984e4e0d044cf37a17c2ecb1f810f2d9",
+      "date": "2025-10-12",
+      "time": "11:15",
+      "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "away_team": "Ollerton Town Community FC U12 Girls",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "U12",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC U12 Girls",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC U12 Girls Eagles",
+      "goals_for": 3,
+      "goals_against": 4
     },
     {
       "id": "cf86fea12a2043404addb6132c214aa9",
@@ -1354,6 +1656,23 @@
       "opponent": "Long Eaton United Rayo U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "c23cd1b4402a8f405cc800aaa4118535",
+      "date": "2025-10-05",
+      "time": "12:15",
+      "home_team": "Ollerton Town Community FC U12 Girls",
+      "away_team": "Mansfield Town F.C. Girls U12",
+      "home_score": 0,
+      "away_score": 6,
+      "venue": "U12",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC U12 Girls",
+      "home_away": "home",
+      "opponent": "Mansfield Town F.C. Girls U12",
+      "goals_for": 0,
+      "goals_against": 6
     },
     {
       "id": "68f194bd51805f663e9a0778c24f34cc",
@@ -1441,6 +1760,40 @@
       "goals_against": 2
     },
     {
+      "id": "0575615812090720807aa5be4d3f13cf",
+      "date": "2025-09-28",
+      "time": "13:30",
+      "home_team": "Ollerton Town Community FC Ladies",
+      "away_team": "Uni of Nottingham F.C. Women",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "Women's County Cup",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC Ladies",
+      "home_away": "home",
+      "opponent": "Uni of Nottingham F.C. Women",
+      "goals_for": 2,
+      "goals_against": 5
+    },
+    {
+      "id": "9139c598650a577a7685a6f7d15642e2",
+      "date": "2025-09-28",
+      "time": "12:30",
+      "home_team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "away_team": "Ollerton Town Community FC U12 Girls",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "U12",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC U12 Girls",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
       "id": "7f9a4fc544954e26ec98778ed45ced8d",
       "date": "2025-09-28",
       "time": "10:00",
@@ -1526,6 +1879,23 @@
       "goals_against": 4
     },
     {
+      "id": "3e147a77f251ff769419e635ff69068c",
+      "date": "2025-09-21",
+      "time": "11:15",
+      "home_team": "Ollerton Town Community FC U12 Girls",
+      "away_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "home_score": 7,
+      "away_score": 0,
+      "venue": "U12",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC U12 Girls",
+      "home_away": "home",
+      "opponent": "Radcliffe Olympic FC U12 Girls Eagles",
+      "goals_for": 7,
+      "goals_against": 0
+    },
+    {
       "id": "9a894c95f24f2e3667aa619f5821982a",
       "date": "2025-09-21",
       "time": "10:00",
@@ -1590,6 +1960,23 @@
       "team": "Ollerton Town U12",
       "home_away": "away",
       "opponent": "Kirkby Colts Black U12",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
+      "id": "5d7a95105f014d8094bb23dc5396808c",
+      "date": "2025-09-14",
+      "time": "10:45",
+      "home_team": "West Bridgford Colts U12 Flames",
+      "away_team": "Ollerton Town Community FC U12 Girls",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "U12",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC U12 Girls",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U12 Flames",
       "goals_for": 2,
       "goals_against": 1
     },
@@ -1660,6 +2047,23 @@
       "opponent": "Collingham FC Cougars U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "f3f552a735524fed9020cd8c110f8957",
+      "date": "2025-09-07",
+      "time": "13:00",
+      "home_team": "Ollerton Town Community FC U12 Girls",
+      "away_team": "West Bridgford Colts U12 Lightning",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "U12",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC U12 Girls",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U12 Lightning",
+      "goals_for": 1,
+      "goals_against": 1
     },
     {
       "id": "be09dee666daf8c8c2bff09ce0184f57",

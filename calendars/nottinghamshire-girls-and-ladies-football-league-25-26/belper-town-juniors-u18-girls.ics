@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Belper Town Juniors U18 Girls
+X-WR-CALDESC:Fixtures for Belper Town Juniors U18 Girls — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:d21c143fea7e316524c479f974abf349@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T113000
+SUMMARY:⚽ Belper Town Juniors U18 Girls vs West Bridgford Colts U18 Rangers Girls (Home)
+DESCRIPTION:Division: U18 Div 1 Phase 2\nBelper Town Juniors U18 Girls v West Bridgford Colts U18 Rangers Girls\nKO: 10:00
+LOCATION:THORNTONS PLAYING FIELDS
+END:VEVENT
+BEGIN:VEVENT
+UID:7397c773bcc2052d50b4a2be1ee25fca@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Belper Town Juniors U18 Girls vs Pilsley Community U17 Ladies (Away)
+DESCRIPTION:Division: U18 Div 1 Phase 2\nPilsley Community U17 Ladies v Belper Town Juniors U18 Girls\nKO: 10:00
+LOCATION:PILSLEY SPORTS FIELDS
+END:VEVENT
+BEGIN:VEVENT
+UID:735ace8528795672bb86ef6c04e7db63@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Belper Town Juniors U18 Girls vs Sleetmoor United FC U18 Girls (Away)
+DESCRIPTION:Division: U18 Div 1 Phase 2\nSleetmoor United FC U18 Girls v Belper Town Juniors U18 Girls\nKO: 10:00
+LOCATION:SLEETMOOR SPORTS GROUND
+END:VEVENT
+BEGIN:VEVENT
+UID:d59eb7293547fe616392784416567661@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260524T100000
+DTEND;TZID=Europe/London:20260524T113000
+SUMMARY:⚽ Belper Town Juniors U18 Girls vs Long Bennington FC U18 Girls (Home)
+DESCRIPTION:Division: U18 Div 1 Phase 2\nBelper Town Juniors U18 Girls v Long Bennington FC U18 Girls\nKO: 10:00
+LOCATION:THORNTONS PLAYING FIELDS
+END:VEVENT
+END:VCALENDAR

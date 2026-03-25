@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Shirebrook Rangers & Juniors U13 Girls
+X-WR-CALDESC:Fixtures for Shirebrook Rangers & Juniors U13 Girls — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:52558e577db15966706a04725c8432d1@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260329T113000
+DTEND;TZID=Europe/London:20260329T123000
+SUMMARY:⚽ Shirebrook Rangers & Juniors U13 Girls vs Hucknall & Linby Harriers FC U13 (Away)
+DESCRIPTION:Division: U13 Div 2 11 v 11\nHucknall & Linby Harriers FC U13 v Shirebrook Rangers & Juniors U13 Girls\nKO: 11:30
+LOCATION:HOLGATE ACADEMY
+END:VEVENT
+BEGIN:VEVENT
+UID:938a82db472cef6e7ab367e88b98ee9c@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Shirebrook Rangers & Juniors U13 Girls vs Willow Wanderers F.C. Youth U13 Orcas (Home)
+DESCRIPTION:Division: U13 Div 2 11 v 11\nShirebrook Rangers & Juniors U13 Girls v Willow Wanderers F.C. Youth U13 Orcas\nKO: 10:00
+LOCATION:SHIREBROOK ACADEMY
+END:VEVENT
+BEGIN:VEVENT
+UID:455fc5d08fb24befd2e78d76203a22d2@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260503T100000
+DTEND;TZID=Europe/London:20260503T113000
+SUMMARY:⚽ Shirebrook Rangers & Juniors U13 Girls vs Willow Wanderers F.C. Youth U13 Orcas (Away)
+DESCRIPTION:Division: U13 Div 2 11 v 11\nWillow Wanderers F.C. Youth U13 Orcas v Shirebrook Rangers & Juniors U13 Girls\nKO: 10:00
+LOCATION:CARLTON-LE-WILLOWS ACADEMY
+END:VEVENT
+END:VCALENDAR

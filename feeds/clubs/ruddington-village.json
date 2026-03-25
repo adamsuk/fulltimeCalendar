@@ -1,6 +1,6 @@
 {
   "club": "Ruddington Village",
-  "generated": "2026-03-25T12:50:50Z",
+  "generated": "2026-03-25T13:55:34Z",
   "fixtures": [
     {
       "id": "81b1492d06aa33647e942366b5f30c80",
@@ -276,6 +276,19 @@
       "opponent": "WBYFC Courage Red U8"
     },
     {
+      "id": "07c030c92ed9fdfd2a05c5742b41162e",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "West Bridgford Colts U7 Ember",
+      "away_team": "Ruddington Village U7 Girls",
+      "venue": "West Bridgford Colts U7 Ember",
+      "division": "U7 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ruddington Village U7 Girls",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U7 Ember"
+    },
+    {
       "id": "2b9a03120bd8d240b4af85be4b008bdc",
       "date": "2026-04-14",
       "time": "18:30",
@@ -443,6 +456,19 @@
       "team": "Ruddington Village Yellow U11",
       "home_away": "home",
       "opponent": "Keyworth United Green U11"
+    },
+    {
+      "id": "34d500a4f2c69060c28854016c9b01bf",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Ruddington Village U7 Girls",
+      "away_team": "Bingham Town F.C. U7 Girls",
+      "venue": "RUDDINGTON JUBILEE PLAYING FIELD",
+      "division": "U7 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ruddington Village U7 Girls",
+      "home_away": "home",
+      "opponent": "Bingham Town F.C. U7 Girls"
     },
     {
       "id": "91ecefa856cf861dbc28e86114363014",
@@ -830,6 +856,23 @@
       "goals_against": 1
     },
     {
+      "id": "c233b55be31b95f28998e89bfd724757",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "West Bridgford Colts U7 Ashes",
+      "away_team": "Ruddington Village U7 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Development",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ruddington Village U7 Girls",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U7 Ashes",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "8f1ba33739dc9e902de16802b385e86e",
       "date": "2026-03-21",
       "time": "15:00",
@@ -1015,6 +1058,23 @@
       "opponent": "Keyworth Utd Fanzines U12",
       "goals_for": 6,
       "goals_against": 2
+    },
+    {
+      "id": "3f2e4d64f4575a272dfdff819326b5e8",
+      "date": "2026-03-15",
+      "time": "10:15",
+      "home_team": "Radcliffe Olympic FC U7 Rattlesnakes",
+      "away_team": "Ruddington Village U7 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Development",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ruddington Village U7 Girls",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC U7 Rattlesnakes",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "9f89233556681c43005ce82da31de893",
@@ -1372,6 +1432,23 @@
       "opponent": "Basford CFC Barca U9",
       "goals_for": 0,
       "goals_against": 5
+    },
+    {
+      "id": "93dead9bacacef065362d58df51b43c7",
+      "date": "2026-03-08",
+      "time": "10:00",
+      "home_team": "Ruddington Village U7 Girls",
+      "away_team": "West Bridgford Colts U7 Ember",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Development",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ruddington Village U7 Girls",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U7 Ember",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "f5104fb1438bb60bb1c9f458c7dfc63e",
@@ -1748,6 +1825,23 @@
       "goals_against": null
     },
     {
+      "id": "6dd5fffe5df2960bf312b7009bcc4aa5",
+      "date": "2026-02-22",
+      "time": "10:00",
+      "home_team": "Ruddington Village U7 Girls",
+      "away_team": "Radcliffe Olympic FC U7 Rattlesnakes",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Development",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ruddington Village U7 Girls",
+      "home_away": "home",
+      "opponent": "Radcliffe Olympic FC U7 Rattlesnakes",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "7eb800d2506c48c5b5464232d6579269",
       "date": "2026-02-22",
       "time": "09:00",
@@ -2088,6 +2182,23 @@
       "goals_against": null
     },
     {
+      "id": "ab02bdad3191bd410946a4920605b8ba",
+      "date": "2026-02-01",
+      "time": "09:00",
+      "home_team": "West Bridgford Colts U7 Ashes",
+      "away_team": "Ruddington Village U7 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Development",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ruddington Village U7 Girls",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U7 Ashes",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "9e28bed5bdcc85b600e2a481f4330935",
       "date": "2026-01-31",
       "time": "14:00",
@@ -2326,6 +2437,23 @@
       "goals_against": null
     },
     {
+      "id": "d6e68988d3c1d28c77746a1fd79bf067",
+      "date": "2026-01-25",
+      "time": "10:00",
+      "home_team": "West Bridgford Colts U7 Lava",
+      "away_team": "Ruddington Village U7 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Development",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ruddington Village U7 Girls",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U7 Lava",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "8a512f695cc716c6058f8e00b5e4fa1c",
       "date": "2026-01-24",
       "time": "10:00",
@@ -2496,6 +2624,23 @@
       "goals_against": 2
     },
     {
+      "id": "562af1c4a369dff6d71fd5f227441d0b",
+      "date": "2026-01-18",
+      "time": "10:00",
+      "home_team": "Ruddington Village U7 Girls",
+      "away_team": "Meden Vale Colts F.C. U7 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Development",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ruddington Village U7 Girls",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts F.C. U7 Girls",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "de764ec1d5412c6d3f39187e60f7d8e0",
       "date": "2026-01-17",
       "time": "14:00",
@@ -2645,6 +2790,23 @@
       "team": "Ruddington Village Yellow U7",
       "home_away": "away",
       "opponent": "DLFC Yellow U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "8e9c7264a8bb98d157660898da596331",
+      "date": "2026-01-04",
+      "time": "09:00",
+      "home_team": "Radcliffe Olympic FC U7 Rattlesnakes",
+      "away_team": "Ruddington Village U7 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Development",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ruddington Village U7 Girls",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC U7 Rattlesnakes",
       "goals_for": null,
       "goals_against": null
     },
@@ -3074,6 +3236,23 @@
       "goals_against": 3
     },
     {
+      "id": "3bc83336ad3c29bfb47642ac4139d58d",
+      "date": "2025-12-07",
+      "time": "09:30",
+      "home_team": "Ruddington Village U7 Girls",
+      "away_team": "West Bridgford Colts U7 Ashes",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Development",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ruddington Village U7 Girls",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U7 Ashes",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "3e7ad6af246ecd82075956d190ef9b06",
       "date": "2025-12-06",
       "time": "14:00",
@@ -3295,6 +3474,23 @@
       "goals_against": 3
     },
     {
+      "id": "e99e1fcd7293c4f22da8789821e8a98b",
+      "date": "2025-11-30",
+      "time": "10:00",
+      "home_team": "Bingham Town F.C. U7 Girls",
+      "away_team": "Ruddington Village U7 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Development",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ruddington Village U7 Girls",
+      "home_away": "away",
+      "opponent": "Bingham Town F.C. U7 Girls",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "72761d45dcf5559045efadc5e1c2c15d",
       "date": "2025-11-29",
       "time": "14:00",
@@ -3480,6 +3676,23 @@
       "opponent": "East Leake Bantams Black U9",
       "goals_for": 0,
       "goals_against": 3
+    },
+    {
+      "id": "ea91d2e15d24dd3f7bc19d19925d581f",
+      "date": "2025-11-23",
+      "time": "11:00",
+      "home_team": "Ruddington Village U7 Girls",
+      "away_team": "West Bridgford Colts U7 Lava",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Development",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ruddington Village U7 Girls",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U7 Lava",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "3c13b64f03d46517420e36559467f343",
@@ -3686,6 +3899,23 @@
       "goals_against": 2
     },
     {
+      "id": "ccaef24e6945522a3c03b0b691773018",
+      "date": "2025-11-16",
+      "time": "09:30",
+      "home_team": "Ruddington Village U7 Girls",
+      "away_team": "West Bridgford Colts U7 Ember",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Development",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ruddington Village U7 Girls",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U7 Ember",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "bb2901a041a6e9270096f2ca181d1db8",
       "date": "2025-11-15",
       "time": "10:00",
@@ -3873,6 +4103,23 @@
       "goals_against": null
     },
     {
+      "id": "3491ddca507d393ac90a2613ca0235cc",
+      "date": "2025-11-09",
+      "time": "09:30",
+      "home_team": "Ruddington Village U7 Girls",
+      "away_team": "Meden Vale Colts F.C. U7 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Development",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ruddington Village U7 Girls",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts F.C. U7 Girls",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "8252f5cc9b9b4da667327521c748520f",
       "date": "2025-11-08",
       "time": "14:00",
@@ -4056,6 +4303,23 @@
       "team": "Ruddington Village Yellow U9",
       "home_away": "home",
       "opponent": "Woodborough Celtic U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "5252b8d5deea40ab3d98bd1e51f8963c",
+      "date": "2025-11-02",
+      "time": "10:00",
+      "home_team": "West Bridgford Colts U7 Lava",
+      "away_team": "Ruddington Village U7 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Development",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ruddington Village U7 Girls",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U7 Lava",
       "goals_for": null,
       "goals_against": null
     },
@@ -4655,6 +4919,23 @@
       "goals_against": 5
     },
     {
+      "id": "4582d24c4633de5151f11f4e1ad20f0e",
+      "date": "2025-10-05",
+      "time": "09:30",
+      "home_team": "Ruddington Village U7 Girls",
+      "away_team": "Radcliffe Olympic FC U7 Rattlesnakes",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Development",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ruddington Village U7 Girls",
+      "home_away": "home",
+      "opponent": "Radcliffe Olympic FC U7 Rattlesnakes",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "bd3d4350ca7dd790c35d7cc815029700",
       "date": "2025-10-04",
       "time": "15:00",
@@ -4906,6 +5187,23 @@
       "team": "Ruddington Village Yellow U9",
       "home_away": "away",
       "opponent": "Mansfield Town Grassroots U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "5eef27df0f4bec8481d25bf27d24c3df",
+      "date": "2025-09-28",
+      "time": "10:00",
+      "home_team": "West Bridgford Colts U7 Ember",
+      "away_team": "Ruddington Village U7 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Development",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ruddington Village U7 Girls",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U7 Ember",
       "goals_for": null,
       "goals_against": null
     },
@@ -5284,6 +5582,23 @@
       "goals_against": null
     },
     {
+      "id": "148b5d1c9706b7e981b0ad3168b6a7b2",
+      "date": "2025-09-21",
+      "time": "09:30",
+      "home_team": "Meden Vale Colts F.C. U7 Girls",
+      "away_team": "Ruddington Village U7 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Development",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ruddington Village U7 Girls",
+      "home_away": "away",
+      "opponent": "Meden Vale Colts F.C. U7 Girls",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "1e5be864eb05a91efe7b68fd92137dd0",
       "date": "2025-09-20",
       "time": "15:00",
@@ -5622,6 +5937,23 @@
       "opponent": "Stapleford Town Saxons U11",
       "goals_for": 0,
       "goals_against": 2
+    },
+    {
+      "id": "06a56ac7e3becee52b6bdbe4b63969f1",
+      "date": "2025-09-14",
+      "time": "09:00",
+      "home_team": "Ruddington Village U7 Girls",
+      "away_team": "West Bridgford Colts U7 Lava",
+      "home_score": null,
+      "away_score": null,
+      "venue": "U7 Development",
+      "division": "Unknown Division",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ruddington Village U7 Girls",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U7 Lava",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "1c604a93ea8e75b03c3d97418f9bce42",

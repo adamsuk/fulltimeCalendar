@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Keyworth United FC Development
+X-WR-CALDESC:Fixtures for Keyworth United FC Development — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:b61aea1c155ef4f8e28ddc698c18aafd@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260329T100000
+DTEND;TZID=Europe/London:20260329T113000
+SUMMARY:⚽ Keyworth United FC Development vs West Bridgford Colts Women's Development (Home)
+DESCRIPTION:Division: Senior Div 4\nKeyworth United FC Development v West Bridgford Colts Women's Development\nKO: 10:00
+LOCATION:KEYWORTH UNITED COMMUNITY FOOTBALL CLUB
+END:VEVENT
+BEGIN:VEVENT
+UID:58fcb4717894d939a53227c0fac8c930@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T113000
+SUMMARY:⚽ Keyworth United FC Development vs Beeston FC Women (Home)
+DESCRIPTION:Division: Senior Div 4\nKeyworth United FC Development v Beeston FC Women\nKO: 10:00
+LOCATION:KEYWORTH UNITED COMMUNITY FOOTBALL CLUB
+END:VEVENT
+BEGIN:VEVENT
+UID:2689ba57dc31cb329546cf9200ca56d0@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260419T140000
+DTEND;TZID=Europe/London:20260419T153000
+SUMMARY:⚽ Keyworth United FC Development vs Stapleford Town FC Ladies (Away)
+DESCRIPTION:Division: Senior Div 4\nStapleford Town FC Ladies v Keyworth United FC Development\nKO: 14:00
+LOCATION:STAPLEFORD COMMUNITY PAVILION
+END:VEVENT
+BEGIN:VEVENT
+UID:7df8256d3727bcbd57534897990dd692@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260503T100000
+DTEND;TZID=Europe/London:20260503T113000
+SUMMARY:⚽ Keyworth United FC Development vs Ravenshead Reds FC (Home)
+DESCRIPTION:Division: Senior Div 4\nKeyworth United FC Development v Ravenshead Reds FC\nKO: 10:00
+LOCATION:KEYWORTH UNITED COMMUNITY FOOTBALL CLUB
+END:VEVENT
+END:VCALENDAR

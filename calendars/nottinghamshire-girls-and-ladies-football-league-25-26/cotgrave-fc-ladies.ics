@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cotgrave FC Ladies
+X-WR-CALDESC:Fixtures for Cotgrave FC Ladies — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:87dfc98c0727078a1d975bb07beceab6@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260329T140000
+DTEND;TZID=Europe/London:20260329T153000
+SUMMARY:⚽ Cotgrave FC Ladies vs Newark Town FC Ladies Development (Home)
+DESCRIPTION:Division: Senior Div 3 Phase 2\nCotgrave FC Ladies v Newark Town FC Ladies Development\nKO: 14:00
+LOCATION:COTGRAVE WELFARE CLUB
+END:VEVENT
+BEGIN:VEVENT
+UID:f586c5499ca6d67de6b388ddfdd93424@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260412T140000
+DTEND;TZID=Europe/London:20260412T153000
+SUMMARY:⚽ Cotgrave FC Ladies vs Meden Vale Colts FC Ladies (Away)
+DESCRIPTION:Division: Senior Div 3 Phase 2\nMeden Vale Colts FC Ladies v Cotgrave FC Ladies\nKO: 14:00
+LOCATION:ELKESLEY ROAD GROUND
+END:VEVENT
+BEGIN:VEVENT
+UID:b003c8b9487c741dd03c6103fdc51a77@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260419T140000
+DTEND;TZID=Europe/London:20260419T153000
+SUMMARY:⚽ Cotgrave FC Ladies vs Lowdham Colts FC Development (Home)
+DESCRIPTION:Division: Senior Div 3 Phase 2\nCotgrave FC Ladies v Lowdham Colts FC Development\nKO: 14:00
+LOCATION:COTGRAVE WELFARE CLUB
+END:VEVENT
+BEGIN:VEVENT
+UID:8b6c40f7719fe8726e367a114b4ead23@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260503T100000
+DTEND;TZID=Europe/London:20260503T113000
+SUMMARY:⚽ Cotgrave FC Ladies vs East Leake FC Ladies (Home)
+DESCRIPTION:Division: Senior Div 3 Phase 2\nCotgrave FC Ladies v East Leake FC Ladies\nKO: 10:00
+LOCATION:COTGRAVE WELFARE CLUB
+END:VEVENT
+BEGIN:VEVENT
+UID:96adf9cc029d91c948b808b7633e4b93@yel-calendar
+DTSTAMP:20260325T135631Z
+DTSTART;TZID=Europe/London:20260510T103000
+DTEND;TZID=Europe/London:20260510T113000
+SUMMARY:⚽ Cotgrave FC Ladies vs Bingham Town FC Women Red (Away)
+DESCRIPTION:Division: Senior Div 3 Phase 2\nBingham Town FC Women Red v Cotgrave FC Ladies\nKO: 10:30
+LOCATION:BUTT FIELD SPORTS CLUB
+END:VEVENT
+END:VCALENDAR
