@@ -1,4 +1,4 @@
-# YEL East Midlands — Fixture Calendars & JSON Feeds
+# Fulltime Scraper — Fixture Calendars & JSON Feeds
 
 Automatically scrapes fixture data from [FA Full-Time](https://fulltime.thefa.com) and generates:
 
@@ -95,6 +95,9 @@ Currently configured leagues:
 |---|---|
 | YEL East Midlands Sunday 25/26 | `909330396` |
 | YEL East Midlands Saturday 25/26 | `161954265` |
+| North Leicestershire Football League 25/26 | `956936814` |
+| Euro Soccer Nottinghamshire Senior League 25/26 | `355008724` |
+| Nottinghamshire Girls and Ladies Football League 25/26 | `258824685` |
 
 ## Updating for a new season
 
