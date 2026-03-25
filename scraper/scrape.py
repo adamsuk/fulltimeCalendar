@@ -34,7 +34,6 @@ RESULTS_URL = "https://fulltime.thefa.com/results/1/100000.html"
 LEAGUES: list[tuple[str, str]] = [
     ("909330396", "YEL East Midlands Sunday 25/26"),
     ("161954265", "YEL East Midlands Saturday 25/26"),
-    ("956936814", "North Leicestershire Football League 25/26"),
     ("355008724", "Euro Soccer Nottinghamshire Senior League 25/26"),
     ("258824685", "Nottinghamshire Girls and Ladies Football League 25/26"),
 ]
