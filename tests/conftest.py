@@ -8,6 +8,6 @@ never exercised by unit tests.
 import sys
 from unittest.mock import MagicMock
 
-for _mod in ("curl_cffi", "curl_cffi.requests", "bs4"):
+for _mod in ("curl_cffi", "curl_cffi.requests"):
     if _mod not in sys.modules:
         sys.modules[_mod] = MagicMock()
