@@ -473,6 +473,8 @@ def parse_results(html: str) -> list[Result]:
                     break
 
         # --- Venue / competition: siblings after away_cell ---
+        # On the results page the competition/division label appears first,
+        # followed by the venue (which may be absent).
         venue = ""
         competition = ""
         for el in away_cell.find_next_siblings():
@@ -482,10 +484,10 @@ def parse_results(html: str) -> list[Result]:
             text = el.get_text(strip=True)
             if not text:
                 continue
-            if not venue:
-                venue = text
-            elif not competition:
+            if not competition:
                 competition = text
+            elif not venue:
+                venue = text
                 break
 
         if not date_str:

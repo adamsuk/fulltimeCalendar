@@ -16,6 +16,8 @@ from scrape import (
     clean_team_name,
     infer_club_name,
     _normalise_for_grouping,
+    parse_results,
+    parse_fixtures,
 )
 
 
@@ -205,3 +207,60 @@ class TestClubGrouping:
         counts = build_prefix_counts(names)
         club = infer_club_name("Unique FC Eagles U10", counts)
         assert club == "Unique FC Eagles"
+
+
+# ---------------------------------------------------------------------------
+# parse_results — venue / division field ordering
+# ---------------------------------------------------------------------------
+
+_RESULTS_HTML_TEMPLATE = """<html><body>
+<div class="date">22/03/26 12:30</div>
+<div class="home-team">{home}</div>
+<div class="score">2 - 1</div>
+<div class="road-team">{away}</div>
+<div class="competition">{division}</div>
+<div class="venue">{venue}</div>
+</body></html>"""
+
+_RESULTS_HTML_NO_VENUE = """<html><body>
+<div class="date">22/03/26 10:00</div>
+<div class="home-team">{home}</div>
+<div class="score">1 - 0</div>
+<div class="road-team">{away}</div>
+<div class="competition">{division}</div>
+</body></html>"""
+
+
+class TestParseResultsVenueDivision:
+    """Regression tests for venue/division field ordering in results."""
+
+    def test_division_not_placed_in_venue_field(self):
+        """The competition label must appear in division, not venue."""
+        html = _RESULTS_HTML_TEMPLATE.format(
+            home="Home FC U10",
+            away="Away FC U10",
+            division="U10 Sun Spring Div 3 Red",
+            venue="Meadow Lane NG2 3HJ",
+        )
+        results = parse_results(html)
+        assert results, "Expected at least one result"
+        r = results[0]
+        assert r.division_label == "U10 Sun Spring Div 3 Red", (
+            f"division_label was {r.division_label!r} — division placed in wrong field"
+        )
+        assert r.venue == "Meadow Lane NG2 3HJ", (
+            f"venue was {r.venue!r}"
+        )
+
+    def test_unknown_division_not_returned_when_division_present(self):
+        """Unknown Division must not appear when a competition label exists."""
+        html = _RESULTS_HTML_NO_VENUE.format(
+            home="Home FC U10",
+            away="Away FC U10",
+            division="U10 Sun Spring Div 3 Red",
+        )
+        results = parse_results(html)
+        assert results, "Expected at least one result"
+        assert results[0].division_label != "Unknown Division", (
+            "Got 'Unknown Division' even though division was present in HTML"
+        )
