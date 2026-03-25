@@ -1,6 +1,6 @@
 {
   "club": "Castle Donington",
-  "generated": "2026-03-25T06:50:56Z",
+  "generated": "2026-03-25T12:43:46Z",
   "fixtures": [
     {
       "id": "9f1a86467e4081d9cb863fe16da4c9ff",
@@ -146,6 +146,19 @@
       "opponent": "Vale FC U7"
     },
     {
+      "id": "a45442407928603f91009a2116473e24",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Castle Donington Lions U14",
+      "away_team": "Sports Gateway Spitfire U14",
+      "venue": "Spital Park DE74 2NQ",
+      "division": "U14 Sun YEL Shield",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Castle Donington Lions U14",
+      "home_away": "home",
+      "opponent": "Sports Gateway Spitfire U14"
+    },
+    {
       "id": "1ccd605703a1969a1f720e7fa8618f64",
       "date": "2026-04-12",
       "time": "10:00",
@@ -170,19 +183,6 @@
       "team": "Castle Donington Panthers U11",
       "home_away": "home",
       "opponent": "Kirkby Garibaldi Reds U11"
-    },
-    {
-      "id": "63919bbb1fba9c14a556de28c6037edc",
-      "date": "2026-04-16",
-      "time": "18:00",
-      "home_team": "Castle Donington Lions U14",
-      "away_team": "Sports Gateway Spitfire U14",
-      "venue": "Spital Park DE74 2NQ",
-      "division": "U14 Sun YEL Shield",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Castle Donington Lions U14",
-      "home_away": "home",
-      "opponent": "Sports Gateway Spitfire U14"
     },
     {
       "id": "a22d1946e6272720265ca3f22dc46b61",
@@ -4355,6 +4355,23 @@
       "opponent": "Stapleford Town Jaguars U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "3e635abe4fdd127210c4867c11b0bd9d",
+      "date": "2019-11-02",
+      "time": "13:45",
+      "home_team": "Woodhouse Imperial Reserves",
+      "away_team": "Castle Donington Reserves",
+      "home_score": 0,
+      "away_score": 8,
+      "venue": "County Cup SaturdayTrophy 2nd round",
+      "division": "Unknown Division",
+      "league": "North Leicestershire Football League 25/26",
+      "team": "Castle Donington Reserves",
+      "home_away": "away",
+      "opponent": "Woodhouse Imperial Reserves",
+      "goals_for": 8,
+      "goals_against": 0
     }
   ]
 }

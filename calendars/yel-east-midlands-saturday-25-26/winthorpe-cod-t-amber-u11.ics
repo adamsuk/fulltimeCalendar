@@ -8,7 +8,7 @@ X-WR-CALDESC:Fixtures for Winthorpe & Cod T Amber U11 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:f2602156040fe3cdc12e1bf128db4922@yel-calendar
-DTSTAMP:20260325T065150Z
+DTSTAMP:20260325T124421Z
 DTSTART;TZID=Europe/London:20260418T093000
 DTEND;TZID=Europe/London:20260418T103000
 SUMMARY:⚽ Winthorpe & Cod T Amber U11 vs ATFA Brinsley Bullets U11 (Home)
@@ -16,21 +16,21 @@ DESCRIPTION:Division: U11 Sat Spring Div 8\nWinthorpe & Cod T Amber U11 v ATFA B
 LOCATION:Stapleford Lane NG24 2QZ
 END:VEVENT
 BEGIN:VEVENT
-UID:8cbefac2983d127425346c7d68e39c03@yel-calendar
-DTSTAMP:20260325T065150Z
-DTSTART;TZID=Europe/London:20260421T180000
-DTEND;TZID=Europe/London:20260421T193000
-SUMMARY:⚽ Winthorpe & Cod T Amber U11 vs Newark Town Saxons U11 (Away)
-DESCRIPTION:Division: U11 Sat Spring Div 8\nNewark Town Saxons U11 v Winthorpe & Cod T Amber U11\nKO: 18:00
-LOCATION:Devon Park NG24 4QN
-END:VEVENT
-BEGIN:VEVENT
 UID:27a965875b0600e50da9364ae3822c74@yel-calendar
-DTSTAMP:20260325T065150Z
+DTSTAMP:20260325T124421Z
 DTSTART;TZID=Europe/London:20260425T110000
 DTEND;TZID=Europe/London:20260425T123000
 SUMMARY:⚽ Winthorpe & Cod T Amber U11 vs Nottingham Second Chance U11 (Home)
 DESCRIPTION:Division: U11 Sat YEL Foundation Shield\nWinthorpe & Cod T Amber U11 v Nottingham Second Chance U11\nKO: 11:00
 LOCATION:Stapleford Lane NG24 2QZ
+END:VEVENT
+BEGIN:VEVENT
+UID:07d4c0631fa6f97feb852122e93a3109@yel-calendar
+DTSTAMP:20260325T124421Z
+DTSTART;TZID=Europe/London:20260428T181500
+DTEND;TZID=Europe/London:20260428T193000
+SUMMARY:⚽ Winthorpe & Cod T Amber U11 vs Newark Town Saxons U11 (Away)
+DESCRIPTION:Division: U11 Sat Spring Div 8\nNewark Town Saxons U11 v Winthorpe & Cod T Amber U11\nKO: 18:15
+LOCATION:Devon Park NG24 4QN
 END:VEVENT
 END:VCALENDAR

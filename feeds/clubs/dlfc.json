@@ -1,6 +1,6 @@
 {
   "club": "DLFC",
-  "generated": "2026-03-25T06:50:56Z",
+  "generated": "2026-03-25T12:43:46Z",
   "fixtures": [
     {
       "id": "9c1acd7c4738caf2451fe4127e94174a",
@@ -250,19 +250,6 @@
       "opponent": "Phoenix Inham War Red U10"
     },
     {
-      "id": "f7c13513051e59772a62408d5311b151",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "home_team": "Newton & Blackwell Storm U11",
-      "away_team": "DLFC Orange U11",
-      "venue": "Scanderlands Pavilion DE55 5JJ",
-      "division": "U11 Sat Spring Div 7 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Orange U11",
-      "home_away": "away",
-      "opponent": "Newton & Blackwell Storm U11"
-    },
-    {
       "id": "b9acbdda74ea57ac1c62e9a11f1591b6",
       "date": "2026-03-28",
       "time": "11:15",
@@ -274,6 +261,19 @@
       "team": "DLFC Blue U11",
       "home_away": "home",
       "opponent": "Radcliffe Olympic Blue U11"
+    },
+    {
+      "id": "f7c13513051e59772a62408d5311b151",
+      "date": "2026-03-28",
+      "time": "11:30",
+      "home_team": "Newton & Blackwell Storm U11",
+      "away_team": "DLFC Orange U11",
+      "venue": "Scanderlands Pavilion DE55 5JJ",
+      "division": "U11 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Orange U11",
+      "home_away": "away",
+      "opponent": "Newton & Blackwell Storm U11"
     },
     {
       "id": "41e287587dc4c03abf153ada28c6cb19",
@@ -2057,25 +2057,12 @@
       "opponent": "Ollerton Town U12"
     },
     {
-      "id": "29607ad0c51c113d4cd8989db88f7dae",
-      "date": "2026-05-09",
-      "time": "00:00",
-      "home_team": "DLFC Grey U10",
-      "away_team": "Edwalton Cavaliers Blue U10",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U10 Sat YEL Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Grey U10",
-      "home_away": "home",
-      "opponent": "Edwalton Cavaliers Blue U10"
-    },
-    {
       "id": "96b56e1a938884ffbd1cd4b318003dc0",
       "date": "2026-05-09",
-      "time": "00:00",
+      "time": "10:15",
       "home_team": "Loughborough Emmanuel U9",
       "away_team": "DLFC Purple U9",
-      "venue": "Carillion CrIcket Club LE11 1ST",
+      "venue": "Norman Archer Memorial Ground NG11 9AZ",
       "division": "U9 Sat YEL Challenge Red",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "DLFC Purple U9",
@@ -2085,15 +2072,28 @@
     {
       "id": "81bd480b30acb8886b553f7104405c38",
       "date": "2026-05-09",
-      "time": "00:00",
+      "time": "12:00",
       "home_team": "DLFC Red U9",
       "away_team": "Inspire Nottingham U9",
-      "venue": "Greenwich Avenue NG6 0LD",
+      "venue": "Norman Archer Memorial Ground NG11 9AZ",
       "division": "U9 Sat YEL Trophy",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "DLFC Red U9",
       "home_away": "home",
       "opponent": "Inspire Nottingham U9"
+    },
+    {
+      "id": "29607ad0c51c113d4cd8989db88f7dae",
+      "date": "2026-05-09",
+      "time": "13:30",
+      "home_team": "DLFC Grey U10",
+      "away_team": "Edwalton Cavaliers Blue U10",
+      "venue": "Norman Archer Memorial Ground NG11 9AZ",
+      "division": "U10 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Grey U10",
+      "home_away": "home",
+      "opponent": "Edwalton Cavaliers Blue U10"
     },
     {
       "id": "ee191e2d7a817fa5ad7587923051fd27",
