@@ -1,6 +1,6 @@
 {
   "club": "Attenborough Colts",
-  "generated": "2026-03-25T14:33:00Z",
+  "generated": "2026-03-25T20:25:39Z",
   "fixtures": [
     {
       "id": "73b289270cf0c6330c77b352c0ec853b",
@@ -120,32 +120,6 @@
       "opponent": "WBYFC Courage Red U8"
     },
     {
-      "id": "b430fba2913d98d9a441f19eb52772f7",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Attenborough Colts Yellow U9",
-      "away_team": "Breaston Park Green U9",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U9 Sun Spring Div 4 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Attenborough Colts Yellow U9",
-      "home_away": "home",
-      "opponent": "Breaston Park Green U9"
-    },
-    {
-      "id": "652621da4ff477cd02b88e00e995b423",
-      "date": "2026-03-29",
-      "time": "10:30",
-      "home_team": "Attenborough Colts Spartans U14",
-      "away_team": "Ruddington Village Black U14",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U14 Sun Spring Div 1 Gold",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Attenborough Colts Spartans U14",
-      "home_away": "home",
-      "opponent": "Ruddington Village Black U14"
-    },
-    {
       "id": "11bbc2c4bacd913fbd794bb492bece05",
       "date": "2026-03-29",
       "time": "11:00",
@@ -211,6 +185,19 @@
       "opponent": "Coalville Town Ravens U8"
     },
     {
+      "id": "7c927c7f90d43856b96d2cf5837d843c",
+      "date": "2026-04-12",
+      "time": "10:30",
+      "home_team": "Attenborough Colts Spartans U14",
+      "away_team": "Ruddington Village Black U14",
+      "venue": "Chilwell Olympia NG9 5HR",
+      "division": "U14 Sun Spring Div 1 Gold",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Attenborough Colts Spartans U14",
+      "home_away": "home",
+      "opponent": "Ruddington Village Black U14"
+    },
+    {
       "id": "b70db2d88d35ad16d439c63f6db35653",
       "date": "2026-04-14",
       "time": "18:00",
@@ -222,6 +209,19 @@
       "team": "Attenborough Colts Blue U14",
       "home_away": "away",
       "opponent": "Beeston FC U14"
+    },
+    {
+      "id": "df21b1f1d7433ad3ee14fe841ca65435",
+      "date": "2026-04-16",
+      "time": "18:00",
+      "home_team": "Attenborough Colts Yellow U9",
+      "away_team": "Breaston Park Green U9",
+      "venue": "Chilwell Olympia NG9 5HR",
+      "division": "U9 Sun Spring Div 4 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Attenborough Colts Yellow U9",
+      "home_away": "home",
+      "opponent": "Breaston Park Green U9"
     },
     {
       "id": "81b906c536385b1fde357d30e3c2bf30",
@@ -688,7 +688,7 @@
       "home_team": "Attenborough Colts U13",
       "away_team": "Silva FC Southglade Grey U13",
       "home_score": 4,
-      "away_score": 5,
+      "away_score": 4,
       "venue": "U13 Sun Spring Div 4 Blue",
       "division": "Unknown Division",
       "league": "YEL East Midlands Sunday 25/26",
@@ -696,7 +696,7 @@
       "home_away": "home",
       "opponent": "Silva FC Southglade Grey U13",
       "goals_for": 4,
-      "goals_against": 5
+      "goals_against": 4
     },
     {
       "id": "57b8a9c0edd412a56632c607cfdc282b",

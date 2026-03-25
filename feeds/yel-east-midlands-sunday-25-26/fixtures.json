@@ -1,6 +1,6 @@
 {
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-25T14:33:00Z",
+  "generated": "2026-03-25T20:25:39Z",
   "fixtures": [
     {
       "id": "9c1acd7c4738caf2451fe4127e94174a",
@@ -271,15 +271,6 @@
       "away_team": "Basford United Lions U12",
       "venue": "Birchover Park NG8 4BS",
       "division": "U12 Sun Spring Div 2 Red"
-    },
-    {
-      "id": "d933f7216cc196d60e353b2f99ea713c",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Pegasus FC U12",
-      "away_team": "Hemington Hammers Hawks U12",
-      "venue": "Pasture Road Recreation Ground NG9 8GN",
-      "division": "U12 Sun Spring Div 7"
     },
     {
       "id": "3e6c37885d3fd57b523c8a4321a414ad",
@@ -678,15 +669,6 @@
       "division": "U9 Sun Spring Div 3"
     },
     {
-      "id": "b430fba2913d98d9a441f19eb52772f7",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Attenborough Colts Yellow U9",
-      "away_team": "Breaston Park Green U9",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U9 Sun Spring Div 4 Blue"
-    },
-    {
       "id": "24c05abfd6c67238acdd703733405704",
       "date": "2026-03-29",
       "time": "10:00",
@@ -792,15 +774,6 @@
       "home_team": "Lowdham FC U9",
       "away_team": "Market Warsop Raiders U9",
       "venue": "Caythorpe Cricket Club NG14 7EB",
-      "division": "U9 Sun Spring Div 6 Red"
-    },
-    {
-      "id": "f7ad85f085e52917cdb363769f86d774",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Robin Hood Colts Red U9",
-      "away_team": "RHP Colts Green U9",
-      "venue": "Sherwood Fields, Edwinstowe NG21 9PW",
       "division": "U9 Sun Spring Div 6 Red"
     },
     {
@@ -1272,15 +1245,6 @@
       "division": "U9 Sun Spring Div 1"
     },
     {
-      "id": "652621da4ff477cd02b88e00e995b423",
-      "date": "2026-03-29",
-      "time": "10:30",
-      "home_team": "Attenborough Colts Spartans U14",
-      "away_team": "Ruddington Village Black U14",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U14 Sun Spring Div 1 Gold"
-    },
-    {
       "id": "75cbaa06012b6f0d939ed6977eee1eea",
       "date": "2026-03-29",
       "time": "10:30",
@@ -1405,15 +1369,6 @@
       "away_team": "Ropsley Colts Red U12",
       "venue": "Carlton le Willows School NG4 4AA",
       "division": "U12 Sun Spring Div 6 Silver"
-    },
-    {
-      "id": "370a81950f46649df73ff7806d3a4792",
-      "date": "2026-03-29",
-      "time": "11:00",
-      "home_team": "Gonerby Blue U11",
-      "away_team": "Pelican Colts U11",
-      "venue": "Grantham Meres Leisure Centre NG31 7XQ",
-      "division": "U11 Sun Spring Div 6 Gold"
     },
     {
       "id": "00db605b3a09e3cd1ba08952324bd0cb",
@@ -1558,6 +1513,15 @@
       "away_team": "Borrowash Youth Leopards U9",
       "venue": "Kimberley Leisure Centre NG16 2NJ",
       "division": "U9 Sun Spring Div 6 Green"
+    },
+    {
+      "id": "25d1b00ec220781559dab57884d1c0dd",
+      "date": "2026-04-10",
+      "time": "18:00",
+      "home_team": "Robin Hood Colts Red U9",
+      "away_team": "RHP Colts Green U9",
+      "venue": "Sherwood Fields, Edwinstowe NG21 9PW",
+      "division": "U9 Sun Spring Div 6 Red"
     },
     {
       "id": "e17bbe7b9ec4b669cf4383c605bd01d6",
@@ -2064,6 +2028,15 @@
       "division": "U14 Sun YEL Shield"
     },
     {
+      "id": "7c927c7f90d43856b96d2cf5837d843c",
+      "date": "2026-04-12",
+      "time": "10:30",
+      "home_team": "Attenborough Colts Spartans U14",
+      "away_team": "Ruddington Village Black U14",
+      "venue": "Chilwell Olympia NG9 5HR",
+      "division": "U14 Sun Spring Div 1 Gold"
+    },
+    {
       "id": "b4ed8caf05d49475bbe661d13503784c",
       "date": "2026-04-12",
       "time": "10:30",
@@ -2289,6 +2262,15 @@
       "division": "U12 Sun Spring Div 3 Blue"
     },
     {
+      "id": "49f8ad38882e71712bc1363fe31c38ee",
+      "date": "2026-04-16",
+      "time": "18:00",
+      "home_team": "Pegasus FC U12",
+      "away_team": "Hemington Hammers Hawks U12",
+      "venue": "Pasture Road Recreation Ground NG9 8GN",
+      "division": "U12 Sun Spring Div 7"
+    },
+    {
       "id": "f2724d2096042255080095b676ae5462",
       "date": "2026-04-16",
       "time": "18:00",
@@ -2341,6 +2323,15 @@
       "away_team": "Hucknall Sports Black U9",
       "venue": "Greenwich Avenue NG6 0LD",
       "division": "U9 Sun Spring Div 2 Red"
+    },
+    {
+      "id": "df21b1f1d7433ad3ee14fe841ca65435",
+      "date": "2026-04-16",
+      "time": "18:00",
+      "home_team": "Attenborough Colts Yellow U9",
+      "away_team": "Breaston Park Green U9",
+      "venue": "Chilwell Olympia NG9 5HR",
+      "division": "U9 Sun Spring Div 4 Blue"
     },
     {
       "id": "0111dd93ee1bb98fdfa87c14a0b5cb12",
@@ -4368,13 +4359,13 @@
       "division": "U12 Sun Spring Div 5"
     },
     {
-      "id": "ccc1c625a4efe370701dbbbe9f239166",
+      "id": "65daf6b2b44388b3f26aed357a7421c9",
       "date": "2026-04-23",
       "time": "18:00",
-      "home_team": "Codnor Sports Juniors U11",
-      "away_team": "Gedling Southbank Titans U11",
-      "venue": "Mill Lane Recreation Ground DE5 9QF",
-      "division": "U11 Sun Spring Div 3"
+      "home_team": "Gonerby Blue U11",
+      "away_team": "Pelican Colts U11",
+      "venue": "Grantham Meres Leisure Centre NG31 7XQ",
+      "division": "U11 Sun Spring Div 6 Gold"
     },
     {
       "id": "00ed875eb7e2cc0444fc0d9cfe38a008",
@@ -6040,6 +6031,15 @@
       "away_team": "Gedling Southbank White U13",
       "venue": "Kimberley Leisure Centre NG16 2NJ",
       "division": "U13 Sun Spring Div 4 Blue"
+    },
+    {
+      "id": "ce621d3c6b574471e7801a3e183af00f",
+      "date": "2026-04-26",
+      "time": "18:00",
+      "home_team": "Codnor Sports Juniors U11",
+      "away_team": "Gedling Southbank Titans U11",
+      "venue": "Mill Lane Recreation Ground DE5 9QF",
+      "division": "U11 Sun Spring Div 3"
     },
     {
       "id": "7b3fc30c0f46003bd04fc21895c99e16",

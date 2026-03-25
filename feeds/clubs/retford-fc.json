@@ -1,20 +1,7 @@
 {
   "club": "Retford FC",
-  "generated": "2026-03-25T14:33:00Z",
+  "generated": "2026-03-25T20:25:39Z",
   "fixtures": [
-    {
-      "id": "c9a916d2ac46e0a822a8f61881f5cc60",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Holy Spirit Celtic FC U15",
-      "away_team": "Retford FC Juniors U15 GIRLS",
-      "venue": "THE BECKET SCHOOL",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Retford FC Juniors U15 GIRLS",
-      "home_away": "away",
-      "opponent": "Holy Spirit Celtic FC U15"
-    },
     {
       "id": "290c98353c4772459e6423455a9fd701",
       "date": "2026-03-29",
@@ -29,9 +16,22 @@
       "opponent": "Southwell City FC Ladies"
     },
     {
-      "id": "71382fdf24b1dd442d387d5358f57c0c",
+      "id": "456d6d97dcbeaa802624a00478a7f8a5",
       "date": "2026-04-12",
       "time": "10:00",
+      "home_team": "Holy Spirit Celtic FC U15",
+      "away_team": "Retford FC Juniors U15 GIRLS",
+      "venue": "THE BECKET SCHOOL",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Retford FC Juniors U15 GIRLS",
+      "home_away": "away",
+      "opponent": "Holy Spirit Celtic FC U15"
+    },
+    {
+      "id": "71382fdf24b1dd442d387d5358f57c0c",
+      "date": "2026-04-12",
+      "time": "14:00",
       "home_team": "Retford FC Ladies",
       "away_team": "Arnold Town FC Women",
       "venue": "RETFORD FC (THE RAIL)",
@@ -40,19 +40,6 @@
       "team": "Retford FC Ladies",
       "home_away": "home",
       "opponent": "Arnold Town FC Women"
-    },
-    {
-      "id": "a1c4cf5e86f1a3dba43294dd6845f8ea",
-      "date": "2026-04-12",
-      "time": "11:30",
-      "home_team": "Stapleford Town FC U15 Girls",
-      "away_team": "Retford FC Juniors U15 GIRLS",
-      "venue": "STAPLEFORD COMMUNITY PAVILION",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Retford FC Juniors U15 GIRLS",
-      "home_away": "away",
-      "opponent": "Stapleford Town FC U15 Girls"
     },
     {
       "id": "653a9646e1bf55bba45ba837808b2900",
@@ -157,6 +144,19 @@
       "team": "Retford FC Ladies",
       "home_away": "away",
       "opponent": "Sherwood FC Development Women"
+    },
+    {
+      "id": "6518aad3fd72fee0bb13078f51c1697d",
+      "date": "2026-05-24",
+      "time": "11:30",
+      "home_team": "Stapleford Town FC U15 Girls",
+      "away_team": "Retford FC Juniors U15 GIRLS",
+      "venue": "STAPLEFORD COMMUNITY PAVILION",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Retford FC Juniors U15 GIRLS",
+      "home_away": "away",
+      "opponent": "Stapleford Town FC U15 Girls"
     },
     {
       "id": "edafeec867c7ce251d2d46bc2b9bab69",

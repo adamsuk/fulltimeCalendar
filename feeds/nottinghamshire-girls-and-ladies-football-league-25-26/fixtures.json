@@ -1,6 +1,6 @@
 {
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-03-25T14:33:00Z",
+  "generated": "2026-03-25T20:25:39Z",
   "fixtures": [
     {
       "id": "8c2bd2e0cc8e3ad639377c4b6d11101d",
@@ -217,15 +217,6 @@
       "away_team": "Bingham Town F.C. U15 Girls",
       "venue": "THE FETE FIELD",
       "division": "U15 Div 2"
-    },
-    {
-      "id": "c9a916d2ac46e0a822a8f61881f5cc60",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Holy Spirit Celtic FC U15",
-      "away_team": "Retford FC Juniors U15 GIRLS",
-      "venue": "THE BECKET SCHOOL",
-      "division": "U15 Div 3"
     },
     {
       "id": "a29c98849fd616f2e8d9504560a5ebd8",
@@ -804,15 +795,6 @@
       "division": "Seniors Div 1"
     },
     {
-      "id": "71382fdf24b1dd442d387d5358f57c0c",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Retford FC Ladies",
-      "away_team": "Arnold Town FC Women",
-      "venue": "RETFORD FC (THE RAIL)",
-      "division": "Seniors Div 2"
-    },
-    {
       "id": "58fcb4717894d939a53227c0fac8c930",
       "date": "2026-04-12",
       "time": "10:00",
@@ -1011,12 +993,21 @@
       "division": "U15 Div 3"
     },
     {
-      "id": "18a18aeb010e9fc980328b03d59a9b25",
+      "id": "ff48b6b6ff533839dd16b0f3ae2db96c",
       "date": "2026-04-12",
       "time": "10:00",
       "home_team": "Southwell City FC U15 Girls",
-      "away_team": "Holy Spirit Celtic FC U15",
+      "away_team": "Barlborough Juniors U15 Lionesses",
       "venue": "CENTENARY SPORTS GROUND",
+      "division": "U15 Div 3"
+    },
+    {
+      "id": "456d6d97dcbeaa802624a00478a7f8a5",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Holy Spirit Celtic FC U15",
+      "away_team": "Retford FC Juniors U15 GIRLS",
+      "venue": "THE BECKET SCHOOL",
       "division": "U15 Div 3"
     },
     {
@@ -1088,7 +1079,7 @@
       "time": "10:00",
       "home_team": "Gedling Southbank FC U14 Warriors",
       "away_team": "Priory Celtic F.C. U14 Girls",
-      "venue": "ARNOLD HILL SPENCER ACADEMY",
+      "venue": "THE TREVOR CARTER PAVILION",
       "division": "U14 Div 3"
     },
     {
@@ -1515,15 +1506,6 @@
       "division": "U13 Div 2 9 v 9"
     },
     {
-      "id": "a1c4cf5e86f1a3dba43294dd6845f8ea",
-      "date": "2026-04-12",
-      "time": "11:30",
-      "home_team": "Stapleford Town FC U15 Girls",
-      "away_team": "Retford FC Juniors U15 GIRLS",
-      "venue": "STAPLEFORD COMMUNITY PAVILION",
-      "division": "U15 Div 3"
-    },
-    {
       "id": "583e81da834223ae55e667ded3739a1c",
       "date": "2026-04-12",
       "time": "11:30",
@@ -1584,6 +1566,15 @@
       "home_team": "Eastwood & Kimberley FC",
       "away_team": "Shirebrook Rangers Women",
       "venue": "JACKSDALE MINERS WELFARE SPORTS GROUND",
+      "division": "Seniors Div 2"
+    },
+    {
+      "id": "71382fdf24b1dd442d387d5358f57c0c",
+      "date": "2026-04-12",
+      "time": "14:00",
+      "home_team": "Retford FC Ladies",
+      "away_team": "Arnold Town FC Women",
+      "venue": "RETFORD FC (THE RAIL)",
       "division": "Seniors Div 2"
     },
     {
@@ -4152,11 +4143,11 @@
       "division": "U15 Div 3"
     },
     {
-      "id": "dd9ef2564543208c515ffd71df952818",
+      "id": "8c656f6cfab730e4306cda999814c8ed",
       "date": "2026-05-24",
       "time": "10:00",
       "home_team": "Southwell City FC U15 Girls",
-      "away_team": "Barlborough Juniors U15 Lionesses",
+      "away_team": "Holy Spirit Celtic FC U15",
       "venue": "CENTENARY SPORTS GROUND",
       "division": "U15 Div 3"
     },
@@ -4195,6 +4186,15 @@
       "away_team": "Retford FC Ladies",
       "venue": "MELBOURNE PARK",
       "division": "Seniors Div 2"
+    },
+    {
+      "id": "6518aad3fd72fee0bb13078f51c1697d",
+      "date": "2026-05-24",
+      "time": "11:30",
+      "home_team": "Stapleford Town FC U15 Girls",
+      "away_team": "Retford FC Juniors U15 GIRLS",
+      "venue": "STAPLEFORD COMMUNITY PAVILION",
+      "division": "U15 Div 3"
     },
     {
       "id": "edafeec867c7ce251d2d46bc2b9bab69",
