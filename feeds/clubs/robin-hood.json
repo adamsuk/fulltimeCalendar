@@ -1,6 +1,6 @@
 {
   "club": "Robin Hood",
-  "generated": "2026-03-25T12:43:46Z",
+  "generated": "2026-03-25T12:50:50Z",
   "fixtures": [
     {
       "id": "90947ed6b5aa0cb595624cfc422a7087",
@@ -16,6 +16,19 @@
       "opponent": "Nottingham Second Chance U11"
     },
     {
+      "id": "2d751f4ac64ad1966c562fe98d004e32",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "Robin Hood Colts FC",
+      "away_team": "AJ Sport F.C. Reserves",
+      "venue": "SHERWOOD FIELDS (ROBIN HOOD COLTS FC)",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "home",
+      "opponent": "AJ Sport F.C. Reserves"
+    },
+    {
       "id": "f7ad85f085e52917cdb363769f86d774",
       "date": "2026-03-29",
       "time": "10:00",
@@ -27,6 +40,19 @@
       "team": "Robin Hood Colts Red U9",
       "home_away": "home",
       "opponent": "RHP Colts Green U9"
+    },
+    {
+      "id": "a5f7462df57d9d566152fe3ceff88644",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Robin Hood Colts FC",
+      "away_team": "Trent Vineyard FC",
+      "venue": "SHERWOOD FIELDS (ROBIN HOOD COLTS FC)",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "home",
+      "opponent": "Trent Vineyard FC"
     },
     {
       "id": "a02f841a53a3ed7960f7492a9a864f68",
@@ -53,6 +79,32 @@
       "team": "Robin Hood Colts U11",
       "home_away": "away",
       "opponent": "Alfreton Town Eagles U11"
+    },
+    {
+      "id": "caf0c0da9313cc747211fb58eb67f194",
+      "date": "2026-04-25",
+      "time": "15:00",
+      "home_team": "Awsworth Villa Reserves",
+      "away_team": "Robin Hood Colts FC",
+      "venue": "SHILO PARK ZINDA GROUND",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "away",
+      "opponent": "Awsworth Villa Reserves"
+    },
+    {
+      "id": "9da44c726799106062c73def1ee53b45",
+      "date": "2026-05-02",
+      "time": "15:00",
+      "home_team": "AJ Sport F.C. Reserves",
+      "away_team": "Robin Hood Colts FC",
+      "venue": "LEYTON CRESCENT RECREATION GROUND",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "away",
+      "opponent": "AJ Sport F.C. Reserves"
     }
   ],
   "results": [
@@ -108,6 +160,23 @@
       "goals_against": 3
     },
     {
+      "id": "2db21d29dafefdd043556a578cc1e636",
+      "date": "2026-03-21",
+      "time": "15:00",
+      "home_team": "East Leake Robins Reserves",
+      "away_team": "Robin Hood Colts FC",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "away",
+      "opponent": "East Leake Robins Reserves",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
       "id": "3bebc70c45f77e329e6be1146b5a2540",
       "date": "2026-03-21",
       "time": "10:00",
@@ -157,6 +226,23 @@
       "opponent": "Gonerby Blue U13",
       "goals_for": 2,
       "goals_against": 1
+    },
+    {
+      "id": "3de1e014259135bd3f10df1f1a64c3cc",
+      "date": "2026-03-14",
+      "time": "15:00",
+      "home_team": "Robin Hood Colts FC",
+      "away_team": "Nottingham Greens",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "home",
+      "opponent": "Nottingham Greens",
+      "goals_for": 1,
+      "goals_against": 2
     },
     {
       "id": "782be500cea45dbca2b85a27d5eda4fb",
@@ -227,6 +313,23 @@
       "goals_against": 8
     },
     {
+      "id": "ef31d754086844a3b0ef2a17f854eef1",
+      "date": "2026-03-07",
+      "time": "15:00",
+      "home_team": "Robin Hood Colts FC",
+      "away_team": "Attenborough FC",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "home",
+      "opponent": "Attenborough FC",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
       "id": "68456f36119de6e636c48dc1fba48e44",
       "date": "2026-03-07",
       "time": "09:30",
@@ -295,6 +398,23 @@
       "goals_against": null
     },
     {
+      "id": "94aa438a6152fc416d50c75f0b91f6a5",
+      "date": "2026-02-21",
+      "time": "14:00",
+      "home_team": "Robin Hood Colts FC",
+      "away_team": "Ravenshead Reds FC",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "home",
+      "opponent": "Ravenshead Reds FC",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
       "id": "97fb13376664ce58e533c5a518457d60",
       "date": "2026-02-15",
       "time": "10:00",
@@ -310,6 +430,23 @@
       "opponent": "WBYFC Lyon U9",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "359b125604265f221ebc034a7194736c",
+      "date": "2026-02-14",
+      "time": "14:00",
+      "home_team": "Robin Hood Colts FC",
+      "away_team": "Calverton Miners Welfare Reserves",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "home",
+      "opponent": "Calverton Miners Welfare Reserves",
+      "goals_for": 1,
+      "goals_against": 3
     },
     {
       "id": "e8f5b5aa80d6fab55967134f3f30e3de",
@@ -363,6 +500,23 @@
       "goals_against": 2
     },
     {
+      "id": "534f64a11c91b7cbd53bff63432d8550",
+      "date": "2026-02-07",
+      "time": "14:00",
+      "home_team": "Ravenshead Reds FC",
+      "away_team": "Robin Hood Colts FC",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "away",
+      "opponent": "Ravenshead Reds FC",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
       "id": "b2461351795a0bae5b9e8fccd7ce3a9b",
       "date": "2026-02-01",
       "time": "11:45",
@@ -395,6 +549,23 @@
       "opponent": "Radford FC U13",
       "goals_for": 2,
       "goals_against": 6
+    },
+    {
+      "id": "69d3088377b543f683d5aff1164dadfa",
+      "date": "2026-01-31",
+      "time": "14:00",
+      "home_team": "Attenborough FC",
+      "away_team": "Robin Hood Colts FC",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "away",
+      "opponent": "Attenborough FC",
+      "goals_for": 3,
+      "goals_against": 4
     },
     {
       "id": "46d932c9f4758283f35e379cbba6fc12",
@@ -465,6 +636,23 @@
       "goals_against": null
     },
     {
+      "id": "7f2df451aea1ac613339475acdbff87d",
+      "date": "2026-01-24",
+      "time": "14:00",
+      "home_team": "Pass Move Grin Reserves",
+      "away_team": "Robin Hood Colts FC",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "away",
+      "opponent": "Pass Move Grin Reserves",
+      "goals_for": 4,
+      "goals_against": 0
+    },
+    {
       "id": "e3ec3e96c4ff54518aa56de4647b524f",
       "date": "2026-01-18",
       "time": "11:00",
@@ -516,6 +704,23 @@
       "goals_against": 5
     },
     {
+      "id": "a67003c23aaf9a415e12069d9d737403",
+      "date": "2026-01-17",
+      "time": "14:00",
+      "home_team": "Rolls Royce FC",
+      "away_team": "Robin Hood Colts FC",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "away",
+      "opponent": "Rolls Royce FC",
+      "goals_for": 4,
+      "goals_against": 0
+    },
+    {
       "id": "5798f0bfe3c4a8a4ff28635510c9c3af",
       "date": "2026-01-17",
       "time": "10:00",
@@ -531,6 +736,23 @@
       "opponent": "Newton & Blackwell Storm U11",
       "goals_for": 1,
       "goals_against": 2
+    },
+    {
+      "id": "b355c674c02b9b5dd80ab2b2277ea438",
+      "date": "2025-12-20",
+      "time": "14:00",
+      "home_team": "Robin Hood Colts FC",
+      "away_team": "Awsworth Villa Reserves",
+      "home_score": 9,
+      "away_score": 0,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "home",
+      "opponent": "Awsworth Villa Reserves",
+      "goals_for": 9,
+      "goals_against": 0
     },
     {
       "id": "8ea2d1f88604eeb058ed7f003abff5d9",
@@ -584,6 +806,23 @@
       "goals_against": null
     },
     {
+      "id": "6185e75f08947b5ade78f117bb25e21d",
+      "date": "2025-12-13",
+      "time": "14:00",
+      "home_team": "Nottingham Greens",
+      "away_team": "Robin Hood Colts FC",
+      "home_score": 0,
+      "away_score": 6,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "away",
+      "opponent": "Nottingham Greens",
+      "goals_for": 6,
+      "goals_against": 0
+    },
+    {
       "id": "5f7c98f4b8e1ccac2b8f2f5d5f491944",
       "date": "2025-12-13",
       "time": "12:30",
@@ -633,6 +872,23 @@
       "opponent": "Calverton MW Maroon U9",
       "goals_for": 1,
       "goals_against": 3
+    },
+    {
+      "id": "bf680e19265eb65590d5ffde80b33531",
+      "date": "2025-12-06",
+      "time": "14:00",
+      "home_team": "Robin Hood Colts FC",
+      "away_team": "East Leake Robins Reserves",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "home",
+      "opponent": "East Leake Robins Reserves",
+      "goals_for": 2,
+      "goals_against": 0
     },
     {
       "id": "b53fd70fedab1dc43144b295f8baf654",
@@ -686,6 +942,23 @@
       "goals_against": 0
     },
     {
+      "id": "203cea288b1eadbdc70c62d5742a8747",
+      "date": "2025-11-29",
+      "time": "14:00",
+      "home_team": "Notts City Rangers FC",
+      "away_team": "Robin Hood Colts FC",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "away",
+      "opponent": "Notts City Rangers FC",
+      "goals_for": 5,
+      "goals_against": 1
+    },
+    {
       "id": "170471ecddb30502160c9284ed89cdd5",
       "date": "2025-11-23",
       "time": "11:00",
@@ -735,6 +1008,23 @@
       "opponent": "RHP Colts Green U9",
       "goals_for": 1,
       "goals_against": 2
+    },
+    {
+      "id": "9ed24a7874d84ca8f4b01364ff6937a8",
+      "date": "2025-11-22",
+      "time": "14:00",
+      "home_team": "Robin Hood Colts FC",
+      "away_team": "Harrowby United Reserves",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "home",
+      "opponent": "Harrowby United Reserves",
+      "goals_for": 1,
+      "goals_against": 5
     },
     {
       "id": "285514b2af7160f98a3364aa89aa1d09",
@@ -839,6 +1129,23 @@
       "goals_against": 3
     },
     {
+      "id": "9322664d27785ef864d1883ccd2f7234",
+      "date": "2025-11-08",
+      "time": "14:00",
+      "home_team": "Robin Hood Colts FC",
+      "away_team": "Notts City Rangers FC",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "home",
+      "opponent": "Notts City Rangers FC",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
       "id": "de4672d5a6634c421cf4c76f19e876f7",
       "date": "2025-11-08",
       "time": "11:00",
@@ -871,6 +1178,57 @@
       "opponent": "Lowdham FC U9",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "5d37c1789c3dee2b59e642db1b508df3",
+      "date": "2025-11-01",
+      "time": "14:00",
+      "home_team": "Robin Hood Colts FC",
+      "away_team": "Rolls Royce FC",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "home",
+      "opponent": "Rolls Royce FC",
+      "goals_for": 4,
+      "goals_against": 1
+    },
+    {
+      "id": "3efb4bf197063319a811d806211b544e",
+      "date": "2025-10-25",
+      "time": "14:00",
+      "home_team": "Robin Hood Colts FC",
+      "away_team": "Radcliffe Olympic FC U23",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "NSL Junior Cup",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "home",
+      "opponent": "Radcliffe Olympic FC U23",
+      "goals_for": 3,
+      "goals_against": 4
+    },
+    {
+      "id": "ddf83cee88c52884725ed6d2f44444d0",
+      "date": "2025-10-18",
+      "time": "14:00",
+      "home_team": "Robin Hood Colts FC",
+      "away_team": "City United FC",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "home",
+      "opponent": "City United FC",
+      "goals_for": 1,
+      "goals_against": 1
     },
     {
       "id": "b962cf3d54c1fceb723f0924091283f8",
@@ -922,6 +1280,23 @@
       "opponent": "Ropsley Colts U9",
       "goals_for": 1,
       "goals_against": 2
+    },
+    {
+      "id": "b45c7022b7852af8af954f8008c722c2",
+      "date": "2025-10-11",
+      "time": "14:00",
+      "home_team": "Robin Hood Colts FC",
+      "away_team": "Phoenix Athletic FC",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "home",
+      "opponent": "Phoenix Athletic FC",
+      "goals_for": 2,
+      "goals_against": 0
     },
     {
       "id": "cd4ca53234713f511a17b0cd7a9ae5e5",
@@ -992,6 +1367,23 @@
       "goals_against": 4
     },
     {
+      "id": "884e3f6deee78db765557847610fe81f",
+      "date": "2025-10-04",
+      "time": "14:00",
+      "home_team": "Woodhouse Colts F.C. First",
+      "away_team": "Robin Hood Colts FC",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "Saturday Senior Trophy",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "away",
+      "opponent": "Woodhouse Colts F.C. First",
+      "goals_for": 1,
+      "goals_against": 5
+    },
+    {
       "id": "a23e0aeb5e0225a1fe9bb234d7d26920",
       "date": "2025-10-04",
       "time": "11:00",
@@ -1041,6 +1433,23 @@
       "opponent": "Gonerby Blue U13",
       "goals_for": 5,
       "goals_against": 5
+    },
+    {
+      "id": "a81541f4b6fca3e4d224ebd069835aff",
+      "date": "2025-09-27",
+      "time": "15:00",
+      "home_team": "Robin Hood Colts FC",
+      "away_team": "East Leake Robins Reserves",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "NSL Junior Cup",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "home",
+      "opponent": "East Leake Robins Reserves",
+      "goals_for": 2,
+      "goals_against": 0
     },
     {
       "id": "ad1251576f5e56943896e5ced901c493",
@@ -1111,6 +1520,23 @@
       "goals_against": 10
     },
     {
+      "id": "32be18971ab022cb3a0964a25b934300",
+      "date": "2025-09-20",
+      "time": "15:00",
+      "home_team": "Robin Hood Colts FC",
+      "away_team": "Pass Move Grin Reserves",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "home",
+      "opponent": "Pass Move Grin Reserves",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
       "id": "f541cb3f68cee6810fe24bedf4b2061f",
       "date": "2025-09-20",
       "time": "10:00",
@@ -1177,6 +1603,23 @@
       "opponent": "Kirkby Colts Red U12",
       "goals_for": 0,
       "goals_against": 8
+    },
+    {
+      "id": "c469990e95def4788ca174b0e9d86312",
+      "date": "2025-09-13",
+      "time": "15:00",
+      "home_team": "Harrowby United Reserves",
+      "away_team": "Robin Hood Colts FC",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "away",
+      "opponent": "Harrowby United Reserves",
+      "goals_for": 3,
+      "goals_against": 1
     },
     {
       "id": "3c28724041743bd1637898ace4ea6eee",
@@ -1247,6 +1690,23 @@
       "goals_against": 3
     },
     {
+      "id": "b2d9459ae5c3867b4080653cf43b7e65",
+      "date": "2025-09-06",
+      "time": "14:30",
+      "home_team": "Trent Vineyard FC",
+      "away_team": "Robin Hood Colts FC",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "away",
+      "opponent": "Trent Vineyard FC",
+      "goals_for": 0,
+      "goals_against": 0
+    },
+    {
       "id": "41b334df979017f681436151950cef9b",
       "date": "2025-09-06",
       "time": "10:00",
@@ -1262,6 +1722,57 @@
       "opponent": "Ernehale Colts U11",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "67a54e50e039bf04b92e4f005a46fe98",
+      "date": "2025-08-30",
+      "time": "15:00",
+      "home_team": "Calverton Miners Welfare Reserves",
+      "away_team": "Robin Hood Colts FC",
+      "home_score": 11,
+      "away_score": 0,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "away",
+      "opponent": "Calverton Miners Welfare Reserves",
+      "goals_for": 0,
+      "goals_against": 11
+    },
+    {
+      "id": "f515acbcd25ef3d4da4ffcec69b7ada9",
+      "date": "2025-08-23",
+      "time": "15:00",
+      "home_team": "City United FC",
+      "away_team": "Robin Hood Colts FC",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "away",
+      "opponent": "City United FC",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
+      "id": "96e8a2224e15c836b13e250f6659a6f4",
+      "date": "2025-08-16",
+      "time": "14:00",
+      "home_team": "Phoenix Athletic FC",
+      "away_team": "Robin Hood Colts FC",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "NSL Division Three",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "away",
+      "opponent": "Phoenix Athletic FC",
+      "goals_for": 2,
+      "goals_against": 3
     }
   ]
 }

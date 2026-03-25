@@ -1,6 +1,6 @@
 {
   "club": "Selston FC",
-  "generated": "2026-03-25T12:43:46Z",
+  "generated": "2026-03-25T12:50:50Z",
   "fixtures": [
     {
       "id": "9e227f6775bcb13f48fc0ef5bda7ffb5",
@@ -274,6 +274,19 @@
       "team": "Selston FC U7",
       "home_away": "home",
       "opponent": "Market Warsop Mini Mavs U7"
+    },
+    {
+      "id": "2025936f30759699be8c847340d1346c",
+      "date": "2026-04-28",
+      "time": "19:30",
+      "home_team": "Selston F.C. First",
+      "away_team": "Collingham FC",
+      "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
+      "division": "Saturday Senior Trophy",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Selston F.C. First",
+      "home_away": "home",
+      "opponent": "Collingham FC"
     }
   ],
   "results": [
@@ -652,6 +665,23 @@
       "goals_against": null
     },
     {
+      "id": "1aed666048d2b354bdb8020375173104",
+      "date": "2026-03-07",
+      "time": "14:00",
+      "home_team": "AC United FC",
+      "away_team": "Selston F.C. First",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "Saturday Senior Trophy",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Selston F.C. First",
+      "home_away": "away",
+      "opponent": "AC United FC",
+      "goals_for": 4,
+      "goals_against": 1
+    },
+    {
       "id": "9cc790022f4185816b3cdf8adbf35732",
       "date": "2026-03-07",
       "time": "11:00",
@@ -956,6 +986,23 @@
       "opponent": "Tibshelf FC Black U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "6a25c61018b84f43d6633c6d6382353e",
+      "date": "2026-02-07",
+      "time": "15:00",
+      "home_team": "Keyworth United FC",
+      "away_team": "Selston F.C. First",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "Saturday Senior Trophy",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Selston F.C. First",
+      "home_away": "away",
+      "opponent": "Keyworth United FC",
+      "goals_for": 2,
+      "goals_against": 1
     },
     {
       "id": "8ebaabb08ccd187b4de0fb0f517b668a",
@@ -1398,6 +1445,23 @@
       "opponent": "DLFC Orange U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "936d800a7a90fa16018aeade16e31700",
+      "date": "2025-12-13",
+      "time": "14:00",
+      "home_team": "Selston F.C. First",
+      "away_team": "AJ Sport F.C. Reserves",
+      "home_score": 14,
+      "away_score": 0,
+      "venue": "Saturday Senior Trophy",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Selston F.C. First",
+      "home_away": "home",
+      "opponent": "AJ Sport F.C. Reserves",
+      "goals_for": 14,
+      "goals_against": 0
     },
     {
       "id": "d8a62c15ef7e45d55c8816e20e285625",
@@ -1924,6 +1988,23 @@
       "home_away": "away",
       "opponent": "Iannis FC U9",
       "goals_for": 3,
+      "goals_against": 0
+    },
+    {
+      "id": "2a863e0dbf66f1010904b557382e5798",
+      "date": "2025-11-01",
+      "time": "14:00",
+      "home_team": "Selston F.C. First",
+      "away_team": "East Leake Robins Reserves",
+      "home_score": 7,
+      "away_score": 0,
+      "venue": "Saturday Senior Trophy",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Selston F.C. First",
+      "home_away": "home",
+      "opponent": "East Leake Robins Reserves",
+      "goals_for": 7,
       "goals_against": 0
     },
     {

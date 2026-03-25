@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:West Bridgford Reserves
+X-WR-CALDESC:Fixtures for West Bridgford Reserves — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:b5048f84af270f17e07970df8f229040@yel-calendar
+DTSTAMP:20260325T125134Z
+DTSTART;TZID=Europe/London:20260328T150000
+DTEND;TZID=Europe/London:20260328T163000
+SUMMARY:⚽ West Bridgford Reserves vs Cotgrave FC (Away)
+DESCRIPTION:Division: Euro Soccer Premier Division\nCotgrave FC v West Bridgford Reserves\nKO: 15:00
+LOCATION:COTGRAVE WELFARE CLUB #1
+END:VEVENT
+BEGIN:VEVENT
+UID:06c209e900c9a2b1ca8b4ead8d8a7ba2@yel-calendar
+DTSTAMP:20260325T125134Z
+DTSTART;TZID=Europe/London:20260331T193000
+DTEND;TZID=Europe/London:20260331T203000
+SUMMARY:⚽ West Bridgford Reserves vs Notts Olympic FC (Home)
+DESCRIPTION:Division: Euro Soccer Premier Division\nWest Bridgford Reserves v Notts Olympic FC\nKO: 19:30
+LOCATION:REGATTA WAY SPORTS GROUND
+END:VEVENT
+BEGIN:VEVENT
+UID:965654f8ae525c06c2f60bc399be0f14@yel-calendar
+DTSTAMP:20260325T125134Z
+DTSTART;TZID=Europe/London:20260407T193000
+DTEND;TZID=Europe/London:20260407T203000
+SUMMARY:⚽ West Bridgford Reserves vs Dunkirk AFC (Home)
+DESCRIPTION:Division: Euro Soccer Premier Division\nWest Bridgford Reserves v Dunkirk AFC\nKO: 19:30
+LOCATION:REGATTA WAY SPORTS GROUND
+END:VEVENT
+BEGIN:VEVENT
+UID:2dd6b8d8b51e8d7f4b060bdb7b3dc224@yel-calendar
+DTSTAMP:20260325T125134Z
+DTSTART;TZID=Europe/London:20260418T150000
+DTEND;TZID=Europe/London:20260418T163000
+SUMMARY:⚽ West Bridgford Reserves vs Wollaton FC (Away)
+DESCRIPTION:Division: Euro Soccer Premier Division\nWollaton FC v West Bridgford Reserves\nKO: 15:00
+LOCATION:WOLLATON SPORTS ASSOCIATION GROUND
+END:VEVENT
+BEGIN:VEVENT
+UID:5149d20191340949084f359a7fad1d66@yel-calendar
+DTSTAMP:20260325T125134Z
+DTSTART;TZID=Europe/London:20260421T193000
+DTEND;TZID=Europe/London:20260421T203000
+SUMMARY:⚽ West Bridgford Reserves vs Collingham FC (Home)
+DESCRIPTION:Division: Euro Soccer Premier Division\nWest Bridgford Reserves v Collingham FC\nKO: 19:30
+LOCATION:REGATTA WAY SPORTS GROUND
+END:VEVENT
+BEGIN:VEVENT
+UID:d20eec2cd02d6593fc183fa0bd97ca6e@yel-calendar
+DTSTAMP:20260325T125134Z
+DTSTART;TZID=Europe/London:20260502T150000
+DTEND;TZID=Europe/London:20260502T163000
+SUMMARY:⚽ West Bridgford Reserves vs Beeston FC (Away)
+DESCRIPTION:Division: Euro Soccer Premier Division\nBeeston FC v West Bridgford Reserves\nKO: 15:00
+LOCATION:Trent Vale Road Sports Ground
+END:VEVENT
+END:VCALENDAR

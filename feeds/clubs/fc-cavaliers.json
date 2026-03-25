@@ -1,6 +1,6 @@
 {
   "club": "FC Cavaliers",
-  "generated": "2026-03-25T12:43:46Z",
+  "generated": "2026-03-25T12:50:50Z",
   "fixtures": [
     {
       "id": "f034ad3faa3afc6287e8ce699ca1f5fa",
@@ -42,6 +42,45 @@
       "opponent": "Priory Celtic White U11"
     },
     {
+      "id": "6e1697d339645b2eb4a929041822ef3d",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "Collingham FC",
+      "away_team": "FC Cavaliers",
+      "venue": "COLLINGHAM FOOTBALL CLUB",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "away",
+      "opponent": "Collingham FC"
+    },
+    {
+      "id": "36985dbc66f5ba27202b0b4b471941bc",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "Southwell City Reserves",
+      "away_team": "FC Cavaliers",
+      "venue": "CENTENARY SPORTS GROUND",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "away",
+      "opponent": "Southwell City Reserves"
+    },
+    {
+      "id": "dad7cba8331aed6799b3d337cbedcfe8",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Awsworth Villa FC",
+      "away_team": "FC Cavaliers",
+      "venue": "SHILO PARK ZINDA GROUND",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "away",
+      "opponent": "Awsworth Villa FC"
+    },
+    {
       "id": "8f5a18886811408b3f0b4b26915fd652",
       "date": "2026-04-18",
       "time": "10:00",
@@ -68,6 +107,19 @@
       "opponent": "Cotgrave FC Blue U13"
     },
     {
+      "id": "50a001275f211bc53e2f33910bb33e05",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Notts Olympic FC",
+      "away_team": "FC Cavaliers",
+      "venue": "RADFORD FOOTBALL CLUB",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "away",
+      "opponent": "Notts Olympic FC"
+    },
+    {
       "id": "906f290a18d0a8307a47dbbf38eabb64",
       "date": "2026-04-21",
       "time": "18:00",
@@ -79,6 +131,19 @@
       "team": "FC Cavaliers U14",
       "home_away": "home",
       "opponent": "DLFC Grey U14"
+    },
+    {
+      "id": "2e592a7238548ba8c9532e897acc5e2f",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Woodthorpe Park Rangers FC",
+      "away_team": "FC Cavaliers",
+      "venue": "EAGLE VALLEY #1",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "away",
+      "opponent": "Woodthorpe Park Rangers FC"
     },
     {
       "id": "2b5afe88c7130df2247fb967f4576b7d",
@@ -120,6 +185,19 @@
       "opponent": "PMG Excel U14"
     },
     {
+      "id": "ada6a2645f328c076067fc51fb3bbb03",
+      "date": "2026-04-25",
+      "time": "15:00",
+      "home_team": "FC Cavaliers",
+      "away_team": "Collingham FC",
+      "venue": "THE FOREST SPORTS ZONE #1",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "home",
+      "opponent": "Collingham FC"
+    },
+    {
       "id": "bb2934e5d7aa84514888cd890b0468fa",
       "date": "2026-04-28",
       "time": "18:00",
@@ -131,9 +209,52 @@
       "team": "FC Cavaliers U14",
       "home_away": "away",
       "opponent": "Mickleover C P Athletic U14"
+    },
+    {
+      "id": "2016ee3f2a8ade65962b50b4f7324045",
+      "date": "2026-04-28",
+      "time": "18:30",
+      "home_team": "Ruddington Village FC",
+      "away_team": "FC Cavaliers",
+      "venue": "ELMS PARK",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "away",
+      "opponent": "Ruddington Village FC"
+    },
+    {
+      "id": "3719d062aa15ea46083e3268812bd4e3",
+      "date": "2026-05-02",
+      "time": "15:00",
+      "home_team": "FC Cavaliers",
+      "away_team": "Arnold Town FC",
+      "venue": "THE FOREST SPORTS ZONE #1",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "home",
+      "opponent": "Arnold Town FC"
     }
   ],
   "results": [
+    {
+      "id": "f05a406eb7fe7ae8a1de820869620c0c",
+      "date": "2026-03-21",
+      "time": "15:00",
+      "home_team": "FC Cavaliers",
+      "away_team": "Bingham Town FC",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "home",
+      "opponent": "Bingham Town FC",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "e8cf64809c4546eb4bb67a1ac5beed2c",
       "date": "2026-03-21",
@@ -218,6 +339,23 @@
       "opponent": "Dunkirk U14",
       "goals_for": 0,
       "goals_against": 1
+    },
+    {
+      "id": "ae9f77f109e6f8a05d57e262b465cb4d",
+      "date": "2026-03-14",
+      "time": "15:00",
+      "home_team": "Keyworth United FC",
+      "away_team": "FC Cavaliers",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "away",
+      "opponent": "Keyworth United FC",
+      "goals_for": 0,
+      "goals_against": 5
     },
     {
       "id": "dde483611edb57f11bdd411c27b38231",
@@ -305,6 +443,23 @@
       "goals_against": 0
     },
     {
+      "id": "3e9086ed87477ab47158d44333acc1a2",
+      "date": "2026-03-07",
+      "time": "15:00",
+      "home_team": "Bingham Town FC",
+      "away_team": "FC Cavaliers",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "away",
+      "opponent": "Bingham Town FC",
+      "goals_for": 1,
+      "goals_against": 4
+    },
+    {
       "id": "6465a6de36f23aaa6703c69e433347cc",
       "date": "2026-03-07",
       "time": "11:00",
@@ -390,6 +545,23 @@
       "goals_against": null
     },
     {
+      "id": "9a7828e7f58eff13d05d37a521d48d58",
+      "date": "2026-02-28",
+      "time": "15:00",
+      "home_team": "Dunkirk AFC",
+      "away_team": "FC Cavaliers",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "away",
+      "opponent": "Dunkirk AFC",
+      "goals_for": 5,
+      "goals_against": 2
+    },
+    {
       "id": "45007c2599b1b4892cd63514214ac04a",
       "date": "2026-02-28",
       "time": "11:00",
@@ -422,6 +594,23 @@
       "opponent": "Blidworth Bengals Orange U10",
       "goals_for": 3,
       "goals_against": 2
+    },
+    {
+      "id": "59207ba9cac368556ea5176f7525ee0c",
+      "date": "2026-02-21",
+      "time": "15:00",
+      "home_team": "FC Cavaliers",
+      "away_team": "Cotgrave FC",
+      "home_score": 0,
+      "away_score": 8,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "home",
+      "opponent": "Cotgrave FC",
+      "goals_for": 0,
+      "goals_against": 8
     },
     {
       "id": "7665bcf398997c813c89938db7127332",
@@ -509,6 +698,23 @@
       "goals_against": 4
     },
     {
+      "id": "6b19dcd1939e68506533a46a0b5d14f4",
+      "date": "2026-01-31",
+      "time": "14:00",
+      "home_team": "Beeston FC",
+      "away_team": "FC Cavaliers",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "away",
+      "opponent": "Beeston FC",
+      "goals_for": 2,
+      "goals_against": 4
+    },
+    {
       "id": "bcb3e5b37f1b95fc44f266383f65e4db",
       "date": "2026-01-31",
       "time": "11:00",
@@ -543,6 +749,23 @@
       "goals_against": 0
     },
     {
+      "id": "bfa7041c7c82af58790d2a75cdf7e779",
+      "date": "2026-01-24",
+      "time": "15:00",
+      "home_team": "FC Cavaliers",
+      "away_team": "Kimberley Miners Welfare Reserves",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "home",
+      "opponent": "Kimberley Miners Welfare Reserves",
+      "goals_for": 0,
+      "goals_against": 2
+    },
+    {
       "id": "b0d1807e9453a04139fde74cecb71af0",
       "date": "2026-01-24",
       "time": "11:00",
@@ -574,6 +797,23 @@
       "home_away": "home",
       "opponent": "WBYFC Roma U10",
       "goals_for": 4,
+      "goals_against": 1
+    },
+    {
+      "id": "d8647e05f5df860232e5cc081c713469",
+      "date": "2026-01-17",
+      "time": "15:00",
+      "home_team": "FC Cavaliers",
+      "away_team": "West Bridgford Reserves",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "home",
+      "opponent": "West Bridgford Reserves",
+      "goals_for": 1,
       "goals_against": 1
     },
     {
@@ -626,6 +866,40 @@
       "opponent": "Willow Wanderers Hornets U10",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "684b45e2bc2d736706cb58a2ce03ea1e",
+      "date": "2025-12-27",
+      "time": "15:00",
+      "home_team": "FC Cavaliers",
+      "away_team": "Keyworth United FC",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "home",
+      "opponent": "Keyworth United FC",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "55ec940520fa0172361a08d0193b204f",
+      "date": "2025-12-13",
+      "time": "14:00",
+      "home_team": "Aslockton & Orston FC",
+      "away_team": "FC Cavaliers",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "away",
+      "opponent": "Aslockton & Orston FC",
+      "goals_for": 1,
+      "goals_against": 0
     },
     {
       "id": "3043a75046b3f87b572ca1e2f9b536f1",
@@ -815,6 +1089,23 @@
       "goals_against": 0
     },
     {
+      "id": "2d03f85692799395731b223edb833f70",
+      "date": "2025-11-22",
+      "time": "15:00",
+      "home_team": "FC Cavaliers",
+      "away_team": "Ruddington Village FC",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "home",
+      "opponent": "Ruddington Village FC",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
       "id": "354682079e28df6da88e9f792823a104",
       "date": "2025-11-22",
       "time": "11:00",
@@ -917,6 +1208,23 @@
       "goals_against": 2
     },
     {
+      "id": "ba53e13825e42d62ece9907d3bdbf127",
+      "date": "2025-11-08",
+      "time": "15:00",
+      "home_team": "FC Cavaliers",
+      "away_team": "Southwell City Reserves",
+      "home_score": 1,
+      "away_score": 7,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "home",
+      "opponent": "Southwell City Reserves",
+      "goals_for": 1,
+      "goals_against": 7
+    },
+    {
       "id": "aa4b58f475dfd1e56b2df187355c8122",
       "date": "2025-11-08",
       "time": "11:00",
@@ -1002,6 +1310,23 @@
       "goals_against": 0
     },
     {
+      "id": "d567b41f8c4df8bcd40f0471a4ff2f3e",
+      "date": "2025-11-01",
+      "time": "15:00",
+      "home_team": "FC Cavaliers",
+      "away_team": "Wollaton FC",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "home",
+      "opponent": "Wollaton FC",
+      "goals_for": 2,
+      "goals_against": 5
+    },
+    {
       "id": "3d7a348e17e6e3b005d2e38b4e10954e",
       "date": "2025-11-01",
       "time": "10:30",
@@ -1017,6 +1342,23 @@
       "opponent": "DLFC Black U10",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "aadd76d64eefa64f266233cb04c464c7",
+      "date": "2025-10-25",
+      "time": "15:00",
+      "home_team": "West Bridgford Reserves",
+      "away_team": "FC Cavaliers",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "away",
+      "opponent": "West Bridgford Reserves",
+      "goals_for": 1,
+      "goals_against": 2
     },
     {
       "id": "6f7c933eac87d3cf903cc11451f274e5",
@@ -1053,6 +1395,23 @@
       "goals_against": null
     },
     {
+      "id": "0eb731fe4cc6f7a2e7923d35a66bbe04",
+      "date": "2025-10-18",
+      "time": "14:00",
+      "home_team": "Wollaton FC",
+      "away_team": "FC Cavaliers",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "away",
+      "opponent": "Wollaton FC",
+      "goals_for": 0,
+      "goals_against": 6
+    },
+    {
       "id": "95571fecc5bb723ee5a5b8a24cf9efe7",
       "date": "2025-10-18",
       "time": "11:00",
@@ -1085,6 +1444,23 @@
       "opponent": "Wollaton H & B United U10",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "e12685a1ac29e697b6888ab60510190f",
+      "date": "2025-10-11",
+      "time": "15:00",
+      "home_team": "FC Cavaliers",
+      "away_team": "Notts Olympic FC",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "home",
+      "opponent": "Notts Olympic FC",
+      "goals_for": 0,
+      "goals_against": 1
     },
     {
       "id": "beae6714b8620a12a282cfcce0e7e802",
@@ -1153,6 +1529,23 @@
       "opponent": "Long Eaton United Orange U11",
       "goals_for": 2,
       "goals_against": 1
+    },
+    {
+      "id": "64effee3954981c7c9633d7e249b5bfa",
+      "date": "2025-10-04",
+      "time": "14:00",
+      "home_team": "FC Cavaliers",
+      "away_team": "East Leake Robins FC",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "Saturday Senior Trophy",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "home",
+      "opponent": "East Leake Robins FC",
+      "goals_for": 0,
+      "goals_against": 4
     },
     {
       "id": "795224768dcde867bef1ed22a639450e",
@@ -1240,6 +1633,23 @@
       "goals_against": 2
     },
     {
+      "id": "8aa946d744cb7518431989185f87af35",
+      "date": "2025-09-27",
+      "time": "15:00",
+      "home_team": "FC Cavaliers",
+      "away_team": "Cotgrave FC",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "NSL Senior Cup",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "home",
+      "opponent": "Cotgrave FC",
+      "goals_for": 1,
+      "goals_against": 6
+    },
+    {
       "id": "cbbec3ca53e6c4e852bbdf84df69505c",
       "date": "2025-09-27",
       "time": "11:30",
@@ -1323,6 +1733,23 @@
       "opponent": "Hatton United U12",
       "goals_for": 3,
       "goals_against": 1
+    },
+    {
+      "id": "3638c96f80ef5bf9e99a2f051b8a7010",
+      "date": "2025-09-20",
+      "time": "15:00",
+      "home_team": "Kimberley Miners Welfare Reserves",
+      "away_team": "FC Cavaliers",
+      "home_score": 9,
+      "away_score": 1,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "away",
+      "opponent": "Kimberley Miners Welfare Reserves",
+      "goals_for": 1,
+      "goals_against": 9
     },
     {
       "id": "6c85bdeca9c54d4b560c3a4d77a744da",
@@ -1410,6 +1837,23 @@
       "goals_against": null
     },
     {
+      "id": "49ad407bdb15b27a1d34878055ab9a50",
+      "date": "2025-09-13",
+      "time": "15:00",
+      "home_team": "FC Cavaliers",
+      "away_team": "Beeston FC",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "home",
+      "opponent": "Beeston FC",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
       "id": "8632f55dbc4171d41d6da0dca87a3716",
       "date": "2025-09-13",
       "time": "12:00",
@@ -1495,6 +1939,23 @@
       "goals_against": 3
     },
     {
+      "id": "b0d47872a74c6d98935c2d26929f5360",
+      "date": "2025-09-06",
+      "time": "15:00",
+      "home_team": "FC Cavaliers",
+      "away_team": "Dunkirk AFC",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "home",
+      "opponent": "Dunkirk AFC",
+      "goals_for": 0,
+      "goals_against": 2
+    },
+    {
       "id": "8d96132314bc408832d84569b4328f87",
       "date": "2025-09-06",
       "time": "11:00",
@@ -1561,6 +2022,91 @@
       "opponent": "DLFC Grey U14",
       "goals_for": 1,
       "goals_against": 1
+    },
+    {
+      "id": "0508599bd73a6d9a711985723808f709",
+      "date": "2025-08-30",
+      "time": "15:00",
+      "home_team": "FC Cavaliers",
+      "away_team": "Awsworth Villa FC",
+      "home_score": 1,
+      "away_score": 9,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "home",
+      "opponent": "Awsworth Villa FC",
+      "goals_for": 1,
+      "goals_against": 9
+    },
+    {
+      "id": "5d4df2531476d76fbe1f6592722df881",
+      "date": "2025-08-27",
+      "time": "19:30",
+      "home_team": "Arnold Town FC",
+      "away_team": "FC Cavaliers",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "away",
+      "opponent": "Arnold Town FC",
+      "goals_for": 0,
+      "goals_against": 2
+    },
+    {
+      "id": "2e07fe0e444769fb4764cb7c362a696d",
+      "date": "2025-08-23",
+      "time": "15:00",
+      "home_team": "FC Cavaliers",
+      "away_team": "Aslockton & Orston FC",
+      "home_score": 0,
+      "away_score": 6,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "home",
+      "opponent": "Aslockton & Orston FC",
+      "goals_for": 0,
+      "goals_against": 6
+    },
+    {
+      "id": "3c21e171ecde2438f22ee5b4c5c64895",
+      "date": "2025-08-12",
+      "time": "19:45",
+      "home_team": "Cotgrave FC",
+      "away_team": "FC Cavaliers",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "away",
+      "opponent": "Cotgrave FC",
+      "goals_for": 0,
+      "goals_against": 6
+    },
+    {
+      "id": "fe929238312c47732814ee03df1cb59f",
+      "date": "2025-08-09",
+      "time": "15:00",
+      "home_team": "FC Cavaliers",
+      "away_team": "Woodthorpe Park Rangers FC",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "home",
+      "opponent": "Woodthorpe Park Rangers FC",
+      "goals_for": 0,
+      "goals_against": 5
     }
   ]
 }

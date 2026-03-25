@@ -1,6 +1,6 @@
 {
   "club": "Cotgrave FC",
-  "generated": "2026-03-25T12:43:46Z",
+  "generated": "2026-03-25T12:50:50Z",
   "fixtures": [
     {
       "id": "cbcb57e4db5554a12420cce0fd49a534",
@@ -133,6 +133,19 @@
       "opponent": "Alfreton Town Tigers U13"
     },
     {
+      "id": "b5048f84af270f17e07970df8f229040",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "Cotgrave FC",
+      "away_team": "West Bridgford Reserves",
+      "venue": "COTGRAVE WELFARE CLUB #1",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "home",
+      "opponent": "West Bridgford Reserves"
+    },
+    {
       "id": "24c05abfd6c67238acdd703733405704",
       "date": "2026-03-29",
       "time": "10:00",
@@ -198,6 +211,32 @@
       "opponent": "Lowdham FC EB U10"
     },
     {
+      "id": "a45f1fc09b14b5bd7ea7b938e37e0979",
+      "date": "2026-03-31",
+      "time": "19:45",
+      "home_team": "Collingham FC",
+      "away_team": "Cotgrave FC",
+      "venue": "COLLINGHAM FOOTBALL CLUB",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "away",
+      "opponent": "Collingham FC"
+    },
+    {
+      "id": "9b8f23aeab3987005eb4bc1daa3a2c9e",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "Beeston FC",
+      "away_team": "Cotgrave FC",
+      "venue": "Trent Vale Road Sports Ground",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "away",
+      "opponent": "Beeston FC"
+    },
+    {
       "id": "9ee847d297b30bab467b8fd74d0f623e",
       "date": "2026-04-11",
       "time": "10:00",
@@ -235,6 +274,19 @@
       "team": "Cotgrave FC U8 Girls ^",
       "home_away": "home",
       "opponent": "Toton Tornados Thunder U8"
+    },
+    {
+      "id": "947b30aba76f04adac4c8539644daa6f",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Wollaton FC",
+      "away_team": "Cotgrave FC",
+      "venue": "WOLLATON SPORTS ASSOCIATION GROUND",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "away",
+      "opponent": "Wollaton FC"
     },
     {
       "id": "3c8a22ee655417c23f0ef0bd0691639c",
@@ -380,6 +432,19 @@
       "opponent": "WBYFC Deportivo U12"
     },
     {
+      "id": "6149b001bf05ab03a166ca5ad47fbe05",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Cotgrave FC",
+      "away_team": "Keyworth United FC",
+      "venue": "COTGRAVE WELFARE CLUB #1",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "home",
+      "opponent": "Keyworth United FC"
+    },
+    {
       "id": "1f3eaa5242a649bf5d710eeebef011e6",
       "date": "2026-04-19",
       "time": "10:00",
@@ -469,6 +534,19 @@
       "team": "Cotgrave FC Blue U14",
       "home_away": "home",
       "opponent": "Willow Wanderers Bulldogs U14"
+    },
+    {
+      "id": "03db302abaf99444c515803db2e6e233",
+      "date": "2026-04-21",
+      "time": "15:00",
+      "home_team": "Cotgrave FC",
+      "away_team": "Arnold Town FC",
+      "venue": "COTGRAVE WELFARE CLUB #1",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "home",
+      "opponent": "Arnold Town FC"
     },
     {
       "id": "6b42078e5c6289b62692c0f643cf7ebb",
@@ -627,6 +705,19 @@
       "opponent": "Quarrydale United Rangers U14"
     },
     {
+      "id": "f69d723e01e512d9f874c6c56251f629",
+      "date": "2026-05-02",
+      "time": "15:00",
+      "home_team": "Cotgrave FC",
+      "away_team": "Awsworth Villa FC",
+      "venue": "COTGRAVE WELFARE CLUB #1",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "home",
+      "opponent": "Awsworth Villa FC"
+    },
+    {
       "id": "3cb9d996f8aca30625a03d92c128ad43",
       "date": "2026-05-09",
       "time": "13:30",
@@ -641,6 +732,23 @@
     }
   ],
   "results": [
+    {
+      "id": "a5c50fee5ca7b21f2fa326b217bf3ff0",
+      "date": "2026-03-24",
+      "time": "19:45",
+      "home_team": "Cotgrave FC",
+      "away_team": "Notts Olympic FC",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "NSL Senior Cup",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "home",
+      "opponent": "Notts Olympic FC",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "e1ba96239b71397d7314ee9d95495933",
       "date": "2026-03-22",
@@ -793,6 +901,23 @@
       "opponent": "Basford United Iconz U12",
       "goals_for": 1,
       "goals_against": 4
+    },
+    {
+      "id": "86c3225c5297f4e140925cf9233ffd08",
+      "date": "2026-03-21",
+      "time": "15:00",
+      "home_team": "Arnold Town FC",
+      "away_team": "Cotgrave FC",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "away",
+      "opponent": "Arnold Town FC",
+      "goals_for": 0,
+      "goals_against": 2
     },
     {
       "id": "358d9f820ff8e9dafebea3adc1e36091",
@@ -982,6 +1107,23 @@
       "goals_against": 1
     },
     {
+      "id": "04562971dc354dda9c2879887e111459",
+      "date": "2026-03-17",
+      "time": "19:30",
+      "home_team": "Southwell City Reserves",
+      "away_team": "Cotgrave FC",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "away",
+      "opponent": "Southwell City Reserves",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
       "id": "169bc50c8d018c0e78baed5683c44a01",
       "date": "2026-03-15",
       "time": "11:30",
@@ -1132,6 +1274,23 @@
       "home_away": "home",
       "opponent": "Sandiacre Town Hurricanes U12",
       "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "8a9399354cc684173aa2ed86d7f7212c",
+      "date": "2026-03-14",
+      "time": "15:00",
+      "home_team": "Kimberley Miners Welfare Reserves",
+      "away_team": "Cotgrave FC",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "away",
+      "opponent": "Kimberley Miners Welfare Reserves",
+      "goals_for": 1,
       "goals_against": 0
     },
     {
@@ -1490,6 +1649,23 @@
       "opponent": "Moorgreen Colts Blue U12",
       "goals_for": 2,
       "goals_against": 6
+    },
+    {
+      "id": "dee686222180060e64002c56f38ebf9a",
+      "date": "2026-03-07",
+      "time": "15:00",
+      "home_team": "Aslockton & Orston FC",
+      "away_team": "Cotgrave FC",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "away",
+      "opponent": "Aslockton & Orston FC",
+      "goals_for": 2,
+      "goals_against": 0
     },
     {
       "id": "8cfb7d0768620ae5a90cc73c7802250e",
@@ -1883,6 +2059,23 @@
       "goals_against": null
     },
     {
+      "id": "59207ba9cac368556ea5176f7525ee0c",
+      "date": "2026-02-21",
+      "time": "15:00",
+      "home_team": "FC Cavaliers",
+      "away_team": "Cotgrave FC",
+      "home_score": 0,
+      "away_score": 8,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "away",
+      "opponent": "FC Cavaliers",
+      "goals_for": 8,
+      "goals_against": 0
+    },
+    {
       "id": "e9c1c92d1b7e9d04e3beee0d1c93cc2c",
       "date": "2026-02-21",
       "time": "11:00",
@@ -1985,6 +2178,23 @@
       "goals_against": null
     },
     {
+      "id": "8845f4e3a7516c7d65ae0e6da77135a4",
+      "date": "2026-02-14",
+      "time": "14:00",
+      "home_team": "Cotgrave FC",
+      "away_team": "Dunkirk AFC",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "home",
+      "opponent": "Dunkirk AFC",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
       "id": "9e02d990c3327930876b2d6f26f8ceaf",
       "date": "2026-02-14",
       "time": "11:15",
@@ -2017,6 +2227,23 @@
       "opponent": "Stapleford Town Jaguars U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "178019290eedbba818aa5a5bbedebe68",
+      "date": "2026-02-07",
+      "time": "15:00",
+      "home_team": "Cotgrave FC",
+      "away_team": "Bingham Town FC",
+      "home_score": 8,
+      "away_score": 2,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "home",
+      "opponent": "Bingham Town FC",
+      "goals_for": 8,
+      "goals_against": 2
     },
     {
       "id": "76280cfb3e40f7c77e9513e0ff4cc5b7",
@@ -2784,6 +3011,23 @@
       "goals_against": null
     },
     {
+      "id": "0ae3f165e64fa64491b502d55db82502",
+      "date": "2026-01-17",
+      "time": "15:00",
+      "home_team": "Cotgrave FC",
+      "away_team": "Woodthorpe Park Rangers FC",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "home",
+      "opponent": "Woodthorpe Park Rangers FC",
+      "goals_for": 6,
+      "goals_against": 1
+    },
+    {
       "id": "30096bb1a387bb82a90d15831f71ac61",
       "date": "2026-01-17",
       "time": "10:30",
@@ -2988,6 +3232,23 @@
       "goals_against": null
     },
     {
+      "id": "fe8ecadee838720ee8e5432d574ef747",
+      "date": "2025-12-20",
+      "time": "14:00",
+      "home_team": "Ruddington Village FC",
+      "away_team": "Cotgrave FC",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "away",
+      "opponent": "Ruddington Village FC",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
       "id": "fd7a836ed6c21ea03fc77143fddee9bd",
       "date": "2025-12-14",
       "time": "10:00",
@@ -3088,6 +3349,23 @@
       "opponent": "Bestwood Colliery Red U12",
       "goals_for": 3,
       "goals_against": 3
+    },
+    {
+      "id": "d9981e8351f9113e03eb92d92038bf2e",
+      "date": "2025-12-13",
+      "time": "14:00",
+      "home_team": "Notts Olympic FC",
+      "away_team": "Cotgrave FC",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "away",
+      "opponent": "Notts Olympic FC",
+      "goals_for": 3,
+      "goals_against": 0
     },
     {
       "id": "c105f242e51c5f5aeeba461cdd08b139",
@@ -3343,6 +3621,23 @@
       "opponent": "WBYFC Leverkusen U10",
       "goals_for": 5,
       "goals_against": 2
+    },
+    {
+      "id": "1311e07c3d32d4dce6dee4b9ed9924a4",
+      "date": "2025-12-06",
+      "time": "15:00",
+      "home_team": "Cotgrave FC",
+      "away_team": "Beeston FC",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "home",
+      "opponent": "Beeston FC",
+      "goals_for": 4,
+      "goals_against": 0
     },
     {
       "id": "ab155b48d61bb7a725cb7107830990c9",
@@ -3736,6 +4031,23 @@
       "goals_against": 2
     },
     {
+      "id": "ffa24fa4feadd6a6e218af1d2b4d9351",
+      "date": "2025-11-22",
+      "time": "14:00",
+      "home_team": "Awsworth Villa FC",
+      "away_team": "Cotgrave FC",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "away",
+      "opponent": "Awsworth Villa FC",
+      "goals_for": 3,
+      "goals_against": 0
+    },
+    {
       "id": "dbefbfbf0626277b441e37dbae721fa8",
       "date": "2025-11-22",
       "time": "11:30",
@@ -3989,6 +4301,23 @@
       "opponent": "G3A FC Inter U12",
       "goals_for": 3,
       "goals_against": 3
+    },
+    {
+      "id": "821235207223f54b1be2cf7af61f8592",
+      "date": "2025-11-15",
+      "time": "15:00",
+      "home_team": "Keyworth United FC",
+      "away_team": "Cotgrave FC",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "NSL Senior Cup",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "away",
+      "opponent": "Keyworth United FC",
+      "goals_for": 6,
+      "goals_against": 2
     },
     {
       "id": "1173dcc62a7c0e173d0341ea5a929372",
@@ -4433,6 +4762,23 @@
       "goals_against": null
     },
     {
+      "id": "8dc81e93077ea0435fce29a2ff51d362",
+      "date": "2025-11-07",
+      "time": "19:30",
+      "home_team": "Cotgrave FC",
+      "away_team": "Collingham FC",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "home",
+      "opponent": "Collingham FC",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
       "id": "937ffd5232751c96e233be0e68f595c9",
       "date": "2025-11-02",
       "time": "10:30",
@@ -4465,6 +4811,23 @@
       "opponent": "WBYFC Copa U12",
       "goals_for": 2,
       "goals_against": 2
+    },
+    {
+      "id": "60d6d1c3d173ba41ffe409580c909d19",
+      "date": "2025-11-01",
+      "time": "14:00",
+      "home_team": "Cotgrave FC",
+      "away_team": "Keyworth United FC",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "Saturday Senior Trophy",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "home",
+      "opponent": "Keyworth United FC",
+      "goals_for": 2,
+      "goals_against": 4
     },
     {
       "id": "aaa1ffff104c97a395eacade41c35e31",
@@ -4550,6 +4913,23 @@
       "opponent": "Notts County Women U10 ^",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "54374007c1cfff3a6bba0912d0aab8c3",
+      "date": "2025-10-24",
+      "time": "19:30",
+      "home_team": "Cotgrave FC",
+      "away_team": "Ruddington Village FC",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "home",
+      "opponent": "Ruddington Village FC",
+      "goals_for": 1,
+      "goals_against": 0
     },
     {
       "id": "413c3a53cebe95a1bf1913267dbd1278",
@@ -4790,6 +5170,23 @@
       "goals_against": 1
     },
     {
+      "id": "65a9d865397d35ca7d7278e080ff2597",
+      "date": "2025-10-11",
+      "time": "14:00",
+      "home_team": "Bingham Town FC",
+      "away_team": "Cotgrave FC",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "away",
+      "opponent": "Bingham Town FC",
+      "goals_for": 5,
+      "goals_against": 0
+    },
+    {
       "id": "dfb279cee4ea0729ecc35621e55d7c41",
       "date": "2025-10-11",
       "time": "11:00",
@@ -4994,6 +5391,23 @@
       "goals_against": 3
     },
     {
+      "id": "d0f989618b391a0c8d6674669d406001",
+      "date": "2025-10-07",
+      "time": "19:30",
+      "home_team": "Cotgrave FC",
+      "away_team": "Aslockton & Orston FC",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "home",
+      "opponent": "Aslockton & Orston FC",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
       "id": "878526fcb99e2f80b80beb6c4417a394",
       "date": "2025-10-05",
       "time": "11:00",
@@ -5111,6 +5525,23 @@
       "opponent": "Silva FC Rushcliffe Gold U9",
       "goals_for": 3,
       "goals_against": 0
+    },
+    {
+      "id": "64135e02f22190b4a13766669c43eff0",
+      "date": "2025-10-04",
+      "time": "15:00",
+      "home_team": "Cotgrave FC",
+      "away_team": "Southwell City Reserves",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "home",
+      "opponent": "Southwell City Reserves",
+      "goals_for": 3,
+      "goals_against": 3
     },
     {
       "id": "b13c4cf938150115365e89ec781b19c6",
@@ -5366,6 +5797,23 @@
       "opponent": "Clifton AW Purple U10",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "8aa946d744cb7518431989185f87af35",
+      "date": "2025-09-27",
+      "time": "15:00",
+      "home_team": "FC Cavaliers",
+      "away_team": "Cotgrave FC",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "NSL Senior Cup",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "away",
+      "opponent": "FC Cavaliers",
+      "goals_for": 6,
+      "goals_against": 1
     },
     {
       "id": "5707f3faf428d42e4af60bb76a5d12ac",
@@ -5776,6 +6224,23 @@
       "goals_against": 2
     },
     {
+      "id": "2543ce2006338151f1bec83635235711",
+      "date": "2025-09-20",
+      "time": "15:00",
+      "home_team": "West Bridgford Reserves",
+      "away_team": "Cotgrave FC",
+      "home_score": 1,
+      "away_score": 7,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "away",
+      "opponent": "West Bridgford Reserves",
+      "goals_for": 7,
+      "goals_against": 1
+    },
+    {
       "id": "6ef9e39c8dec0a4678a76bef6fc356ec",
       "date": "2025-09-20",
       "time": "11:45",
@@ -6167,6 +6632,23 @@
       "goals_against": 1
     },
     {
+      "id": "8c782f649fce144285450e4fc26dd717",
+      "date": "2025-09-13",
+      "time": "15:00",
+      "home_team": "Dunkirk AFC",
+      "away_team": "Cotgrave FC",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "away",
+      "opponent": "Dunkirk AFC",
+      "goals_for": 6,
+      "goals_against": 1
+    },
+    {
       "id": "ec55ccf2445706d9657439368fc4831e",
       "date": "2025-09-13",
       "time": "11:30",
@@ -6507,6 +6989,23 @@
       "goals_against": 1
     },
     {
+      "id": "14300441382b145f1cc08639ba011cff",
+      "date": "2025-09-06",
+      "time": "15:00",
+      "home_team": "Cotgrave FC",
+      "away_team": "Kimberley Miners Welfare Reserves",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "home",
+      "opponent": "Kimberley Miners Welfare Reserves",
+      "goals_for": 1,
+      "goals_against": 0
+    },
+    {
       "id": "ff7b894c1c72e991701c5452a29571e3",
       "date": "2025-09-06",
       "time": "11:30",
@@ -6709,6 +7208,91 @@
       "opponent": "Long Eaton United Purple U11",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "0362675a6135a019f08f76b4b0f4b851",
+      "date": "2025-09-02",
+      "time": "19:30",
+      "home_team": "Cotgrave FC",
+      "away_team": "Wollaton FC",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "home",
+      "opponent": "Wollaton FC",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
+      "id": "66f8f13ee421ff255b45dca22600781f",
+      "date": "2025-08-22",
+      "time": "20:00",
+      "home_team": "Keyworth United FC",
+      "away_team": "Cotgrave FC",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "away",
+      "opponent": "Keyworth United FC",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
+      "id": "badf05b7a9eab923d2fc5bdc18499a84",
+      "date": "2025-08-16",
+      "time": "15:00",
+      "home_team": "Woodthorpe Park Rangers FC",
+      "away_team": "Cotgrave FC",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "away",
+      "opponent": "Woodthorpe Park Rangers FC",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "3c21e171ecde2438f22ee5b4c5c64895",
+      "date": "2025-08-12",
+      "time": "19:45",
+      "home_team": "Cotgrave FC",
+      "away_team": "FC Cavaliers",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "home",
+      "opponent": "FC Cavaliers",
+      "goals_for": 6,
+      "goals_against": 0
+    },
+    {
+      "id": "04d6da60198a182d9aa7591ed1c257c0",
+      "date": "2025-08-09",
+      "time": "15:00",
+      "home_team": "Cotgrave FC",
+      "away_team": "Notts Olympic FC",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "Euro Soccer Premier Division",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "home",
+      "opponent": "Notts Olympic FC",
+      "goals_for": 3,
+      "goals_against": 2
     }
   ]
 }

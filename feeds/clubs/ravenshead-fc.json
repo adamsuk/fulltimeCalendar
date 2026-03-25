@@ -1,6 +1,6 @@
 {
   "club": "Ravenshead FC",
-  "generated": "2026-03-25T12:43:46Z",
+  "generated": "2026-03-25T12:50:50Z",
   "fixtures": [
     {
       "id": "26a40080e7d949fce3227ff2a19241cd",
@@ -29,6 +29,32 @@
       "opponent": "Cotgrave FC Claret U11"
     },
     {
+      "id": "4df48fd60c5b2ac44e0d3dc664d40c96",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "Hucknall Town Reserves",
+      "away_team": "Ravenshead FC",
+      "venue": "HUCKNALL TOWN FOOTBALL CLUB",
+      "division": "NSL Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "away",
+      "opponent": "Hucknall Town Reserves"
+    },
+    {
+      "id": "700c2802fbc36cc8a6a9d020baf4a129",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "Gedling Southbank FC",
+      "away_team": "Ravenshead FC",
+      "venue": "THE TREVOR CARTER PAVILION",
+      "division": "NSL Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "away",
+      "opponent": "Gedling Southbank FC"
+    },
+    {
       "id": "0c4439d9ba0c89c848b98fdeff485089",
       "date": "2026-04-11",
       "time": "10:00",
@@ -40,6 +66,19 @@
       "team": "Ravenshead FC U11",
       "home_away": "away",
       "opponent": "Quarrydale United U11"
+    },
+    {
+      "id": "e5b4f9f5068360cff174a211efd29f2b",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Radcliffe Olympic FC",
+      "away_team": "Ravenshead FC",
+      "venue": "WHARF LANE RECREATION GROUND",
+      "division": "NSL Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC"
     },
     {
       "id": "4af5a105af81db837816a7b21f966589",
@@ -123,6 +162,23 @@
       "home_away": "home",
       "opponent": "Bestwood Colliery U11",
       "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "987e51aa630798cb79c6937bfafa0cac",
+      "date": "2026-03-21",
+      "time": "15:00",
+      "home_team": "Stapleford Town Reserves",
+      "away_team": "Ravenshead FC",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "away",
+      "opponent": "Stapleford Town Reserves",
+      "goals_for": 0,
       "goals_against": 2
     },
     {
@@ -211,6 +267,40 @@
       "goals_against": 2
     },
     {
+      "id": "5b780633bf46fbf91501a448dd031ca7",
+      "date": "2026-03-13",
+      "time": "20:00",
+      "home_team": "Bilborough TRD FC",
+      "away_team": "Ravenshead FC",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "away",
+      "opponent": "Bilborough TRD FC",
+      "goals_for": 0,
+      "goals_against": 4
+    },
+    {
+      "id": "11945428453741644d025e10eeead1e4",
+      "date": "2026-03-10",
+      "time": "19:30",
+      "home_team": "Ravenshead FC",
+      "away_team": "Keyworth United Reserves",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "home",
+      "opponent": "Keyworth United Reserves",
+      "goals_for": 0,
+      "goals_against": 2
+    },
+    {
       "id": "87a2c402682fa579b96cf5071ee0430c",
       "date": "2026-03-08",
       "time": "11:00",
@@ -226,6 +316,23 @@
       "opponent": "Kirkby Colts U11",
       "goals_for": 0,
       "goals_against": 3
+    },
+    {
+      "id": "ff05e7bbadd5be5408c4c6f38024ada8",
+      "date": "2026-03-07",
+      "time": "15:00",
+      "home_team": "Ravenshead FC",
+      "away_team": "Gedling Southbank FC",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "home",
+      "opponent": "Gedling Southbank FC",
+      "goals_for": 0,
+      "goals_against": 5
     },
     {
       "id": "4951c6f8049b934ef462b97434d24609",
@@ -245,6 +352,23 @@
       "goals_against": 4
     },
     {
+      "id": "37c8fbe0dc0d036efa3680de3900031a",
+      "date": "2026-03-04",
+      "time": "20:00",
+      "home_team": "Calverton Miners Welfare FC",
+      "away_team": "Ravenshead FC",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "away",
+      "opponent": "Calverton Miners Welfare FC",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
       "id": "b99e9f5e6267fab9c51f26e316cbe20f",
       "date": "2026-03-01",
       "time": "11:15",
@@ -262,6 +386,23 @@
       "goals_against": 2
     },
     {
+      "id": "4172dd31b66873d200c256d18aeb1049",
+      "date": "2026-02-28",
+      "time": "14:00",
+      "home_team": "East Leake Robins FC",
+      "away_team": "Ravenshead FC",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "away",
+      "opponent": "East Leake Robins FC",
+      "goals_for": 1,
+      "goals_against": 5
+    },
+    {
       "id": "bf26f28d9b74e6c5a0adf4358b38112c",
       "date": "2026-02-22",
       "time": "10:00",
@@ -277,6 +418,23 @@
       "opponent": "Shirebrook Rangers Blue U11",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "63089e417f11fcc59cdaa29a3482f30f",
+      "date": "2026-02-21",
+      "time": "14:00",
+      "home_team": "Ravenshead FC",
+      "away_team": "Bilborough TRD FC",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "home",
+      "opponent": "Bilborough TRD FC",
+      "goals_for": 4,
+      "goals_against": 2
     },
     {
       "id": "455bfe90143db452ff075e1d81565dec",
@@ -311,6 +469,23 @@
       "opponent": "Blidworth Bengals Orange U10",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "e8e5f4c1ad07b9875a787c96c570662a",
+      "date": "2026-01-31",
+      "time": "15:00",
+      "home_team": "AC United FC",
+      "away_team": "Ravenshead FC",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "away",
+      "opponent": "AC United FC",
+      "goals_for": 1,
+      "goals_against": 4
     },
     {
       "id": "a4fa84fe5235098d99017f71de63446b",
@@ -364,6 +539,23 @@
       "goals_against": 2
     },
     {
+      "id": "2d64c773e9393c8d4fb3e6e49072dc88",
+      "date": "2026-01-24",
+      "time": "14:00",
+      "home_team": "Ravenshead FC",
+      "away_team": "Elston United FC",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "home",
+      "opponent": "Elston United FC",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
       "id": "f5e7459629c5dd5240da06e32e3458b8",
       "date": "2026-01-24",
       "time": "10:00",
@@ -396,6 +588,23 @@
       "opponent": "Barrowby Junior Green U11",
       "goals_for": 6,
       "goals_against": 2
+    },
+    {
+      "id": "0b13f791182957570c3f1369811eda92",
+      "date": "2026-01-17",
+      "time": "14:00",
+      "home_team": "Meden Vale Colts FC",
+      "away_team": "Ravenshead FC",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "away",
+      "opponent": "Meden Vale Colts FC",
+      "goals_for": 1,
+      "goals_against": 3
     },
     {
       "id": "ca24636b56090bae6da28cf527661249",
@@ -432,6 +641,23 @@
       "goals_against": 6
     },
     {
+      "id": "da1f78873c6ffb31c6aee2e62b7ebacb",
+      "date": "2026-01-03",
+      "time": "14:00",
+      "home_team": "Pass Move Grin Excel FC",
+      "away_team": "Ravenshead FC",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "away",
+      "opponent": "Pass Move Grin Excel FC",
+      "goals_for": 2,
+      "goals_against": 3
+    },
+    {
       "id": "48ec1326f473c811f7be564140068fe4",
       "date": "2025-12-14",
       "time": "10:00",
@@ -447,6 +673,23 @@
       "opponent": "Barrowby Junior Green U11",
       "goals_for": 2,
       "goals_against": 2
+    },
+    {
+      "id": "30d9ff36abc9ed773785e296cb2e7733",
+      "date": "2025-12-13",
+      "time": "14:00",
+      "home_team": "Ravenshead FC",
+      "away_team": "Hucknall Town Reserves",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "home",
+      "opponent": "Hucknall Town Reserves",
+      "goals_for": 2,
+      "goals_against": 1
     },
     {
       "id": "74db4c50a43c8ef3c6135265ebd7acdc",
@@ -483,6 +726,23 @@
       "goals_against": null
     },
     {
+      "id": "da95602b96ac8b7e8372a2707104a777",
+      "date": "2025-12-06",
+      "time": "14:00",
+      "home_team": "AJ Sport FC",
+      "away_team": "Ravenshead FC",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "Saturday Senior Trophy",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "away",
+      "opponent": "AJ Sport FC",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
       "id": "00870d2ad24290d26d9def1bc057f8d3",
       "date": "2025-12-06",
       "time": "10:00",
@@ -517,6 +777,23 @@
       "goals_against": 2
     },
     {
+      "id": "f735df0ff4c2c358f15a466a096203a7",
+      "date": "2025-11-29",
+      "time": "14:00",
+      "home_team": "Clifton All Whites Reserves",
+      "away_team": "Ravenshead FC",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "away",
+      "opponent": "Clifton All Whites Reserves",
+      "goals_for": 1,
+      "goals_against": 0
+    },
+    {
       "id": "57138a2fa9d706649a5e986f8967fddb",
       "date": "2025-11-29",
       "time": "10:00",
@@ -531,6 +808,23 @@
       "home_away": "away",
       "opponent": "NG United U10",
       "goals_for": 2,
+      "goals_against": 1
+    },
+    {
+      "id": "905dbc377fc57924aeadda2edff6add4",
+      "date": "2025-11-22",
+      "time": "14:00",
+      "home_team": "Ravenshead FC",
+      "away_team": "Radcliffe Olympic FC",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "home",
+      "opponent": "Radcliffe Olympic FC",
+      "goals_for": 3,
       "goals_against": 1
     },
     {
@@ -585,6 +879,23 @@
       "goals_against": 0
     },
     {
+      "id": "a0c5a05f8fd8055ec83c274d94db66a1",
+      "date": "2025-11-15",
+      "time": "14:00",
+      "home_team": "Grantham Town Reserves",
+      "away_team": "Ravenshead FC",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "away",
+      "opponent": "Grantham Town Reserves",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
       "id": "cf59b333ebabd0e2407b0fd1fd58910b",
       "date": "2025-11-09",
       "time": "11:00",
@@ -600,6 +911,23 @@
       "opponent": "Tibshelf Community Spiders U11",
       "goals_for": 5,
       "goals_against": 0
+    },
+    {
+      "id": "e8ef050314a05cd8b131779e776d5c3a",
+      "date": "2025-11-08",
+      "time": "14:00",
+      "home_team": "Ravenshead FC",
+      "away_team": "Calverton Miners Welfare FC",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "home",
+      "opponent": "Calverton Miners Welfare FC",
+      "goals_for": 0,
+      "goals_against": 2
     },
     {
       "id": "bdda6b98420f2ea0e45fe906d9b7b999",
@@ -633,6 +961,23 @@
       "home_away": "away",
       "opponent": "Arnold Town Yellow U11",
       "goals_for": 2,
+      "goals_against": 4
+    },
+    {
+      "id": "a268c44e6009a51a9f3c0f0fecaaa7d8",
+      "date": "2025-10-25",
+      "time": "14:00",
+      "home_team": "Ravenshead FC",
+      "away_team": "Stapleford Town Reserves",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "home",
+      "opponent": "Stapleford Town Reserves",
+      "goals_for": 1,
       "goals_against": 4
     },
     {
@@ -687,6 +1032,23 @@
       "goals_against": 1
     },
     {
+      "id": "ca4a721e4cc2d96d9eed8782d0230179",
+      "date": "2025-10-07",
+      "time": "19:30",
+      "home_team": "Ravenshead FC",
+      "away_team": "Pass Move Grin Excel FC",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "home",
+      "opponent": "Pass Move Grin Excel FC",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
       "id": "53a9351163717d31048cf93a29edd86a",
       "date": "2025-10-05",
       "time": "10:00",
@@ -700,6 +1062,23 @@
       "team": "Ravenshead FC U11",
       "home_away": "away",
       "opponent": "Silva FC Carlton Red U11",
+      "goals_for": 0,
+      "goals_against": 2
+    },
+    {
+      "id": "0b61b6bf9b63337dcec84444f42df77b",
+      "date": "2025-10-04",
+      "time": "15:00",
+      "home_team": "Ravenshead FC",
+      "away_team": "Grantham Town Reserves",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "home",
+      "opponent": "Grantham Town Reserves",
       "goals_for": 0,
       "goals_against": 2
     },
@@ -735,6 +1114,23 @@
       "home_away": "home",
       "opponent": "Arnold Town Blue U11",
       "goals_for": 5,
+      "goals_against": 2
+    },
+    {
+      "id": "54b043088e455c8233aab428a8216541",
+      "date": "2025-09-27",
+      "time": "15:00",
+      "home_team": "Hucknall Town Reserves",
+      "away_team": "Ravenshead FC",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "NSL Intermediate Cup",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "away",
+      "opponent": "Hucknall Town Reserves",
+      "goals_for": 1,
       "goals_against": 2
     },
     {
@@ -789,6 +1185,23 @@
       "goals_against": 2
     },
     {
+      "id": "d979043fe0f3447af49d1c46be527e47",
+      "date": "2025-09-20",
+      "time": "15:00",
+      "home_team": "Ravenshead FC",
+      "away_team": "East Leake Robins FC",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "home",
+      "opponent": "East Leake Robins FC",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
       "id": "8e480ac7714a9ecc60ea609d66599e1c",
       "date": "2025-09-20",
       "time": "10:00",
@@ -838,6 +1251,23 @@
       "opponent": "Meden Vale Colts Gold U11",
       "goals_for": 3,
       "goals_against": 1
+    },
+    {
+      "id": "17e49341c0fb19a5f0fed21c15ef8ac9",
+      "date": "2025-09-13",
+      "time": "15:00",
+      "home_team": "Ravenshead FC",
+      "away_team": "Clifton All Whites Reserves",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "home",
+      "opponent": "Clifton All Whites Reserves",
+      "goals_for": 3,
+      "goals_against": 3
     },
     {
       "id": "726ce5cead06306c7a7c7c756385a145",
@@ -891,6 +1321,23 @@
       "goals_against": null
     },
     {
+      "id": "e092f13e344afee7dc5c91f623acdd20",
+      "date": "2025-09-06",
+      "time": "15:00",
+      "home_team": "Keyworth United Reserves",
+      "away_team": "Ravenshead FC",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "away",
+      "opponent": "Keyworth United Reserves",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
       "id": "798c15984848545c45de2b274f7b6c80",
       "date": "2025-09-06",
       "time": "11:00",
@@ -923,6 +1370,57 @@
       "opponent": "Fernwood Foxes Red U10",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "82745756cb78a2711c9379da4139c1dc",
+      "date": "2025-08-29",
+      "time": "19:30",
+      "home_team": "Ravenshead FC",
+      "away_team": "Meden Vale Colts FC",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts FC",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
+      "id": "b5bfb28325772e74a7fe55236d982b82",
+      "date": "2025-08-23",
+      "time": "15:00",
+      "home_team": "Elston United FC",
+      "away_team": "Ravenshead FC",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "away",
+      "opponent": "Elston United FC",
+      "goals_for": 3,
+      "goals_against": 3
+    },
+    {
+      "id": "dfad79971010316ec3453ebbe8411c0f",
+      "date": "2025-08-16",
+      "time": "15:00",
+      "home_team": "Ravenshead FC",
+      "away_team": "AC United FC",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "home",
+      "opponent": "AC United FC",
+      "goals_for": 0,
+      "goals_against": 1
     }
   ]
 }

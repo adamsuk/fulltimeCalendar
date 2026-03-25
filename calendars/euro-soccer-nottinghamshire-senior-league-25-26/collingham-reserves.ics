@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Collingham Reserves
+X-WR-CALDESC:Fixtures for Collingham Reserves — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:14d77202cb7e37598f8636f8d51c6677@yel-calendar
+DTSTAMP:20260325T125134Z
+DTSTART;TZID=Europe/London:20260328T150000
+DTEND;TZID=Europe/London:20260328T163000
+SUMMARY:⚽ Collingham Reserves vs Southwell City Development (Away)
+DESCRIPTION:Division: NSL Division Two\nSouthwell City Development v Collingham Reserves\nKO: 15:00
+LOCATION:ARTHUR RADFORD HALL & SPORTS GROUND
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb1e64b5253087d8bf6dcf3cd6ec586@yel-calendar
+DTSTAMP:20260325T125134Z
+DTSTART;TZID=Europe/London:20260404T150000
+DTEND;TZID=Europe/London:20260404T163000
+SUMMARY:⚽ Collingham Reserves vs AJ Sport FC (Home)
+DESCRIPTION:Division: NSL Division Two\nCollingham Reserves v AJ Sport FC\nKO: 15:00
+LOCATION:COLLINGHAM FOOTBALL CLUB
+END:VEVENT
+BEGIN:VEVENT
+UID:cc810706633749ff02779bb22fd7330c@yel-calendar
+DTSTAMP:20260325T125134Z
+DTSTART;TZID=Europe/London:20260418T150000
+DTEND;TZID=Europe/London:20260418T163000
+SUMMARY:⚽ Collingham Reserves vs Southwell City Development (Home)
+DESCRIPTION:Division: NSL Division Two\nCollingham Reserves v Southwell City Development\nKO: 15:00
+LOCATION:COLLINGHAM FOOTBALL CLUB
+END:VEVENT
+BEGIN:VEVENT
+UID:6a7129f35477aed0e9fc21c34591b22d@yel-calendar
+DTSTAMP:20260325T125134Z
+DTSTART;TZID=Europe/London:20260425T150000
+DTEND;TZID=Europe/London:20260425T163000
+SUMMARY:⚽ Collingham Reserves vs Cotgrave Reserves (Home)
+DESCRIPTION:Division: NSL Division Two\nCollingham Reserves v Cotgrave Reserves\nKO: 15:00
+LOCATION:COLLINGHAM FOOTBALL CLUB
+END:VEVENT
+BEGIN:VEVENT
+UID:50874dbeb92b9671554114c191f11c35@yel-calendar
+DTSTAMP:20260325T125134Z
+DTSTART;TZID=Europe/London:20260502T150000
+DTEND;TZID=Europe/London:20260502T163000
+SUMMARY:⚽ Collingham Reserves vs AFC Parabellum (Home)
+DESCRIPTION:Division: NSL Division Two\nCollingham Reserves v AFC Parabellum\nKO: 15:00
+LOCATION:COLLINGHAM FOOTBALL CLUB
+END:VEVENT
+BEGIN:VEVENT
+UID:8ede9cb2d4daf7664dfffb2fe50c98ee@yel-calendar
+DTSTAMP:20260325T125134Z
+DTSTART;TZID=Europe/London:20260508T194500
+DTEND;TZID=Europe/London:20260508T203000
+SUMMARY:⚽ Collingham Reserves vs Calverton Miners Welfare FC (Away)
+DESCRIPTION:Division: NSL Intermediate Cup\nCalverton Miners Welfare FC v Collingham Reserves\nKO: 19:45
+LOCATION:STAG RECREATION GROUND
+END:VEVENT
+END:VCALENDAR

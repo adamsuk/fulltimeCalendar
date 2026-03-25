@@ -1,6 +1,6 @@
 {
   "club": "Clifton All",
-  "generated": "2026-03-25T12:43:46Z",
+  "generated": "2026-03-25T12:50:50Z",
   "fixtures": [
     {
       "id": "5ad61638d371d0596b1a645b09cf8f0e",
@@ -107,6 +107,19 @@
       "opponent": "Ilkeston Town White Star U14"
     },
     {
+      "id": "ae36f7805ae1bde8559cb628d5bd6f1e",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "Gedling Southbank FC",
+      "away_team": "Clifton All Whites Reserves",
+      "venue": "THE TREVOR CARTER PAVILION",
+      "division": "NSL Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "away",
+      "opponent": "Gedling Southbank FC"
+    },
+    {
       "id": "f85dca7ab7e1b205f5a1c938dedd355a",
       "date": "2026-03-29",
       "time": "10:00",
@@ -118,6 +131,19 @@
       "team": "Clifton All Whites Orange U14",
       "home_away": "away",
       "opponent": "Attenborough Colts Green U14"
+    },
+    {
+      "id": "bb1e88f2fab993bc6930a8f85308accd",
+      "date": "2026-04-08",
+      "time": "19:30",
+      "home_team": "Hucknall Town Reserves",
+      "away_team": "Clifton All Whites Reserves",
+      "venue": "HUCKNALL TOWN FOOTBALL CLUB",
+      "division": "NSL Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "away",
+      "opponent": "Hucknall Town Reserves"
     },
     {
       "id": "3482f8604f360dbb557404b2752ec15d",
@@ -749,6 +775,23 @@
       "goals_against": 2
     },
     {
+      "id": "6bd8f7ae41ff9a7112cf7c569281ef42",
+      "date": "2026-03-14",
+      "time": "15:00",
+      "home_team": "Clifton All Whites Reserves",
+      "away_team": "Pass Move Grin Excel FC",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "home",
+      "opponent": "Pass Move Grin Excel FC",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
       "id": "d4cbe62c57abdf5a85172c4ff3143938",
       "date": "2026-03-14",
       "time": "11:15",
@@ -1276,6 +1319,23 @@
       "goals_against": 6
     },
     {
+      "id": "a4d85ca3ef6879c0b6b296212cf5dc1d",
+      "date": "2026-02-28",
+      "time": "14:00",
+      "home_team": "Clifton All Whites Reserves",
+      "away_team": "Elston United FC",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "home",
+      "opponent": "Elston United FC",
+      "goals_for": 3,
+      "goals_against": 3
+    },
+    {
       "id": "739eeadad6902e860e147237ac34fee4",
       "date": "2026-02-28",
       "time": "11:00",
@@ -1531,6 +1591,23 @@
       "goals_against": 2
     },
     {
+      "id": "c49f72cf103e143b1707020f46fa1807",
+      "date": "2026-02-14",
+      "time": "15:00",
+      "home_team": "Bilborough TRD FC",
+      "away_team": "Clifton All Whites Reserves",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "away",
+      "opponent": "Bilborough TRD FC",
+      "goals_for": 4,
+      "goals_against": 1
+    },
+    {
       "id": "9d86dbaebeb22e7c225773ca12d03649",
       "date": "2026-02-14",
       "time": "11:00",
@@ -1701,6 +1778,23 @@
       "goals_against": 2
     },
     {
+      "id": "a973d963f0ea06d3ee35767bad090cc1",
+      "date": "2026-02-07",
+      "time": "14:00",
+      "home_team": "Clifton All Whites Reserves",
+      "away_team": "Keyworth United Reserves",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "home",
+      "opponent": "Keyworth United Reserves",
+      "goals_for": 5,
+      "goals_against": 0
+    },
+    {
       "id": "c2ee0bf91fac8e45c5f772ad21a080a3",
       "date": "2026-02-07",
       "time": "11:00",
@@ -1784,6 +1878,23 @@
       "opponent": "G3A FC Inter U12",
       "goals_for": 1,
       "goals_against": 0
+    },
+    {
+      "id": "9e48cfdf3139ff329824088422683497",
+      "date": "2026-01-31",
+      "time": "14:00",
+      "home_team": "Pass Move Grin Excel FC",
+      "away_team": "Clifton All Whites Reserves",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "away",
+      "opponent": "Pass Move Grin Excel FC",
+      "goals_for": 3,
+      "goals_against": 3
     },
     {
       "id": "ce59d934665499410a0b21bd33998ae2",
@@ -1970,6 +2081,23 @@
       "home_away": "away",
       "opponent": "Newton & Blackwell U12",
       "goals_for": 1,
+      "goals_against": 1
+    },
+    {
+      "id": "f74f7f57a367898b35138e26113d31df",
+      "date": "2026-01-24",
+      "time": "14:00",
+      "home_team": "Clifton All Whites Reserves",
+      "away_team": "Bilborough TRD FC",
+      "home_score": 7,
+      "away_score": 1,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "home",
+      "opponent": "Bilborough TRD FC",
+      "goals_for": 7,
       "goals_against": 1
     },
     {
@@ -2175,6 +2303,23 @@
       "opponent": "Nottingham FC Blue U12",
       "goals_for": 6,
       "goals_against": 0
+    },
+    {
+      "id": "180751bbbf92eb15d0b3f47c786313b2",
+      "date": "2026-01-17",
+      "time": "14:00",
+      "home_team": "Clifton All Whites Reserves",
+      "away_team": "Radcliffe Olympic FC",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "home",
+      "opponent": "Radcliffe Olympic FC",
+      "goals_for": 5,
+      "goals_against": 1
     },
     {
       "id": "5c2c08dc68a486e1bda38893226d3aa5",
@@ -2398,6 +2543,23 @@
       "goals_against": 2
     },
     {
+      "id": "c2c9d015e2ddf0bb4660131a99d2fb55",
+      "date": "2026-01-10",
+      "time": "15:00",
+      "home_team": "Keyworth United Reserves",
+      "away_team": "Clifton All Whites Reserves",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "away",
+      "opponent": "Keyworth United Reserves",
+      "goals_for": 5,
+      "goals_against": 1
+    },
+    {
       "id": "a707e26c519c982ec684d5790d9ecfc5",
       "date": "2026-01-10",
       "time": "11:15",
@@ -2449,6 +2611,23 @@
       "goals_against": null
     },
     {
+      "id": "4f9749af5b22a18b8274772aff48f8c9",
+      "date": "2026-01-03",
+      "time": "15:00",
+      "home_team": "Stapleford Town Reserves",
+      "away_team": "Clifton All Whites Reserves",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "away",
+      "opponent": "Stapleford Town Reserves",
+      "goals_for": 3,
+      "goals_against": 3
+    },
+    {
       "id": "df0d5f955009b287ecb447109d3470c7",
       "date": "2026-01-03",
       "time": "10:00",
@@ -2464,6 +2643,40 @@
       "opponent": "Wollaton H & B Yellow U10",
       "goals_for": 7,
       "goals_against": 3
+    },
+    {
+      "id": "b56f2b463d98377d8f30f8886c3acf71",
+      "date": "2025-12-20",
+      "time": "15:00",
+      "home_team": "AC United FC",
+      "away_team": "Clifton All Whites Reserves",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "away",
+      "opponent": "AC United FC",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "056887bd46c2ea5eb652fee4a12a6f37",
+      "date": "2025-12-13",
+      "time": "14:00",
+      "home_team": "Clifton All Whites Reserves",
+      "away_team": "Calverton Miners Welfare FC",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "home",
+      "opponent": "Calverton Miners Welfare FC",
+      "goals_for": 2,
+      "goals_against": 6
     },
     {
       "id": "56df7171174080be95e9875cd289630f",
@@ -2738,6 +2951,23 @@
       "goals_against": 5
     },
     {
+      "id": "f735df0ff4c2c358f15a466a096203a7",
+      "date": "2025-11-29",
+      "time": "14:00",
+      "home_team": "Clifton All Whites Reserves",
+      "away_team": "Ravenshead FC",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "home",
+      "opponent": "Ravenshead FC",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
       "id": "f49cfa1576e50a9949b29e88436c38b5",
       "date": "2025-11-29",
       "time": "12:30",
@@ -2940,6 +3170,23 @@
       "opponent": "Attenborough Colts Green U14",
       "goals_for": 1,
       "goals_against": 8
+    },
+    {
+      "id": "5bb3d9eec3eae2451e450650d757fea5",
+      "date": "2025-11-22",
+      "time": "14:00",
+      "home_team": "Clifton All Whites Reserves",
+      "away_team": "Hucknall Town Reserves",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "home",
+      "opponent": "Hucknall Town Reserves",
+      "goals_for": 3,
+      "goals_against": 2
     },
     {
       "id": "36ba99bbae0fda32c09638389eb81f25",
@@ -3248,6 +3495,23 @@
       "goals_against": 3
     },
     {
+      "id": "91b5867388ad947ddc223f4826bc777a",
+      "date": "2025-11-08",
+      "time": "14:00",
+      "home_team": "Clifton All Whites Reserves",
+      "away_team": "Stapleford Town Reserves",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "home",
+      "opponent": "Stapleford Town Reserves",
+      "goals_for": 4,
+      "goals_against": 1
+    },
+    {
       "id": "4c914769a60ec019456d092203e8ef6f",
       "date": "2025-11-08",
       "time": "11:30",
@@ -3452,6 +3716,23 @@
       "goals_against": 7
     },
     {
+      "id": "375028d2eab9eafdedd7aeaf932850c1",
+      "date": "2025-11-01",
+      "time": "14:00",
+      "home_team": "Clifton All Whites Reserves",
+      "away_team": "Grantham Town Reserves",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "home",
+      "opponent": "Grantham Town Reserves",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
       "id": "0e1c452103540622b46629527070c57f",
       "date": "2025-11-01",
       "time": "11:15",
@@ -3571,6 +3852,23 @@
       "goals_against": null
     },
     {
+      "id": "92886ca725618514665a23e0c8213fc8",
+      "date": "2025-10-25",
+      "time": "14:00",
+      "home_team": "Elston United FC",
+      "away_team": "Clifton All Whites Reserves",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "away",
+      "opponent": "Elston United FC",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
       "id": "6286a24565ca7deedb10d96a84357bf2",
       "date": "2025-10-25",
       "time": "11:00",
@@ -3688,6 +3986,23 @@
       "opponent": "WBYFC Napoli U10",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "164b331750fe1b499bf4f4a3b19fac51",
+      "date": "2025-10-18",
+      "time": "14:00",
+      "home_team": "Clifton All Whites Reserves",
+      "away_team": "Gedling Southbank FC",
+      "home_score": 7,
+      "away_score": 5,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "home",
+      "opponent": "Gedling Southbank FC",
+      "goals_for": 7,
+      "goals_against": 5
     },
     {
       "id": "0e3ed0fbc3c37e5dcde30004923511ac",
@@ -3841,6 +4156,23 @@
       "opponent": "Heanor Juniors Ultras U12",
       "goals_for": 0,
       "goals_against": 4
+    },
+    {
+      "id": "a55d2c470b455874f0f4aa011cbfd26b",
+      "date": "2025-10-11",
+      "time": "15:00",
+      "home_team": "Calverton Miners Welfare FC",
+      "away_team": "Clifton All Whites Reserves",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "away",
+      "opponent": "Calverton Miners Welfare FC",
+      "goals_for": 0,
+      "goals_against": 1
     },
     {
       "id": "a1083777fff9ef32a957d24637b2db25",
@@ -4232,6 +4564,23 @@
       "opponent": "Mansfield Athletic U12",
       "goals_for": 5,
       "goals_against": 1
+    },
+    {
+      "id": "acc67db0b40bf6c824703e83b0d2cfd5",
+      "date": "2025-09-27",
+      "time": "15:00",
+      "home_team": "Newark and Sherwood Reserves",
+      "away_team": "Clifton All Whites Reserves",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "NSL Intermediate Cup",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "away",
+      "opponent": "Newark and Sherwood Reserves",
+      "goals_for": 2,
+      "goals_against": 2
     },
     {
       "id": "8b155e63953019e681bd99a450968a6a",
@@ -4693,6 +5042,23 @@
       "goals_against": 5
     },
     {
+      "id": "17e49341c0fb19a5f0fed21c15ef8ac9",
+      "date": "2025-09-13",
+      "time": "15:00",
+      "home_team": "Ravenshead FC",
+      "away_team": "Clifton All Whites Reserves",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "away",
+      "opponent": "Ravenshead FC",
+      "goals_for": 3,
+      "goals_against": 3
+    },
+    {
       "id": "1b0bcee98754a384a816286e4b00817c",
       "date": "2025-09-13",
       "time": "10:00",
@@ -4897,6 +5263,23 @@
       "goals_against": 9
     },
     {
+      "id": "78e4f2641be700039731aa2bd0bc0f35",
+      "date": "2025-09-06",
+      "time": "15:00",
+      "home_team": "Clifton All Whites Reserves",
+      "away_team": "Meden Vale Colts FC",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts FC",
+      "goals_for": 4,
+      "goals_against": 3
+    },
+    {
       "id": "fa0b1ed1bf4dc1b9af0bc85b58399f9f",
       "date": "2025-09-06",
       "time": "11:30",
@@ -5098,6 +5481,74 @@
       "home_away": "away",
       "opponent": "Cotgrave FC Blue U14",
       "goals_for": 2,
+      "goals_against": 3
+    },
+    {
+      "id": "ad70f661862221247608c271aa064486",
+      "date": "2025-08-30",
+      "time": "15:00",
+      "home_team": "Radcliffe Olympic FC",
+      "away_team": "Clifton All Whites Reserves",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
+      "id": "5390ef1165bfb854114c12d39e8f1677",
+      "date": "2025-08-23",
+      "time": "15:00",
+      "home_team": "Clifton All Whites Reserves",
+      "away_team": "AC United FC",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "home",
+      "opponent": "AC United FC",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
+      "id": "699d52b2efbee13b9ae62fa7c3446276",
+      "date": "2025-08-19",
+      "time": "19:30",
+      "home_team": "Grantham Town Reserves",
+      "away_team": "Clifton All Whites Reserves",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "away",
+      "opponent": "Grantham Town Reserves",
+      "goals_for": 2,
+      "goals_against": 5
+    },
+    {
+      "id": "30d400672e80a03eb11abb188963bd9d",
+      "date": "2025-08-09",
+      "time": "15:00",
+      "home_team": "Meden Vale Colts FC",
+      "away_team": "Clifton All Whites Reserves",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "NSL Division One",
+      "division": "Unknown Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "away",
+      "opponent": "Meden Vale Colts FC",
+      "goals_for": 1,
       "goals_against": 3
     }
   ]
