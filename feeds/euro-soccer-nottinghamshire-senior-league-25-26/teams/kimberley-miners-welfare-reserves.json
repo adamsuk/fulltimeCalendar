@@ -1,19 +1,8 @@
 {
   "team": "Kimberley Miners Welfare Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-03-25T20:44:02Z",
+  "generated": "2026-03-26T06:56:58Z",
   "fixtures": [
-    {
-      "id": "7fd68dee00b42fd022db2664074830fc",
-      "date": "2026-03-25",
-      "time": "19:45",
-      "home_team": "Southwell City Reserves",
-      "away_team": "Kimberley Miners Welfare Reserves",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Southwell City Reserves"
-    },
     {
       "id": "18f1bef4933f954aba94382957ef85f0",
       "date": "2026-04-04",
@@ -115,6 +104,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7fd68dee00b42fd022db2664074830fc",
+      "date": "2026-03-25",
+      "time": "19:45",
+      "home_team": "Southwell City Reserves",
+      "away_team": "Kimberley Miners Welfare Reserves",
+      "home_score": 3,
+      "away_score": 5,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Southwell City Reserves",
+      "goals_for": 5,
+      "goals_against": 3
+    },
     {
       "id": "2aba61ff41d5303409b791402252dacd",
       "date": "2026-03-20",

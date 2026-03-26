@@ -1,6 +1,6 @@
 {
   "club": "Southwell City",
-  "generated": "2026-03-25T20:44:02Z",
+  "generated": "2026-03-26T06:56:58Z",
   "fixtures": [
     {
       "id": "7b4eab81ca393208caed61c95b2f9a3c",
@@ -14,19 +14,6 @@
       "team": "Southwell City FC U11 Girls",
       "home_away": "away",
       "opponent": "WH&BFC Wildcats"
-    },
-    {
-      "id": "7fd68dee00b42fd022db2664074830fc",
-      "date": "2026-03-25",
-      "time": "19:45",
-      "home_team": "Southwell City Reserves",
-      "away_team": "Kimberley Miners Welfare Reserves",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Southwell City Reserves",
-      "home_away": "home",
-      "opponent": "Kimberley Miners Welfare Reserves"
     },
     {
       "id": "a1908cca3700838a30315a8b391f9135",
@@ -1213,6 +1200,23 @@
     }
   ],
   "results": [
+    {
+      "id": "7fd68dee00b42fd022db2664074830fc",
+      "date": "2026-03-25",
+      "time": "19:45",
+      "home_team": "Southwell City Reserves",
+      "away_team": "Kimberley Miners Welfare Reserves",
+      "home_score": 3,
+      "away_score": 5,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Southwell City Reserves",
+      "home_away": "home",
+      "opponent": "Kimberley Miners Welfare Reserves",
+      "goals_for": 3,
+      "goals_against": 5
+    },
     {
       "id": "1217c1b748203c71295221c1c944276b",
       "date": "2026-03-22",

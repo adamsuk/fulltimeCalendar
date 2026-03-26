@@ -1,6 +1,6 @@
 {
   "club": "Gedling Southbank",
-  "generated": "2026-03-25T20:44:02Z",
+  "generated": "2026-03-26T06:56:58Z",
   "fixtures": [
     {
       "id": "a3b06b7f6324de7da9a2916b941506d7",
@@ -14,19 +14,6 @@
       "team": "Gedling Southbank FC",
       "home_away": "home",
       "opponent": "Meden Vale Colts FC"
-    },
-    {
-      "id": "b8700a809a26fc59d32c3a95226ff77e",
-      "date": "2026-03-25",
-      "time": "20:00",
-      "home_team": "Calverton Miners Welfare FC",
-      "away_team": "Gedling Southbank FC",
-      "venue": "Holingwood Lane Main Pitch",
-      "division": "NSL Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Gedling Southbank FC",
-      "home_away": "away",
-      "opponent": "Calverton Miners Welfare FC"
     },
     {
       "id": "8c1efb5726f2e37c427eff0b9c6a47aa",
@@ -1122,6 +1109,23 @@
     }
   ],
   "results": [
+    {
+      "id": "b8700a809a26fc59d32c3a95226ff77e",
+      "date": "2026-03-25",
+      "time": "20:00",
+      "home_team": "Calverton Miners Welfare FC",
+      "away_team": "Gedling Southbank FC",
+      "home_score": 7,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Gedling Southbank FC",
+      "home_away": "away",
+      "opponent": "Calverton Miners Welfare FC",
+      "goals_for": 1,
+      "goals_against": 7
+    },
     {
       "id": "6b7cfe153896908a91d0a7b4b280b1e4",
       "date": "2026-03-22",

@@ -1,19 +1,8 @@
 {
   "team": "Wollaton FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-03-25T20:44:02Z",
+  "generated": "2026-03-26T06:56:58Z",
   "fixtures": [
-    {
-      "id": "0b3c9fa91703d206894cd1ceff41b3d0",
-      "date": "2026-03-25",
-      "time": "19:30",
-      "home_team": "Wollaton FC",
-      "away_team": "Ruddington Village FC",
-      "venue": "David ross village",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "home",
-      "opponent": "Ruddington Village FC"
-    },
     {
       "id": "2dee91f6597fdbed491e2b193f13b592",
       "date": "2026-04-01",
@@ -104,6 +93,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0b3c9fa91703d206894cd1ceff41b3d0",
+      "date": "2026-03-25",
+      "time": "19:30",
+      "home_team": "Wollaton FC",
+      "away_team": "Ruddington Village FC",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "home",
+      "opponent": "Ruddington Village FC",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "8f1ba33739dc9e902de16802b385e86e",
       "date": "2026-03-21",

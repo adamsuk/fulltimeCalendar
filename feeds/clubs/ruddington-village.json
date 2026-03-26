@@ -1,6 +1,6 @@
 {
   "club": "Ruddington Village",
-  "generated": "2026-03-25T20:44:02Z",
+  "generated": "2026-03-26T06:56:58Z",
   "fixtures": [
     {
       "id": "81b1492d06aa33647e942366b5f30c80",
@@ -14,19 +14,6 @@
       "team": "Ruddington Village Black U14",
       "home_away": "away",
       "opponent": "Mansfield Athletic Black U14"
-    },
-    {
-      "id": "0b3c9fa91703d206894cd1ceff41b3d0",
-      "date": "2026-03-25",
-      "time": "19:30",
-      "home_team": "Wollaton FC",
-      "away_team": "Ruddington Village FC",
-      "venue": "David ross village",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Ruddington Village FC",
-      "home_away": "away",
-      "opponent": "Wollaton FC"
     },
     {
       "id": "39223e1c850befb0bb6e22d36d7df3bb",
@@ -719,6 +706,23 @@
     }
   ],
   "results": [
+    {
+      "id": "0b3c9fa91703d206894cd1ceff41b3d0",
+      "date": "2026-03-25",
+      "time": "19:30",
+      "home_team": "Wollaton FC",
+      "away_team": "Ruddington Village FC",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ruddington Village FC",
+      "home_away": "away",
+      "opponent": "Wollaton FC",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "a6635cab8418aaf5ac53867c200982ad",
       "date": "2026-03-22",
