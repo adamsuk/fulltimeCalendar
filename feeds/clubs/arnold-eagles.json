@@ -1,6 +1,6 @@
 {
   "club": "Arnold Eagles",
-  "generated": "2026-03-26T06:56:58Z",
+  "generated": "2026-03-27T06:57:51Z",
   "fixtures": [
     {
       "id": "81fe3af657a938c81b3361c96339691b",
@@ -172,6 +172,19 @@
       "opponent": "Bottesford U8 Girls"
     },
     {
+      "id": "a0348a893af30cc2cee01a33fad897d9",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Arnold Town FC U9 Girls",
+      "away_team": "Arnold Eagles F.C. Girls U9 Warriors",
+      "venue": "EAGLE VALLEY",
+      "division": "U9 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Arnold Eagles F.C. Girls U9 Warriors",
+      "home_away": "away",
+      "opponent": "Arnold Town FC U9 Girls"
+    },
+    {
       "id": "89c5ade368389da550be59dd3e69ec40",
       "date": "2026-04-12",
       "time": "10:00",
@@ -198,17 +211,17 @@
       "opponent": "Woodhouse Colts F.C. U13 Athena"
     },
     {
-      "id": "ec0957e87acb5d55bae45044c0704793",
-      "date": "2026-04-15",
-      "time": "18:30",
-      "home_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
-      "away_team": "Ravenshead Reds F.C. Youth U14",
+      "id": "bae3feda25b4c113e00cac90ff1343d3",
+      "date": "2026-04-12",
+      "time": "12:00",
+      "home_team": "Arnold Eagles F.C. Girls U16 Buzzards",
+      "away_team": "Priory Celtic F.C. U16 Girls",
       "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "U14 Div 3",
+      "division": "U16 Div 2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Arnold Eagles F.C. Girls U14 Hurricanes",
+      "team": "Arnold Eagles F.C. Girls U16 Buzzards",
       "home_away": "home",
-      "opponent": "Ravenshead Reds F.C. Youth U14"
+      "opponent": "Priory Celtic F.C. U16 Girls"
     },
     {
       "id": "e62a3229ac49158f9a1c452e50b8c669",
@@ -278,7 +291,7 @@
     {
       "id": "f775468f5637279486a792034ae731a5",
       "date": "2026-04-19",
-      "time": "11:00",
+      "time": "12:30",
       "home_team": "Sherwood Colliery F.C. Ladies U14",
       "away_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
       "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
@@ -300,19 +313,6 @@
       "team": "Arnold Eagles FC Development",
       "home_away": "home",
       "opponent": "Radcliffe Olympic FC Ladies"
-    },
-    {
-      "id": "2a2c9a1a0ce2374ab2e3ae665f52094d",
-      "date": "2026-04-22",
-      "time": "18:30",
-      "home_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
-      "away_team": "Riverside Junior U14 Rubies",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Arnold Eagles F.C. Girls U14 Hurricanes",
-      "home_away": "home",
-      "opponent": "Riverside Junior U14 Rubies"
     },
     {
       "id": "3854cea6f0115b595660092943747f4e",
@@ -378,6 +378,19 @@
       "team": "Arnold Eagles F.C. Girls U15 Avengers",
       "home_away": "home",
       "opponent": "Beeston F.C. U15 Girls Sun"
+    },
+    {
+      "id": "3496c833a50fb72e46ed19f1b1b2a80f",
+      "date": "2026-05-01",
+      "time": "10:00",
+      "home_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
+      "away_team": "Riverside Junior U14 Rubies",
+      "venue": "CALVERTON MINERS WELFARE TRUST",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Arnold Eagles F.C. Girls U14 Hurricanes",
+      "home_away": "home",
+      "opponent": "Riverside Junior U14 Rubies"
     },
     {
       "id": "889a536149b86c22fb847dc68e13111b",
@@ -497,6 +510,32 @@
       "opponent": "Gedling Southbank FC U14 Reds"
     },
     {
+      "id": "603b25903286735354f0459da8639b68",
+      "date": "2026-05-17",
+      "time": "10:00",
+      "home_team": "Stapleford Town FC U15 Girls",
+      "away_team": "Arnold Eagles F.C. Girls U15 Avengers",
+      "venue": "STAPLEFORD COMMUNITY PAVILION",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Arnold Eagles F.C. Girls U15 Avengers",
+      "home_away": "away",
+      "opponent": "Stapleford Town FC U15 Girls"
+    },
+    {
+      "id": "e7405484c6058c729354b005e59b479e",
+      "date": "2026-05-24",
+      "time": "10:00",
+      "home_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
+      "away_team": "Ravenshead Reds F.C. Youth U14",
+      "venue": "CALVERTON MINERS WELFARE TRUST",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Arnold Eagles F.C. Girls U14 Hurricanes",
+      "home_away": "home",
+      "opponent": "Ravenshead Reds F.C. Youth U14"
+    },
+    {
       "id": "a91ddab87df0822b61c459c43732ddf1",
       "date": "2026-05-31",
       "time": "10:00",
@@ -521,32 +560,6 @@
       "team": "Arnold Eagles F.C. Girls U14 Storm",
       "home_away": "away",
       "opponent": "Phoenix Inham FC U14 Fireflies"
-    },
-    {
-      "id": "32651ee0dc0b5a9db513792c3e927141",
-      "date": "2026-05-31",
-      "time": "10:00",
-      "home_team": "Stapleford Town FC U15 Girls",
-      "away_team": "Arnold Eagles F.C. Girls U15 Avengers",
-      "venue": "STAPLEFORD COMMUNITY PAVILION",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Arnold Eagles F.C. Girls U15 Avengers",
-      "home_away": "away",
-      "opponent": "Stapleford Town FC U15 Girls"
-    },
-    {
-      "id": "41841e952de31f71e48b81fdaebadf04",
-      "date": "2026-05-31",
-      "time": "10:00",
-      "home_team": "Arnold Eagles F.C. Girls U16 Buzzards",
-      "away_team": "Priory Celtic F.C. U16 Girls",
-      "venue": "REDHILL LEISURE CENTRE",
-      "division": "U16 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Arnold Eagles F.C. Girls U16 Buzzards",
-      "home_away": "home",
-      "opponent": "Priory Celtic F.C. U16 Girls"
     }
   ],
   "results": [

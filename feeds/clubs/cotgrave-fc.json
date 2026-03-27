@@ -1,6 +1,6 @@
 {
   "club": "Cotgrave FC",
-  "generated": "2026-03-26T06:56:58Z",
+  "generated": "2026-03-27T06:57:51Z",
   "fixtures": [
     {
       "id": "3e814babf9f039a0c7fb716689eb478f",
@@ -367,17 +367,17 @@
       "opponent": "Mansfield Town F.C. Girls U12"
     },
     {
-      "id": "8e4f9466dd77a30572c4904f491b8208",
+      "id": "6538ce0e0f3e927c2a931d46b4ab9869",
       "date": "2026-04-12",
       "time": "10:00",
-      "home_team": "East Leake FC U9 Bantams Girls Red",
-      "away_team": "Cotgrave FC U9 White",
-      "venue": "EAST LEAKE PLAYING FIELDS",
-      "division": "U9  Development Yellow",
+      "home_team": "Cotgrave FC U9 White",
+      "away_team": "Market Warsop F.C. Youth U9 Wildcats",
+      "venue": "COTGRAVE WELFARE CLUB",
+      "division": "U9 Development",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Cotgrave FC U9 White",
-      "home_away": "away",
-      "opponent": "East Leake FC U9 Bantams Girls Red"
+      "home_away": "home",
+      "opponent": "Market Warsop F.C. Youth U9 Wildcats"
     },
     {
       "id": "f586c5499ca6d67de6b388ddfdd93424",
@@ -614,17 +614,17 @@
       "opponent": "Mansfield Athletic Blue U14"
     },
     {
-      "id": "c7e248deb705b15a77e3715c9124b77f",
+      "id": "a91dc4372f6c994279a42ea77aa8d5ef",
       "date": "2026-04-19",
       "time": "10:00",
-      "home_team": "Cotgrave FC Green U10",
-      "away_team": "Kirkby Colts U10",
-      "venue": "Ridley Sports Ground NG12 3HA",
-      "division": "U10 Sun Spring Div 4 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Cotgrave FC Green U10",
-      "home_away": "home",
-      "opponent": "Kirkby Colts U10"
+      "home_team": "East Leake FC U9 Bantams Girls Red",
+      "away_team": "Cotgrave FC U9 White",
+      "venue": "EAST LEAKE PLAYING FIELDS",
+      "division": "U9  Development Yellow",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Cotgrave FC U9 White",
+      "home_away": "away",
+      "opponent": "East Leake FC U9 Bantams Girls Red"
     },
     {
       "id": "8d9215aab75752a9f4b45ffb8847eee1",
@@ -638,6 +638,19 @@
       "team": "Cotgrave FC White U12",
       "home_away": "away",
       "opponent": "Melbourne Dynamo Rangers U12"
+    },
+    {
+      "id": "c7e248deb705b15a77e3715c9124b77f",
+      "date": "2026-04-19",
+      "time": "11:30",
+      "home_team": "Cotgrave FC Green U10",
+      "away_team": "Kirkby Colts U10",
+      "venue": "Ridley Sports Ground NG12 3HA",
+      "division": "U10 Sun Spring Div 4 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Cotgrave FC Green U10",
+      "home_away": "home",
+      "opponent": "Kirkby Colts U10"
     },
     {
       "id": "b003c8b9487c741dd03c6103fdc51a77",
@@ -681,10 +694,10 @@
     {
       "id": "6b42078e5c6289b62692c0f643cf7ebb",
       "date": "2026-04-23",
-      "time": "18:00",
+      "time": "18:30",
       "home_team": "Cotgrave FC Claret U14",
       "away_team": "Moorgreen Colts Blue U14",
-      "venue": "Ridley Sports Ground NG12 3HA",
+      "venue": "Cotgrave Welfare NG12 3PJ",
       "division": "U14 Sun Spring Div 4",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Cotgrave FC Claret U14",
@@ -809,19 +822,6 @@
       "opponent": "Burton Joyce F.C. Girls U12 Olympians"
     },
     {
-      "id": "cdb4f7f98917d2dfd045ebb333927472",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Cotgrave FC White U12",
-      "away_team": "Stapleford Town Saxons U12",
-      "venue": "Ridley Sports Ground NG12 3HA",
-      "division": "U12 Sun Spring Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Cotgrave FC White U12",
-      "home_away": "home",
-      "opponent": "Stapleford Town Saxons U12"
-    },
-    {
       "id": "f46d00f8fac795c9520b4f9b7eef30a3",
       "date": "2026-04-26",
       "time": "11:30",
@@ -833,6 +833,19 @@
       "team": "Cotgrave FC Blue U9",
       "home_away": "home",
       "opponent": "Breaston Park Green U9"
+    },
+    {
+      "id": "cdb4f7f98917d2dfd045ebb333927472",
+      "date": "2026-04-26",
+      "time": "11:30",
+      "home_team": "Cotgrave FC White U12",
+      "away_team": "Stapleford Town Saxons U12",
+      "venue": "Ridley Sports Ground NG12 3HA",
+      "division": "U12 Sun Spring Div 2 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Cotgrave FC White U12",
+      "home_away": "home",
+      "opponent": "Stapleford Town Saxons U12"
     },
     {
       "id": "c791772aacccfb3cc05e6507e5657bfd",

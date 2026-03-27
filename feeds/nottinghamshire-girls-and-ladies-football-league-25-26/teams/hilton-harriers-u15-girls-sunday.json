@@ -1,19 +1,8 @@
 {
   "team": "Hilton Harriers U15 Girls Sunday",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-03-26T06:56:58Z",
+  "generated": "2026-03-27T06:57:51Z",
   "fixtures": [
-    {
-      "id": "ceb7aaf88a9749d64e1aed9061c7098a",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Hilton Harriers U15 Girls Sunday",
-      "away_team": "Priory Celtic F.C. U15 Girls",
-      "venue": "THE MEASE PAVILION - HILTON HARRIERS FC",
-      "division": "U15 Div 2",
-      "home_away": "home",
-      "opponent": "Priory Celtic F.C. U15 Girls"
-    },
     {
       "id": "3f3eab34292f33b0ae0222a315d1ff58",
       "date": "2026-04-12",
@@ -37,8 +26,19 @@
       "opponent": "Sandiacre Town Youth U15 Girls Sparkle"
     },
     {
-      "id": "4e435a9951debd14e610904bd06e990b",
+      "id": "68e3b7bf19b9bfbe48f382028311d075",
       "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Hilton Harriers U15 Girls Sunday",
+      "away_team": "Willow Wanderers F.C. Youth U15 Amazons",
+      "venue": "THE MEASE PAVILION - HILTON HARRIERS FC",
+      "division": "U15 Div 2",
+      "home_away": "home",
+      "opponent": "Willow Wanderers F.C. Youth U15 Amazons"
+    },
+    {
+      "id": "3f81f8c266768f981ad56049f2cb76e7",
+      "date": "2026-04-22",
       "time": "10:00",
       "home_team": "Allenton United FC U15 Ladies Bees",
       "away_team": "Hilton Harriers U15 Girls Sunday",
@@ -48,8 +48,30 @@
       "opponent": "Allenton United FC U15 Ladies Bees"
     },
     {
-      "id": "df76df1d4fa81111fbe675dd423b9094",
-      "date": "2026-05-17",
+      "id": "6c326df27268e443abaf8cdd9bfddc04",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Hilton Harriers U15 Girls Sunday",
+      "away_team": "Priory Celtic F.C. U15 Girls",
+      "venue": "THE MEASE PAVILION - HILTON HARRIERS FC",
+      "division": "U15 Div 2",
+      "home_away": "home",
+      "opponent": "Priory Celtic F.C. U15 Girls"
+    },
+    {
+      "id": "c3078d5e637f8b8dcabec6f035733803",
+      "date": "2026-05-10",
+      "time": "10:30",
+      "home_team": "Lowdham Colts F.C. Youth U15 Girls",
+      "away_team": "Hilton Harriers U15 Girls Sunday",
+      "venue": "EPPERSTONE PLAYING FIELDS",
+      "division": "U15 Div 2",
+      "home_away": "away",
+      "opponent": "Lowdham Colts F.C. Youth U15 Girls"
+    },
+    {
+      "id": "58cfa5e62c7b4f8d7ee75c85b6a5642a",
+      "date": "2026-05-13",
       "time": "10:00",
       "home_team": "Sandiacre Town Youth U15 Girls Sparkle",
       "away_team": "Hilton Harriers U15 Girls Sunday",
@@ -59,15 +81,15 @@
       "opponent": "Sandiacre Town Youth U15 Girls Sparkle"
     },
     {
-      "id": "6181c7385c84aa35f9b173c97f9eebe8",
-      "date": "2026-05-24",
+      "id": "48b600ce21214de52ddbd95484e7d127",
+      "date": "2026-05-17",
       "time": "10:00",
       "home_team": "Hilton Harriers U15 Girls Sunday",
-      "away_team": "Willow Wanderers F.C. Youth U15 Amazons",
+      "away_team": "Tansley Juniors U15 Girls",
       "venue": "THE MEASE PAVILION - HILTON HARRIERS FC",
       "division": "U15 Div 2",
       "home_away": "home",
-      "opponent": "Willow Wanderers F.C. Youth U15 Amazons"
+      "opponent": "Tansley Juniors U15 Girls"
     },
     {
       "id": "4c4884a7633e3b585b1a8d4276e33f1a",
@@ -78,28 +100,6 @@
       "venue": "THE MEASE PAVILION - HILTON HARRIERS FC",
       "division": "U15 Div 2",
       "home_away": "home",
-      "opponent": "Lowdham Colts F.C. Youth U15 Girls"
-    },
-    {
-      "id": "70aa023f4f5d75ea3576ed2981e5eeed",
-      "date": "2026-05-31",
-      "time": "10:00",
-      "home_team": "Hilton Harriers U15 Girls Sunday",
-      "away_team": "Tansley Juniors U15 Girls",
-      "venue": "THE MEASE PAVILION - HILTON HARRIERS FC",
-      "division": "U15 Div 2",
-      "home_away": "home",
-      "opponent": "Tansley Juniors U15 Girls"
-    },
-    {
-      "id": "b3df0a4fb76884df8105e5c1472a6240",
-      "date": "2026-05-31",
-      "time": "10:00",
-      "home_team": "Lowdham Colts F.C. Youth U15 Girls",
-      "away_team": "Hilton Harriers U15 Girls Sunday",
-      "venue": "EPPERSTONE PLAYING FIELDS",
-      "division": "U15 Div 2",
-      "home_away": "away",
       "opponent": "Lowdham Colts F.C. Youth U15 Girls"
     }
   ],
