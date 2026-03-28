@@ -1,20 +1,7 @@
 {
   "club": "Arnold Eagles",
-  "generated": "2026-03-27T06:57:51Z",
+  "generated": "2026-03-28T06:45:06Z",
   "fixtures": [
-    {
-      "id": "81fe3af657a938c81b3361c96339691b",
-      "date": "2026-03-22",
-      "time": "09:45",
-      "home_team": "Arnold Eagles F.C. Girls U16 Buzzards",
-      "away_team": "Meden Vale Colts F.C. U16 Girls",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "U16 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Arnold Eagles F.C. Girls U16 Buzzards",
-      "home_away": "home",
-      "opponent": "Meden Vale Colts F.C. U16 Girls"
-    },
     {
       "id": "111f4b5bb4249e4846a10c7c26ff372a",
       "date": "2026-03-29",
@@ -120,6 +107,19 @@
       "opponent": "Shirebrook Rangers & Juniors U14 Girls"
     },
     {
+      "id": "d196d6e1d5574fbb15cc31c6a27b01e0",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Cotgrave FC U14 White",
+      "away_team": "Arnold Eagles F.C. Girls U14 Storm",
+      "venue": "COTGRAVE LEISURE CENTRE",
+      "division": "U14 Div 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Arnold Eagles F.C. Girls U14 Storm",
+      "home_away": "away",
+      "opponent": "Cotgrave FC U14 White"
+    },
+    {
       "id": "0da0b1bdcc87c46303ede5c0fa54e95d",
       "date": "2026-04-12",
       "time": "10:00",
@@ -211,17 +211,17 @@
       "opponent": "Woodhouse Colts F.C. U13 Athena"
     },
     {
-      "id": "bae3feda25b4c113e00cac90ff1343d3",
+      "id": "802a25a765e9c76cbaaa06fa2a742459",
       "date": "2026-04-12",
-      "time": "12:00",
-      "home_team": "Arnold Eagles F.C. Girls U16 Buzzards",
-      "away_team": "Priory Celtic F.C. U16 Girls",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
+      "time": "11:30",
+      "home_team": "Bingham Town F.C. U16 Girls",
+      "away_team": "Arnold Eagles F.C. Girls U16 Buzzards",
+      "venue": "BUTT FIELD SPORTS CLUB",
       "division": "U16 Div 2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Arnold Eagles F.C. Girls U16 Buzzards",
-      "home_away": "home",
-      "opponent": "Priory Celtic F.C. U16 Girls"
+      "home_away": "away",
+      "opponent": "Bingham Town F.C. U16 Girls"
     },
     {
       "id": "e62a3229ac49158f9a1c452e50b8c669",
@@ -315,6 +315,19 @@
       "opponent": "Radcliffe Olympic FC Ladies"
     },
     {
+      "id": "74891542f8ae455074197acceb08dbe6",
+      "date": "2026-04-26",
+      "time": "09:45",
+      "home_team": "Arnold Eagles F.C. Girls U16 Buzzards",
+      "away_team": "Meden Vale Colts F.C. U16 Girls",
+      "venue": "CALVERTON MINERS WELFARE TRUST",
+      "division": "U16 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Arnold Eagles F.C. Girls U16 Buzzards",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts F.C. U16 Girls"
+    },
+    {
       "id": "3854cea6f0115b595660092943747f4e",
       "date": "2026-04-26",
       "time": "10:00",
@@ -326,19 +339,6 @@
       "team": "Arnold Eagles F.C. Girls U12 FC",
       "home_away": "away",
       "opponent": "Keyworth United F.C. U12 Warriors"
-    },
-    {
-      "id": "499fdb5050272cba228877524f861f51",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Arnold Eagles F.C. Girls U13 Harriers",
-      "away_team": "West Hallam Juniors U13 Diamonds",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "U13 Div 3 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Arnold Eagles F.C. Girls U13 Harriers",
-      "home_away": "home",
-      "opponent": "West Hallam Juniors U13 Diamonds"
     },
     {
       "id": "4d1fb1f51edc53707395cef52e1bde53",
@@ -406,6 +406,19 @@
       "opponent": "Hucknall & Linby Harriers FC U12"
     },
     {
+      "id": "9f2655283db3ee64092a96d53db888b0",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Moorgreen Colts F.C. Youth U13",
+      "away_team": "Arnold Eagles F.C. Girls U13 Harriers",
+      "venue": "Moorgreen Colts F.C. Youth U13",
+      "division": "U13 Div 3 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Arnold Eagles F.C. Girls U13 Harriers",
+      "home_away": "away",
+      "opponent": "Moorgreen Colts F.C. Youth U13"
+    },
+    {
       "id": "3b3dfed04ff40b4dce38c7316ec4a1c1",
       "date": "2026-05-03",
       "time": "10:00",
@@ -417,19 +430,6 @@
       "team": "Arnold Eagles F.C. Girls U14 Hurricanes",
       "home_away": "away",
       "opponent": "Matlock Town Juniors U14 Spartans Girls"
-    },
-    {
-      "id": "b0f22d13d68f99f7b3e4601394314cf2",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Cotgrave FC U14 White",
-      "away_team": "Arnold Eagles F.C. Girls U14 Storm",
-      "venue": "COTGRAVE LEISURE CENTRE",
-      "division": "U14 Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Arnold Eagles F.C. Girls U14 Storm",
-      "home_away": "away",
-      "opponent": "Cotgrave FC U14 White"
     },
     {
       "id": "658c76cb5c90d154edfd193038cd9342",
@@ -445,6 +445,19 @@
       "opponent": "Burton Joyce F.C. Girls U15 Green"
     },
     {
+      "id": "5051707124f6e065e33f99670fde7aaa",
+      "date": "2026-05-03",
+      "time": "12:00",
+      "home_team": "Arnold Eagles F.C. Girls U16 Buzzards",
+      "away_team": "Priory Celtic F.C. U16 Girls",
+      "venue": "CALVERTON MINERS WELFARE TRUST",
+      "division": "U16 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Arnold Eagles F.C. Girls U16 Buzzards",
+      "home_away": "home",
+      "opponent": "Priory Celtic F.C. U16 Girls"
+    },
+    {
       "id": "0dbdc37637d924515d04ea8ccb65b0a1",
       "date": "2026-05-10",
       "time": "10:00",
@@ -456,19 +469,6 @@
       "team": "Arnold Eagles F.C. Girls U12 FC",
       "home_away": "away",
       "opponent": "Sandiacre Town Youth U12 Panthers Girls"
-    },
-    {
-      "id": "04919229c6a6298c0dd92ab732b75bdc",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Moorgreen Colts F.C. Youth U13",
-      "away_team": "Arnold Eagles F.C. Girls U13 Harriers",
-      "venue": "Moorgreen Colts F.C. Youth U13",
-      "division": "U13 Div 3 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Arnold Eagles F.C. Girls U13 Harriers",
-      "home_away": "away",
-      "opponent": "Moorgreen Colts F.C. Youth U13"
     },
     {
       "id": "ecbb6351c0edcf0a6cd75be06c5162f7",
@@ -484,17 +484,30 @@
       "opponent": "Nottingham F.C. Youth U14 Girls"
     },
     {
-      "id": "abfafa874315eac4e1aabdeab99fdc58",
+      "id": "a73370b3f1e5b9ba9325c19dd7fbd394",
       "date": "2026-05-10",
-      "time": "11:30",
-      "home_team": "Bingham Town F.C. U16 Girls",
-      "away_team": "Arnold Eagles F.C. Girls U16 Buzzards",
-      "venue": "BUTT FIELD SPORTS CLUB",
-      "division": "U16 Div 2",
+      "time": "10:00",
+      "home_team": "Phoenix Inham FC U14 Fireflies",
+      "away_team": "Arnold Eagles F.C. Girls U14 Storm",
+      "venue": "INHAM NOOK RECREATION GROUND",
+      "division": "U14 Div 4",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Arnold Eagles F.C. Girls U16 Buzzards",
+      "team": "Arnold Eagles F.C. Girls U14 Storm",
       "home_away": "away",
-      "opponent": "Bingham Town F.C. U16 Girls"
+      "opponent": "Phoenix Inham FC U14 Fireflies"
+    },
+    {
+      "id": "fa336e12658fee0be6cf585dba3619b6",
+      "date": "2026-05-17",
+      "time": "10:00",
+      "home_team": "Arnold Eagles F.C. Girls U13 Harriers",
+      "away_team": "West Hallam Juniors U13 Diamonds",
+      "venue": "CALVERTON MINERS WELFARE TRUST",
+      "division": "U13 Div 3 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Arnold Eagles F.C. Girls U13 Harriers",
+      "home_away": "home",
+      "opponent": "West Hallam Juniors U13 Diamonds"
     },
     {
       "id": "f29cd3c3b67c6f1b9fb5bc7b065865d5",
@@ -547,19 +560,6 @@
       "team": "Arnold Eagles F.C. Girls U12 FC",
       "home_away": "away",
       "opponent": "Radcliffe Olympic FC U12 Girls Eagles"
-    },
-    {
-      "id": "3cc2146b416a441550f4410f68a0eeda",
-      "date": "2026-05-31",
-      "time": "10:00",
-      "home_team": "Phoenix Inham FC U14 Fireflies",
-      "away_team": "Arnold Eagles F.C. Girls U14 Storm",
-      "venue": "INHAM NOOK RECREATION GROUND",
-      "division": "U14 Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Arnold Eagles F.C. Girls U14 Storm",
-      "home_away": "away",
-      "opponent": "Phoenix Inham FC U14 Fireflies"
     }
   ],
   "results": [

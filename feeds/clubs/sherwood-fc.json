@@ -1,20 +1,7 @@
 {
   "club": "Sherwood FC",
-  "generated": "2026-03-27T06:57:51Z",
+  "generated": "2026-03-28T06:45:06Z",
   "fixtures": [
-    {
-      "id": "e9b635d0131f62aa78c063375c87d2ed",
-      "date": "2026-03-21",
-      "time": "10:00",
-      "home_team": "Grantham Town U12",
-      "away_team": "Sherwood FC Yellow U12",
-      "venue": "GRANTHAM MERES LEISURE CENTRE NG31 7XQ",
-      "division": "U12 Sat Spring Div 5 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sherwood FC Yellow U12",
-      "home_away": "away",
-      "opponent": "Grantham Town U12"
-    },
     {
       "id": "78d4c25edd2240e2ae2660638dbc5d50",
       "date": "2026-03-28",
@@ -263,19 +250,6 @@
       "opponent": "Barrowby FC Green U10"
     },
     {
-      "id": "52c837918bb33cb40c62036f3f059556",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Mansfield Athletic U7",
-      "away_team": "Sherwood FC Rangers U7",
-      "venue": "Unwin Road NG17 4HT",
-      "division": "U7 Sun Spring White",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Sherwood FC Rangers U7",
-      "home_away": "away",
-      "opponent": "Mansfield Athletic U7"
-    },
-    {
       "id": "54ac1622a5d1c88b206abd5301c9d45f",
       "date": "2026-04-19",
       "time": "10:00",
@@ -300,6 +274,19 @@
       "team": "Sherwood FC Development Women",
       "home_away": "away",
       "opponent": "Arnold Town FC Women"
+    },
+    {
+      "id": "f7e2f7774c60b46394be598b4bf55b31",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Grantham Town U12",
+      "away_team": "Sherwood FC Yellow U12",
+      "venue": "GRANTHAM MERES LEISURE CENTRE NG31 7XQ",
+      "division": "U12 Sat Spring Div 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood FC Yellow U12",
+      "home_away": "away",
+      "opponent": "Grantham Town U12"
     },
     {
       "id": "b49210ad2baa1fe0ddef08ff0ef76911",
@@ -369,7 +356,7 @@
     {
       "id": "184a489836bf564b00164c7c195dea63",
       "date": "2026-04-28",
-      "time": "11:00",
+      "time": "18:00",
       "home_team": "Nottingham FC Emeralds U11",
       "away_team": "Sherwood FC Red U11",
       "venue": "Melbourne Park NG8 5HL",

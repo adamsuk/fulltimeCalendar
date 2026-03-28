@@ -1,6 +1,6 @@
 {
   "club": "Meden Vale",
-  "generated": "2026-03-27T06:57:51Z",
+  "generated": "2026-03-28T06:45:06Z",
   "fixtures": [
     {
       "id": "a3b06b7f6324de7da9a2916b941506d7",
@@ -14,19 +14,6 @@
       "team": "Meden Vale Colts FC",
       "home_away": "away",
       "opponent": "Gedling Southbank FC"
-    },
-    {
-      "id": "81fe3af657a938c81b3361c96339691b",
-      "date": "2026-03-22",
-      "time": "09:45",
-      "home_team": "Arnold Eagles F.C. Girls U16 Buzzards",
-      "away_team": "Meden Vale Colts F.C. U16 Girls",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "U16 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Meden Vale Colts F.C. U16 Girls",
-      "home_away": "away",
-      "opponent": "Arnold Eagles F.C. Girls U16 Buzzards"
     },
     {
       "id": "60d9d90e7960f1f8484ced38c7ea7819",
@@ -263,6 +250,19 @@
       "opponent": "West Bridgford Colts U7 Ashes"
     },
     {
+      "id": "5341d951a8e8e9a9f3a61d6371ebfed0",
+      "date": "2026-04-12",
+      "time": "10:30",
+      "home_team": "West Bridgford Colts U16 Vipers",
+      "away_team": "Meden Vale Colts F.C. U16 Girls",
+      "venue": "GRESHAM SPORTS PARK",
+      "division": "U16 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Meden Vale Colts F.C. U16 Girls",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U16 Vipers"
+    },
+    {
       "id": "e07561482cc7c1b0ce735f37cbb24230",
       "date": "2026-04-12",
       "time": "11:00",
@@ -484,17 +484,17 @@
       "opponent": "West Hallam Juniors U13 Diamonds"
     },
     {
-      "id": "600b588df89c0b8217bda4303d2b29f5",
+      "id": "f5bddad19cd50ee39b0ffcddb33aec2c",
       "date": "2026-04-19",
-      "time": "10:30",
-      "home_team": "West Bridgford Colts U16 Vipers",
-      "away_team": "Meden Vale Colts F.C. U16 Girls",
-      "venue": "GRESHAM SPORTS PARK",
-      "division": "U16 Div 2",
+      "time": "10:00",
+      "home_team": "Meden Vale Colts F.C. U14 Girls",
+      "away_team": "Cotgrave FC U14 White",
+      "venue": "CARR LANE PARK",
+      "division": "U14 Div 4",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Meden Vale Colts F.C. U16 Girls",
-      "home_away": "away",
-      "opponent": "West Bridgford Colts U16 Vipers"
+      "team": "Meden Vale Colts F.C. U14 Girls",
+      "home_away": "home",
+      "opponent": "Cotgrave FC U14 White"
     },
     {
       "id": "6a5e916640df312ae337982d2947d564",
@@ -614,6 +614,19 @@
       "opponent": "Keyworth United Reserves"
     },
     {
+      "id": "74891542f8ae455074197acceb08dbe6",
+      "date": "2026-04-26",
+      "time": "09:45",
+      "home_team": "Arnold Eagles F.C. Girls U16 Buzzards",
+      "away_team": "Meden Vale Colts F.C. U16 Girls",
+      "venue": "CALVERTON MINERS WELFARE TRUST",
+      "division": "U16 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Meden Vale Colts F.C. U16 Girls",
+      "home_away": "away",
+      "opponent": "Arnold Eagles F.C. Girls U16 Buzzards"
+    },
+    {
       "id": "536a6152b467708222aea61c641d6845",
       "date": "2026-04-26",
       "time": "10:00",
@@ -705,17 +718,17 @@
       "opponent": "Bilborough TRD FC"
     },
     {
-      "id": "c7d1f3a4d776648c9ca61a09a784cde3",
+      "id": "78cf9c3411427c4469d754195739addc",
       "date": "2026-05-03",
       "time": "10:00",
       "home_team": "Meden Vale Colts F.C. U13 Girls",
-      "away_team": "Moorgreen Colts F.C. Youth U13",
+      "away_team": "Silva FC U13 Rushcliffe Pink",
       "venue": "CARR LANE PARK",
       "division": "U13 Div 3 9 v 9",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Meden Vale Colts F.C. U13 Girls",
       "home_away": "home",
-      "opponent": "Moorgreen Colts F.C. Youth U13"
+      "opponent": "Silva FC U13 Rushcliffe Pink"
     },
     {
       "id": "a97643cf9e5be54d3d01fedbeac17c6b",
@@ -728,6 +741,19 @@
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Meden Vale Colts F.C. U14 Girls",
       "home_away": "home",
+      "opponent": "Phoenix Inham FC U14 Fireflies"
+    },
+    {
+      "id": "e673c1ee0dcdf3be9f02102db18c6979",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Phoenix Inham FC U14 Fireflies",
+      "away_team": "Meden Vale Colts F.C. U14 Girls",
+      "venue": "INHAM NOOK RECREATION GROUND",
+      "division": "U14 Div 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Meden Vale Colts F.C. U14 Girls",
+      "home_away": "away",
       "opponent": "Phoenix Inham FC U14 Fireflies"
     },
     {
@@ -757,19 +783,6 @@
       "opponent": "West Hallam Juniors U13 Diamonds"
     },
     {
-      "id": "abf38fc11e9c1e17faa47ab14c11ac01",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Phoenix Inham FC U14 Fireflies",
-      "away_team": "Meden Vale Colts F.C. U14 Girls",
-      "venue": "INHAM NOOK RECREATION GROUND",
-      "division": "U14 Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Meden Vale Colts F.C. U14 Girls",
-      "home_away": "away",
-      "opponent": "Phoenix Inham FC U14 Fireflies"
-    },
-    {
       "id": "df8d97a5c107e825a1a3c11501e3dbb2",
       "date": "2026-05-17",
       "time": "10:00",
@@ -783,30 +796,17 @@
       "opponent": "Riverside Junior U13 Sapphires"
     },
     {
-      "id": "74ec91888b662c6fe30816890d96ba23",
-      "date": "2026-05-31",
+      "id": "e03ad6556cf955dd4313dd598e821368",
+      "date": "2026-05-24",
       "time": "10:00",
       "home_team": "Meden Vale Colts F.C. U13 Girls",
-      "away_team": "Silva FC U13 Rushcliffe Pink",
+      "away_team": "Moorgreen Colts F.C. Youth U13",
       "venue": "CARR LANE PARK",
       "division": "U13 Div 3 9 v 9",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Meden Vale Colts F.C. U13 Girls",
       "home_away": "home",
-      "opponent": "Silva FC U13 Rushcliffe Pink"
-    },
-    {
-      "id": "895499a67d67fec6296314e79a708119",
-      "date": "2026-05-31",
-      "time": "10:00",
-      "home_team": "Meden Vale Colts F.C. U14 Girls",
-      "away_team": "Cotgrave FC U14 White",
-      "venue": "CARR LANE PARK",
-      "division": "U14 Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Meden Vale Colts F.C. U14 Girls",
-      "home_away": "home",
-      "opponent": "Cotgrave FC U14 White"
+      "opponent": "Moorgreen Colts F.C. Youth U13"
     }
   ],
   "results": [

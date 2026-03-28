@@ -1,6 +1,6 @@
 {
   "club": "Gedling Southbank",
-  "generated": "2026-03-27T06:57:51Z",
+  "generated": "2026-03-28T06:45:06Z",
   "fixtures": [
     {
       "id": "a3b06b7f6324de7da9a2916b941506d7",
@@ -27,19 +27,6 @@
       "team": "Gedling Southbank Arrows U10",
       "home_away": "away",
       "opponent": "Nottingham Second Chance U10"
-    },
-    {
-      "id": "803dbcc1776a3362a50d350540186352",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Loughborough Eml Eagles U12",
-      "away_team": "Gedling Southbank Athletic U12",
-      "venue": "Carillion CrIcket Club LE11 1ST",
-      "division": "U12 Sat Spring Div 7 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Gedling Southbank Athletic U12",
-      "home_away": "away",
-      "opponent": "Loughborough Eml Eagles U12"
     },
     {
       "id": "f3003a8e37138b355b8daa3c0fffb432",
@@ -393,6 +380,19 @@
       "opponent": "West Hallam Juniors U13 Diamonds"
     },
     {
+      "id": "6f9040d8d516636b9eb465e2aa0f7530",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "West Hallam Juniors U13 Diamonds",
+      "away_team": "Gedling Southbank FC U13 Rockets",
+      "venue": "THE TREVOR CARTER PAVILION",
+      "division": "U13 Div 3 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Gedling Southbank FC U13 Rockets",
+      "home_away": "away",
+      "opponent": "West Hallam Juniors U13 Diamonds"
+    },
+    {
       "id": "e523186d1b207a22ec7a6d292d60c5fd",
       "date": "2026-04-12",
       "time": "10:00",
@@ -404,19 +404,6 @@
       "team": "Gedling Southbank FC U14 Warriors",
       "home_away": "home",
       "opponent": "Priory Celtic F.C. U14 Girls"
-    },
-    {
-      "id": "37525c88b0a173577d7d428ee304ceb8",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "West Bridgford Colts U16 Vipers",
-      "away_team": "Gedling Southbank FC U16 Dynamos",
-      "venue": "REGATTA WAY SPORTS GROUND",
-      "division": "U16 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Gedling Southbank FC U16 Dynamos",
-      "home_away": "away",
-      "opponent": "West Bridgford Colts U16 Vipers"
     },
     {
       "id": "646ab1e2f5a0d2081412986c5828a393",
@@ -705,6 +692,19 @@
       "opponent": "Matlock Town Juniors U14 Spartans Girls"
     },
     {
+      "id": "fc4b05eea272d720def6e8a67524774e",
+      "date": "2026-04-19",
+      "time": "12:45",
+      "home_team": "Gedling Southbank FC U17 Red Devils",
+      "away_team": "Chesterfield Town U17 Girls",
+      "venue": "THE TREVOR CARTER PAVILION",
+      "division": "U18 Div 2 Phase 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Gedling Southbank FC U17 Red Devils",
+      "home_away": "home",
+      "opponent": "Chesterfield Town U17 Girls"
+    },
+    {
       "id": "513a81a1292c2056ed4e8d30f80555ee",
       "date": "2026-04-19",
       "time": "13:30",
@@ -939,6 +939,19 @@
       "opponent": "Riverside Junior U14 Rubies"
     },
     {
+      "id": "12489e6a4c21f10b1b99cbd2d784a6f3",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Gedling Southbank FC U16 Dynamos",
+      "away_team": "Bingham Town F.C. U16 Girls",
+      "venue": "THE TREVOR CARTER PAVILION",
+      "division": "U16 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Gedling Southbank FC U16 Dynamos",
+      "home_away": "home",
+      "opponent": "Bingham Town F.C. U16 Girls"
+    },
+    {
       "id": "147df30721d0926ad2264da22f04d2b7",
       "date": "2026-04-26",
       "time": "13:30",
@@ -950,6 +963,19 @@
       "team": "Gedling Southbank White U13",
       "home_away": "away",
       "opponent": "Priory Celtic Phoenix U13"
+    },
+    {
+      "id": "bfc0928fafff58c0e41f09d925dfdc46",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "home_team": "Loughborough Eml Eagles U12",
+      "away_team": "Gedling Southbank Athletic U12",
+      "venue": "Carillion CrIcket Club LE11 1ST",
+      "division": "U12 Sat Spring Div 7 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank Athletic U12",
+      "home_away": "away",
+      "opponent": "Loughborough Eml Eagles U12"
     },
     {
       "id": "aa9f8137b3909734f3c3ed0e1c6471f5",
@@ -991,30 +1017,17 @@
       "opponent": "Radcliffe Olympic FC"
     },
     {
-      "id": "28d7780ba89bb20da3a769635c2d901b",
+      "id": "a31baca9793ff9b9db4e66b94ac8cd64",
       "date": "2026-05-03",
       "time": "10:00",
-      "home_team": "Gedling Southbank FC U16 Dynamos",
-      "away_team": "Bingham Town F.C. U16 Girls",
-      "venue": "THE TREVOR CARTER PAVILION",
+      "home_team": "West Bridgford Colts U16 Vipers",
+      "away_team": "Gedling Southbank FC U16 Dynamos",
+      "venue": "REGATTA WAY SPORTS GROUND",
       "division": "U16 Div 2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Gedling Southbank FC U16 Dynamos",
-      "home_away": "home",
-      "opponent": "Bingham Town F.C. U16 Girls"
-    },
-    {
-      "id": "faea248bbe0ca5800050ac2fd7dbc36c",
-      "date": "2026-05-03",
-      "time": "14:00",
-      "home_team": "Eastwood & Kimberley FC",
-      "away_team": "Gedling Southbank FC Ladies",
-      "venue": "JACKSDALE MINERS WELFARE SPORTS GROUND",
-      "division": "Seniors Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Gedling Southbank FC Ladies",
       "home_away": "away",
-      "opponent": "Eastwood & Kimberley FC"
+      "opponent": "West Bridgford Colts U16 Vipers"
     },
     {
       "id": "efd0043b94a0561b3a108067dcb983a6",
@@ -1043,30 +1056,17 @@
       "opponent": "Notts County Women U10 ^"
     },
     {
-      "id": "abe75ab3b23877ef9c4420c4fe306972",
+      "id": "72fe028f51dfaa4c7b2f7f2e60ec462e",
       "date": "2026-05-10",
-      "time": "12:45",
-      "home_team": "Gedling Southbank FC U17 Red Devils",
-      "away_team": "Chesterfield Town U17 Girls",
-      "venue": "THE TREVOR CARTER PAVILION",
-      "division": "U18 Div 2 Phase 2",
+      "time": "14:00",
+      "home_team": "Eastwood & Kimberley FC",
+      "away_team": "Gedling Southbank FC Ladies",
+      "venue": "JACKSDALE MINERS WELFARE SPORTS GROUND",
+      "division": "Seniors Div 2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Gedling Southbank FC U17 Red Devils",
-      "home_away": "home",
-      "opponent": "Chesterfield Town U17 Girls"
-    },
-    {
-      "id": "6cacff666af1cb206e252109efc51b57",
-      "date": "2026-05-17",
-      "time": "10:00",
-      "home_team": "West Hallam Juniors U13 Diamonds",
-      "away_team": "Gedling Southbank FC U13 Rockets",
-      "venue": "STANLEY COMMON RECREATION GROUND",
-      "division": "U13 Div 3 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Gedling Southbank FC U13 Rockets",
+      "team": "Gedling Southbank FC Ladies",
       "home_away": "away",
-      "opponent": "West Hallam Juniors U13 Diamonds"
+      "opponent": "Eastwood & Kimberley FC"
     },
     {
       "id": "f29cd3c3b67c6f1b9fb5bc7b065865d5",

@@ -7,26 +7,17 @@ X-WR-CALNAME:Arnold Eagles F.C. Girls U16 Buzzards
 X-WR-CALDESC:Fixtures for Arnold Eagles F.C. Girls U16 Buzzards — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:81fe3af657a938c81b3361c96339691b@yel-calendar
-DTSTAMP:20260327T065836Z
-DTSTART;TZID=Europe/London:20260322T094500
-DTEND;TZID=Europe/London:20260322T103000
-SUMMARY:⚽ Arnold Eagles F.C. Girls U16 Buzzards vs Meden Vale Colts F.C. U16 Girls (Home)
-DESCRIPTION:Division: U16 Div 2\nArnold Eagles F.C. Girls U16 Buzzards v Meden Vale Colts F.C. U16 Girls\nKO: 09:45
-LOCATION:CALVERTON MINERS WELFARE TRUST
-END:VEVENT
-BEGIN:VEVENT
-UID:bae3feda25b4c113e00cac90ff1343d3@yel-calendar
-DTSTAMP:20260327T065836Z
-DTSTART;TZID=Europe/London:20260412T120000
-DTEND;TZID=Europe/London:20260412T133000
-SUMMARY:⚽ Arnold Eagles F.C. Girls U16 Buzzards vs Priory Celtic F.C. U16 Girls (Home)
-DESCRIPTION:Division: U16 Div 2\nArnold Eagles F.C. Girls U16 Buzzards v Priory Celtic F.C. U16 Girls\nKO: 12:00
-LOCATION:CALVERTON MINERS WELFARE TRUST
+UID:802a25a765e9c76cbaaa06fa2a742459@yel-calendar
+DTSTAMP:20260328T064555Z
+DTSTART;TZID=Europe/London:20260412T113000
+DTEND;TZID=Europe/London:20260412T123000
+SUMMARY:⚽ Arnold Eagles F.C. Girls U16 Buzzards vs Bingham Town F.C. U16 Girls (Away)
+DESCRIPTION:Division: U16 Div 2\nBingham Town F.C. U16 Girls v Arnold Eagles F.C. Girls U16 Buzzards\nKO: 11:30
+LOCATION:BUTT FIELD SPORTS CLUB
 END:VEVENT
 BEGIN:VEVENT
 UID:afdb50733c54e22a6ade71c3fad442f1@yel-calendar
-DTSTAMP:20260327T065836Z
+DTSTAMP:20260328T064555Z
 DTSTART;TZID=Europe/London:20260419T100000
 DTEND;TZID=Europe/London:20260419T113000
 SUMMARY:⚽ Arnold Eagles F.C. Girls U16 Buzzards vs Gedling Southbank FC U16 Dynamos (Home)
@@ -34,12 +25,21 @@ DESCRIPTION:Division: U16 Div 2\nArnold Eagles F.C. Girls U16 Buzzards v Gedling
 LOCATION:CALVERTON MINERS WELFARE TRUST
 END:VEVENT
 BEGIN:VEVENT
-UID:abfafa874315eac4e1aabdeab99fdc58@yel-calendar
-DTSTAMP:20260327T065836Z
-DTSTART;TZID=Europe/London:20260510T113000
-DTEND;TZID=Europe/London:20260510T123000
-SUMMARY:⚽ Arnold Eagles F.C. Girls U16 Buzzards vs Bingham Town F.C. U16 Girls (Away)
-DESCRIPTION:Division: U16 Div 2\nBingham Town F.C. U16 Girls v Arnold Eagles F.C. Girls U16 Buzzards\nKO: 11:30
-LOCATION:BUTT FIELD SPORTS CLUB
+UID:74891542f8ae455074197acceb08dbe6@yel-calendar
+DTSTAMP:20260328T064555Z
+DTSTART;TZID=Europe/London:20260426T094500
+DTEND;TZID=Europe/London:20260426T103000
+SUMMARY:⚽ Arnold Eagles F.C. Girls U16 Buzzards vs Meden Vale Colts F.C. U16 Girls (Home)
+DESCRIPTION:Division: U16 Div 2\nArnold Eagles F.C. Girls U16 Buzzards v Meden Vale Colts F.C. U16 Girls\nKO: 09:45
+LOCATION:CALVERTON MINERS WELFARE TRUST
+END:VEVENT
+BEGIN:VEVENT
+UID:5051707124f6e065e33f99670fde7aaa@yel-calendar
+DTSTAMP:20260328T064555Z
+DTSTART;TZID=Europe/London:20260503T120000
+DTEND;TZID=Europe/London:20260503T133000
+SUMMARY:⚽ Arnold Eagles F.C. Girls U16 Buzzards vs Priory Celtic F.C. U16 Girls (Home)
+DESCRIPTION:Division: U16 Div 2\nArnold Eagles F.C. Girls U16 Buzzards v Priory Celtic F.C. U16 Girls\nKO: 12:00
+LOCATION:CALVERTON MINERS WELFARE TRUST
 END:VEVENT
 END:VCALENDAR

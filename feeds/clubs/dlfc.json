@@ -1,20 +1,7 @@
 {
   "club": "DLFC",
-  "generated": "2026-03-27T06:57:51Z",
+  "generated": "2026-03-28T06:45:06Z",
   "fixtures": [
-    {
-      "id": "9c1acd7c4738caf2451fe4127e94174a",
-      "date": "2026-02-08",
-      "time": "09:30",
-      "home_team": "DLFC Red U8",
-      "away_team": "Inspire Nottingham White U8",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U8 Sun Friendly 2026 Div 5 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Red U8",
-      "home_away": "home",
-      "opponent": "Inspire Nottingham White U8"
-    },
     {
       "id": "b88ddd5dde791a7078fe14b8970340b8",
       "date": "2026-03-28",
@@ -53,19 +40,6 @@
       "team": "DLFC Purple U7",
       "home_away": "home",
       "opponent": "DLFC Blue U7"
-    },
-    {
-      "id": "75b083c8a377d223ee22db143efb9408",
-      "date": "2026-03-28",
-      "time": "09:30",
-      "home_team": "DLFC Red U9",
-      "away_team": "Underwood Villa Tigres U9",
-      "venue": "Nottingham Trent University NG11 8NS",
-      "division": "U9 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Red U9",
-      "home_away": "home",
-      "opponent": "Underwood Villa Tigres U9"
     },
     {
       "id": "38b582574795cb94b10013cd29049919",
@@ -177,7 +151,7 @@
       "time": "10:00",
       "home_team": "DLFC Red U10",
       "away_team": "Tibshelf Community U10",
-      "venue": "Greenwich Avenue NG6 0LD",
+      "venue": "Newton Parish Ground DE55 5SH",
       "division": "U10 Sat Spring Div 2 Silver",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "DLFC Red U10",
@@ -484,32 +458,6 @@
       "opponent": "AJ Sport Black U9"
     },
     {
-      "id": "6b83cb00d6070d71718954065f62e623",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "WBYFC Anderlecht Black U7",
-      "away_team": "DLFC Black U7",
-      "venue": "Gresham Park  NG2 7YF",
-      "division": "U7 Sat Spring 1",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Black U7",
-      "home_away": "away",
-      "opponent": "WBYFC Anderlecht Black U7"
-    },
-    {
-      "id": "f14e927a29ce1224f95ac62f06247a6e",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "DLFC Blue U7",
-      "away_team": "Long Eaton United Yellow U7",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U7 Sat Spring 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Blue U7",
-      "home_away": "home",
-      "opponent": "Long Eaton United Yellow U7"
-    },
-    {
       "id": "71b9a2b8625b0d22960ac8d28f7f22c3",
       "date": "2026-04-11",
       "time": "10:00",
@@ -534,19 +482,6 @@
       "team": "DLFC Emerald U8",
       "home_away": "home",
       "opponent": "Breaston Park Shard Falcons U8"
-    },
-    {
-      "id": "befd0f754f0009e1adbc29713828e0fc",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "DLFC Madrid U7",
-      "away_team": "Club FDNA Forest U7",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U7 Sat Spring 1",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Madrid U7",
-      "home_away": "home",
-      "opponent": "Club FDNA Forest U7"
     },
     {
       "id": "6d937d18517c33c9dfd46ae9e83d572b",
@@ -638,19 +573,6 @@
       "team": "DLFC Barca U7",
       "home_away": "home",
       "opponent": "Quarrydale United U7"
-    },
-    {
-      "id": "3ba5f4671b0e3ba93a5754e878144405",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Ilkeston Town Zurich U8",
-      "away_team": "DLFC Black U8",
-      "venue": "Booths Playing Fields DE7 8JF",
-      "division": "U8 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Black U8",
-      "home_away": "away",
-      "opponent": "Ilkeston Town Zurich U8"
     },
     {
       "id": "63e34480befed28816296e3a74fc3778",
@@ -1457,6 +1379,19 @@
       "team": "DLFC Orange U11",
       "home_away": "home",
       "opponent": "Alfreton Town Eagles U11"
+    },
+    {
+      "id": "8d012402db9d5783f91e384fce6dd75e",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "DLFC Red U9",
+      "away_team": "Underwood Villa Tigres U9",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U9 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Red U9",
+      "home_away": "home",
+      "opponent": "Underwood Villa Tigres U9"
     },
     {
       "id": "a8544b2aa53c86fe0fa52a4904171865",

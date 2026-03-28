@@ -7,26 +7,17 @@ X-WR-CALNAME:Canoville FC U13 FC Bulldogs
 X-WR-CALDESC:Fixtures for Canoville FC U13 FC Bulldogs — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:04c328a92528fd36b55d7f53f2c4f95b@yel-calendar
-DTSTAMP:20260327T065836Z
+UID:1deeeed72e42251ed779f26d2a1d7a92@yel-calendar
+DTSTAMP:20260328T064555Z
 DTSTART;TZID=Europe/London:20260412T100000
 DTEND;TZID=Europe/London:20260412T113000
-SUMMARY:⚽ Canoville FC U13 FC Bulldogs vs Southwell City FC U13 All Whites (Away)
-DESCRIPTION:Division: U13 Div 1 11 v 11\nSouthwell City FC U13 All Whites v Canoville FC U13 FC Bulldogs\nKO: 10:00
-LOCATION:CENTENARY SPORTS GROUND
-END:VEVENT
-BEGIN:VEVENT
-UID:04cc7c8081c5d7e07a6c0596c9880d94@yel-calendar
-DTSTAMP:20260327T065836Z
-DTSTART;TZID=Europe/London:20260426T100000
-DTEND;TZID=Europe/London:20260426T113000
-SUMMARY:⚽ Canoville FC U13 FC Bulldogs vs Shardlow St. James U13 Jets Girls (Away)
-DESCRIPTION:Division: U13 Div 1 11 v 11\nShardlow St. James U13 Jets Girls v Canoville FC U13 FC Bulldogs\nKO: 10:00
-LOCATION:Shardlow St. James U13 Jets Girls
+SUMMARY:⚽ Canoville FC U13 FC Bulldogs vs Radcliffe Olympic FC U13 Ravens (Away)
+DESCRIPTION:Division: U13 Div 1 11 v 11\nRadcliffe Olympic FC U13 Ravens v Canoville FC U13 FC Bulldogs\nKO: 10:00
+LOCATION:BINGHAM ROAD PLAYING FIELDS
 END:VEVENT
 BEGIN:VEVENT
 UID:1f2ff8f006bb953706057ab278b3ae87@yel-calendar
-DTSTAMP:20260327T065836Z
+DTSTAMP:20260328T064555Z
 DTSTART;TZID=Europe/London:20260503T100000
 DTEND;TZID=Europe/London:20260503T113000
 SUMMARY:⚽ Canoville FC U13 FC Bulldogs vs Priory Celtic F.C. U13 Girls (Home)
@@ -34,12 +25,21 @@ DESCRIPTION:Division: U13 Div 1 11 v 11\nCanoville FC U13 FC Bulldogs v Priory C
 LOCATION:WILLIAM LEE MEMORIAL PARK
 END:VEVENT
 BEGIN:VEVENT
-UID:cf0338faf8b43741597f5f56adfec704@yel-calendar
-DTSTAMP:20260327T065836Z
+UID:f9ca4804f85b2772190b1f0fa20baef2@yel-calendar
+DTSTAMP:20260328T064555Z
 DTSTART;TZID=Europe/London:20260510T100000
 DTEND;TZID=Europe/London:20260510T113000
-SUMMARY:⚽ Canoville FC U13 FC Bulldogs vs Radcliffe Olympic FC U13 Ravens (Away)
-DESCRIPTION:Division: U13 Div 1 11 v 11\nRadcliffe Olympic FC U13 Ravens v Canoville FC U13 FC Bulldogs\nKO: 10:00
-LOCATION:BINGHAM ROAD PLAYING FIELDS
+SUMMARY:⚽ Canoville FC U13 FC Bulldogs vs Shardlow St. James U13 Jets Girls (Away)
+DESCRIPTION:Division: U13 Div 1 11 v 11\nShardlow St. James U13 Jets Girls v Canoville FC U13 FC Bulldogs\nKO: 10:00
+LOCATION:Shardlow St. James U13 Jets Girls
+END:VEVENT
+BEGIN:VEVENT
+UID:2fa52a26892edbd0456f4b7e1019e36d@yel-calendar
+DTSTAMP:20260328T064555Z
+DTSTART;TZID=Europe/London:20260517T100000
+DTEND;TZID=Europe/London:20260517T113000
+SUMMARY:⚽ Canoville FC U13 FC Bulldogs vs Southwell City FC U13 All Whites (Away)
+DESCRIPTION:Division: U13 Div 1 11 v 11\nSouthwell City FC U13 All Whites v Canoville FC U13 FC Bulldogs\nKO: 10:00
+LOCATION:CENTENARY SPORTS GROUND
 END:VEVENT
 END:VCALENDAR

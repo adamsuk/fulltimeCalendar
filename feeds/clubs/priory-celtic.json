@@ -1,20 +1,7 @@
 {
   "club": "Priory Celtic",
-  "generated": "2026-03-27T06:57:51Z",
+  "generated": "2026-03-28T06:45:06Z",
   "fixtures": [
-    {
-      "id": "ebc7261b37e062acaedeee7aae63d3ca",
-      "date": "2026-03-21",
-      "time": "11:00",
-      "home_team": "Borrowash Youth Rams U11",
-      "away_team": "Priory Celtic White U11",
-      "venue": "Derwent Meadow DE72 3NN",
-      "division": "U11 Sat Spring Div 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Priory Celtic White U11",
-      "home_away": "away",
-      "opponent": "Borrowash Youth Rams U11"
-    },
     {
       "id": "8192198ea3121592949147c9042863d9",
       "date": "2026-03-28",
@@ -92,19 +79,6 @@
       "team": "Priory Celtic White U13",
       "home_away": "home",
       "opponent": "AFC Chellaston Panthers U13"
-    },
-    {
-      "id": "1f9d4f3c4e5d81f2fa1d719291b7c0b3",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Priory Celtic White U14",
-      "away_team": "Loughborough Eml Hawks U14",
-      "venue": "Kimberley Leisure Centre NG16 2NJ GP1",
-      "division": "U14 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Priory Celtic White U14",
-      "home_away": "home",
-      "opponent": "Loughborough Eml Hawks U14"
     },
     {
       "id": "10a9c145c6b4a5b08e51b4f7c5544e83",
@@ -315,19 +289,6 @@
       "opponent": "DLFC Emerald U7"
     },
     {
-      "id": "edbbe66c6544fff22e02c9c167226a04",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Dunkirk U8",
-      "away_team": "Priory Celtic White U8",
-      "venue": "Ron Steel Sports Ground  NG7 2SA",
-      "division": "U8 Sat Spring 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Priory Celtic White U8",
-      "home_away": "away",
-      "opponent": "Dunkirk U8"
-    },
-    {
       "id": "ec3ee7521b766cb84a99a985b5832bfb",
       "date": "2026-04-11",
       "time": "12:15",
@@ -365,6 +326,19 @@
       "team": "Priory Celtic F.C. U10 Girls",
       "home_away": "home",
       "opponent": "Southwell City FC U10 Girls"
+    },
+    {
+      "id": "48b3b0fb1aa3129a67422015d0c9221b",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Priory Celtic F.C. U13 Girls",
+      "away_team": "Southwell City FC U13 All Whites",
+      "venue": "THE KIMBERLEY SCHOOL",
+      "division": "U13 Div 1 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U13 Girls",
+      "home_away": "home",
+      "opponent": "Southwell City FC U13 All Whites"
     },
     {
       "id": "e523186d1b207a22ec7a6d292d60c5fd",
@@ -406,17 +380,30 @@
       "opponent": "Allenton United FC U15 Ladies Bees"
     },
     {
-      "id": "bae3feda25b4c113e00cac90ff1343d3",
+      "id": "91c753c33960f6f25a2759a920e64f88",
       "date": "2026-04-12",
-      "time": "12:00",
-      "home_team": "Arnold Eagles F.C. Girls U16 Buzzards",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic FC U16 Girls",
       "away_team": "Priory Celtic F.C. U16 Girls",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
+      "venue": "BINGHAM ROAD PLAYING FIELDS",
       "division": "U16 Div 2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Priory Celtic F.C. U16 Girls",
       "home_away": "away",
-      "opponent": "Arnold Eagles F.C. Girls U16 Buzzards"
+      "opponent": "Radcliffe Olympic FC U16 Girls"
+    },
+    {
+      "id": "14d7e800c9958d5b53d9bc1119623e43",
+      "date": "2026-04-12",
+      "time": "14:00",
+      "home_team": "Southwell City FC Ladies",
+      "away_team": "Priory Celtic FC Ladies First Team",
+      "venue": "CENTENARY SPORTS GROUND",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic FC Ladies First Team",
+      "home_away": "away",
+      "opponent": "Southwell City FC Ladies"
     },
     {
       "id": "9910999a4cb543d42476e34fdbda5bf9",
@@ -430,6 +417,19 @@
       "team": "Priory Celtic Hoops U13",
       "home_away": "away",
       "opponent": "PMG Excel U13"
+    },
+    {
+      "id": "86fedb750ddbbfbef52173718e2f853f",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Priory Celtic White U14",
+      "away_team": "Loughborough Eml Hawks U14",
+      "venue": "Kimberley Leisure Centre NG16 2NJ GP1",
+      "division": "U14 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Priory Celtic White U14",
+      "home_away": "home",
+      "opponent": "Loughborough Eml Hawks U14"
     },
     {
       "id": "00b892d801d2dfcf9111f97f9e254d0c",
@@ -640,19 +640,6 @@
       "opponent": "Castle Don Barbarians U13"
     },
     {
-      "id": "8ed85d59927ddb17d500828dba3c68bf",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Barrowby FC Green U8",
-      "away_team": "Priory Celtic Hoops U8",
-      "venue": "Low Field NG32 1DJ",
-      "division": "U8 Sun Spring 3 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Priory Celtic Hoops U8",
-      "home_away": "away",
-      "opponent": "Barrowby FC Green U8"
-    },
-    {
       "id": "dcae696f5f9f35a82f97bd82bc61e4ed",
       "date": "2026-04-19",
       "time": "10:00",
@@ -703,6 +690,19 @@
       "team": "Priory Celtic Hoops U11",
       "home_away": "home",
       "opponent": "Moorgreen Colts White U11"
+    },
+    {
+      "id": "68c1021d0121186f1c4413da30ade344",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Borrowash Youth Rams U11",
+      "away_team": "Priory Celtic White U11",
+      "venue": "Derwent Meadow DE72 3NN",
+      "division": "U11 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Priory Celtic White U11",
+      "home_away": "away",
+      "opponent": "Borrowash Youth Rams U11"
     },
     {
       "id": "d741e50cf4a846e38f065381a7dbe799",
@@ -900,6 +900,19 @@
       "opponent": "Moorgreen Colts U9"
     },
     {
+      "id": "6d99290d3501ea73af45f9280e84febd",
+      "date": "2026-04-26",
+      "time": "09:30",
+      "home_team": "Priory Celtic F.C. U16 Girls",
+      "away_team": "Radcliffe Olympic FC U16 Girls",
+      "venue": "THE KIMBERLEY SCHOOL",
+      "division": "U16 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U16 Girls",
+      "home_away": "home",
+      "opponent": "Radcliffe Olympic FC U16 Girls"
+    },
+    {
       "id": "a661d5738c2a916678c5ec8c44beca0a",
       "date": "2026-04-26",
       "time": "10:00",
@@ -976,19 +989,6 @@
       "team": "Priory Celtic F.C. U15 Girls",
       "home_away": "away",
       "opponent": "Willow Wanderers F.C. Youth U15 Amazons"
-    },
-    {
-      "id": "a6ed1c41a0af5c7c768af61b5c290dad",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic FC U16 Girls",
-      "away_team": "Priory Celtic F.C. U16 Girls",
-      "venue": "BINGHAM ROAD PLAYING FIELDS",
-      "division": "U16 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Priory Celtic F.C. U16 Girls",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic FC U16 Girls"
     },
     {
       "id": "080b03d31c6231faa7f75de36f088362",
@@ -1082,19 +1082,6 @@
       "opponent": "Hilton Harriers U15 Girls Sunday"
     },
     {
-      "id": "a4c6a226d762d28c944c7c112f5f2bba",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Bingham Town F.C. U16 Girls",
-      "away_team": "Priory Celtic F.C. U16 Girls",
-      "venue": "BUTT FIELD SPORTS CLUB",
-      "division": "U16 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Priory Celtic F.C. U16 Girls",
-      "home_away": "away",
-      "opponent": "Bingham Town F.C. U16 Girls"
-    },
-    {
       "id": "d85b4c8669efd2721fa4dda00975fc91",
       "date": "2026-05-03",
       "time": "10:00",
@@ -1108,17 +1095,30 @@
       "opponent": "Arnold Town FC Women"
     },
     {
-      "id": "4406d9d2315104d85453eae63e321367",
-      "date": "2026-05-10",
-      "time": "09:30",
-      "home_team": "Priory Celtic F.C. U16 Girls",
-      "away_team": "Radcliffe Olympic FC U16 Girls",
-      "venue": "THE KIMBERLEY SCHOOL",
+      "id": "5051707124f6e065e33f99670fde7aaa",
+      "date": "2026-05-03",
+      "time": "12:00",
+      "home_team": "Arnold Eagles F.C. Girls U16 Buzzards",
+      "away_team": "Priory Celtic F.C. U16 Girls",
+      "venue": "CALVERTON MINERS WELFARE TRUST",
       "division": "U16 Div 2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Priory Celtic F.C. U16 Girls",
-      "home_away": "home",
-      "opponent": "Radcliffe Olympic FC U16 Girls"
+      "home_away": "away",
+      "opponent": "Arnold Eagles F.C. Girls U16 Buzzards"
+    },
+    {
+      "id": "6be9b34a6017da8d4b56a4ee6f9fbe16",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Bingham Town F.C. U16 Girls",
+      "away_team": "Priory Celtic F.C. U16 Girls",
+      "venue": "BUTT FIELD SPORTS CLUB",
+      "division": "U16 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U16 Girls",
+      "home_away": "away",
+      "opponent": "Bingham Town F.C. U16 Girls"
     },
     {
       "id": "cac361961179eb35c61eea378d2e40de",
@@ -1132,32 +1132,6 @@
       "team": "Priory Celtic 1967 U9",
       "home_away": "home",
       "opponent": "WBYFC Lyon U9"
-    },
-    {
-      "id": "011e6301c05879bc9bdebf91661c7847",
-      "date": "2026-05-10",
-      "time": "14:00",
-      "home_team": "Eastwood & Kimberley FC",
-      "away_team": "Priory Celtic FC Ladies First Team",
-      "venue": "JACKSDALE MINERS WELFARE SPORTS GROUND",
-      "division": "Seniors Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Priory Celtic FC Ladies First Team",
-      "home_away": "away",
-      "opponent": "Eastwood & Kimberley FC"
-    },
-    {
-      "id": "c5e6361fdddfb14aaff88c701b9d92f9",
-      "date": "2026-05-17",
-      "time": "10:00",
-      "home_team": "Priory Celtic F.C. U13 Girls",
-      "away_team": "Southwell City FC U13 All Whites",
-      "venue": "THE KIMBERLEY SCHOOL",
-      "division": "U13 Div 1 11 v 11",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Priory Celtic F.C. U13 Girls",
-      "home_away": "home",
-      "opponent": "Southwell City FC U13 All Whites"
     },
     {
       "id": "8f77faf39b930d1ad2f18a2abc770e85",
@@ -1186,6 +1160,19 @@
       "opponent": "Bagthorpe Athletic F.C. Youth U14 girls"
     },
     {
+      "id": "2e03451d9cf0d75e585d0cd043ea2566",
+      "date": "2026-05-17",
+      "time": "14:00",
+      "home_team": "Eastwood & Kimberley FC",
+      "away_team": "Priory Celtic FC Ladies First Team",
+      "venue": "JACKSDALE MINERS WELFARE SPORTS GROUND",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic FC Ladies First Team",
+      "home_away": "away",
+      "opponent": "Eastwood & Kimberley FC"
+    },
+    {
       "id": "eed84a4b7e2fae9412c2622af0785a52",
       "date": "2026-05-24",
       "time": "10:00",
@@ -1197,19 +1184,6 @@
       "team": "Priory Celtic F.C. U14 Girls",
       "home_away": "away",
       "opponent": "Riverside Junior U14 Rubies"
-    },
-    {
-      "id": "a8a6a6f949188b8b3507f1e7a96ed0c0",
-      "date": "2026-05-24",
-      "time": "14:00",
-      "home_team": "Southwell City FC Ladies",
-      "away_team": "Priory Celtic FC Ladies First Team",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "Seniors Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Priory Celtic FC Ladies First Team",
-      "home_away": "away",
-      "opponent": "Southwell City FC Ladies"
     },
     {
       "id": "0ec510d60924ae3e3b0a44741e3bd9d4",

@@ -1,20 +1,7 @@
 {
   "club": "Cotgrave FC",
-  "generated": "2026-03-27T06:57:51Z",
+  "generated": "2026-03-28T06:45:06Z",
   "fixtures": [
-    {
-      "id": "3e814babf9f039a0c7fb716689eb478f",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Cotgrave FC U14 White",
-      "away_team": "Phoenix Inham FC U14 Fireflies",
-      "venue": "COTGRAVE LEISURE CENTRE",
-      "division": "U14 Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Cotgrave FC U14 White",
-      "home_away": "home",
-      "opponent": "Phoenix Inham FC U14 Fireflies"
-    },
     {
       "id": "cbcb57e4db5554a12420cce0fd49a534",
       "date": "2026-03-28",
@@ -79,19 +66,6 @@
       "team": "Cotgrave FC Claret U12",
       "home_away": "home",
       "opponent": "Newark Brazil Santos U12"
-    },
-    {
-      "id": "e0e711e0846723d15eba08e4ab3fbacd",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Silva FC Rushcliffe Gold U7 ^^",
-      "away_team": "Cotgrave FC Claret U7",
-      "venue": "Nottingham Football Centre NG2 7BW",
-      "division": "U7 Sat Spring 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Cotgrave FC Claret U7",
-      "home_away": "away",
-      "opponent": "Silva FC Rushcliffe Gold U7 ^^"
     },
     {
       "id": "64ed3db954f4b11f057f86a54ca762b6",
@@ -302,19 +276,6 @@
       "opponent": "Hasland Community U11 Girls"
     },
     {
-      "id": "9ee847d297b30bab467b8fd74d0f623e",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Cotgrave FC Claret U7",
-      "away_team": "Manor FC Red U7",
-      "venue": "Cotgrave Welfare NG12 3PJ",
-      "division": "U7 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Cotgrave FC Claret U7",
-      "home_away": "home",
-      "opponent": "Manor FC Red U7"
-    },
-    {
       "id": "ed80b2941052418f43eb1b727fc27fc1",
       "date": "2026-04-11",
       "time": "10:00",
@@ -341,6 +302,19 @@
       "opponent": "Toton Tornados Thunder U8"
     },
     {
+      "id": "9ee847d297b30bab467b8fd74d0f623e",
+      "date": "2026-04-11",
+      "time": "11:30",
+      "home_team": "Cotgrave FC Claret U7",
+      "away_team": "Manor FC Red U7",
+      "venue": "Cotgrave Welfare NG12 3PJ",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Cotgrave FC Claret U7",
+      "home_away": "home",
+      "opponent": "Manor FC Red U7"
+    },
+    {
       "id": "947b30aba76f04adac4c8539644daa6f",
       "date": "2026-04-11",
       "time": "15:00",
@@ -365,6 +339,19 @@
       "team": "Cotgrave FC U12 Girls",
       "home_away": "home",
       "opponent": "Mansfield Town F.C. Girls U12"
+    },
+    {
+      "id": "d196d6e1d5574fbb15cc31c6a27b01e0",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Cotgrave FC U14 White",
+      "away_team": "Arnold Eagles F.C. Girls U14 Storm",
+      "venue": "COTGRAVE LEISURE CENTRE",
+      "division": "U14 Div 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Cotgrave FC U14 White",
+      "home_away": "home",
+      "opponent": "Arnold Eagles F.C. Girls U14 Storm"
     },
     {
       "id": "6538ce0e0f3e927c2a931d46b4ab9869",
@@ -408,7 +395,7 @@
     {
       "id": "378cb2cd69560fdb9e3d456864e67db9",
       "date": "2026-04-14",
-      "time": "18:00",
+      "time": "18:30",
       "home_team": "Cotgrave FC Claret U11",
       "away_team": "Silva FC Carlton Black U11",
       "venue": "Ridley Sports Ground  NG12 3HA",
@@ -417,6 +404,19 @@
       "team": "Cotgrave FC Claret U11",
       "home_away": "home",
       "opponent": "Silva FC Carlton Black U11"
+    },
+    {
+      "id": "39cbb0c4780bf34c974cf47f1a7f3a25",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Cotgrave FC Blue U13",
+      "away_team": "FC Cavaliers U13",
+      "venue": "Cotgrave Leisure Centre NG12 3PJ",
+      "division": "U13 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Cotgrave FC Blue U13",
+      "home_away": "home",
+      "opponent": "FC Cavaliers U13"
     },
     {
       "id": "6f16bdc4cb1a2545645633d39443bbf6",
@@ -443,6 +443,19 @@
       "team": "Cotgrave FC Claret U11",
       "home_away": "away",
       "opponent": "Southwell City Wolverines U11"
+    },
+    {
+      "id": "8387338c2896d83644c9587b6dcd6a01",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Cotgrave FC Claret U12",
+      "away_team": "WBYFC Deportivo U12",
+      "venue": "Ridley Sports Ground  NG12 3HA",
+      "division": "U12 Sat Spring Div 4",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Cotgrave FC Claret U12",
+      "home_away": "home",
+      "opponent": "WBYFC Deportivo U12"
     },
     {
       "id": "733c0a1242996056c870349826d72406",
@@ -497,19 +510,6 @@
       "opponent": "Pelican Colts U8"
     },
     {
-      "id": "39cbb0c4780bf34c974cf47f1a7f3a25",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Cotgrave FC Blue U13",
-      "away_team": "FC Cavaliers U13",
-      "venue": "Sheldon Fields  NG12 3AB",
-      "division": "U13 Sat Spring Div 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Cotgrave FC Blue U13",
-      "home_away": "home",
-      "opponent": "FC Cavaliers U13"
-    },
-    {
       "id": "01ad836d29a1821e49b97a483dee5a11",
       "date": "2026-04-18",
       "time": "11:00",
@@ -521,19 +521,6 @@
       "team": "Cotgrave FC Blue U14",
       "home_away": "away",
       "opponent": "Stapleford Town Blue U14"
-    },
-    {
-      "id": "8387338c2896d83644c9587b6dcd6a01",
-      "date": "2026-04-18",
-      "time": "11:30",
-      "home_team": "Cotgrave FC Claret U12",
-      "away_team": "WBYFC Deportivo U12",
-      "venue": "Ridley Sports Ground  NG12 3HA",
-      "division": "U12 Sat Spring Div 4",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Cotgrave FC Claret U12",
-      "home_away": "home",
-      "opponent": "WBYFC Deportivo U12"
     },
     {
       "id": "6149b001bf05ab03a166ca5ad47fbe05",
@@ -612,6 +599,19 @@
       "team": "Cotgrave FC Claret U14",
       "home_away": "away",
       "opponent": "Mansfield Athletic Blue U14"
+    },
+    {
+      "id": "f5bddad19cd50ee39b0ffcddb33aec2c",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Meden Vale Colts F.C. U14 Girls",
+      "away_team": "Cotgrave FC U14 White",
+      "venue": "CARR LANE PARK",
+      "division": "U14 Div 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Cotgrave FC U14 White",
+      "home_away": "away",
+      "opponent": "Meden Vale Colts F.C. U14 Girls"
     },
     {
       "id": "a91dc4372f6c994279a42ea77aa8d5ef",
@@ -809,6 +809,19 @@
       "opponent": "Newark Brazil Cruzeiro U10"
     },
     {
+      "id": "5d591aa731d4e2855acd601e35dad679",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Cotgrave FC U14 White",
+      "away_team": "Phoenix Inham FC U14 Fireflies",
+      "venue": "COTGRAVE LEISURE CENTRE",
+      "division": "U14 Div 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Cotgrave FC U14 White",
+      "home_away": "home",
+      "opponent": "Phoenix Inham FC U14 Fireflies"
+    },
+    {
       "id": "d1080865e99bcb235566792f3eb9c95b",
       "date": "2026-04-26",
       "time": "10:10",
@@ -887,19 +900,6 @@
       "opponent": "Sandiacre Town Youth U12 Panthers Girls"
     },
     {
-      "id": "b0f22d13d68f99f7b3e4601394314cf2",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Cotgrave FC U14 White",
-      "away_team": "Arnold Eagles F.C. Girls U14 Storm",
-      "venue": "COTGRAVE LEISURE CENTRE",
-      "division": "U14 Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Cotgrave FC U14 White",
-      "home_away": "home",
-      "opponent": "Arnold Eagles F.C. Girls U14 Storm"
-    },
-    {
       "id": "8b6c40f7719fe8726e367a114b4ead23",
       "date": "2026-05-03",
       "time": "14:00",
@@ -926,19 +926,6 @@
       "opponent": "Grantham Town White U9"
     },
     {
-      "id": "dd46e6b0222d28f970fc1a7d070636b5",
-      "date": "2026-05-10",
-      "time": "10:10",
-      "home_team": "Cotgrave FC U12 Girls",
-      "away_team": "Hucknall & Linby Harriers FC U12",
-      "venue": "ARTHUR RIDLEY SPORTS GROUND",
-      "division": "U12 Div 1 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Cotgrave FC U12 Girls",
-      "home_away": "home",
-      "opponent": "Hucknall & Linby Harriers FC U12"
-    },
-    {
       "id": "96adf9cc029d91c948b808b7633e4b93",
       "date": "2026-05-10",
       "time": "10:30",
@@ -952,17 +939,17 @@
       "opponent": "Bingham Town FC Women Red"
     },
     {
-      "id": "895499a67d67fec6296314e79a708119",
-      "date": "2026-05-31",
-      "time": "10:00",
-      "home_team": "Meden Vale Colts F.C. U14 Girls",
-      "away_team": "Cotgrave FC U14 White",
-      "venue": "CARR LANE PARK",
-      "division": "U14 Div 4",
+      "id": "0a07f4e2b1dbdfb2f06ab27215cd8b19",
+      "date": "2026-05-17",
+      "time": "10:10",
+      "home_team": "Cotgrave FC U12 Girls",
+      "away_team": "Hucknall & Linby Harriers FC U12",
+      "venue": "ARTHUR RIDLEY SPORTS GROUND",
+      "division": "U12 Div 1 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Cotgrave FC U14 White",
-      "home_away": "away",
-      "opponent": "Meden Vale Colts F.C. U14 Girls"
+      "team": "Cotgrave FC U12 Girls",
+      "home_away": "home",
+      "opponent": "Hucknall & Linby Harriers FC U12"
     }
   ],
   "results": [

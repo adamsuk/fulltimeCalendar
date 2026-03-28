@@ -8,7 +8,7 @@ X-WR-CALDESC:Fixtures for Mansfield Town Ladies FC Development — YEL East Midl
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:f27041d7700f37a58922001bf8c3d8a0@yel-calendar
-DTSTAMP:20260327T065836Z
+DTSTAMP:20260328T064555Z
 DTSTART;TZID=Europe/London:20260329T140000
 DTEND;TZID=Europe/London:20260329T153000
 SUMMARY:⚽ Mansfield Town Ladies FC Development vs Lowdham Colts FC Ladies (Home)
@@ -17,7 +17,7 @@ LOCATION:RH ACADEMY
 END:VEVENT
 BEGIN:VEVENT
 UID:b31a1913aaac4c4abc539fd33691894f@yel-calendar
-DTSTAMP:20260327T065836Z
+DTSTAMP:20260328T064555Z
 DTSTART;TZID=Europe/London:20260412T140000
 DTEND;TZID=Europe/London:20260412T153000
 SUMMARY:⚽ Mansfield Town Ladies FC Development vs Hucknall Town FC Women (Away)
@@ -25,8 +25,17 @@ DESCRIPTION:Division: Seniors Div 1\nHucknall Town FC Women v Mansfield Town Lad
 LOCATION:HUCKNALL TOWN FOOTBALL CLUB
 END:VEVENT
 BEGIN:VEVENT
+UID:d8a539d3bd6fbd827ab79db0eea02294@yel-calendar
+DTSTAMP:20260328T064555Z
+DTSTART;TZID=Europe/London:20260419T140000
+DTEND;TZID=Europe/London:20260419T153000
+SUMMARY:⚽ Mansfield Town Ladies FC Development vs Calverton Miners Welfare FC (Home)
+DESCRIPTION:Division: Seniors Div 1\nMansfield Town Ladies FC Development v Calverton Miners Welfare FC\nKO: 14:00
+LOCATION:RH ACADEMY
+END:VEVENT
+BEGIN:VEVENT
 UID:d2872a4c88fbd3d3f1b514e2888f2f27@yel-calendar
-DTSTAMP:20260327T065836Z
+DTSTAMP:20260328T064555Z
 DTSTART;TZID=Europe/London:20260426T140000
 DTEND;TZID=Europe/London:20260426T153000
 SUMMARY:⚽ Mansfield Town Ladies FC Development vs Nottingham Trent Uni FC Womens Pink (Home)
@@ -35,7 +44,7 @@ LOCATION:RH ACADEMY
 END:VEVENT
 BEGIN:VEVENT
 UID:b4cc05f0c840aa6c4dbd938ceb6082f0@yel-calendar
-DTSTAMP:20260327T065836Z
+DTSTAMP:20260328T064555Z
 DTSTART;TZID=Europe/London:20260503T140000
 DTEND;TZID=Europe/London:20260503T153000
 SUMMARY:⚽ Mansfield Town Ladies FC Development vs Radcliffe Olympic FC Ladies (Home)
@@ -43,17 +52,8 @@ DESCRIPTION:Division: Seniors Div 1\nMansfield Town Ladies FC Development v Radc
 LOCATION:RH ACADEMY
 END:VEVENT
 BEGIN:VEVENT
-UID:d87a6152218cbb158f0379b758ecc855@yel-calendar
-DTSTAMP:20260327T065836Z
-DTSTART;TZID=Europe/London:20260503T140000
-DTEND;TZID=Europe/London:20260503T153000
-SUMMARY:⚽ Mansfield Town Ladies FC Development vs Calverton Miners Welfare FC (Home)
-DESCRIPTION:Division: Seniors Div 1\nMansfield Town Ladies FC Development v Calverton Miners Welfare FC\nKO: 14:00
-LOCATION:RH ACADEMY
-END:VEVENT
-BEGIN:VEVENT
 UID:8c6ff08778860184fade674ed609e23e@yel-calendar
-DTSTAMP:20260327T065836Z
+DTSTAMP:20260328T064555Z
 DTSTART;TZID=Europe/London:20260510T140000
 DTEND;TZID=Europe/London:20260510T153000
 SUMMARY:⚽ Mansfield Town Ladies FC Development vs Radcliffe Olympic FC Ladies (Away)

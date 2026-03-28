@@ -1,19 +1,8 @@
 {
   "team": "Phoenix Inham FC U14 Fireflies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-03-27T06:57:51Z",
+  "generated": "2026-03-28T06:45:06Z",
   "fixtures": [
-    {
-      "id": "3e814babf9f039a0c7fb716689eb478f",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Cotgrave FC U14 White",
-      "away_team": "Phoenix Inham FC U14 Fireflies",
-      "venue": "COTGRAVE LEISURE CENTRE",
-      "division": "U14 Div 4",
-      "home_away": "away",
-      "opponent": "Cotgrave FC U14 White"
-    },
     {
       "id": "c3737e83862fe5acaeff4f84239b6a3d",
       "date": "2026-04-12",
@@ -26,15 +15,26 @@
       "opponent": "Keyworth United F.C. U14 Raptors"
     },
     {
-      "id": "d245e69e253984015b1a8344467ad77c",
+      "id": "a9396e33cd6dfbbff0668c8feaf034fe",
       "date": "2026-04-19",
       "time": "10:00",
-      "home_team": "Phoenix Inham FC U14 Fireflies",
-      "away_team": "Newark Town FC U14 Nesbitts",
-      "venue": "INHAM NOOK RECREATION GROUND",
+      "home_team": "Burton Joyce F.C. Girls U14",
+      "away_team": "Phoenix Inham FC U14 Fireflies",
+      "venue": "POPLARS SPORTS GROUND",
       "division": "U14 Div 4",
-      "home_away": "home",
-      "opponent": "Newark Town FC U14 Nesbitts"
+      "home_away": "away",
+      "opponent": "Burton Joyce F.C. Girls U14"
+    },
+    {
+      "id": "5d591aa731d4e2855acd601e35dad679",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Cotgrave FC U14 White",
+      "away_team": "Phoenix Inham FC U14 Fireflies",
+      "venue": "COTGRAVE LEISURE CENTRE",
+      "division": "U14 Div 4",
+      "home_away": "away",
+      "opponent": "Cotgrave FC U14 White"
     },
     {
       "id": "a97643cf9e5be54d3d01fedbeac17c6b",
@@ -48,8 +48,8 @@
       "opponent": "Meden Vale Colts F.C. U14 Girls"
     },
     {
-      "id": "abf38fc11e9c1e17faa47ab14c11ac01",
-      "date": "2026-05-10",
+      "id": "e673c1ee0dcdf3be9f02102db18c6979",
+      "date": "2026-05-03",
       "time": "10:00",
       "home_team": "Phoenix Inham FC U14 Fireflies",
       "away_team": "Meden Vale Colts F.C. U14 Girls",
@@ -59,19 +59,8 @@
       "opponent": "Meden Vale Colts F.C. U14 Girls"
     },
     {
-      "id": "ca9e1016434374efcb827298df33bf4d",
-      "date": "2026-05-17",
-      "time": "10:00",
-      "home_team": "Burton Joyce F.C. Girls U14",
-      "away_team": "Phoenix Inham FC U14 Fireflies",
-      "venue": "POPLARS SPORTS GROUND",
-      "division": "U14 Div 4",
-      "home_away": "away",
-      "opponent": "Burton Joyce F.C. Girls U14"
-    },
-    {
-      "id": "3cc2146b416a441550f4410f68a0eeda",
-      "date": "2026-05-31",
+      "id": "a73370b3f1e5b9ba9325c19dd7fbd394",
+      "date": "2026-05-10",
       "time": "10:00",
       "home_team": "Phoenix Inham FC U14 Fireflies",
       "away_team": "Arnold Eagles F.C. Girls U14 Storm",
@@ -79,6 +68,17 @@
       "division": "U14 Div 4",
       "home_away": "home",
       "opponent": "Arnold Eagles F.C. Girls U14 Storm"
+    },
+    {
+      "id": "5460a524080d2fcca0af1bc247de431a",
+      "date": "2026-05-17",
+      "time": "10:00",
+      "home_team": "Phoenix Inham FC U14 Fireflies",
+      "away_team": "Newark Town FC U14 Nesbitts",
+      "venue": "INHAM NOOK RECREATION GROUND",
+      "division": "U14 Div 4",
+      "home_away": "home",
+      "opponent": "Newark Town FC U14 Nesbitts"
     }
   ],
   "results": [
