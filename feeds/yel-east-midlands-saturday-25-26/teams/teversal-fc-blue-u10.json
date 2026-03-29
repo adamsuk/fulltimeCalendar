@@ -1,19 +1,8 @@
 {
   "team": "Teversal FC Blue U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "182312cd066a27f4c5bf6d42447f2bb6",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Market Warsop Panthers U10",
-      "away_team": "Teversal FC Blue U10",
-      "venue": "John Fretwell Centre NG19 8LL",
-      "division": "U10 Sat Spring Div 3 Red",
-      "home_away": "away",
-      "opponent": "Market Warsop Panthers U10"
-    },
     {
       "id": "2a94faf881daa32c27680337865a1107",
       "date": "2026-04-18",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "182312cd066a27f4c5bf6d42447f2bb6",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Market Warsop Panthers U10",
+      "away_team": "Teversal FC Blue U10",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sat Spring Div 3 Red",
+      "home_away": "away",
+      "opponent": "Market Warsop Panthers U10",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "67b75a210e37c3247a9f998bb112d28c",
       "date": "2026-03-21",

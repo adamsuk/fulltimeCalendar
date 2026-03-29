@@ -1,19 +1,8 @@
 {
   "team": "DLFC Emerald U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "65da13b5043dd7182d80ada2649b7a06",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "DLFC Emerald U9",
-      "away_team": "Club FDNA Milan U9",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U9 Sat Spring Div 1",
-      "home_away": "home",
-      "opponent": "Club FDNA Milan U9"
-    },
     {
       "id": "99c01b16a7b676e04dd36ce2231c26f3",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "65da13b5043dd7182d80ada2649b7a06",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "DLFC Emerald U9",
+      "away_team": "Club FDNA Milan U9",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 1",
+      "home_away": "home",
+      "opponent": "Club FDNA Milan U9",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "26657a0f758d5e3f9ae46f3668be775a",
       "date": "2026-03-21",

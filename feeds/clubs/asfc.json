@@ -1,6 +1,6 @@
 {
   "club": "ASFC",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
     {
       "id": "1ab3844dad90762956857ace48d0c586",
@@ -14,19 +14,6 @@
       "team": "ASFC U14",
       "home_away": "away",
       "opponent": "Sherwood Colliery Blue U14"
-    },
-    {
-      "id": "836e877e5b063f3876c05654b091af38",
-      "date": "2026-03-28",
-      "time": "11:15",
-      "home_team": "Sherwood Colliery Lions U12",
-      "away_team": "ASFC Gold U12",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U12 Sat Spring Div 1 Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "ASFC Gold U12",
-      "home_away": "away",
-      "opponent": "Sherwood Colliery Lions U12"
     },
     {
       "id": "1f7ef5764f126d0884711e679e24e3c4",
@@ -173,6 +160,23 @@
     }
   ],
   "results": [
+    {
+      "id": "836e877e5b063f3876c05654b091af38",
+      "date": "2026-03-28",
+      "time": "11:15",
+      "home_team": "Sherwood Colliery Lions U12",
+      "away_team": "ASFC Gold U12",
+      "home_score": 8,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "ASFC Gold U12",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery Lions U12",
+      "goals_for": 2,
+      "goals_against": 8
+    },
     {
       "id": "35b46096e0406ece8cd36419ba7bfe5d",
       "date": "2026-03-22",

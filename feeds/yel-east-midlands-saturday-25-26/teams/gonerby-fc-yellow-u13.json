@@ -1,19 +1,8 @@
 {
   "team": "Gonerby FC Yellow U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "9a319ea8ff698bbf857b2e191e99a97a",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Bingham Town Red U13",
-      "away_team": "Gonerby FC Yellow U13",
-      "venue": "Butt Field NG13 8GG",
-      "division": "U13 Sat Spring Div 3 Blue",
-      "home_away": "away",
-      "opponent": "Bingham Town Red U13"
-    },
     {
       "id": "b18dea3a81c6c90fe895c52d47f47968",
       "date": "2026-04-18",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "9a319ea8ff698bbf857b2e191e99a97a",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Bingham Town Red U13",
+      "away_team": "Gonerby FC Yellow U13",
+      "home_score": 4,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sat Spring Div 3 Blue",
+      "home_away": "away",
+      "opponent": "Bingham Town Red U13",
+      "goals_for": 4,
+      "goals_against": 4
+    },
     {
       "id": "87019fdd69deecd787e808d1d184a068",
       "date": "2026-03-21",

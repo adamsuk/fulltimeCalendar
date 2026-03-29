@@ -1,19 +1,8 @@
 {
   "team": "Lowdham FC Red U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "27bd1b15433a2c534f0210a3e508bea2",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Clifton All Whites U9 Orange",
-      "away_team": "Lowdham FC Red U9",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U9 Sat Spring Div 6 Blue",
-      "home_away": "away",
-      "opponent": "Clifton All Whites U9 Orange"
-    },
     {
       "id": "c058bc098825abffea6669ffe55de5d3",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "27bd1b15433a2c534f0210a3e508bea2",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U9 Orange",
+      "away_team": "Lowdham FC Red U9",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sat Spring Div 6 Blue",
+      "home_away": "away",
+      "opponent": "Clifton All Whites U9 Orange",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "402d96281d95ea643a8fd84a9539fcea",
       "date": "2026-03-21",

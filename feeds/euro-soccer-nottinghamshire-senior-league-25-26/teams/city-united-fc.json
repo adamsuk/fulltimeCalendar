@@ -1,19 +1,8 @@
 {
   "team": "City United FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "687731029dece8bf01d0a7028a42d038",
-      "date": "2026-03-28",
-      "time": "15:00",
-      "home_team": "City United FC",
-      "away_team": "Attenborough FC",
-      "venue": "SOUTH NOTTINGHAMSHIRE ACADEMY",
-      "division": "NSL Division Three",
-      "home_away": "home",
-      "opponent": "Attenborough FC"
-    },
     {
       "id": "766c2dc75b950fae240677a06fbbe4f1",
       "date": "2026-04-04",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "687731029dece8bf01d0a7028a42d038",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "City United FC",
+      "away_team": "Attenborough FC",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "home",
+      "opponent": "Attenborough FC",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "f2b4565826a6654fd4d6b07035523da2",
       "date": "2026-03-14",

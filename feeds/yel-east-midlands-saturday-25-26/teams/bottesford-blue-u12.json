@@ -1,19 +1,8 @@
 {
   "team": "Bottesford Blue U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "494e2de676afa8555b1bb86930165e70",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Bottesford Blue U12",
-      "away_team": "Southwell City Flames U12",
-      "venue": "Nottingham Rd, Bottesford  NG13 0AP",
-      "division": "U12 Sat Spring Div 6 Blue",
-      "home_away": "home",
-      "opponent": "Southwell City Flames U12"
-    },
     {
       "id": "fc603b8700e7bc9612bca5a813ab00da",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "494e2de676afa8555b1bb86930165e70",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Bottesford Blue U12",
+      "away_team": "Southwell City Flames U12",
+      "home_score": 13,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sat Spring Div 6 Blue",
+      "home_away": "home",
+      "opponent": "Southwell City Flames U12",
+      "goals_for": 13,
+      "goals_against": 2
+    },
     {
       "id": "6f3c87bac7f8d1591ef526a1113b800e",
       "date": "2026-03-21",

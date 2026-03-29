@@ -1,19 +1,8 @@
 {
   "team": "Radcliffe Olympic Blue U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "b9acbdda74ea57ac1c62e9a11f1591b6",
-      "date": "2026-03-28",
-      "time": "11:15",
-      "home_team": "DLFC Blue U11",
-      "away_team": "Radcliffe Olympic Blue U11",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U11 Sat Spring Div 8",
-      "home_away": "away",
-      "opponent": "DLFC Blue U11"
-    },
     {
       "id": "86ed03db56c4ec5edb3023c6912a4b48",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b9acbdda74ea57ac1c62e9a11f1591b6",
+      "date": "2026-03-28",
+      "time": "11:15",
+      "home_team": "DLFC Blue U11",
+      "away_team": "Radcliffe Olympic Blue U11",
+      "home_score": 1,
+      "away_score": 7,
+      "venue": "",
+      "division": "U11 Sat Spring Div 8",
+      "home_away": "away",
+      "opponent": "DLFC Blue U11",
+      "goals_for": 7,
+      "goals_against": 1
+    },
     {
       "id": "4301760d0404ef74c55e8ff14c5c1cd0",
       "date": "2026-03-14",

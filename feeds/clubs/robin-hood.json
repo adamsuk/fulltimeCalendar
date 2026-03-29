@@ -1,33 +1,7 @@
 {
   "club": "Robin Hood",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "90947ed6b5aa0cb595624cfc422a7087",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Robin Hood Colts U11",
-      "away_team": "Nottingham Second Chance U11",
-      "venue": "Sherwood Fields, Edwinstowe NG21 9PN",
-      "division": "U11 Sat Spring Div 7 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Robin Hood Colts U11",
-      "home_away": "home",
-      "opponent": "Nottingham Second Chance U11"
-    },
-    {
-      "id": "2d751f4ac64ad1966c562fe98d004e32",
-      "date": "2026-03-28",
-      "time": "15:00",
-      "home_team": "Robin Hood Colts FC",
-      "away_team": "AJ Sport F.C. Reserves",
-      "venue": "SHERWOOD FIELDS (ROBIN HOOD COLTS FC)",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Robin Hood Colts FC",
-      "home_away": "home",
-      "opponent": "AJ Sport F.C. Reserves"
-    },
     {
       "id": "78bf917331e4ec709e8416893e4b224a",
       "date": "2026-03-29",
@@ -173,6 +147,40 @@
     }
   ],
   "results": [
+    {
+      "id": "2d751f4ac64ad1966c562fe98d004e32",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "Robin Hood Colts FC",
+      "away_team": "AJ Sport F.C. Reserves",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "home",
+      "opponent": "AJ Sport F.C. Reserves",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
+      "id": "90947ed6b5aa0cb595624cfc422a7087",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Robin Hood Colts U11",
+      "away_team": "Nottingham Second Chance U11",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Robin Hood Colts U11",
+      "home_away": "home",
+      "opponent": "Nottingham Second Chance U11",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "f9e1e874b8e1c2b4ad153c27529b0cd7",
       "date": "2026-03-22",

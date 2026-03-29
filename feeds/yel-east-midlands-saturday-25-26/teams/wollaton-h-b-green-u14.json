@@ -1,19 +1,8 @@
 {
   "team": "Wollaton H & B Green U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "ddf7b02a0f68cbd3b51cba6435497adf",
-      "date": "2026-03-28",
-      "time": "10:30",
-      "home_team": "Hilton Harriers Bucks U14",
-      "away_team": "Wollaton H & B Green U14",
-      "venue": "The Mease Pavilion DE65 5LS",
-      "division": "U14 Sat Spring Div 5 Blue",
-      "home_away": "away",
-      "opponent": "Hilton Harriers Bucks U14"
-    },
     {
       "id": "771e9ee6452ba58a01255f65fc4df3c4",
       "date": "2026-04-18",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ddf7b02a0f68cbd3b51cba6435497adf",
+      "date": "2026-03-28",
+      "time": "10:30",
+      "home_team": "Hilton Harriers Bucks U14",
+      "away_team": "Wollaton H & B Green U14",
+      "home_score": 2,
+      "away_score": 9,
+      "venue": "",
+      "division": "U14 Sat Spring Div 5 Blue",
+      "home_away": "away",
+      "opponent": "Hilton Harriers Bucks U14",
+      "goals_for": 9,
+      "goals_against": 2
+    },
     {
       "id": "33969a7d1e7d3e3dbf6b4c2f039b5a24",
       "date": "2026-03-21",

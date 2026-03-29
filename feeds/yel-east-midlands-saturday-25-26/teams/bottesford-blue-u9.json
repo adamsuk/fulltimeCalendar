@@ -1,19 +1,8 @@
 {
   "team": "Bottesford Blue U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "182d6ec065125937bd7bbf0059e4c831",
-      "date": "2026-03-28",
-      "time": "09:30",
-      "home_team": "Bottesford Blue U9",
-      "away_team": "Bingham Town White U9",
-      "venue": "Nottingham Rd, Bottesford  NG13 0AP",
-      "division": "U9 Sat Spring Div 8 Blue",
-      "home_away": "home",
-      "opponent": "Bingham Town White U9"
-    },
     {
       "id": "9ce50f4cefb1e57b0513baa0e5868241",
       "date": "2026-04-18",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "182d6ec065125937bd7bbf0059e4c831",
+      "date": "2026-03-28",
+      "time": "09:30",
+      "home_team": "Bottesford Blue U9",
+      "away_team": "Bingham Town White U9",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 8 Blue",
+      "home_away": "home",
+      "opponent": "Bingham Town White U9",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "75697328e03fe43e179d326650035f7e",
       "date": "2026-03-21",

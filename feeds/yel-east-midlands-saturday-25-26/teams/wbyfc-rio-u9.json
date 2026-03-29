@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Rio U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "0f5ab8aec05e046fde532c561b5f7e68",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "WBYFC Rio U9",
-      "away_team": "Toton Tornados U9",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U9 Sat Spring Div 7 Green",
-      "home_away": "home",
-      "opponent": "Toton Tornados U9"
-    },
     {
       "id": "0fd6d611872c547df6209197dcfefb85",
       "date": "2026-04-18",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0f5ab8aec05e046fde532c561b5f7e68",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "WBYFC Rio U9",
+      "away_team": "Toton Tornados U9",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat Spring Div 7 Green",
+      "home_away": "home",
+      "opponent": "Toton Tornados U9",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "1f624a13792389b21b475430b8887421",
       "date": "2026-03-21",

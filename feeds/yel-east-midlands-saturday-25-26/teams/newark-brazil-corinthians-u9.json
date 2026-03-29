@@ -1,19 +1,8 @@
 {
   "team": "Newark Brazil Corinthians U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "e251584ce75deec0ab4c8e637d5744ee",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Newark Brazil Corinthians U9",
-      "away_team": "Silva FC Brunts U9",
-      "venue": "Claypole Playing Field NG23 5BQ",
-      "division": "U9 Sat Spring Div 9 Blue",
-      "home_away": "home",
-      "opponent": "Silva FC Brunts U9"
-    },
     {
       "id": "3e0cd4b5749ed0d0983602fca7bb5d06",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e251584ce75deec0ab4c8e637d5744ee",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Newark Brazil Corinthians U9",
+      "away_team": "Silva FC Brunts U9",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat Spring Div 9 Blue",
+      "home_away": "home",
+      "opponent": "Silva FC Brunts U9",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "8bcea85f1b781a7da96ba4c3cb270908",
       "date": "2026-03-14",

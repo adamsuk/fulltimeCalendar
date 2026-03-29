@@ -1,20 +1,7 @@
 {
   "club": "Eastwood Ath",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "742f53fd3f752c37dc3f5bea52702ea3",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Keyworth United Kobras U12",
-      "away_team": "Eastwood Ath Red Devils U12",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U12 Sat Spring Div 7 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Eastwood Ath Red Devils U12",
-      "home_away": "away",
-      "opponent": "Keyworth United Kobras U12"
-    },
     {
       "id": "56cccc3a9086914111fe305ac9c9600c",
       "date": "2026-04-18",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "742f53fd3f752c37dc3f5bea52702ea3",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Keyworth United Kobras U12",
+      "away_team": "Eastwood Ath Red Devils U12",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U12 Sat Spring Div 7 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Eastwood Ath Red Devils U12",
+      "home_away": "away",
+      "opponent": "Keyworth United Kobras U12",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "3cccedc65a901a151a39a8173006101f",
       "date": "2026-03-21",

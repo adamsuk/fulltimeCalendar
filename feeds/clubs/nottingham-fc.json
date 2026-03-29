@@ -1,46 +1,7 @@
 {
   "club": "Nottingham FC",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "719dabea5f392a31e5f35c337b8b5244",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Nottingham FC Black U13",
-      "away_team": "A.C. United F.C. U13",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U13 Sat YEL Inter Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Nottingham FC Black U13",
-      "home_away": "home",
-      "opponent": "A.C. United F.C. U13"
-    },
-    {
-      "id": "d290f0a5d5048d95f716371a224eec81",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "West Hallam Harriers U9",
-      "away_team": "Nottingham FC Blue U9",
-      "venue": "The Recreation Ground DE7 6FF",
-      "division": "U9 Sat Spring Div 7 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Nottingham FC Blue U9",
-      "home_away": "away",
-      "opponent": "West Hallam Harriers U9"
-    },
-    {
-      "id": "8086518de4075ce20b4bc9672968587b",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Gedling Southbank Lynx U12",
-      "away_team": "Nottingham FC Green U12",
-      "venue": "Trevor Carter Pavilion NG4 1RL",
-      "division": "U12 Sat Spring Div 3 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Nottingham FC Green U12",
-      "home_away": "away",
-      "opponent": "Gedling Southbank Lynx U12"
-    },
     {
       "id": "93d1d9863184150e2aa8c4b8c59ab467",
       "date": "2026-03-28",
@@ -53,19 +14,6 @@
       "team": "Nottingham FC U10",
       "home_away": "home",
       "opponent": "Calverton Miners Welfare U10"
-    },
-    {
-      "id": "2e30098665eb2d5616c42c99835a9f36",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "home_team": "East Leake Bantams Red U14",
-      "away_team": "Nottingham FC U14",
-      "venue": "Costock Road LE12 6LY",
-      "division": "U14 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Nottingham FC U14",
-      "home_away": "away",
-      "opponent": "East Leake Bantams Red U14"
     },
     {
       "id": "47ccd947fc7dc9cb1e1659c103f8852b",
@@ -157,6 +105,19 @@
       "team": "Nottingham FC Green U8",
       "home_away": "home",
       "opponent": "Gonerby FC Yellow U8"
+    },
+    {
+      "id": "8051408102ccf9973fdcdfc43aaf2c82",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Matlock Town Juniors U14 Spartans Girls",
+      "away_team": "Nottingham F.C. Youth U14 Girls",
+      "venue": "CAVENDISH FIELDS SPORTS ASSOCIATION",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Nottingham F.C. Youth U14 Girls",
+      "home_away": "away",
+      "opponent": "Matlock Town Juniors U14 Spartans Girls"
     },
     {
       "id": "213c957395843a2779868c5a524f610e",
@@ -443,6 +404,19 @@
       "team": "Nottingham F.C. Youth U16 Diamonds",
       "home_away": "away",
       "opponent": "Beeston F.C. U16 Girls"
+    },
+    {
+      "id": "14eb0bc35e34dd0ee00ad18f0b1c58a8",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Nottingham FC Black U13",
+      "away_team": "Newhall FC Jaguars U13",
+      "venue": "Melbourne Park NG8 5HL",
+      "division": "U13 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Black U13",
+      "home_away": "home",
+      "opponent": "Newhall FC Jaguars U13"
     },
     {
       "id": "a36ba92de9e73361777f6964e04739ae",
@@ -781,22 +755,77 @@
       "team": "Nottingham F.C. Youth U16 Diamonds",
       "home_away": "home",
       "opponent": "Clifton All Whites U16 Girls"
-    },
-    {
-      "id": "09e8df4e4f0a9c0c7d66c946b16570a2",
-      "date": "2026-05-31",
-      "time": "10:00",
-      "home_team": "Matlock Town Juniors U14 Spartans Girls",
-      "away_team": "Nottingham F.C. Youth U14 Girls",
-      "venue": "CAVENDISH FIELDS SPORTS ASSOCIATION",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Nottingham F.C. Youth U14 Girls",
-      "home_away": "away",
-      "opponent": "Matlock Town Juniors U14 Spartans Girls"
     }
   ],
   "results": [
+    {
+      "id": "2e30098665eb2d5616c42c99835a9f36",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "East Leake Bantams Red U14",
+      "away_team": "Nottingham FC U14",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC U14",
+      "home_away": "away",
+      "opponent": "East Leake Bantams Red U14",
+      "goals_for": 3,
+      "goals_against": 3
+    },
+    {
+      "id": "719dabea5f392a31e5f35c337b8b5244",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Nottingham FC Black U13",
+      "away_team": "A.C. United F.C. U13",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Black U13",
+      "home_away": "home",
+      "opponent": "A.C. United F.C. U13",
+      "goals_for": 3,
+      "goals_against": 0
+    },
+    {
+      "id": "d290f0a5d5048d95f716371a224eec81",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "West Hallam Harriers U9",
+      "away_team": "Nottingham FC Blue U9",
+      "home_score": 8,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sat Spring Div 7 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Blue U9",
+      "home_away": "away",
+      "opponent": "West Hallam Harriers U9",
+      "goals_for": 0,
+      "goals_against": 8
+    },
+    {
+      "id": "8086518de4075ce20b4bc9672968587b",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Gedling Southbank Lynx U12",
+      "away_team": "Nottingham FC Green U12",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 3 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Green U12",
+      "home_away": "away",
+      "opponent": "Gedling Southbank Lynx U12",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "5f7fd2ae0078e49498cc1798aca5df38",
       "date": "2026-03-22",

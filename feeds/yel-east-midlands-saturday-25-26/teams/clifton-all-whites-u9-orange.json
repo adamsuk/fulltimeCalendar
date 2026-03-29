@@ -1,21 +1,36 @@
 {
   "team": "Clifton All Whites U9 Orange",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
+    {
+      "id": "c9239b0d346f697ac58f7044f2ef3616",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U9 Orange",
+      "away_team": "Sherwood FC Lions U9",
+      "venue": "Norman Archer Memorial Ground NG11 9AZ",
+      "division": "U9 Sat Spring Div 6 Blue",
+      "home_away": "home",
+      "opponent": "Sherwood FC Lions U9"
+    }
+  ],
+  "results": [
     {
       "id": "27bd1b15433a2c534f0210a3e508bea2",
       "date": "2026-03-28",
       "time": "10:00",
       "home_team": "Clifton All Whites U9 Orange",
       "away_team": "Lowdham FC Red U9",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
       "division": "U9 Sat Spring Div 6 Blue",
       "home_away": "home",
-      "opponent": "Lowdham FC Red U9"
-    }
-  ],
-  "results": [
+      "opponent": "Lowdham FC Red U9",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "cdfff6b9ecf5bdbdd9661dc44d5da5db",
       "date": "2026-03-21",

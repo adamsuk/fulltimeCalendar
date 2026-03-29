@@ -1,20 +1,7 @@
 {
   "club": "Notts City Rangers FC",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "bc5928ed7ceb33e6f1b42fa4431b854f",
-      "date": "2026-03-28",
-      "time": "15:00",
-      "home_team": "Notts City Rangers FC",
-      "away_team": "Phoenix Athletic FC",
-      "venue": "EAST LEAKE LEISURE CENTRE",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Notts City Rangers FC",
-      "home_away": "home",
-      "opponent": "Phoenix Athletic FC"
-    },
     {
       "id": "6bca146d004ae0f1c29e4004c52d0be4",
       "date": "2026-04-04",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "bc5928ed7ceb33e6f1b42fa4431b854f",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "Notts City Rangers FC",
+      "away_team": "Phoenix Athletic FC",
+      "home_score": 7,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Notts City Rangers FC",
+      "home_away": "home",
+      "opponent": "Phoenix Athletic FC",
+      "goals_for": 7,
+      "goals_against": 2
+    },
     {
       "id": "ea8b01c03c56727ab487d97505725d97",
       "date": "2026-03-25",

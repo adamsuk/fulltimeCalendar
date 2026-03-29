@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United Blue U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "e162d1cffd5faea777ebecae86cfe4ed",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "home_team": "Keyworth United Blue U12",
-      "away_team": "WBYFC Buffalos U12",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U12 Sat Spring Div 5 Red",
-      "home_away": "home",
-      "opponent": "WBYFC Buffalos U12"
-    },
     {
       "id": "e2b58261e26be59dceb12df68d2d867f",
       "date": "2026-04-11",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e162d1cffd5faea777ebecae86cfe4ed",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Keyworth United Blue U12",
+      "away_team": "WBYFC Buffalos U12",
+      "home_score": 10,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 5 Red",
+      "home_away": "home",
+      "opponent": "WBYFC Buffalos U12",
+      "goals_for": 10,
+      "goals_against": 1
+    },
     {
       "id": "8f388a5214dca6555f2432b1b9c0c1b3",
       "date": "2026-03-21",

@@ -1,6 +1,6 @@
 {
   "club": "Gonerby Blue",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
     {
       "id": "7c4b1227b85ed5541cd19b999efef51d",
@@ -14,19 +14,6 @@
       "team": "Gonerby Blue U13",
       "home_away": "away",
       "opponent": "Ollerton Town U13"
-    },
-    {
-      "id": "d252c6092c61160074e1e82e01294b8e",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Gonerby Yellow U9",
-      "away_team": "Gonerby Blue U9",
-      "venue": "Gonerby Recreation Ground NG31 8PP",
-      "division": "U9 Sat Spring Div 9 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Gonerby Blue U9",
-      "home_away": "away",
-      "opponent": "Gonerby Yellow U9"
     },
     {
       "id": "ed892805b69aa556265e5cab9ee92111",
@@ -134,6 +121,23 @@
     }
   ],
   "results": [
+    {
+      "id": "d252c6092c61160074e1e82e01294b8e",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Gonerby Yellow U9",
+      "away_team": "Gonerby Blue U9",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 9 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gonerby Blue U9",
+      "home_away": "away",
+      "opponent": "Gonerby Yellow U9",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "4463632d678bc6b4df602dfff5fdab12",
       "date": "2026-03-22",

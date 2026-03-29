@@ -1,19 +1,8 @@
 {
   "team": "Bingham Town Red U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "937c1be4cb02f1bafcd214a365d46506",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "home_team": "Blidworth Bengals U11",
-      "away_team": "Bingham Town Red U11",
-      "venue": "Blidworth & Bilsthorpe Bengals NG22 8QW",
-      "division": "U11 Sat Spring Div 2 Red",
-      "home_away": "away",
-      "opponent": "Blidworth Bengals U11"
-    },
     {
       "id": "2f9391f7e03ee3c8dfe42056d0699bd6",
       "date": "2026-04-18",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "937c1be4cb02f1bafcd214a365d46506",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Blidworth Bengals U11",
+      "away_team": "Bingham Town Red U11",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "U11 Sat Spring Div 2 Red",
+      "home_away": "away",
+      "opponent": "Blidworth Bengals U11",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "f621e3bbc46b508b0140b6480051799c",
       "date": "2026-03-21",

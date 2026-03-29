@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Union U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "999f87402b61b8a3b932558484360a24",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "NG United U9",
-      "away_team": "WBYFC Union U9",
-      "venue": "Robin Hood Road NG5 8NP",
-      "division": "U9 Sat Spring Div 9 Red",
-      "home_away": "away",
-      "opponent": "NG United U9"
-    },
     {
       "id": "9e31ebc5cff1b60084aa86b20332f0a0",
       "date": "2026-04-18",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "999f87402b61b8a3b932558484360a24",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "NG United U9",
+      "away_team": "WBYFC Union U9",
+      "home_score": 8,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat Spring Div 9 Red",
+      "home_away": "away",
+      "opponent": "NG United U9",
+      "goals_for": 1,
+      "goals_against": 8
+    },
     {
       "id": "cebc1ee2c6645af3f93a739523b4ed8f",
       "date": "2026-03-21",

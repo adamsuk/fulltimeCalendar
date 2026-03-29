@@ -1,19 +1,8 @@
 {
   "team": "Bottesford Yellow U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "aa270f88d66f4f174ad93a47e43b79bc",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Bottesford Yellow U10",
-      "away_team": "Southwell City Ultras U10",
-      "venue": "Nottingham Rd, Bottesford  NG13 0AP",
-      "division": "U10 Sat Spring Div 4 Red",
-      "home_away": "home",
-      "opponent": "Southwell City Ultras U10"
-    },
     {
       "id": "2f0161c7da328531fec528b937ebbc22",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "aa270f88d66f4f174ad93a47e43b79bc",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Bottesford Yellow U10",
+      "away_team": "Southwell City Ultras U10",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U10 Sat Spring Div 4 Red",
+      "home_away": "home",
+      "opponent": "Southwell City Ultras U10",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "1bdea9746514306bdbddd5426942376f",
       "date": "2026-03-21",

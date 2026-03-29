@@ -1,33 +1,7 @@
 {
   "club": "Bottesford Yellow",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "aa270f88d66f4f174ad93a47e43b79bc",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Bottesford Yellow U10",
-      "away_team": "Southwell City Ultras U10",
-      "venue": "Nottingham Rd, Bottesford  NG13 0AP",
-      "division": "U10 Sat Spring Div 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Bottesford Yellow U10",
-      "home_away": "home",
-      "opponent": "Southwell City Ultras U10"
-    },
-    {
-      "id": "c909a9e4e079c53ae62e6c61fdc4e0d1",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Bottesford Yellow U8",
-      "away_team": "Bottesford Blue U8",
-      "venue": "Nottingham Rd, Bottesford  NG13 0AP",
-      "division": "U8 Sat Spring 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Bottesford Yellow U8",
-      "home_away": "home",
-      "opponent": "Bottesford Blue U8"
-    },
     {
       "id": "bc8193b6ac34eae6d640cf5e6cd6efdf",
       "date": "2026-04-11",
@@ -160,6 +134,40 @@
     }
   ],
   "results": [
+    {
+      "id": "aa270f88d66f4f174ad93a47e43b79bc",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Bottesford Yellow U10",
+      "away_team": "Southwell City Ultras U10",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U10 Sat Spring Div 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Bottesford Yellow U10",
+      "home_away": "home",
+      "opponent": "Southwell City Ultras U10",
+      "goals_for": 2,
+      "goals_against": 5
+    },
+    {
+      "id": "c909a9e4e079c53ae62e6c61fdc4e0d1",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Bottesford Yellow U8",
+      "away_team": "Bottesford Blue U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Bottesford Yellow U8",
+      "home_away": "home",
+      "opponent": "Bottesford Blue U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "e1fa25dbd3c96c1469c83a2cbe51c091",
       "date": "2026-03-22",

@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town FC Development",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "7856b5cc777638d7a4d6c44bf4ba365d",
-      "date": "2026-03-28",
-      "time": "10:30",
-      "home_team": "Arnold Town FC Development",
-      "away_team": "AFC Warriors Development",
-      "venue": "EAGLE VALLEY #3",
-      "division": "Development Spring Division One",
-      "home_away": "home",
-      "opponent": "AFC Warriors Development"
-    },
     {
       "id": "40c81d1c3bad58c0f16f8e276f8e697a",
       "date": "2026-04-01",
@@ -104,6 +93,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7856b5cc777638d7a4d6c44bf4ba365d",
+      "date": "2026-03-28",
+      "time": "10:30",
+      "home_team": "Arnold Town FC Development",
+      "away_team": "AFC Warriors Development",
+      "home_score": 2,
+      "away_score": 10,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "home",
+      "opponent": "AFC Warriors Development",
+      "goals_for": 2,
+      "goals_against": 10
+    },
     {
       "id": "0fe2058657d12f741a87ecf4353a0199",
       "date": "2026-03-14",

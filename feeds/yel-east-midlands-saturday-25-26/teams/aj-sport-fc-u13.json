@@ -1,19 +1,8 @@
 {
   "team": "AJ Sport FC U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "539e8894625b88f78c180b02ae5bec4c",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "home_team": "Eastwood Athletic Eagles U13",
-      "away_team": "AJ Sport FC U13",
-      "venue": "Hall Park NG16 3AR",
-      "division": "U13 Sat Spring Div 4 Blue",
-      "home_away": "away",
-      "opponent": "Eastwood Athletic Eagles U13"
-    },
     {
       "id": "2412adfb513eb29e4acf4de02a660e33",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "539e8894625b88f78c180b02ae5bec4c",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Eastwood Athletic Eagles U13",
+      "away_team": "AJ Sport FC U13",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat Spring Div 4 Blue",
+      "home_away": "away",
+      "opponent": "Eastwood Athletic Eagles U13",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "35bb1bbb9101c78014779ecb27c91f65",
       "date": "2026-03-21",

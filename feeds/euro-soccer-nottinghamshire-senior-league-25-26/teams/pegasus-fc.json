@@ -1,19 +1,8 @@
 {
   "team": "Pegasus FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "9378b57712868c8c4addc7b2c5c3918f",
-      "date": "2026-03-28",
-      "time": "10:30",
-      "home_team": "Pegasus FC",
-      "away_team": "Linby Colliery Welfare Development",
-      "venue": "PASTURE ROAD RECREATION GROUND",
-      "division": "Development Spring Division Two",
-      "home_away": "home",
-      "opponent": "Linby Colliery Welfare Development"
-    },
     {
       "id": "fc8098c162e51af805d9f0ad00a5c2dd",
       "date": "2026-04-04",
@@ -104,6 +93,21 @@
     }
   ],
   "results": [
+    {
+      "id": "9378b57712868c8c4addc7b2c5c3918f",
+      "date": "2026-03-28",
+      "time": "10:30",
+      "home_team": "Pegasus FC",
+      "away_team": "Linby Colliery Welfare Development",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "home_away": "home",
+      "opponent": "Linby Colliery Welfare Development",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "1d7f3a638105a1e509607e852884da7e",
       "date": "2026-03-14",

@@ -1,19 +1,8 @@
 {
   "team": "Eastwood CFC Badgers U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "d6e4d744701cec2e581e9bcbb32daf87",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Grantham Town Grey U9",
-      "away_team": "Eastwood CFC Badgers U9",
-      "venue": "Belton Woods NG32 2LN",
-      "division": "U9 Sat Spring Premier Division",
-      "home_away": "away",
-      "opponent": "Grantham Town Grey U9"
-    },
     {
       "id": "8b2000941ddc980040b63620cb5fd680",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d6e4d744701cec2e581e9bcbb32daf87",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Grantham Town Grey U9",
+      "away_team": "Eastwood CFC Badgers U9",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sat Spring Premier Division",
+      "home_away": "away",
+      "opponent": "Grantham Town Grey U9",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "41dbefb031925d8305e9a5da8810a90a",
       "date": "2026-03-21",

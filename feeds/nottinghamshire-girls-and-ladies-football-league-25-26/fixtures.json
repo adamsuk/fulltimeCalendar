@@ -1,6 +1,6 @@
 {
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
     {
       "id": "67bc4be566a984541f88c71aa3c3fc04",
@@ -46,15 +46,6 @@
       "away_team": "Southwell City FC U11 Girls",
       "venue": "THE TRINITY CATHOLIC SCHOOL",
       "division": "U11 Development"
-    },
-    {
-      "id": "71ea85896556cdfae9cbb3c7fd798c44",
-      "date": "2026-03-22",
-      "time": "10:30",
-      "home_team": "West Bridgford Colts Women's Development",
-      "away_team": "Ravenshead Reds FC",
-      "venue": "UNIVERSITY OF NOTTINGHAM (RIVERSIDE SPORTS COMPLEX)",
-      "division": "Other Fixtures"
     },
     {
       "id": "ebe62d3f9ffdd99662e1372e7d44e6b8",
@@ -354,15 +345,6 @@
       "division": "U10 Development"
     },
     {
-      "id": "2c24c9447f8aad2ccd2e2c69dc8e7d60",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Stanton Ilkeston U10 Steelers",
-      "away_team": "Priory Celtic F.C. U10 Girls",
-      "venue": "RON BROOKS PLAYING FIELD",
-      "division": "U10 Development"
-    },
-    {
       "id": "559f33e3b8c8aebe43871f7666a3e9b8",
       "date": "2026-03-29",
       "time": "10:00",
@@ -514,6 +496,15 @@
       "away_team": "Shirebrook Rangers & Juniors U13 Girls",
       "venue": "HOLGATE ACADEMY",
       "division": "U13 Div 2 11 v 11"
+    },
+    {
+      "id": "2c24c9447f8aad2ccd2e2c69dc8e7d60",
+      "date": "2026-03-29",
+      "time": "11:30",
+      "home_team": "Stanton Ilkeston U10 Steelers",
+      "away_team": "Priory Celtic F.C. U10 Girls",
+      "venue": "RON BROOKS PLAYING FIELD",
+      "division": "U10 Development"
     },
     {
       "id": "e9cd41d39fec0c988a281715568ad825",
@@ -786,6 +777,15 @@
       "division": "U16 Div 2"
     },
     {
+      "id": "974db88bd16225521041aac42224c94f",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U16 Girls",
+      "away_team": "Burton Joyce F.C. Girls U16",
+      "venue": "FARNBOROUGH ACADEMY SPORTS CENTRE",
+      "division": "U16 Div 3"
+    },
+    {
       "id": "5810dc872352bb9de4f390e591c68689",
       "date": "2026-04-12",
       "time": "10:00",
@@ -1020,6 +1020,15 @@
       "division": "U14 Div 3"
     },
     {
+      "id": "8051408102ccf9973fdcdfc43aaf2c82",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Matlock Town Juniors U14 Spartans Girls",
+      "away_team": "Nottingham F.C. Youth U14 Girls",
+      "venue": "CAVENDISH FIELDS SPORTS ASSOCIATION",
+      "division": "U14 Div 3"
+    },
+    {
       "id": "c8ba237f6d74442b12a9c114fdb935f7",
       "date": "2026-04-12",
       "time": "10:00",
@@ -1209,6 +1218,60 @@
       "division": "U12 Div 1 P2"
     },
     {
+      "id": "a52c2c5dcaaaa3c53f29d369b3ce0340",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Keyworth United F.C. U12 Shooting Stars",
+      "away_team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
+      "division": "U12 Div 2 P2"
+    },
+    {
+      "id": "053e88ebcf9cd4c3d25f5c5f1ad82273",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Keyworth United F.C. U12 Vipers",
+      "away_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
+      "division": "U12 Div 2 P2"
+    },
+    {
+      "id": "fc62ee6a5b46bbee5da21a3b791a9854",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Sherwood FC U12 Girls",
+      "away_team": "Langwith Whitestar U12 United",
+      "venue": "CARLTON FOOTBALL CENTRE",
+      "division": "U12 Div 2 P2"
+    },
+    {
+      "id": "0c176e322ac6e41b5d1981c5c1483bb1",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Priory Celtic F.C. U12 Girls",
+      "away_team": "Matlock Town Junior U12 Girls Gladiators",
+      "venue": "THE KIMBERLEY SCHOOL",
+      "division": "U12 Div 4"
+    },
+    {
+      "id": "ce56b21e7c2c2ff2e4bb786e3b39e77f",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Clipstone Welfare Colts F.C. Youth U12",
+      "away_team": "Tansley Juniors U12 Girls",
+      "venue": "CLIPSTONE MINERS WELFARE (THE LIDO GROUND)",
+      "division": "U12 Div 5 P2"
+    },
+    {
+      "id": "077fb164193e63372ec2f0b2cbd83600",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Quarrydale United FC U12",
+      "away_team": "Sherwood Colliery F.C. Ladies U12 Black",
+      "venue": "Quarrydale United FC U12 Quarrydale Unit",
+      "division": "U12 Div 5 P2"
+    },
+    {
       "id": "4d7d845769ed5696698b2b19d398b68b",
       "date": "2026-04-12",
       "time": "10:00",
@@ -1326,15 +1389,6 @@
       "division": "U9 Development"
     },
     {
-      "id": "33513c35674d13e9580722c10d129707",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Hucknall Sports F.C. Youth U9 Wildcats",
-      "away_team": "West Bridgford Colts U9 Nova",
-      "venue": "Hucknall Sports F.C. Youth U9 Wildcats",
-      "division": "U9 Development"
-    },
-    {
       "id": "37d8ac22149b0ac118d595276053d227",
       "date": "2026-04-12",
       "time": "10:00",
@@ -1350,6 +1404,15 @@
       "home_team": "Ravenshead Reds F.C. Youth U9",
       "away_team": "Hucknall & Linby Harriers FC U9",
       "venue": "Ravenshead Reds F.C. Youth U9 (SUN )GIRL",
+      "division": "U9 Development"
+    },
+    {
+      "id": "f3f2f1d305a1150f106a716d6c25fc58",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers & Juniors U9 Girls",
+      "away_team": "Hucknall Sports F.C. Youth U9 Wildcats",
+      "venue": "Shirebrook Rangers & Juniors U9 Girls",
       "division": "U9 Development"
     },
     {
@@ -1414,24 +1477,6 @@
       "away_team": "Ruddington Village U7 Girls",
       "venue": "West Bridgford Colts U7 Ember",
       "division": "U7 Development"
-    },
-    {
-      "id": "86bc9c076e908ebd4427d4f39a87f06b",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Shirebrook Rangers & Juniors U9 Girls",
-      "away_team": "Hucknall & Linby Harriers FC U9",
-      "venue": "SHIREBROOK ACADEMY",
-      "division": "Other Fixtures"
-    },
-    {
-      "id": "f679a4686afe9d88e063fa978359e707",
-      "date": "2026-04-12",
-      "time": "10:15",
-      "home_team": "Langwith Whitestar U12 United",
-      "away_team": "Sherwood Colliery F.C. Ladies U12 Blue",
-      "venue": "Langwith Whitestar U12 United",
-      "division": "U12 Div 2 P2"
     },
     {
       "id": "f069f1bbd71741d677bd03f2dc2b2086",
@@ -1839,15 +1884,6 @@
       "division": "U16 Div 3"
     },
     {
-      "id": "0f28d683478244b5156134fe66ae1971",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Clifton All Whites U16 Girls",
-      "away_team": "Burton Joyce F.C. Girls U16",
-      "venue": "FARNBOROUGH ACADEMY SPORTS CENTRE",
-      "division": "U16 Div 3"
-    },
-    {
       "id": "233f1f8180ef8ebd6cc01f6097278da8",
       "date": "2026-04-19",
       "time": "10:00",
@@ -2073,15 +2109,6 @@
       "division": "U13 Div 2 11 v 11"
     },
     {
-      "id": "75556ba9ca577caaa143b09e58a80a0a",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Hilton Harriers U13 Girls",
-      "away_team": "Mansfield Town F.C. Girls U13",
-      "venue": "THE MEASE PAVILION - HILTON HARRIERS FC",
-      "division": "U13 Div 1 9 v 9"
-    },
-    {
       "id": "aec7e6cddd02f11df21dc56aab2fa84c",
       "date": "2026-04-19",
       "time": "10:00",
@@ -2143,6 +2170,60 @@
       "away_team": "Sandiacre Town Youth U12 Panthers Girls",
       "venue": "HOLGATE ACADEMY",
       "division": "U12 Div 1 P2"
+    },
+    {
+      "id": "faf369bb8cfb1dfaf60164603fdda9ec",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "away_team": "Woodthorpe Community U12 Warriors",
+      "venue": "BINGHAM ROAD PLAYING FIELDS",
+      "division": "U12 Div 2 P2"
+    },
+    {
+      "id": "e3c93d22d36d916653f9ad8fc57e3d03",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Woodthorpe Community U12 Warriors",
+      "away_team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "venue": "POWERLEAGUE (NOTTINGHAM ARNOLD)",
+      "division": "U12 Div 2 P2"
+    },
+    {
+      "id": "51326ea90e99c4383f669994a6755aa6",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Matlock Town Junior U12 Girls Gladiators",
+      "away_team": "Southwell City FC U12 Swans",
+      "venue": "CAVENDISH FIELDS SPORTS ASSOCIATION",
+      "division": "U12 Div 4"
+    },
+    {
+      "id": "bb3571f1696d37b0f3481d798f60fbda",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Clipstone Welfare Colts F.C. Youth U12",
+      "away_team": "Quarrydale United FC U12",
+      "venue": "CLIPSTONE MINERS WELFARE (THE LIDO GROUND)",
+      "division": "U12 Div 5 P2"
+    },
+    {
+      "id": "82a65a0bb6062baa373591a1027b38ec",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Sutton Bonington U12 Comets",
+      "away_team": "Ravenshead Reds F.C. Youth U12",
+      "venue": "Sutton Bonington U12 Comets",
+      "division": "U12 Div 5 P2"
+    },
+    {
+      "id": "919e098027722c595554150173f6ec30",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Tansley Juniors U12 Girls",
+      "away_team": "Sherwood Colliery F.C. Ladies U12 Black",
+      "venue": "THE FETE FIELD",
+      "division": "U12 Div 5 P2"
     },
     {
       "id": "dcae696f5f9f35a82f97bd82bc61e4ed",
@@ -2399,7 +2480,7 @@
     {
       "id": "3f81f8c266768f981ad56049f2cb76e7",
       "date": "2026-04-22",
-      "time": "10:00",
+      "time": "18:00",
       "home_team": "Allenton United FC U15 Ladies Bees",
       "away_team": "Hilton Harriers U15 Girls Sunday",
       "venue": "Allenton United FC U15 Ladies Bees",
@@ -2431,6 +2512,33 @@
       "away_team": "Selston F.C. Youth U15 FC",
       "venue": "THE BECKET SCHOOL",
       "division": "U15 Div 3"
+    },
+    {
+      "id": "2a2c9a1a0ce2374ab2e3ae665f52094d",
+      "date": "2026-04-22",
+      "time": "18:00",
+      "home_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
+      "away_team": "Riverside Junior U14 Rubies",
+      "venue": "CALVERTON MINERS WELFARE TRUST",
+      "division": "U14 Div 3"
+    },
+    {
+      "id": "2c2a1123cda4c8cd4962cc4cee6141d1",
+      "date": "2026-04-22",
+      "time": "18:00",
+      "home_team": "Keyworth United F.C. U13 Girls",
+      "away_team": "Stapleford Town FC U13 Girls",
+      "venue": "STAPLEFORD COMMUNITY PAVILION",
+      "division": "U13 Div 1 9 v 9"
+    },
+    {
+      "id": "b5b927b74708ee1444463f24bbc3707e",
+      "date": "2026-04-22",
+      "time": "18:00",
+      "home_team": "West Bridgford Colts U13 Lions",
+      "away_team": "Calverton Miners Welfare FC U13",
+      "venue": "GRESHAM SPORTS PARK",
+      "division": "U13 Div 1 9 v 9"
     },
     {
       "id": "bcc764829f7cd0cc5e7d05b99ebb0e89",
@@ -2793,15 +2901,6 @@
       "division": "U13 Div 2 11 v 11"
     },
     {
-      "id": "6f2a551b05030f270d0d1b28b829854c",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Stapleford Town FC U13 Girls",
-      "away_team": "West Bridgford Colts U13 Lions",
-      "venue": "STAPLEFORD COMMUNITY PAVILION",
-      "division": "U13 Div 1 9 v 9"
-    },
-    {
       "id": "0cbce120900edb075794bbbe1f29fad4",
       "date": "2026-04-26",
       "time": "10:00",
@@ -2872,6 +2971,15 @@
       "away_team": "Mansfield Town F.C. Girls U12",
       "venue": "FRIESLAND SCHOOL",
       "division": "U12 Div 1 P2"
+    },
+    {
+      "id": "e54845abf2084126b9cc77dc2a3b12f1",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "away_team": "Sherwood FC U12 Girls",
+      "venue": "BINGHAM ROAD PLAYING FIELDS",
+      "division": "U12 Div 2 P2"
     },
     {
       "id": "2d9d7830793c222c13d3a486e43b7939",
@@ -3124,15 +3232,6 @@
       "away_team": "Keyworth United F.C. U15 Kobras",
       "venue": "CARLTON-LE-WILLOWS ACADEMY",
       "division": "U15 Div 2"
-    },
-    {
-      "id": "3496c833a50fb72e46ed19f1b1b2a80f",
-      "date": "2026-05-01",
-      "time": "10:00",
-      "home_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
-      "away_team": "Riverside Junior U14 Rubies",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "U14 Div 3"
     },
     {
       "id": "bfb558ec5e6e8762f8f9ed96b6857a2f",
@@ -3468,15 +3567,6 @@
       "division": "U13 Div 1 9 v 9"
     },
     {
-      "id": "3a1ac3a97423816543e2390b2e441fcf",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "West Bridgford Colts U13 Lions",
-      "away_team": "Sandiacre Town Youth U13 Diamonds",
-      "venue": "REGATTA WAY SPORTS GROUND",
-      "division": "U13 Div 1 9 v 9"
-    },
-    {
       "id": "7c3c2fcce59871ebab511fa7a5fb5997",
       "date": "2026-05-03",
       "time": "10:00",
@@ -3504,15 +3594,6 @@
       "division": "U13 Div 3 9 v 9"
     },
     {
-      "id": "889a536149b86c22fb847dc68e13111b",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Arnold Eagles F.C. Girls U12 FC",
-      "away_team": "Hucknall & Linby Harriers FC U12",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "U12 Div 1 P2"
-    },
-    {
       "id": "2250f211b95872903ad9bda42c24de0d",
       "date": "2026-05-03",
       "time": "10:00",
@@ -3529,6 +3610,24 @@
       "away_team": "Cotgrave FC U12 Girls",
       "venue": "FRIESLAND SCHOOL",
       "division": "U12 Div 1 P2"
+    },
+    {
+      "id": "f86a3ca64250f6c7159e84019fff1678",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Quarrydale United FC U12",
+      "away_team": "Ravenshead Reds F.C. Youth U12",
+      "venue": "Quarrydale United FC U12 Quarrydale Unit",
+      "division": "U12 Div 5 P2"
+    },
+    {
+      "id": "8da8d4941cf61a4c475b749650ea83b2",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Tansley Juniors U12 Girls",
+      "away_team": "Sutton Bonington U12 Comets",
+      "venue": "THE FETE FIELD",
+      "division": "U12 Div 5 P2"
     },
     {
       "id": "963e7905c1e5b147abc2ce60d13394f5",
@@ -3918,15 +4017,6 @@
       "division": "U13 Div 1 9 v 9"
     },
     {
-      "id": "6c05ffe5a0ab7d65178db548cd4e27d2",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "West Bridgford Colts U13 Lions",
-      "away_team": "Calverton Miners Welfare FC U13",
-      "venue": "GRESHAM SPORTS PARK",
-      "division": "U13 Div 1 9 v 9"
-    },
-    {
       "id": "bb248e49164f0e060e0ed13ef0c422ad",
       "date": "2026-05-10",
       "time": "10:00",
@@ -4015,15 +4105,6 @@
       "away_team": "Bottesford U15 Girls",
       "venue": "ALLESTREE WOODLANDS SCHOOL",
       "division": "U15 Div 2"
-    },
-    {
-      "id": "552b83eb73e9f86d7cf6c06af7d85c75",
-      "date": "2026-05-10",
-      "time": "10:45",
-      "home_team": "Keyworth United F.C. U13 Girls",
-      "away_team": "Stapleford Town FC U13 Girls",
-      "venue": "STAPLEFORD COMMUNITY PAVILION",
-      "division": "U13 Div 1 9 v 9"
     },
     {
       "id": "f323267cd1630d070404a8d5cc168546",
@@ -4278,6 +4359,24 @@
       "division": "U12 Div 1 P2"
     },
     {
+      "id": "52a9a5fab44064a4de91e3924cbe681d",
+      "date": "2026-05-17",
+      "time": "10:00",
+      "home_team": "Quarrydale United FC U12",
+      "away_team": "Tansley Juniors U12 Girls",
+      "venue": "Quarrydale United FC U12 Quarrydale Unit",
+      "division": "U12 Div 5 P2"
+    },
+    {
+      "id": "78c1c99de53982feab578bb5442567a5",
+      "date": "2026-05-17",
+      "time": "10:00",
+      "home_team": "Ravenshead Reds F.C. Youth U12",
+      "away_team": "Clipstone Welfare Colts F.C. Youth U12",
+      "venue": "Ravenshead Reds F.C. Youth U12 (SUN) GIR",
+      "division": "U12 Div 5 P2"
+    },
+    {
       "id": "8f77faf39b930d1ad2f18a2abc770e85",
       "date": "2026-05-17",
       "time": "10:05",
@@ -4449,6 +4548,24 @@
       "division": "U13 Div 1 11 v 11"
     },
     {
+      "id": "f650e8da0889a69dbd1a3c268cd524d7",
+      "date": "2026-05-24",
+      "time": "10:00",
+      "home_team": "Hilton Harriers U13 Girls",
+      "away_team": "Mansfield Town F.C. Girls U13",
+      "venue": "THE MEASE PAVILION - HILTON HARRIERS FC",
+      "division": "U13 Div 1 9 v 9"
+    },
+    {
+      "id": "3e109bfda143735f3744b635b3445dca",
+      "date": "2026-05-24",
+      "time": "10:00",
+      "home_team": "Stapleford Town FC U13 Girls",
+      "away_team": "West Bridgford Colts U13 Lions",
+      "venue": "STAPLEFORD COMMUNITY PAVILION",
+      "division": "U13 Div 1 9 v 9"
+    },
+    {
       "id": "e03ad6556cf955dd4313dd598e821368",
       "date": "2026-05-24",
       "time": "10:00",
@@ -4456,6 +4573,24 @@
       "away_team": "Moorgreen Colts F.C. Youth U13",
       "venue": "CARR LANE PARK",
       "division": "U13 Div 3 9 v 9"
+    },
+    {
+      "id": "b61e0009d317d88b9e70ed09506e020c",
+      "date": "2026-05-24",
+      "time": "10:00",
+      "home_team": "Sutton Bonington U12 Comets",
+      "away_team": "Quarrydale United FC U12",
+      "venue": "Sutton Bonington U12 Comets",
+      "division": "U12 Div 5 P2"
+    },
+    {
+      "id": "801ed962ed7e7c72d2f2993fa4958835",
+      "date": "2026-05-24",
+      "time": "10:00",
+      "home_team": "Tansley Juniors U12 Girls",
+      "away_team": "Ravenshead Reds F.C. Youth U12",
+      "venue": "THE FETE FIELD",
+      "division": "U12 Div 5 P2"
     },
     {
       "id": "6130391408b8aafb50709478c4db2e94",
@@ -4530,13 +4665,13 @@
       "division": "U14 Div 3"
     },
     {
-      "id": "09e8df4e4f0a9c0c7d66c946b16570a2",
+      "id": "e95b74e23f79b1cde8fe4d893072d847",
       "date": "2026-05-31",
       "time": "10:00",
-      "home_team": "Matlock Town Juniors U14 Spartans Girls",
-      "away_team": "Nottingham F.C. Youth U14 Girls",
-      "venue": "CAVENDISH FIELDS SPORTS ASSOCIATION",
-      "division": "U14 Div 3"
+      "home_team": "West Bridgford Colts U13 Lions",
+      "away_team": "Sandiacre Town Youth U13 Diamonds",
+      "venue": "REGATTA WAY SPORTS GROUND",
+      "division": "U13 Div 1 9 v 9"
     },
     {
       "id": "a91ddab87df0822b61c459c43732ddf1",
@@ -4546,24 +4681,6 @@
       "away_team": "Arnold Eagles F.C. Girls U12 FC",
       "venue": "RADCLIFFE-ON-TRENT CRICKET CLUB",
       "division": "U12 Div 2"
-    },
-    {
-      "id": "f2d8c145509610cf0a0bdde31002302a",
-      "date": "2026-05-31",
-      "time": "10:00",
-      "home_team": "Matlock Town Junior U12 Girls Gladiators",
-      "away_team": "Southwell City FC U12 Swans",
-      "venue": "CAVENDISH FIELDS SPORTS ASSOCIATION",
-      "division": "U12 Div 4"
-    },
-    {
-      "id": "0ec510d60924ae3e3b0a44741e3bd9d4",
-      "date": "2026-05-31",
-      "time": "10:00",
-      "home_team": "Priory Celtic F.C. U12 Girls",
-      "away_team": "Matlock Town Junior U12 Girls Gladiators",
-      "venue": "THE KIMBERLEY SCHOOL",
-      "division": "U12 Div 4"
     }
   ]
 }

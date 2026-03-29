@@ -1,7 +1,7 @@
 {
   "team": "Collingham FC Development",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
     {
       "id": "60e4749a0efea129c9fec404c9e45e5e",
@@ -13,17 +13,6 @@
       "division": "Development Spring Division One",
       "home_away": "away",
       "opponent": "West Bridgford Development"
-    },
-    {
-      "id": "3bc6ca9747034f6a6d02b5aa3acfc55c",
-      "date": "2026-03-28",
-      "time": "10:30",
-      "home_team": "Bingham Town F.C. Development",
-      "away_team": "Collingham FC Development",
-      "venue": "Butt Field",
-      "division": "Development Spring Division One",
-      "home_away": "away",
-      "opponent": "Bingham Town F.C. Development"
     },
     {
       "id": "5b55e2c03885dbf24a148860e3b1d52b",
@@ -170,6 +159,21 @@
     }
   ],
   "results": [
+    {
+      "id": "3bc6ca9747034f6a6d02b5aa3acfc55c",
+      "date": "2026-03-28",
+      "time": "10:30",
+      "home_team": "Bingham Town F.C. Development",
+      "away_team": "Collingham FC Development",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "away",
+      "opponent": "Bingham Town F.C. Development",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "c68e1a04ae6bb54575cc5cc380f14bb0",
       "date": "2026-03-21",

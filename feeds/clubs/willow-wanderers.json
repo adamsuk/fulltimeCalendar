@@ -1,20 +1,7 @@
 {
   "club": "Willow Wanderers",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "30ade7f66a0201e5efc36744bbda4c7f",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Willow Wanderers Hornets U10",
-      "away_team": "Bottesford Blue U10",
-      "venue": "Carlton le Willows School NG4 4AA",
-      "division": "U10 Sat Spring Div 7 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Willow Wanderers Hornets U10",
-      "home_away": "home",
-      "opponent": "Bottesford Blue U10"
-    },
     {
       "id": "97e28d827c2cc56198deeffd0442841c",
       "date": "2026-03-29",
@@ -472,6 +459,23 @@
     }
   ],
   "results": [
+    {
+      "id": "30ade7f66a0201e5efc36744bbda4c7f",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Willow Wanderers Hornets U10",
+      "away_team": "Bottesford Blue U10",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sat Spring Div 7 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Willow Wanderers Hornets U10",
+      "home_away": "home",
+      "opponent": "Bottesford Blue U10",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "8608b8d44e016c19f9a33c4141981343",
       "date": "2026-03-22",

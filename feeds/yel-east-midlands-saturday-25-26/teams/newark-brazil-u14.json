@@ -1,19 +1,8 @@
 {
   "team": "Newark Brazil U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "2326226dd422b228cf42dbb882431596",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "home_team": "Sports Gtway Hurricanes U14",
-      "away_team": "Newark Brazil U14",
-      "venue": "Papplewick Green NG15 8HZ",
-      "division": "U14 Sat Spring Div 5 Red",
-      "home_away": "away",
-      "opponent": "Sports Gtway Hurricanes U14"
-    },
     {
       "id": "4cb17086b3fbd0f8a580d59c25e463b2",
       "date": "2026-04-18",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2326226dd422b228cf42dbb882431596",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Sports Gtway Hurricanes U14",
+      "away_team": "Newark Brazil U14",
+      "home_score": 6,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sat Spring Div 5 Red",
+      "home_away": "away",
+      "opponent": "Sports Gtway Hurricanes U14",
+      "goals_for": 2,
+      "goals_against": 6
+    },
     {
       "id": "a4e7a975f9170fd1c67bfb03bf01b658",
       "date": "2026-03-21",

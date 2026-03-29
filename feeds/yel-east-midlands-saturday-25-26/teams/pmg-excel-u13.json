@@ -1,19 +1,8 @@
 {
   "team": "PMG Excel U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "169b8e82be32eced2d3078da5493598b",
-      "date": "2026-03-28",
-      "time": "12:00",
-      "home_team": "Quarrydale United U13",
-      "away_team": "PMG Excel U13",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U13 Sat Spring Div 2 Red",
-      "home_away": "away",
-      "opponent": "Quarrydale United U13"
-    },
     {
       "id": "9910999a4cb543d42476e34fdbda5bf9",
       "date": "2026-04-14",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "169b8e82be32eced2d3078da5493598b",
+      "date": "2026-03-28",
+      "time": "12:00",
+      "home_team": "Quarrydale United U13",
+      "away_team": "PMG Excel U13",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat Spring Div 2 Red",
+      "home_away": "away",
+      "opponent": "Quarrydale United U13",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "b7c636a20153b1546ad13b4a6455fb1e",
       "date": "2026-03-21",

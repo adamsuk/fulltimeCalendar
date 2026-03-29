@@ -1,19 +1,8 @@
 {
   "team": "AJ Sport FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "00f5765e7545b1fb19c11df887d018d7",
-      "date": "2026-03-28",
-      "time": "15:00",
-      "home_team": "Arnold Town Reserves",
-      "away_team": "AJ Sport FC",
-      "venue": "EAGLE VALLEY #2",
-      "division": "NSL Division Two",
-      "home_away": "away",
-      "opponent": "Arnold Town Reserves"
-    },
     {
       "id": "dbb1e64b5253087d8bf6dcf3cd6ec586",
       "date": "2026-04-04",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "00f5765e7545b1fb19c11df887d018d7",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "Arnold Town Reserves",
+      "away_team": "AJ Sport FC",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "NSL Division Two",
+      "home_away": "away",
+      "opponent": "Arnold Town Reserves",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "cb662fc43bfcb9dbfc9f5f341544fc3c",
       "date": "2026-03-21",

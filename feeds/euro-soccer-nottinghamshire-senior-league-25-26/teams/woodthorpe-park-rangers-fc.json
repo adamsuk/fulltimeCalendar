@@ -1,19 +1,8 @@
 {
   "team": "Woodthorpe Park Rangers FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "4e418ed715d2e1336bdaa3149eeb3025",
-      "date": "2026-03-28",
-      "time": "15:00",
-      "home_team": "Woodthorpe Park Rangers FC",
-      "away_team": "Notts Olympic FC",
-      "venue": "EAGLE VALLEY #1",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "home",
-      "opponent": "Notts Olympic FC"
-    },
     {
       "id": "03891028caa2f228ba8fecec4c034d12",
       "date": "2026-04-04",
@@ -115,6 +104,21 @@
     }
   ],
   "results": [
+    {
+      "id": "4e418ed715d2e1336bdaa3149eeb3025",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "Woodthorpe Park Rangers FC",
+      "away_team": "Notts Olympic FC",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "home",
+      "opponent": "Notts Olympic FC",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "a0750b782cccc709ca92a8538231e168",
       "date": "2026-03-24",

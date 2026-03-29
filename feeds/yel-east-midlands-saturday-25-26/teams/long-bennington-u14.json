@@ -1,19 +1,8 @@
 {
   "team": "Long Bennington U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "1f7e01dd67578476180a165a833380d4",
-      "date": "2026-03-28",
-      "time": "10:30",
-      "home_team": "Long Bennington U14",
-      "away_team": "Keyworth United Green U14",
-      "venue": "Long Bennington QE2 Plyng Fld  NG23 5DJ",
-      "division": "U14 Sat Spring Div 7",
-      "home_away": "home",
-      "opponent": "Keyworth United Green U14"
-    },
     {
       "id": "0e44e49d850ab386a3cd5049d954c852",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "1f7e01dd67578476180a165a833380d4",
+      "date": "2026-03-28",
+      "time": "10:30",
+      "home_team": "Long Bennington U14",
+      "away_team": "Keyworth United Green U14",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Sat Spring Div 7",
+      "home_away": "home",
+      "opponent": "Keyworth United Green U14",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "1cb63d351611b474707e6c417843b444",
       "date": "2026-03-21",

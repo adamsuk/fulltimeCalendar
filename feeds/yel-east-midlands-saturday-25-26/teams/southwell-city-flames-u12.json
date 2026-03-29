@@ -1,19 +1,8 @@
 {
   "team": "Southwell City Flames U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "494e2de676afa8555b1bb86930165e70",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Bottesford Blue U12",
-      "away_team": "Southwell City Flames U12",
-      "venue": "Nottingham Rd, Bottesford  NG13 0AP",
-      "division": "U12 Sat Spring Div 6 Blue",
-      "home_away": "away",
-      "opponent": "Bottesford Blue U12"
-    },
     {
       "id": "41dcff2eb2bfb817c5275e3415adf30c",
       "date": "2026-04-18",
@@ -24,9 +13,35 @@
       "division": "U12 Sat Spring Div 6 Blue",
       "home_away": "home",
       "opponent": "Bingham Town White U12"
+    },
+    {
+      "id": "1387297eaf48d2850e02540cb77b2a16",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Southwell City Flames U12",
+      "away_team": "Spirit Celtic U12",
+      "venue": "Southwell City FC  NG25 0JP",
+      "division": "U12 Sat YEL Challenge Trophy",
+      "home_away": "home",
+      "opponent": "Spirit Celtic U12"
     }
   ],
   "results": [
+    {
+      "id": "494e2de676afa8555b1bb86930165e70",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Bottesford Blue U12",
+      "away_team": "Southwell City Flames U12",
+      "home_score": 13,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sat Spring Div 6 Blue",
+      "home_away": "away",
+      "opponent": "Bottesford Blue U12",
+      "goals_for": 2,
+      "goals_against": 13
+    },
     {
       "id": "a26fe81d3ef2aa2e664a43f0fd7ee583",
       "date": "2026-03-21",

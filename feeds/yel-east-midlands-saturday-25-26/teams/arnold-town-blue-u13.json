@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town Blue U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "0530a9669cc7ac78e50bb4d135c37525",
-      "date": "2026-03-28",
-      "time": "12:30",
-      "home_team": "Arnold Town Blue U13",
-      "away_team": "Collingham FC Lions U13",
-      "venue": "Eagle Valley NG5 8PS",
-      "division": "U13 Sat Spring Div 6 Red",
-      "home_away": "home",
-      "opponent": "Collingham FC Lions U13"
-    },
     {
       "id": "a51b3eb25d2b9aec677d0e58760b26a9",
       "date": "2026-04-14",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0530a9669cc7ac78e50bb4d135c37525",
+      "date": "2026-03-28",
+      "time": "12:30",
+      "home_team": "Arnold Town Blue U13",
+      "away_team": "Collingham FC Lions U13",
+      "home_score": 10,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat Spring Div 6 Red",
+      "home_away": "home",
+      "opponent": "Collingham FC Lions U13",
+      "goals_for": 10,
+      "goals_against": 1
+    },
     {
       "id": "518b0ecb3931b192a77bdf8df2cf80e9",
       "date": "2026-03-21",

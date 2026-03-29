@@ -1,19 +1,8 @@
 {
   "team": "West Hallam Harriers U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "d290f0a5d5048d95f716371a224eec81",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "West Hallam Harriers U9",
-      "away_team": "Nottingham FC Blue U9",
-      "venue": "The Recreation Ground DE7 6FF",
-      "division": "U9 Sat Spring Div 7 Green",
-      "home_away": "home",
-      "opponent": "Nottingham FC Blue U9"
-    },
     {
       "id": "922feeea0b40ad0659940186f239a42c",
       "date": "2026-04-18",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d290f0a5d5048d95f716371a224eec81",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "West Hallam Harriers U9",
+      "away_team": "Nottingham FC Blue U9",
+      "home_score": 8,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sat Spring Div 7 Green",
+      "home_away": "home",
+      "opponent": "Nottingham FC Blue U9",
+      "goals_for": 8,
+      "goals_against": 0
+    },
     {
       "id": "71e590a5569a38f991d89dec725e4357",
       "date": "2026-03-21",

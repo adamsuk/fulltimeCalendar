@@ -1,19 +1,8 @@
 {
   "team": "Pass Move Grin Excel FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "b827fd22305dd7f9a67bc76e3130c3d3",
-      "date": "2026-03-28",
-      "time": "15:00",
-      "home_team": "East Leake Robins FC",
-      "away_team": "Pass Move Grin Excel FC",
-      "venue": "EAST LEAKE PLAYING FIELDS",
-      "division": "NSL Division One",
-      "home_away": "away",
-      "opponent": "East Leake Robins FC"
-    },
     {
       "id": "ecbc54c3dcfff3343e4db448c9bc41f4",
       "date": "2026-04-11",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b827fd22305dd7f9a67bc76e3130c3d3",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "East Leake Robins FC",
+      "away_team": "Pass Move Grin Excel FC",
+      "home_score": 3,
+      "away_score": 5,
+      "venue": "",
+      "division": "NSL Division One",
+      "home_away": "away",
+      "opponent": "East Leake Robins FC",
+      "goals_for": 5,
+      "goals_against": 3
+    },
     {
       "id": "9f1c49676c34d56afa6bab118f091d2a",
       "date": "2026-03-21",

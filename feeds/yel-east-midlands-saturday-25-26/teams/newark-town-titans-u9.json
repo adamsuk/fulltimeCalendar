@@ -1,19 +1,8 @@
 {
   "team": "Newark Town Titans U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "2b3b495a6701315e23d25b8a5736da69",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic Red U9",
-      "away_team": "Newark Town Titans U9",
-      "venue": "Radcliffe-on-Trent Cricket Club NG12 2DU",
-      "division": "U9 Sat Spring Div 4 Red",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic Red U9"
-    },
     {
       "id": "2817847610d8fec1504390aa638d1f87",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2b3b495a6701315e23d25b8a5736da69",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic Red U9",
+      "away_team": "Newark Town Titans U9",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 4 Red",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic Red U9",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "e8d7ff75dff5e4e217d0c147227ba2be",
       "date": "2026-03-21",

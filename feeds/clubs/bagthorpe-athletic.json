@@ -1,20 +1,7 @@
 {
   "club": "Bagthorpe Athletic",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "27cea6450e2ef52b0a765c28936e0f1a",
-      "date": "2026-03-28",
-      "time": "11:15",
-      "home_team": "Stapleford Town Warriors U11",
-      "away_team": "Bagthorpe Athletic U11",
-      "venue": "Ilkeston Road Recreation Ground  NG9 8PY",
-      "division": "U11 Sat Spring Div 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Bagthorpe Athletic U11",
-      "home_away": "away",
-      "opponent": "Stapleford Town Warriors U11"
-    },
     {
       "id": "12e139f0b3ccb1d89859e5a37053b7ee",
       "date": "2026-03-29",
@@ -264,6 +251,23 @@
     }
   ],
   "results": [
+    {
+      "id": "27cea6450e2ef52b0a765c28936e0f1a",
+      "date": "2026-03-28",
+      "time": "11:15",
+      "home_team": "Stapleford Town Warriors U11",
+      "away_team": "Bagthorpe Athletic U11",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Bagthorpe Athletic U11",
+      "home_away": "away",
+      "opponent": "Stapleford Town Warriors U11",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "1c3e65762707d576113c84f378b68b30",
       "date": "2026-03-22",

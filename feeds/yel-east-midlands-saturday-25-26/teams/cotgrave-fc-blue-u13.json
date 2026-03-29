@@ -1,19 +1,8 @@
 {
   "team": "Cotgrave FC Blue U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "0ef91f6d59c89787497bb2d02d86cc01",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "home_team": "Cotgrave FC Blue U13",
-      "away_team": "Alfreton Town Tigers U13",
-      "venue": "Sheldon Fields  NG12 3AB",
-      "division": "U13 Sat Spring Div 3 Red",
-      "home_away": "home",
-      "opponent": "Alfreton Town Tigers U13"
-    },
     {
       "id": "39cbb0c4780bf34c974cf47f1a7f3a25",
       "date": "2026-04-18",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0ef91f6d59c89787497bb2d02d86cc01",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Cotgrave FC Blue U13",
+      "away_team": "Alfreton Town Tigers U13",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Spring Div 3 Red",
+      "home_away": "home",
+      "opponent": "Alfreton Town Tigers U13",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "faf5b7d4e7d864f078b0e5b67e21e1c7",
       "date": "2026-03-14",

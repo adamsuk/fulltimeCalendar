@@ -1,19 +1,8 @@
 {
   "team": "Hucknall Town Warriors U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "19af72cc9053d3159aa858a7e15a52e7",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Eastwood CFC Phoenix U10",
-      "away_team": "Hucknall Town Warriors U10",
-      "venue": "Coronation Park  NG16 3HB",
-      "division": "U10 Sat Spring Div 5 Red",
-      "home_away": "away",
-      "opponent": "Eastwood CFC Phoenix U10"
-    },
     {
       "id": "92a463a1d0f17291eb8eacf3fb534fb3",
       "date": "2026-04-14",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "19af72cc9053d3159aa858a7e15a52e7",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Eastwood CFC Phoenix U10",
+      "away_team": "Hucknall Town Warriors U10",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 5 Red",
+      "home_away": "away",
+      "opponent": "Eastwood CFC Phoenix U10",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "198e3dd6d519f325ae96f819261e45f0",
       "date": "2026-03-14",

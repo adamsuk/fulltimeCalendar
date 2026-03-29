@@ -1,20 +1,7 @@
 {
   "club": "Newton & Blackwell",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "f7c13513051e59772a62408d5311b151",
-      "date": "2026-03-28",
-      "time": "11:30",
-      "home_team": "Newton & Blackwell Storm U11",
-      "away_team": "DLFC Orange U11",
-      "venue": "Scanderlands Pavilion DE55 5JJ",
-      "division": "U11 Sat Spring Div 7 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Newton & Blackwell Storm U11",
-      "home_away": "home",
-      "opponent": "DLFC Orange U11"
-    },
     {
       "id": "57043b2f73866769637819bca196fbf3",
       "date": "2026-03-29",
@@ -121,6 +108,23 @@
     }
   ],
   "results": [
+    {
+      "id": "f7c13513051e59772a62408d5311b151",
+      "date": "2026-03-28",
+      "time": "11:30",
+      "home_team": "Newton & Blackwell Storm U11",
+      "away_team": "DLFC Orange U11",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Newton & Blackwell Storm U11",
+      "home_away": "home",
+      "opponent": "DLFC Orange U11",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "60c18bea2b897bbf0b5a12f6e5404e1e",
       "date": "2026-03-22",

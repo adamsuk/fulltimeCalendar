@@ -1,19 +1,8 @@
 {
   "team": "Shirebrook Rangers U7",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "f7a1a707f2f5234e094b688a30a576f9",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Shirebrook Rangers U7",
-      "away_team": "Lowdham FC Red U7",
-      "venue": "Shirebrook Academy  NG20 8QF",
-      "division": "U7 Sat Spring 4 Red",
-      "home_away": "home",
-      "opponent": "Lowdham FC Red U7"
-    },
     {
       "id": "45d5a9d269aaaabafbe2b6d8d45d6302",
       "date": "2026-04-11",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f7a1a707f2f5234e094b688a30a576f9",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers U7",
+      "away_team": "Lowdham FC Red U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 4 Red",
+      "home_away": "home",
+      "opponent": "Lowdham FC Red U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "75e6923b60dec39a440756ac691a96fb",
       "date": "2026-03-21",

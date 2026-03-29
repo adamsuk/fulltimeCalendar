@@ -1,19 +1,8 @@
 {
   "team": "Newark Brazil Santos U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "b0f0e6bb90c98d5d1d9940285c034549",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Bingham Town Blue U9",
-      "away_team": "Newark Brazil Santos U9",
-      "venue": "Butt Field NG13 8GG",
-      "division": "U9 Sat Spring Div 6 Red",
-      "home_away": "away",
-      "opponent": "Bingham Town Blue U9"
-    },
     {
       "id": "52e59b32bc70dcd6fca096c9abe96de5",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b0f0e6bb90c98d5d1d9940285c034549",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Bingham Town Blue U9",
+      "away_team": "Newark Brazil Santos U9",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat Spring Div 6 Red",
+      "home_away": "away",
+      "opponent": "Bingham Town Blue U9",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "30d8fa476f331c277e45059763debfaf",
       "date": "2026-03-21",

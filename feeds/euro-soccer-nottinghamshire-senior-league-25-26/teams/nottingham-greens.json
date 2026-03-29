@@ -1,19 +1,8 @@
 {
   "team": "Nottingham Greens",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "61455a4e5128cbe230a2a7fcf50c6954",
-      "date": "2026-03-28",
-      "time": "15:00",
-      "home_team": "Nottingham Greens",
-      "away_team": "Harrowby United Reserves",
-      "venue": "GRESHAM SPORTS PARK #1",
-      "division": "NSL Division Three",
-      "home_away": "home",
-      "opponent": "Harrowby United Reserves"
-    },
     {
       "id": "41331a777a3cd358f92700cb1c351070",
       "date": "2026-04-04",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "61455a4e5128cbe230a2a7fcf50c6954",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "Nottingham Greens",
+      "away_team": "Harrowby United Reserves",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "home",
+      "opponent": "Harrowby United Reserves",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "ab722a9cf27570c83ea41e481d19dc6e",
       "date": "2026-03-21",

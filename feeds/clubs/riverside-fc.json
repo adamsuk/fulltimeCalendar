@@ -1,33 +1,7 @@
 {
   "club": "Riverside FC",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "51ef9bfe810e2428e0bb144a80458ab3",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Riverside FC Jets U10",
-      "away_team": "Pegasus FC U10",
-      "venue": "Melbourne Court NG10 3EE",
-      "division": "U10 Sat Spring Div 3 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Riverside FC Jets U10",
-      "home_away": "home",
-      "opponent": "Pegasus FC U10"
-    },
-    {
-      "id": "3c888a7a91f6becd60fdbc708f269147",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "home_team": "Riverside FC Tides U14",
-      "away_team": "Edwalton Cavaliers White U14",
-      "venue": "Long Eaton School  NG10 3NP",
-      "division": "U14 Sat Spring Div 6 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Riverside FC Tides U14",
-      "home_away": "home",
-      "opponent": "Edwalton Cavaliers White U14"
-    },
     {
       "id": "75cbaa06012b6f0d939ed6977eee1eea",
       "date": "2026-03-29",
@@ -186,6 +160,40 @@
     }
   ],
   "results": [
+    {
+      "id": "3c888a7a91f6becd60fdbc708f269147",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Riverside FC Tides U14",
+      "away_team": "Edwalton Cavaliers White U14",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sat Spring Div 6 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Riverside FC Tides U14",
+      "home_away": "home",
+      "opponent": "Edwalton Cavaliers White U14",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
+      "id": "51ef9bfe810e2428e0bb144a80458ab3",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Riverside FC Jets U10",
+      "away_team": "Pegasus FC U10",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sat Spring Div 3 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Riverside FC Jets U10",
+      "home_away": "home",
+      "opponent": "Pegasus FC U10",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "4fde5859faf5bbd3c35346da0d987b83",
       "date": "2026-03-22",

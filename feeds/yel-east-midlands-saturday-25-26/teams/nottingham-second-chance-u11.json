@@ -1,19 +1,8 @@
 {
   "team": "Nottingham Second Chance U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "90947ed6b5aa0cb595624cfc422a7087",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Robin Hood Colts U11",
-      "away_team": "Nottingham Second Chance U11",
-      "venue": "Sherwood Fields, Edwinstowe NG21 9PN",
-      "division": "U11 Sat Spring Div 7 Red",
-      "home_away": "away",
-      "opponent": "Robin Hood Colts U11"
-    },
     {
       "id": "2d8825693bc925f6dc3323cc5c1f8ace",
       "date": "2026-04-14",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "90947ed6b5aa0cb595624cfc422a7087",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Robin Hood Colts U11",
+      "away_team": "Nottingham Second Chance U11",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 7 Red",
+      "home_away": "away",
+      "opponent": "Robin Hood Colts U11",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "d5d0f56a62855c4f9b40e3756f5f0221",
       "date": "2026-03-21",

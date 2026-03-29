@@ -1,19 +1,8 @@
 {
   "team": "Radcliffe Olympic Outlaws U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "5f5fbfd3b1628686003b65741cfa1a97",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic Outlaws U14",
-      "away_team": "Calverton MW White U14",
-      "venue": "Bingham Road NG12 2GP",
-      "division": "U14 Sat Spring Div 7",
-      "home_away": "home",
-      "opponent": "Calverton MW White U14"
-    },
     {
       "id": "df0d01154da168d7aebbbf063dae1f5e",
       "date": "2026-04-14",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5f5fbfd3b1628686003b65741cfa1a97",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic Outlaws U14",
+      "away_team": "Calverton MW White U14",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sat Spring Div 7",
+      "home_away": "home",
+      "opponent": "Calverton MW White U14",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "1cb63d351611b474707e6c417843b444",
       "date": "2026-03-21",

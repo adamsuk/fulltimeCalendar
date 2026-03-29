@@ -1,19 +1,8 @@
 {
   "team": "Club FDNA Madrid U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "a28bdba82d99abb5840bcc25d0d54289",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "AJ Sport Red U10",
-      "away_team": "Club FDNA Madrid U10",
-      "venue": "Beeston Fields Recreation Ground NG9 2QT",
-      "division": "U10 Sat Spring Div 3 Green",
-      "home_away": "away",
-      "opponent": "AJ Sport Red U10"
-    },
     {
       "id": "b188a65f92fd779c8da420d6f326cb6c",
       "date": "2026-04-18",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a28bdba82d99abb5840bcc25d0d54289",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "AJ Sport Red U10",
+      "away_team": "Club FDNA Madrid U10",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 3 Green",
+      "home_away": "away",
+      "opponent": "AJ Sport Red U10",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "f2fef4342d8d9717331d9d61c78f3514",
       "date": "2026-03-21",

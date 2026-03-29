@@ -1,19 +1,8 @@
 {
   "team": "DLFC Purple U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "5a828d5fad96b2b25ca5232fb6c438c8",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Keyworth United Red U9",
-      "away_team": "DLFC Purple U9",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U9 Sat Spring Div 9 Red",
-      "home_away": "away",
-      "opponent": "Keyworth United Red U9"
-    },
     {
       "id": "9e31ebc5cff1b60084aa86b20332f0a0",
       "date": "2026-04-18",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5a828d5fad96b2b25ca5232fb6c438c8",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Keyworth United Red U9",
+      "away_team": "DLFC Purple U9",
+      "home_score": 1,
+      "away_score": 7,
+      "venue": "",
+      "division": "U9 Sat Spring Div 9 Red",
+      "home_away": "away",
+      "opponent": "Keyworth United Red U9",
+      "goals_for": 7,
+      "goals_against": 1
+    },
     {
       "id": "f198f098a90060b075a2d5598cbe0cce",
       "date": "2026-03-21",

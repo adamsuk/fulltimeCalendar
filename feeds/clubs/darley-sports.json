@@ -1,20 +1,7 @@
 {
   "club": "Darley Sports",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "52a49b6772ffa09aad11678b3a3aa53d",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Darley Sports Lions 2 U12",
-      "away_team": "Allexton & New Parks Magpies U12",
-      "venue": "Varsity Grange Football Complex DE3 9EB",
-      "division": "U12 Sat Spring Div 1 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Darley Sports Lions 2 U12",
-      "home_away": "home",
-      "opponent": "Allexton & New Parks Magpies U12"
-    },
     {
       "id": "179b3d4f8e0bf8a8f7c1265a4096fb98",
       "date": "2026-04-18",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "52a49b6772ffa09aad11678b3a3aa53d",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Darley Sports Lions 2 U12",
+      "away_team": "Allexton & New Parks Magpies U12",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sat Spring Div 1 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Darley Sports Lions 2 U12",
+      "home_away": "home",
+      "opponent": "Allexton & New Parks Magpies U12",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "c65cea84054c72a14012632918e0b6c0",
       "date": "2026-03-21",

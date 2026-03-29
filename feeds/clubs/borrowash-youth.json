@@ -1,33 +1,7 @@
 {
   "club": "Borrowash Youth",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "873c108bcc271b800af49800007932b4",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Breaston Park Green U7",
-      "away_team": "Borrowash Youth Lynx U7",
-      "venue": "Soldiers & Sailors Pitch DE72 3TT",
-      "division": "U7 Sat Spring 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Borrowash Youth Lynx U7",
-      "home_away": "away",
-      "opponent": "Breaston Park Green U7"
-    },
-    {
-      "id": "54b81431abeff49ce616bf7ab889f984",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "home_team": "Clay Cross Town Bulldogs U11",
-      "away_team": "Borrowash Youth Rams U11",
-      "venue": "King George V Playing Field S42 5PE",
-      "division": "U11 Sat Spring Div 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Borrowash Youth Rams U11",
-      "home_away": "away",
-      "opponent": "Clay Cross Town Bulldogs U11"
-    },
     {
       "id": "3dcc0a039acef361d2d7fe099756cdf8",
       "date": "2026-03-29",
@@ -251,6 +225,40 @@
     }
   ],
   "results": [
+    {
+      "id": "54b81431abeff49ce616bf7ab889f984",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Clay Cross Town Bulldogs U11",
+      "away_team": "Borrowash Youth Rams U11",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Borrowash Youth Rams U11",
+      "home_away": "away",
+      "opponent": "Clay Cross Town Bulldogs U11",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "873c108bcc271b800af49800007932b4",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Breaston Park Green U7",
+      "away_team": "Borrowash Youth Lynx U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Borrowash Youth Lynx U7",
+      "home_away": "away",
+      "opponent": "Breaston Park Green U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "924db01eb622ffebc59b89d0606b40de",
       "date": "2026-03-22",

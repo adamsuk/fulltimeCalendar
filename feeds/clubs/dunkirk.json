@@ -1,20 +1,7 @@
 {
   "club": "Dunkirk",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "04d958ebe683803dd021294552bd5396",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "home_team": "Dunkirk U11",
-      "away_team": "PMG Engage U11",
-      "venue": "Ron Steel Sports Ground  NG7 2SA",
-      "division": "U11 Sat Spring Div 5 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Dunkirk U11",
-      "home_away": "home",
-      "opponent": "PMG Engage U11"
-    },
     {
       "id": "d566d4f3c305713e15e2adff9f797fe8",
       "date": "2026-03-29",
@@ -186,6 +173,23 @@
     }
   ],
   "results": [
+    {
+      "id": "04d958ebe683803dd021294552bd5396",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Dunkirk U11",
+      "away_team": "PMG Engage U11",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U11 Sat Spring Div 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Dunkirk U11",
+      "home_away": "home",
+      "opponent": "PMG Engage U11",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "e4e0990c447b72deceb81b73dda9e579",
       "date": "2026-03-22",

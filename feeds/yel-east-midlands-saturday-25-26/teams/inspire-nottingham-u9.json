@@ -1,19 +1,8 @@
 {
   "team": "Inspire Nottingham U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "5debc63462c3fc8c4e3b03cd1a881b56",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Inspire Nottingham U9",
-      "away_team": "Southwell City Magpies U9",
-      "venue": "Powerleague Arnold NG5 6NZ",
-      "division": "U9 Sat Spring Div 2 Blue",
-      "home_away": "home",
-      "opponent": "Southwell City Magpies U9"
-    },
     {
       "id": "d4262fdd00fbbbaf000642233c175357",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5debc63462c3fc8c4e3b03cd1a881b56",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Inspire Nottingham U9",
+      "away_team": "Southwell City Magpies U9",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "",
+      "division": "U9 Sat Spring Div 2 Blue",
+      "home_away": "home",
+      "opponent": "Southwell City Magpies U9",
+      "goals_for": 3,
+      "goals_against": 4
+    },
     {
       "id": "2ade9acfb65d4e9991d8d642a12f23b0",
       "date": "2026-03-21",

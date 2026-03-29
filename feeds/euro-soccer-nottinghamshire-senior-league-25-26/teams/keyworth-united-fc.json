@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "8d67048f7a2b175b7dd3de25e720ac7d",
-      "date": "2026-03-28",
-      "time": "15:00",
-      "home_team": "Beeston FC",
-      "away_team": "Keyworth United FC",
-      "venue": "Trent Vale Road Sports Ground",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Beeston FC"
-    },
     {
       "id": "92c06819b43b6630525ef676dd1c5e7c",
       "date": "2026-04-04",
@@ -93,6 +82,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8d67048f7a2b175b7dd3de25e720ac7d",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "Beeston FC",
+      "away_team": "Keyworth United FC",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Beeston FC",
+      "goals_for": 5,
+      "goals_against": 2
+    },
     {
       "id": "afc1b5f772234695bd9c74ce0098eab3",
       "date": "2026-03-21",

@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United Kobras U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "742f53fd3f752c37dc3f5bea52702ea3",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Keyworth United Kobras U12",
-      "away_team": "Eastwood Ath Red Devils U12",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U12 Sat Spring Div 7 Gold",
-      "home_away": "home",
-      "opponent": "Eastwood Ath Red Devils U12"
-    },
     {
       "id": "47066c0f0819113f2babccef7abd2695",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "742f53fd3f752c37dc3f5bea52702ea3",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Keyworth United Kobras U12",
+      "away_team": "Eastwood Ath Red Devils U12",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U12 Sat Spring Div 7 Gold",
+      "home_away": "home",
+      "opponent": "Eastwood Ath Red Devils U12",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "a6a002c6dcec0a15cf613c39717abe94",
       "date": "2026-03-21",

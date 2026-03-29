@@ -1,19 +1,8 @@
 {
   "team": "FC Cavaliers",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "6e1697d339645b2eb4a929041822ef3d",
-      "date": "2026-03-28",
-      "time": "15:00",
-      "home_team": "Collingham FC",
-      "away_team": "FC Cavaliers",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Collingham FC"
-    },
     {
       "id": "36985dbc66f5ba27202b0b4b471941bc",
       "date": "2026-04-04",
@@ -93,6 +82,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6e1697d339645b2eb4a929041822ef3d",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "Collingham FC",
+      "away_team": "FC Cavaliers",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Collingham FC",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "f05a406eb7fe7ae8a1de820869620c0c",
       "date": "2026-03-21",

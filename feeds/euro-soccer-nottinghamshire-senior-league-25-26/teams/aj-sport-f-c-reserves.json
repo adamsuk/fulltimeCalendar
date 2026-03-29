@@ -1,19 +1,8 @@
 {
   "team": "AJ Sport F.C. Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "2d751f4ac64ad1966c562fe98d004e32",
-      "date": "2026-03-28",
-      "time": "15:00",
-      "home_team": "Robin Hood Colts FC",
-      "away_team": "AJ Sport F.C. Reserves",
-      "venue": "SHERWOOD FIELDS (ROBIN HOOD COLTS FC)",
-      "division": "NSL Division Three",
-      "home_away": "away",
-      "opponent": "Robin Hood Colts FC"
-    },
     {
       "id": "6cf2b543cd315c5e29610b0673c1a237",
       "date": "2026-04-04",
@@ -104,6 +93,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2d751f4ac64ad1966c562fe98d004e32",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "Robin Hood Colts FC",
+      "away_team": "AJ Sport F.C. Reserves",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "away",
+      "opponent": "Robin Hood Colts FC",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "280e2d2f83bb11bb75baeea1d665671f",
       "date": "2026-03-21",

@@ -1,19 +1,8 @@
 {
   "team": "Walesby FC White U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "423e16e1ebf879582d258cd9b67585e5",
-      "date": "2026-03-28",
-      "time": "11:30",
-      "home_team": "Beaufort United Black U14",
-      "away_team": "Walesby FC White U14",
-      "venue": "Unwin Road  NG17 4HT",
-      "division": "U14 Sat Spring Div 6 Red",
-      "home_away": "away",
-      "opponent": "Beaufort United Black U14"
-    },
     {
       "id": "14ececf5be9b6daca2d20c73945fed09",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "423e16e1ebf879582d258cd9b67585e5",
+      "date": "2026-03-28",
+      "time": "11:30",
+      "home_team": "Beaufort United Black U14",
+      "away_team": "Walesby FC White U14",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Sat Spring Div 6 Red",
+      "home_away": "away",
+      "opponent": "Beaufort United Black U14",
+      "goals_for": 3,
+      "goals_against": 4
+    },
     {
       "id": "a777692cfc7821c5bdeb39bd3ea1ff8f",
       "date": "2026-03-21",

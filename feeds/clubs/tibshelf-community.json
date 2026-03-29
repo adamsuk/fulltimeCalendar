@@ -1,20 +1,7 @@
 {
   "club": "Tibshelf Community",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "46281d3289b5392d3a0b5f66317c0871",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "DLFC Red U10",
-      "away_team": "Tibshelf Community U10",
-      "venue": "Newton Parish Ground DE55 5SH",
-      "division": "U10 Sat Spring Div 2 Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Tibshelf Community U10",
-      "home_away": "away",
-      "opponent": "DLFC Red U10"
-    },
     {
       "id": "e6b19af54e85f49861511e3f01e75dbc",
       "date": "2026-04-11",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "46281d3289b5392d3a0b5f66317c0871",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "DLFC Red U10",
+      "away_team": "Tibshelf Community U10",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sat Spring Div 2 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf Community U10",
+      "home_away": "away",
+      "opponent": "DLFC Red U10",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "4683121a4994b1a67877b4975a6a8456",
       "date": "2026-03-21",

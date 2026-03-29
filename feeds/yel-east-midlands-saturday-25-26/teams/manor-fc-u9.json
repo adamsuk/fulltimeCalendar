@@ -1,19 +1,8 @@
 {
   "team": "Manor FC U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "940cad7d98b93ddc4cbd0b1a4ced3d7d",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Underwood Villa Panthers U9",
-      "away_team": "Manor FC U9",
-      "venue": "Bracken Park NG16 5FG",
-      "division": "U9 Sat Spring Div 3 Red",
-      "home_away": "away",
-      "opponent": "Underwood Villa Panthers U9"
-    },
     {
       "id": "d1265e59daea39068b13dccbe0f164a8",
       "date": "2026-04-18",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "940cad7d98b93ddc4cbd0b1a4ced3d7d",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Underwood Villa Panthers U9",
+      "away_team": "Manor FC U9",
+      "home_score": 6,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat Spring Div 3 Red",
+      "home_away": "away",
+      "opponent": "Underwood Villa Panthers U9",
+      "goals_for": 3,
+      "goals_against": 6
+    },
     {
       "id": "4679cf94b3f2d81637f7fc6ee1ec0705",
       "date": "2026-03-21",

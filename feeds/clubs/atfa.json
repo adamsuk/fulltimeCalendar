@@ -1,33 +1,7 @@
 {
   "club": "ATFA",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "408d439d9a581aaa7d5ff56caf77e389",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "ATFA Brinsley Devils U12",
-      "away_team": "AFC Chellaston Raiders U12",
-      "venue": "Brinsley Recreation Ground NG16 5AY",
-      "division": "U12 Sat Spring Div 6 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "ATFA Brinsley Devils U12",
-      "home_away": "home",
-      "opponent": "AFC Chellaston Raiders U12"
-    },
-    {
-      "id": "bd7028eef79cb0b97f2a98d5d313b181",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "ATFA Brinsley Eagles U8",
-      "away_team": "Silva FC Carlton Miami U8",
-      "venue": "Brinsley Parish Council NG163HB",
-      "division": "U8 Sat Spring 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "ATFA Brinsley Eagles U8",
-      "home_away": "home",
-      "opponent": "Silva FC Carlton Miami U8"
-    },
     {
       "id": "80dd8745902bb0cc0cc80caa673d69ae",
       "date": "2026-03-29",
@@ -173,6 +147,40 @@
     }
   ],
   "results": [
+    {
+      "id": "408d439d9a581aaa7d5ff56caf77e389",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "ATFA Brinsley Devils U12",
+      "away_team": "AFC Chellaston Raiders U12",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "ATFA Brinsley Devils U12",
+      "home_away": "home",
+      "opponent": "AFC Chellaston Raiders U12",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
+      "id": "bd7028eef79cb0b97f2a98d5d313b181",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "ATFA Brinsley Eagles U8",
+      "away_team": "Silva FC Carlton Miami U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "ATFA Brinsley Eagles U8",
+      "home_away": "home",
+      "opponent": "Silva FC Carlton Miami U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "737b8b6fa14d72917d2fd310a3666c92",
       "date": "2026-03-22",

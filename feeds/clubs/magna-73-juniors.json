@@ -1,20 +1,7 @@
 {
   "club": "Magna 73 Juniors",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "b684a26c6ee99e4fd730d867acdac1ec",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Magna 73 Juniors U10",
-      "away_team": "Keyworth United Green U10",
-      "venue": "Meadows Sports Ground LE8 5QW",
-      "division": "U10 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Magna 73 Juniors U10",
-      "home_away": "home",
-      "opponent": "Keyworth United Green U10"
-    },
     {
       "id": "5f8b11691f724a00a9b8f0abc530e5df",
       "date": "2026-04-18",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "b684a26c6ee99e4fd730d867acdac1ec",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Magna 73 Juniors U10",
+      "away_team": "Keyworth United Green U10",
+      "home_score": 10,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Magna 73 Juniors U10",
+      "home_away": "home",
+      "opponent": "Keyworth United Green U10",
+      "goals_for": 10,
+      "goals_against": 2
+    },
     {
       "id": "5ef68a81b6ca127433167bdd5baa9a7b",
       "date": "2026-03-21",

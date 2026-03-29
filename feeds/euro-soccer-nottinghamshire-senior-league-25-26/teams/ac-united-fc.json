@@ -1,19 +1,8 @@
 {
   "team": "AC United FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "ed5ee293dfc43858c07c3014d1c29fef",
-      "date": "2026-03-28",
-      "time": "15:00",
-      "home_team": "AC United FC",
-      "away_team": "Bilborough TRD FC",
-      "venue": "THE FOREST SPORTS ZONE #1",
-      "division": "NSL Division One",
-      "home_away": "home",
-      "opponent": "Bilborough TRD FC"
-    },
     {
       "id": "d00f10d95699ac4d8795598ed0372756",
       "date": "2026-04-04",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ed5ee293dfc43858c07c3014d1c29fef",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "AC United FC",
+      "away_team": "Bilborough TRD FC",
+      "home_score": 10,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division One",
+      "home_away": "home",
+      "opponent": "Bilborough TRD FC",
+      "goals_for": 10,
+      "goals_against": 1
+    },
     {
       "id": "9f1c49676c34d56afa6bab118f091d2a",
       "date": "2026-03-21",

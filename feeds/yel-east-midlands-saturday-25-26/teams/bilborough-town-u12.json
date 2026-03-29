@@ -1,19 +1,8 @@
 {
   "team": "Bilborough Town U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "e31f363636b51f02fe2338a36a3f8cf8",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Bilborough Town U12",
-      "away_team": "Pinxton United U13 Girls",
-      "venue": "Harvey Haddon  NG8 4PB",
-      "division": "U12 Sat Spring Div 7 Gold",
-      "home_away": "home",
-      "opponent": "Pinxton United U13 Girls"
-    },
     {
       "id": "305a52608441c58e89dba7a7ec617506",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e31f363636b51f02fe2338a36a3f8cf8",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Bilborough Town U12",
+      "away_team": "Pinxton United U13 Girls",
+      "home_score": 2,
+      "away_score": 8,
+      "venue": "",
+      "division": "U12 Sat Spring Div 7 Gold",
+      "home_away": "home",
+      "opponent": "Pinxton United U13 Girls",
+      "goals_for": 2,
+      "goals_against": 8
+    },
     {
       "id": "7a4b1010b7b36bf0a46488720947257e",
       "date": "2026-03-14",

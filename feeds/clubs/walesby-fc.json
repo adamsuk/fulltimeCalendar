@@ -1,33 +1,7 @@
 {
   "club": "Walesby FC",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "d360db584a26b7928488f8699f0f8562",
-      "date": "2026-03-28",
-      "time": "10:30",
-      "home_team": "Burton Joyce F.C. U23",
-      "away_team": "Walesby F.C. U23s",
-      "venue": "POPLARS SPORTS GROUND",
-      "division": "Development Spring Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Walesby F.C. U23s",
-      "home_away": "away",
-      "opponent": "Burton Joyce F.C. U23"
-    },
-    {
-      "id": "423e16e1ebf879582d258cd9b67585e5",
-      "date": "2026-03-28",
-      "time": "11:30",
-      "home_team": "Beaufort United Black U14",
-      "away_team": "Walesby FC White U14",
-      "venue": "Unwin Road  NG17 4HT",
-      "division": "U14 Sat Spring Div 6 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Walesby FC White U14",
-      "home_away": "away",
-      "opponent": "Beaufort United Black U14"
-    },
     {
       "id": "4bbeb78a22f39c5f4dffd0b20ee52361",
       "date": "2026-04-04",
@@ -134,6 +108,40 @@
     }
   ],
   "results": [
+    {
+      "id": "423e16e1ebf879582d258cd9b67585e5",
+      "date": "2026-03-28",
+      "time": "11:30",
+      "home_team": "Beaufort United Black U14",
+      "away_team": "Walesby FC White U14",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Walesby FC White U14",
+      "home_away": "away",
+      "opponent": "Beaufort United Black U14",
+      "goals_for": 3,
+      "goals_against": 4
+    },
+    {
+      "id": "d360db584a26b7928488f8699f0f8562",
+      "date": "2026-03-28",
+      "time": "10:30",
+      "home_team": "Burton Joyce F.C. U23",
+      "away_team": "Walesby F.C. U23s",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Walesby F.C. U23s",
+      "home_away": "away",
+      "opponent": "Burton Joyce F.C. U23",
+      "goals_for": 5,
+      "goals_against": 0
+    },
     {
       "id": "a777692cfc7821c5bdeb39bd3ea1ff8f",
       "date": "2026-03-21",

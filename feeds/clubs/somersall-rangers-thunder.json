@@ -1,20 +1,7 @@
 {
   "club": "Somersall Rangers Thunder",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "73a75420b5424dbb69fd09dd2456b0f4",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Somersall Rangers Thunder U14",
-      "away_team": "Sporting Markfield U14",
-      "venue": "Brimington Junior School S43 1HF",
-      "division": "U14 Sat Spring Premier Division",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Somersall Rangers Thunder U14",
-      "home_away": "home",
-      "opponent": "Sporting Markfield U14"
-    },
     {
       "id": "da11d0f82fbc919bb7a58aafd1d8c4ba",
       "date": "2026-04-18",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "73a75420b5424dbb69fd09dd2456b0f4",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Somersall Rangers Thunder U14",
+      "away_team": "Sporting Markfield U14",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Somersall Rangers Thunder U14",
+      "home_away": "home",
+      "opponent": "Sporting Markfield U14",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "91bdbfd9a83d697ebea06ab9ed2abd00",
       "date": "2026-03-21",

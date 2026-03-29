@@ -1,19 +1,8 @@
 {
   "team": "Mansfield Town Grassroots Y/W U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "a34585fb72bdf9416de59f3f33286212",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Mansfield Town Grassroots Y/W U12",
-      "away_team": "AFC Chellaston Chargers U12",
-      "venue": "One Call Stadium NG18 5DA",
-      "division": "U12 Sat Spring Premier Division",
-      "home_away": "home",
-      "opponent": "AFC Chellaston Chargers U12"
-    },
     {
       "id": "d946c667d4375315294c3fd9913a3e7a",
       "date": "2026-04-18",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a34585fb72bdf9416de59f3f33286212",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Mansfield Town Grassroots Y/W U12",
+      "away_team": "AFC Chellaston Chargers U12",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Premier Division",
+      "home_away": "home",
+      "opponent": "AFC Chellaston Chargers U12",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "bfe620371d0e004255b14321495c62bf",
       "date": "2026-03-21",

@@ -1,18 +1,18 @@
 {
   "team": "Hilton Harriers Bucks U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
     {
-      "id": "ddf7b02a0f68cbd3b51cba6435497adf",
-      "date": "2026-03-28",
-      "time": "10:30",
-      "home_team": "Hilton Harriers Bucks U14",
-      "away_team": "Wollaton H & B Green U14",
-      "venue": "The Mease Pavilion DE65 5LS",
+      "id": "eb8db77aa3e9bfae944dce01774a8b6b",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Beeston FC U14",
+      "away_team": "Hilton Harriers Bucks U14",
+      "venue": "Trent Vale Sports Ground  NG9 1ND",
       "division": "U14 Sat Spring Div 5 Blue",
-      "home_away": "home",
-      "opponent": "Wollaton H & B Green U14"
+      "home_away": "away",
+      "opponent": "Beeston FC U14"
     },
     {
       "id": "bf72eed3783ed64676e83abc660f3745",
@@ -24,17 +24,6 @@
       "division": "U14 Sat Spring Div 5 Blue",
       "home_away": "away",
       "opponent": "Bingham Town Red U14"
-    },
-    {
-      "id": "34943004cca252a2b7514291ce807a39",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Beeston FC U14",
-      "away_team": "Hilton Harriers Bucks U14",
-      "venue": "Trent Vale Sports Ground  NG9 1ND",
-      "division": "U14 Sat Spring Div 5 Blue",
-      "home_away": "away",
-      "opponent": "Beeston FC U14"
     },
     {
       "id": "3d4f2ac69fa241566a7fcc4abb5771f3",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ddf7b02a0f68cbd3b51cba6435497adf",
+      "date": "2026-03-28",
+      "time": "10:30",
+      "home_team": "Hilton Harriers Bucks U14",
+      "away_team": "Wollaton H & B Green U14",
+      "home_score": 2,
+      "away_score": 9,
+      "venue": "",
+      "division": "U14 Sat Spring Div 5 Blue",
+      "home_away": "home",
+      "opponent": "Wollaton H & B Green U14",
+      "goals_for": 2,
+      "goals_against": 9
+    },
     {
       "id": "7f3af51997c588aa2e52257c1f59326b",
       "date": "2026-03-21",

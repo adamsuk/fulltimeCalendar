@@ -1,19 +1,8 @@
 {
   "team": "Wollaton H & B Hyenas U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "f3d3f2c32df17618758aa8bd9ec8a6c9",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Hucknall Sports Red U10",
-      "away_team": "Wollaton H & B Hyenas U10",
-      "venue": "Engine Rooms NG15 6EP",
-      "division": "U10 Sat Spring Div 4 Green",
-      "home_away": "away",
-      "opponent": "Hucknall Sports Red U10"
-    },
     {
       "id": "4a92cf8598ef2fdda2b6adf38051b623",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f3d3f2c32df17618758aa8bd9ec8a6c9",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Hucknall Sports Red U10",
+      "away_team": "Wollaton H & B Hyenas U10",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 4 Green",
+      "home_away": "away",
+      "opponent": "Hucknall Sports Red U10",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "80b6bf2b4d1633ef1e79913b13c65b38",
       "date": "2026-03-21",

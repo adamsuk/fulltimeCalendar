@@ -1,19 +1,8 @@
 {
   "team": "Bottesford FC Blue U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "59deb6a8f92f11b2f0959c2bd5f13813",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Burton Joyce Red U14",
-      "away_team": "Bottesford FC Blue U14",
-      "venue": "Nottingham Rd, Bottesford  NG13 0AP",
-      "division": "U14 Sat Spring Div 2 Blue",
-      "home_away": "away",
-      "opponent": "Burton Joyce Red U14"
-    },
     {
       "id": "70f6e4cafe8fe2615d18f5d2172b2fc8",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "59deb6a8f92f11b2f0959c2bd5f13813",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Burton Joyce Red U14",
+      "away_team": "Bottesford FC Blue U14",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U14 Sat Spring Div 2 Blue",
+      "home_away": "away",
+      "opponent": "Burton Joyce Red U14",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "f724c49a3cceb815d77a7c7e833781e2",
       "date": "2026-03-14",

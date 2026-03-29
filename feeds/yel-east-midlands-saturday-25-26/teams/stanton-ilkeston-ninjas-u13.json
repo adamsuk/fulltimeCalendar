@@ -1,19 +1,8 @@
 {
   "team": "Stanton Ilkeston Ninjas U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "fc205bae5d4d34cc7685424f52d83a2a",
-      "date": "2026-03-28",
-      "time": "10:30",
-      "home_team": "Stanton Ilkeston Ninjas U13",
-      "away_team": "Wollaton H & B Oaks U13",
-      "venue": "Gallows Inn Playing Fields DE7 5BB",
-      "division": "U13 Sat Spring Div 7 Blue",
-      "home_away": "home",
-      "opponent": "Wollaton H & B Oaks U13"
-    },
     {
       "id": "24f0e4898f37155b54b9c2f472cb37a2",
       "date": "2026-04-18",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "fc205bae5d4d34cc7685424f52d83a2a",
+      "date": "2026-03-28",
+      "time": "10:30",
+      "home_team": "Stanton Ilkeston Ninjas U13",
+      "away_team": "Wollaton H & B Oaks U13",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sat Spring Div 7 Blue",
+      "home_away": "home",
+      "opponent": "Wollaton H & B Oaks U13",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "e2d1c7476d340f366d08abc2f1e213ec",
       "date": "2026-03-21",

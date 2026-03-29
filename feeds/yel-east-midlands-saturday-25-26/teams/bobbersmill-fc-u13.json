@@ -1,19 +1,8 @@
 {
   "team": "Bobbersmill FC U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "aa076f43355f852a571291f3c4c4c701",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Bobbersmill FC U13",
-      "away_team": "Newark Town Titans U13",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U13 Sat Spring Div 4 Red",
-      "home_away": "home",
-      "opponent": "Newark Town Titans U13"
-    },
     {
       "id": "3d2dc0cad9dfa52e521b728def0c9c08",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "aa076f43355f852a571291f3c4c4c701",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Bobbersmill FC U13",
+      "away_team": "Newark Town Titans U13",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U13 Sat Spring Div 4 Red",
+      "home_away": "home",
+      "opponent": "Newark Town Titans U13",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "d68bb2e275228c07b9f101b7c4df244b",
       "date": "2026-03-21",

@@ -1,19 +1,8 @@
 {
   "team": "Long Eaton United Royal U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "2bb83fb0e2cacfb0372c0fc09eb68099",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Long Eaton United Royal U10",
-      "away_team": "Heanor Town Titans U10",
-      "venue": "Grange Park NG10 2EF",
-      "division": "U10 Sat Spring Div 4 Green",
-      "home_away": "home",
-      "opponent": "Heanor Town Titans U10"
-    },
     {
       "id": "19878906e8141a705fe0911c6d0fbe6c",
       "date": "2026-04-18",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2bb83fb0e2cacfb0372c0fc09eb68099",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Long Eaton United Royal U10",
+      "away_team": "Heanor Town Titans U10",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "",
+      "division": "U10 Sat Spring Div 4 Green",
+      "home_away": "home",
+      "opponent": "Heanor Town Titans U10",
+      "goals_for": 1,
+      "goals_against": 6
+    },
     {
       "id": "5e2d40736b731786f9998d6e966ab4ac",
       "date": "2026-03-21",

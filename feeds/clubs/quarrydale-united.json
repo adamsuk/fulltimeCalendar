@@ -1,6 +1,6 @@
 {
   "club": "Quarrydale United",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
     {
       "id": "ae72360fead2fb885e3547ab2dff1145",
@@ -14,45 +14,6 @@
       "team": "Quarrydale United Rangers U9",
       "home_away": "home",
       "opponent": "Burton Joyce Blue U9"
-    },
-    {
-      "id": "701bff9c212a0da810071b4812b22140",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Blidworth Bengals Orange U10",
-      "away_team": "Quarrydale United Rangers U10",
-      "venue": "Blidworth & Bilsthorpe Bengals NG22 8QW",
-      "division": "U10 Sat Spring Div 6 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Quarrydale United Rangers U10",
-      "home_away": "away",
-      "opponent": "Blidworth Bengals Orange U10"
-    },
-    {
-      "id": "f045fce996260ffe7832e57fa70a737e",
-      "date": "2026-03-28",
-      "time": "11:30",
-      "home_team": "Quarrydale United U11",
-      "away_team": "Meden Vale Colts Green U11",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U11 Sat Spring Div 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Quarrydale United U11",
-      "home_away": "home",
-      "opponent": "Meden Vale Colts Green U11"
-    },
-    {
-      "id": "169b8e82be32eced2d3078da5493598b",
-      "date": "2026-03-28",
-      "time": "12:00",
-      "home_team": "Quarrydale United U13",
-      "away_team": "PMG Excel U13",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U13 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Quarrydale United U13",
-      "home_away": "home",
-      "opponent": "PMG Excel U13"
     },
     {
       "id": "e92523830f2aa4a65dbc926036bcc5b8",
@@ -237,6 +198,19 @@
       "opponent": "Hucknall Sports White U13"
     },
     {
+      "id": "077fb164193e63372ec2f0b2cbd83600",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Quarrydale United FC U12",
+      "away_team": "Sherwood Colliery F.C. Ladies U12 Black",
+      "venue": "Quarrydale United FC U12 Quarrydale Unit",
+      "division": "U12 Div 5 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Quarrydale United FC U12",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery F.C. Ladies U12 Black"
+    },
+    {
       "id": "15ac3225f52d94877774f1d99b9da282",
       "date": "2026-04-14",
       "time": "18:00",
@@ -339,6 +313,19 @@
       "team": "Quarrydale United U8",
       "home_away": "away",
       "opponent": "Shirebrook Rangers U8"
+    },
+    {
+      "id": "bb3571f1696d37b0f3481d798f60fbda",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Clipstone Welfare Colts F.C. Youth U12",
+      "away_team": "Quarrydale United FC U12",
+      "venue": "CLIPSTONE MINERS WELFARE (THE LIDO GROUND)",
+      "division": "U12 Div 5 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Quarrydale United FC U12",
+      "home_away": "away",
+      "opponent": "Clipstone Welfare Colts F.C. Youth U12"
     },
     {
       "id": "ef7b11c26019eae407441b0bf9040171",
@@ -562,6 +549,19 @@
       "opponent": "G3A PSG U11"
     },
     {
+      "id": "f86a3ca64250f6c7159e84019fff1678",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Quarrydale United FC U12",
+      "away_team": "Ravenshead Reds F.C. Youth U12",
+      "venue": "Quarrydale United FC U12 Quarrydale Unit",
+      "division": "U12 Div 5 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Quarrydale United FC U12",
+      "home_away": "home",
+      "opponent": "Ravenshead Reds F.C. Youth U12"
+    },
+    {
       "id": "739ec9a339876fb1d50dcf3d53893d6c",
       "date": "2026-05-09",
       "time": "15:00",
@@ -586,9 +586,86 @@
       "team": "Quarrydale United Rangers U9",
       "home_away": "away",
       "opponent": "Sherwood FC Arrows U9"
+    },
+    {
+      "id": "52a9a5fab44064a4de91e3924cbe681d",
+      "date": "2026-05-17",
+      "time": "10:00",
+      "home_team": "Quarrydale United FC U12",
+      "away_team": "Tansley Juniors U12 Girls",
+      "venue": "Quarrydale United FC U12 Quarrydale Unit",
+      "division": "U12 Div 5 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Quarrydale United FC U12",
+      "home_away": "home",
+      "opponent": "Tansley Juniors U12 Girls"
+    },
+    {
+      "id": "b61e0009d317d88b9e70ed09506e020c",
+      "date": "2026-05-24",
+      "time": "10:00",
+      "home_team": "Sutton Bonington U12 Comets",
+      "away_team": "Quarrydale United FC U12",
+      "venue": "Sutton Bonington U12 Comets",
+      "division": "U12 Div 5 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Quarrydale United FC U12",
+      "home_away": "away",
+      "opponent": "Sutton Bonington U12 Comets"
     }
   ],
   "results": [
+    {
+      "id": "169b8e82be32eced2d3078da5493598b",
+      "date": "2026-03-28",
+      "time": "12:00",
+      "home_team": "Quarrydale United U13",
+      "away_team": "PMG Excel U13",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United U13",
+      "home_away": "home",
+      "opponent": "PMG Excel U13",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
+      "id": "f045fce996260ffe7832e57fa70a737e",
+      "date": "2026-03-28",
+      "time": "11:30",
+      "home_team": "Quarrydale United U11",
+      "away_team": "Meden Vale Colts Green U11",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United U11",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts Green U11",
+      "goals_for": 3,
+      "goals_against": 3
+    },
+    {
+      "id": "701bff9c212a0da810071b4812b22140",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Blidworth Bengals Orange U10",
+      "away_team": "Quarrydale United Rangers U10",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U10 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United Rangers U10",
+      "home_away": "away",
+      "opponent": "Blidworth Bengals Orange U10",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "8608b8d44e016c19f9a33c4141981343",
       "date": "2026-03-22",

@@ -1,33 +1,7 @@
 {
   "club": "Attenborough Colts",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "73b289270cf0c6330c77b352c0ec853b",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Attenborough Colts Blue U12",
-      "away_team": "Heanor Town Panthers U12",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U12 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Attenborough Colts Blue U12",
-      "home_away": "home",
-      "opponent": "Heanor Town Panthers U12"
-    },
-    {
-      "id": "f487b3c12d7408441bc6990dcafb37ee",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Attenborough Colts Blue U14",
-      "away_team": "Stanton Ilkeston Mustangs U14",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U14 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Attenborough Colts Blue U14",
-      "home_away": "home",
-      "opponent": "Stanton Ilkeston Mustangs U14"
-    },
     {
       "id": "9d69b26be5c5ed3d9afc98472f918e1c",
       "date": "2026-03-29",
@@ -511,6 +485,40 @@
     }
   ],
   "results": [
+    {
+      "id": "73b289270cf0c6330c77b352c0ec853b",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Attenborough Colts Blue U12",
+      "away_team": "Heanor Town Panthers U12",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Attenborough Colts Blue U12",
+      "home_away": "home",
+      "opponent": "Heanor Town Panthers U12",
+      "goals_for": 4,
+      "goals_against": 1
+    },
+    {
+      "id": "f487b3c12d7408441bc6990dcafb37ee",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Attenborough Colts Blue U14",
+      "away_team": "Stanton Ilkeston Mustangs U14",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Attenborough Colts Blue U14",
+      "home_away": "home",
+      "opponent": "Stanton Ilkeston Mustangs U14",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "49568a26f7e8aa1df8746176ec496d77",
       "date": "2026-03-22",

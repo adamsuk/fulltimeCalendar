@@ -1,19 +1,8 @@
 {
   "team": "Clay Cross Town Bulldogs U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "fd4d9a66d8788007795a06f6c9192dba",
-      "date": "2026-03-28",
-      "time": "09:15",
-      "home_team": "WBYFC Deportivo U12",
-      "away_team": "Clay Cross Town Bulldogs U12",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U12 Sat Spring Div 4",
-      "home_away": "away",
-      "opponent": "WBYFC Deportivo U12"
-    },
     {
       "id": "e2b58261e26be59dceb12df68d2d867f",
       "date": "2026-04-11",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "fd4d9a66d8788007795a06f6c9192dba",
+      "date": "2026-03-28",
+      "time": "09:15",
+      "home_team": "WBYFC Deportivo U12",
+      "away_team": "Clay Cross Town Bulldogs U12",
+      "home_score": 10,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 4",
+      "home_away": "away",
+      "opponent": "WBYFC Deportivo U12",
+      "goals_for": 1,
+      "goals_against": 10
+    },
     {
       "id": "9e7926c0cc64af2acb3d6b629838fff3",
       "date": "2026-03-21",

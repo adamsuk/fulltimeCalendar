@@ -1,19 +1,8 @@
 {
   "team": "Gedling Southbank Arrows U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "8c1efb5726f2e37c427eff0b9c6a47aa",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Nottingham Second Chance U10",
-      "away_team": "Gedling Southbank Arrows U10",
-      "venue": "Stockhill Fire Station Park NG6 0LP",
-      "division": "U10 Sat Spring Div 7 Blue",
-      "home_away": "away",
-      "opponent": "Nottingham Second Chance U10"
-    },
     {
       "id": "ce00d19050509e92ef7a316edce867ea",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8c1efb5726f2e37c427eff0b9c6a47aa",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Nottingham Second Chance U10",
+      "away_team": "Gedling Southbank Arrows U10",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U10 Sat Spring Div 7 Blue",
+      "home_away": "away",
+      "opponent": "Nottingham Second Chance U10",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "4acb692ebdd316d16ae3df7c660ebb30",
       "date": "2026-03-21",

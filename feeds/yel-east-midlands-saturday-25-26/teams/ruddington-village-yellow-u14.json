@@ -1,19 +1,8 @@
 {
   "team": "Ruddington Village Yellow U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "5b200a8b0cdc642364e4fde37388bd7b",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Toton Tornados U14",
-      "away_team": "Ruddington Village Yellow U14",
-      "venue": "Manor Farm Recreation Ground NG9 6EL",
-      "division": "U14 Sat Spring Div 6 Blue",
-      "home_away": "away",
-      "opponent": "Toton Tornados U14"
-    },
     {
       "id": "23717431404e22c5aabe29bcbaf01e92",
       "date": "2026-04-16",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5b200a8b0cdc642364e4fde37388bd7b",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Toton Tornados U14",
+      "away_team": "Ruddington Village Yellow U14",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Sat Spring Div 6 Blue",
+      "home_away": "away",
+      "opponent": "Toton Tornados U14",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "d31ca9295a36c7bb7ac3466babe8c455",
       "date": "2026-03-21",

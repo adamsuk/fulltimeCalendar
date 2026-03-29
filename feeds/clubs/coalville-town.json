@@ -1,33 +1,7 @@
 {
   "club": "Coalville Town",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "5ad61638d371d0596b1a645b09cf8f0e",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Clifton All Whites Blue U8",
-      "away_team": "Coalville Town Ravens U8",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U8 Sat Spring 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Coalville Town Ravens U8",
-      "home_away": "away",
-      "opponent": "Clifton All Whites Blue U8"
-    },
-    {
-      "id": "7456bf65cff3c2744792bba0f8ba298e",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Coalville Town Rooks U12",
-      "away_team": "Hilton Harriers Fire U12",
-      "venue": "Owen Street Sports Ground LE67 3DA",
-      "division": "U12 Sat Spring Div 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Coalville Town Rooks U12",
-      "home_away": "home",
-      "opponent": "Hilton Harriers Fire U12"
-    },
     {
       "id": "3b2a0bf98638cbf24702357361eb135b",
       "date": "2026-03-29",
@@ -186,6 +160,40 @@
     }
   ],
   "results": [
+    {
+      "id": "5ad61638d371d0596b1a645b09cf8f0e",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Clifton All Whites Blue U8",
+      "away_team": "Coalville Town Ravens U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Coalville Town Ravens U8",
+      "home_away": "away",
+      "opponent": "Clifton All Whites Blue U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "7456bf65cff3c2744792bba0f8ba298e",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Coalville Town Rooks U12",
+      "away_team": "Hilton Harriers Fire U12",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sat Spring Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Coalville Town Rooks U12",
+      "home_away": "home",
+      "opponent": "Hilton Harriers Fire U12",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "cfaca4de9c557b1e892bb8a61d6f648a",
       "date": "2026-03-22",

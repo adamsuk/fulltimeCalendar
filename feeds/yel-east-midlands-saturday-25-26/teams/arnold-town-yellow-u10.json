@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town Yellow U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "c6e048f4da5d40373b65d0d65b4ccdf9",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Fernwood Foxes Red U10",
-      "away_team": "Arnold Town Yellow U10",
-      "venue": "Balderton Playing Fields NG24 3BD",
-      "division": "U10 Sat Spring Div 9 Red",
-      "home_away": "away",
-      "opponent": "Fernwood Foxes Red U10"
-    },
     {
       "id": "c346181c3c695222b8ec6c86a5eae791",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c6e048f4da5d40373b65d0d65b4ccdf9",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Fernwood Foxes Red U10",
+      "away_team": "Arnold Town Yellow U10",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 9 Red",
+      "home_away": "away",
+      "opponent": "Fernwood Foxes Red U10",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "e3d95965faa9754606db27347a191e5f",
       "date": "2026-03-21",

@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Invicta U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "2d523f7342ef7ae9d3162ea9ba0fc357",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Bottesford Blue U11",
-      "away_team": "WBYFC Invicta U11",
-      "venue": "Nottingham Rd, Bottesford  NG13 0AP",
-      "division": "U11 Sat Spring Div 4 Green",
-      "home_away": "away",
-      "opponent": "Bottesford Blue U11"
-    },
     {
       "id": "b40230be6a526038d275a2cd18061589",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2d523f7342ef7ae9d3162ea9ba0fc357",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Bottesford Blue U11",
+      "away_team": "WBYFC Invicta U11",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat Spring Div 4 Green",
+      "home_away": "away",
+      "opponent": "Bottesford Blue U11",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "8e39df99310d2402162d507ae184bee8",
       "date": "2026-03-21",

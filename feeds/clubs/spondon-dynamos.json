@@ -1,20 +1,7 @@
 {
   "club": "Spondon Dynamos",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "17816d22ad803bf8f7f2f9275b2c92c1",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "home_team": "Aslockton & Orston Red U13",
-      "away_team": "Spondon Dynamos Legends U13",
-      "venue": "Orston Sports Field  NG13 9PL",
-      "division": "U13 Sat Spring Div 8",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Spondon Dynamos Legends U13",
-      "home_away": "away",
-      "opponent": "Aslockton & Orston Red U13"
-    },
     {
       "id": "81de4db96052918260f3cc790e35fea8",
       "date": "2026-04-18",
@@ -82,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "17816d22ad803bf8f7f2f9275b2c92c1",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Aslockton & Orston Red U13",
+      "away_team": "Spondon Dynamos Legends U13",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sat Spring Div 8",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Spondon Dynamos Legends U13",
+      "home_away": "away",
+      "opponent": "Aslockton & Orston Red U13",
+      "goals_for": 4,
+      "goals_against": 3
+    },
     {
       "id": "1437a9a84ac071ecb22381ec56ae0b23",
       "date": "2026-03-22",

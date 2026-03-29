@@ -1,20 +1,7 @@
 {
   "club": "Gonerby Yellow",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "d252c6092c61160074e1e82e01294b8e",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Gonerby Yellow U9",
-      "away_team": "Gonerby Blue U9",
-      "venue": "Gonerby Recreation Ground NG31 8PP",
-      "division": "U9 Sat Spring Div 9 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Gonerby Yellow U9",
-      "home_away": "home",
-      "opponent": "Gonerby Blue U9"
-    },
     {
       "id": "3dcc0a039acef361d2d7fe099756cdf8",
       "date": "2026-03-29",
@@ -147,6 +134,23 @@
     }
   ],
   "results": [
+    {
+      "id": "d252c6092c61160074e1e82e01294b8e",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Gonerby Yellow U9",
+      "away_team": "Gonerby Blue U9",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 9 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gonerby Yellow U9",
+      "home_away": "home",
+      "opponent": "Gonerby Blue U9",
+      "goals_for": 5,
+      "goals_against": 2
+    },
     {
       "id": "d850c870935cd5f9046be0f6adfa92ab",
       "date": "2026-03-22",

@@ -1,19 +1,8 @@
 {
   "team": "Sports Gateway Blue U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "60200a7ad1f281b00685fcd558d2da09",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Bingham Town White U11",
-      "away_team": "Sports Gateway Blue U11",
-      "venue": "Butt Field NG13 8GG",
-      "division": "U11 Sat Spring Div 5 Red",
-      "home_away": "away",
-      "opponent": "Bingham Town White U11"
-    },
     {
       "id": "a07996d5fc216029b04d6c00343592ca",
       "date": "2026-04-14",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "60200a7ad1f281b00685fcd558d2da09",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Bingham Town White U11",
+      "away_team": "Sports Gateway Blue U11",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "",
+      "division": "U11 Sat Spring Div 5 Red",
+      "home_away": "away",
+      "opponent": "Bingham Town White U11",
+      "goals_for": 4,
+      "goals_against": 3
+    },
     {
       "id": "bc6bedfe9c60bbe6c767849065b864ac",
       "date": "2026-03-21",

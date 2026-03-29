@@ -1,6 +1,6 @@
 {
   "club": "Arnold Eagles",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
     {
       "id": "111f4b5bb4249e4846a10c7c26ff372a",
@@ -315,6 +315,19 @@
       "opponent": "Radcliffe Olympic FC Ladies"
     },
     {
+      "id": "2a2c9a1a0ce2374ab2e3ae665f52094d",
+      "date": "2026-04-22",
+      "time": "18:00",
+      "home_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
+      "away_team": "Riverside Junior U14 Rubies",
+      "venue": "CALVERTON MINERS WELFARE TRUST",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Arnold Eagles F.C. Girls U14 Hurricanes",
+      "home_away": "home",
+      "opponent": "Riverside Junior U14 Rubies"
+    },
+    {
       "id": "74891542f8ae455074197acceb08dbe6",
       "date": "2026-04-26",
       "time": "09:45",
@@ -378,32 +391,6 @@
       "team": "Arnold Eagles F.C. Girls U15 Avengers",
       "home_away": "home",
       "opponent": "Beeston F.C. U15 Girls Sun"
-    },
-    {
-      "id": "3496c833a50fb72e46ed19f1b1b2a80f",
-      "date": "2026-05-01",
-      "time": "10:00",
-      "home_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
-      "away_team": "Riverside Junior U14 Rubies",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Arnold Eagles F.C. Girls U14 Hurricanes",
-      "home_away": "home",
-      "opponent": "Riverside Junior U14 Rubies"
-    },
-    {
-      "id": "889a536149b86c22fb847dc68e13111b",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Arnold Eagles F.C. Girls U12 FC",
-      "away_team": "Hucknall & Linby Harriers FC U12",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "U12 Div 1 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Arnold Eagles F.C. Girls U12 FC",
-      "home_away": "home",
-      "opponent": "Hucknall & Linby Harriers FC U12"
     },
     {
       "id": "9f2655283db3ee64092a96d53db888b0",
@@ -1958,23 +1945,6 @@
       "goals_against": 2
     },
     {
-      "id": "e9926eedb6436e9b102a3dcb7011a7f5",
-      "date": "2026-01-25",
-      "time": "11:30",
-      "home_team": "Arnold Eagles F.C. Girls U12 FC",
-      "away_team": "Hucknall & Linby Harriers FC U12",
-      "home_score": 2,
-      "away_score": 6,
-      "venue": "",
-      "division": "Other Fixtures",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Arnold Eagles F.C. Girls U12 FC",
-      "home_away": "home",
-      "opponent": "Hucknall & Linby Harriers FC U12",
-      "goals_for": 2,
-      "goals_against": 6
-    },
-    {
       "id": "b64156c4955ea12a4d4a9fa5b226ce68",
       "date": "2026-01-25",
       "time": "11:30",
@@ -2024,6 +1994,23 @@
       "opponent": "Market Warsop F.C. Youth U8 Wildcats",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "e9926eedb6436e9b102a3dcb7011a7f5",
+      "date": "2026-01-25",
+      "time": "10:00",
+      "home_team": "Arnold Eagles F.C. Girls U12 FC",
+      "away_team": "Hucknall & Linby Harriers FC U12",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "",
+      "division": "U12 Div 1 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Arnold Eagles F.C. Girls U12 FC",
+      "home_away": "home",
+      "opponent": "Hucknall & Linby Harriers FC U12",
+      "goals_for": 2,
+      "goals_against": 6
     },
     {
       "id": "1be6897da48d8b31af97a77baaa4794f",

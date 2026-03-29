@@ -1,7 +1,7 @@
 {
   "team": "Quorn FC Methodists",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
     {
       "id": "d4a27fce0415855e86c843cf0c4fd95a",
@@ -12,17 +12,6 @@
       "venue": "FARLEY WAY STADIUM",
       "division": "Development Spring Division One",
       "home_away": "home",
-      "opponent": "Cotgrave Development"
-    },
-    {
-      "id": "8a5d554fb2549cecb7359e1fbc157aef",
-      "date": "2026-03-28",
-      "time": "10:30",
-      "home_team": "Cotgrave Development",
-      "away_team": "Quorn FC Methodists",
-      "venue": "COTGRAVE WELFARE CLUB #1",
-      "division": "Development Spring Division One",
-      "home_away": "away",
       "opponent": "Cotgrave Development"
     },
     {
@@ -137,6 +126,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8a5d554fb2549cecb7359e1fbc157aef",
+      "date": "2026-03-28",
+      "time": "10:30",
+      "home_team": "Cotgrave Development",
+      "away_team": "Quorn FC Methodists",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "away",
+      "opponent": "Cotgrave Development",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "5a1997ea4a215a6aa55f56b3ca25a12d",
       "date": "2026-03-21",

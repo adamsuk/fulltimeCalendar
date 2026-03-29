@@ -7,21 +7,21 @@ X-WR-CALNAME:Southwell City Flames U12
 X-WR-CALDESC:Fixtures for Southwell City Flames U12 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:494e2de676afa8555b1bb86930165e70@yel-calendar
-DTSTAMP:20260328T064540Z
-DTSTART;TZID=Europe/London:20260328T100000
-DTEND;TZID=Europe/London:20260328T113000
-SUMMARY:⚽ Southwell City Flames U12 vs Bottesford Blue U12 (Away)
-DESCRIPTION:Division: U12 Sat Spring Div 6 Blue\nBottesford Blue U12 v Southwell City Flames U12\nKO: 10:00
-LOCATION:Nottingham Rd, Bottesford  NG13 0AP
-END:VEVENT
-BEGIN:VEVENT
 UID:41dcff2eb2bfb817c5275e3415adf30c@yel-calendar
-DTSTAMP:20260328T064540Z
+DTSTAMP:20260329T065425Z
 DTSTART;TZID=Europe/London:20260418T100000
 DTEND;TZID=Europe/London:20260418T113000
 SUMMARY:⚽ Southwell City Flames U12 vs Bingham Town White U12 (Home)
 DESCRIPTION:Division: U12 Sat Spring Div 6 Blue\nSouthwell City Flames U12 v Bingham Town White U12\nKO: 10:00
+LOCATION:Southwell City FC  NG25 0JP
+END:VEVENT
+BEGIN:VEVENT
+UID:1387297eaf48d2850e02540cb77b2a16@yel-calendar
+DTSTAMP:20260329T065425Z
+DTSTART;TZID=Europe/London:20260421T180000
+DTEND;TZID=Europe/London:20260421T193000
+SUMMARY:⚽ Southwell City Flames U12 vs Spirit Celtic U12 (Home)
+DESCRIPTION:Division: U12 Sat YEL Challenge Trophy\nSouthwell City Flames U12 v Spirit Celtic U12\nKO: 18:00
 LOCATION:Southwell City FC  NG25 0JP
 END:VEVENT
 END:VCALENDAR

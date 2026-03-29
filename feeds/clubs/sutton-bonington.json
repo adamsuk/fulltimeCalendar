@@ -1,20 +1,7 @@
 {
   "club": "Sutton Bonington",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "c197201d9d67b8759e3090e7359252d8",
-      "date": "2026-03-28",
-      "time": "10:15",
-      "home_team": "Eastwood CFC Red U9",
-      "away_team": "Sutton Bonington Hornets U9",
-      "venue": "Play Soccer USA 3G Arena  NG16 3HB",
-      "division": "U9 Sat Spring Div 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sutton Bonington Hornets U9",
-      "home_away": "away",
-      "opponent": "Eastwood CFC Red U9"
-    },
     {
       "id": "e68470efc4e7910bcb166e2040336624",
       "date": "2026-03-29",
@@ -27,9 +14,65 @@
       "team": "Sutton Bonington U12 Comets",
       "home_away": "away",
       "opponent": "Ravenshead Reds F.C. Youth U12"
+    },
+    {
+      "id": "82a65a0bb6062baa373591a1027b38ec",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Sutton Bonington U12 Comets",
+      "away_team": "Ravenshead Reds F.C. Youth U12",
+      "venue": "Sutton Bonington U12 Comets",
+      "division": "U12 Div 5 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sutton Bonington U12 Comets",
+      "home_away": "home",
+      "opponent": "Ravenshead Reds F.C. Youth U12"
+    },
+    {
+      "id": "8da8d4941cf61a4c475b749650ea83b2",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Tansley Juniors U12 Girls",
+      "away_team": "Sutton Bonington U12 Comets",
+      "venue": "THE FETE FIELD",
+      "division": "U12 Div 5 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sutton Bonington U12 Comets",
+      "home_away": "away",
+      "opponent": "Tansley Juniors U12 Girls"
+    },
+    {
+      "id": "b61e0009d317d88b9e70ed09506e020c",
+      "date": "2026-05-24",
+      "time": "10:00",
+      "home_team": "Sutton Bonington U12 Comets",
+      "away_team": "Quarrydale United FC U12",
+      "venue": "Sutton Bonington U12 Comets",
+      "division": "U12 Div 5 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sutton Bonington U12 Comets",
+      "home_away": "home",
+      "opponent": "Quarrydale United FC U12"
     }
   ],
   "results": [
+    {
+      "id": "c197201d9d67b8759e3090e7359252d8",
+      "date": "2026-03-28",
+      "time": "10:15",
+      "home_team": "Eastwood CFC Red U9",
+      "away_team": "Sutton Bonington Hornets U9",
+      "home_score": 3,
+      "away_score": 6,
+      "venue": "",
+      "division": "U9 Sat Spring Div 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sutton Bonington Hornets U9",
+      "home_away": "away",
+      "opponent": "Eastwood CFC Red U9",
+      "goals_for": 6,
+      "goals_against": 3
+    },
     {
       "id": "0413f69463f694501d9ba9cd3b0d20e1",
       "date": "2026-03-22",

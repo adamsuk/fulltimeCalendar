@@ -1,19 +1,8 @@
 {
   "team": "Loughborough Eml Blues U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "523c8a625ea5fbe2dcfd7364863c5766",
-      "date": "2026-03-28",
-      "time": "12:00",
-      "home_team": "Stanton Ilkeston Stallions U13",
-      "away_team": "Loughborough Eml Blues U13",
-      "venue": "Ron Brooks Pavilion DE7 4LD",
-      "division": "U13 Sat Spring Div 8",
-      "home_away": "away",
-      "opponent": "Stanton Ilkeston Stallions U13"
-    },
     {
       "id": "f99977c89224bd6ea7b1137f7025ed04",
       "date": "2026-04-18",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "523c8a625ea5fbe2dcfd7364863c5766",
+      "date": "2026-03-28",
+      "time": "12:00",
+      "home_team": "Stanton Ilkeston Stallions U13",
+      "away_team": "Loughborough Eml Blues U13",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat Spring Div 8",
+      "home_away": "away",
+      "opponent": "Stanton Ilkeston Stallions U13",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "9106340f4a0b66394536539a92b175ed",
       "date": "2026-03-21",

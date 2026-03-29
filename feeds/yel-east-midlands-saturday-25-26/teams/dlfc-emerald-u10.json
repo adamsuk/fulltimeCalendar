@@ -1,19 +1,8 @@
 {
   "team": "DLFC Emerald U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "feb2d7bafd5effb72aa1c57a1f03cb4c",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Southwell City Stars U10",
-      "away_team": "DLFC Emerald U10",
-      "venue": "Southwell City FC  NG25 0JP",
-      "division": "U10 Sat Spring Div 2 Gold",
-      "home_away": "away",
-      "opponent": "Southwell City Stars U10"
-    },
     {
       "id": "b3b08610885f1e656e8dc16b799cd852",
       "date": "2026-04-18",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "feb2d7bafd5effb72aa1c57a1f03cb4c",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Southwell City Stars U10",
+      "away_team": "DLFC Emerald U10",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sat Spring Div 2 Gold",
+      "home_away": "away",
+      "opponent": "Southwell City Stars U10",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "1b688544897cb4980ca780ffa10e79d1",
       "date": "2026-03-21",

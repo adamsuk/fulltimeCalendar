@@ -1,19 +1,8 @@
 {
   "team": "Grantham Town Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "23fbdceaf5030a9466a342cf7614f541",
-      "date": "2026-03-28",
-      "time": "15:00",
-      "home_team": "Keyworth United Reserves",
-      "away_team": "Grantham Town Reserves",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "NSL Division One",
-      "home_away": "away",
-      "opponent": "Keyworth United Reserves"
-    },
     {
       "id": "bf27581d43e2b5a53e41fb4ba5a0f87f",
       "date": "2026-04-04",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "23fbdceaf5030a9466a342cf7614f541",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "Keyworth United Reserves",
+      "away_team": "Grantham Town Reserves",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "NSL Division One",
+      "home_away": "away",
+      "opponent": "Keyworth United Reserves",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "2bba665a4a28538a1cd1e09360ebec7a",
       "date": "2026-03-21",

@@ -1,33 +1,7 @@
 {
   "club": "PMG Excel",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "b89cf0e8e1b2a7e14d2cd6a0c1bb4cc0",
-      "date": "2026-03-28",
-      "time": "11:15",
-      "home_team": "Collingham FC Cougars U10",
-      "away_team": "PMG Excel U10",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U10 Sat Spring Div 2 Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "PMG Excel U10",
-      "home_away": "away",
-      "opponent": "Collingham FC Cougars U10"
-    },
-    {
-      "id": "169b8e82be32eced2d3078da5493598b",
-      "date": "2026-03-28",
-      "time": "12:00",
-      "home_team": "Quarrydale United U13",
-      "away_team": "PMG Excel U13",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U13 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "PMG Excel U13",
-      "home_away": "away",
-      "opponent": "Quarrydale United U13"
-    },
     {
       "id": "569fa4dfbc1678ee8a44da03aec48f7d",
       "date": "2026-03-29",
@@ -329,6 +303,40 @@
     }
   ],
   "results": [
+    {
+      "id": "169b8e82be32eced2d3078da5493598b",
+      "date": "2026-03-28",
+      "time": "12:00",
+      "home_team": "Quarrydale United U13",
+      "away_team": "PMG Excel U13",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "PMG Excel U13",
+      "home_away": "away",
+      "opponent": "Quarrydale United U13",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
+      "id": "b89cf0e8e1b2a7e14d2cd6a0c1bb4cc0",
+      "date": "2026-03-28",
+      "time": "11:15",
+      "home_team": "Collingham FC Cougars U10",
+      "away_team": "PMG Excel U10",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 2 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "PMG Excel U10",
+      "home_away": "away",
+      "opponent": "Collingham FC Cougars U10",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "b2e3b6a6601b9e49e9ef913e88a98647",
       "date": "2026-03-22",

@@ -1,19 +1,8 @@
 {
   "team": "Ilkeston Town Robins U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "f1d65b643bca9a32aedace7552105fac",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Ilkeston Town Robins U14",
-      "away_team": "Collingham FC Lions U14",
-      "venue": "New Manor Ground DE7 8JF",
-      "division": "u14 Sat Spring Div 1 Silver",
-      "home_away": "home",
-      "opponent": "Collingham FC Lions U14"
-    },
     {
       "id": "bb3cc198e6493d4434d8858470b07ac7",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f1d65b643bca9a32aedace7552105fac",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Robins U14",
+      "away_team": "Collingham FC Lions U14",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "u14 Sat Spring Div 1 Silver",
+      "home_away": "home",
+      "opponent": "Collingham FC Lions U14",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "47eaf1d8eba9520f006df0e57ea81149",
       "date": "2026-03-21",

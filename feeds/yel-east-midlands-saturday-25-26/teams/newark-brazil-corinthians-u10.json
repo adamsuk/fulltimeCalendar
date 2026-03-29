@@ -1,19 +1,8 @@
 {
   "team": "Newark Brazil Corinthians U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "0897a28884882d4eec9e0457e5584fb9",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Notts Olympic U10",
-      "away_team": "Newark Brazil Corinthians U10",
-      "venue": "Birchover Park Community Centre NG8 4BW",
-      "division": "U10 Sat Spring Div 5 Blue",
-      "home_away": "away",
-      "opponent": "Notts Olympic U10"
-    },
     {
       "id": "ccd3785bbb542323264e8ff232119454",
       "date": "2026-04-18",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0897a28884882d4eec9e0457e5584fb9",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Notts Olympic U10",
+      "away_team": "Newark Brazil Corinthians U10",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 5 Blue",
+      "home_away": "away",
+      "opponent": "Notts Olympic U10",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "8a44f88cf585dcac5cd7f536cbf94e72",
       "date": "2026-03-21",

@@ -1,19 +1,8 @@
 {
   "team": "Blidworth Bengals Orange U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "701bff9c212a0da810071b4812b22140",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Blidworth Bengals Orange U10",
-      "away_team": "Quarrydale United Rangers U10",
-      "venue": "Blidworth & Bilsthorpe Bengals NG22 8QW",
-      "division": "U10 Sat Spring Div 6 Red",
-      "home_away": "home",
-      "opponent": "Quarrydale United Rangers U10"
-    },
     {
       "id": "c140ff1b2da7f4625d46078d15269518",
       "date": "2026-04-18",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "701bff9c212a0da810071b4812b22140",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Blidworth Bengals Orange U10",
+      "away_team": "Quarrydale United Rangers U10",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U10 Sat Spring Div 6 Red",
+      "home_away": "home",
+      "opponent": "Quarrydale United Rangers U10",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "72374cd6d15bf055135cb318353cf0fc",
       "date": "2026-03-21",

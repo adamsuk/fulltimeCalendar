@@ -1,19 +1,8 @@
 {
   "team": "Sherwood Colliery Warriors U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "5bb158f8ffebf61622ca668abb931c49",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Woodhouse Colts Red U10",
-      "away_team": "Sherwood Colliery Warriors U10",
-      "venue": "Forest Town Welfare NG19 0EE",
-      "division": "U10 Sat Spring Div 5 Red",
-      "home_away": "away",
-      "opponent": "Woodhouse Colts Red U10"
-    },
     {
       "id": "24068a3af67639a0b678c5a9e24fd9d9",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5bb158f8ffebf61622ca668abb931c49",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Woodhouse Colts Red U10",
+      "away_team": "Sherwood Colliery Warriors U10",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sat Spring Div 5 Red",
+      "home_away": "away",
+      "opponent": "Woodhouse Colts Red U10",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "9e4d6efeb87cf50097c3c1df7d8baa2c",
       "date": "2026-03-21",

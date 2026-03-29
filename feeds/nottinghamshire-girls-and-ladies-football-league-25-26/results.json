@@ -1,18 +1,7 @@
 {
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "results": [
-    {
-      "id": "7213d63b4c54dbb4f9cc2aaf404c1a30",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Shardlow St. James U13 Jets Girls",
-      "away_team": "Priory Celtic F.C. U13 Girls",
-      "home_score": 5,
-      "away_score": 1,
-      "venue": "",
-      "division": "U13 Div 1 11 v 11"
-    },
     {
       "id": "dc6e0e4dcac2ae5d0b5fbd526fa16dd1",
       "date": "2026-03-22",
@@ -769,6 +758,17 @@
       "away_team": "Phoenix Inham F.C. U13 Starfire",
       "home_score": 2,
       "away_score": 3,
+      "venue": "",
+      "division": "U13 Div 1 11 v 11"
+    },
+    {
+      "id": "071f191bbb9a651f59491f1d91316408",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Shardlow St. James U13 Jets Girls",
+      "away_team": "Priory Celtic F.C. U13 Girls",
+      "home_score": 5,
+      "away_score": 1,
       "venue": "",
       "division": "U13 Div 1 11 v 11"
     },
@@ -4689,6 +4689,17 @@
       "division": "U12 Div 4"
     },
     {
+      "id": "aebbd9c2b2b510aeb6093c93de679da6",
+      "date": "2026-03-01",
+      "time": "10:00",
+      "home_team": "Muskham Cougars F.C. Youth U12",
+      "away_team": "Bingham Town F.C. U12 Girls Blue",
+      "home_score": 0,
+      "away_score": 7,
+      "venue": "",
+      "division": "U12 Div 4 P2"
+    },
+    {
       "id": "883b51782fb1afa1ece4bf600eaadb6c",
       "date": "2026-03-01",
       "time": "10:00",
@@ -4984,17 +4995,6 @@
       "away_score": 1,
       "venue": "",
       "division": "U10 League Cup"
-    },
-    {
-      "id": "aebbd9c2b2b510aeb6093c93de679da6",
-      "date": "2026-03-01",
-      "time": "10:00",
-      "home_team": "Muskham Cougars F.C. Youth U12",
-      "away_team": "Bingham Town F.C. U12 Girls Blue",
-      "home_score": 0,
-      "away_score": 7,
-      "venue": "",
-      "division": "Other Fixtures"
     },
     {
       "id": "474eae35a770b335eb4b5196c1b241a0",
@@ -5415,17 +5415,6 @@
       "division": "U13 (9v9) League Cup 1"
     },
     {
-      "id": "16341e34df2011cf39e5f4a7641ea570",
-      "date": "2026-02-22",
-      "time": "11:15",
-      "home_team": "Sherwood Colliery F.C. Ladies U12 Blue",
-      "away_team": "Radcliffe Olympic FC U12 Girls Eagles",
-      "home_score": 4,
-      "away_score": 5,
-      "venue": "",
-      "division": "U12 Div 2 P2"
-    },
-    {
       "id": "f907aae57abf2f6df058defa4cbcbbb0",
       "date": "2026-02-22",
       "time": "11:15",
@@ -5809,6 +5798,17 @@
       "away_score": 0,
       "venue": "",
       "division": "U12 Div 2"
+    },
+    {
+      "id": "16341e34df2011cf39e5f4a7641ea570",
+      "date": "2026-02-22",
+      "time": "10:00",
+      "home_team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "away_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "home_score": 4,
+      "away_score": 5,
+      "venue": "",
+      "division": "U12 Div 2 P2"
     },
     {
       "id": "c44162af3577f073d4f4fda1c3de2117",
@@ -6381,6 +6381,17 @@
       "away_score": 2,
       "venue": "",
       "division": "U13 Div 1 9 v 9"
+    },
+    {
+      "id": "42d6ac878a70a41db2f98e84cf313db3",
+      "date": "2026-02-14",
+      "time": "10:00",
+      "home_team": "West Bridgford Colts U12 Flames",
+      "away_team": "Newark Town FC U12 Girls",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Div 3 P2"
     },
     {
       "id": "dfed78c927df46edde412fe1e6d10c3d",
@@ -8264,17 +8275,6 @@
       "division": "U13 (11v11) Div 2 League Cup"
     },
     {
-      "id": "e9926eedb6436e9b102a3dcb7011a7f5",
-      "date": "2026-01-25",
-      "time": "11:30",
-      "home_team": "Arnold Eagles F.C. Girls U12 FC",
-      "away_team": "Hucknall & Linby Harriers FC U12",
-      "home_score": 2,
-      "away_score": 6,
-      "venue": "",
-      "division": "Other Fixtures"
-    },
-    {
       "id": "e267c2867fd605620eacab2156c2bb5b",
       "date": "2026-01-25",
       "time": "11:15",
@@ -8625,6 +8625,17 @@
       "away_score": 1,
       "venue": "",
       "division": "U12 Div 1"
+    },
+    {
+      "id": "e9926eedb6436e9b102a3dcb7011a7f5",
+      "date": "2026-01-25",
+      "time": "10:00",
+      "home_team": "Arnold Eagles F.C. Girls U12 FC",
+      "away_team": "Hucknall & Linby Harriers FC U12",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "",
+      "division": "U12 Div 1 P2"
     },
     {
       "id": "80df780be33edc87c3280c3ebd198154",

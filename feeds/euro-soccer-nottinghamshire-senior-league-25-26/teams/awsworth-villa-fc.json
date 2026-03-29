@@ -1,19 +1,8 @@
 {
   "team": "Awsworth Villa FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "62fdfb7a85ecdf73c668006b6675292f",
-      "date": "2026-03-28",
-      "time": "15:00",
-      "home_team": "Aslockton & Orston FC",
-      "away_team": "Awsworth Villa FC",
-      "venue": "ORSTON RECREATION GROUND",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Aslockton & Orston FC"
-    },
     {
       "id": "c0f70b7e8800cb8f13340a274e51998c",
       "date": "2026-04-04",
@@ -115,6 +104,21 @@
     }
   ],
   "results": [
+    {
+      "id": "62fdfb7a85ecdf73c668006b6675292f",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "Aslockton & Orston FC",
+      "away_team": "Awsworth Villa FC",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Aslockton & Orston FC",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "c9b2e6876cf81a7a201bca550ae0f307",
       "date": "2026-03-24",

@@ -1,46 +1,7 @@
 {
   "club": "Hilton Harriers",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "7456bf65cff3c2744792bba0f8ba298e",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Coalville Town Rooks U12",
-      "away_team": "Hilton Harriers Fire U12",
-      "venue": "Owen Street Sports Ground LE67 3DA",
-      "division": "U12 Sat Spring Div 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Hilton Harriers Fire U12",
-      "home_away": "away",
-      "opponent": "Coalville Town Rooks U12"
-    },
-    {
-      "id": "ddf7b02a0f68cbd3b51cba6435497adf",
-      "date": "2026-03-28",
-      "time": "10:30",
-      "home_team": "Hilton Harriers Bucks U14",
-      "away_team": "Wollaton H & B Green U14",
-      "venue": "The Mease Pavilion DE65 5LS",
-      "division": "U14 Sat Spring Div 5 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Hilton Harriers Bucks U14",
-      "home_away": "home",
-      "opponent": "Wollaton H & B Green U14"
-    },
-    {
-      "id": "c62f3c43cd9aac5f4e1d32ce9e983d22",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "home_team": "Clifton All Whites Blue U13",
-      "away_team": "Hilton Harriers Vipers U13",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U13 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Hilton Harriers Vipers U13",
-      "home_away": "away",
-      "opponent": "Clifton All Whites Blue U13"
-    },
     {
       "id": "87ee48cda81d226dc3882475d050acda",
       "date": "2026-04-11",
@@ -53,6 +14,19 @@
       "team": "Hilton Harriers Cobras U13",
       "home_away": "home",
       "opponent": "Duffield Dynamo United U13"
+    },
+    {
+      "id": "eb8db77aa3e9bfae944dce01774a8b6b",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Beeston FC U14",
+      "away_team": "Hilton Harriers Bucks U14",
+      "venue": "Trent Vale Sports Ground  NG9 1ND",
+      "division": "U14 Sat Spring Div 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hilton Harriers Bucks U14",
+      "home_away": "away",
+      "opponent": "Beeston FC U14"
     },
     {
       "id": "3f3eab34292f33b0ae0222a315d1ff58",
@@ -133,19 +107,6 @@
       "opponent": "Bingham Town Red U14"
     },
     {
-      "id": "75556ba9ca577caaa143b09e58a80a0a",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Hilton Harriers U13 Girls",
-      "away_team": "Mansfield Town F.C. Girls U13",
-      "venue": "THE MEASE PAVILION - HILTON HARRIERS FC",
-      "division": "U13 Div 1 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Hilton Harriers U13 Girls",
-      "home_away": "home",
-      "opponent": "Mansfield Town F.C. Girls U13"
-    },
-    {
       "id": "68e3b7bf19b9bfbe48f382028311d075",
       "date": "2026-04-19",
       "time": "10:00",
@@ -172,19 +133,6 @@
       "opponent": "AJ Sport FC U14"
     },
     {
-      "id": "34943004cca252a2b7514291ce807a39",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Beeston FC U14",
-      "away_team": "Hilton Harriers Bucks U14",
-      "venue": "Trent Vale Sports Ground  NG9 1ND",
-      "division": "U14 Sat Spring Div 5 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Hilton Harriers Bucks U14",
-      "home_away": "away",
-      "opponent": "Beeston FC U14"
-    },
-    {
       "id": "33e6c24d5e83f3c2e2f00dd49c3d386f",
       "date": "2026-04-21",
       "time": "18:00",
@@ -200,7 +148,7 @@
     {
       "id": "3f81f8c266768f981ad56049f2cb76e7",
       "date": "2026-04-22",
-      "time": "10:00",
+      "time": "18:00",
       "home_team": "Allenton United FC U15 Ladies Bees",
       "away_team": "Hilton Harriers U15 Girls Sunday",
       "venue": "Allenton United FC U15 Ladies Bees",
@@ -367,6 +315,19 @@
       "opponent": "Tansley Juniors U15 Girls"
     },
     {
+      "id": "f650e8da0889a69dbd1a3c268cd524d7",
+      "date": "2026-05-24",
+      "time": "10:00",
+      "home_team": "Hilton Harriers U13 Girls",
+      "away_team": "Mansfield Town F.C. Girls U13",
+      "venue": "THE MEASE PAVILION - HILTON HARRIERS FC",
+      "division": "U13 Div 1 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hilton Harriers U13 Girls",
+      "home_away": "home",
+      "opponent": "Mansfield Town F.C. Girls U13"
+    },
+    {
       "id": "4c4884a7633e3b585b1a8d4276e33f1a",
       "date": "2026-05-31",
       "time": "10:00",
@@ -381,6 +342,57 @@
     }
   ],
   "results": [
+    {
+      "id": "c62f3c43cd9aac5f4e1d32ce9e983d22",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Clifton All Whites Blue U13",
+      "away_team": "Hilton Harriers Vipers U13",
+      "home_score": 9,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hilton Harriers Vipers U13",
+      "home_away": "away",
+      "opponent": "Clifton All Whites Blue U13",
+      "goals_for": 0,
+      "goals_against": 9
+    },
+    {
+      "id": "ddf7b02a0f68cbd3b51cba6435497adf",
+      "date": "2026-03-28",
+      "time": "10:30",
+      "home_team": "Hilton Harriers Bucks U14",
+      "away_team": "Wollaton H & B Green U14",
+      "home_score": 2,
+      "away_score": 9,
+      "venue": "",
+      "division": "U14 Sat Spring Div 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hilton Harriers Bucks U14",
+      "home_away": "home",
+      "opponent": "Wollaton H & B Green U14",
+      "goals_for": 2,
+      "goals_against": 9
+    },
+    {
+      "id": "7456bf65cff3c2744792bba0f8ba298e",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Coalville Town Rooks U12",
+      "away_team": "Hilton Harriers Fire U12",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sat Spring Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hilton Harriers Fire U12",
+      "home_away": "away",
+      "opponent": "Coalville Town Rooks U12",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "37b4e97d8d7a82e48cb93fce4b25d605",
       "date": "2026-03-22",

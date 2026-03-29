@@ -1,19 +1,8 @@
 {
   "team": "Bingham Town Blue U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "903e9e7c8413cc487e582f0c28b58b0f",
-      "date": "2026-03-28",
-      "time": "11:30",
-      "home_team": "Bingham Town Blue U12",
-      "away_team": "Lowdham FC Black U12",
-      "venue": "Butt Field NG13 8GG",
-      "division": "U12 Sat Spring Div 6 Blue",
-      "home_away": "home",
-      "opponent": "Lowdham FC Black U12"
-    },
     {
       "id": "f7736dfed6bcc943ccb79a2f08b85d45",
       "date": "2026-04-11",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "903e9e7c8413cc487e582f0c28b58b0f",
+      "date": "2026-03-28",
+      "time": "11:30",
+      "home_team": "Bingham Town Blue U12",
+      "away_team": "Lowdham FC Black U12",
+      "home_score": 6,
+      "away_score": 7,
+      "venue": "",
+      "division": "U12 Sat Spring Div 6 Blue",
+      "home_away": "home",
+      "opponent": "Lowdham FC Black U12",
+      "goals_for": 6,
+      "goals_against": 7
+    },
     {
       "id": "b1c3de1417438779a79f65faec51434e",
       "date": "2026-03-21",

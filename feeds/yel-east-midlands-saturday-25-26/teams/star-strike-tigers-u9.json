@@ -1,19 +1,8 @@
 {
   "team": "Star Strike Tigers U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "dd4529d6711a39587356a801307fec1d",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Star Strike Tigers U9",
-      "away_team": "Clifton All Whites Green U9",
-      "venue": "Breck Hill Park NG5 4GP",
-      "division": "U9 Sat Spring Div 7 Blue",
-      "home_away": "home",
-      "opponent": "Clifton All Whites Green U9"
-    },
     {
       "id": "f8210a5a0420d95172344f7b0e5b0d90",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "dd4529d6711a39587356a801307fec1d",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Star Strike Tigers U9",
+      "away_team": "Clifton All Whites Green U9",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sat Spring Div 7 Blue",
+      "home_away": "home",
+      "opponent": "Clifton All Whites Green U9",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "2cb3efd68eb5c21ff4f9711ba43873b3",
       "date": "2026-03-21",

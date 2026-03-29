@@ -1,20 +1,7 @@
 {
   "club": "Bulwell Forest",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "02cddaf847e4c83d51b8c09c55a19e83",
-      "date": "2026-03-28",
-      "time": "11:15",
-      "home_team": "Burton Joyce Blue U10",
-      "away_team": "Bulwell Forest U10",
-      "venue": "The Poplars, Burton Joyce  NG14 5AN",
-      "division": "U10 Sat Spring Div 6 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Bulwell Forest U10",
-      "home_away": "away",
-      "opponent": "Burton Joyce Blue U10"
-    },
     {
       "id": "8f3da110101e36e5ca80a10a80b5e156",
       "date": "2026-03-29",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "02cddaf847e4c83d51b8c09c55a19e83",
+      "date": "2026-03-28",
+      "time": "11:15",
+      "home_team": "Burton Joyce Blue U10",
+      "away_team": "Bulwell Forest U10",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 6 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Bulwell Forest U10",
+      "home_away": "away",
+      "opponent": "Burton Joyce Blue U10",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "d39bfb1352a7aefd0cf127dcc9d81216",
       "date": "2026-03-22",

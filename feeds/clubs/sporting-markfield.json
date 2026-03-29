@@ -1,33 +1,7 @@
 {
   "club": "Sporting Markfield",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "fef23811a65333c805b9380a1a2177ba",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Sherwood Colliery Outlaws U10",
-      "away_team": "Sporting Markfield U10",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U10 Sat Spring Premier Division",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sporting Markfield U10",
-      "home_away": "away",
-      "opponent": "Sherwood Colliery Outlaws U10"
-    },
-    {
-      "id": "73a75420b5424dbb69fd09dd2456b0f4",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Somersall Rangers Thunder U14",
-      "away_team": "Sporting Markfield U14",
-      "venue": "Brimington Junior School S43 1HF",
-      "division": "U14 Sat Spring Premier Division",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sporting Markfield U14",
-      "home_away": "away",
-      "opponent": "Somersall Rangers Thunder U14"
-    },
     {
       "id": "3c8a22ee655417c23f0ef0bd0691639c",
       "date": "2026-04-14",
@@ -96,7 +70,7 @@
     {
       "id": "8d531ea4d05a41cb4b5d40a6239322ed",
       "date": "2026-04-25",
-      "time": "11:30",
+      "time": "10:30",
       "home_team": "Sporting Markfield U10",
       "away_team": "Grantham Town U10",
       "venue": "South Charnwood High School LE67 9TB",
@@ -134,6 +108,40 @@
     }
   ],
   "results": [
+    {
+      "id": "fef23811a65333c805b9380a1a2177ba",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Sherwood Colliery Outlaws U10",
+      "away_team": "Sporting Markfield U10",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sporting Markfield U10",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery Outlaws U10",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
+      "id": "73a75420b5424dbb69fd09dd2456b0f4",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Somersall Rangers Thunder U14",
+      "away_team": "Sporting Markfield U14",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sporting Markfield U14",
+      "home_away": "away",
+      "opponent": "Somersall Rangers Thunder U14",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "17626ee68281aae649d55a0adeda21b6",
       "date": "2026-03-22",

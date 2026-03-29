@@ -1,19 +1,8 @@
 {
   "team": "Gedling Southbank Lynx U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "8086518de4075ce20b4bc9672968587b",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Gedling Southbank Lynx U12",
-      "away_team": "Nottingham FC Green U12",
-      "venue": "Trevor Carter Pavilion NG4 1RL",
-      "division": "U12 Sat Spring Div 3 Green",
-      "home_away": "home",
-      "opponent": "Nottingham FC Green U12"
-    },
     {
       "id": "fb6c90cb3c791f950683c078de83e7cf",
       "date": "2026-04-21",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8086518de4075ce20b4bc9672968587b",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Gedling Southbank Lynx U12",
+      "away_team": "Nottingham FC Green U12",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 3 Green",
+      "home_away": "home",
+      "opponent": "Nottingham FC Green U12",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "8a0ccdeeeb4c73920b1b4518e03b254e",
       "date": "2026-03-21",

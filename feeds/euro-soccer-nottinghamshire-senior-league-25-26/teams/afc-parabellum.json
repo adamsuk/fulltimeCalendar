@@ -1,19 +1,8 @@
 {
   "team": "AFC Parabellum",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "cf55a62cc49c059f1e10bd46738371bb",
-      "date": "2026-03-28",
-      "time": "15:00",
-      "home_team": "AFC Parabellum",
-      "away_team": "Beeston Reserves",
-      "venue": "Melbourne Park #1",
-      "division": "NSL Division Two",
-      "home_away": "home",
-      "opponent": "Beeston Reserves"
-    },
     {
       "id": "8a91dbed6031cd140d0b1bd8a23b4d1f",
       "date": "2026-04-04",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "cf55a62cc49c059f1e10bd46738371bb",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "AFC Parabellum",
+      "away_team": "Beeston Reserves",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "NSL Division Two",
+      "home_away": "home",
+      "opponent": "Beeston Reserves",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "d39c9c19d7814f80d1c0a8cd6a4199a3",
       "date": "2026-03-21",

@@ -1,20 +1,7 @@
 {
   "club": "Newark and Sherwood Reserves",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "c93b91cae5a0f179af8547fadc5231f3",
-      "date": "2026-03-28",
-      "time": "15:00",
-      "home_team": "Newark and Sherwood Reserves",
-      "away_team": "Cotgrave Reserves",
-      "venue": "PHOENIX PARK",
-      "division": "NSL Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Newark and Sherwood Reserves",
-      "home_away": "home",
-      "opponent": "Cotgrave Reserves"
-    },
     {
       "id": "cf9dc2ca719f5394b6e7f049c24d50d6",
       "date": "2026-04-11",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "c93b91cae5a0f179af8547fadc5231f3",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "Newark and Sherwood Reserves",
+      "away_team": "Cotgrave Reserves",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Newark and Sherwood Reserves",
+      "home_away": "home",
+      "opponent": "Cotgrave Reserves",
+      "goals_for": 6,
+      "goals_against": 1
+    },
     {
       "id": "9067639e7f596f60067b197e733a61ab",
       "date": "2026-03-21",

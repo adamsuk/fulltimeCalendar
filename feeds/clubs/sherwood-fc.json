@@ -1,59 +1,7 @@
 {
   "club": "Sherwood FC",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "78d4c25edd2240e2ae2660638dbc5d50",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "G3A FC Santos U8",
-      "away_team": "Sherwood FC Blue U8",
-      "venue": "Brunts Academy NG18 2AT",
-      "division": "U8 Sat Spring 5 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sherwood FC Blue U8",
-      "home_away": "away",
-      "opponent": "G3A FC Santos U8"
-    },
-    {
-      "id": "4042244cc6e0334193f9043ece0d4090",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Sherwood FC Lions U9",
-      "away_team": "Spirit Celtic Tigers U9",
-      "venue": "Forest Sports Zone NG7 6LD",
-      "division": "U9 Sat Spring Div 6 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sherwood FC Lions U9",
-      "home_away": "home",
-      "opponent": "Spirit Celtic Tigers U9"
-    },
-    {
-      "id": "7ff162f4bb3ca450272551547134eb63",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Silva FC Rushcliffe Blue U10",
-      "away_team": "Sherwood FC Yellow U10",
-      "venue": "Rushcliffe School  NG2 7BW",
-      "division": "U10 Sat Spring Div 8 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sherwood FC Yellow U10",
-      "home_away": "away",
-      "opponent": "Silva FC Rushcliffe Blue U10"
-    },
-    {
-      "id": "962576ab225ad7cf2a4a1c987cad9e3c",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "home_team": "Clifton All Whites Yellow U12",
-      "away_team": "Sherwood FC Yellow U12",
-      "venue": "Farnborough Academy NG11 8JW",
-      "division": "U12 Sat YEL Inter Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sherwood FC Yellow U12",
-      "home_away": "away",
-      "opponent": "Clifton All Whites Yellow U12"
-    },
     {
       "id": "a69cce2690cba02bd35291af3e8017ee",
       "date": "2026-03-29",
@@ -159,6 +107,19 @@
       "opponent": "Quarrydale United U8"
     },
     {
+      "id": "fc62ee6a5b46bbee5da21a3b791a9854",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Sherwood FC U12 Girls",
+      "away_team": "Langwith Whitestar U12 United",
+      "venue": "CARLTON FOOTBALL CENTRE",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "home",
+      "opponent": "Langwith Whitestar U12 United"
+    },
+    {
       "id": "f069f1bbd71741d677bd03f2dc2b2086",
       "date": "2026-04-12",
       "time": "10:30",
@@ -196,6 +157,19 @@
       "team": "Sherwood FC Blue U8",
       "home_away": "away",
       "opponent": "Lowdham FC Red U8"
+    },
+    {
+      "id": "c9239b0d346f697ac58f7044f2ef3616",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U9 Orange",
+      "away_team": "Sherwood FC Lions U9",
+      "venue": "Norman Archer Memorial Ground NG11 9AZ",
+      "division": "U9 Sat Spring Div 6 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood FC Lions U9",
+      "home_away": "away",
+      "opponent": "Clifton All Whites U9 Orange"
     },
     {
       "id": "7dd697f166fe71cf95b71fced5ce9a09",
@@ -354,6 +328,19 @@
       "opponent": "Priory Celtic FC Ladies First Team"
     },
     {
+      "id": "e54845abf2084126b9cc77dc2a3b12f1",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "away_team": "Sherwood FC U12 Girls",
+      "venue": "BINGHAM ROAD PLAYING FIELDS",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC U12 Girls Eagles"
+    },
+    {
       "id": "184a489836bf564b00164c7c195dea63",
       "date": "2026-04-28",
       "time": "18:00",
@@ -446,6 +433,74 @@
     }
   ],
   "results": [
+    {
+      "id": "962576ab225ad7cf2a4a1c987cad9e3c",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Clifton All Whites Yellow U12",
+      "away_team": "Sherwood FC Yellow U12",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood FC Yellow U12",
+      "home_away": "away",
+      "opponent": "Clifton All Whites Yellow U12",
+      "goals_for": 0,
+      "goals_against": 5
+    },
+    {
+      "id": "78d4c25edd2240e2ae2660638dbc5d50",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "G3A FC Santos U8",
+      "away_team": "Sherwood FC Blue U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 5 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood FC Blue U8",
+      "home_away": "away",
+      "opponent": "G3A FC Santos U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "4042244cc6e0334193f9043ece0d4090",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Sherwood FC Lions U9",
+      "away_team": "Spirit Celtic Tigers U9",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sat Spring Div 6 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood FC Lions U9",
+      "home_away": "home",
+      "opponent": "Spirit Celtic Tigers U9",
+      "goals_for": 3,
+      "goals_against": 0
+    },
+    {
+      "id": "7ff162f4bb3ca450272551547134eb63",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Silva FC Rushcliffe Blue U10",
+      "away_team": "Sherwood FC Yellow U10",
+      "home_score": 6,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sat Spring Div 8 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood FC Yellow U10",
+      "home_away": "away",
+      "opponent": "Silva FC Rushcliffe Blue U10",
+      "goals_for": 2,
+      "goals_against": 6
+    },
     {
       "id": "737b8b6fa14d72917d2fd310a3666c92",
       "date": "2026-03-22",

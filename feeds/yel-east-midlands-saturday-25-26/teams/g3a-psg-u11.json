@@ -1,19 +1,8 @@
 {
   "team": "G3A PSG U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "ad4182407b5d86bde9756c79b4242063",
-      "date": "2026-03-28",
-      "time": "11:15",
-      "home_team": "Silva FC Carlton Black U11",
-      "away_team": "G3A PSG U11",
-      "venue": "Carlton Forum NG4 3SH",
-      "division": "U11 Sat Spring Div 4 Red",
-      "home_away": "away",
-      "opponent": "Silva FC Carlton Black U11"
-    },
     {
       "id": "6f8ad4eb6f0d0ce8e4b7a74272bb7456",
       "date": "2026-04-14",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ad4182407b5d86bde9756c79b4242063",
+      "date": "2026-03-28",
+      "time": "11:15",
+      "home_team": "Silva FC Carlton Black U11",
+      "away_team": "G3A PSG U11",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat Spring Div 4 Red",
+      "home_away": "away",
+      "opponent": "Silva FC Carlton Black U11",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "89834b0617b288eb19dd067f168499ac",
       "date": "2026-03-21",

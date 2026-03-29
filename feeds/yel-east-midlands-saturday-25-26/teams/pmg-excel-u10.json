@@ -1,19 +1,8 @@
 {
   "team": "PMG Excel U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "b89cf0e8e1b2a7e14d2cd6a0c1bb4cc0",
-      "date": "2026-03-28",
-      "time": "11:15",
-      "home_team": "Collingham FC Cougars U10",
-      "away_team": "PMG Excel U10",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U10 Sat Spring Div 2 Silver",
-      "home_away": "away",
-      "opponent": "Collingham FC Cougars U10"
-    },
     {
       "id": "e6b19af54e85f49861511e3f01e75dbc",
       "date": "2026-04-11",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b89cf0e8e1b2a7e14d2cd6a0c1bb4cc0",
+      "date": "2026-03-28",
+      "time": "11:15",
+      "home_team": "Collingham FC Cougars U10",
+      "away_team": "PMG Excel U10",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 2 Silver",
+      "home_away": "away",
+      "opponent": "Collingham FC Cougars U10",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "725f48857b4b5a4383d9593fb1fc9b4e",
       "date": "2026-03-21",

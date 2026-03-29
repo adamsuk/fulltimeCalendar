@@ -1,19 +1,8 @@
 {
   "team": "Hatton United U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "7e529e5e597f389c315f41d65d6e04e2",
-      "date": "2026-03-28",
-      "time": "10:45",
-      "home_team": "Hatton United U12",
-      "away_team": "AFC Chellaston Chiefs U12",
-      "venue": "Goals Arena DE14 1TD",
-      "division": "U12 Sat Spring Div 2 Blue",
-      "home_away": "home",
-      "opponent": "AFC Chellaston Chiefs U12"
-    },
     {
       "id": "7f2bb7662f350042c2a50ed99683c8f9",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7e529e5e597f389c315f41d65d6e04e2",
+      "date": "2026-03-28",
+      "time": "10:45",
+      "home_team": "Hatton United U12",
+      "away_team": "AFC Chellaston Chiefs U12",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 2 Blue",
+      "home_away": "home",
+      "opponent": "AFC Chellaston Chiefs U12",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "a367c9f453a89ca4faf6cb3d856eb4f6",
       "date": "2026-03-21",

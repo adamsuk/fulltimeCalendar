@@ -1,46 +1,7 @@
 {
   "club": "Beaufort United",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "8300450004b76484e27d016e42cdb0c2",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Mapperley All Stars Blue U10",
-      "away_team": "Beaufort United White U10",
-      "venue": "Colwick Recreation Ground NG4 2DW",
-      "division": "U10 Sat Spring Div 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Beaufort United White U10",
-      "home_away": "away",
-      "opponent": "Mapperley All Stars Blue U10"
-    },
-    {
-      "id": "d8b7bf82bd06e0f32ab6c5ee339564ae",
-      "date": "2026-03-28",
-      "time": "10:30",
-      "home_team": "West Bridgford Development",
-      "away_team": "Beaufort United F.C. Development",
-      "venue": "REGATTA WAY SPORTS GROUND",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Beaufort United F.C. Development",
-      "home_away": "away",
-      "opponent": "West Bridgford Development"
-    },
-    {
-      "id": "423e16e1ebf879582d258cd9b67585e5",
-      "date": "2026-03-28",
-      "time": "11:30",
-      "home_team": "Beaufort United Black U14",
-      "away_team": "Walesby FC White U14",
-      "venue": "Unwin Road  NG17 4HT",
-      "division": "U14 Sat Spring Div 6 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Beaufort United Black U14",
-      "home_away": "home",
-      "opponent": "Walesby FC White U14"
-    },
     {
       "id": "abb646d55bec0a451c9eec3491bea837",
       "date": "2026-03-29",
@@ -315,19 +276,6 @@
       "opponent": "Mapperley All Stars Blue U8"
     },
     {
-      "id": "3093e83a7259592a5ec622c5fed8b8c2",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Beeston FC U14",
-      "away_team": "Beaufort United White U14",
-      "venue": "Trent Vale Sports Ground NG9 1ND",
-      "division": "U14 Sun Spring Div 4",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Beaufort United White U14",
-      "home_away": "away",
-      "opponent": "Beeston FC U14"
-    },
-    {
       "id": "13f5c59146a05081e978aaac23dce552",
       "date": "2026-04-26",
       "time": "10:00",
@@ -365,6 +313,19 @@
       "team": "Beaufort United Blue U14",
       "home_away": "home",
       "opponent": "Attenborough Colts Orange U14"
+    },
+    {
+      "id": "3093e83a7259592a5ec622c5fed8b8c2",
+      "date": "2026-04-26",
+      "time": "12:00",
+      "home_team": "Beeston FC U14",
+      "away_team": "Beaufort United White U14",
+      "venue": "Trent Vale Sports Ground NG9 1ND",
+      "division": "U14 Sun Spring Div 4",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Beaufort United White U14",
+      "home_away": "away",
+      "opponent": "Beeston FC U14"
     },
     {
       "id": "6eae730aa2656192f5c74185378b87a9",
@@ -420,6 +381,57 @@
     }
   ],
   "results": [
+    {
+      "id": "423e16e1ebf879582d258cd9b67585e5",
+      "date": "2026-03-28",
+      "time": "11:30",
+      "home_team": "Beaufort United Black U14",
+      "away_team": "Walesby FC White U14",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Beaufort United Black U14",
+      "home_away": "home",
+      "opponent": "Walesby FC White U14",
+      "goals_for": 4,
+      "goals_against": 3
+    },
+    {
+      "id": "d8b7bf82bd06e0f32ab6c5ee339564ae",
+      "date": "2026-03-28",
+      "time": "10:30",
+      "home_team": "West Bridgford Development",
+      "away_team": "Beaufort United F.C. Development",
+      "home_score": 7,
+      "away_score": 5,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Beaufort United F.C. Development",
+      "home_away": "away",
+      "opponent": "West Bridgford Development",
+      "goals_for": 5,
+      "goals_against": 7
+    },
+    {
+      "id": "8300450004b76484e27d016e42cdb0c2",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Mapperley All Stars Blue U10",
+      "away_team": "Beaufort United White U10",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Beaufort United White U10",
+      "home_away": "away",
+      "opponent": "Mapperley All Stars Blue U10",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "609a8fdd9161cc1a6044659a6209b382",
       "date": "2026-03-22",

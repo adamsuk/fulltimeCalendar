@@ -1,19 +1,8 @@
 {
   "team": "Clifton All Whites Blue U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "c62f3c43cd9aac5f4e1d32ce9e983d22",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "home_team": "Clifton All Whites Blue U13",
-      "away_team": "Hilton Harriers Vipers U13",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U13 Sat Spring Div 5 Red",
-      "home_away": "home",
-      "opponent": "Hilton Harriers Vipers U13"
-    },
     {
       "id": "1258b4027126b5d290b7ec97a54d4018",
       "date": "2026-04-11",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c62f3c43cd9aac5f4e1d32ce9e983d22",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Clifton All Whites Blue U13",
+      "away_team": "Hilton Harriers Vipers U13",
+      "home_score": 9,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sat Spring Div 5 Red",
+      "home_away": "home",
+      "opponent": "Hilton Harriers Vipers U13",
+      "goals_for": 9,
+      "goals_against": 0
+    },
     {
       "id": "029121dfa3a66b9e90355c60336ea757",
       "date": "2026-03-21",

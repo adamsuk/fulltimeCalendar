@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United White U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "078c07e3430741803e882f28fc1b019c",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Long Bennington FC U9",
-      "away_team": "Keyworth United White U9",
-      "venue": "Long Bennington QE2 Plyng Fld  NG23 5DJ",
-      "division": "U9 Sat Spring Div 8 Blue",
-      "home_away": "away",
-      "opponent": "Long Bennington FC U9"
-    },
     {
       "id": "9ce50f4cefb1e57b0513baa0e5868241",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "078c07e3430741803e882f28fc1b019c",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Long Bennington FC U9",
+      "away_team": "Keyworth United White U9",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U9 Sat Spring Div 8 Blue",
+      "home_away": "away",
+      "opponent": "Long Bennington FC U9",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "24a071a47d11879e1f398f8355e7334d",
       "date": "2026-03-21",

@@ -1,19 +1,8 @@
 {
   "team": "Beaumont Park Pumas U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "f8e7fcef4de299f959c1914496858cf1",
-      "date": "2026-03-28",
-      "time": "10:45",
-      "home_team": "Beaumont Park Pumas U12",
-      "away_team": "Basford United United U12",
-      "venue": "Beaumont Park LE4 1DS",
-      "division": "U12 Sat Spring Div 1 Gold",
-      "home_away": "home",
-      "opponent": "Basford United United U12"
-    },
     {
       "id": "179b3d4f8e0bf8a8f7c1265a4096fb98",
       "date": "2026-04-18",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f8e7fcef4de299f959c1914496858cf1",
+      "date": "2026-03-28",
+      "time": "10:45",
+      "home_team": "Beaumont Park Pumas U12",
+      "away_team": "Basford United United U12",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 1 Gold",
+      "home_away": "home",
+      "opponent": "Basford United United U12",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "9268fae9db082ee4dbbea72fcacd0db2",
       "date": "2026-03-21",

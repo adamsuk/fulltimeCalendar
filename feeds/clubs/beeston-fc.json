@@ -1,20 +1,7 @@
 {
   "club": "Beeston FC",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "8d67048f7a2b175b7dd3de25e720ac7d",
-      "date": "2026-03-28",
-      "time": "15:00",
-      "home_team": "Beeston FC",
-      "away_team": "Keyworth United FC",
-      "venue": "Trent Vale Road Sports Ground",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Beeston FC",
-      "home_away": "home",
-      "opponent": "Keyworth United FC"
-    },
     {
       "id": "4e17c038a866c61970d6a2b8a2b6d960",
       "date": "2026-03-29",
@@ -92,6 +79,19 @@
       "team": "Beeston FC",
       "home_away": "away",
       "opponent": "Notts Olympic FC"
+    },
+    {
+      "id": "eb8db77aa3e9bfae944dce01774a8b6b",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Beeston FC U14",
+      "away_team": "Hilton Harriers Bucks U14",
+      "venue": "Trent Vale Sports Ground  NG9 1ND",
+      "division": "U14 Sat Spring Div 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Beeston FC U14",
+      "home_away": "home",
+      "opponent": "Hilton Harriers Bucks U14"
     },
     {
       "id": "480ba318d75da25ae516e2c405800b9e",
@@ -367,19 +367,6 @@
       "opponent": "West Bridgford Colts Women's Development"
     },
     {
-      "id": "34943004cca252a2b7514291ce807a39",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Beeston FC U14",
-      "away_team": "Hilton Harriers Bucks U14",
-      "venue": "Trent Vale Sports Ground  NG9 1ND",
-      "division": "U14 Sat Spring Div 5 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Beeston FC U14",
-      "home_away": "home",
-      "opponent": "Hilton Harriers Bucks U14"
-    },
-    {
       "id": "36f768890440b499eecd5eca02bb018a",
       "date": "2026-04-21",
       "time": "18:00",
@@ -445,19 +432,6 @@
       "opponent": "Barrowby FC Green U12"
     },
     {
-      "id": "3093e83a7259592a5ec622c5fed8b8c2",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Beeston FC U14",
-      "away_team": "Beaufort United White U14",
-      "venue": "Trent Vale Sports Ground NG9 1ND",
-      "division": "U14 Sun Spring Div 4",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Beeston FC U14",
-      "home_away": "home",
-      "opponent": "Beaufort United White U14"
-    },
-    {
       "id": "69fccce072c294164f7764c5beaa4fb7",
       "date": "2026-04-26",
       "time": "10:00",
@@ -495,6 +469,19 @@
       "team": "Beeston FC Black U13",
       "home_away": "home",
       "opponent": "Silva FC Southglade Grey U13"
+    },
+    {
+      "id": "3093e83a7259592a5ec622c5fed8b8c2",
+      "date": "2026-04-26",
+      "time": "12:00",
+      "home_team": "Beeston FC U14",
+      "away_team": "Beaufort United White U14",
+      "venue": "Trent Vale Sports Ground NG9 1ND",
+      "division": "U14 Sun Spring Div 4",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Beeston FC U14",
+      "home_away": "home",
+      "opponent": "Beaufort United White U14"
     },
     {
       "id": "fba1a5b9919de8f4ba5efb1ec8d4f9cb",
@@ -615,6 +602,23 @@
     }
   ],
   "results": [
+    {
+      "id": "8d67048f7a2b175b7dd3de25e720ac7d",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "Beeston FC",
+      "away_team": "Keyworth United FC",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Beeston FC",
+      "home_away": "home",
+      "opponent": "Keyworth United FC",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "e372a5675d2100b238150b45d1f4d330",
       "date": "2026-03-22",

@@ -1,19 +1,8 @@
 {
   "team": "Gotham Rangers U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "9efd434bce0fbd036f83c5acf86a17d3",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Edwalton Cavaliers Blue U9",
-      "away_team": "Gotham Rangers U9",
-      "venue": "Nottingham Football Centre NG2 7BW",
-      "division": "U9 Sat Spring Div 6 Blue",
-      "home_away": "away",
-      "opponent": "Edwalton Cavaliers Blue U9"
-    },
     {
       "id": "e80b1309ff0d47afe6fb20d7a07521fb",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "9efd434bce0fbd036f83c5acf86a17d3",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Edwalton Cavaliers Blue U9",
+      "away_team": "Gotham Rangers U9",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat Spring Div 6 Blue",
+      "home_away": "away",
+      "opponent": "Edwalton Cavaliers Blue U9",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "7982952ceb99f9f4943fc25b7b75b62a",
       "date": "2026-03-21",

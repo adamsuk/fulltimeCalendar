@@ -1,19 +1,8 @@
 {
   "team": "Southwell City Panthers U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "47730aa48248b3fd722bf82bcf9ac1fe",
-      "date": "2026-03-28",
-      "time": "12:00",
-      "home_team": "AC United U11",
-      "away_team": "Southwell City Panthers U11",
-      "venue": "Forest Recreation Ground  NG7 6HB",
-      "division": "U11 Sat Spring Div 6 Red",
-      "home_away": "away",
-      "opponent": "AC United U11"
-    },
     {
       "id": "e5c5943307bb2cb5305cfe09f42fc422",
       "date": "2026-04-14",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "47730aa48248b3fd722bf82bcf9ac1fe",
+      "date": "2026-03-28",
+      "time": "12:00",
+      "home_team": "AC United U11",
+      "away_team": "Southwell City Panthers U11",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 6 Red",
+      "home_away": "away",
+      "opponent": "AC United U11",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "bc6bedfe9c60bbe6c767849065b864ac",
       "date": "2026-03-21",

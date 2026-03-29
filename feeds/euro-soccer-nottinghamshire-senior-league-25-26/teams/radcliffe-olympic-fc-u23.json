@@ -1,19 +1,8 @@
 {
   "team": "Radcliffe Olympic FC U23",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "f4ea9d4df1b59a4c5f826a4560fc0439",
-      "date": "2026-03-28",
-      "time": "11:15",
-      "home_team": "Radcliffe Olympic FC U23",
-      "away_team": "Stapleford Town FC U23",
-      "venue": "SOUTH NOTTINGHAMSHIRE ACADEMY",
-      "division": "Development Spring Division Two",
-      "home_away": "home",
-      "opponent": "Stapleford Town FC U23"
-    },
     {
       "id": "8e2aa979e817f20192bcae0ca6f05d05",
       "date": "2026-04-01",
@@ -104,6 +93,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f4ea9d4df1b59a4c5f826a4560fc0439",
+      "date": "2026-03-28",
+      "time": "11:15",
+      "home_team": "Radcliffe Olympic FC U23",
+      "away_team": "Stapleford Town FC U23",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "home_away": "home",
+      "opponent": "Stapleford Town FC U23",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "d20b12dfabad345690b954c331978b4c",
       "date": "2026-03-21",

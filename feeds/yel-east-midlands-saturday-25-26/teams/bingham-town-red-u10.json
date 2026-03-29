@@ -1,19 +1,8 @@
 {
   "team": "Bingham Town Red U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "7333d1bc98cbf9b93270ab0f50250469",
-      "date": "2026-03-28",
-      "time": "09:00",
-      "home_team": "DJFC U10",
-      "away_team": "Bingham Town Red U10",
-      "venue": "Joseph Whitaker School  NG21 0AG",
-      "division": "U10 Sat Spring Div 8 Red",
-      "home_away": "away",
-      "opponent": "DJFC U10"
-    },
     {
       "id": "ae5c0f0c4d64a5b9477d4f3a559dcf78",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7333d1bc98cbf9b93270ab0f50250469",
+      "date": "2026-03-28",
+      "time": "09:00",
+      "home_team": "DJFC U10",
+      "away_team": "Bingham Town Red U10",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sat Spring Div 8 Red",
+      "home_away": "away",
+      "opponent": "DJFC U10",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "c07e372e3e638f23686841d17faa3488",
       "date": "2026-03-21",

@@ -1,20 +1,7 @@
 {
   "club": "Reindeer FC",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "346577dc7d72ab0009659b03954f3cf3",
-      "date": "2026-03-28",
-      "time": "15:00",
-      "home_team": "Wollaton Reserves",
-      "away_team": "Reindeer FC",
-      "venue": "WOLLATON SPORTS ASSOCIATION GROUND",
-      "division": "NSL Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Reindeer FC",
-      "home_away": "away",
-      "opponent": "Wollaton Reserves"
-    },
     {
       "id": "8a91dbed6031cd140d0b1bd8a23b4d1f",
       "date": "2026-04-04",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "346577dc7d72ab0009659b03954f3cf3",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "Wollaton Reserves",
+      "away_team": "Reindeer FC",
+      "home_score": 8,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Reindeer FC",
+      "home_away": "away",
+      "opponent": "Wollaton Reserves",
+      "goals_for": 2,
+      "goals_against": 8
+    },
     {
       "id": "41893c4889150b558113921ea9f563ab",
       "date": "2026-02-21",

@@ -1,19 +1,8 @@
 {
   "team": "Sandiacre Town Spartans U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "fd62cd2f4eb586fd4dc2bacf6a29fa62",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Sandiacre Town Spartans U12",
-      "away_team": "Stapleford Town Jaguars U12",
-      "venue": "Friesland School NG10 5AF",
-      "division": "U12 Sat Spring Div 7 Blue",
-      "home_away": "home",
-      "opponent": "Stapleford Town Jaguars U12"
-    },
     {
       "id": "f769d26b41a88c4034507c01f68949b1",
       "date": "2026-04-14",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "fd62cd2f4eb586fd4dc2bacf6a29fa62",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Sandiacre Town Spartans U12",
+      "away_team": "Stapleford Town Jaguars U12",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sat Spring Div 7 Blue",
+      "home_away": "home",
+      "opponent": "Stapleford Town Jaguars U12",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "f29ab0062835c9df3cbb55003f1b9567",
       "date": "2026-03-21",

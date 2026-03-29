@@ -1,33 +1,7 @@
 {
   "club": "Basford CFC",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "8465556f3c1623584669cde1808812c4",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Mapperley All Stars Stripes U9",
-      "away_team": "Basford CFC Iconz U9",
-      "venue": "Colwick Recreation Ground NG4 2DW",
-      "division": "U9 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Iconz U9",
-      "home_away": "away",
-      "opponent": "Mapperley All Stars Stripes U9"
-    },
-    {
-      "id": "eeaa09c734ec546d9ea04141e04d2c7f",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "Ilkeston Town PSG U10",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U10 Sat Spring Div 2 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "Ilkeston Town PSG U10"
-    },
     {
       "id": "e1c212991213063bab82a233d27edd43",
       "date": "2026-03-29",
@@ -199,6 +173,40 @@
     }
   ],
   "results": [
+    {
+      "id": "eeaa09c734ec546d9ea04141e04d2c7f",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Basford CFC Blue U10",
+      "away_team": "Ilkeston Town PSG U10",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U10 Sat Spring Div 2 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford CFC Blue U10",
+      "home_away": "home",
+      "opponent": "Ilkeston Town PSG U10",
+      "goals_for": 2,
+      "goals_against": 5
+    },
+    {
+      "id": "8465556f3c1623584669cde1808812c4",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Mapperley All Stars Stripes U9",
+      "away_team": "Basford CFC Iconz U9",
+      "home_score": 5,
+      "away_score": 5,
+      "venue": "",
+      "division": "U9 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford CFC Iconz U9",
+      "home_away": "away",
+      "opponent": "Mapperley All Stars Stripes U9",
+      "goals_for": 5,
+      "goals_against": 5
+    },
     {
       "id": "13d1631505a7d5ca275b86bbabcfa3b0",
       "date": "2026-03-22",

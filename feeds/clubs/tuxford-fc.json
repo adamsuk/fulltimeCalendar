@@ -1,20 +1,7 @@
 {
   "club": "Tuxford FC",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "29316fefbe081593c7d82ec18f662d1e",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Shirebrook Rangers Blue U9",
-      "away_team": "Tuxford FC U9",
-      "venue": "Shirebrook Academy  NG20 8QF",
-      "division": "U9 Sat Spring Div 7 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Tuxford FC U9",
-      "home_away": "away",
-      "opponent": "Shirebrook Rangers Blue U9"
-    },
     {
       "id": "17de04c9bf581f38dd89875c46583d06",
       "date": "2026-04-18",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "29316fefbe081593c7d82ec18f662d1e",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers Blue U9",
+      "away_team": "Tuxford FC U9",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tuxford FC U9",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers Blue U9",
+      "goals_for": 3,
+      "goals_against": 5
+    },
     {
       "id": "1a61e2ca0e6c44540980729c538e59af",
       "date": "2026-03-22",

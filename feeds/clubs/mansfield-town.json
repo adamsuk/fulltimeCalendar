@@ -1,20 +1,7 @@
 {
   "club": "Mansfield Town",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "a34585fb72bdf9416de59f3f33286212",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Mansfield Town Grassroots Y/W U12",
-      "away_team": "AFC Chellaston Chargers U12",
-      "venue": "One Call Stadium NG18 5DA",
-      "division": "U12 Sat Spring Premier Division",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Mansfield Town Grassroots Y/W U12",
-      "home_away": "home",
-      "opponent": "AFC Chellaston Chargers U12"
-    },
     {
       "id": "68abb809db3c9cfd766cd9be7fdce355",
       "date": "2026-03-29",
@@ -222,19 +209,6 @@
       "team": "Mansfield Town F.C. Girls U12",
       "home_away": "away",
       "opponent": "Arnold Eagles F.C. Girls U12 FC"
-    },
-    {
-      "id": "75556ba9ca577caaa143b09e58a80a0a",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Hilton Harriers U13 Girls",
-      "away_team": "Mansfield Town F.C. Girls U13",
-      "venue": "THE MEASE PAVILION - HILTON HARRIERS FC",
-      "division": "U13 Div 1 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Mansfield Town F.C. Girls U13",
-      "home_away": "away",
-      "opponent": "Hilton Harriers U13 Girls"
     },
     {
       "id": "c55b14ac89dde37674faa5959013231e",
@@ -495,9 +469,39 @@
       "team": "Mansfield Town F.C. Girls U13",
       "home_away": "home",
       "opponent": "Calverton Miners Welfare FC U13"
+    },
+    {
+      "id": "f650e8da0889a69dbd1a3c268cd524d7",
+      "date": "2026-05-24",
+      "time": "10:00",
+      "home_team": "Hilton Harriers U13 Girls",
+      "away_team": "Mansfield Town F.C. Girls U13",
+      "venue": "THE MEASE PAVILION - HILTON HARRIERS FC",
+      "division": "U13 Div 1 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Mansfield Town F.C. Girls U13",
+      "home_away": "away",
+      "opponent": "Hilton Harriers U13 Girls"
     }
   ],
   "results": [
+    {
+      "id": "a34585fb72bdf9416de59f3f33286212",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Mansfield Town Grassroots Y/W U12",
+      "away_team": "AFC Chellaston Chargers U12",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mansfield Town Grassroots Y/W U12",
+      "home_away": "home",
+      "opponent": "AFC Chellaston Chargers U12",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "4185b43b04d4e6f0561fc42474228f8f",
       "date": "2026-03-22",

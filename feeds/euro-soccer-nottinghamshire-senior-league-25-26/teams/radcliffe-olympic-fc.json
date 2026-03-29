@@ -1,19 +1,8 @@
 {
   "team": "Radcliffe Olympic FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "fc246f66e7032ece48735e4c1b0f8b24",
-      "date": "2026-03-28",
-      "time": "15:00",
-      "home_team": "Stapleford Town Reserves",
-      "away_team": "Radcliffe Olympic FC",
-      "venue": "HICKINGS LANE RECREATION GROUND #1",
-      "division": "NSL Division One",
-      "home_away": "away",
-      "opponent": "Stapleford Town Reserves"
-    },
     {
       "id": "d6e003fcb8a56113b2101153d50fe956",
       "date": "2026-04-04",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "fc246f66e7032ece48735e4c1b0f8b24",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "Stapleford Town Reserves",
+      "away_team": "Radcliffe Olympic FC",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "",
+      "division": "NSL Division One",
+      "home_away": "away",
+      "opponent": "Stapleford Town Reserves",
+      "goals_for": 0,
+      "goals_against": 6
+    },
     {
       "id": "5e4ae5312aed7715d680ada66133f521",
       "date": "2026-03-21",

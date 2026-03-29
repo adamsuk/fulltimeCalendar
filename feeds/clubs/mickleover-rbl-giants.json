@@ -1,20 +1,7 @@
 {
   "club": "Mickleover RBL Giants",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "29bb8f95d10bcdda2cbc67f0daa8c9d2",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Notts Olympic FC U11",
-      "away_team": "Mickleover RBL Giants U11",
-      "venue": "Birchover Park NG8 4BW",
-      "division": "U11 Sat Spring Div 1",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Mickleover RBL Giants U11",
-      "home_away": "away",
-      "opponent": "Notts Olympic FC U11"
-    },
     {
       "id": "fdd81207512f9ec5f1278af2dcb3b8c1",
       "date": "2026-04-14",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "29bb8f95d10bcdda2cbc67f0daa8c9d2",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Notts Olympic FC U11",
+      "away_team": "Mickleover RBL Giants U11",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mickleover RBL Giants U11",
+      "home_away": "away",
+      "opponent": "Notts Olympic FC U11",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "b11ffa96dc2db8e22dd55dde25f77428",
       "date": "2026-03-21",

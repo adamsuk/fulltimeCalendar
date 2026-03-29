@@ -1,33 +1,7 @@
 {
   "club": "Bilborough Town",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "e31f363636b51f02fe2338a36a3f8cf8",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Bilborough Town U12",
-      "away_team": "Pinxton United U13 Girls",
-      "venue": "Harvey Haddon  NG8 4PB",
-      "division": "U12 Sat Spring Div 7 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Bilborough Town U12",
-      "home_away": "home",
-      "opponent": "Pinxton United U13 Girls"
-    },
-    {
-      "id": "8fd824e6fe5794f61f7aa4bd8375bec5",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "WBYFC Wanderers U9",
-      "away_team": "Bilborough Town U9",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U9 Sat Spring Div 9 Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Bilborough Town U9",
-      "home_away": "away",
-      "opponent": "WBYFC Wanderers U9"
-    },
     {
       "id": "f5fbf2fea2e27dccf6065e2f0403489c",
       "date": "2026-04-18",
@@ -56,6 +30,40 @@
     }
   ],
   "results": [
+    {
+      "id": "e31f363636b51f02fe2338a36a3f8cf8",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Bilborough Town U12",
+      "away_team": "Pinxton United U13 Girls",
+      "home_score": 2,
+      "away_score": 8,
+      "venue": "",
+      "division": "U12 Sat Spring Div 7 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Bilborough Town U12",
+      "home_away": "home",
+      "opponent": "Pinxton United U13 Girls",
+      "goals_for": 2,
+      "goals_against": 8
+    },
+    {
+      "id": "8fd824e6fe5794f61f7aa4bd8375bec5",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "WBYFC Wanderers U9",
+      "away_team": "Bilborough Town U9",
+      "home_score": 2,
+      "away_score": 14,
+      "venue": "",
+      "division": "U9 Sat Spring Div 9 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Bilborough Town U9",
+      "home_away": "away",
+      "opponent": "WBYFC Wanderers U9",
+      "goals_for": 14,
+      "goals_against": 2
+    },
     {
       "id": "d66e1488919eccf14219e8f3b7ebaa43",
       "date": "2026-03-21",

@@ -1,19 +1,8 @@
 {
   "team": "Nottingham FC Black U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "719dabea5f392a31e5f35c337b8b5244",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Nottingham FC Black U13",
-      "away_team": "A.C. United F.C. U13",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U13 Sat YEL Inter Cup",
-      "home_away": "home",
-      "opponent": "A.C. United F.C. U13"
-    },
     {
       "id": "21761a8744c70738f64167ddd1615a03",
       "date": "2026-04-14",
@@ -35,6 +24,17 @@
       "division": "U13 Sat Spring Div 4 Red",
       "home_away": "away",
       "opponent": "Keyworth United Cyan U13"
+    },
+    {
+      "id": "14eb0bc35e34dd0ee00ad18f0b1c58a8",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Nottingham FC Black U13",
+      "away_team": "Newhall FC Jaguars U13",
+      "venue": "Melbourne Park NG8 5HL",
+      "division": "U13 Sat YEL Inter Cup",
+      "home_away": "home",
+      "opponent": "Newhall FC Jaguars U13"
     },
     {
       "id": "92fc741b7aeef456af09a561eb0514da",
@@ -60,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "719dabea5f392a31e5f35c337b8b5244",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Nottingham FC Black U13",
+      "away_team": "A.C. United F.C. U13",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sat YEL Inter Cup",
+      "home_away": "home",
+      "opponent": "A.C. United F.C. U13",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "c579587602be8f668bc8fc1a85d5d2d5",
       "date": "2026-03-21",

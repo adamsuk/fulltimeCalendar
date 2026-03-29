@@ -1,20 +1,7 @@
 {
   "club": "Shirebrook Rangers",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "29316fefbe081593c7d82ec18f662d1e",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Shirebrook Rangers Blue U9",
-      "away_team": "Tuxford FC U9",
-      "venue": "Shirebrook Academy  NG20 8QF",
-      "division": "U9 Sat Spring Div 7 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Shirebrook Rangers Blue U9",
-      "home_away": "home",
-      "opponent": "Tuxford FC U9"
-    },
     {
       "id": "a7f4cb42f5ba18f9b51a01ee27facd61",
       "date": "2026-03-28",
@@ -27,32 +14,6 @@
       "team": "Shirebrook Rangers Red U12",
       "home_away": "away",
       "opponent": "Woodhouse Colts Originals U12"
-    },
-    {
-      "id": "92cdb6a8f75329c1d31d5ed1d301cac8",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Shirebrook Rangers Red U9",
-      "away_team": "A.C. United U9",
-      "venue": "Shirebrook Academy  NG20 8QF",
-      "division": "U9 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Shirebrook Rangers Red U9",
-      "home_away": "home",
-      "opponent": "A.C. United U9"
-    },
-    {
-      "id": "f7a1a707f2f5234e094b688a30a576f9",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Shirebrook Rangers U7",
-      "away_team": "Lowdham FC Red U7",
-      "venue": "Shirebrook Academy  NG20 8QF",
-      "division": "U7 Sat Spring 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Shirebrook Rangers U7",
-      "home_away": "home",
-      "opponent": "Lowdham FC Red U7"
     },
     {
       "id": "1b718c4fdf7a502b0f0e6b29c526ca7a",
@@ -198,17 +159,17 @@
       "opponent": "West Bridgford Colts U18 Comets"
     },
     {
-      "id": "86bc9c076e908ebd4427d4f39a87f06b",
+      "id": "f3f2f1d305a1150f106a716d6c25fc58",
       "date": "2026-04-12",
       "time": "10:00",
       "home_team": "Shirebrook Rangers & Juniors U9 Girls",
-      "away_team": "Hucknall & Linby Harriers FC U9",
-      "venue": "SHIREBROOK ACADEMY",
-      "division": "Other Fixtures",
+      "away_team": "Hucknall Sports F.C. Youth U9 Wildcats",
+      "venue": "Shirebrook Rangers & Juniors U9 Girls",
+      "division": "U9 Development",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Shirebrook Rangers & Juniors U9 Girls",
       "home_away": "home",
-      "opponent": "Hucknall & Linby Harriers FC U9"
+      "opponent": "Hucknall Sports F.C. Youth U9 Wildcats"
     },
     {
       "id": "4f9102690c872ddf6d051a77378c5b43",
@@ -628,6 +589,57 @@
     }
   ],
   "results": [
+    {
+      "id": "29316fefbe081593c7d82ec18f662d1e",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers Blue U9",
+      "away_team": "Tuxford FC U9",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Shirebrook Rangers Blue U9",
+      "home_away": "home",
+      "opponent": "Tuxford FC U9",
+      "goals_for": 5,
+      "goals_against": 3
+    },
+    {
+      "id": "92cdb6a8f75329c1d31d5ed1d301cac8",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers Red U9",
+      "away_team": "A.C. United U9",
+      "home_score": 7,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Shirebrook Rangers Red U9",
+      "home_away": "home",
+      "opponent": "A.C. United U9",
+      "goals_for": 7,
+      "goals_against": 3
+    },
+    {
+      "id": "f7a1a707f2f5234e094b688a30a576f9",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers U7",
+      "away_team": "Lowdham FC Red U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Shirebrook Rangers U7",
+      "home_away": "home",
+      "opponent": "Lowdham FC Red U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "a401a6a50f0d794cd1397e112fe23851",
       "date": "2026-03-22",

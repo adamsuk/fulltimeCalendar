@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Napoli U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "fe8f2dd93228c467299f8c992b1fc88d",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Phoenix Inham Knights U10",
-      "away_team": "WBYFC Napoli U10",
-      "venue": "Inham Nook Recreation Ground NG9 4GQ",
-      "division": "U10 Sat Spring Div 6 Green",
-      "home_away": "away",
-      "opponent": "Phoenix Inham Knights U10"
-    },
     {
       "id": "c13c60f0a3f14d12e9514e22da39cba3",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "fe8f2dd93228c467299f8c992b1fc88d",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Phoenix Inham Knights U10",
+      "away_team": "WBYFC Napoli U10",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 6 Green",
+      "home_away": "away",
+      "opponent": "Phoenix Inham Knights U10",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "cf515bb064dcfb582c4737291dec98fe",
       "date": "2026-03-21",

@@ -1,20 +1,7 @@
 {
   "club": "Castle Donington",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "9f1a86467e4081d9cb863fe16da4c9ff",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Castle Donington Raptors U8",
-      "away_team": "Club FDNA Santos U8",
-      "venue": "Spital Park DE74 2NQ",
-      "division": "U8 Sat Spring 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Castle Donington Raptors U8",
-      "home_away": "home",
-      "opponent": "Club FDNA Santos U8"
-    },
     {
       "id": "f8e748c442c362144a0d0c15c3487df2",
       "date": "2026-03-29",
@@ -107,19 +94,6 @@
       "opponent": "WBYFC BVB U10"
     },
     {
-      "id": "4f2a059d0c3ff36520c47db3e6a1ca81",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Priory Celtic Green U8",
-      "away_team": "Castle Donington Raptors U8",
-      "venue": "Kimberley Leisure Centre NG16 2NJ 3G 5v5 Pitch (A)",
-      "division": "U8 Sat Spring 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Castle Donington Raptors U8",
-      "home_away": "away",
-      "opponent": "Priory Celtic Green U8"
-    },
-    {
       "id": "1a4ad3f992b8fdd126a0b671946c1f08",
       "date": "2026-04-11",
       "time": "10:00",
@@ -131,6 +105,19 @@
       "team": "Castle Donington Rex's U8",
       "home_away": "home",
       "opponent": "Ollerton Town Black U8"
+    },
+    {
+      "id": "4f2a059d0c3ff36520c47db3e6a1ca81",
+      "date": "2026-04-11",
+      "time": "11:00",
+      "home_team": "Priory Celtic Green U8",
+      "away_team": "Castle Donington Raptors U8",
+      "venue": "Kimberley Leisure Centre NG16 2NJ 3G 5v5 Pitch (A)",
+      "division": "U8 Sat Spring 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Castle Donington Raptors U8",
+      "home_away": "away",
+      "opponent": "Priory Celtic Green U8"
     },
     {
       "id": "0a8f804078aa422286e09b2eef126273",
@@ -459,6 +446,23 @@
     }
   ],
   "results": [
+    {
+      "id": "9f1a86467e4081d9cb863fe16da4c9ff",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Castle Donington Raptors U8",
+      "away_team": "Club FDNA Santos U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Castle Donington Raptors U8",
+      "home_away": "home",
+      "opponent": "Club FDNA Santos U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "e8c00f3f981763fcd2c2bfc6b6ba60a8",
       "date": "2026-03-22",

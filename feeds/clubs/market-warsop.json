@@ -1,33 +1,7 @@
 {
   "club": "Market Warsop",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "182312cd066a27f4c5bf6d42447f2bb6",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Market Warsop Panthers U10",
-      "away_team": "Teversal FC Blue U10",
-      "venue": "John Fretwell Centre NG19 8LL",
-      "division": "U10 Sat Spring Div 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Market Warsop Panthers U10",
-      "home_away": "home",
-      "opponent": "Teversal FC Blue U10"
-    },
-    {
-      "id": "523711fe7e6e172a791c03eddce81d46",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Hucknall Sports Red U8",
-      "away_team": "Market Warsop Stags U8",
-      "venue": "Engine Rooms NG15 6EP",
-      "division": "U8 Sat Spring 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Market Warsop Stags U8",
-      "home_away": "away",
-      "opponent": "Hucknall Sports Red U8"
-    },
     {
       "id": "0bff39dc7eb49b81dfba79c856830736",
       "date": "2026-03-29",
@@ -446,6 +420,40 @@
     }
   ],
   "results": [
+    {
+      "id": "182312cd066a27f4c5bf6d42447f2bb6",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Market Warsop Panthers U10",
+      "away_team": "Teversal FC Blue U10",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Market Warsop Panthers U10",
+      "home_away": "home",
+      "opponent": "Teversal FC Blue U10",
+      "goals_for": 2,
+      "goals_against": 3
+    },
+    {
+      "id": "523711fe7e6e172a791c03eddce81d46",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Hucknall Sports Red U8",
+      "away_team": "Market Warsop Stags U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Market Warsop Stags U8",
+      "home_away": "away",
+      "opponent": "Hucknall Sports Red U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "2b664bb5ea7eb6648ef86f8bb05a60d0",
       "date": "2026-03-22",

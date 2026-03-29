@@ -1,20 +1,7 @@
 {
   "club": "Bestwood Colliery",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "c5962429cf350cc91d36ca758f23e2b8",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "home_team": "Bestwood Colliery U14",
-      "away_team": "Basford United Ambers U14",
-      "venue": "High Main Drive NG6 8YX",
-      "division": "U14 Sat Spring Premier Division",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Bestwood Colliery U14",
-      "home_away": "home",
-      "opponent": "Basford United Ambers U14"
-    },
     {
       "id": "901588587bbded3f7f60cc61f81ab3e4",
       "date": "2026-03-29",
@@ -160,6 +147,23 @@
     }
   ],
   "results": [
+    {
+      "id": "c5962429cf350cc91d36ca758f23e2b8",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Bestwood Colliery U14",
+      "away_team": "Basford United Ambers U14",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Bestwood Colliery U14",
+      "home_away": "home",
+      "opponent": "Basford United Ambers U14",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "b3c306f1b2f698527cfe4ffc00a229a6",
       "date": "2026-03-22",

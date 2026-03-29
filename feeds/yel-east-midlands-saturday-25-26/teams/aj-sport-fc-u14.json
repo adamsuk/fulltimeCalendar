@@ -1,7 +1,7 @@
 {
   "team": "AJ Sport FC U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
     {
       "id": "9482081b7991f2d6b616c59a65a49ad9",
@@ -13,17 +13,6 @@
       "division": "U14 Sat YEL Trophy",
       "home_away": "home",
       "opponent": "Collingham FC Lions U14"
-    },
-    {
-      "id": "beb94638b23efe064d5e264f595fb933",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Blidworth Bengals Black U14",
-      "away_team": "AJ Sport FC U14",
-      "venue": "Unwin Road  NG17 4HT",
-      "division": "u14 Sat Spring Div 1 Silver",
-      "home_away": "away",
-      "opponent": "Blidworth Bengals Black U14"
     },
     {
       "id": "c0a26045a02979081c519ea35d0bb1d6",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "beb94638b23efe064d5e264f595fb933",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Blidworth Bengals Black U14",
+      "away_team": "AJ Sport FC U14",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "u14 Sat Spring Div 1 Silver",
+      "home_away": "away",
+      "opponent": "Blidworth Bengals Black U14",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "cee2616f68a7abc650b1749bd3499574",
       "date": "2026-03-14",

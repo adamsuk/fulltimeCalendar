@@ -1,19 +1,8 @@
 {
   "team": "Eastwood CFC Aces U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "9f2e6cf9ef9a20ed9de6da5cb5335815",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "home_team": "Heather St Johns U14",
-      "away_team": "Eastwood CFC Aces U14",
-      "venue": "Heather St Johns FC, LE67 2QJ",
-      "division": "u14 Sat Spring Div 1 Gold",
-      "home_away": "away",
-      "opponent": "Heather St Johns U14"
-    },
     {
       "id": "f2446ea0d8b96927e1a1e1cbeb268646",
       "date": "2026-04-21",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "9f2e6cf9ef9a20ed9de6da5cb5335815",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Heather St Johns U14",
+      "away_team": "Eastwood CFC Aces U14",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "u14 Sat Spring Div 1 Gold",
+      "home_away": "away",
+      "opponent": "Heather St Johns U14",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "fd3e29bb6ef4a0739768f2d0a5e125ae",
       "date": "2026-03-21",

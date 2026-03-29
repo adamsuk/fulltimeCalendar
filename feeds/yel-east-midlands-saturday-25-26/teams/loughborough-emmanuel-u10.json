@@ -1,19 +1,8 @@
 {
   "team": "Loughborough Emmanuel U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "68503e18887d4c08db3c0c2c85850f5d",
-      "date": "2026-03-28",
-      "time": "10:00",
-      "home_team": "Priory Celtic Green U10",
-      "away_team": "Loughborough Emmanuel U10",
-      "venue": "Kimberley Leisure Centre NG16 2NJ GP1",
-      "division": "U10 Sat Spring Div 6 Green",
-      "home_away": "away",
-      "opponent": "Priory Celtic Green U10"
-    },
     {
       "id": "9c6e27fa292502edb736fcad72288647",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "68503e18887d4c08db3c0c2c85850f5d",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Priory Celtic Green U10",
+      "away_team": "Loughborough Emmanuel U10",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sat Spring Div 6 Green",
+      "home_away": "away",
+      "opponent": "Priory Celtic Green U10",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "f912257560b54f5a50c999e7d0918435",
       "date": "2026-03-21",

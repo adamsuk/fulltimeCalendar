@@ -1,19 +1,8 @@
 {
   "team": "Heanor Town Phoenix U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "a15b1eebccf5875296c87b297eb1c349",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "home_team": "Heanor Town Phoenix U11",
-      "away_team": "Toton Tornados Typhoons U11",
-      "venue": "Riddings Park  DE55 4EW",
-      "division": "U11 Sat Spring Div 4 Blue",
-      "home_away": "home",
-      "opponent": "Toton Tornados Typhoons U11"
-    },
     {
       "id": "db243854ce168cbe1bbf039d0669e54c",
       "date": "2026-04-14",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a15b1eebccf5875296c87b297eb1c349",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Heanor Town Phoenix U11",
+      "away_team": "Toton Tornados Typhoons U11",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 4 Blue",
+      "home_away": "home",
+      "opponent": "Toton Tornados Typhoons U11",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "9eb71329dbfa6bcaadec67c249f84816",
       "date": "2026-03-21",

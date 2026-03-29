@@ -1,19 +1,8 @@
 {
   "team": "Ashby United Mavericks U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "7c2082b94219215266590ec5346430cb",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "home_team": "Ashby United Mavericks U13",
-      "away_team": "Wollaton H & B Knights U13",
-      "venue": "The Pavilion LE65 1EB",
-      "division": "U13 Sat Spring Div 6 Blue",
-      "home_away": "home",
-      "opponent": "Wollaton H & B Knights U13"
-    },
     {
       "id": "e277e43b049bcdccbc4e2bc8ccf2f9fc",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7c2082b94219215266590ec5346430cb",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "home_team": "Ashby United Mavericks U13",
+      "away_team": "Wollaton H & B Knights U13",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat Spring Div 6 Blue",
+      "home_away": "home",
+      "opponent": "Wollaton H & B Knights U13",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "2487bdadd2fe909beb9bb1476e12b6a1",
       "date": "2026-03-21",

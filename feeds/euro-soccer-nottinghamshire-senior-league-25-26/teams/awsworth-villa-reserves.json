@@ -1,19 +1,8 @@
 {
   "team": "Awsworth Villa Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-03-28T06:45:06Z",
+  "generated": "2026-03-29T06:53:02Z",
   "fixtures": [
-    {
-      "id": "d85f6a76d0747d6ebc6ea2542801df55",
-      "date": "2026-03-28",
-      "time": "15:00",
-      "home_team": "East Leake Robins Reserves",
-      "away_team": "Awsworth Villa Reserves",
-      "venue": "EAST LEAKE PLAYING FIELDS",
-      "division": "NSL Division Three",
-      "home_away": "away",
-      "opponent": "East Leake Robins Reserves"
-    },
     {
       "id": "5f83398e0ca911fa2a6cbc90c02c7cdc",
       "date": "2026-04-04",
@@ -115,6 +104,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d85f6a76d0747d6ebc6ea2542801df55",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "home_team": "East Leake Robins Reserves",
+      "away_team": "Awsworth Villa Reserves",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "away",
+      "opponent": "East Leake Robins Reserves",
+      "goals_for": 0,
+      "goals_against": 5
+    },
     {
       "id": "280e2d2f83bb11bb75baeea1d665671f",
       "date": "2026-03-21",
