@@ -1,19 +1,8 @@
 {
   "team": "Quarrydale United United U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "35da660cb3ee0d1fee4e739438022a37",
-      "date": "2026-03-29",
-      "time": "11:00",
-      "home_team": "Priory Celtic 1967 U13",
-      "away_team": "Quarrydale United United U13",
-      "venue": "Kimberley Leisure Centre NG16 2NJ",
-      "division": "U13 Sun Spring Div 2 Red",
-      "home_away": "away",
-      "opponent": "Priory Celtic 1967 U13"
-    },
     {
       "id": "17e201c4e08201adc3bcdb240550362a",
       "date": "2026-04-12",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "35da660cb3ee0d1fee4e739438022a37",
+      "date": "2026-03-29",
+      "time": "11:00",
+      "home_team": "Priory Celtic 1967 U13",
+      "away_team": "Quarrydale United United U13",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sun Spring Div 2 Red",
+      "home_away": "away",
+      "opponent": "Priory Celtic 1967 U13",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "fcf525c25814d7a292c41ef9380a98ae",
       "date": "2026-03-22",

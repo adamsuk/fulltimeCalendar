@@ -1,19 +1,8 @@
 {
   "team": "Selston FC Black U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "7a5b8cd60ef24d254ce378a2f3549fa0",
-      "date": "2026-03-29",
-      "time": "11:00",
-      "home_team": "Attenborough Colts Green U10",
-      "away_team": "Selston FC Black U10",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U10 Sun Spring Div 5 Red",
-      "home_away": "away",
-      "opponent": "Attenborough Colts Green U10"
-    },
     {
       "id": "e040eaa25279ed53bd9787e2d4264f02",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7a5b8cd60ef24d254ce378a2f3549fa0",
+      "date": "2026-03-29",
+      "time": "11:00",
+      "home_team": "Attenborough Colts Green U10",
+      "away_team": "Selston FC Black U10",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "",
+      "division": "U10 Sun Spring Div 5 Red",
+      "home_away": "away",
+      "opponent": "Attenborough Colts Green U10",
+      "goals_for": 6,
+      "goals_against": 2
+    },
     {
       "id": "6c2966b5880ab00abe400c2a5b0f41dd",
       "date": "2026-03-22",

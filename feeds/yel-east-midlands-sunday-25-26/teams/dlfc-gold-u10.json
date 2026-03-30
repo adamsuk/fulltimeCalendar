@@ -1,19 +1,8 @@
 {
   "team": "DLFC Gold U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "7b0741bbe802e4831e6c8ec2a8298767",
-      "date": "2026-03-29",
-      "time": "11:00",
-      "home_team": "DLFC Gold U10",
-      "away_team": "Eastwood CFC Madrid U10",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U10 Sun Spring Div 1 Gold",
-      "home_away": "home",
-      "opponent": "Eastwood CFC Madrid U10"
-    },
     {
       "id": "6f2bf0e2890354845de5d019bf2c559f",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7b0741bbe802e4831e6c8ec2a8298767",
+      "date": "2026-03-29",
+      "time": "11:00",
+      "home_team": "DLFC Gold U10",
+      "away_team": "Eastwood CFC Madrid U10",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sun Spring Div 1 Gold",
+      "home_away": "home",
+      "opponent": "Eastwood CFC Madrid U10",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "1e6fd941150aadcfa4e2f9a92f2ccba9",
       "date": "2026-03-22",

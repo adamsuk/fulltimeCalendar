@@ -1,19 +1,8 @@
 {
   "team": "Gedling Southbank FC Ladies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "5c444c8990fa00da10ae1a3a080274b6",
-      "date": "2026-03-29",
-      "time": "14:00",
-      "home_team": "Gedling Southbank FC Ladies",
-      "away_team": "Eastwood & Kimberley FC",
-      "venue": "RICHARD HERROD CENTRE",
-      "division": "Senior Div 2 League Cup",
-      "home_away": "home",
-      "opponent": "Eastwood & Kimberley FC"
-    },
     {
       "id": "f069f1bbd71741d677bd03f2dc2b2086",
       "date": "2026-04-12",
@@ -93,6 +82,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5c444c8990fa00da10ae1a3a080274b6",
+      "date": "2026-03-29",
+      "time": "14:00",
+      "home_team": "Gedling Southbank FC Ladies",
+      "away_team": "Eastwood & Kimberley FC",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "Senior Div 2 League Cup",
+      "home_away": "home",
+      "opponent": "Eastwood & Kimberley FC",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "956affc5237885fc7f79773795a97816",
       "date": "2026-03-22",

@@ -1,19 +1,8 @@
 {
   "team": "AJ Sport Black U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "8b1abbdea9f407d4b06182089280e070",
-      "date": "2026-03-29",
-      "time": "11:00",
-      "home_team": "DLFC Orange U9",
-      "away_team": "AJ Sport Black U9",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U9 Sun Spring Div 5 Green",
-      "home_away": "away",
-      "opponent": "DLFC Orange U9"
-    },
     {
       "id": "487bb04797a0799fc3c2bbf5e350e991",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8b1abbdea9f407d4b06182089280e070",
+      "date": "2026-03-29",
+      "time": "11:00",
+      "home_team": "DLFC Orange U9",
+      "away_team": "AJ Sport Black U9",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "",
+      "division": "U9 Sun Spring Div 5 Green",
+      "home_away": "away",
+      "opponent": "DLFC Orange U9",
+      "goals_for": 6,
+      "goals_against": 1
+    },
     {
       "id": "8935ac9a119bc8d5c70c438794710f19",
       "date": "2026-03-15",

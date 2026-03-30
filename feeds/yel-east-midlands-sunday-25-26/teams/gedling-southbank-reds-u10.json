@@ -1,19 +1,8 @@
 {
   "team": "Gedling Southbank Reds U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "ae80fd8ff68b2951160d23a45b181c9a",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Selston FC Blue U10",
-      "away_team": "Gedling Southbank Reds U10",
-      "venue": "Selston Parish NG16 6EE",
-      "division": "U10 Sun Spring Div 2 Red",
-      "home_away": "away",
-      "opponent": "Selston FC Blue U10"
-    },
     {
       "id": "db04b5a86bd2e2c6d9a6604f11e5a7bf",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ae80fd8ff68b2951160d23a45b181c9a",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Selston FC Blue U10",
+      "away_team": "Gedling Southbank Reds U10",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sun Spring Div 2 Red",
+      "home_away": "away",
+      "opponent": "Selston FC Blue U10",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "66cc2280efb2fbe34336f18916e57d5a",
       "date": "2026-03-22",

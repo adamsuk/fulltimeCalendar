@@ -1,19 +1,8 @@
 {
   "team": "Calverton MW White U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "57d0ffed974fc56ba2208edf5f68ae48",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Calverton MW White U9",
-      "away_team": "Hucknall Sports Black U9",
-      "venue": "Kinton Park NG14 6NR",
-      "division": "U9 Sun Spring Div 2 Red",
-      "home_away": "home",
-      "opponent": "Hucknall Sports Black U9"
-    },
     {
       "id": "2f02d3766ab3b4874e12152524352e43",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "57d0ffed974fc56ba2208edf5f68ae48",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Calverton MW White U9",
+      "away_team": "Hucknall Sports Black U9",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sun Spring Div 2 Red",
+      "home_away": "home",
+      "opponent": "Hucknall Sports Black U9",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "6066f7494c64e9d483d2cfee6004ea9e",
       "date": "2026-03-22",

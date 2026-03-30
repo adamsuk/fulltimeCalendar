@@ -1,46 +1,7 @@
 {
   "club": "Beeston FC",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "4e17c038a866c61970d6a2b8a2b6d960",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Toton Tornados Cyclones U10",
-      "away_team": "Beeston FC U10",
-      "venue": "Manor Farm Recreation Ground NG9 6EL",
-      "division": "U10 Sun Spring Div 5 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Beeston FC U10",
-      "home_away": "away",
-      "opponent": "Toton Tornados Cyclones U10"
-    },
-    {
-      "id": "d1a5300238a9f77d0f3c1619f08863a2",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Beeston F.C. U10 Girls",
-      "away_team": "Gedling Southbank FC U10 Wolves",
-      "venue": "ROUNDHILL PRIMARY SCHOOL",
-      "division": "U10 Development",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Beeston F.C. U10 Girls",
-      "home_away": "home",
-      "opponent": "Gedling Southbank FC U10 Wolves"
-    },
-    {
-      "id": "a9583835ee6b72ee9b3c3b88939aba4b",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Beeston F.C. U14 Girls",
-      "away_team": "Bottesford U14 Girls",
-      "venue": "TRENT VALE SPORTS ASSOCIATION",
-      "division": "U14 Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Beeston F.C. U14 Girls",
-      "home_away": "home",
-      "opponent": "Bottesford U14 Girls"
-    },
     {
       "id": "9b8f23aeab3987005eb4bc1daa3a2c9e",
       "date": "2026-04-04",
@@ -354,19 +315,6 @@
       "opponent": "Beeston FC Black U13"
     },
     {
-      "id": "924f5a3dfdae8b25bcf6d5d3a5ea8523",
-      "date": "2026-04-19",
-      "time": "14:00",
-      "home_team": "Beeston FC Women",
-      "away_team": "West Bridgford Colts Women's Development",
-      "venue": "TRENT VALE SPORTS ASSOCIATION",
-      "division": "Senior Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Beeston FC Women",
-      "home_away": "home",
-      "opponent": "West Bridgford Colts Women's Development"
-    },
-    {
       "id": "36f768890440b499eecd5eca02bb018a",
       "date": "2026-04-21",
       "time": "18:00",
@@ -458,6 +406,19 @@
       "opponent": "Arnold Eagles F.C. Girls U15 Avengers"
     },
     {
+      "id": "6301c7e957b431f6692747d97d239d58",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Pelican Colts FC Ladies",
+      "away_team": "Beeston FC Women",
+      "venue": "DAVE EASTWOOD SPORTS GROUND",
+      "division": "Senior Div 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Beeston FC Women",
+      "home_away": "away",
+      "opponent": "Pelican Colts FC Ladies"
+    },
+    {
       "id": "670d3b5fa7029f9ed20210479cb35b84",
       "date": "2026-04-26",
       "time": "11:00",
@@ -482,19 +443,6 @@
       "team": "Beeston FC U14",
       "home_away": "home",
       "opponent": "Beaufort United White U14"
-    },
-    {
-      "id": "fba1a5b9919de8f4ba5efb1ec8d4f9cb",
-      "date": "2026-04-26",
-      "time": "14:00",
-      "home_team": "Beeston FC Women",
-      "away_team": "Ravenshead Reds FC",
-      "venue": "TRENT VALE SPORTS ASSOCIATION",
-      "division": "Senior Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Beeston FC Women",
-      "home_away": "home",
-      "opponent": "Ravenshead Reds FC"
     },
     {
       "id": "d20eec2cd02d6593fc183fa0bd97ca6e",
@@ -536,17 +484,17 @@
       "opponent": "Southwell City FC U15 Girls"
     },
     {
-      "id": "1c749bd7c70fd1a0c1eaf720116c6d51",
+      "id": "a407bdc0426794fc6aee52744074c4d7",
       "date": "2026-05-03",
       "time": "14:00",
-      "home_team": "Pelican Colts FC Ladies",
-      "away_team": "Beeston FC Women",
-      "venue": "DAVE EASTWOOD SPORTS GROUND",
+      "home_team": "Beeston FC Women",
+      "away_team": "Ravenshead Reds FC",
+      "venue": "TRENT VALE SPORTS ASSOCIATION",
       "division": "Senior Div 4",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Beeston FC Women",
-      "home_away": "away",
-      "opponent": "Pelican Colts FC Ladies"
+      "home_away": "home",
+      "opponent": "Ravenshead Reds FC"
     },
     {
       "id": "2056e9e550d574e5b60a9fb7182211a8",
@@ -602,6 +550,40 @@
     }
   ],
   "results": [
+    {
+      "id": "4e17c038a866c61970d6a2b8a2b6d960",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Toton Tornados Cyclones U10",
+      "away_team": "Beeston FC U10",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sun Spring Div 5 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Beeston FC U10",
+      "home_away": "away",
+      "opponent": "Toton Tornados Cyclones U10",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
+      "id": "d1a5300238a9f77d0f3c1619f08863a2",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Beeston F.C. U10 Girls",
+      "away_team": "Gedling Southbank FC U10 Wolves",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Beeston F.C. U10 Girls",
+      "home_away": "home",
+      "opponent": "Gedling Southbank FC U10 Wolves",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "8d67048f7a2b175b7dd3de25e720ac7d",
       "date": "2026-03-28",

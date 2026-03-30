@@ -1,30 +1,8 @@
 {
   "team": "Sherwood Colliery FC Ladies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "dbe0589c7f3b43fc759eacdaebd2dc63",
-      "date": "2026-03-29",
-      "time": "14:30",
-      "home_team": "Sherwood Colliery FC Ladies",
-      "away_team": "Shirebrook Rangers Women",
-      "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
-      "division": "Seniors Div 2",
-      "home_away": "home",
-      "opponent": "Shirebrook Rangers Women"
-    },
-    {
-      "id": "49215b93515e7f61a8b1bebee061c906",
-      "date": "2026-04-12",
-      "time": "13:30",
-      "home_team": "Underwood Villa FC Youth Ladies",
-      "away_team": "Sherwood Colliery FC Ladies",
-      "venue": "BRACKEN PARK (UNDERWOOD VILLA FC)",
-      "division": "Seniors Div 2",
-      "home_away": "away",
-      "opponent": "Underwood Villa FC Youth Ladies"
-    },
     {
       "id": "7124708d40c04c7e3029722669fa4290",
       "date": "2026-04-15",
@@ -35,6 +13,17 @@
       "division": "Seniors Div 2",
       "home_away": "away",
       "opponent": "Arnold Town FC Women"
+    },
+    {
+      "id": "fd34a9555ec4fba79a003bee57810559",
+      "date": "2026-05-03",
+      "time": "13:30",
+      "home_team": "Underwood Villa FC Youth Ladies",
+      "away_team": "Sherwood Colliery FC Ladies",
+      "venue": "BRACKEN PARK (UNDERWOOD VILLA FC)",
+      "division": "Seniors Div 2",
+      "home_away": "away",
+      "opponent": "Underwood Villa FC Youth Ladies"
     },
     {
       "id": "35b99ab97434574f35644377d1a41f87",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "dbe0589c7f3b43fc759eacdaebd2dc63",
+      "date": "2026-03-29",
+      "time": "14:30",
+      "home_team": "Sherwood Colliery FC Ladies",
+      "away_team": "Shirebrook Rangers Women",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "home_away": "home",
+      "opponent": "Shirebrook Rangers Women",
+      "goals_for": 5,
+      "goals_against": 0
+    },
     {
       "id": "7987307290f0ddb509416a1fa30437fe",
       "date": "2026-03-22",

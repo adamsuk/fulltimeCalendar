@@ -1,6 +1,6 @@
 {
   "club": "Bagthorpe Athletic",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
     {
       "id": "12e139f0b3ccb1d89859e5a37053b7ee",
@@ -14,19 +14,6 @@
       "team": "Bagthorpe Athletic U13",
       "home_away": "away",
       "opponent": "Annesley AFC Oaks U13"
-    },
-    {
-      "id": "5049ee8178f9ebfc4d967c606cf991dc",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Sherwood Colliery Stags U9",
-      "away_team": "Bagthorpe Athletic U9",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U9 Sun Spring Div 4 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Bagthorpe Athletic U9",
-      "home_away": "away",
-      "opponent": "Sherwood Colliery Stags U9"
     },
     {
       "id": "44f568cabbc91a75de4188e13709d0bb",
@@ -251,6 +238,23 @@
     }
   ],
   "results": [
+    {
+      "id": "5049ee8178f9ebfc4d967c606cf991dc",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Sherwood Colliery Stags U9",
+      "away_team": "Bagthorpe Athletic U9",
+      "home_score": 1,
+      "away_score": 10,
+      "venue": "",
+      "division": "U9 Sun Spring Div 4 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Bagthorpe Athletic U9",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery Stags U9",
+      "goals_for": 10,
+      "goals_against": 1
+    },
     {
       "id": "27cea6450e2ef52b0a765c28936e0f1a",
       "date": "2026-03-28",

@@ -7,21 +7,21 @@ X-WR-CALNAME:Eastwood Athletic All Stars U10
 X-WR-CALDESC:Fixtures for Eastwood Athletic All Stars U10 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:ba7ccb36aa9e4ca286fe1564a3795dcb@yel-calendar
-DTSTAMP:20260329T065425Z
+UID:00adca8a05718d08bcb69d2b9025cee6@yel-calendar
+DTSTAMP:20260330T071554Z
 DTSTART;TZID=Europe/London:20260418T100000
 DTEND;TZID=Europe/London:20260418T113000
-SUMMARY:⚽ Eastwood Athletic All Stars U10 vs DLFC Black U10 (Home)
-DESCRIPTION:Division: U10 Sat Spring Div 7 Red\nEastwood Athletic All Stars U10 v DLFC Black U10\nKO: 10:00
-LOCATION:Hall Park NG16 3AR
-END:VEVENT
-BEGIN:VEVENT
-UID:3de036f09fc22ca9c89c1ac2548caf26@yel-calendar
-DTSTAMP:20260329T065425Z
-DTSTART;TZID=Europe/London:20260425T100000
-DTEND;TZID=Europe/London:20260425T113000
 SUMMARY:⚽ Eastwood Athletic All Stars U10 vs ATFA Brinsley Falcons U10 (Away)
 DESCRIPTION:Division: U10 Sat Spring Div 7 Red\nATFA Brinsley Falcons U10 v Eastwood Athletic All Stars U10\nKO: 10:00
 LOCATION:Brinsley Recreation Ground NG16 5AY
+END:VEVENT
+BEGIN:VEVENT
+UID:f7a1e071bb6957d6ed1c6b7ed12f06d5@yel-calendar
+DTSTAMP:20260330T071554Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T113000
+SUMMARY:⚽ Eastwood Athletic All Stars U10 vs DLFC Black U10 (Home)
+DESCRIPTION:Division: U10 Sat Spring Div 7 Red\nEastwood Athletic All Stars U10 v DLFC Black U10\nKO: 10:00
+LOCATION:Hall Park NG16 3AR
 END:VEVENT
 END:VCALENDAR

@@ -1,6 +1,6 @@
 {
   "club": "Selston FC",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
     {
       "id": "3743f984cd7c9fcaefd5e9cf36b4550c",
@@ -14,45 +14,6 @@
       "team": "Selston F.C. Youth U15 FC",
       "home_away": "home",
       "opponent": "Keyworth United F.C. U15 Predators"
-    },
-    {
-      "id": "ae80fd8ff68b2951160d23a45b181c9a",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Selston FC Blue U10",
-      "away_team": "Gedling Southbank Reds U10",
-      "venue": "Selston Parish NG16 6EE",
-      "division": "U10 Sun Spring Div 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Selston FC Blue U10",
-      "home_away": "home",
-      "opponent": "Gedling Southbank Reds U10"
-    },
-    {
-      "id": "b538f49a8ef92b8553393fb49775efeb",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Selston FC U7",
-      "away_team": "Barrowby FC Green U7",
-      "venue": "Selston Parish NG16 6EE",
-      "division": "U7 Sun Spring Green",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Selston FC U7",
-      "home_away": "home",
-      "opponent": "Barrowby FC Green U7"
-    },
-    {
-      "id": "7a5b8cd60ef24d254ce378a2f3549fa0",
-      "date": "2026-03-29",
-      "time": "11:00",
-      "home_team": "Attenborough Colts Green U10",
-      "away_team": "Selston FC Black U10",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U10 Sun Spring Div 5 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Selston FC Black U10",
-      "home_away": "away",
-      "opponent": "Attenborough Colts Green U10"
     },
     {
       "id": "ae8fe5dd27cdb7fd42bb6e84c3f2a0a7",
@@ -368,6 +329,57 @@
     }
   ],
   "results": [
+    {
+      "id": "7a5b8cd60ef24d254ce378a2f3549fa0",
+      "date": "2026-03-29",
+      "time": "11:00",
+      "home_team": "Attenborough Colts Green U10",
+      "away_team": "Selston FC Black U10",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "",
+      "division": "U10 Sun Spring Div 5 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Selston FC Black U10",
+      "home_away": "away",
+      "opponent": "Attenborough Colts Green U10",
+      "goals_for": 6,
+      "goals_against": 2
+    },
+    {
+      "id": "ae80fd8ff68b2951160d23a45b181c9a",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Selston FC Blue U10",
+      "away_team": "Gedling Southbank Reds U10",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sun Spring Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Selston FC Blue U10",
+      "home_away": "home",
+      "opponent": "Gedling Southbank Reds U10",
+      "goals_for": 5,
+      "goals_against": 2
+    },
+    {
+      "id": "b538f49a8ef92b8553393fb49775efeb",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Selston FC U7",
+      "away_team": "Barrowby FC Green U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring Green",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Selston FC U7",
+      "home_away": "home",
+      "opponent": "Barrowby FC Green U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "9e227f6775bcb13f48fc0ef5bda7ffb5",
       "date": "2026-03-28",

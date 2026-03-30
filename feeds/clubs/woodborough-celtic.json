@@ -1,6 +1,6 @@
 {
   "club": "Woodborough Celtic",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
     {
       "id": "f86c57b8d29b6c8f1f091e50f22228c3",
@@ -14,19 +14,6 @@
       "team": "Woodborough Celtic Warriors U9",
       "home_away": "home",
       "opponent": "Edwalton Cavaliers White U9"
-    },
-    {
-      "id": "7e159265514a40e76abdc1163401fb15",
-      "date": "2026-03-29",
-      "time": "11:00",
-      "home_team": "Woodborough Celtic U9",
-      "away_team": "DLFC Lions U9",
-      "venue": "Calverton Village Hall - NG14 6SA",
-      "division": "U9 Sun Spring Premier Div",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Woodborough Celtic U9",
-      "home_away": "home",
-      "opponent": "DLFC Lions U9"
     },
     {
       "id": "ba57da82496bb9dda0a50cbe828fe384",
@@ -199,6 +186,23 @@
     }
   ],
   "results": [
+    {
+      "id": "7e159265514a40e76abdc1163401fb15",
+      "date": "2026-03-29",
+      "time": "11:00",
+      "home_team": "Woodborough Celtic U9",
+      "away_team": "DLFC Lions U9",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sun Spring Premier Div",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Woodborough Celtic U9",
+      "home_away": "home",
+      "opponent": "DLFC Lions U9",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "9b5371b58023d191e4ef1661ca05aeec",
       "date": "2026-03-28",

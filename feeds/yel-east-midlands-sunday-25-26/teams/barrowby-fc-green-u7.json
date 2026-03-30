@@ -1,19 +1,8 @@
 {
   "team": "Barrowby FC Green U7",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "b538f49a8ef92b8553393fb49775efeb",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Selston FC U7",
-      "away_team": "Barrowby FC Green U7",
-      "venue": "Selston Parish NG16 6EE",
-      "division": "U7 Sun Spring Green",
-      "home_away": "away",
-      "opponent": "Selston FC U7"
-    },
     {
       "id": "63f846dc0850d2d6e314e6a742d45bc3",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b538f49a8ef92b8553393fb49775efeb",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Selston FC U7",
+      "away_team": "Barrowby FC Green U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring Green",
+      "home_away": "away",
+      "opponent": "Selston FC U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "1ec52637512130f857a499850c46e118",
       "date": "2026-03-22",

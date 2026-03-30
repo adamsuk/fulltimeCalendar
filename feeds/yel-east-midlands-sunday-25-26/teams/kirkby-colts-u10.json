@@ -1,19 +1,8 @@
 {
   "team": "Kirkby Colts U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "302a81c56a3c0fe00aee60d6266f24ea",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Kirkby Colts U10",
-      "away_team": "Notts County Women U10 ^",
-      "venue": "Mansfield Road NG17 3EE",
-      "division": "U10 Sun Spring Div 4 Red",
-      "home_away": "home",
-      "opponent": "Notts County Women U10 ^"
-    },
     {
       "id": "c7e248deb705b15a77e3715c9124b77f",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "302a81c56a3c0fe00aee60d6266f24ea",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Kirkby Colts U10",
+      "away_team": "Notts County Women U10 ^",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sun Spring Div 4 Red",
+      "home_away": "home",
+      "opponent": "Notts County Women U10 ^",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "626bf0b95e401f043bb490a21c727637",
       "date": "2026-03-22",

@@ -1,19 +1,8 @@
 {
   "team": "Long Eaton United U12 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "e71094ffd2c6c808798ff6a174e882d3",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Arnold Eagles F.C. Girls U12 FC",
-      "away_team": "Long Eaton United U12 Girls",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "U12 Div 1 P2",
-      "home_away": "away",
-      "opponent": "Arnold Eagles F.C. Girls U12 FC"
-    },
     {
       "id": "13f4b7c824c049b92a4fca47bdb4d249",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e71094ffd2c6c808798ff6a174e882d3",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Arnold Eagles F.C. Girls U12 FC",
+      "away_team": "Long Eaton United U12 Girls",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U12 Div 1 P2",
+      "home_away": "away",
+      "opponent": "Arnold Eagles F.C. Girls U12 FC",
+      "goals_for": 5,
+      "goals_against": 2
+    },
     {
       "id": "a6a39609d65cccd02290c298730ef54e",
       "date": "2026-03-22",

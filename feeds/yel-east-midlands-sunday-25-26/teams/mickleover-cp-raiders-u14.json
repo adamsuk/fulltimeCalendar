@@ -1,19 +1,8 @@
 {
   "team": "Mickleover CP Raiders U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "5ef99c66b473fa0559c5dea77e41ce71",
-      "date": "2026-03-29",
-      "time": "10:30",
-      "home_team": "Attenborough Colts Spartans U14",
-      "away_team": "Mickleover CP Raiders U14",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U14 Sun Spring Div 1 Gold",
-      "home_away": "away",
-      "opponent": "Attenborough Colts Spartans U14"
-    },
     {
       "id": "edc51699ec71527d87f22f17488de904",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5ef99c66b473fa0559c5dea77e41ce71",
+      "date": "2026-03-29",
+      "time": "10:30",
+      "home_team": "Attenborough Colts Spartans U14",
+      "away_team": "Mickleover CP Raiders U14",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sun Spring Div 1 Gold",
+      "home_away": "away",
+      "opponent": "Attenborough Colts Spartans U14",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "614dc2a992ac43ea622931ff175507ee",
       "date": "2026-03-15",

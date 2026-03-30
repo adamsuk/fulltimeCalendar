@@ -1,20 +1,7 @@
 {
   "club": "Heanor Town",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "44778a874c9a49470dda237106e69aa6",
-      "date": "2026-03-29",
-      "time": "09:30",
-      "home_team": "Heanor Town Tigers U12",
-      "away_team": "Spirit Celtic Tigers U12",
-      "venue": "Riddings Park DE55 4EW",
-      "division": "U12 Sun Spring Div 5",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Heanor Town Tigers U12",
-      "home_away": "home",
-      "opponent": "Spirit Celtic Tigers U12"
-    },
     {
       "id": "4b03a5e4104560694c5d6f56872c39c7",
       "date": "2026-04-11",
@@ -420,6 +407,23 @@
     }
   ],
   "results": [
+    {
+      "id": "44778a874c9a49470dda237106e69aa6",
+      "date": "2026-03-29",
+      "time": "09:30",
+      "home_team": "Heanor Town Tigers U12",
+      "away_team": "Spirit Celtic Tigers U12",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sun Spring Div 5",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Heanor Town Tigers U12",
+      "home_away": "home",
+      "opponent": "Spirit Celtic Tigers U12",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "a15b1eebccf5875296c87b297eb1c349",
       "date": "2026-03-28",

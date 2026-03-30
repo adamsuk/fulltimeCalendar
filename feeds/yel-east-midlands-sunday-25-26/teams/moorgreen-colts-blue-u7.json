@@ -1,19 +1,8 @@
 {
   "team": "Moorgreen Colts Blue U7",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "ce2726b1c0f80d8259aad8fa18392a0c",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic Tigers U7",
-      "away_team": "Moorgreen Colts Blue U7",
-      "venue": "Radcliffe on Trent Cricket Club NG12 2DU",
-      "division": "U7 Sun Spring Yellow",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic Tigers U7"
-    },
     {
       "id": "912b31f8a6a93e274dac44c953ee8063",
       "date": "2026-04-12",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ce2726b1c0f80d8259aad8fa18392a0c",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic Tigers U7",
+      "away_team": "Moorgreen Colts Blue U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring Yellow",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic Tigers U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "56ac1915d43dfd6bb9d3a9aded6ac23a",
       "date": "2026-03-22",

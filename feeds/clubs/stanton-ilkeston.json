@@ -1,33 +1,7 @@
 {
   "club": "Stanton Ilkeston",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "2c24c9447f8aad2ccd2e2c69dc8e7d60",
-      "date": "2026-03-29",
-      "time": "11:30",
-      "home_team": "Stanton Ilkeston U10 Steelers",
-      "away_team": "Priory Celtic F.C. U10 Girls",
-      "venue": "RON BROOKS PLAYING FIELD",
-      "division": "U10 Development",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Stanton Ilkeston U10 Steelers",
-      "home_away": "home",
-      "opponent": "Priory Celtic F.C. U10 Girls"
-    },
-    {
-      "id": "144b9cc4ad9508c58a6a112fb7c6413b",
-      "date": "2026-03-29",
-      "time": "12:30",
-      "home_team": "Stanton Ilkeston U14",
-      "away_team": "Notts County F.C. Girls U13",
-      "venue": "RON BROOKS PLAYING FIELD",
-      "division": "U14 Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Stanton Ilkeston U14",
-      "home_away": "home",
-      "opponent": "Notts County F.C. Girls U13"
-    },
     {
       "id": "401acc78378d46dbf52c5bf6f60c5fbd",
       "date": "2026-04-11",
@@ -342,6 +316,40 @@
     }
   ],
   "results": [
+    {
+      "id": "144b9cc4ad9508c58a6a112fb7c6413b",
+      "date": "2026-03-29",
+      "time": "12:30",
+      "home_team": "Stanton Ilkeston U14",
+      "away_team": "Notts County F.C. Girls U13",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Stanton Ilkeston U14",
+      "home_away": "home",
+      "opponent": "Notts County F.C. Girls U13",
+      "goals_for": 3,
+      "goals_against": 4
+    },
+    {
+      "id": "2c24c9447f8aad2ccd2e2c69dc8e7d60",
+      "date": "2026-03-29",
+      "time": "11:30",
+      "home_team": "Stanton Ilkeston U10 Steelers",
+      "away_team": "Priory Celtic F.C. U10 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Stanton Ilkeston U10 Steelers",
+      "home_away": "home",
+      "opponent": "Priory Celtic F.C. U10 Girls",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "523c8a625ea5fbe2dcfd7364863c5766",
       "date": "2026-03-28",

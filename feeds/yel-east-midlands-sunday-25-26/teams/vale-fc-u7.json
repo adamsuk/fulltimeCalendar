@@ -1,19 +1,8 @@
 {
   "team": "Vale FC U7",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "ddca45768420e69bde11ab39ef98cc70",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Vale FC U7",
-      "away_team": "Mansfield Athletic U7",
-      "venue": "CROXTON SPORTS AND SOCIAL CLUB NG32 1QP",
-      "division": "U7 Sun Spring White",
-      "home_away": "home",
-      "opponent": "Mansfield Athletic U7"
-    },
     {
       "id": "0a8f804078aa422286e09b2eef126273",
       "date": "2026-04-12",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ddca45768420e69bde11ab39ef98cc70",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Vale FC U7",
+      "away_team": "Mansfield Athletic U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring White",
+      "home_away": "home",
+      "opponent": "Mansfield Athletic U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "48db16163d7a5f66dc4002102fc99a06",
       "date": "2026-03-22",

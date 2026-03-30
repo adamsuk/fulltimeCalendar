@@ -1,20 +1,7 @@
 {
   "club": "AC United",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "fa52cc39800fd0aaf1381727830a65c6",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Shirebrook Rangers Red U10",
-      "away_team": "AC United U10",
-      "venue": "Shirebrook Academy NG20 8QF",
-      "division": "u10 Sun Spring Div 5 Green",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "AC United U10",
-      "home_away": "away",
-      "opponent": "Shirebrook Rangers Red U10"
-    },
     {
       "id": "d00f10d95699ac4d8795598ed0372756",
       "date": "2026-04-04",
@@ -160,6 +147,23 @@
     }
   ],
   "results": [
+    {
+      "id": "fa52cc39800fd0aaf1381727830a65c6",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers Red U10",
+      "away_team": "AC United U10",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "u10 Sun Spring Div 5 Green",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "AC United U10",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers Red U10",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "ed5ee293dfc43858c07c3014d1c29fef",
       "date": "2026-03-28",

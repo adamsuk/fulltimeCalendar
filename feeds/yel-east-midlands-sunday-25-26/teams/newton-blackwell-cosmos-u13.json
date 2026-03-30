@@ -1,19 +1,8 @@
 {
   "team": "Newton & Blackwell Cosmos U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "2e505901aa155c4133ff33dad050823d",
-      "date": "2026-03-29",
-      "time": "11:30",
-      "home_team": "Nottingham FC Green U13",
-      "away_team": "Newton & Blackwell Cosmos U13",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U13 Sun Spring Div 1 Gold",
-      "home_away": "away",
-      "opponent": "Nottingham FC Green U13"
-    },
     {
       "id": "d6764ce60634b86055ae53120d329816",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2e505901aa155c4133ff33dad050823d",
+      "date": "2026-03-29",
+      "time": "11:30",
+      "home_team": "Nottingham FC Green U13",
+      "away_team": "Newton & Blackwell Cosmos U13",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sun Spring Div 1 Gold",
+      "home_away": "away",
+      "opponent": "Nottingham FC Green U13",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "fc1b0149d6714eb4d0473b4f912ff883",
       "date": "2026-03-15",

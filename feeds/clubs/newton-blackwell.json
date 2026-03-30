@@ -1,33 +1,7 @@
 {
   "club": "Newton & Blackwell",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "57043b2f73866769637819bca196fbf3",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Newton & Blackwell U12",
-      "away_team": "PMG Excel U12",
-      "venue": "Scanderlands Pavilion DE55 5JJ",
-      "division": "U12 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Newton & Blackwell U12",
-      "home_away": "home",
-      "opponent": "PMG Excel U12"
-    },
-    {
-      "id": "2e505901aa155c4133ff33dad050823d",
-      "date": "2026-03-29",
-      "time": "11:30",
-      "home_team": "Nottingham FC Green U13",
-      "away_team": "Newton & Blackwell Cosmos U13",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U13 Sun Spring Div 1 Gold",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Newton & Blackwell Cosmos U13",
-      "home_away": "away",
-      "opponent": "Nottingham FC Green U13"
-    },
     {
       "id": "b3a054d742198808e9fed5fbed20c5d6",
       "date": "2026-04-11",
@@ -108,6 +82,40 @@
     }
   ],
   "results": [
+    {
+      "id": "2e505901aa155c4133ff33dad050823d",
+      "date": "2026-03-29",
+      "time": "11:30",
+      "home_team": "Nottingham FC Green U13",
+      "away_team": "Newton & Blackwell Cosmos U13",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sun Spring Div 1 Gold",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Newton & Blackwell Cosmos U13",
+      "home_away": "away",
+      "opponent": "Nottingham FC Green U13",
+      "goals_for": 3,
+      "goals_against": 3
+    },
+    {
+      "id": "57043b2f73866769637819bca196fbf3",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Newton & Blackwell U12",
+      "away_team": "PMG Excel U12",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Sun Spring Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Newton & Blackwell U12",
+      "home_away": "home",
+      "opponent": "PMG Excel U12",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "f7c13513051e59772a62408d5311b151",
       "date": "2026-03-28",

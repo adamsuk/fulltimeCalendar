@@ -1,19 +1,8 @@
 {
   "team": "Beeston F.C. U10 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "d1a5300238a9f77d0f3c1619f08863a2",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Beeston F.C. U10 Girls",
-      "away_team": "Gedling Southbank FC U10 Wolves",
-      "venue": "ROUNDHILL PRIMARY SCHOOL",
-      "division": "U10 Development",
-      "home_away": "home",
-      "opponent": "Gedling Southbank FC U10 Wolves"
-    },
     {
       "id": "fda426f40635ca4e9b338f8744bd97e9",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d1a5300238a9f77d0f3c1619f08863a2",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Beeston F.C. U10 Girls",
+      "away_team": "Gedling Southbank FC U10 Wolves",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Development",
+      "home_away": "home",
+      "opponent": "Gedling Southbank FC U10 Wolves",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "196ef1fb734a8164a217e818907a7e07",
       "date": "2026-03-22",

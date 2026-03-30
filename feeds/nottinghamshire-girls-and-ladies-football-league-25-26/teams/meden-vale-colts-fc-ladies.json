@@ -1,19 +1,8 @@
 {
   "team": "Meden Vale Colts FC Ladies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "33e02ac914e1ecadf2c0f30d9ffdd97d",
-      "date": "2026-03-29",
-      "time": "10:30",
-      "home_team": "Lowdham Colts FC Development",
-      "away_team": "Meden Vale Colts FC Ladies",
-      "venue": "GUNTHORPE PLAYING FIELD",
-      "division": "Senior Div 3 League Cup",
-      "home_away": "away",
-      "opponent": "Lowdham Colts FC Development"
-    },
     {
       "id": "58fff28badc5f0d9b6e77d5ea30393a0",
       "date": "2026-04-05",
@@ -57,9 +46,35 @@
       "division": "Senior Div 3 Phase 2",
       "home_away": "away",
       "opponent": "Lowdham Colts FC Development"
+    },
+    {
+      "id": "45688a8f47dbc72eb614a1c759ee03e8",
+      "date": "2026-05-14",
+      "time": "18:00",
+      "home_team": "Bingham Town FC Women Red",
+      "away_team": "Meden Vale Colts FC Ladies",
+      "venue": "BUTT FIELD SPORTS CLUB",
+      "division": "Senior Div 3 League Cup",
+      "home_away": "away",
+      "opponent": "Bingham Town FC Women Red"
     }
   ],
   "results": [
+    {
+      "id": "33e02ac914e1ecadf2c0f30d9ffdd97d",
+      "date": "2026-03-29",
+      "time": "10:30",
+      "home_team": "Lowdham Colts FC Development",
+      "away_team": "Meden Vale Colts FC Ladies",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "Senior Div 3 League Cup",
+      "home_away": "away",
+      "opponent": "Lowdham Colts FC Development",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "b14525e03c732ed6f4ecce1ae3d96878",
       "date": "2026-03-15",

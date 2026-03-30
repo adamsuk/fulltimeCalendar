@@ -1,20 +1,7 @@
 {
   "club": "Eastwood CFC",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "41e287587dc4c03abf153ada28c6cb19",
-      "date": "2026-03-29",
-      "time": "09:00",
-      "home_team": "DLFC Black U8",
-      "away_team": "Eastwood CFC Reds U8",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U8 Sun Spring 1",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Eastwood CFC Reds U8",
-      "home_away": "away",
-      "opponent": "DLFC Black U8"
-    },
     {
       "id": "faa42b9d3b6ee5f02bcada0399f7fe86",
       "date": "2026-03-29",
@@ -40,32 +27,6 @@
       "team": "Eastwood CFC Eagles U8",
       "home_away": "home",
       "opponent": "Tibshelf FC Black U8"
-    },
-    {
-      "id": "012775a8dd011b5314e6212b319e9b3b",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Eastwood CFC Juventus U9",
-      "away_team": "Ruddington Village Yellow U9",
-      "venue": "Coronation Park NG16 3HB",
-      "division": "U9 Sun Spring Premier Div",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Eastwood CFC Juventus U9",
-      "home_away": "home",
-      "opponent": "Ruddington Village Yellow U9"
-    },
-    {
-      "id": "7b0741bbe802e4831e6c8ec2a8298767",
-      "date": "2026-03-29",
-      "time": "11:00",
-      "home_team": "DLFC Gold U10",
-      "away_team": "Eastwood CFC Madrid U10",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U10 Sun Spring Div 1 Gold",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Eastwood CFC Madrid U10",
-      "home_away": "away",
-      "opponent": "DLFC Gold U10"
     },
     {
       "id": "cbb964bca27666e6c634d3621ab7e07c",
@@ -316,6 +277,57 @@
     }
   ],
   "results": [
+    {
+      "id": "7b0741bbe802e4831e6c8ec2a8298767",
+      "date": "2026-03-29",
+      "time": "11:00",
+      "home_team": "DLFC Gold U10",
+      "away_team": "Eastwood CFC Madrid U10",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sun Spring Div 1 Gold",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Eastwood CFC Madrid U10",
+      "home_away": "away",
+      "opponent": "DLFC Gold U10",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
+      "id": "012775a8dd011b5314e6212b319e9b3b",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Eastwood CFC Juventus U9",
+      "away_team": "Ruddington Village Yellow U9",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sun Spring Premier Div",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Eastwood CFC Juventus U9",
+      "home_away": "home",
+      "opponent": "Ruddington Village Yellow U9",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
+      "id": "41e287587dc4c03abf153ada28c6cb19",
+      "date": "2026-03-29",
+      "time": "09:00",
+      "home_team": "DLFC Black U8",
+      "away_team": "Eastwood CFC Reds U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sun Spring 1",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Eastwood CFC Reds U8",
+      "home_away": "away",
+      "opponent": "DLFC Black U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "9f2e6cf9ef9a20ed9de6da5cb5335815",
       "date": "2026-03-28",

@@ -1,19 +1,8 @@
 {
   "team": "Gedling Southbank FC U13 Rockets",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "69046bd9f1d6130d94dd5e330d635ad0",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Basford United F.C. U13 Girls",
-      "away_team": "Gedling Southbank FC U13 Rockets",
-      "venue": "MILL STREET RECREATION GROUND",
-      "division": "U13 Div 3 9 v 9",
-      "home_away": "away",
-      "opponent": "Basford United F.C. U13 Girls"
-    },
     {
       "id": "beb426c89542b01769df62d5563e202b",
       "date": "2026-04-05",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "69046bd9f1d6130d94dd5e330d635ad0",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Basford United F.C. U13 Girls",
+      "away_team": "Gedling Southbank FC U13 Rockets",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Div 3 9 v 9",
+      "home_away": "away",
+      "opponent": "Basford United F.C. U13 Girls",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "efbd5baabe04c4e21f28c1f6c56c5ed1",
       "date": "2026-03-22",

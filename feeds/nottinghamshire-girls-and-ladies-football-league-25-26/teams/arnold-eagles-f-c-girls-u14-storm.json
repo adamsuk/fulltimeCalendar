@@ -1,19 +1,8 @@
 {
   "team": "Arnold Eagles F.C. Girls U14 Storm",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "8e59691e5d8528dad76b30cf00b9e269",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Hucknall & Linby Harriers FC U14 Jets",
-      "away_team": "Arnold Eagles F.C. Girls U14 Storm",
-      "venue": "HOLGATE ACADEMY",
-      "division": "U14 Div 4",
-      "home_away": "away",
-      "opponent": "Hucknall & Linby Harriers FC U14 Jets"
-    },
     {
       "id": "d196d6e1d5574fbb15cc31c6a27b01e0",
       "date": "2026-04-12",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8e59691e5d8528dad76b30cf00b9e269",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Hucknall & Linby Harriers FC U14 Jets",
+      "away_team": "Arnold Eagles F.C. Girls U14 Storm",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Div 4",
+      "home_away": "away",
+      "opponent": "Hucknall & Linby Harriers FC U14 Jets",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "a99da1d888b80e0a85fd918f0cd2222f",
       "date": "2026-03-22",

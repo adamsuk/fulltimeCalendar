@@ -1,20 +1,7 @@
 {
   "club": "Long Bennington",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "961b5ba25f10df3878c3943c8a227841",
-      "date": "2026-03-29",
-      "time": "11:00",
-      "home_team": "AJ Sport Black U10",
-      "away_team": "Long Bennington U10",
-      "venue": "Beeston Fields Recreation Ground NG9 2QE",
-      "division": "U10 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Long Bennington U10",
-      "home_away": "away",
-      "opponent": "AJ Sport Black U10"
-    },
     {
       "id": "6418d15068beb3426f969161d3410596",
       "date": "2026-04-11",
@@ -303,6 +290,23 @@
     }
   ],
   "results": [
+    {
+      "id": "961b5ba25f10df3878c3943c8a227841",
+      "date": "2026-03-29",
+      "time": "11:00",
+      "home_team": "AJ Sport Black U10",
+      "away_team": "Long Bennington U10",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "U10 Sun Spring Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Long Bennington U10",
+      "home_away": "away",
+      "opponent": "AJ Sport Black U10",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "1f7e01dd67578476180a165a833380d4",
       "date": "2026-03-28",

@@ -1,85 +1,7 @@
 {
   "club": "Ravenshead Reds",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "71ea85896556cdfae9cbb3c7fd798c44",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "West Bridgford Colts Women's Development",
-      "away_team": "Ravenshead Reds FC",
-      "venue": "GRESHAM SPORTS PARK",
-      "division": "Senior Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ravenshead Reds FC",
-      "home_away": "away",
-      "opponent": "West Bridgford Colts Women's Development"
-    },
-    {
-      "id": "865158711f5fb52de85170274adb6139",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Tibshelf FC Black U7",
-      "away_team": "Ravenshead Reds Red Arrows U7",
-      "venue": "Tibshelf Sports Ground DE55 5QE",
-      "division": "U7 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ravenshead Reds Red Arrows U7",
-      "home_away": "away",
-      "opponent": "Tibshelf FC Black U7"
-    },
-    {
-      "id": "c5b7f4d28873520ddd41f39b94fb4b45",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Ravenshead Reds F.C. Youth U10",
-      "away_team": "Sherwood Colliery F.C. Ladies U10",
-      "venue": "RAVENSHEAD LEISURE CENTRE",
-      "division": "U10 Development",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ravenshead Reds F.C. Youth U10",
-      "home_away": "home",
-      "opponent": "Sherwood Colliery F.C. Ladies U10"
-    },
-    {
-      "id": "c9597ced357c18cf32ab4fb68f6f9db3",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Ravenshead Reds F.C. Youth U14",
-      "away_team": "Hasland Community U14 Girls Sunday",
-      "venue": "THE SUMMIT CENTRE",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ravenshead Reds F.C. Youth U14",
-      "home_away": "home",
-      "opponent": "Hasland Community U14 Girls Sunday"
-    },
-    {
-      "id": "ef0bee9d4d3f9b776dc5aaae930fd13b",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Shirebrook Rangers & Juniors U9 Girls",
-      "away_team": "Ravenshead Reds F.C. Youth U9",
-      "venue": "SHIREBROOK ACADEMY",
-      "division": "Other Fixtures",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ravenshead Reds F.C. Youth U9",
-      "home_away": "away",
-      "opponent": "Shirebrook Rangers & Juniors U9 Girls"
-    },
-    {
-      "id": "e68470efc4e7910bcb166e2040336624",
-      "date": "2026-03-29",
-      "time": "11:00",
-      "home_team": "Ravenshead Reds F.C. Youth U12",
-      "away_team": "Sutton Bonington U12 Comets",
-      "venue": "Ravenshead Reds F.C. Youth U12 (SUN) GIR",
-      "division": "U12 Div 5 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ravenshead Reds F.C. Youth U12",
-      "home_away": "home",
-      "opponent": "Sutton Bonington U12 Comets"
-    },
     {
       "id": "766c2dc75b950fae240677a06fbbe4f1",
       "date": "2026-04-04",
@@ -315,19 +237,6 @@
       "opponent": "Beaufort United Blue U14"
     },
     {
-      "id": "82a65a0bb6062baa373591a1027b38ec",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Sutton Bonington U12 Comets",
-      "away_team": "Ravenshead Reds F.C. Youth U12",
-      "venue": "Sutton Bonington U12 Comets",
-      "division": "U12 Div 5 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ravenshead Reds F.C. Youth U12",
-      "home_away": "away",
-      "opponent": "Sutton Bonington U12 Comets"
-    },
-    {
       "id": "5d277a31ecebc1b9bafa5bd36dd48d39",
       "date": "2026-04-19",
       "time": "10:00",
@@ -365,6 +274,19 @@
       "team": "Ravenshead Reds U12",
       "home_away": "away",
       "opponent": "Ollerton Town U12"
+    },
+    {
+      "id": "82a65a0bb6062baa373591a1027b38ec",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Sutton Bonington U12 Comets",
+      "away_team": "Ravenshead Reds F.C. Youth U12",
+      "venue": "SUTTON BONINGTON PLAYING FIELDS",
+      "division": "U12 Div 5 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ravenshead Reds F.C. Youth U12",
+      "home_away": "away",
+      "opponent": "Sutton Bonington U12 Comets"
     },
     {
       "id": "5c6d043c5fa1c49a1b8482d9f1458754",
@@ -471,6 +393,19 @@
       "opponent": "Shirebrook Rangers & Juniors U14 Girls"
     },
     {
+      "id": "3a826de1fc60bebac59f2ea286ba3532",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Keyworth United FC Development",
+      "away_team": "Ravenshead Reds FC",
+      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
+      "division": "Senior Div 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ravenshead Reds FC",
+      "home_away": "away",
+      "opponent": "Keyworth United FC Development"
+    },
+    {
       "id": "3b21b8aa09fbc279baa752bfdeaadab1",
       "date": "2026-04-26",
       "time": "11:00",
@@ -482,19 +417,6 @@
       "team": "Ravenshead Reds U14",
       "home_away": "away",
       "opponent": "Carlton Town Lions U14"
-    },
-    {
-      "id": "fba1a5b9919de8f4ba5efb1ec8d4f9cb",
-      "date": "2026-04-26",
-      "time": "14:00",
-      "home_team": "Beeston FC Women",
-      "away_team": "Ravenshead Reds FC",
-      "venue": "TRENT VALE SPORTS ASSOCIATION",
-      "division": "Senior Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ravenshead Reds FC",
-      "home_away": "away",
-      "opponent": "Beeston FC Women"
     },
     {
       "id": "f86a3ca64250f6c7159e84019fff1678",
@@ -510,17 +432,17 @@
       "opponent": "Quarrydale United FC U12"
     },
     {
-      "id": "7df8256d3727bcbd57534897990dd692",
+      "id": "a407bdc0426794fc6aee52744074c4d7",
       "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Keyworth United FC Development",
+      "time": "14:00",
+      "home_team": "Beeston FC Women",
       "away_team": "Ravenshead Reds FC",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
+      "venue": "TRENT VALE SPORTS ASSOCIATION",
       "division": "Senior Div 4",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Ravenshead Reds FC",
       "home_away": "away",
-      "opponent": "Keyworth United FC Development"
+      "opponent": "Beeston FC Women"
     },
     {
       "id": "f38bb7c1693f6f03ec6caea3c4ccb1e7",
@@ -615,6 +537,91 @@
     }
   ],
   "results": [
+    {
+      "id": "e68470efc4e7910bcb166e2040336624",
+      "date": "2026-03-29",
+      "time": "11:00",
+      "home_team": "Ravenshead Reds F.C. Youth U12",
+      "away_team": "Sutton Bonington U12 Comets",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Div 5 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ravenshead Reds F.C. Youth U12",
+      "home_away": "home",
+      "opponent": "Sutton Bonington U12 Comets",
+      "goals_for": 0,
+      "goals_against": 0
+    },
+    {
+      "id": "865158711f5fb52de85170274adb6139",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Tibshelf FC Black U7",
+      "away_team": "Ravenshead Reds Red Arrows U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ravenshead Reds Red Arrows U7",
+      "home_away": "away",
+      "opponent": "Tibshelf FC Black U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "c5b7f4d28873520ddd41f39b94fb4b45",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Ravenshead Reds F.C. Youth U10",
+      "away_team": "Sherwood Colliery F.C. Ladies U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ravenshead Reds F.C. Youth U10",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery F.C. Ladies U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "c9597ced357c18cf32ab4fb68f6f9db3",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Ravenshead Reds F.C. Youth U14",
+      "away_team": "Hasland Community U14 Girls Sunday",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ravenshead Reds F.C. Youth U14",
+      "home_away": "home",
+      "opponent": "Hasland Community U14 Girls Sunday",
+      "goals_for": 0,
+      "goals_against": 2
+    },
+    {
+      "id": "ef0bee9d4d3f9b776dc5aaae930fd13b",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers & Juniors U9 Girls",
+      "away_team": "Ravenshead Reds F.C. Youth U9",
+      "home_score": 3,
+      "away_score": 6,
+      "venue": "",
+      "division": "Other Fixtures",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ravenshead Reds F.C. Youth U9",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers & Juniors U9 Girls",
+      "goals_for": 6,
+      "goals_against": 3
+    },
     {
       "id": "10bbc11f6c08a1492cbf5ccfe6a00ce9",
       "date": "2026-03-28",

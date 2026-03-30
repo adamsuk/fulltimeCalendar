@@ -1,33 +1,7 @@
 {
   "club": "Ropsley Colts",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "f44e4a61ef817d6144b894f06a59a86e",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Burton Joyce Blue U9",
-      "away_team": "Ropsley Colts U9",
-      "venue": "The Poplars Burton Joyce NG14 5AN",
-      "division": "U9 Sun Spring Div 5 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ropsley Colts U9",
-      "home_away": "away",
-      "opponent": "Burton Joyce Blue U9"
-    },
-    {
-      "id": "98b2e53fcfaa4ae3ff6068e75a6a3e9d",
-      "date": "2026-03-29",
-      "time": "11:00",
-      "home_team": "Willow Wanderers Spartans U12",
-      "away_team": "Ropsley Colts Red U12",
-      "venue": "Carlton le Willows School NG4 4AA",
-      "division": "U12 Sun Spring Div 6 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ropsley Colts Red U12",
-      "home_away": "away",
-      "opponent": "Willow Wanderers Spartans U12"
-    },
     {
       "id": "a2bf9453daedd48f0dbf76833aea670e",
       "date": "2026-04-19",
@@ -95,6 +69,40 @@
     }
   ],
   "results": [
+    {
+      "id": "98b2e53fcfaa4ae3ff6068e75a6a3e9d",
+      "date": "2026-03-29",
+      "time": "11:00",
+      "home_team": "Willow Wanderers Spartans U12",
+      "away_team": "Ropsley Colts Red U12",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sun Spring Div 6 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ropsley Colts Red U12",
+      "home_away": "away",
+      "opponent": "Willow Wanderers Spartans U12",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
+      "id": "f44e4a61ef817d6144b894f06a59a86e",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Burton Joyce Blue U9",
+      "away_team": "Ropsley Colts U9",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sun Spring Div 5 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ropsley Colts U9",
+      "home_away": "away",
+      "opponent": "Burton Joyce Blue U9",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "e61f3649748b5d62ca8b250ab471f6d1",
       "date": "2026-03-22",

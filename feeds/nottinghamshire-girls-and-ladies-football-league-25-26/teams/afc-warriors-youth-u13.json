@@ -1,19 +1,8 @@
 {
   "team": "AFC Warriors Youth U13",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "78bf917331e4ec709e8416893e4b224a",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Robin Hood Colts FC Youth U13",
-      "away_team": "AFC Warriors Youth U13",
-      "venue": "SHERWOOD FIELDS (ROBIN HOOD COLTS FC)",
-      "division": "U13 Div 2 11 v 11",
-      "home_away": "away",
-      "opponent": "Robin Hood Colts FC Youth U13"
-    },
     {
       "id": "fec47491dc61a9c57dfb628dff8cb150",
       "date": "2026-04-19",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "78bf917331e4ec709e8416893e4b224a",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Robin Hood Colts FC Youth U13",
+      "away_team": "AFC Warriors Youth U13",
+      "home_score": 6,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Div 2 11 v 11",
+      "home_away": "away",
+      "opponent": "Robin Hood Colts FC Youth U13",
+      "goals_for": 2,
+      "goals_against": 6
+    },
     {
       "id": "25a684c388221079bdc0e04e6f6f39e2",
       "date": "2026-03-22",

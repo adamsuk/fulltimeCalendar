@@ -1,20 +1,7 @@
 {
   "club": "Muskham Cougars",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "32e15e1b81be93eb281ec400611aa091",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Muskham Cougars F.C. Youth U12",
-      "away_team": "Lowdham Colts F.C. Youth U12 Girls",
-      "venue": "BECKITT FIELD",
-      "division": "Other Fixtures",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Muskham Cougars F.C. Youth U12",
-      "home_away": "home",
-      "opponent": "Lowdham Colts F.C. Youth U12 Girls"
-    },
     {
       "id": "a05c19800a104868ae9b6c361035c586",
       "date": "2026-04-11",
@@ -238,6 +225,23 @@
     }
   ],
   "results": [
+    {
+      "id": "32e15e1b81be93eb281ec400611aa091",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Muskham Cougars F.C. Youth U12",
+      "away_team": "Lowdham Colts F.C. Youth U12 Girls",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "Other Fixtures",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Muskham Cougars F.C. Youth U12",
+      "home_away": "home",
+      "opponent": "Lowdham Colts F.C. Youth U12 Girls",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "f017cb07debd034845d42587d09a9aa1",
       "date": "2026-03-28",

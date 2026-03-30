@@ -1,19 +1,8 @@
 {
   "team": "Newark Brazil Cruzeiro U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "47b8370f146656273f15d7bc8c9b37bc",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Newark Brazil Cruzeiro U10",
-      "away_team": "Tibshelf FC U10",
-      "venue": "Claypole Playing Field NG23 5BQ",
-      "division": "U10 Sun Spring Div 1 Silver",
-      "home_away": "home",
-      "opponent": "Tibshelf FC U10"
-    },
     {
       "id": "2a09e7d4e61dac440043e420b7de2162",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "47b8370f146656273f15d7bc8c9b37bc",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Newark Brazil Cruzeiro U10",
+      "away_team": "Tibshelf FC U10",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U10 Sun Spring Div 1 Silver",
+      "home_away": "home",
+      "opponent": "Tibshelf FC U10",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "d68cafa3efc4fc850b41113b93909b70",
       "date": "2026-03-22",

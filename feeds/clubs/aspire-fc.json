@@ -1,33 +1,7 @@
 {
   "club": "Aspire FC",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "9d69b26be5c5ed3d9afc98472f918e1c",
-      "date": "2026-03-29",
-      "time": "09:30",
-      "home_team": "Aspire FC U10",
-      "away_team": "Attenborough Colts Blue U10",
-      "venue": "Nottingham Trent University NG11 8NS",
-      "division": "U10 Sun Spring Premier Div",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Aspire FC U10",
-      "home_away": "home",
-      "opponent": "Attenborough Colts Blue U10"
-    },
-    {
-      "id": "4f29f2ee1f7fbf53744e0371e97da295",
-      "date": "2026-03-29",
-      "time": "09:30",
-      "home_team": "Aspire FC U8",
-      "away_team": "AJ Sport Gold U8",
-      "venue": "Nottingham Trent University NG11 8NS",
-      "division": "U8 Sun Spring 1",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Aspire FC U8",
-      "home_away": "home",
-      "opponent": "AJ Sport Gold U8"
-    },
     {
       "id": "64ae14cd5fbab8ce5e6bee15ebffeefc",
       "date": "2026-04-12",
@@ -147,6 +121,40 @@
     }
   ],
   "results": [
+    {
+      "id": "9d69b26be5c5ed3d9afc98472f918e1c",
+      "date": "2026-03-29",
+      "time": "09:30",
+      "home_team": "Aspire FC U10",
+      "away_team": "Attenborough Colts Blue U10",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sun Spring Premier Div",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Aspire FC U10",
+      "home_away": "home",
+      "opponent": "Attenborough Colts Blue U10",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "4f29f2ee1f7fbf53744e0371e97da295",
+      "date": "2026-03-29",
+      "time": "09:30",
+      "home_team": "Aspire FC U8",
+      "away_team": "AJ Sport Gold U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sun Spring 1",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Aspire FC U8",
+      "home_away": "home",
+      "opponent": "AJ Sport Gold U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "82b4af178a2a324e3ebc797fa88aa9b1",
       "date": "2026-03-22",

@@ -1,20 +1,7 @@
 {
   "club": "Woodthorpe Community",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "02df4fd87bb8e8d436f6d0d1928ac28b",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Woodthorpe Community U12 Warriors",
-      "away_team": "Langwith Whitestar U12 United",
-      "venue": "SOUTHGLADE LEISURE CENTRE",
-      "division": "U12 Div 2 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Woodthorpe Community U12 Warriors",
-      "home_away": "home",
-      "opponent": "Langwith Whitestar U12 United"
-    },
     {
       "id": "cf845ab03c2fdba2f96303ba9a8570f1",
       "date": "2026-04-11",
@@ -82,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "02df4fd87bb8e8d436f6d0d1928ac28b",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Woodthorpe Community U12 Warriors",
+      "away_team": "Langwith Whitestar U12 United",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Woodthorpe Community U12 Warriors",
+      "home_away": "home",
+      "opponent": "Langwith Whitestar U12 United",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "9ee7f2c1b4383450b68e29ec7ceccc84",
       "date": "2026-03-28",

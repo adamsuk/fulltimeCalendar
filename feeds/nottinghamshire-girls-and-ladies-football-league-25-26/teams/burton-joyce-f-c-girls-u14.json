@@ -1,19 +1,8 @@
 {
   "team": "Burton Joyce F.C. Girls U14",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "11d8f2b7637f1bb20c82d724e59071cb",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Cotgrave FC U14 White",
-      "away_team": "Burton Joyce F.C. Girls U14",
-      "venue": "COTGRAVE LEISURE CENTRE",
-      "division": "U14 Div 4",
-      "home_away": "away",
-      "opponent": "Cotgrave FC U14 White"
-    },
     {
       "id": "a9396e33cd6dfbbff0668c8feaf034fe",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "11d8f2b7637f1bb20c82d724e59071cb",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Cotgrave FC U14 White",
+      "away_team": "Burton Joyce F.C. Girls U14",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Div 4",
+      "home_away": "away",
+      "opponent": "Cotgrave FC U14 White",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "e0462d14b09afdffadc67cf47d922816",
       "date": "2026-03-22",

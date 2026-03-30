@@ -1,19 +1,8 @@
 {
   "team": "Woodborough Celtic U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "7e159265514a40e76abdc1163401fb15",
-      "date": "2026-03-29",
-      "time": "11:00",
-      "home_team": "Woodborough Celtic U9",
-      "away_team": "DLFC Lions U9",
-      "venue": "Calverton Village Hall - NG14 6SA",
-      "division": "U9 Sun Spring Premier Div",
-      "home_away": "home",
-      "opponent": "DLFC Lions U9"
-    },
     {
       "id": "32f50420fb23920875753c9da2b1295f",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7e159265514a40e76abdc1163401fb15",
+      "date": "2026-03-29",
+      "time": "11:00",
+      "home_team": "Woodborough Celtic U9",
+      "away_team": "DLFC Lions U9",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sun Spring Premier Div",
+      "home_away": "home",
+      "opponent": "DLFC Lions U9",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "ee0b70ffaf9b739dfb12f33b4c22c844",
       "date": "2026-03-22",

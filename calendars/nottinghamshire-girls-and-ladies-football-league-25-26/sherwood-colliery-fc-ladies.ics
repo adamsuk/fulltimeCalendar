@@ -7,26 +7,8 @@ X-WR-CALNAME:Sherwood Colliery FC Ladies
 X-WR-CALDESC:Fixtures for Sherwood Colliery FC Ladies — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:dbe0589c7f3b43fc759eacdaebd2dc63@yel-calendar
-DTSTAMP:20260329T065441Z
-DTSTART;TZID=Europe/London:20260329T143000
-DTEND;TZID=Europe/London:20260329T153000
-SUMMARY:⚽ Sherwood Colliery FC Ladies vs Shirebrook Rangers Women (Home)
-DESCRIPTION:Division: Seniors Div 2\nSherwood Colliery FC Ladies v Shirebrook Rangers Women\nKO: 14:30
-LOCATION:DEBDALE PARK SPORTS AND RECREATIONAL CLUB
-END:VEVENT
-BEGIN:VEVENT
-UID:49215b93515e7f61a8b1bebee061c906@yel-calendar
-DTSTAMP:20260329T065441Z
-DTSTART;TZID=Europe/London:20260412T133000
-DTEND;TZID=Europe/London:20260412T143000
-SUMMARY:⚽ Sherwood Colliery FC Ladies vs Underwood Villa FC Youth Ladies (Away)
-DESCRIPTION:Division: Seniors Div 2\nUnderwood Villa FC Youth Ladies v Sherwood Colliery FC Ladies\nKO: 13:30
-LOCATION:BRACKEN PARK (UNDERWOOD VILLA FC)
-END:VEVENT
-BEGIN:VEVENT
 UID:7124708d40c04c7e3029722669fa4290@yel-calendar
-DTSTAMP:20260329T065441Z
+DTSTAMP:20260330T071610Z
 DTSTART;TZID=Europe/London:20260415T183000
 DTEND;TZID=Europe/London:20260415T193000
 SUMMARY:⚽ Sherwood Colliery FC Ladies vs Arnold Town FC Women (Away)
@@ -34,8 +16,17 @@ DESCRIPTION:Division: Seniors Div 2\nArnold Town FC Women v Sherwood Colliery FC
 LOCATION:EAGLE VALLEY
 END:VEVENT
 BEGIN:VEVENT
+UID:fd34a9555ec4fba79a003bee57810559@yel-calendar
+DTSTAMP:20260330T071610Z
+DTSTART;TZID=Europe/London:20260503T133000
+DTEND;TZID=Europe/London:20260503T143000
+SUMMARY:⚽ Sherwood Colliery FC Ladies vs Underwood Villa FC Youth Ladies (Away)
+DESCRIPTION:Division: Seniors Div 2\nUnderwood Villa FC Youth Ladies v Sherwood Colliery FC Ladies\nKO: 13:30
+LOCATION:BRACKEN PARK (UNDERWOOD VILLA FC)
+END:VEVENT
+BEGIN:VEVENT
 UID:35b99ab97434574f35644377d1a41f87@yel-calendar
-DTSTAMP:20260329T065441Z
+DTSTAMP:20260330T071610Z
 DTSTART;TZID=Europe/London:20260510T100000
 DTEND;TZID=Europe/London:20260510T113000
 SUMMARY:⚽ Sherwood Colliery FC Ladies vs Shirebrook Rangers Women (Away)

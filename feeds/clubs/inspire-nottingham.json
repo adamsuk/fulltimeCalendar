@@ -1,33 +1,7 @@
 {
   "club": "Inspire Nottingham",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "7b06dab684edd1def6288297588bc799",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Barrowby FC Black U7",
-      "away_team": "Inspire Nottingham Black U7",
-      "venue": "Low Field NG32 1DJ",
-      "division": "U7 Sun Spring Orange",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Inspire Nottingham Black U7",
-      "home_away": "away",
-      "opponent": "Barrowby FC Black U7"
-    },
-    {
-      "id": "effc371416d348705e0ce55075b6851a",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Beaufort United Reds U8",
-      "away_team": "Inspire Nottingham FC Black U8",
-      "venue": "Polly Bowls NG17 4HN",
-      "division": "U8 Sun Spring 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Inspire Nottingham FC Black U8",
-      "home_away": "away",
-      "opponent": "Beaufort United Reds U8"
-    },
     {
       "id": "7beb3f5b9b6c76837a06717af4cac40e",
       "date": "2026-03-29",
@@ -277,6 +251,40 @@
     }
   ],
   "results": [
+    {
+      "id": "7b06dab684edd1def6288297588bc799",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Barrowby FC Black U7",
+      "away_team": "Inspire Nottingham Black U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring Orange",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Inspire Nottingham Black U7",
+      "home_away": "away",
+      "opponent": "Barrowby FC Black U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "effc371416d348705e0ce55075b6851a",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Beaufort United Reds U8",
+      "away_team": "Inspire Nottingham FC Black U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sun Spring 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Inspire Nottingham FC Black U8",
+      "home_away": "away",
+      "opponent": "Beaufort United Reds U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "3b75760997879b28702943fb691029f6",
       "date": "2026-03-28",

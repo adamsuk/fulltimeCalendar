@@ -1,20 +1,7 @@
 {
   "club": "Riverside FC",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "75cbaa06012b6f0d939ed6977eee1eea",
-      "date": "2026-03-29",
-      "time": "10:30",
-      "home_team": "Riverside FC Real U12",
-      "away_team": "Chesterfield Town Blue U12",
-      "venue": "Melbourne Court NG10 3EE",
-      "division": "U12 Sun Spring Div 5",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Riverside FC Real U12",
-      "home_away": "home",
-      "opponent": "Chesterfield Town Blue U12"
-    },
     {
       "id": "bf15b8cc8e29c4cbb115c0194f359b41",
       "date": "2026-04-16",
@@ -160,6 +147,23 @@
     }
   ],
   "results": [
+    {
+      "id": "75cbaa06012b6f0d939ed6977eee1eea",
+      "date": "2026-03-29",
+      "time": "10:30",
+      "home_team": "Riverside FC Real U12",
+      "away_team": "Chesterfield Town Blue U12",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sun Spring Div 5",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Riverside FC Real U12",
+      "home_away": "home",
+      "opponent": "Chesterfield Town Blue U12",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "3c888a7a91f6becd60fdbc708f269147",
       "date": "2026-03-28",

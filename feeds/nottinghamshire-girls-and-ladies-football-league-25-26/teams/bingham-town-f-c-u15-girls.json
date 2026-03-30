@@ -1,30 +1,8 @@
 {
   "team": "Bingham Town F.C. U15 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "f07387e5b21fa6e9d9f8b6bec63eab4e",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Tansley Juniors U15 Girls",
-      "away_team": "Bingham Town F.C. U15 Girls",
-      "venue": "THE FETE FIELD",
-      "division": "U15 Div 2",
-      "home_away": "away",
-      "opponent": "Tansley Juniors U15 Girls"
-    },
-    {
-      "id": "b3a0e3cb2bb70898ece200cc8a457b0f",
-      "date": "2026-03-29",
-      "time": "10:45",
-      "home_team": "Bingham Town F.C. U15 Girls",
-      "away_team": "Tansley Juniors U15 Girls",
-      "venue": "THE FETE FIELD",
-      "division": "U15 Div 2",
-      "home_away": "home",
-      "opponent": "Tansley Juniors U15 Girls"
-    },
     {
       "id": "3f3eab34292f33b0ae0222a315d1ff58",
       "date": "2026-04-12",
@@ -71,6 +49,36 @@
     }
   ],
   "results": [
+    {
+      "id": "b3a0e3cb2bb70898ece200cc8a457b0f",
+      "date": "2026-03-29",
+      "time": "10:45",
+      "home_team": "Bingham Town F.C. U15 Girls",
+      "away_team": "Tansley Juniors U15 Girls",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U15 Div 2",
+      "home_away": "home",
+      "opponent": "Tansley Juniors U15 Girls",
+      "goals_for": 0,
+      "goals_against": 3
+    },
+    {
+      "id": "f07387e5b21fa6e9d9f8b6bec63eab4e",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Tansley Juniors U15 Girls",
+      "away_team": "Bingham Town F.C. U15 Girls",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U15 Div 2",
+      "home_away": "away",
+      "opponent": "Tansley Juniors U15 Girls",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "22b86003b0fbc0ef6770f1ec9cff6146",
       "date": "2026-03-22",

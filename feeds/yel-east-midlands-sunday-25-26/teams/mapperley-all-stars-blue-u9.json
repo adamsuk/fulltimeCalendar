@@ -1,19 +1,8 @@
 {
   "team": "Mapperley All Stars Blue U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "1a42b5a1dac74d7018313b7b42727d74",
-      "date": "2026-03-29",
-      "time": "09:45",
-      "home_team": "Sherwood Colliery Blue U9",
-      "away_team": "Mapperley All Stars Blue U9",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U9 Sun Spring Div 2 Red",
-      "home_away": "away",
-      "opponent": "Sherwood Colliery Blue U9"
-    },
     {
       "id": "ead36796e5a1ac5435876d9352cfb041",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "1a42b5a1dac74d7018313b7b42727d74",
+      "date": "2026-03-29",
+      "time": "09:45",
+      "home_team": "Sherwood Colliery Blue U9",
+      "away_team": "Mapperley All Stars Blue U9",
+      "home_score": 13,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sun Spring Div 2 Red",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery Blue U9",
+      "goals_for": 3,
+      "goals_against": 13
+    },
     {
       "id": "6066f7494c64e9d483d2cfee6004ea9e",
       "date": "2026-03-22",

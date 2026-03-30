@@ -1,19 +1,8 @@
 {
   "team": "Keyworth Utd Fanzines U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "a47dbc5089efc9505bf35bf3e7d94f45",
-      "date": "2026-03-29",
-      "time": "11:00",
-      "home_team": "Gonerby Yellow U12",
-      "away_team": "Keyworth Utd Fanzines U12",
-      "venue": "Hougham & Marston Playing Field NG32 2HL",
-      "division": "U12 Sun Spring Div 3 Blue",
-      "home_away": "away",
-      "opponent": "Gonerby Yellow U12"
-    },
     {
       "id": "971a421aecb8d1f3b3d3cb4f0a855478",
       "date": "2026-04-16",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a47dbc5089efc9505bf35bf3e7d94f45",
+      "date": "2026-03-29",
+      "time": "11:00",
+      "home_team": "Gonerby Yellow U12",
+      "away_team": "Keyworth Utd Fanzines U12",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sun Spring Div 3 Blue",
+      "home_away": "away",
+      "opponent": "Gonerby Yellow U12",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "0871fa43a8827dc472c31636c19ef08d",
       "date": "2026-03-22",

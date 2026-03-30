@@ -1,18 +1,18 @@
 {
   "team": "Ilkeston Town Titans U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
     {
-      "id": "8bd79d5121d9a61777b680fe93257b7d",
-      "date": "2026-03-29",
+      "id": "03d91fd4f0e1af41c4e457860c7c8345",
+      "date": "2026-04-19",
       "time": "10:00",
       "home_team": "Ilkeston Town Titans U9",
-      "away_team": "Silva FC Rushcliffe Reds U9",
-      "venue": "New Manor Ground DE7 8JF",
+      "away_team": "Attenborough Colts Yellow U9",
+      "venue": "Booths Playing Fields DE7 8JF",
       "division": "U9 Sun Spring Div 4 Blue",
       "home_away": "home",
-      "opponent": "Silva FC Rushcliffe Reds U9"
+      "opponent": "Attenborough Colts Yellow U9"
     },
     {
       "id": "00ed875eb7e2cc0444fc0d9cfe38a008",
@@ -24,20 +24,24 @@
       "division": "U9 Sun Spring Div 4 Blue",
       "home_away": "home",
       "opponent": "Breaston Park Green U9"
-    },
-    {
-      "id": "9ba75528a7eb78c1f7c326c906beef20",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Ilkeston Town Titans U9",
-      "away_team": "Attenborough Colts Yellow U9",
-      "venue": "Booths Playing Fields DE7 8JF",
-      "division": "U9 Sun Spring Div 4 Blue",
-      "home_away": "home",
-      "opponent": "Attenborough Colts Yellow U9"
     }
   ],
   "results": [
+    {
+      "id": "8bd79d5121d9a61777b680fe93257b7d",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Titans U9",
+      "away_team": "Silva FC Rushcliffe Reds U9",
+      "home_score": 7,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sun Spring Div 4 Blue",
+      "home_away": "home",
+      "opponent": "Silva FC Rushcliffe Reds U9",
+      "goals_for": 7,
+      "goals_against": 2
+    },
     {
       "id": "3073300c3aaa3777c302d7052d48cd0a",
       "date": "2026-03-22",

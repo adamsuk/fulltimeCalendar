@@ -1,19 +1,8 @@
 {
   "team": "Club FDNA Barca U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "d1a39aba138b0074374841db6c38e337",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Club FDNA Barca U10",
-      "away_team": "Collingham FC Panthers U10",
-      "venue": "Bilborough College NG8 4DQ",
-      "division": "U10 Sun Spring Div 2 Red",
-      "home_away": "home",
-      "opponent": "Collingham FC Panthers U10"
-    },
     {
       "id": "d579c5ffcab8bb0613ba6256196e4364",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d1a39aba138b0074374841db6c38e337",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Club FDNA Barca U10",
+      "away_team": "Collingham FC Panthers U10",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sun Spring Div 2 Red",
+      "home_away": "home",
+      "opponent": "Collingham FC Panthers U10",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "f1d108d49ef7bf3d09b9aadde9aaefc6",
       "date": "2026-03-22",

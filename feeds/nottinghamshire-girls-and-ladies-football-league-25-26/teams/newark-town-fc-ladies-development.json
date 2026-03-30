@@ -1,19 +1,8 @@
 {
   "team": "Newark Town FC Ladies Development",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "87dfc98c0727078a1d975bb07beceab6",
-      "date": "2026-03-29",
-      "time": "14:00",
-      "home_team": "Cotgrave FC Ladies",
-      "away_team": "Newark Town FC Ladies Development",
-      "venue": "COTGRAVE WELFARE CLUB",
-      "division": "Senior Div 3 Phase 2",
-      "home_away": "away",
-      "opponent": "Cotgrave FC Ladies"
-    },
     {
       "id": "58fff28badc5f0d9b6e77d5ea30393a0",
       "date": "2026-04-05",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "87dfc98c0727078a1d975bb07beceab6",
+      "date": "2026-03-29",
+      "time": "14:00",
+      "home_team": "Cotgrave FC Ladies",
+      "away_team": "Newark Town FC Ladies Development",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "Senior Div 3 Phase 2",
+      "home_away": "away",
+      "opponent": "Cotgrave FC Ladies",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "8e80fcf96abbda4e550af8191c08a3fe",
       "date": "2026-03-08",

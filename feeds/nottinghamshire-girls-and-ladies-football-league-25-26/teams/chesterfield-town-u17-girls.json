@@ -1,19 +1,8 @@
 {
   "team": "Chesterfield Town U17 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "7481b27661d7b4d4bc43e27cde0f4358",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Chesterfield Town U17 Girls",
-      "away_team": "Shirebrook Rangers & Juniors U18 Girls",
-      "venue": "HIGHFIELD PARK",
-      "division": "U18 Div 2 Phase 2",
-      "home_away": "home",
-      "opponent": "Shirebrook Rangers & Juniors U18 Girls"
-    },
     {
       "id": "e7aecc6eaccc23e3b44132e5e7104f54",
       "date": "2026-04-12",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7481b27661d7b4d4bc43e27cde0f4358",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Chesterfield Town U17 Girls",
+      "away_team": "Shirebrook Rangers & Juniors U18 Girls",
+      "home_score": 0,
+      "away_score": 6,
+      "venue": "",
+      "division": "U18 Div 2 Phase 2",
+      "home_away": "home",
+      "opponent": "Shirebrook Rangers & Juniors U18 Girls",
+      "goals_for": 0,
+      "goals_against": 6
+    },
     {
       "id": "e0018e12571b362288133bf77719d6a7",
       "date": "2026-03-08",

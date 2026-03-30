@@ -1,6 +1,6 @@
 {
   "club": "PMG Excel",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
     {
       "id": "569fa4dfbc1678ee8a44da03aec48f7d",
@@ -14,45 +14,6 @@
       "team": "PMG Excel U10",
       "home_away": "away",
       "opponent": "Borrowash Youth Tigers U10"
-    },
-    {
-      "id": "9706c41769ad435d0ceba7a990b2476e",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "PMG Excel U11",
-      "away_team": "Gonerby Yellow U11",
-      "venue": "Bulwell Hall Park NG6 8LF",
-      "division": "U11 Sun Spring Div 4 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "PMG Excel U11",
-      "home_away": "home",
-      "opponent": "Gonerby Yellow U11"
-    },
-    {
-      "id": "57043b2f73866769637819bca196fbf3",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Newton & Blackwell U12",
-      "away_team": "PMG Excel U12",
-      "venue": "Scanderlands Pavilion DE55 5JJ",
-      "division": "U12 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "PMG Excel U12",
-      "home_away": "away",
-      "opponent": "Newton & Blackwell U12"
-    },
-    {
-      "id": "5ea6a0eb8f5adccfecdc5859ee15eedd",
-      "date": "2026-03-29",
-      "time": "11:30",
-      "home_team": "Ernehale Colts U14",
-      "away_team": "PMG Excel U14",
-      "venue": "KING GEORGE V REC GRND NG5 6NE",
-      "division": "U14 Sun Spring Div 3 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "PMG Excel U14",
-      "home_away": "away",
-      "opponent": "Ernehale Colts U14"
     },
     {
       "id": "e6b19af54e85f49861511e3f01e75dbc",
@@ -146,6 +107,19 @@
       "opponent": "Carlton Town Wolves U14"
     },
     {
+      "id": "8791150ada0ee33981bd860b975568fe",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Sandiacre Town Reds U10",
+      "away_team": "PMG Excel U10",
+      "venue": "Cloudside Junior School NG10 5DE",
+      "division": "U10 Sat Spring Div 2 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "PMG Excel U10",
+      "home_away": "away",
+      "opponent": "Sandiacre Town Reds U10"
+    },
+    {
       "id": "8bdb7dd663405360518a4d664386ad48",
       "date": "2026-04-18",
       "time": "11:00",
@@ -224,19 +198,6 @@
       "opponent": "Clifton All Whites Black U12"
     },
     {
-      "id": "963f6e100116194d4f5454bc0c41b8c6",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Sandiacre Town Reds U10",
-      "away_team": "PMG Excel U10",
-      "venue": "Cloudside Junior School NG10 5DE",
-      "division": "U10 Sat Spring Div 2 Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "PMG Excel U10",
-      "home_away": "away",
-      "opponent": "Sandiacre Town Reds U10"
-    },
-    {
       "id": "e520bf283b1e76b8432ca71ad77bc261",
       "date": "2026-04-25",
       "time": "10:00",
@@ -303,6 +264,57 @@
     }
   ],
   "results": [
+    {
+      "id": "5ea6a0eb8f5adccfecdc5859ee15eedd",
+      "date": "2026-03-29",
+      "time": "11:30",
+      "home_team": "Ernehale Colts U14",
+      "away_team": "PMG Excel U14",
+      "home_score": 0,
+      "away_score": 11,
+      "venue": "",
+      "division": "U14 Sun Spring Div 3 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "PMG Excel U14",
+      "home_away": "away",
+      "opponent": "Ernehale Colts U14",
+      "goals_for": 11,
+      "goals_against": 0
+    },
+    {
+      "id": "9706c41769ad435d0ceba7a990b2476e",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "PMG Excel U11",
+      "away_team": "Gonerby Yellow U11",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U11 Sun Spring Div 4 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "PMG Excel U11",
+      "home_away": "home",
+      "opponent": "Gonerby Yellow U11",
+      "goals_for": 0,
+      "goals_against": 5
+    },
+    {
+      "id": "57043b2f73866769637819bca196fbf3",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Newton & Blackwell U12",
+      "away_team": "PMG Excel U12",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Sun Spring Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "PMG Excel U12",
+      "home_away": "away",
+      "opponent": "Newton & Blackwell U12",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "169b8e82be32eced2d3078da5493598b",
       "date": "2026-03-28",

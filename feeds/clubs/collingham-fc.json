@@ -1,6 +1,6 @@
 {
   "club": "Collingham FC",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
     {
       "id": "60e4749a0efea129c9fec404c9e45e5e",
@@ -27,19 +27,6 @@
       "team": "Collingham FC Lions U14",
       "home_away": "away",
       "opponent": "AJ Sport FC U14"
-    },
-    {
-      "id": "d1a39aba138b0074374841db6c38e337",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Club FDNA Barca U10",
-      "away_team": "Collingham FC Panthers U10",
-      "venue": "Bilborough College NG8 4DQ",
-      "division": "U10 Sun Spring Div 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Collingham FC Panthers U10",
-      "home_away": "away",
-      "opponent": "Club FDNA Barca U10"
     },
     {
       "id": "a45f1fc09b14b5bd7ea7b938e37e0979",
@@ -92,19 +79,6 @@
       "team": "Collingham FC",
       "home_away": "away",
       "opponent": "Keyworth United FC"
-    },
-    {
-      "id": "e9264a729361894b29ede75882bbd940",
-      "date": "2026-04-09",
-      "time": "19:45",
-      "home_team": "Collingham FC Development",
-      "away_team": "Quorn FC Methodists",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "NSL Development Cup",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Collingham FC Development",
-      "home_away": "home",
-      "opponent": "Quorn FC Methodists"
     },
     {
       "id": "c833fae1cf2449e12d68c169a3ed073a",
@@ -198,17 +172,17 @@
       "opponent": "Awsworth Villa FC"
     },
     {
-      "id": "c610475b853ad39346079c2594a674f3",
+      "id": "b485730f309d362212546772880832c7",
       "date": "2026-04-16",
       "time": "19:45",
       "home_team": "Collingham FC Development",
-      "away_team": "West Bridgford Development",
+      "away_team": "Quorn FC Methodists",
       "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "Development Spring Division One",
+      "division": "NSL Development Cup",
       "league": "Euro Soccer Nottinghamshire Senior League 25/26",
       "team": "Collingham FC Development",
       "home_away": "home",
-      "opponent": "West Bridgford Development"
+      "opponent": "Quorn FC Methodists"
     },
     {
       "id": "68703bcff415d383d2c43a83b1b2cfda",
@@ -419,19 +393,6 @@
       "opponent": "Gedling Southbank Reds U10"
     },
     {
-      "id": "88a86009e2c26cd0d13f2c3dd53321bd",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "Collingham FC Cougars U11",
-      "away_team": "Newark Brazil Corinthians U11",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U11 Sat Spring Div 4 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Collingham FC Cougars U11",
-      "home_away": "home",
-      "opponent": "Newark Brazil Corinthians U11"
-    },
-    {
       "id": "5149d20191340949084f359a7fad1d66",
       "date": "2026-04-21",
       "time": "19:30",
@@ -443,6 +404,19 @@
       "team": "Collingham FC",
       "home_away": "away",
       "opponent": "West Bridgford Reserves"
+    },
+    {
+      "id": "fb32b2566df16e6fc2546c24b8ff2f19",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Collingham FC Cougars U11",
+      "away_team": "Newark Brazil Corinthians U11",
+      "venue": "Collingham FC  NG23 7RA",
+      "division": "U11 Sat Spring Div 4 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Collingham FC Cougars U11",
+      "home_away": "home",
+      "opponent": "Newark Brazil Corinthians U11"
     },
     {
       "id": "b75c66b619f0af4ed7f1a3b2f1f61f5a",
@@ -692,6 +666,19 @@
       "opponent": "Notts Olympic FC"
     },
     {
+      "id": "70a0708cd2a0b65346cd28f697ea9c76",
+      "date": "2026-05-05",
+      "time": "19:45",
+      "home_team": "Collingham FC Development",
+      "away_team": "West Bridgford Development",
+      "venue": "COLLINGHAM FOOTBALL CLUB",
+      "division": "Development Spring Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Collingham FC Development",
+      "home_away": "home",
+      "opponent": "West Bridgford Development"
+    },
+    {
       "id": "852f70dc9dc1baef8065fd422daab0cd",
       "date": "2026-05-07",
       "time": "19:45",
@@ -758,6 +745,23 @@
     }
   ],
   "results": [
+    {
+      "id": "d1a39aba138b0074374841db6c38e337",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Club FDNA Barca U10",
+      "away_team": "Collingham FC Panthers U10",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sun Spring Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Collingham FC Panthers U10",
+      "home_away": "away",
+      "opponent": "Club FDNA Barca U10",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "6e1697d339645b2eb4a929041822ef3d",
       "date": "2026-03-28",

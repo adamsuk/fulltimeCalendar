@@ -1,27 +1,14 @@
 {
   "club": "Sutton Bonington",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "e68470efc4e7910bcb166e2040336624",
-      "date": "2026-03-29",
-      "time": "11:00",
-      "home_team": "Ravenshead Reds F.C. Youth U12",
-      "away_team": "Sutton Bonington U12 Comets",
-      "venue": "Ravenshead Reds F.C. Youth U12 (SUN) GIR",
-      "division": "U12 Div 5 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sutton Bonington U12 Comets",
-      "home_away": "away",
-      "opponent": "Ravenshead Reds F.C. Youth U12"
-    },
     {
       "id": "82a65a0bb6062baa373591a1027b38ec",
       "date": "2026-04-19",
-      "time": "10:00",
+      "time": "11:00",
       "home_team": "Sutton Bonington U12 Comets",
       "away_team": "Ravenshead Reds F.C. Youth U12",
-      "venue": "Sutton Bonington U12 Comets",
+      "venue": "SUTTON BONINGTON PLAYING FIELDS",
       "division": "U12 Div 5 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Sutton Bonington U12 Comets",
@@ -44,10 +31,10 @@
     {
       "id": "b61e0009d317d88b9e70ed09506e020c",
       "date": "2026-05-24",
-      "time": "10:00",
+      "time": "11:00",
       "home_team": "Sutton Bonington U12 Comets",
       "away_team": "Quarrydale United FC U12",
-      "venue": "Sutton Bonington U12 Comets",
+      "venue": "SUTTON BONINGTON PLAYING FIELDS",
       "division": "U12 Div 5 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Sutton Bonington U12 Comets",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "e68470efc4e7910bcb166e2040336624",
+      "date": "2026-03-29",
+      "time": "11:00",
+      "home_team": "Ravenshead Reds F.C. Youth U12",
+      "away_team": "Sutton Bonington U12 Comets",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Div 5 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sutton Bonington U12 Comets",
+      "home_away": "away",
+      "opponent": "Ravenshead Reds F.C. Youth U12",
+      "goals_for": 0,
+      "goals_against": 0
+    },
     {
       "id": "c197201d9d67b8759e3090e7359252d8",
       "date": "2026-03-28",

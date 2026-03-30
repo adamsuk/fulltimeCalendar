@@ -1,19 +1,8 @@
 {
   "team": "Eastwood Athletic Atalanta U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "7c3b4680d1b18829067a3f0eee3fb2cb",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Eastwood Athletic Atalanta U10",
-      "away_team": "Heanor Juniors Predators U10",
-      "venue": "Hall Park NG16 3AR",
-      "division": "U10 Sun Spring Div 5 Red",
-      "home_away": "home",
-      "opponent": "Heanor Juniors Predators U10"
-    },
     {
       "id": "78da2d03ee36efb9a28f3dd8ef518e81",
       "date": "2026-04-19",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7c3b4680d1b18829067a3f0eee3fb2cb",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Eastwood Athletic Atalanta U10",
+      "away_team": "Heanor Juniors Predators U10",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "U10 Sun Spring Div 5 Red",
+      "home_away": "home",
+      "opponent": "Heanor Juniors Predators U10",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "6c2966b5880ab00abe400c2a5b0f41dd",
       "date": "2026-03-22",

@@ -1,19 +1,8 @@
 {
   "team": "Stanton Ilkeston U14",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "144b9cc4ad9508c58a6a112fb7c6413b",
-      "date": "2026-03-29",
-      "time": "12:30",
-      "home_team": "Stanton Ilkeston U14",
-      "away_team": "Notts County F.C. Girls U13",
-      "venue": "RON BROOKS PLAYING FIELD",
-      "division": "U14 Div 1",
-      "home_away": "home",
-      "opponent": "Notts County F.C. Girls U13"
-    },
     {
       "id": "92bd1c23b03055458f51f85b51e3a6a2",
       "date": "2026-04-12",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "144b9cc4ad9508c58a6a112fb7c6413b",
+      "date": "2026-03-29",
+      "time": "12:30",
+      "home_team": "Stanton Ilkeston U14",
+      "away_team": "Notts County F.C. Girls U13",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Div 1",
+      "home_away": "home",
+      "opponent": "Notts County F.C. Girls U13",
+      "goals_for": 3,
+      "goals_against": 4
+    },
     {
       "id": "a0b4f97edd5adbf76f51194b20089dd7",
       "date": "2026-03-15",

@@ -1,6 +1,6 @@
 {
   "club": "Sandiacre Town",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
     {
       "id": "c77d56e1db575c724f8ee97f372acc07",
@@ -14,19 +14,6 @@
       "team": "Sandiacre Town Sharks U13",
       "home_away": "home",
       "opponent": "WBYFC Spartans U13"
-    },
-    {
-      "id": "52e6a66abbae7b4e69d845b8a0b8808b",
-      "date": "2026-03-29",
-      "time": "10:30",
-      "home_team": "Lowdham Colts F.C. Youth U15 Girls",
-      "away_team": "Sandiacre Town Youth U15 Girls Sparkle",
-      "venue": "EPPERSTONE PLAYING FIELDS",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sandiacre Town Youth U15 Girls Sparkle",
-      "home_away": "away",
-      "opponent": "Lowdham Colts F.C. Youth U15 Girls"
     },
     {
       "id": "cb67a944745267e7f15079c89d985ddc",
@@ -250,6 +237,19 @@
       "opponent": "West Hallam Harriers U9"
     },
     {
+      "id": "8791150ada0ee33981bd860b975568fe",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Sandiacre Town Reds U10",
+      "away_team": "PMG Excel U10",
+      "venue": "Cloudside Junior School NG10 5DE",
+      "division": "U10 Sat Spring Div 2 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sandiacre Town Reds U10",
+      "home_away": "home",
+      "opponent": "PMG Excel U10"
+    },
+    {
       "id": "3784c7a8ac1f6096fb10fb3e7ae3473f",
       "date": "2026-04-18",
       "time": "10:00",
@@ -430,19 +430,6 @@
       "team": "Sandiacre Town Red U7",
       "home_away": "home",
       "opponent": "Manor FC Red U7"
-    },
-    {
-      "id": "963f6e100116194d4f5454bc0c41b8c6",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Sandiacre Town Reds U10",
-      "away_team": "PMG Excel U10",
-      "venue": "Cloudside Junior School NG10 5DE",
-      "division": "U10 Sat Spring Div 2 Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sandiacre Town Reds U10",
-      "home_away": "home",
-      "opponent": "PMG Excel U10"
     },
     {
       "id": "8e67a1f21f211a3346e807288f579298",
@@ -706,6 +693,23 @@
     }
   ],
   "results": [
+    {
+      "id": "52e6a66abbae7b4e69d845b8a0b8808b",
+      "date": "2026-03-29",
+      "time": "10:30",
+      "home_team": "Lowdham Colts F.C. Youth U15 Girls",
+      "away_team": "Sandiacre Town Youth U15 Girls Sparkle",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U15 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sandiacre Town Youth U15 Girls Sparkle",
+      "home_away": "away",
+      "opponent": "Lowdham Colts F.C. Youth U15 Girls",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "b4346060fb9838992f8a87a06f7ed60b",
       "date": "2026-03-28",

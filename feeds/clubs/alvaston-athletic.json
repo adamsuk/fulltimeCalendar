@@ -1,33 +1,7 @@
 {
   "club": "Alvaston Athletic",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "b5ab130f86fb4d6f70b70dad7f3af753",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Alvaston Athletic White U7",
-      "away_team": "Alvaston Athletic Black U7",
-      "venue": "Derby Moor Academy DE23 2FS",
-      "division": "U7 Sun Spring White",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Alvaston Athletic Black U7",
-      "home_away": "away",
-      "opponent": "Alvaston Athletic White U7"
-    },
-    {
-      "id": "b5ab130f86fb4d6f70b70dad7f3af753",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Alvaston Athletic White U7",
-      "away_team": "Alvaston Athletic Black U7",
-      "venue": "Derby Moor Academy DE23 2FS",
-      "division": "U7 Sun Spring White",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Alvaston Athletic White U7",
-      "home_away": "home",
-      "opponent": "Alvaston Athletic Black U7"
-    },
     {
       "id": "2a8ca6f8a246a24131dcb0245e1ec89e",
       "date": "2026-04-12",
@@ -121,6 +95,40 @@
     }
   ],
   "results": [
+    {
+      "id": "b5ab130f86fb4d6f70b70dad7f3af753",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Alvaston Athletic White U7",
+      "away_team": "Alvaston Athletic Black U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring White",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Alvaston Athletic Black U7",
+      "home_away": "away",
+      "opponent": "Alvaston Athletic White U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "b5ab130f86fb4d6f70b70dad7f3af753",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Alvaston Athletic White U7",
+      "away_team": "Alvaston Athletic Black U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring White",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Alvaston Athletic White U7",
+      "home_away": "home",
+      "opponent": "Alvaston Athletic Black U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "1437a9a84ac071ecb22381ec56ae0b23",
       "date": "2026-03-22",

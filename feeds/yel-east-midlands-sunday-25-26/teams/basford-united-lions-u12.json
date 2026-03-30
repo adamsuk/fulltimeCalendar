@@ -1,19 +1,8 @@
 {
   "team": "Basford United Lions U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "e2308a68b9e7e76cc4c322697ec4c3fe",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Notts Olympic FC U12",
-      "away_team": "Basford United Lions U12",
-      "venue": "Birchover Park NG8 4BS",
-      "division": "U12 Sun Spring Div 2 Red",
-      "home_away": "away",
-      "opponent": "Notts Olympic FC U12"
-    },
     {
       "id": "feaccb08f2a62694652963e36e711701",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e2308a68b9e7e76cc4c322697ec4c3fe",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Notts Olympic FC U12",
+      "away_team": "Basford United Lions U12",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sun Spring Div 2 Red",
+      "home_away": "away",
+      "opponent": "Notts Olympic FC U12",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "f24048ba68f4befb7464662525b7e8a2",
       "date": "2026-03-22",

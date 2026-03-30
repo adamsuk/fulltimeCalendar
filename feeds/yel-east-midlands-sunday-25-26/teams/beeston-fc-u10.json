@@ -1,19 +1,8 @@
 {
   "team": "Beeston FC U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "4e17c038a866c61970d6a2b8a2b6d960",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Toton Tornados Cyclones U10",
-      "away_team": "Beeston FC U10",
-      "venue": "Manor Farm Recreation Ground NG9 6EL",
-      "division": "U10 Sun Spring Div 5 Red",
-      "home_away": "away",
-      "opponent": "Toton Tornados Cyclones U10"
-    },
     {
       "id": "78da2d03ee36efb9a28f3dd8ef518e81",
       "date": "2026-04-19",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "4e17c038a866c61970d6a2b8a2b6d960",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Toton Tornados Cyclones U10",
+      "away_team": "Beeston FC U10",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sun Spring Div 5 Red",
+      "home_away": "away",
+      "opponent": "Toton Tornados Cyclones U10",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "28c6ce82c8ca33b9fdd99fd7f4d34e7c",
       "date": "2026-03-15",

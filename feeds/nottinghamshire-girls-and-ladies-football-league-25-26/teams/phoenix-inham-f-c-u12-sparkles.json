@@ -1,19 +1,8 @@
 {
   "team": "Phoenix Inham F.C. U12 Sparkles",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "450353a32b44b230624e9f609f4260ba",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Southwell City FC U12 Swans",
-      "away_team": "Phoenix Inham F.C. U12 Sparkles",
-      "venue": "SOUTHWELL MEMORIAL GROUND",
-      "division": "U12 Div 4",
-      "home_away": "away",
-      "opponent": "Southwell City FC U12 Swans"
-    },
     {
       "id": "4aeb9b46959fec64d6b8987e877b88e3",
       "date": "2026-04-05",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "450353a32b44b230624e9f609f4260ba",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Southwell City FC U12 Swans",
+      "away_team": "Phoenix Inham F.C. U12 Sparkles",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Div 4",
+      "home_away": "away",
+      "opponent": "Southwell City FC U12 Swans",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "100219f8d8b27980049cda4c53cec43f",
       "date": "2026-03-22",

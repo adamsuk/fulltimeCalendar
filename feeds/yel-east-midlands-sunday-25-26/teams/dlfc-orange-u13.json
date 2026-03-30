@@ -1,19 +1,8 @@
 {
   "team": "DLFC Orange U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-03-29T06:53:02Z",
+  "generated": "2026-03-30T07:15:19Z",
   "fixtures": [
-    {
-      "id": "f3d4e3c55296edde1870ad91e3d9e4eb",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Mansfield Athletic U13",
-      "away_team": "DLFC Orange U13",
-      "venue": "Unwin Road NG17 4HT",
-      "division": "U13 Sun Spring Div 5 Silver",
-      "home_away": "away",
-      "opponent": "Mansfield Athletic U13"
-    },
     {
       "id": "f91eaae87dcfa5d4b67006d8308c2e72",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f3d4e3c55296edde1870ad91e3d9e4eb",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Mansfield Athletic U13",
+      "away_team": "DLFC Orange U13",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sun Spring Div 5 Silver",
+      "home_away": "away",
+      "opponent": "Mansfield Athletic U13",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "9529c7d8123fea76a0dadd97fbd8bf73",
       "date": "2026-03-22",
