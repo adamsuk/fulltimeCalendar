@@ -8,11 +8,20 @@ X-WR-CALDESC:Fixtures for Woodhouse Colts Rhinos U12 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:2a604460983606ba29613259921203f6@yel-calendar
-DTSTAMP:20260331T070228Z
+DTSTAMP:20260331T163112Z
 DTSTART;TZID=Europe/London:20260418T100000
-DTEND;TZID=Europe/London:20260418T113000
+DTEND;TZID=Europe/London:20260418T110000
 SUMMARY:⚽ Woodhouse Colts Rhinos U12 vs Hucknall Sports Red U12 (Away)
 DESCRIPTION:Division: U12 Sat Spring Div 2 Red\nHucknall Sports Red U12 v Woodhouse Colts Rhinos U12\nKO: 10:00
 LOCATION:Engine Rooms NG15 6EP
+END:VEVENT
+BEGIN:VEVENT
+UID:3a50b44c2f000bb0382564447ef3ccfa@yel-calendar
+DTSTAMP:20260331T163112Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T120000
+SUMMARY:⚽ Woodhouse Colts Rhinos U12 vs Hucknall Sports Black U12 (Home)
+DESCRIPTION:Division: U12 Saturday\nWoodhouse Colts Rhinos U12 v Hucknall Sports Black U12\nKO: 11:00
+LOCATION:Queensway Park NG19 0DU
 END:VEVENT
 END:VCALENDAR

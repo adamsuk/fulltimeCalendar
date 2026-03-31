@@ -1,6 +1,6 @@
 {
   "club": "Canoville FC",
-  "generated": "2026-03-31T07:01:48Z",
+  "generated": "2026-03-31T16:29:36Z",
   "fixtures": [
     {
       "id": "1deeeed72e42251ed779f26d2a1d7a92",
@@ -29,6 +29,19 @@
       "opponent": "Basford United Madrid U13"
     },
     {
+      "id": "b5fcc52bc42847394b1a2cec2062ad6c",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Canoville FC Gold U13",
+      "away_team": "Basford United Yellow U13",
+      "venue": "William Lee Memorial Park NG14 6SA",
+      "division": "U13 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Canoville FC Gold U13",
+      "home_away": "home",
+      "opponent": "Basford United Yellow U13"
+    },
+    {
       "id": "077cd0ba5b8f828fa0990d980a3e3400",
       "date": "2026-04-25",
       "time": "10:00",
@@ -40,6 +53,19 @@
       "team": "Canoville FC Tornados U9",
       "home_away": "away",
       "opponent": "Woodborough Celtic Green U9"
+    },
+    {
+      "id": "f7da412919ddadf9ee9ca6d679f7a38c",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Annesley AFC U13",
+      "away_team": "Canoville FC Dev Girls U13^",
+      "venue": "Titchfield Park  NG15 7LU",
+      "division": "U13 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Canoville FC Dev Girls U13^",
+      "home_away": "away",
+      "opponent": "Annesley AFC U13"
     },
     {
       "id": "6a8ef45d0f5560fe34efa7811e30741f",

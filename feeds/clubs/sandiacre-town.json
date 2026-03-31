@@ -1,6 +1,6 @@
 {
   "club": "Sandiacre Town",
-  "generated": "2026-03-31T07:01:48Z",
+  "generated": "2026-03-31T16:29:36Z",
   "fixtures": [
     {
       "id": "c77d56e1db575c724f8ee97f372acc07",
@@ -68,6 +68,19 @@
       "opponent": "Wollaton FC Navy U8"
     },
     {
+      "id": "59989372b51ed21de5180aacb8c5e454",
+      "date": "2026-04-12",
+      "time": "09:45",
+      "home_team": "Sandiacre Town Youth U13 Royals",
+      "away_team": "Arnold Town FC U13 Girls",
+      "venue": "SANDIACRE FRIESLAND SPORTS CENTRE",
+      "division": "U13 Div 2 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sandiacre Town Youth U13 Royals",
+      "home_away": "home",
+      "opponent": "Arnold Town FC U13 Girls"
+    },
+    {
       "id": "88a0bc82534092e2eb8677bafb3eb373",
       "date": "2026-04-12",
       "time": "10:00",
@@ -79,19 +92,6 @@
       "team": "Sandiacre Town Youth U12 Panthers Girls",
       "home_away": "away",
       "opponent": "Keyworth United F.C. U12 Warriors"
-    },
-    {
-      "id": "50195c2b88984f94569ba4fa6a6d72e3",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Sandiacre Town Youth U15 Girls Sparkle",
-      "away_team": "Willow Wanderers F.C. Youth U15 Amazons",
-      "venue": "SANDIACRE FRIESLAND SPORTS CENTRE",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sandiacre Town Youth U15 Girls Sparkle",
-      "home_away": "home",
-      "opponent": "Willow Wanderers F.C. Youth U15 Amazons"
     },
     {
       "id": "5bf15ac8b28e2beb1cb44a178e1d0292",
@@ -107,17 +107,17 @@
       "opponent": "Willow Wanderers F.C. Youth U15 Amazons"
     },
     {
-      "id": "59989372b51ed21de5180aacb8c5e454",
+      "id": "50195c2b88984f94569ba4fa6a6d72e3",
       "date": "2026-04-12",
-      "time": "10:30",
-      "home_team": "Sandiacre Town Youth U13 Royals",
-      "away_team": "Arnold Town FC U13 Girls",
+      "time": "11:30",
+      "home_team": "Sandiacre Town Youth U15 Girls Sparkle",
+      "away_team": "Willow Wanderers F.C. Youth U15 Amazons",
       "venue": "SANDIACRE FRIESLAND SPORTS CENTRE",
-      "division": "U13 Div 2 11 v 11",
+      "division": "U15 Div 2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sandiacre Town Youth U13 Royals",
+      "team": "Sandiacre Town Youth U15 Girls Sparkle",
       "home_away": "home",
-      "opponent": "Arnold Town FC U13 Girls"
+      "opponent": "Willow Wanderers F.C. Youth U15 Amazons"
     },
     {
       "id": "b33fb09f580f08f2f4dc5681e6e79f9b",
@@ -313,6 +313,19 @@
       "team": "Sandiacre Town Rockets U14",
       "home_away": "away",
       "opponent": "AFC Market Bosworth U14"
+    },
+    {
+      "id": "fdf04379d97fd18ad720e2cbe9685c20",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Ripley Town U12",
+      "away_team": "Sandiacre Town Scorpions U12",
+      "venue": "Greenwich Park DE5 3AY",
+      "division": "U12 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sandiacre Town Scorpions U12",
+      "home_away": "away",
+      "opponent": "Ripley Town U12"
     },
     {
       "id": "ce44795cf93bc72b1fff2806ada6b976",
@@ -536,6 +549,45 @@
       "opponent": "Wollaton H & B United U10"
     },
     {
+      "id": "9e75a65c2ee527e9368c6364864feb34",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Attenborough Colts Blue U14",
+      "away_team": "Sandiacre Town Rockets U14",
+      "venue": "Chilwell Olympia NG9 5HR",
+      "division": "U14 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sandiacre Town Rockets U14",
+      "home_away": "away",
+      "opponent": "Attenborough Colts Blue U14"
+    },
+    {
+      "id": "5c4c40226a9eb9115c368633a00bdad7",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Sandiacre Town Scorpions U12",
+      "away_team": "Pinxton United U13 Girls",
+      "venue": "Friesland School NG10 5AF",
+      "division": "U12 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sandiacre Town Scorpions U12",
+      "home_away": "home",
+      "opponent": "Pinxton United U13 Girls"
+    },
+    {
+      "id": "4b68a2f5f514d795e8df187eb97e261c",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Sandiacre Town Sharks U13",
+      "away_team": "Willow Wanderers Wolves U13",
+      "venue": "Friesland School NG10 5AF",
+      "division": "U13 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sandiacre Town Sharks U13",
+      "home_away": "home",
+      "opponent": "Willow Wanderers Wolves U13"
+    },
+    {
       "id": "4eddf5f7bf11f60ec7c00ba48ced6654",
       "date": "2026-04-26",
       "time": "10:00",
@@ -575,19 +627,6 @@
       "opponent": "Willow Wanderers F.C. Youth U13 Orcas"
     },
     {
-      "id": "8b9753985036ab652d9e0b7f320cc9c5",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Sandiacre Town Youth U15 Girls Sparkle",
-      "away_team": "Bottesford U15 Girls",
-      "venue": "SANDIACRE FRIESLAND SPORTS CENTRE",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sandiacre Town Youth U15 Girls Sparkle",
-      "home_away": "home",
-      "opponent": "Bottesford U15 Girls"
-    },
-    {
       "id": "98a728f161959bfc635d9547d685d668",
       "date": "2026-04-26",
       "time": "10:30",
@@ -625,6 +664,19 @@
       "team": "Sandiacre Town Red U11",
       "home_away": "away",
       "opponent": "Heanor Town Harriers U11"
+    },
+    {
+      "id": "8b9753985036ab652d9e0b7f320cc9c5",
+      "date": "2026-04-26",
+      "time": "11:30",
+      "home_team": "Sandiacre Town Youth U15 Girls Sparkle",
+      "away_team": "Bottesford U15 Girls",
+      "venue": "SANDIACRE FRIESLAND SPORTS CENTRE",
+      "division": "U15 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sandiacre Town Youth U15 Girls Sparkle",
+      "home_away": "home",
+      "opponent": "Bottesford U15 Girls"
     },
     {
       "id": "bb76e029d4cebd9440b48ec803adb957",

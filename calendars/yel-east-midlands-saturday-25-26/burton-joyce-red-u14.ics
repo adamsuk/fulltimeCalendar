@@ -8,11 +8,20 @@ X-WR-CALDESC:Fixtures for Burton Joyce Red U14 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:c154245929538f7d5ddc61a37eec5502@yel-calendar
-DTSTAMP:20260331T070228Z
+DTSTAMP:20260331T163112Z
 DTSTART;TZID=Europe/London:20260418T100000
-DTEND;TZID=Europe/London:20260418T113000
+DTEND;TZID=Europe/London:20260418T110000
 SUMMARY:⚽ Burton Joyce Red U14 vs Loughborough Eml Falcons U14 (Away)
 DESCRIPTION:Division: U14 Sat Spring Div 2 Blue\nLoughborough Eml Falcons U14 v Burton Joyce Red U14\nKO: 10:00
 LOCATION:Charnwood College, Loughborough LE11 4SQ
+END:VEVENT
+BEGIN:VEVENT
+UID:fad19cb7ed0ed36b625b74d53e018f4d@yel-calendar
+DTSTAMP:20260331T163112Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T120000
+SUMMARY:⚽ Burton Joyce Red U14 vs Eastwood CFC Aces U14 (Away)
+DESCRIPTION:Division: U14 Saturday\nEastwood CFC Aces U14 v Burton Joyce Red U14\nKO: 11:00
+LOCATION:Coronation Park  NG16 3HB
 END:VEVENT
 END:VCALENDAR

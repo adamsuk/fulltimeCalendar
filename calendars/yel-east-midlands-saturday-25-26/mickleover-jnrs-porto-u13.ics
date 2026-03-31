@@ -8,20 +8,29 @@ X-WR-CALDESC:Fixtures for Mickleover Jnrs Porto U13 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:76b7921bffa106ed71a858c147823434@yel-calendar
-DTSTAMP:20260331T070228Z
+DTSTAMP:20260331T163112Z
 DTSTART;TZID=Europe/London:20260418T100000
-DTEND;TZID=Europe/London:20260418T113000
+DTEND;TZID=Europe/London:20260418T110000
 SUMMARY:⚽ Mickleover Jnrs Porto U13 vs East Leake Bantams Orange U13 (Home)
 DESCRIPTION:Division: U13 Sat Spring Div 4 Blue\nMickleover Jnrs Porto U13 v East Leake Bantams Orange U13\nKO: 10:00
 LOCATION:Varsity Grange Football Complex DE3 9EB
 END:VEVENT
 BEGIN:VEVENT
 UID:d593e85045f527cdb7bce8a4a10bf698@yel-calendar
-DTSTAMP:20260331T070228Z
+DTSTAMP:20260331T163112Z
 DTSTART;TZID=Europe/London:20260422T180000
-DTEND;TZID=Europe/London:20260422T193000
+DTEND;TZID=Europe/London:20260422T190000
 SUMMARY:⚽ Mickleover Jnrs Porto U13 vs Mickleover Country Park U13 (Home)
 DESCRIPTION:Division: U13 Sat Spring Div 4 Blue\nMickleover Jnrs Porto U13 v Mickleover Country Park U13\nKO: 18:00
+LOCATION:Varsity Grange Football Complex DE3 9EB
+END:VEVENT
+BEGIN:VEVENT
+UID:d902a268c5f8196e2b61cd253fb36c20@yel-calendar
+DTSTAMP:20260331T163112Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T120000
+SUMMARY:⚽ Mickleover Jnrs Porto U13 vs Alfreton Town Tigers U13 (Home)
+DESCRIPTION:Division: U13 Saturday\nMickleover Jnrs Porto U13 v Alfreton Town Tigers U13\nKO: 11:00
 LOCATION:Varsity Grange Football Complex DE3 9EB
 END:VEVENT
 END:VCALENDAR

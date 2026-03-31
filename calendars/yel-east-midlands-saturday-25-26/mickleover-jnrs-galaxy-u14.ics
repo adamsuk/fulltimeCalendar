@@ -8,11 +8,20 @@ X-WR-CALDESC:Fixtures for Mickleover Jnrs Galaxy U14 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:2b9e2ac20f8910f08cf0cbc026518fc0@yel-calendar
-DTSTAMP:20260331T070228Z
+DTSTAMP:20260331T163112Z
 DTSTART;TZID=Europe/London:20260418T093000
-DTEND;TZID=Europe/London:20260418T103000
+DTEND;TZID=Europe/London:20260418T100000
 SUMMARY:⚽ Mickleover Jnrs Galaxy U14 vs Ruddington Village Black U14 (Home)
 DESCRIPTION:Division: u14 Sat Spring Div 3 Blue\nMickleover Jnrs Galaxy U14 v Ruddington Village Black U14\nKO: 09:30
 LOCATION:Varsity Grange Football Complex DE3 9EB
+END:VEVENT
+BEGIN:VEVENT
+UID:26eb46c294e283cd93eb7a2356f889ea@yel-calendar
+DTSTAMP:20260331T163112Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T120000
+SUMMARY:⚽ Mickleover Jnrs Galaxy U14 vs Sherwood Colliery Blue U14 (Away)
+DESCRIPTION:Division: U14 Saturday\nSherwood Colliery Blue U14 v Mickleover Jnrs Galaxy U14\nKO: 11:00
+LOCATION:Debdale Park & Sports Ground NG19 7NS
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ilkeston Town Ajax U10
+X-WR-CALDESC:Fixtures for Ilkeston Town Ajax U10 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:b12a91ab9704a28f3339e0ef7b9cc0cd@yel-calendar
+DTSTAMP:20260331T163022Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T110000
+SUMMARY:⚽ Ilkeston Town Ajax U10 vs Silva FC Rushcliffe Yellow U10 (Home)
+DESCRIPTION:Division: U10 Sunday\nIlkeston Town Ajax U10 v Silva FC Rushcliffe Yellow U10\nKO: 10:00
+LOCATION:Booths Playing Fields DE7 8JF
+END:VEVENT
+BEGIN:VEVENT
+UID:fd315034590c3ec718032dccc66533ea@yel-calendar
+DTSTAMP:20260331T163022Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T110000
+SUMMARY:⚽ Ilkeston Town Ajax U10 vs West Hallam Roses U10 (Away)
+DESCRIPTION:Division: U10 Sunday\nWest Hallam Roses U10 v Ilkeston Town Ajax U10\nKO: 10:00
+LOCATION:Stanley Village Rec Ground DE7 6FF
+END:VEVENT
+END:VCALENDAR

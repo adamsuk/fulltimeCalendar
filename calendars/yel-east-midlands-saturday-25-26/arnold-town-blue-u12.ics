@@ -7,10 +7,19 @@ X-WR-CALNAME:Arnold Town Blue U12
 X-WR-CALDESC:Fixtures for Arnold Town Blue U12 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
+UID:81cff1acdfe9f8b290ccb1df051b4d53@yel-calendar
+DTSTAMP:20260331T163112Z
+DTSTART;TZID=Europe/London:20260418T110000
+DTEND;TZID=Europe/London:20260418T120000
+SUMMARY:⚽ Arnold Town Blue U12 vs Silva FC Rushcliffe U12 (Home)
+DESCRIPTION:Division: U12 Saturday\nArnold Town Blue U12 v Silva FC Rushcliffe U12\nKO: 11:00
+LOCATION:Eagle Valley NG5 8PS
+END:VEVENT
+BEGIN:VEVENT
 UID:19234839685dbb40c0ab54784f535f4d@yel-calendar
-DTSTAMP:20260331T070228Z
+DTSTAMP:20260331T163112Z
 DTSTART;TZID=Europe/London:20260425T100000
-DTEND;TZID=Europe/London:20260425T113000
+DTEND;TZID=Europe/London:20260425T110000
 SUMMARY:⚽ Arnold Town Blue U12 vs Clay Cross Town Bulldogs U12 (Away)
 DESCRIPTION:Division: U12 Sat Spring Div 4\nClay Cross Town Bulldogs U12 v Arnold Town Blue U12\nKO: 10:00
 LOCATION:King George V Playing Field S42 5PE

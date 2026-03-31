@@ -7,10 +7,19 @@ X-WR-CALNAME:Ashby United Mavericks U14
 X-WR-CALDESC:Fixtures for Ashby United Mavericks U14 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
+UID:fc2755fdc8262b7b521cecfb178da23d@yel-calendar
+DTSTAMP:20260331T163112Z
+DTSTART;TZID=Europe/London:20260418T110000
+DTEND;TZID=Europe/London:20260418T120000
+SUMMARY:⚽ Ashby United Mavericks U14 vs Basford United Ambers U14 (Away)
+DESCRIPTION:Division: U14 Saturday\nBasford United Ambers U14 v Ashby United Mavericks U14\nKO: 11:00
+LOCATION:Greenwich Avenue NG6 0LD
+END:VEVENT
+BEGIN:VEVENT
 UID:8a3ea63e69eb24d2d716e382b676d4b2@yel-calendar
-DTSTAMP:20260331T070228Z
+DTSTAMP:20260331T163112Z
 DTSTART;TZID=Europe/London:20260425T100000
-DTEND;TZID=Europe/London:20260425T113000
+DTEND;TZID=Europe/London:20260425T110000
 SUMMARY:⚽ Ashby United Mavericks U14 vs Ilkeston Town White Star U14 (Home)
 DESCRIPTION:Division: u14 Sat Spring Div 1 Gold\nAshby United Mavericks U14 v Ilkeston Town White Star U14\nKO: 10:00
 LOCATION:School House LE65 1DH

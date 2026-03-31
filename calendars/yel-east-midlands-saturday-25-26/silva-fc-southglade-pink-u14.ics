@@ -8,20 +8,29 @@ X-WR-CALDESC:Fixtures for Silva FC Southglade Pink U14 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:558a1c8b7a759d3e48b1a240e24fbec2@yel-calendar
-DTSTAMP:20260331T070228Z
+DTSTAMP:20260331T163112Z
 DTSTART;TZID=Europe/London:20260411T103000
-DTEND;TZID=Europe/London:20260411T113000
+DTEND;TZID=Europe/London:20260411T110000
 SUMMARY:⚽ Silva FC Southglade Pink U14 vs Bingham Town Red U14 (Away)
 DESCRIPTION:Division: U14 Sat YEL Inter Cup\nBingham Town Red U14 v Silva FC Southglade Pink U14\nKO: 10:30
 LOCATION:Southglade Leisure Centre  NG5 5GU
 END:VEVENT
 BEGIN:VEVENT
 UID:206df6bedb21e4484f77de248bb2d292@yel-calendar
-DTSTAMP:20260331T070228Z
+DTSTAMP:20260331T163112Z
 DTSTART;TZID=Europe/London:20260418T110000
-DTEND;TZID=Europe/London:20260418T123000
+DTEND;TZID=Europe/London:20260418T120000
 SUMMARY:⚽ Silva FC Southglade Pink U14 vs Southwell City United U14 (Away)
 DESCRIPTION:Division: U14 Sat Spring Div 4 Red\nSouthwell City United U14 v Silva FC Southglade Pink U14\nKO: 11:00
 LOCATION:Centenary Ground Brinkley NG25 0TU
+END:VEVENT
+BEGIN:VEVENT
+UID:24d37df49691db4d0032a6abf8df54bc@yel-calendar
+DTSTAMP:20260331T163112Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T120000
+SUMMARY:⚽ Silva FC Southglade Pink U14 vs Sneinton Town U14 (Home)
+DESCRIPTION:Division: U14 Saturday\nSilva FC Southglade Pink U14 v Sneinton Town U14\nKO: 11:00
+LOCATION:Southglade Leisure Centre  NG5 5GU
 END:VEVENT
 END:VCALENDAR

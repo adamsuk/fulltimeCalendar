@@ -8,11 +8,20 @@ X-WR-CALDESC:Fixtures for Ruddington Village U13 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:dd1a4e2b14183b6d7f815dc9c241b313@yel-calendar
-DTSTAMP:20260331T070207Z
+DTSTAMP:20260331T163022Z
 DTSTART;TZID=Europe/London:20260419T100000
-DTEND;TZID=Europe/London:20260419T113000
+DTEND;TZID=Europe/London:20260419T110000
 SUMMARY:⚽ Ruddington Village U13 vs Ilkeston Town Panthers U13 (Home)
 DESCRIPTION:Division: U13 Sun Spring Div 5 Gold\nRuddington Village U13 v Ilkeston Town Panthers U13\nKO: 10:00
+LOCATION:Jubilee Fields NG11 6NX
+END:VEVENT
+BEGIN:VEVENT
+UID:c089d217b07f1a7508ec39ec7eaedbc8@yel-calendar
+DTSTAMP:20260331T163022Z
+DTSTART;TZID=Europe/London:20260426T110000
+DTEND;TZID=Europe/London:20260426T120000
+SUMMARY:⚽ Ruddington Village U13 vs Castle Don Hawks U13 (Home)
+DESCRIPTION:Division: U13 Sunday\nRuddington Village U13 v Castle Don Hawks U13\nKO: 11:00
 LOCATION:Jubilee Fields NG11 6NX
 END:VEVENT
 END:VCALENDAR

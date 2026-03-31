@@ -7,10 +7,19 @@ X-WR-CALNAME:Star Strike Tigers Black U14
 X-WR-CALDESC:Fixtures for Star Strike Tigers Black U14 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
+UID:f6181872aa296373349098047466ac46@yel-calendar
+DTSTAMP:20260331T163112Z
+DTSTART;TZID=Europe/London:20260418T110000
+DTEND;TZID=Europe/London:20260418T120000
+SUMMARY:⚽ Star Strike Tigers Black U14 vs WBYFC Blackhawks U14 (Away)
+DESCRIPTION:Division: U14 Saturday\nWBYFC Blackhawks U14 v Star Strike Tigers Black U14\nKO: 11:00
+LOCATION:Regatta Way NG2 5AT
+END:VEVENT
+BEGIN:VEVENT
 UID:db76850d39dbddf73512eae790e2108a@yel-calendar
-DTSTAMP:20260331T070228Z
+DTSTAMP:20260331T163112Z
 DTSTART;TZID=Europe/London:20260425T100000
-DTEND;TZID=Europe/London:20260425T113000
+DTEND;TZID=Europe/London:20260425T110000
 SUMMARY:⚽ Star Strike Tigers Black U14 vs Meden Vale Colts Gold U14 (Away)
 DESCRIPTION:Division: U14 Sat Spring Div 5 Red\nMeden Vale Colts Gold U14 v Star Strike Tigers Black U14\nKO: 10:00
 LOCATION:Elkesley Road NG20 9PS

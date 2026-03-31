@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Beaumont Park Lions U11
+X-WR-CALDESC:Fixtures for Beaumont Park Lions U11 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:0812637df12c93f72ca224631985e9de@yel-calendar
+DTSTAMP:20260331T163112Z
+DTSTART;TZID=Europe/London:20260418T110000
+DTEND;TZID=Europe/London:20260418T120000
+SUMMARY:⚽ Beaumont Park Lions U11 vs Club FDNA Madrid U11 (Away)
+DESCRIPTION:Division: U11 Saturday\nClub FDNA Madrid U11 v Beaumont Park Lions U11\nKO: 11:00
+LOCATION:Bilborough College NG8 4DQ
+END:VEVENT
+BEGIN:VEVENT
+UID:88db22f602709ea7484165fed1e242a3@yel-calendar
+DTSTAMP:20260331T163112Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T120000
+SUMMARY:⚽ Beaumont Park Lions U11 vs Ilkeston Town Valens U11 (Home)
+DESCRIPTION:Division: U11 Saturday\nBeaumont Park Lions U11 v Ilkeston Town Valens U11\nKO: 11:00
+LOCATION:Dmu Beaumont Park LE4 1ES
+END:VEVENT
+END:VCALENDAR

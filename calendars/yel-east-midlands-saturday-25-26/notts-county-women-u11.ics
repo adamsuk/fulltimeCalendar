@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Notts County Women U11 ^
+X-WR-CALDESC:Fixtures for Notts County Women U11 ^ — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:da9a0c7461fdc1f1b5ef09ef198e02ed@yel-calendar
+DTSTAMP:20260331T163112Z
+DTSTART;TZID=Europe/London:20260418T110000
+DTEND;TZID=Europe/London:20260418T120000
+SUMMARY:⚽ Notts County Women U11 ^ vs Coalville Town Ravenettes U11^ (Away)
+DESCRIPTION:Division: U11 Saturday\nCoalville Town Ravenettes U11^ v Notts County Women U11 ^\nKO: 11:00
+LOCATION:Coalville Town FC LE67 3WD
+END:VEVENT
+BEGIN:VEVENT
+UID:eb88aad7613fb9854d106a4256bb5925@yel-calendar
+DTSTAMP:20260331T163112Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T120000
+SUMMARY:⚽ Notts County Women U11 ^ vs Silva FC Rushcllife Yellow U11 (Home)
+DESCRIPTION:Division: U11 Saturday\nNotts County Women U11 ^ v Silva FC Rushcllife Yellow U11\nKO: 11:00
+LOCATION:Southglade Leisure Centre  NG5 5GU
+END:VEVENT
+END:VCALENDAR

@@ -8,11 +8,20 @@ X-WR-CALDESC:Fixtures for Long Eaton United White U13 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:2c028a521ced3063fec516eda16727a4@yel-calendar
-DTSTAMP:20260331T070228Z
+DTSTAMP:20260331T163112Z
 DTSTART;TZID=Europe/London:20260414T180000
-DTEND;TZID=Europe/London:20260414T193000
+DTEND;TZID=Europe/London:20260414T190000
 SUMMARY:⚽ Long Eaton United White U13 vs PMG Excel U13 (Away)
 DESCRIPTION:Division: U13 Sat YEL Trophy\nPMG Excel U13 v Long Eaton United White U13\nKO: 18:00
 LOCATION:Bulwell Hall Park NG6 8LF
+END:VEVENT
+BEGIN:VEVENT
+UID:0a6cdc5d9820ff0e1e31c9872bc7929b@yel-calendar
+DTSTAMP:20260331T163112Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T120000
+SUMMARY:⚽ Long Eaton United White U13 vs Hilton Harriers Cobras U13 (Away)
+DESCRIPTION:Division: U13 Saturday\nHilton Harriers Cobras U13 v Long Eaton United White U13\nKO: 11:00
+LOCATION:The Mease Pavilion DE65 5LS
 END:VEVENT
 END:VCALENDAR

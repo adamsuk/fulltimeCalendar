@@ -8,18 +8,27 @@ X-WR-CALDESC:Fixtures for Duffield Dynamo United U13 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:87ee48cda81d226dc3882475d050acda@yel-calendar
-DTSTAMP:20260331T070228Z
+DTSTAMP:20260331T163112Z
 DTSTART;TZID=Europe/London:20260411T093000
-DTEND;TZID=Europe/London:20260411T103000
+DTEND;TZID=Europe/London:20260411T100000
 SUMMARY:⚽ Duffield Dynamo United U13 vs Hilton Harriers Cobras U13 (Away)
 DESCRIPTION:Division: U13 Sat Spring Div 2 Blue\nHilton Harriers Cobras U13 v Duffield Dynamo United U13\nKO: 09:30
 LOCATION:The Mease Pavilion DE65 5LS
 END:VEVENT
 BEGIN:VEVENT
+UID:a36b54e4b19e5acde46f2047d51b7c64@yel-calendar
+DTSTAMP:20260331T163112Z
+DTSTART;TZID=Europe/London:20260418T110000
+DTEND;TZID=Europe/London:20260418T120000
+SUMMARY:⚽ Duffield Dynamo United U13 vs Long Eaton United Blue U13 (Home)
+DESCRIPTION:Division: U13 Saturday\nDuffield Dynamo United U13 v Long Eaton United Blue U13\nKO: 11:00
+LOCATION:Eyes Meadow DE56 4JD
+END:VEVENT
+BEGIN:VEVENT
 UID:b037bd67a934bd9950543319213c231b@yel-calendar
-DTSTAMP:20260331T070228Z
+DTSTAMP:20260331T163112Z
 DTSTART;TZID=Europe/London:20260425T110000
-DTEND;TZID=Europe/London:20260425T123000
+DTEND;TZID=Europe/London:20260425T120000
 SUMMARY:⚽ Duffield Dynamo United U13 vs Repton Casuals U13 (Home)
 DESCRIPTION:Division: U13 Sat Spring Div 2 Blue\nDuffield Dynamo United U13 v Repton Casuals U13\nKO: 11:00
 LOCATION:Eyes Meadow DE56 4JD

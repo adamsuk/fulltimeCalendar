@@ -8,11 +8,20 @@ X-WR-CALDESC:Fixtures for Silva FC Rushcliffe Red U11 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:3e09e3de159251b566b8c05a84f62647@yel-calendar
-DTSTAMP:20260331T070228Z
+DTSTAMP:20260331T163112Z
 DTSTART;TZID=Europe/London:20260418T100000
-DTEND;TZID=Europe/London:20260418T113000
+DTEND;TZID=Europe/London:20260418T110000
 SUMMARY:⚽ Silva FC Rushcliffe Red U11 vs Willington FC Rams CM U11 (Home)
 DESCRIPTION:Division: U11 Sat Spring Div 2 Blue\nSilva FC Rushcliffe Red U11 v Willington FC Rams CM U11\nKO: 10:00
+LOCATION:Rushcliffe School  NG2 7BW
+END:VEVENT
+BEGIN:VEVENT
+UID:9f1f9e7549bdd92023db16d97bd9ac9e@yel-calendar
+DTSTAMP:20260331T163112Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T120000
+SUMMARY:⚽ Silva FC Rushcliffe Red U11 vs Heanor Juniors Rams U11 (Home)
+DESCRIPTION:Division: U11 Saturday\nSilva FC Rushcliffe Red U11 v Heanor Juniors Rams U11\nKO: 11:00
 LOCATION:Rushcliffe School  NG2 7BW
 END:VEVENT
 END:VCALENDAR

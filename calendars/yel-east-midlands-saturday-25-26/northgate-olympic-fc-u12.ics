@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Northgate Olympic FC U12
+X-WR-CALDESC:Fixtures for Northgate Olympic FC U12 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:a259d8f757181a5a433f10812dbf5a6a@yel-calendar
+DTSTAMP:20260331T163112Z
+DTSTART;TZID=Europe/London:20260418T110000
+DTEND;TZID=Europe/London:20260418T120000
+SUMMARY:⚽ Northgate Olympic FC U12 vs Gedling Southbank Lynx U12 (Away)
+DESCRIPTION:Division: U12 Saturday\nGedling Southbank Lynx U12 v Northgate Olympic FC U12\nKO: 11:00
+LOCATION:Trevor Carter Pavilion NG4 1RL
+END:VEVENT
+BEGIN:VEVENT
+UID:3dfaf33813684d4ba5118583a68086a1@yel-calendar
+DTSTAMP:20260331T163112Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T120000
+SUMMARY:⚽ Northgate Olympic FC U12 vs Edwalton Cavaliers White U12 (Home)
+DESCRIPTION:Division: U12 Saturday\nNorthgate Olympic FC U12 v Edwalton Cavaliers White U12\nKO: 11:00
+LOCATION:Northgate Sports Hall NG34 7AD
+END:VEVENT
+END:VCALENDAR

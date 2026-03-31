@@ -7,10 +7,19 @@ X-WR-CALNAME:Keyworth United White U10
 X-WR-CALDESC:Fixtures for Keyworth United White U10 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
+UID:74f7a79ef1895e762e0acbc63b01a938@yel-calendar
+DTSTAMP:20260331T163022Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T110000
+SUMMARY:⚽ Keyworth United White U10 vs Pelican Colts U10 (Away)
+DESCRIPTION:Division: U10 Sunday\nPelican Colts U10 v Keyworth United White U10\nKO: 10:00
+LOCATION:Dave Eastwood Sports Ground NG7 2SA
+END:VEVENT
+BEGIN:VEVENT
 UID:1663d185ec8ab1578648680eb747008f@yel-calendar
-DTSTAMP:20260331T070207Z
+DTSTAMP:20260331T163022Z
 DTSTART;TZID=Europe/London:20260426T100000
-DTEND;TZID=Europe/London:20260426T113000
+DTEND;TZID=Europe/London:20260426T110000
 SUMMARY:⚽ Keyworth United White U10 vs Mapperley All Stars Stripes U10 (Away)
 DESCRIPTION:Division: U10 Sun Spring Div 2 Blue\nMapperley All Stars Stripes U10 v Keyworth United White U10\nKO: 10:00
 LOCATION:Colwick Recreation Ground NG4 2DW

@@ -7,10 +7,19 @@ X-WR-CALNAME:Hucknall Town Warriors U12
 X-WR-CALDESC:Fixtures for Hucknall Town Warriors U12 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
+UID:90e6bb96b177b2908ccca32982600510@yel-calendar
+DTSTAMP:20260331T163112Z
+DTSTART;TZID=Europe/London:20260418T110000
+DTEND;TZID=Europe/London:20260418T120000
+SUMMARY:⚽ Hucknall Town Warriors U12 vs West Hallam Warriors U12 (Away)
+DESCRIPTION:Division: U12 Saturday\nWest Hallam Warriors U12 v Hucknall Town Warriors U12\nKO: 11:00
+LOCATION:Nutbrook Cricket Club DE7 6HZ
+END:VEVENT
+BEGIN:VEVENT
 UID:b2f2d826ec977687b04b1a0ee3b8d87d@yel-calendar
-DTSTAMP:20260331T070228Z
+DTSTAMP:20260331T163112Z
 DTSTART;TZID=Europe/London:20260425T100000
-DTEND;TZID=Europe/London:20260425T113000
+DTEND;TZID=Europe/London:20260425T110000
 SUMMARY:⚽ Hucknall Town Warriors U12 vs Muskham Cougars U12 (Home)
 DESCRIPTION:Division: U12 Sat Spring Div 8\nHucknall Town Warriors U12 v Muskham Cougars U12\nKO: 10:00
 LOCATION:Holgate Acdmy (Bottom Ent)  NG15 6HB

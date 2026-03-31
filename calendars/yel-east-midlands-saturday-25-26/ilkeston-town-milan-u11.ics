@@ -8,11 +8,20 @@ X-WR-CALDESC:Fixtures for Ilkeston Town Milan U11 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:780784e7daa7f12cdb6b164ab961e42b@yel-calendar
-DTSTAMP:20260331T070228Z
+DTSTAMP:20260331T163112Z
 DTSTART;TZID=Europe/London:20260418T110000
-DTEND;TZID=Europe/London:20260418T123000
+DTEND;TZID=Europe/London:20260418T120000
 SUMMARY:⚽ Ilkeston Town Milan U11 vs Heanor Town Phoenix U11 (Away)
 DESCRIPTION:Division: U11 Sat Spring Div 4 Blue\nHeanor Town Phoenix U11 v Ilkeston Town Milan U11\nKO: 11:00
 LOCATION:Riddings Park  DE55 4EW
+END:VEVENT
+BEGIN:VEVENT
+UID:14ac5e5db9c2b7e6d32af310e8f5e5c9@yel-calendar
+DTSTAMP:20260331T163112Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T120000
+SUMMARY:⚽ Ilkeston Town Milan U11 vs Cotgrave FC Blue U11 (Home)
+DESCRIPTION:Division: U11 Saturday\nIlkeston Town Milan U11 v Cotgrave FC Blue U11\nKO: 11:00
+LOCATION:Booths Playing Fields, Ilkeston DE7 8JF
 END:VEVENT
 END:VCALENDAR
