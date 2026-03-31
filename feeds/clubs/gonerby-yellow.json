@@ -1,20 +1,7 @@
 {
   "club": "Gonerby Yellow",
-  "generated": "2026-03-30T07:15:19Z",
+  "generated": "2026-03-31T07:01:48Z",
   "fixtures": [
-    {
-      "id": "3dcc0a039acef361d2d7fe099756cdf8",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Gonerby Yellow U10",
-      "away_team": "Borrowash Youth Jaguars U10",
-      "venue": "Gonerby Recreation Ground NG31 8PP",
-      "division": "U10 Sun Spring Div 7 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Gonerby Yellow U10",
-      "home_away": "home",
-      "opponent": "Borrowash Youth Jaguars U10"
-    },
     {
       "id": "4af5a105af81db837816a7b21f966589",
       "date": "2026-04-16",
@@ -81,6 +68,19 @@
       "opponent": "Shirebrook Rangers Blue U11"
     },
     {
+      "id": "a7a8252052a84b294db91362bfdc0f7d",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Gonerby Yellow U9",
+      "away_team": "Southwell City Cobras U9",
+      "venue": "Gonerby Recreation Ground NG31 8PP",
+      "division": "U9 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gonerby Yellow U9",
+      "home_away": "home",
+      "opponent": "Southwell City Cobras U9"
+    },
+    {
       "id": "5fad19a9da56e16034b2fbb189bbd41f",
       "date": "2026-04-26",
       "time": "10:00",
@@ -124,6 +124,23 @@
       "opponent": "Keyworth Utd Fanzines U12",
       "goals_for": 0,
       "goals_against": 1
+    },
+    {
+      "id": "3dcc0a039acef361d2d7fe099756cdf8",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Gonerby Yellow U10",
+      "away_team": "Borrowash Youth Jaguars U10",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U10 Sun Spring Div 7 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gonerby Yellow U10",
+      "home_away": "home",
+      "opponent": "Borrowash Youth Jaguars U10",
+      "goals_for": 3,
+      "goals_against": 0
     },
     {
       "id": "9706c41769ad435d0ceba7a990b2476e",

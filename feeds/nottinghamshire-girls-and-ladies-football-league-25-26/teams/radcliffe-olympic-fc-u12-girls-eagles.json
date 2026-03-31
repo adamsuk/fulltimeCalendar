@@ -1,11 +1,22 @@
 {
   "team": "Radcliffe Olympic FC U12 Girls Eagles",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-03-30T07:15:19Z",
+  "generated": "2026-03-31T07:01:48Z",
   "fixtures": [
     {
-      "id": "053e88ebcf9cd4c3d25f5c5f1ad82273",
+      "id": "8565f9c833b115d46bd298f382989535",
       "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "away_team": "Keyworth United F.C. U12 Shooting Stars",
+      "venue": "BINGHAM ROAD PLAYING FIELDS",
+      "division": "U12 Div 2 P2",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U12 Shooting Stars"
+    },
+    {
+      "id": "5cd7f4793a9bf14f7bb45703d5c22ef1",
+      "date": "2026-04-19",
       "time": "10:00",
       "home_team": "Keyworth United F.C. U12 Vipers",
       "away_team": "Radcliffe Olympic FC U12 Girls Eagles",
@@ -15,8 +26,19 @@
       "opponent": "Keyworth United F.C. U12 Vipers"
     },
     {
-      "id": "faf369bb8cfb1dfaf60164603fdda9ec",
-      "date": "2026-04-19",
+      "id": "812c678062580f65479eead833ca74cf",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "away_team": "Sherwood FC U12 Girls",
+      "venue": "BINGHAM ROAD PLAYING FIELDS",
+      "division": "U12 Div 2 P2",
+      "home_away": "home",
+      "opponent": "Sherwood FC U12 Girls"
+    },
+    {
+      "id": "f65d4f76765387c49128a2e578f29ac3",
+      "date": "2026-05-10",
       "time": "10:00",
       "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
       "away_team": "Woodthorpe Community U12 Warriors",
@@ -26,15 +48,15 @@
       "opponent": "Woodthorpe Community U12 Warriors"
     },
     {
-      "id": "e54845abf2084126b9cc77dc2a3b12f1",
-      "date": "2026-04-26",
+      "id": "72a8fa9ee59f74f7ca40277d3b239dfc",
+      "date": "2026-05-17",
       "time": "10:00",
-      "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
-      "away_team": "Sherwood FC U12 Girls",
-      "venue": "BINGHAM ROAD PLAYING FIELDS",
+      "home_team": "Ollerton Town Community FC U12 Girls",
+      "away_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "venue": "WALESBY LANE SPORTS GROUND",
       "division": "U12 Div 2 P2",
-      "home_away": "home",
-      "opponent": "Sherwood FC U12 Girls"
+      "home_away": "away",
+      "opponent": "Ollerton Town Community FC U12 Girls"
     },
     {
       "id": "a91ddab87df0822b61c459c43732ddf1",

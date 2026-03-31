@@ -7,12 +7,30 @@ X-WR-CALNAME:Calverton Miners Welfare U10
 X-WR-CALDESC:Fixtures for Calverton Miners Welfare U10 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
+UID:e6e1c0158cebd7facaef33ad578ee6ba@yel-calendar
+DTSTAMP:20260331T070228Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T113000
+SUMMARY:⚽ Calverton Miners Welfare U10 vs Southwell City Ultras U10 (Home)
+DESCRIPTION:Division: U10 Saturday\nCalverton Miners Welfare U10 v Southwell City Ultras U10\nKO: 10:00
+LOCATION:Kinton Park NG14 6NR
+END:VEVENT
+BEGIN:VEVENT
 UID:b6e988b26c64c70540507cbc86a3ee12@yel-calendar
-DTSTAMP:20260330T071554Z
+DTSTAMP:20260331T070228Z
 DTSTART;TZID=Europe/London:20260421T183000
 DTEND;TZID=Europe/London:20260421T193000
 SUMMARY:⚽ Calverton Miners Welfare U10 vs Newark Brazil Corinthians U10 (Home)
 DESCRIPTION:Division: U10 Sat Spring Div 5 Blue\nCalverton Miners Welfare U10 v Newark Brazil Corinthians U10\nKO: 18:30
 LOCATION:Kinton Park NG14 6NR
+END:VEVENT
+BEGIN:VEVENT
+UID:05663d3aa4b7ab20b03cf9ef8b4b6a5f@yel-calendar
+DTSTAMP:20260331T070228Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T113000
+SUMMARY:⚽ Calverton Miners Welfare U10 vs Woodhouse Colts Red U10 (Away)
+DESCRIPTION:Division: U10 Saturday\nWoodhouse Colts Red U10 v Calverton Miners Welfare U10\nKO: 10:00
+LOCATION:Forest Town Welfare NG19 0EE
 END:VEVENT
 END:VCALENDAR

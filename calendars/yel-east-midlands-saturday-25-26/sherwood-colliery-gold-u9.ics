@@ -7,8 +7,17 @@ X-WR-CALNAME:Sherwood Colliery Gold U9
 X-WR-CALDESC:Fixtures for Sherwood Colliery Gold U9 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
+UID:0aa78b867a73c0c9cd97e263198612a3@yel-calendar
+DTSTAMP:20260331T070228Z
+DTSTART;TZID=Europe/London:20260411T100000
+DTEND;TZID=Europe/London:20260411T113000
+SUMMARY:⚽ Sherwood Colliery Gold U9 vs RHP Colts U9 (Away)
+DESCRIPTION:Division: U9 Sat Spring Div 4 Red\nRHP Colts U9 v Sherwood Colliery Gold U9\nKO: 10:00
+LOCATION:RHP Sports Club  NG24 1SW
+END:VEVENT
+BEGIN:VEVENT
 UID:c7d6f24c9cc04104971619afc644aaa1@yel-calendar
-DTSTAMP:20260330T071554Z
+DTSTAMP:20260331T070228Z
 DTSTART;TZID=Europe/London:20260418T100000
 DTEND;TZID=Europe/London:20260418T113000
 SUMMARY:⚽ Sherwood Colliery Gold U9 vs Radcliffe Olympic Red U9 (Home)
@@ -16,17 +25,8 @@ DESCRIPTION:Division: U9 Sat Spring Div 4 Red\nSherwood Colliery Gold U9 v Radcl
 LOCATION:Debdale Park & Sports Ground NG19 7NS
 END:VEVENT
 BEGIN:VEVENT
-UID:dbb30f94b5014d97ad61629a605ff76e@yel-calendar
-DTSTAMP:20260330T071554Z
-DTSTART;TZID=Europe/London:20260422T180000
-DTEND;TZID=Europe/London:20260422T193000
-SUMMARY:⚽ Sherwood Colliery Gold U9 vs RHP Colts U9 (Away)
-DESCRIPTION:Division: U9 Sat Spring Div 4 Red\nRHP Colts U9 v Sherwood Colliery Gold U9\nKO: 18:00
-LOCATION:RHP Sports Club  NG24 1SW
-END:VEVENT
-BEGIN:VEVENT
 UID:2817847610d8fec1504390aa638d1f87@yel-calendar
-DTSTAMP:20260330T071554Z
+DTSTAMP:20260331T070228Z
 DTSTART;TZID=Europe/London:20260425T093000
 DTEND;TZID=Europe/London:20260425T103000
 SUMMARY:⚽ Sherwood Colliery Gold U9 vs Newark Town Titans U9 (Away)

@@ -1,20 +1,7 @@
 {
   "club": "DLFC",
-  "generated": "2026-03-30T07:15:19Z",
+  "generated": "2026-03-31T07:01:48Z",
   "fixtures": [
-    {
-      "id": "9bf2893d3281e9594d726ba04adb246c",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "DLFC Red U7",
-      "away_team": "East Leake Bantams Black U7",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U7 Sun Spring Yellow",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Red U7",
-      "home_away": "home",
-      "opponent": "East Leake Bantams Black U7"
-    },
     {
       "id": "71b9a2b8625b0d22960ac8d28f7f22c3",
       "date": "2026-04-11",
@@ -562,6 +549,19 @@
       "opponent": "Woodhouse Colts U8"
     },
     {
+      "id": "c09e92b4cbbcce30e0de0a7b5609c94b",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "DLFC Yellow U9",
+      "away_team": "Shirebrook Rangers Red U9",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U9 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Yellow U9",
+      "home_away": "home",
+      "opponent": "Shirebrook Rangers Red U9"
+    },
+    {
       "id": "16c310957e080e74893b7e71008f9904",
       "date": "2026-04-18",
       "time": "11:00",
@@ -664,6 +664,19 @@
       "team": "DLFC Black U8",
       "home_away": "home",
       "opponent": "Silva FC Rushcliffe Vipers U8"
+    },
+    {
+      "id": "e2e689fcd5a6c2ae81d5922e97ceec6e",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "DLFC Black U9",
+      "away_team": "Quarrydale United United U9",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "DLFC Black U9",
+      "home_away": "home",
+      "opponent": "Quarrydale United United U9"
     },
     {
       "id": "bcaf35ec7bccfb6fa8dde052e35f2257",
@@ -1056,6 +1069,19 @@
       "opponent": "Borrowash Youth Lynx U7"
     },
     {
+      "id": "f75b44b32ec7cff2c7a58f7d20a2b0ba",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Woodthorpe Com Revolution U10",
+      "away_team": "DLFC Emerald U10",
+      "venue": "Calverton Miners Welfare NG14 6NR",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Emerald U10",
+      "home_away": "away",
+      "opponent": "Woodthorpe Com Revolution U10"
+    },
+    {
       "id": "2fabc54e17d02b4d62454ddb80f5ff0c",
       "date": "2026-04-25",
       "time": "10:00",
@@ -1184,6 +1210,32 @@
       "team": "DLFC Purple U7",
       "home_away": "home",
       "opponent": "Breaston Park Green U7"
+    },
+    {
+      "id": "34926b8cfd4c53529a1cad054df9868c",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "AJ Sport Red U10",
+      "away_team": "DLFC Red U10",
+      "venue": "Beeston Fields Recreation Ground NG9 2QT",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Red U10",
+      "home_away": "away",
+      "opponent": "AJ Sport Red U10"
+    },
+    {
+      "id": "2cc905860c3edb1d898e6aa6a91232f7",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Inspire Nottingham U9",
+      "away_team": "DLFC Red U9",
+      "venue": "Powerleague Arnold NG5 6NZ",
+      "division": "U9 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Red U9",
+      "home_away": "away",
+      "opponent": "Inspire Nottingham U9"
     },
     {
       "id": "7b3628ddd1c74bc178eaa7c85aae28b4",
@@ -1329,6 +1381,19 @@
       "opponent": "Aspire FC U8"
     },
     {
+      "id": "44c3015d5be262fe70b7aebdebb988dd",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Canoville Cobras U9",
+      "away_team": "DLFC Black U9",
+      "venue": "William Lee Memorial Park NG14 6SA",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "DLFC Black U9",
+      "home_away": "away",
+      "opponent": "Canoville Cobras U9"
+    },
+    {
       "id": "f3c723c4db9310116d4579962ed04c52",
       "date": "2026-04-26",
       "time": "10:00",
@@ -1418,6 +1483,19 @@
       "team": "DLFC Orange U7",
       "home_away": "away",
       "opponent": "East Leake Bantams Orange U7"
+    },
+    {
+      "id": "a4e7104e466f1a984f1e2236678c3ed1",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "DLFC Orange U9",
+      "away_team": "Kirkby Colts Red U9",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "DLFC Orange U9",
+      "home_away": "home",
+      "opponent": "Kirkby Colts Red U9"
     },
     {
       "id": "32e32b792f3af60bc1d440e95846b52d",

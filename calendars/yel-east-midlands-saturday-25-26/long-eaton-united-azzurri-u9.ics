@@ -8,11 +8,20 @@ X-WR-CALDESC:Fixtures for Long Eaton United Azzurri U9 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:99c01b16a7b676e04dd36ce2231c26f3@yel-calendar
-DTSTAMP:20260330T071554Z
+DTSTAMP:20260331T070228Z
 DTSTART;TZID=Europe/London:20260418T093000
 DTEND;TZID=Europe/London:20260418T103000
 SUMMARY:⚽ Long Eaton United Azzurri U9 vs DLFC Emerald U9 (Away)
 DESCRIPTION:Division: U9 Sat Spring Div 1\nDLFC Emerald U9 v Long Eaton United Azzurri U9\nKO: 09:30
 LOCATION:Greenwich Avenue NG6 0LD
+END:VEVENT
+BEGIN:VEVENT
+UID:7d9db2c8bd33ae816d74dbdb4692e23a@yel-calendar
+DTSTAMP:20260331T070228Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T113000
+SUMMARY:⚽ Long Eaton United Azzurri U9 vs Club FDNA Barca U9 (Away)
+DESCRIPTION:Division: U9 Saturday\nClub FDNA Barca U9 v Long Eaton United Azzurri U9\nKO: 10:00
+LOCATION:Bilborough College NG8 4DQ
 END:VEVENT
 END:VCALENDAR

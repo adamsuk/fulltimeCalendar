@@ -1,6 +1,6 @@
 {
   "club": "Radcliffe Olympic",
-  "generated": "2026-03-30T07:15:19Z",
+  "generated": "2026-03-31T07:01:48Z",
   "fixtures": [
     {
       "id": "e5d78556f73c8beb876ad4111db2e5c0",
@@ -198,17 +198,17 @@
       "opponent": "DLFC Red U7"
     },
     {
-      "id": "053e88ebcf9cd4c3d25f5c5f1ad82273",
+      "id": "8565f9c833b115d46bd298f382989535",
       "date": "2026-04-12",
       "time": "10:00",
-      "home_team": "Keyworth United F.C. U12 Vipers",
-      "away_team": "Radcliffe Olympic FC U12 Girls Eagles",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
+      "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "away_team": "Keyworth United F.C. U12 Shooting Stars",
+      "venue": "BINGHAM ROAD PLAYING FIELDS",
       "division": "U12 Div 2 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Radcliffe Olympic FC U12 Girls Eagles",
-      "home_away": "away",
-      "opponent": "Keyworth United F.C. U12 Vipers"
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U12 Shooting Stars"
     },
     {
       "id": "1deeeed72e42251ed779f26d2a1d7a92",
@@ -352,6 +352,19 @@
       "team": "Radcliffe Olympic Lions U8",
       "home_away": "away",
       "opponent": "Ravenshead Red Devils U8"
+    },
+    {
+      "id": "03f30aa53f467aa01c77370c1edff6f9",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic Outlaws U10",
+      "away_team": "Stanton Ilkeston Ironmasters U10",
+      "venue": "Radcliffe-on-Trent Cricket Club NG12 2DU",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Radcliffe Olympic Outlaws U10",
+      "home_away": "home",
+      "opponent": "Stanton Ilkeston Ironmasters U10"
     },
     {
       "id": "2c97a9e655dc06656aa413a58d976dd3",
@@ -523,17 +536,17 @@
       "opponent": "Alvaston Athletic White U7"
     },
     {
-      "id": "faf369bb8cfb1dfaf60164603fdda9ec",
+      "id": "5cd7f4793a9bf14f7bb45703d5c22ef1",
       "date": "2026-04-19",
       "time": "10:00",
-      "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
-      "away_team": "Woodthorpe Community U12 Warriors",
-      "venue": "BINGHAM ROAD PLAYING FIELDS",
+      "home_team": "Keyworth United F.C. U12 Vipers",
+      "away_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
       "division": "U12 Div 2 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Radcliffe Olympic FC U12 Girls Eagles",
-      "home_away": "home",
-      "opponent": "Woodthorpe Community U12 Warriors"
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U12 Vipers"
     },
     {
       "id": "f85263f31d0c97a962512c65cbf38b66",
@@ -625,19 +638,6 @@
       "team": "Radcliffe Olympic Outlaws U10",
       "home_away": "away",
       "opponent": "Newark Brazil Rio U10"
-    },
-    {
-      "id": "e9f4d61ac02503cb4c9b55089225c3b6",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "Radcliffe Olympic FC",
-      "away_team": "Gedling Southbank FC",
-      "venue": "THE TREVOR CARTER PAVILION",
-      "division": "NSL Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Radcliffe Olympic FC",
-      "home_away": "home",
-      "opponent": "Gedling Southbank FC"
     },
     {
       "id": "0ed97260cbd453abf7deb723410ef124",
@@ -742,6 +742,32 @@
       "team": "Radcliffe Olympic Pumas U8",
       "home_away": "away",
       "opponent": "G3A FC Santos U8"
+    },
+    {
+      "id": "dce847cb6b339a76b48ae5e3ea43b1ed",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic Rangers U10",
+      "away_team": "Pegasus FC U10",
+      "venue": "South Nottinghamshire Academy  NG12 2FQ",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Radcliffe Olympic Rangers U10",
+      "home_away": "home",
+      "opponent": "Pegasus FC U10"
+    },
+    {
+      "id": "73e9210249ef5c1d867660b8479d7ff7",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "WBYFC Independiente U9",
+      "away_team": "Radcliffe Olympic Red U9",
+      "venue": "Alford Road, NG2 6HP",
+      "division": "U9 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Radcliffe Olympic Red U9",
+      "home_away": "away",
+      "opponent": "WBYFC Independiente U9"
     },
     {
       "id": "37e5aa8fea74c36e0b6568f919a334ed",
@@ -874,19 +900,6 @@
       "opponent": "WBYFC Feyanoord Red U7"
     },
     {
-      "id": "e54845abf2084126b9cc77dc2a3b12f1",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
-      "away_team": "Sherwood FC U12 Girls",
-      "venue": "BINGHAM ROAD PLAYING FIELDS",
-      "division": "U12 Div 2 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Radcliffe Olympic FC U12 Girls Eagles",
-      "home_away": "home",
-      "opponent": "Sherwood FC U12 Girls"
-    },
-    {
       "id": "fa4e33179ba5d6cf825cd19a6d9d774e",
       "date": "2026-04-26",
       "time": "10:00",
@@ -939,6 +952,19 @@
       "opponent": "Newark Brazil Corinthians U12"
     },
     {
+      "id": "fdae319dd3e6c3c159c61aabee03133e",
+      "date": "2026-04-29",
+      "time": "18:30",
+      "home_team": "Radcliffe Olympic FC U23",
+      "away_team": "Grantham Town FC U23",
+      "venue": "Bingham Road Playing Fields",
+      "division": "Development Spring Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Radcliffe Olympic FC U23",
+      "home_away": "home",
+      "opponent": "Grantham Town FC U23"
+    },
+    {
       "id": "06da3c6290f5cb9dfc99cb2050f5da8d",
       "date": "2026-05-02",
       "time": "10:30",
@@ -952,17 +978,17 @@
       "opponent": "Linby Colliery Welfare Development"
     },
     {
-      "id": "17cad4f322b7e9702edc091495070751",
-      "date": "2026-05-02",
-      "time": "15:00",
-      "home_team": "Gedling Southbank FC",
-      "away_team": "Radcliffe Olympic FC",
-      "venue": "EAGLE VALLEY #2",
-      "division": "NSL Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Radcliffe Olympic FC",
-      "home_away": "away",
-      "opponent": "Gedling Southbank FC"
+      "id": "812c678062580f65479eead833ca74cf",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "away_team": "Sherwood FC U12 Girls",
+      "venue": "BINGHAM ROAD PLAYING FIELDS",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "home_away": "home",
+      "opponent": "Sherwood FC U12 Girls"
     },
     {
       "id": "b7328169852a61855adc429f092c435d",
@@ -991,19 +1017,6 @@
       "opponent": "Mansfield Town Ladies FC Development"
     },
     {
-      "id": "c072fb14b4d63ca242d9a16b9fadf569",
-      "date": "2026-05-06",
-      "time": "18:45",
-      "home_team": "Radcliffe Olympic FC U23",
-      "away_team": "Grantham Town FC U23",
-      "venue": "Bingham Road Playing Fields",
-      "division": "Development Spring Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Radcliffe Olympic FC U23",
-      "home_away": "home",
-      "opponent": "Grantham Town FC U23"
-    },
-    {
       "id": "20265529930af737a319efba901efa5a",
       "date": "2026-05-09",
       "time": "10:30",
@@ -1015,6 +1028,19 @@
       "team": "Radcliffe Olympic FC U23",
       "home_away": "home",
       "opponent": "Newark Town FC U23's"
+    },
+    {
+      "id": "f65d4f76765387c49128a2e578f29ac3",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "away_team": "Woodthorpe Community U12 Warriors",
+      "venue": "BINGHAM ROAD PLAYING FIELDS",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "home_away": "home",
+      "opponent": "Woodthorpe Community U12 Warriors"
     },
     {
       "id": "8c6ff08778860184fade674ed609e23e",
@@ -1041,6 +1067,19 @@
       "team": "Radcliffe Olympic FC U23",
       "home_away": "home",
       "opponent": "Burton Joyce F.C. U23"
+    },
+    {
+      "id": "72a8fa9ee59f74f7ca40277d3b239dfc",
+      "date": "2026-05-17",
+      "time": "10:00",
+      "home_team": "Ollerton Town Community FC U12 Girls",
+      "away_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "venue": "WALESBY LANE SPORTS GROUND",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "home_away": "away",
+      "opponent": "Ollerton Town Community FC U12 Girls"
     },
     {
       "id": "4aa36cfeeaae392fc99120026f723de2",

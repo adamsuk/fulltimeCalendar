@@ -8,7 +8,7 @@ X-WR-CALDESC:Fixtures for Attenborough Colts Yellow U9 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:df21b1f1d7433ad3ee14fe841ca65435@yel-calendar
-DTSTAMP:20260330T071534Z
+DTSTAMP:20260331T070207Z
 DTSTART;TZID=Europe/London:20260416T180000
 DTEND;TZID=Europe/London:20260416T193000
 SUMMARY:⚽ Attenborough Colts Yellow U9 vs Breaston Park Green U9 (Home)
@@ -17,11 +17,20 @@ LOCATION:Chilwell Olympia NG9 5HR
 END:VEVENT
 BEGIN:VEVENT
 UID:03d91fd4f0e1af41c4e457860c7c8345@yel-calendar
-DTSTAMP:20260330T071534Z
+DTSTAMP:20260331T070207Z
 DTSTART;TZID=Europe/London:20260419T100000
 DTEND;TZID=Europe/London:20260419T113000
 SUMMARY:⚽ Attenborough Colts Yellow U9 vs Ilkeston Town Titans U9 (Away)
 DESCRIPTION:Division: U9 Sun Spring Div 4 Blue\nIlkeston Town Titans U9 v Attenborough Colts Yellow U9\nKO: 10:00
 LOCATION:Booths Playing Fields DE7 8JF
+END:VEVENT
+BEGIN:VEVENT
+UID:de8798bb37979c1da424dc9ac39f0c9c@yel-calendar
+DTSTAMP:20260331T070207Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Attenborough Colts Yellow U9 vs Sherwood FC Arrows U9 (Home)
+DESCRIPTION:Division: U9 Sunday\nAttenborough Colts Yellow U9 v Sherwood FC Arrows U9\nKO: 10:00
+LOCATION:Chilwell Olympia NG9 5HR
 END:VEVENT
 END:VCALENDAR

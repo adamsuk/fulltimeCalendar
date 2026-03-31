@@ -1,11 +1,22 @@
 {
   "team": "Sherwood FC U12 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-03-30T07:15:19Z",
+  "generated": "2026-03-31T07:01:48Z",
   "fixtures": [
     {
-      "id": "fc62ee6a5b46bbee5da21a3b791a9854",
+      "id": "79f7f5682d37e614fed33e83ba384383",
       "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Woodthorpe Community U12 Warriors",
+      "away_team": "Sherwood FC U12 Girls",
+      "venue": "POWERLEAGUE (NOTTINGHAM ARNOLD)",
+      "division": "U12 Div 2 P2",
+      "home_away": "away",
+      "opponent": "Woodthorpe Community U12 Warriors"
+    },
+    {
+      "id": "dcb71320af461c651f6dd2d6d165b776",
+      "date": "2026-04-19",
       "time": "10:00",
       "home_team": "Sherwood FC U12 Girls",
       "away_team": "Langwith Whitestar U12 United",
@@ -15,8 +26,19 @@
       "opponent": "Langwith Whitestar U12 United"
     },
     {
-      "id": "e54845abf2084126b9cc77dc2a3b12f1",
+      "id": "9fb5d1d9b57fd010c826c6952c95350a",
       "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Ollerton Town Community FC U12 Girls",
+      "away_team": "Sherwood FC U12 Girls",
+      "venue": "WALESBY LANE SPORTS GROUND",
+      "division": "U12 Div 2 P2",
+      "home_away": "away",
+      "opponent": "Ollerton Town Community FC U12 Girls"
+    },
+    {
+      "id": "812c678062580f65479eead833ca74cf",
+      "date": "2026-05-03",
       "time": "10:00",
       "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
       "away_team": "Sherwood FC U12 Girls",
@@ -24,6 +46,39 @@
       "division": "U12 Div 2 P2",
       "home_away": "away",
       "opponent": "Radcliffe Olympic FC U12 Girls Eagles"
+    },
+    {
+      "id": "9d451b718899d97f1d6191c69cd8665d",
+      "date": "2026-05-17",
+      "time": "10:00",
+      "home_team": "Keyworth United F.C. U12 Shooting Stars",
+      "away_team": "Sherwood FC U12 Girls",
+      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
+      "division": "U12 Div 2 P2",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U12 Shooting Stars"
+    },
+    {
+      "id": "058a8efe6f0496b843cd32abb66cc12f",
+      "date": "2026-05-24",
+      "time": "10:00",
+      "home_team": "Sherwood FC U12 Girls",
+      "away_team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "venue": "CARLTON FOOTBALL CENTRE",
+      "division": "U12 Div 2 P2",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery F.C. Ladies U12 Blue"
+    },
+    {
+      "id": "0e11977f3e65c8f8c316d9e3483e937d",
+      "date": "2026-05-31",
+      "time": "10:30",
+      "home_team": "Sherwood FC U12 Girls",
+      "away_team": "Keyworth United F.C. U12 Vipers",
+      "venue": "CARLTON FOOTBALL CENTRE",
+      "division": "U12 Div 2 P2",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U12 Vipers"
     }
   ],
   "results": [

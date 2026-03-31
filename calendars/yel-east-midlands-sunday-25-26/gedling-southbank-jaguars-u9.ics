@@ -7,12 +7,30 @@ X-WR-CALNAME:Gedling Southbank Jaguars U9
 X-WR-CALDESC:Fixtures for Gedling Southbank Jaguars U9 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
+UID:7c077fc01cefd12d5f968b38b5a8a8ce@yel-calendar
+DTSTAMP:20260331T070207Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Gedling Southbank Jaguars U9 vs AJ Sport Black U9 (Away)
+DESCRIPTION:Division: U9 Sunday\nAJ Sport Black U9 v Gedling Southbank Jaguars U9\nKO: 10:00
+LOCATION:Beeston Fields Recreation Ground NG9 2QE
+END:VEVENT
+BEGIN:VEVENT
 UID:439e8a9cdd1135a8f1040ae00ed3539f@yel-calendar
-DTSTAMP:20260330T071534Z
+DTSTAMP:20260331T070207Z
 DTSTART;TZID=Europe/London:20260423T183000
 DTEND;TZID=Europe/London:20260423T193000
 SUMMARY:⚽ Gedling Southbank Jaguars U9 vs Willow Wanderers Sharks U9 (Away)
 DESCRIPTION:Division: U9 Sun Spring Div 5 Blue\nWillow Wanderers Sharks U9 v Gedling Southbank Jaguars U9\nKO: 18:30
 LOCATION:Carlton le Willows School NG4 4AA
+END:VEVENT
+BEGIN:VEVENT
+UID:8a3e7b47ff0277b07a0403e8187d68f3@yel-calendar
+DTSTAMP:20260331T070207Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Gedling Southbank Jaguars U9 vs West Hallam Rangers U9 (Home)
+DESCRIPTION:Division: U9 Sunday\nGedling Southbank Jaguars U9 v West Hallam Rangers U9\nKO: 10:00
+LOCATION:Redhill Leisure Centre NG5 8GX
 END:VEVENT
 END:VCALENDAR

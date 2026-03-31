@@ -8,11 +8,20 @@ X-WR-CALDESC:Fixtures for Ernehale Colts U9 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:dd86138005df4e902aa5398eb7d35704@yel-calendar
-DTSTAMP:20260330T071534Z
+DTSTAMP:20260331T070207Z
 DTSTART;TZID=Europe/London:20260419T100000
 DTEND;TZID=Europe/London:20260419T113000
 SUMMARY:⚽ Ernehale Colts U9 vs Priory Celtic 1967 U9 (Away)
 DESCRIPTION:Division: U9 Sun Spring Div 6 Blue\nPriory Celtic 1967 U9 v Ernehale Colts U9\nKO: 10:00
+LOCATION:Kimberley Leisure Centre NG16 2NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:0a779c47b47797225842e52ce1ca281e@yel-calendar
+DTSTAMP:20260331T070207Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Ernehale Colts U9 vs Priory Celtic Green U9 (Away)
+DESCRIPTION:Division: U9 Sunday\nPriory Celtic Green U9 v Ernehale Colts U9\nKO: 10:00
 LOCATION:Kimberley Leisure Centre NG16 2NJ
 END:VEVENT
 END:VCALENDAR

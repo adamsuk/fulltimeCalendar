@@ -1,6 +1,6 @@
 {
   "club": "Sherwood FC",
-  "generated": "2026-03-30T07:15:19Z",
+  "generated": "2026-03-31T07:01:48Z",
   "fixtures": [
     {
       "id": "8374fdfaf38323bb3ec07856823a8fad",
@@ -42,17 +42,17 @@
       "opponent": "Quarrydale United U8"
     },
     {
-      "id": "fc62ee6a5b46bbee5da21a3b791a9854",
+      "id": "79f7f5682d37e614fed33e83ba384383",
       "date": "2026-04-12",
       "time": "10:00",
-      "home_team": "Sherwood FC U12 Girls",
-      "away_team": "Langwith Whitestar U12 United",
-      "venue": "CARLTON FOOTBALL CENTRE",
+      "home_team": "Woodthorpe Community U12 Warriors",
+      "away_team": "Sherwood FC U12 Girls",
+      "venue": "POWERLEAGUE (NOTTINGHAM ARNOLD)",
       "division": "U12 Div 2 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Sherwood FC U12 Girls",
-      "home_away": "home",
-      "opponent": "Langwith Whitestar U12 United"
+      "home_away": "away",
+      "opponent": "Woodthorpe Community U12 Warriors"
     },
     {
       "id": "f069f1bbd71741d677bd03f2dc2b2086",
@@ -107,6 +107,19 @@
       "opponent": "Clifton All Whites U9 Orange"
     },
     {
+      "id": "4c080f5a137cf1f29fb91fcbe5e15b6b",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Sherwood FC Yellow U10",
+      "away_team": "WBYFC Diavola U10",
+      "venue": "Forest Sports Zone NG7 6LD",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood FC Yellow U10",
+      "home_away": "home",
+      "opponent": "WBYFC Diavola U10"
+    },
+    {
       "id": "68703bcff415d383d2c43a83b1b2cfda",
       "date": "2026-04-18",
       "time": "10:00",
@@ -146,6 +159,19 @@
       "opponent": "Barrowby FC Green U10"
     },
     {
+      "id": "966601ed1e735e120893ad902b00b300",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Calverton MW Maroon U9",
+      "away_team": "Sherwood FC Hoods U9",
+      "venue": "Kinton Park NG14 6NR",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "away",
+      "opponent": "Calverton MW Maroon U9"
+    },
+    {
       "id": "54ac1622a5d1c88b206abd5301c9d45f",
       "date": "2026-04-19",
       "time": "10:00",
@@ -172,6 +198,19 @@
       "opponent": "Arnold Town FC Women"
     },
     {
+      "id": "dcb71320af461c651f6dd2d6d165b776",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Sherwood FC U12 Girls",
+      "away_team": "Langwith Whitestar U12 United",
+      "venue": "CARLTON FOOTBALL CENTRE",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "home",
+      "opponent": "Langwith Whitestar U12 United"
+    },
+    {
       "id": "b49210ad2baa1fe0ddef08ff0ef76911",
       "date": "2026-04-25",
       "time": "10:00",
@@ -183,6 +222,19 @@
       "team": "Sherwood FC Blue U8",
       "home_away": "away",
       "opponent": "Southwell City Hawks U8"
+    },
+    {
+      "id": "0e96a22e341be8e3b7563bdbb90c964d",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Sherwood FC Lions U9",
+      "away_team": "Wollaton H & B Jaguars U9",
+      "venue": "Forest Sports Zone NG7 6LD",
+      "division": "U9 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood FC Lions U9",
+      "home_away": "home",
+      "opponent": "Wollaton H & B Jaguars U9"
     },
     {
       "id": "2cd612661b2c8998d23d9bcde47479c3",
@@ -209,6 +261,32 @@
       "team": "Sherwood FC Yellow U12",
       "home_away": "home",
       "opponent": "Clifton All Whites Blue U12"
+    },
+    {
+      "id": "de8798bb37979c1da424dc9ac39f0c9c",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Attenborough Colts Yellow U9",
+      "away_team": "Sherwood FC Arrows U9",
+      "venue": "Chilwell Olympia NG9 5HR",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "away",
+      "opponent": "Attenborough Colts Yellow U9"
+    },
+    {
+      "id": "e79c4fe099e39d5f0b2c6abc7594d3f0",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Sherwood FC Hoods U9",
+      "away_team": "RHP Colts Green U9",
+      "venue": "Forest Sports Zone NG7 6LD",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "home",
+      "opponent": "RHP Colts Green U9"
     },
     {
       "id": "59695c1eeee32f75cf1d46221c026024",
@@ -250,17 +328,17 @@
       "opponent": "Priory Celtic FC Ladies First Team"
     },
     {
-      "id": "e54845abf2084126b9cc77dc2a3b12f1",
+      "id": "9fb5d1d9b57fd010c826c6952c95350a",
       "date": "2026-04-26",
       "time": "10:00",
-      "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "home_team": "Ollerton Town Community FC U12 Girls",
       "away_team": "Sherwood FC U12 Girls",
-      "venue": "BINGHAM ROAD PLAYING FIELDS",
+      "venue": "WALESBY LANE SPORTS GROUND",
       "division": "U12 Div 2 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Sherwood FC U12 Girls",
       "home_away": "away",
-      "opponent": "Radcliffe Olympic FC U12 Girls Eagles"
+      "opponent": "Ollerton Town Community FC U12 Girls"
     },
     {
       "id": "184a489836bf564b00164c7c195dea63",
@@ -274,6 +352,19 @@
       "team": "Sherwood FC Red U11",
       "home_away": "away",
       "opponent": "Nottingham FC Emeralds U11"
+    },
+    {
+      "id": "812c678062580f65479eead833ca74cf",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "away_team": "Sherwood FC U12 Girls",
+      "venue": "BINGHAM ROAD PLAYING FIELDS",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC U12 Girls Eagles"
     },
     {
       "id": "bff8a803e47f188f7ea1775a440a69ea",
@@ -328,6 +419,19 @@
       "opponent": "Eastwood Athletic Atalanta U10"
     },
     {
+      "id": "9d451b718899d97f1d6191c69cd8665d",
+      "date": "2026-05-17",
+      "time": "10:00",
+      "home_team": "Keyworth United F.C. U12 Shooting Stars",
+      "away_team": "Sherwood FC U12 Girls",
+      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U12 Shooting Stars"
+    },
+    {
       "id": "c9023a13d2e33de3f961bf31cfe818a5",
       "date": "2026-05-17",
       "time": "10:30",
@@ -341,6 +445,19 @@
       "opponent": "Shirebrook Rangers Women"
     },
     {
+      "id": "058a8efe6f0496b843cd32abb66cc12f",
+      "date": "2026-05-24",
+      "time": "10:00",
+      "home_team": "Sherwood FC U12 Girls",
+      "away_team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "venue": "CARLTON FOOTBALL CENTRE",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery F.C. Ladies U12 Blue"
+    },
+    {
       "id": "6130391408b8aafb50709478c4db2e94",
       "date": "2026-05-24",
       "time": "10:30",
@@ -352,6 +469,19 @@
       "team": "Sherwood FC Development Women",
       "home_away": "home",
       "opponent": "Retford FC Ladies"
+    },
+    {
+      "id": "0e11977f3e65c8f8c316d9e3483e937d",
+      "date": "2026-05-31",
+      "time": "10:30",
+      "home_team": "Sherwood FC U12 Girls",
+      "away_team": "Keyworth United F.C. U12 Vipers",
+      "venue": "CARLTON FOOTBALL CENTRE",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood FC U12 Girls",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U12 Vipers"
     }
   ],
   "results": [

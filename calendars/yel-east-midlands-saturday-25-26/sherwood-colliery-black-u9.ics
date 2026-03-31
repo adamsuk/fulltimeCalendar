@@ -8,11 +8,20 @@ X-WR-CALDESC:Fixtures for Sherwood Colliery Black U9 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:d1265e59daea39068b13dccbe0f164a8@yel-calendar
-DTSTAMP:20260330T071554Z
+DTSTAMP:20260331T070228Z
 DTSTART;TZID=Europe/London:20260418T094500
 DTEND;TZID=Europe/London:20260418T103000
 SUMMARY:⚽ Sherwood Colliery Black U9 vs Manor FC U9 (Home)
 DESCRIPTION:Division: U9 Sat Spring Div 3 Red\nSherwood Colliery Black U9 v Manor FC U9\nKO: 09:45
 LOCATION:Debdale Park & Sports Ground NG19 7NS
+END:VEVENT
+BEGIN:VEVENT
+UID:4eb8a71358730da8d586c15b0a05e5bb@yel-calendar
+DTSTAMP:20260331T070228Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T113000
+SUMMARY:⚽ Sherwood Colliery Black U9 vs Collingham FC Lions U9 (Away)
+DESCRIPTION:Division: U9 Saturday\nCollingham FC Lions U9 v Sherwood Colliery Black U9\nKO: 10:00
+LOCATION:Collingham FC  NG23 7RA
 END:VEVENT
 END:VCALENDAR

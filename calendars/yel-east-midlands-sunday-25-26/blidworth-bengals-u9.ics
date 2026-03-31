@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Blidworth Bengals U9
+X-WR-CALDESC:Fixtures for Blidworth Bengals U9 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:d2b065833d68128bf0e259d51c588052@yel-calendar
+DTSTAMP:20260331T070207Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T113000
+SUMMARY:⚽ Blidworth Bengals U9 vs Robin Hood Colts Red U9 (Away)
+DESCRIPTION:Division: U9 Sunday\nRobin Hood Colts Red U9 v Blidworth Bengals U9\nKO: 10:00
+LOCATION:Sherwood Fields, Edwinstowe NG21 9PW
+END:VEVENT
+BEGIN:VEVENT
+UID:c7330ff19f01b0d06789f5451b118fb5@yel-calendar
+DTSTAMP:20260331T070207Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T113000
+SUMMARY:⚽ Blidworth Bengals U9 vs Ruddington Village Black U9 (Home)
+DESCRIPTION:Division: U9 Sunday\nBlidworth Bengals U9 v Ruddington Village Black U9\nKO: 10:00
+LOCATION:Eakring Road NG22 8QW
+END:VEVENT
+END:VCALENDAR

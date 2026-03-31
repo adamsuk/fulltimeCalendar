@@ -8,11 +8,20 @@ X-WR-CALDESC:Fixtures for Woodhouse Colts United U10 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:747e7cacfca73086964eb4522d8e8a5c@yel-calendar
-DTSTAMP:20260330T071554Z
+DTSTAMP:20260331T070228Z
 DTSTART;TZID=Europe/London:20260418T100000
 DTEND;TZID=Europe/London:20260418T113000
 SUMMARY:⚽ Woodhouse Colts United U10 vs Priory Celtic 1967 U10 (Home)
 DESCRIPTION:Division: U10 Sat Spring Div 1\nWoodhouse Colts United U10 v Priory Celtic 1967 U10\nKO: 10:00
 LOCATION:Forest Town Welfare NG19 0EE
+END:VEVENT
+BEGIN:VEVENT
+UID:05fe143d57f4081c84e1f3eeae0c5308@yel-calendar
+DTSTAMP:20260331T070228Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T113000
+SUMMARY:⚽ Woodhouse Colts United U10 vs Club FDNA Brasilia U10 (Away)
+DESCRIPTION:Division: U10 Saturday\nClub FDNA Brasilia U10 v Woodhouse Colts United U10\nKO: 10:00
+LOCATION:Bilborough College NG8 4DQ
 END:VEVENT
 END:VCALENDAR

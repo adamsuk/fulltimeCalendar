@@ -8,11 +8,20 @@ X-WR-CALDESC:Fixtures for Lowdham FC Blue U9 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:8dca073a1ffb3e55129cbcb2c271a0fc@yel-calendar
-DTSTAMP:20260330T071554Z
+DTSTAMP:20260331T070228Z
 DTSTART;TZID=Europe/London:20260418T113000
 DTEND;TZID=Europe/London:20260418T123000
 SUMMARY:⚽ Lowdham FC Blue U9 vs Ravenshead Reds U9 (Away)
 DESCRIPTION:Division: U9 Sat Spring Div 3 Red\nRavenshead Reds U9 v Lowdham FC Blue U9\nKO: 11:30
 LOCATION:Ravenshead Leisure Centre NG15 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:8385a52bcd76eae1874563c14efd3824@yel-calendar
+DTSTAMP:20260331T070228Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T113000
+SUMMARY:⚽ Lowdham FC Blue U9 vs Mapperley All Stars Stripes U9 (Home)
+DESCRIPTION:Division: U9 Saturday\nLowdham FC Blue U9 v Mapperley All Stars Stripes U9\nKO: 10:00
+LOCATION:College Street NG13 8LE
 END:VEVENT
 END:VCALENDAR

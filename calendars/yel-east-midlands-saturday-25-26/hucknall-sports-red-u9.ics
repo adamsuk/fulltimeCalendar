@@ -8,11 +8,20 @@ X-WR-CALDESC:Fixtures for Hucknall Sports Red U9 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:9527ce6e0efb10622eaf587f860d7478@yel-calendar
-DTSTAMP:20260330T071554Z
+DTSTAMP:20260331T070228Z
 DTSTART;TZID=Europe/London:20260418T100000
 DTEND;TZID=Europe/London:20260418T113000
 SUMMARY:⚽ Hucknall Sports Red U9 vs Underwood Villa Tigres U9 (Away)
 DESCRIPTION:Division: U9 Sat Spring Div 2 Red\nUnderwood Villa Tigres U9 v Hucknall Sports Red U9\nKO: 10:00
 LOCATION:Bracken Park NG16 5FG
+END:VEVENT
+BEGIN:VEVENT
+UID:e39c99eb8657c48a462a758ea9698a74@yel-calendar
+DTSTAMP:20260331T070228Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T113000
+SUMMARY:⚽ Hucknall Sports Red U9 vs Heanor Juniors F C U9 Eagles (Away)
+DESCRIPTION:Division: U9 Saturday\nHeanor Juniors F C U9 Eagles v Hucknall Sports Red U9\nKO: 10:00
+LOCATION:Charles Hill DE75 7RN
 END:VEVENT
 END:VCALENDAR

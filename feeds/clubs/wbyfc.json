@@ -1,6 +1,6 @@
 {
   "club": "WBYFC",
-  "generated": "2026-03-30T07:15:19Z",
+  "generated": "2026-03-31T07:01:48Z",
   "fixtures": [
     {
       "id": "c77d56e1db575c724f8ee97f372acc07",
@@ -27,19 +27,6 @@
       "team": "WBYFC AC U14",
       "home_away": "away",
       "opponent": "Kirkby Colts U14"
-    },
-    {
-      "id": "bd3fdc871ec3f5a847c5c8c7a6734ff9",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "East Leake White U8",
-      "away_team": "WBYFC Spirit Black U8",
-      "venue": "Costock Road LE12 6LY",
-      "division": "U8 Sun Spring 5 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "WBYFC Spirit Black U8",
-      "home_away": "away",
-      "opponent": "East Leake White U8"
     },
     {
       "id": "cb67a944745267e7f15079c89d985ddc",
@@ -536,6 +523,19 @@
       "opponent": "Cotgrave FC Claret U12"
     },
     {
+      "id": "4c080f5a137cf1f29fb91fcbe5e15b6b",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Sherwood FC Yellow U10",
+      "away_team": "WBYFC Diavola U10",
+      "venue": "Forest Sports Zone NG7 6LD",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Diavola U10",
+      "home_away": "away",
+      "opponent": "Sherwood FC Yellow U10"
+    },
+    {
       "id": "fe8b3a8187f1a608747d763feb2f4243",
       "date": "2026-04-18",
       "time": "10:00",
@@ -625,6 +625,32 @@
       "team": "WBYFC Giants U14",
       "home_away": "away",
       "opponent": "Ilkeston Town White Star U14"
+    },
+    {
+      "id": "ef0b8cf9f1b985ff3c3de7262f8fb826",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Sutton Bonington Hornets U9",
+      "away_team": "WBYFC Independiente U9",
+      "venue": "SUTTON BONINGTON PLAYING FIELDS LE12 5PL",
+      "division": "U9 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Independiente U9",
+      "home_away": "away",
+      "opponent": "Sutton Bonington Hornets U9"
+    },
+    {
+      "id": "ee40bcaba21bd06e227a0d6614379428",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "WBYFC Juve U10",
+      "away_team": "AJ Sport Red U10",
+      "venue": "Regatta Way NG2 5AT",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Juve U10",
+      "home_away": "home",
+      "opponent": "AJ Sport Red U10"
     },
     {
       "id": "b560a67c7c1f51aacf1b0d4e56eacb57",
@@ -1173,6 +1199,32 @@
       "opponent": "Silva FC Rushcliffe Gold U7 ^^"
     },
     {
+      "id": "7ed3c3575e29318ef9580ed62572e4e0",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "WBYFC Atletico U10",
+      "away_team": "Bobbersmill FC Warriors U10",
+      "venue": "Regatta Way NG2 5AT",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Atletico U10",
+      "home_away": "home",
+      "opponent": "Bobbersmill FC Warriors U10"
+    },
+    {
+      "id": "0e8b8d1c7b7b1e001a51ad4ace26674a",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "PMG Excel U10",
+      "away_team": "WBYFC Azzuri U10",
+      "venue": "Bulwell Hall Park NG6 8LF",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Azzuri U10",
+      "home_away": "away",
+      "opponent": "PMG Excel U10"
+    },
+    {
       "id": "936d157aedadeefe6cf4ff2c3c80e5fa",
       "date": "2026-04-25",
       "time": "10:00",
@@ -1264,6 +1316,19 @@
       "opponent": "Stapleford Town Warriors U8"
     },
     {
+      "id": "f699a08e2901eb2421848a641feb258c",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "WBYFC Diavola U10",
+      "away_team": "Spirit Celtic Red U10",
+      "venue": "Regatta Way NG2 5AT",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Diavola U10",
+      "home_away": "home",
+      "opponent": "Spirit Celtic Red U10"
+    },
+    {
       "id": "8e67a1f21f211a3346e807288f579298",
       "date": "2026-04-25",
       "time": "10:00",
@@ -1316,6 +1381,19 @@
       "opponent": "Bingham Town White U7"
     },
     {
+      "id": "73e9210249ef5c1d867660b8479d7ff7",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "WBYFC Independiente U9",
+      "away_team": "Radcliffe Olympic Red U9",
+      "venue": "Alford Road, NG2 6HP",
+      "division": "U9 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Independiente U9",
+      "home_away": "home",
+      "opponent": "Radcliffe Olympic Red U9"
+    },
+    {
       "id": "b40230be6a526038d275a2cd18061589",
       "date": "2026-04-25",
       "time": "10:00",
@@ -1327,6 +1405,19 @@
       "team": "WBYFC Invicta U11",
       "home_away": "away",
       "opponent": "Iannis FC U11"
+    },
+    {
+      "id": "d9bacae44eac6038abf1421c45873d54",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Edwalton Cavaliers Blue U10",
+      "away_team": "WBYFC Juve U10",
+      "venue": "Nottingham Football Centre NG2 7BW",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Juve U10",
+      "home_away": "away",
+      "opponent": "Edwalton Cavaliers Blue U10"
     },
     {
       "id": "aa7d0faaff5ac2aff8b5dd2c35f130b6",
@@ -1355,6 +1446,19 @@
       "opponent": "Loughborough Emmanuel U10"
     },
     {
+      "id": "9b85ceda665761a4355503feb19c0197",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "AFC Warriors Hunters U9",
+      "away_team": "WBYFC Olympia U9",
+      "venue": "Newark Academy  NG24 3AL",
+      "division": "U9 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Olympia U9",
+      "home_away": "away",
+      "opponent": "AFC Warriors Hunters U9"
+    },
+    {
       "id": "2b5afe88c7130df2247fb967f4576b7d",
       "date": "2026-04-25",
       "time": "10:00",
@@ -1366,6 +1470,19 @@
       "team": "WBYFC Palmeiras U12",
       "home_away": "home",
       "opponent": "FC Cavaliers U12"
+    },
+    {
+      "id": "6492d26008ece2f874737040e08691d5",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Toton Tornados U9",
+      "away_team": "WBYFC Rio U9",
+      "venue": "Manor Farm Recreation Ground NG9 6EL",
+      "division": "U9 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Rio U9",
+      "home_away": "away",
+      "opponent": "Toton Tornados U9"
     },
     {
       "id": "2cd612661b2c8998d23d9bcde47479c3",
@@ -1405,6 +1522,19 @@
       "team": "WBYFC Sharks U12",
       "home_away": "home",
       "opponent": "Keyworth United Kobras U12"
+    },
+    {
+      "id": "cbdc3b7fd221ab28d6b3a883b30c7882",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Cotgrave FC Claret U9",
+      "away_team": "WBYFC Union U9",
+      "venue": "Ridley Sports Ground  NG12 3HA",
+      "division": "U9 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Union U9",
+      "home_away": "away",
+      "opponent": "Cotgrave FC Claret U9"
     },
     {
       "id": "64af0cc83ce52d2f10023b3fb3ad4608",
@@ -1628,6 +1758,19 @@
       "opponent": "Willow Wanderers Sharks U9"
     },
     {
+      "id": "5513269b76342d1247926aa76d448027",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Wollaton H&B Panthers U9",
+      "away_team": "WBYFC Marseille U9",
+      "venue": "The Trinity Catholic School NG8 3EZ",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "WBYFC Marseille U9",
+      "home_away": "away",
+      "opponent": "Wollaton H&B Panthers U9"
+    },
+    {
       "id": "587850852bc967565cef3b79372f317f",
       "date": "2026-04-26",
       "time": "10:00",
@@ -1639,6 +1782,19 @@
       "team": "WBYFC Mavericks U12",
       "home_away": "away",
       "opponent": "Notts County Women U12 ^"
+    },
+    {
+      "id": "5e8f9a06c8bc3c92dcf7165e73d72c45",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "WBYFC PSG U9",
+      "away_team": "Bulwell Forest U9",
+      "venue": "Regatta Way NG2 5AT",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "WBYFC PSG U9",
+      "home_away": "home",
+      "opponent": "Bulwell Forest U9"
     },
     {
       "id": "686014bfb6764374b68997f6d763e6f0",

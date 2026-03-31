@@ -1,20 +1,7 @@
 {
   "club": "Borrowash Youth",
-  "generated": "2026-03-30T07:15:19Z",
+  "generated": "2026-03-31T07:01:48Z",
   "fixtures": [
-    {
-      "id": "3dcc0a039acef361d2d7fe099756cdf8",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Gonerby Yellow U10",
-      "away_team": "Borrowash Youth Jaguars U10",
-      "venue": "Gonerby Recreation Ground NG31 8PP",
-      "division": "U10 Sun Spring Div 7 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Borrowash Youth Jaguars U10",
-      "home_away": "away",
-      "opponent": "Gonerby Yellow U10"
-    },
     {
       "id": "569fa4dfbc1678ee8a44da03aec48f7d",
       "date": "2026-03-29",
@@ -185,6 +172,19 @@
       "opponent": "Stapleford Town Warriors U11"
     },
     {
+      "id": "ffdab7a570953fb6d6a80047a65180ef",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Saxons U9",
+      "away_team": "Borrowash Youth Leopards U9",
+      "venue": "Booths Playing Fields DE7 8JF",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Borrowash Youth Leopards U9",
+      "home_away": "away",
+      "opponent": "Ilkeston Town Saxons U9"
+    },
+    {
       "id": "ffaa77e8968f1066b884a37a0bcde492",
       "date": "2026-04-26",
       "time": "11:00",
@@ -228,6 +228,23 @@
       "opponent": "Priory Celtic Green U9",
       "goals_for": 2,
       "goals_against": 2
+    },
+    {
+      "id": "3dcc0a039acef361d2d7fe099756cdf8",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Gonerby Yellow U10",
+      "away_team": "Borrowash Youth Jaguars U10",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U10 Sun Spring Div 7 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Borrowash Youth Jaguars U10",
+      "home_away": "away",
+      "opponent": "Gonerby Yellow U10",
+      "goals_for": 0,
+      "goals_against": 3
     },
     {
       "id": "54b81431abeff49ce616bf7ab889f984",

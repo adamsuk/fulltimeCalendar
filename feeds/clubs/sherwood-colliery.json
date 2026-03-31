@@ -1,6 +1,6 @@
 {
   "club": "Sherwood Colliery",
-  "generated": "2026-03-30T07:15:19Z",
+  "generated": "2026-03-31T07:01:48Z",
   "fixtures": [
     {
       "id": "70f2c20a9842dc7513a762215c808dba",
@@ -14,6 +14,19 @@
       "team": "Sherwood Colliery Avengers U8",
       "home_away": "away",
       "opponent": "Carlton Town Golden U8"
+    },
+    {
+      "id": "0aa78b867a73c0c9cd97e263198612a3",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "RHP Colts U9",
+      "away_team": "Sherwood Colliery Gold U9",
+      "venue": "RHP Sports Club  NG24 1SW",
+      "division": "U9 Sat Spring Div 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Gold U9",
+      "home_away": "away",
+      "opponent": "RHP Colts U9"
     },
     {
       "id": "b7b0e291a2b9392a5cce4f1014b9b7ea",
@@ -55,17 +68,17 @@
       "opponent": "Quarrydale United FC U12"
     },
     {
-      "id": "a52c2c5dcaaaa3c53f29d369b3ce0340",
+      "id": "c0aeb3942ef6536925246f24ce9a8f3a",
       "date": "2026-04-12",
       "time": "10:00",
-      "home_team": "Keyworth United F.C. U12 Shooting Stars",
-      "away_team": "Sherwood Colliery F.C. Ladies U12 Blue",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
+      "home_team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "away_team": "Keyworth United F.C. U12 Vipers",
+      "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
       "division": "U12 Div 2 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Sherwood Colliery F.C. Ladies U12 Blue",
-      "home_away": "away",
-      "opponent": "Keyworth United F.C. U12 Shooting Stars"
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U12 Vipers"
     },
     {
       "id": "5d22b133fcf96662a163e94f4b91e0dd",
@@ -146,6 +159,32 @@
       "opponent": "Radcliffe Olympic Red U9"
     },
     {
+      "id": "a98ef4ec3eebba2d1de2fe76a69338f3",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Sporting Markfield U10",
+      "away_team": "Sherwood Colliery Outlaws U10",
+      "venue": "South Charnwood High School LE67 9TB",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "away",
+      "opponent": "Sporting Markfield U10"
+    },
+    {
+      "id": "410c44d2f179cfb68db960b1e1f64034",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Sherwood Colliery Red U9",
+      "away_team": "Club FDNA Barca U9",
+      "venue": "Debdale Park & Sports Ground NG19 7NS",
+      "division": "U9 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Red U9",
+      "home_away": "home",
+      "opponent": "Club FDNA Barca U9"
+    },
+    {
       "id": "f001ba1dde0b479223457fdd232971a0",
       "date": "2026-04-18",
       "time": "10:00",
@@ -157,6 +196,19 @@
       "team": "Sherwood Colliery U7",
       "home_away": "away",
       "opponent": "Manor FC Red U7"
+    },
+    {
+      "id": "20cc00e76666abe0caeff58007f5c395",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Sherwood Colliery Warriors U10",
+      "away_team": "Woodhouse Colts Red U10",
+      "venue": "Debdale Park & Sports Ground NG19 7NS",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Warriors U10",
+      "home_away": "home",
+      "opponent": "Woodhouse Colts Red U10"
     },
     {
       "id": "b8f28359f8105012bfeb6204ada465e6",
@@ -263,19 +315,6 @@
       "opponent": "Tansley Juniors U12 Girls"
     },
     {
-      "id": "e3c93d22d36d916653f9ad8fc57e3d03",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Woodthorpe Community U12 Warriors",
-      "away_team": "Sherwood Colliery F.C. Ladies U12 Blue",
-      "venue": "POWERLEAGUE (NOTTINGHAM ARNOLD)",
-      "division": "U12 Div 2 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sherwood Colliery F.C. Ladies U12 Blue",
-      "home_away": "away",
-      "opponent": "Woodthorpe Community U12 Warriors"
-    },
-    {
       "id": "b51c8aaabb9c31a84c146e9f5b7e34c0",
       "date": "2026-04-19",
       "time": "10:00",
@@ -315,19 +354,6 @@
       "opponent": "Arnold Eagles F.C. Girls U14 Hurricanes"
     },
     {
-      "id": "dbb30f94b5014d97ad61629a605ff76e",
-      "date": "2026-04-22",
-      "time": "18:00",
-      "home_team": "RHP Colts U9",
-      "away_team": "Sherwood Colliery Gold U9",
-      "venue": "RHP Sports Club  NG24 1SW",
-      "division": "U9 Sat Spring Div 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sherwood Colliery Gold U9",
-      "home_away": "away",
-      "opponent": "RHP Colts U9"
-    },
-    {
       "id": "bbd8d7c2e59744da5279f654cd6b5645",
       "date": "2026-04-22",
       "time": "18:00",
@@ -365,6 +391,19 @@
       "team": "Sherwood Colliery Avengers U8",
       "home_away": "home",
       "opponent": "Southwell City Pumas U8"
+    },
+    {
+      "id": "4eb8a71358730da8d586c15b0a05e5bb",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Collingham FC Lions U9",
+      "away_team": "Sherwood Colliery Black U9",
+      "venue": "Collingham FC  NG23 7RA",
+      "division": "U9 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Black U9",
+      "home_away": "away",
+      "opponent": "Collingham FC Lions U9"
     },
     {
       "id": "3c4e16e56b57912df50550b332e6f601",
@@ -432,6 +471,32 @@
       "opponent": "Hucknall Town Warriors U10"
     },
     {
+      "id": "00f151f7d1f6c385c0b740d5d88a602d",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Sherwood Colliery Black U9",
+      "away_team": "Gedling Southbank Sambas U9",
+      "venue": "Debdale Park & Sports Ground NG19 7NS",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood Colliery Black U9",
+      "home_away": "home",
+      "opponent": "Gedling Southbank Sambas U9"
+    },
+    {
+      "id": "790a55adac42ab5ac24f23988de417c6",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Tibshelf FC Tigers U9",
+      "away_team": "Sherwood Colliery Blue U9",
+      "venue": "Tibshelf Sports Ground DE55 5QE",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood Colliery Blue U9",
+      "home_away": "away",
+      "opponent": "Tibshelf FC Tigers U9"
+    },
+    {
       "id": "501af5ca509238756b49d985fed64190",
       "date": "2026-04-26",
       "time": "10:00",
@@ -497,6 +562,19 @@
       "opponent": "Allenton United FC U15 Ladies Bees"
     },
     {
+      "id": "8b658404769e261faf2ad880d56b6e30",
+      "date": "2026-04-26",
+      "time": "10:30",
+      "home_team": "Langwith Whitestar U12 United",
+      "away_team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "venue": "Langwith Whitestar U12 United",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "home_away": "away",
+      "opponent": "Langwith Whitestar U12 United"
+    },
+    {
       "id": "8d4e89065965a1bfd7571b6d6ab5dcb9",
       "date": "2026-04-26",
       "time": "11:00",
@@ -549,6 +627,19 @@
       "opponent": "Underwood Villa FC Youth Ladies"
     },
     {
+      "id": "a493311c5b9d4973c1b2c7aedb24ba78",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "away_team": "Ollerton Town Community FC U12 Girls",
+      "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "home_away": "home",
+      "opponent": "Ollerton Town Community FC U12 Girls"
+    },
+    {
       "id": "29b55b8392837609238824e4d9be6cb6",
       "date": "2026-05-10",
       "time": "10:00",
@@ -575,6 +666,19 @@
       "opponent": "Shirebrook Rangers Women"
     },
     {
+      "id": "50f398c8f3bcd56c507c1229dc31b53f",
+      "date": "2026-05-17",
+      "time": "10:00",
+      "home_team": "Woodthorpe Community U12 Warriors",
+      "away_team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "venue": "POWERLEAGUE (NOTTINGHAM ARNOLD)",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "home_away": "away",
+      "opponent": "Woodthorpe Community U12 Warriors"
+    },
+    {
       "id": "94da195892ce12d18cc97e116d77551c",
       "date": "2026-05-17",
       "time": "10:00",
@@ -599,6 +703,19 @@
       "team": "Sherwood Colliery F.C. Ladies U14",
       "home_away": "home",
       "opponent": "Riverside Junior U14 Rubies"
+    },
+    {
+      "id": "058a8efe6f0496b843cd32abb66cc12f",
+      "date": "2026-05-24",
+      "time": "10:00",
+      "home_team": "Sherwood FC U12 Girls",
+      "away_team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "venue": "CARLTON FOOTBALL CENTRE",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "home_away": "away",
+      "opponent": "Sherwood FC U12 Girls"
     },
     {
       "id": "ecdd22092bd5459199dcd0105d4e6842",
