@@ -1,6 +1,6 @@
 {
   "club": "West Bridgford",
-  "generated": "2026-03-31T16:29:36Z",
+  "generated": "2026-04-01T07:08:00Z",
   "fixtures": [
     {
       "id": "3c2f4d185182fa444977a45747ad1f51",
@@ -55,19 +55,6 @@
       "opponent": "Keyworth United F.C. U11 Tigers"
     },
     {
-      "id": "06c209e900c9a2b1ca8b4ead8d8a7ba2",
-      "date": "2026-03-31",
-      "time": "19:30",
-      "home_team": "West Bridgford Reserves",
-      "away_team": "Notts Olympic FC",
-      "venue": "REGATTA WAY SPORTS GROUND",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "West Bridgford Reserves",
-      "home_away": "home",
-      "opponent": "Notts Olympic FC"
-    },
-    {
       "id": "36d370943c0944752e283e7ee9f5373a",
       "date": "2026-04-04",
       "time": "10:30",
@@ -109,10 +96,10 @@
     {
       "id": "d0e66839b787d936f0200344d3260839",
       "date": "2026-04-12",
-      "time": "10:00",
+      "time": "09:30",
       "home_team": "West Bridgford Colts U10 Moon",
       "away_team": "West Bridgford Colts U10 Sky",
-      "venue": "THE NOTTINGHAM EMMANUEL C OF E SCHOOL",
+      "venue": "REGATTA WAY SPORTS GROUND",
       "division": "U10 Development Green",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "West Bridgford Colts U10 Moon",
@@ -122,10 +109,10 @@
     {
       "id": "d0e66839b787d936f0200344d3260839",
       "date": "2026-04-12",
-      "time": "10:00",
+      "time": "09:30",
       "home_team": "West Bridgford Colts U10 Moon",
       "away_team": "West Bridgford Colts U10 Sky",
-      "venue": "THE NOTTINGHAM EMMANUEL C OF E SCHOOL",
+      "venue": "REGATTA WAY SPORTS GROUND",
       "division": "U10 Development Green",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "West Bridgford Colts U10 Sky",
@@ -654,6 +641,23 @@
     }
   ],
   "results": [
+    {
+      "id": "06c209e900c9a2b1ca8b4ead8d8a7ba2",
+      "date": "2026-03-31",
+      "time": "19:30",
+      "home_team": "West Bridgford Reserves",
+      "away_team": "Notts Olympic FC",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "West Bridgford Reserves",
+      "home_away": "home",
+      "opponent": "Notts Olympic FC",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "78bba25d94e288edd38abbb32e07da84",
       "date": "2026-03-29",

@@ -1,19 +1,8 @@
 {
   "team": "Collingham FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-03-31T16:29:36Z",
+  "generated": "2026-04-01T07:08:00Z",
   "fixtures": [
-    {
-      "id": "a45f1fc09b14b5bd7ea7b938e37e0979",
-      "date": "2026-03-31",
-      "time": "19:45",
-      "home_team": "Collingham FC",
-      "away_team": "Cotgrave FC",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "home",
-      "opponent": "Cotgrave FC"
-    },
     {
       "id": "92c06819b43b6630525ef676dd1c5e7c",
       "date": "2026-04-04",
@@ -115,6 +104,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a45f1fc09b14b5bd7ea7b938e37e0979",
+      "date": "2026-03-31",
+      "time": "19:45",
+      "home_team": "Collingham FC",
+      "away_team": "Cotgrave FC",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "home",
+      "opponent": "Cotgrave FC",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "6e1697d339645b2eb4a929041822ef3d",
       "date": "2026-03-28",

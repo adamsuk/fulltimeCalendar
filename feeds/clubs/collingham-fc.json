@@ -1,6 +1,6 @@
 {
   "club": "Collingham FC",
-  "generated": "2026-03-31T16:29:36Z",
+  "generated": "2026-04-01T07:08:00Z",
   "fixtures": [
     {
       "id": "60e4749a0efea129c9fec404c9e45e5e",
@@ -27,19 +27,6 @@
       "team": "Collingham FC Lions U14",
       "home_away": "away",
       "opponent": "AJ Sport FC U14"
-    },
-    {
-      "id": "a45f1fc09b14b5bd7ea7b938e37e0979",
-      "date": "2026-03-31",
-      "time": "19:45",
-      "home_team": "Collingham FC",
-      "away_team": "Cotgrave FC",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Collingham FC",
-      "home_away": "home",
-      "opponent": "Cotgrave FC"
     },
     {
       "id": "5b55e2c03885dbf24a148860e3b1d52b",
@@ -875,6 +862,23 @@
     }
   ],
   "results": [
+    {
+      "id": "a45f1fc09b14b5bd7ea7b938e37e0979",
+      "date": "2026-03-31",
+      "time": "19:45",
+      "home_team": "Collingham FC",
+      "away_team": "Cotgrave FC",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Collingham FC",
+      "home_away": "home",
+      "opponent": "Cotgrave FC",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "d1a39aba138b0074374841db6c38e337",
       "date": "2026-03-29",

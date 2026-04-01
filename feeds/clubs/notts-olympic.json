@@ -1,20 +1,7 @@
 {
   "club": "Notts Olympic",
-  "generated": "2026-03-31T16:29:36Z",
+  "generated": "2026-04-01T07:08:00Z",
   "fixtures": [
-    {
-      "id": "06c209e900c9a2b1ca8b4ead8d8a7ba2",
-      "date": "2026-03-31",
-      "time": "19:30",
-      "home_team": "West Bridgford Reserves",
-      "away_team": "Notts Olympic FC",
-      "venue": "REGATTA WAY SPORTS GROUND",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Notts Olympic FC",
-      "home_away": "away",
-      "opponent": "West Bridgford Reserves"
-    },
     {
       "id": "cddb970d7322e2c34a0a872915f2438d",
       "date": "2026-04-04",
@@ -342,6 +329,23 @@
     }
   ],
   "results": [
+    {
+      "id": "06c209e900c9a2b1ca8b4ead8d8a7ba2",
+      "date": "2026-03-31",
+      "time": "19:30",
+      "home_team": "West Bridgford Reserves",
+      "away_team": "Notts Olympic FC",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Notts Olympic FC",
+      "home_away": "away",
+      "opponent": "West Bridgford Reserves",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "e2308a68b9e7e76cc4c322697ec4c3fe",
       "date": "2026-03-29",
