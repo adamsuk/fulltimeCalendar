@@ -1,6 +1,6 @@
 {
   "club": "Ilkeston Town",
-  "generated": "2026-04-01T07:08:00Z",
+  "generated": "2026-04-02T07:00:02Z",
   "fixtures": [
     {
       "id": "4bc6ec27148c340c2a47a9b8e571452f",
@@ -112,7 +112,7 @@
       "time": "10:00",
       "home_team": "Ilkeston Town PSG U10",
       "away_team": "Holbrook Sports U10",
-      "venue": "Booths Playing Fields, Ilkeston DE7 8JF",
+      "venue": "New Manor Ground DE7 8JF",
       "division": "U10 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Ilkeston Town PSG U10",
@@ -144,6 +144,19 @@
       "team": "Ilkeston Town United U8",
       "home_away": "away",
       "opponent": "Toton Tornados Thunder U8"
+    },
+    {
+      "id": "c8adb79c9b6e96f4f18904e88b289775",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Valens U11",
+      "away_team": "Southwell City Tigers U11",
+      "venue": "Booths Playing Fields, Ilkeston DE7 8JF",
+      "division": "U11 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ilkeston Town Valens U11",
+      "home_away": "home",
+      "opponent": "Southwell City Tigers U11"
     },
     {
       "id": "91d9930f961a342300a24a62486a9b81",
@@ -211,19 +224,6 @@
       "opponent": "Bingham Town Red U12"
     },
     {
-      "id": "c8adb79c9b6e96f4f18904e88b289775",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Ilkeston Town Valens U11",
-      "away_team": "Southwell City Tigers U11",
-      "venue": "Booths Playing Fields, Ilkeston DE7 8JF",
-      "division": "U11 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ilkeston Town Valens U11",
-      "home_away": "home",
-      "opponent": "Southwell City Tigers U11"
-    },
-    {
       "id": "b12a91ab9704a28f3339e0ef7b9cc0cd",
       "date": "2026-04-19",
       "time": "10:00",
@@ -261,19 +261,6 @@
       "team": "Ilkeston Town Saxons U9",
       "home_away": "away",
       "opponent": "East Leake Bantams Red U9"
-    },
-    {
-      "id": "03d91fd4f0e1af41c4e457860c7c8345",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Ilkeston Town Titans U9",
-      "away_team": "Attenborough Colts Yellow U9",
-      "venue": "Booths Playing Fields DE7 8JF",
-      "division": "U9 Sun Spring Div 4 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ilkeston Town Titans U9",
-      "home_away": "home",
-      "opponent": "Attenborough Colts Yellow U9"
     },
     {
       "id": "df83d8d8af5ad39cc8b3865e6cbae974",
@@ -341,6 +328,32 @@
       "opponent": "Sherwood Colliery U13 *"
     },
     {
+      "id": "011ff927bee0daed763e2d8b3b4a4466",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Attenborough Colts Blue U11",
+      "away_team": "Ilkeston Town Vipers U11",
+      "venue": "Chilwell Olympia NG9 5HR",
+      "division": "U11 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ilkeston Town Vipers U11",
+      "home_away": "away",
+      "opponent": "Attenborough Colts Blue U11"
+    },
+    {
+      "id": "03d91fd4f0e1af41c4e457860c7c8345",
+      "date": "2026-04-19",
+      "time": "11:15",
+      "home_team": "Ilkeston Town Titans U9",
+      "away_team": "Attenborough Colts Yellow U9",
+      "venue": "Booths Playing Fields DE7 8JF",
+      "division": "U9 Sun Spring Div 4 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ilkeston Town Titans U9",
+      "home_away": "home",
+      "opponent": "Attenborough Colts Yellow U9"
+    },
+    {
       "id": "d7aa17b05f8a9e39b41c91ef49153249",
       "date": "2026-04-19",
       "time": "11:30",
@@ -406,6 +419,19 @@
       "opponent": "Grantham Town Black U8"
     },
     {
+      "id": "5f3a86cc0899116771420ddd9b4cda6c",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Sports Gateway Lions U13",
+      "away_team": "Ilkeston Town Dragons U13",
+      "venue": "Papplewick Green NG15 8HZ",
+      "division": "U13 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ilkeston Town Dragons U13",
+      "home_away": "away",
+      "opponent": "Sports Gateway Lions U13"
+    },
+    {
       "id": "d5af707a9641919b361ab22151fb0988",
       "date": "2026-04-25",
       "time": "10:00",
@@ -417,6 +443,19 @@
       "team": "Ilkeston Town Gladiators U9",
       "home_away": "home",
       "opponent": "Selston FC Black U9"
+    },
+    {
+      "id": "14ac5e5db9c2b7e6d32af310e8f5e5c9",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Milan U11",
+      "away_team": "Cotgrave FC Blue U11",
+      "venue": "Booths Playing Fields, Ilkeston DE7 8JF",
+      "division": "U11 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ilkeston Town Milan U11",
+      "home_away": "home",
+      "opponent": "Cotgrave FC Blue U11"
     },
     {
       "id": "9350f005705809abf5f4229fb466ee97",
@@ -471,32 +510,6 @@
       "opponent": "Ashby United Mavericks U14"
     },
     {
-      "id": "5f3a86cc0899116771420ddd9b4cda6c",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Sports Gateway Lions U13",
-      "away_team": "Ilkeston Town Dragons U13",
-      "venue": "Papplewick Green NG15 8HZ",
-      "division": "U13 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ilkeston Town Dragons U13",
-      "home_away": "away",
-      "opponent": "Sports Gateway Lions U13"
-    },
-    {
-      "id": "14ac5e5db9c2b7e6d32af310e8f5e5c9",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Ilkeston Town Milan U11",
-      "away_team": "Cotgrave FC Blue U11",
-      "venue": "Booths Playing Fields, Ilkeston DE7 8JF",
-      "division": "U11 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ilkeston Town Milan U11",
-      "home_away": "home",
-      "opponent": "Cotgrave FC Blue U11"
-    },
-    {
       "id": "ac1077a78be3198f97dd4c3a89b2ab5a",
       "date": "2026-04-25",
       "time": "11:00",
@@ -534,6 +547,19 @@
       "team": "Ilkeston Town Robins U14",
       "home_away": "home",
       "opponent": "Blidworth Bengals Black U14"
+    },
+    {
+      "id": "17fe4e62f195011d585c2da50f7e0c2f",
+      "date": "2026-04-26",
+      "time": "09:00",
+      "home_team": "Radcliffe Olympic Jaguars U8",
+      "away_team": "Ilkeston Town Zurich U8",
+      "venue": "South Nottinghamshire Academy NG12 2FQ",
+      "division": "U8 Sun Spring 2 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ilkeston Town Zurich U8",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic Jaguars U8"
     },
     {
       "id": "fd315034590c3ec718032dccc66533ea",
@@ -588,17 +614,17 @@
       "opponent": "Quarrydale United Rangers U9"
     },
     {
-      "id": "17fe4e62f195011d585c2da50f7e0c2f",
+      "id": "3609a01bf48986d797469983fde0df5e",
       "date": "2026-04-26",
       "time": "10:00",
-      "home_team": "Radcliffe Olympic Jaguars U8",
-      "away_team": "Ilkeston Town Zurich U8",
-      "venue": "Radcliffe on Trent Cricket Club NG12 2DU",
-      "division": "U8 Sun Spring 2 Blue",
+      "home_team": "Ilkeston Town Wolfpack U11",
+      "away_team": "Berry Hill United U11",
+      "venue": "Booths Playing Fields DE7 8JF",
+      "division": "U11 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ilkeston Town Zurich U8",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic Jaguars U8"
+      "team": "Ilkeston Town Wolfpack U11",
+      "home_away": "home",
+      "opponent": "Berry Hill United U11"
     },
     {
       "id": "a63a70c82341ffc6b7dc93481e05e7ad",
@@ -651,6 +677,32 @@
       "team": "Ilkeston Town Robins U13",
       "home_away": "away",
       "opponent": "Alfreton Town All Stars U13"
+    },
+    {
+      "id": "3d19ff14f4424bcd7407a3a21c060ded",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "AJ Sport U12",
+      "away_team": "Ilkeston Town Roma U12",
+      "venue": "Beeston Fields Recreation Ground NG9 2QE",
+      "division": "U12 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ilkeston Town Roma U12",
+      "home_away": "away",
+      "opponent": "AJ Sport U12"
+    },
+    {
+      "id": "1deca51e6d4cf4d24bca53e34ea774e2",
+      "date": "2026-04-26",
+      "time": "11:30",
+      "home_team": "Ilkeston Town Vipers U11",
+      "away_team": "Matlock Town Juniors U11",
+      "venue": "Booths Playing Fields DE7 8JF",
+      "division": "U11 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ilkeston Town Vipers U11",
+      "home_away": "home",
+      "opponent": "Matlock Town Juniors U11"
     },
     {
       "id": "551b198f2ac879ddbaa7ba3eb714f7e8",

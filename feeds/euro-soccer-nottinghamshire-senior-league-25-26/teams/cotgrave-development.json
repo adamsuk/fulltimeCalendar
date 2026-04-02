@@ -1,30 +1,8 @@
 {
   "team": "Cotgrave Development",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-01T07:08:00Z",
+  "generated": "2026-04-02T07:00:02Z",
   "fixtures": [
-    {
-      "id": "d4a27fce0415855e86c843cf0c4fd95a",
-      "date": "2026-03-07",
-      "time": "10:00",
-      "home_team": "Quorn FC Methodists",
-      "away_team": "Cotgrave Development",
-      "venue": "FARLEY WAY STADIUM",
-      "division": "Development Spring Division One",
-      "home_away": "away",
-      "opponent": "Quorn FC Methodists"
-    },
-    {
-      "id": "40c81d1c3bad58c0f16f8e276f8e697a",
-      "date": "2026-04-01",
-      "time": "19:45",
-      "home_team": "Cotgrave Development",
-      "away_team": "Arnold Town FC Development",
-      "venue": "COTGRAVE WELFARE CLUB #1",
-      "division": "Development Spring Division One",
-      "home_away": "home",
-      "opponent": "Arnold Town FC Development"
-    },
     {
       "id": "36d370943c0944752e283e7ee9f5373a",
       "date": "2026-04-04",
@@ -104,6 +82,21 @@
     }
   ],
   "results": [
+    {
+      "id": "40c81d1c3bad58c0f16f8e276f8e697a",
+      "date": "2026-04-01",
+      "time": "19:45",
+      "home_team": "Cotgrave Development",
+      "away_team": "Arnold Town FC Development",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "home",
+      "opponent": "Arnold Town FC Development",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "8a5d554fb2549cecb7359e1fbc157aef",
       "date": "2026-03-28",

@@ -1,6 +1,6 @@
 {
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-01T07:08:00Z",
+  "generated": "2026-04-02T07:00:02Z",
   "fixtures": [
     {
       "id": "67bc4be566a984541f88c71aa3c3fc04",
@@ -19,24 +19,6 @@
       "away_team": "East Leake FC U9 Bantams Girls Red",
       "venue": "GRESHAM SPORTS PARK",
       "division": "U9 Development"
-    },
-    {
-      "id": "3743f984cd7c9fcaefd5e9cf36b4550c",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Selston F.C. Youth U15 FC",
-      "away_team": "Keyworth United F.C. U15 Predators",
-      "venue": "Selston F.C. Youth Selston FC U14 Girls",
-      "division": "U15 Div 3"
-    },
-    {
-      "id": "7b4eab81ca393208caed61c95b2f9a3c",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "WH&BFC Wildcats",
-      "away_team": "Southwell City FC U11 Girls",
-      "venue": "THE TRINITY CATHOLIC SCHOOL",
-      "division": "U11 Development"
     },
     {
       "id": "6e0339b900a8ca4b499a2ffa655ed595",
@@ -91,15 +73,6 @@
       "away_team": "Gedling Southbank FC U14 Warriors",
       "venue": "THE KIMBERLEY SCHOOL",
       "division": "U14 Div 3"
-    },
-    {
-      "id": "914b138a909a286737e13b57c3494489",
-      "date": "2026-04-05",
-      "time": "10:00",
-      "home_team": "Southwell City FC U13 All Whites",
-      "away_team": "Phoenix Inham F.C. U13 Starfire",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "U13 Div 1 11 v 11"
     },
     {
       "id": "beb426c89542b01769df62d5563e202b",
@@ -183,13 +156,13 @@
       "division": "U10 Development Green"
     },
     {
-      "id": "59989372b51ed21de5180aacb8c5e454",
+      "id": "50195c2b88984f94569ba4fa6a6d72e3",
       "date": "2026-04-12",
       "time": "09:45",
-      "home_team": "Sandiacre Town Youth U13 Royals",
-      "away_team": "Arnold Town FC U13 Girls",
+      "home_team": "Sandiacre Town Youth U15 Girls Sparkle",
+      "away_team": "Willow Wanderers F.C. Youth U15 Amazons",
       "venue": "SANDIACRE FRIESLAND SPORTS CENTRE",
-      "division": "U13 Div 2 11 v 11"
+      "division": "U15 Div 2"
     },
     {
       "id": "89c5ade368389da550be59dd3e69ec40",
@@ -315,15 +288,6 @@
       "home_team": "Ilkeston Town Juniors U15 Robins",
       "away_team": "Gainsborough Trinity Community FC U15",
       "venue": "ILKESTON TOWN FOOTBALL CLUB",
-      "division": "U15 Div 1"
-    },
-    {
-      "id": "47b563a49b3293eb1c9ba3b5b2c4d6f1",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Mansfield Town F.C. Girls U15",
-      "away_team": "Outwoods U15 Falcons",
-      "venue": "RH ACADEMY",
       "division": "U15 Div 1"
     },
     {
@@ -631,15 +595,6 @@
       "away_team": "West Bridgford Colts U13 Tigers",
       "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
       "division": "U13 Div 2 9 v 9"
-    },
-    {
-      "id": "a3f1c2a25140eb6110b4019ab40cf937",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Bingham Town F.C. U13 Girls Red",
-      "away_team": "Basford United F.C. U13 Girls",
-      "venue": "BUTT FIELD SPORTS CLUB",
-      "division": "U13 Div 3 9 v 9"
     },
     {
       "id": "153e7a0bc3ab870cebba3ebe789211e4",
@@ -1047,13 +1002,22 @@
       "division": "U16 Div 2"
     },
     {
-      "id": "50195c2b88984f94569ba4fa6a6d72e3",
+      "id": "59989372b51ed21de5180aacb8c5e454",
       "date": "2026-04-12",
       "time": "11:30",
-      "home_team": "Sandiacre Town Youth U15 Girls Sparkle",
-      "away_team": "Willow Wanderers F.C. Youth U15 Amazons",
+      "home_team": "Sandiacre Town Youth U13 Royals",
+      "away_team": "Arnold Town FC U13 Girls",
       "venue": "SANDIACRE FRIESLAND SPORTS CENTRE",
-      "division": "U15 Div 2"
+      "division": "U13 Div 2 11 v 11"
+    },
+    {
+      "id": "a3f1c2a25140eb6110b4019ab40cf937",
+      "date": "2026-04-12",
+      "time": "11:30",
+      "home_team": "Bingham Town F.C. U13 Girls Red",
+      "away_team": "Basford United F.C. U13 Girls",
+      "venue": "BUTT FIELD SPORTS CLUB",
+      "division": "U13 Div 3 9 v 9"
     },
     {
       "id": "583e81da834223ae55e667ded3739a1c",
@@ -1200,6 +1164,15 @@
       "division": "U13 Div 1 9 v 9"
     },
     {
+      "id": "47b563a49b3293eb1c9ba3b5b2c4d6f1",
+      "date": "2026-04-12",
+      "time": "14:30",
+      "home_team": "Mansfield Town F.C. Girls U15",
+      "away_team": "Outwoods U15 Falcons",
+      "venue": "RH ACADEMY",
+      "division": "U15 Div 1"
+    },
+    {
       "id": "791d58048ddcf6583f26e88013e7bc41",
       "date": "2026-04-15",
       "time": "18:00",
@@ -1243,15 +1216,6 @@
       "away_team": "Nottingham F.C. Youth U14 Girls",
       "venue": "THE TREVOR CARTER PAVILION",
       "division": "U14 Div 3"
-    },
-    {
-      "id": "7124708d40c04c7e3029722669fa4290",
-      "date": "2026-04-15",
-      "time": "18:30",
-      "home_team": "Arnold Town FC Women",
-      "away_team": "Sherwood Colliery FC Ladies",
-      "venue": "EAGLE VALLEY",
-      "division": "Seniors Div 2"
     },
     {
       "id": "af4f23b2697d58e2ab370113426f2330",
@@ -1713,6 +1677,15 @@
       "division": "U12 Div 5 P2"
     },
     {
+      "id": "b3c183a6f08136f1093d860781bf1f2b",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "WH&BFC Wildcats",
+      "away_team": "Southwell City FC U11 Girls",
+      "venue": "THE TRINITY CATHOLIC SCHOOL",
+      "division": "U11 Development"
+    },
+    {
       "id": "dcae696f5f9f35a82f97bd82bc61e4ed",
       "date": "2026-04-19",
       "time": "10:00",
@@ -1891,6 +1864,15 @@
       "away_team": "Gedling Southbank FC Ladies",
       "venue": "BRACKEN PARK (UNDERWOOD VILLA FC)",
       "division": "Seniors Div 2"
+    },
+    {
+      "id": "d82dfe6a40b1865e70c9f74af4e44d51",
+      "date": "2026-04-19",
+      "time": "13:30",
+      "home_team": "Priory Celtic F.C. U13 Girls",
+      "away_team": "Shardlow St. James U13 Jets Girls",
+      "venue": "THE KIMBERLEY SCHOOL",
+      "division": "U13 Div 1 11 v 11"
     },
     {
       "id": "cb9c841bce614324aec12bc600ec6709",
@@ -2550,6 +2532,15 @@
       "division": "U16 Div 2"
     },
     {
+      "id": "8b9753985036ab652d9e0b7f320cc9c5",
+      "date": "2026-04-26",
+      "time": "10:30",
+      "home_team": "Sandiacre Town Youth U15 Girls Sparkle",
+      "away_team": "Bottesford U15 Girls",
+      "venue": "DRAYCOTT RECREATION GROUND",
+      "division": "U15 Div 2"
+    },
+    {
       "id": "98a728f161959bfc635d9547d685d668",
       "date": "2026-04-26",
       "time": "10:30",
@@ -2593,15 +2584,6 @@
       "away_team": "Bottesford U14 Girls",
       "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
       "division": "U14 Div 1"
-    },
-    {
-      "id": "8b9753985036ab652d9e0b7f320cc9c5",
-      "date": "2026-04-26",
-      "time": "11:30",
-      "home_team": "Sandiacre Town Youth U15 Girls Sparkle",
-      "away_team": "Bottesford U15 Girls",
-      "venue": "SANDIACRE FRIESLAND SPORTS CENTRE",
-      "division": "U15 Div 2"
     },
     {
       "id": "30a2fb69d2b778374fabe115938ea518",
@@ -2818,15 +2800,6 @@
       "away_team": "Keyworth United F.C. U16 Emeralds",
       "venue": "MELBOURNE PARK",
       "division": "U16 Div 3"
-    },
-    {
-      "id": "9975dcdefcb0d41392090f86d9c153e2",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Gainsborough Trinity Community FC U15",
-      "away_team": "Matlock Town Juniors U15 Girls",
-      "venue": "ROSES SPORTS GROUND",
-      "division": "U15 Div 1"
     },
     {
       "id": "2bf976c156efff8895b856ca84998626",
@@ -3500,7 +3473,7 @@
       "time": "10:00",
       "home_team": "Phoenix Inham F.C. U13 Starfire",
       "away_team": "Southwell City FC U13 All Whites",
-      "venue": "INHAM NOOK RECREATION GROUND",
+      "venue": "CENTENARY SPORTS GROUND",
       "division": "U13 Div 1 11 v 11"
     },
     {
@@ -3510,6 +3483,15 @@
       "home_team": "Shardlow St. James U13 Jets Girls",
       "away_team": "Canoville FC U13 FC Bulldogs",
       "venue": "Shardlow St. James U13 Jets Girls",
+      "division": "U13 Div 1 11 v 11"
+    },
+    {
+      "id": "d1e1d6a52a4efb9f3363c03acca62b13",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Southwell City FC U13 All Whites",
+      "away_team": "Phoenix Inham F.C. U13 Starfire",
+      "venue": "CENTENARY SPORTS GROUND",
       "division": "U13 Div 1 11 v 11"
     },
     {
@@ -3718,6 +3700,15 @@
       "away_team": "Meden Vale Colts FC Ladies",
       "venue": "BUTT FIELD SPORTS CLUB",
       "division": "Senior Div 3 League Cup"
+    },
+    {
+      "id": "f3d627667807742c5463b1ad3cd6cfdd",
+      "date": "2026-05-14",
+      "time": "18:30",
+      "home_team": "Arnold Town FC Women",
+      "away_team": "Sherwood Colliery FC Ladies",
+      "venue": "EAGLE VALLEY",
+      "division": "Seniors Div 2"
     },
     {
       "id": "a80483c8eece0a238e0b424cc9acf92b",

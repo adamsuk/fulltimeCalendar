@@ -1,20 +1,7 @@
 {
   "club": "Southwell City",
-  "generated": "2026-04-01T07:08:00Z",
+  "generated": "2026-04-02T07:00:02Z",
   "fixtures": [
-    {
-      "id": "7b4eab81ca393208caed61c95b2f9a3c",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "WH&BFC Wildcats",
-      "away_team": "Southwell City FC U11 Girls",
-      "venue": "THE TRINITY CATHOLIC SCHOOL",
-      "division": "U11 Development",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Southwell City FC U11 Girls",
-      "home_away": "away",
-      "opponent": "WH&BFC Wildcats"
-    },
     {
       "id": "1a2800ea1fcef193e09bf9136cdff71f",
       "date": "2026-03-28",
@@ -79,19 +66,6 @@
       "team": "Southwell City Reserves",
       "home_away": "home",
       "opponent": "FC Cavaliers"
-    },
-    {
-      "id": "914b138a909a286737e13b57c3494489",
-      "date": "2026-04-05",
-      "time": "10:00",
-      "home_team": "Southwell City FC U13 All Whites",
-      "away_team": "Phoenix Inham F.C. U13 Starfire",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "U13 Div 1 11 v 11",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Southwell City FC U13 All Whites",
-      "home_away": "home",
-      "opponent": "Phoenix Inham F.C. U13 Starfire"
     },
     {
       "id": "a89e4f692131fc6da5f06a20902d9df8",
@@ -393,6 +367,19 @@
       "opponent": "Grantham Town U10"
     },
     {
+      "id": "c8adb79c9b6e96f4f18904e88b289775",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Valens U11",
+      "away_team": "Southwell City Tigers U11",
+      "venue": "Booths Playing Fields, Ilkeston DE7 8JF",
+      "division": "U11 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Southwell City Tigers U11",
+      "home_away": "away",
+      "opponent": "Ilkeston Town Valens U11"
+    },
+    {
       "id": "e6e1c0158cebd7facaef33ad578ee6ba",
       "date": "2026-04-18",
       "time": "10:00",
@@ -456,19 +443,6 @@
       "team": "Southwell City Swifts U12",
       "home_away": "home",
       "opponent": "Shirebrook Rangers Red U12"
-    },
-    {
-      "id": "c8adb79c9b6e96f4f18904e88b289775",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Ilkeston Town Valens U11",
-      "away_team": "Southwell City Tigers U11",
-      "venue": "Booths Playing Fields, Ilkeston DE7 8JF",
-      "division": "U11 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Southwell City Tigers U11",
-      "home_away": "away",
-      "opponent": "Ilkeston Town Valens U11"
     },
     {
       "id": "9b79c135ae61668c1c3133a7d4a9670c",
@@ -560,6 +534,19 @@
       "team": "Southwell City FC U10 Girls",
       "home_away": "home",
       "opponent": "Alfreton Town Juniors U10 Lionesses"
+    },
+    {
+      "id": "b3c183a6f08136f1093d860781bf1f2b",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "WH&BFC Wildcats",
+      "away_team": "Southwell City FC U11 Girls",
+      "venue": "THE TRINITY CATHOLIC SCHOOL",
+      "division": "U11 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Southwell City FC U11 Girls",
+      "home_away": "away",
+      "opponent": "WH&BFC Wildcats"
     },
     {
       "id": "51326ea90e99c4383f669994a6755aa6",
@@ -679,6 +666,19 @@
       "opponent": "Gonerby Yellow U9"
     },
     {
+      "id": "2a411d5ac24a370fe386613bd18a7bee",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Southwell City Flames U12",
+      "away_team": "WBYFC Buffalos U12",
+      "venue": "Southwell City FC  NG25 0JP",
+      "division": "U12 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Southwell City Flames U12",
+      "home_away": "home",
+      "opponent": "WBYFC Buffalos U12"
+    },
+    {
       "id": "b49210ad2baa1fe0ddef08ff0ef76911",
       "date": "2026-04-25",
       "time": "10:00",
@@ -768,19 +768,6 @@
       "team": "Southwell City Wolves U9",
       "home_away": "home",
       "opponent": "Shirebrook Rangers Red U9"
-    },
-    {
-      "id": "2a411d5ac24a370fe386613bd18a7bee",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Southwell City Flames U12",
-      "away_team": "WBYFC Buffalos U12",
-      "venue": "Southwell City FC  NG25 0JP",
-      "division": "U12 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Southwell City Flames U12",
-      "home_away": "home",
-      "opponent": "WBYFC Buffalos U12"
     },
     {
       "id": "142d0915cd3951a5511687dcb1784761",
@@ -1087,11 +1074,24 @@
       "time": "10:00",
       "home_team": "Phoenix Inham F.C. U13 Starfire",
       "away_team": "Southwell City FC U13 All Whites",
-      "venue": "INHAM NOOK RECREATION GROUND",
+      "venue": "CENTENARY SPORTS GROUND",
       "division": "U13 Div 1 11 v 11",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Southwell City FC U13 All Whites",
       "home_away": "away",
+      "opponent": "Phoenix Inham F.C. U13 Starfire"
+    },
+    {
+      "id": "d1e1d6a52a4efb9f3363c03acca62b13",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Southwell City FC U13 All Whites",
+      "away_team": "Phoenix Inham F.C. U13 Starfire",
+      "venue": "CENTENARY SPORTS GROUND",
+      "division": "U13 Div 1 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Southwell City FC U13 All Whites",
+      "home_away": "home",
       "opponent": "Phoenix Inham F.C. U13 Starfire"
     },
     {

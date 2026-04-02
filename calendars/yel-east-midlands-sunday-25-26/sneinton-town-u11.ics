@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sneinton Town U11
+X-WR-CALDESC:Fixtures for Sneinton Town U11 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:d32b7befe05f997c4df711fc946f9f17@yel-calendar
+DTSTAMP:20260402T070025Z
+DTSTART;TZID=Europe/London:20260419T110000
+DTEND;TZID=Europe/London:20260419T120000
+SUMMARY:⚽ Sneinton Town U11 vs Carlton Town Yellow U11 (Home)
+DESCRIPTION:Division: U11 Sunday\nSneinton Town U11 v Carlton Town Yellow U11\nKO: 11:00
+LOCATION:The Nottingham Academy NG3 7EB
+END:VEVENT
+BEGIN:VEVENT
+UID:5f13b893884136b0314c654551aa3179@yel-calendar
+DTSTAMP:20260402T070025Z
+DTSTART;TZID=Europe/London:20260426T110000
+DTEND;TZID=Europe/London:20260426T120000
+SUMMARY:⚽ Sneinton Town U11 vs Willow Wanderers Harriers U11 (Away)
+DESCRIPTION:Division: U11 Sunday\nWillow Wanderers Harriers U11 v Sneinton Town U11\nKO: 11:00
+LOCATION:Carlton le Willows School NG4 4AA
+END:VEVENT
+END:VCALENDAR

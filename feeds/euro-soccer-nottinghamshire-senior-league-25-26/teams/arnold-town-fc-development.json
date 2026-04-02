@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town FC Development",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-01T07:08:00Z",
+  "generated": "2026-04-02T07:00:02Z",
   "fixtures": [
-    {
-      "id": "40c81d1c3bad58c0f16f8e276f8e697a",
-      "date": "2026-04-01",
-      "time": "19:45",
-      "home_team": "Cotgrave Development",
-      "away_team": "Arnold Town FC Development",
-      "venue": "COTGRAVE WELFARE CLUB #1",
-      "division": "Development Spring Division One",
-      "home_away": "away",
-      "opponent": "Cotgrave Development"
-    },
     {
       "id": "5c0279a3b66a610ef3e21b93c27ca934",
       "date": "2026-04-04",
@@ -93,6 +82,21 @@
     }
   ],
   "results": [
+    {
+      "id": "40c81d1c3bad58c0f16f8e276f8e697a",
+      "date": "2026-04-01",
+      "time": "19:45",
+      "home_team": "Cotgrave Development",
+      "away_team": "Arnold Town FC Development",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "away",
+      "opponent": "Cotgrave Development",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "7856b5cc777638d7a4d6c44bf4ba365d",
       "date": "2026-03-28",

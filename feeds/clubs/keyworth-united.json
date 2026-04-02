@@ -1,6 +1,6 @@
 {
   "club": "Keyworth United",
-  "generated": "2026-04-01T07:08:00Z",
+  "generated": "2026-04-02T07:00:02Z",
   "fixtures": [
     {
       "id": "67bc4be566a984541f88c71aa3c3fc04",
@@ -14,19 +14,6 @@
       "team": "Keyworth United F.C. U16 Wildcats",
       "home_away": "away",
       "opponent": "Brodsworth Welfare AFC- Warriors U16"
-    },
-    {
-      "id": "3743f984cd7c9fcaefd5e9cf36b4550c",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Selston F.C. Youth U15 FC",
-      "away_team": "Keyworth United F.C. U15 Predators",
-      "venue": "Selston F.C. Youth Selston FC U14 Girls",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Keyworth United F.C. U15 Predators",
-      "home_away": "away",
-      "opponent": "Selston F.C. Youth U15 FC"
     },
     {
       "id": "6e0339b900a8ca4b499a2ffa655ed595",
@@ -471,6 +458,19 @@
       "opponent": "East Leake Bantams Red U13"
     },
     {
+      "id": "359a5a2a3f9eab14ac02a8011e8caacf",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Keyworth United White U7",
+      "away_team": "Bingham Town White U7",
+      "venue": "Platt Lane NG12 5GE",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Keyworth United White U7",
+      "home_away": "home",
+      "opponent": "Bingham Town White U7"
+    },
+    {
       "id": "245b66842eb6a2fbfc0fc471aae8906c",
       "date": "2026-04-18",
       "time": "10:00",
@@ -625,19 +625,6 @@
       "team": "Keyworth United White U12",
       "home_away": "away",
       "opponent": "Nottingham FC Green U12"
-    },
-    {
-      "id": "359a5a2a3f9eab14ac02a8011e8caacf",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Keyworth United White U7",
-      "away_team": "Bingham Town White U7",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U7 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Keyworth United White U7",
-      "home_away": "home",
-      "opponent": "Bingham Town White U7"
     },
     {
       "id": "5de1787b2435516ccc2821221f78a6b0",
@@ -1264,6 +1251,19 @@
       "opponent": "Breaston Park U10"
     },
     {
+      "id": "b1d9b0246858df59d57ffd8ef306bf26",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Sherwood FC Yellow U11",
+      "away_team": "Keyworth United Red U11",
+      "venue": "Forest Sports Zone NG7 6LD",
+      "division": "U11 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Keyworth United Red U11",
+      "home_away": "away",
+      "opponent": "Sherwood FC Yellow U11"
+    },
+    {
       "id": "be81322a4dc91629df09a3f8b92b5390",
       "date": "2026-04-25",
       "time": "10:00",
@@ -1405,19 +1405,6 @@
       "team": "Keyworth United Green U14",
       "home_away": "home",
       "opponent": "Radcliffe Olympic Outlaws U14"
-    },
-    {
-      "id": "b1d9b0246858df59d57ffd8ef306bf26",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Sherwood FC Yellow U11",
-      "away_team": "Keyworth United Red U11",
-      "venue": "Forest Sports Zone NG7 6LD",
-      "division": "U11 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Keyworth United Red U11",
-      "home_away": "away",
-      "opponent": "Sherwood FC Yellow U11"
     },
     {
       "id": "4a3667d81ca986f102099ebd849df976",
@@ -6351,7 +6338,7 @@
       "time": "15:00",
       "home_team": "Keyworth United Reserves",
       "away_team": "Elston United FC",
-      "home_score": 1,
+      "home_score": 0,
       "away_score": 0,
       "venue": "",
       "division": "NSL Division One",
@@ -6359,7 +6346,7 @@
       "team": "Keyworth United Reserves",
       "home_away": "home",
       "opponent": "Elston United FC",
-      "goals_for": 1,
+      "goals_for": 0,
       "goals_against": 0
     },
     {

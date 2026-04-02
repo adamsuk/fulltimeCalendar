@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-01T07:08:00Z",
+  "generated": "2026-04-02T07:00:02Z",
   "fixtures": [
-    {
-      "id": "2dee91f6597fdbed491e2b193f13b592",
-      "date": "2026-04-01",
-      "time": "19:30",
-      "home_team": "Arnold Town FC",
-      "away_team": "Wollaton FC",
-      "venue": "EAGLE VALLEY #1",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "home",
-      "opponent": "Wollaton FC"
-    },
     {
       "id": "18f1bef4933f954aba94382957ef85f0",
       "date": "2026-04-04",
@@ -104,6 +93,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2dee91f6597fdbed491e2b193f13b592",
+      "date": "2026-04-01",
+      "time": "19:30",
+      "home_team": "Arnold Town FC",
+      "away_team": "Wollaton FC",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "home",
+      "opponent": "Wollaton FC",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "86c3225c5297f4e140925cf9233ffd08",
       "date": "2026-03-21",

@@ -1,6 +1,6 @@
 {
   "club": "Collingham FC",
-  "generated": "2026-04-01T07:08:00Z",
+  "generated": "2026-04-02T07:00:02Z",
   "fixtures": [
     {
       "id": "60e4749a0efea129c9fec404c9e45e5e",
@@ -172,19 +172,6 @@
       "opponent": "Quorn FC Methodists"
     },
     {
-      "id": "d6cb928daf9b4f2429fd5caf526a1af8",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Collingham FC Cougars U10",
-      "away_team": "Gedling Southbank Warriors U10",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Collingham FC Cougars U10",
-      "home_away": "home",
-      "opponent": "Gedling Southbank Warriors U10"
-    },
-    {
       "id": "ee9f817cce8b58dd94130e5f08eb3571",
       "date": "2026-04-18",
       "time": "10:00",
@@ -248,19 +235,6 @@
       "team": "Collingham FC Cougars U8",
       "home_away": "away",
       "opponent": "Woodthorpe Com Galaxy U8"
-    },
-    {
-      "id": "836febf6bc83fabc085ea52fecf834d3",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Collingham FC Cougars U9",
-      "away_team": "Underwood Villa Panthers U9",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U9 Sat Spring Div 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Collingham FC Cougars U9",
-      "home_away": "home",
-      "opponent": "Underwood Villa Panthers U9"
     },
     {
       "id": "8e992b533281691a8dadb5c15f460650",
@@ -391,6 +365,32 @@
       "team": "Collingham FC Lions U13",
       "home_away": "home",
       "opponent": "Blidworth Bengals Orange U13"
+    },
+    {
+      "id": "836febf6bc83fabc085ea52fecf834d3",
+      "date": "2026-04-18",
+      "time": "11:15",
+      "home_team": "Collingham FC Cougars U9",
+      "away_team": "Underwood Villa Panthers U9",
+      "venue": "Collingham FC  NG23 7RA",
+      "division": "U9 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Collingham FC Cougars U9",
+      "home_away": "home",
+      "opponent": "Underwood Villa Panthers U9"
+    },
+    {
+      "id": "d6cb928daf9b4f2429fd5caf526a1af8",
+      "date": "2026-04-18",
+      "time": "12:30",
+      "home_team": "Collingham FC Cougars U10",
+      "away_team": "Gedling Southbank Warriors U10",
+      "venue": "Collingham FC  NG23 7RA",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Collingham FC Cougars U10",
+      "home_away": "home",
+      "opponent": "Gedling Southbank Warriors U10"
     },
     {
       "id": "79e318b387d2b639b0ce59f923b31496",
@@ -601,19 +601,6 @@
       "opponent": "ATFA Brinsley Eagles U8"
     },
     {
-      "id": "4eb8a71358730da8d586c15b0a05e5bb",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Collingham FC Lions U9",
-      "away_team": "Sherwood Colliery Black U9",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U9 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Collingham FC Lions U9",
-      "home_away": "home",
-      "opponent": "Sherwood Colliery Black U9"
-    },
-    {
       "id": "032148229da085c61a8d3b06179e327a",
       "date": "2026-04-25",
       "time": "10:30",
@@ -668,7 +655,7 @@
     {
       "id": "2f0161c7da328531fec528b937ebbc22",
       "date": "2026-04-25",
-      "time": "11:30",
+      "time": "11:15",
       "home_team": "Collingham FC Lions U10",
       "away_team": "Bottesford Yellow U10",
       "venue": "Collingham FC  NG23 7RA",
@@ -677,6 +664,19 @@
       "team": "Collingham FC Lions U10",
       "home_away": "home",
       "opponent": "Bottesford Yellow U10"
+    },
+    {
+      "id": "4eb8a71358730da8d586c15b0a05e5bb",
+      "date": "2026-04-25",
+      "time": "12:30",
+      "home_team": "Collingham FC Lions U9",
+      "away_team": "Sherwood Colliery Black U9",
+      "venue": "Collingham FC  NG23 7RA",
+      "division": "U9 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Collingham FC Lions U9",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery Black U9"
     },
     {
       "id": "ada6a2645f328c076067fc51fb3bbb03",

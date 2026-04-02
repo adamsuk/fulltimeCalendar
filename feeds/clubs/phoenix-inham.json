@@ -1,6 +1,6 @@
 {
   "club": "Phoenix Inham",
-  "generated": "2026-04-01T07:08:00Z",
+  "generated": "2026-04-02T07:00:02Z",
   "fixtures": [
     {
       "id": "4aeb9b46959fec64d6b8987e877b88e3",
@@ -14,19 +14,6 @@
       "team": "Phoenix Inham F.C. U12 Sparkles",
       "home_away": "home",
       "opponent": "Clipstone Welfare Colts F.C. Youth U12"
-    },
-    {
-      "id": "914b138a909a286737e13b57c3494489",
-      "date": "2026-04-05",
-      "time": "10:00",
-      "home_team": "Southwell City FC U13 All Whites",
-      "away_team": "Phoenix Inham F.C. U13 Starfire",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "U13 Div 1 11 v 11",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Phoenix Inham F.C. U13 Starfire",
-      "home_away": "away",
-      "opponent": "Southwell City FC U13 All Whites"
     },
     {
       "id": "4800b39e8f0b627e25d22152ed6c6d0a",
@@ -315,6 +302,19 @@
       "opponent": "Trowell FC U14"
     },
     {
+      "id": "2a7de8bf800ea1a629d5060499d2939c",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Phoenix Inham Embers U12 FR ONLY",
+      "away_team": "D3M FC U12",
+      "venue": "Inham Nook Recreation Ground NG9 4GQ",
+      "division": "U12 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Phoenix Inham Embers U12 FR ONLY",
+      "home_away": "home",
+      "opponent": "D3M FC U12"
+    },
+    {
       "id": "8f9abbc9768314fb8b560f8d3a22ac11",
       "date": "2026-04-19",
       "time": "11:00",
@@ -536,6 +536,19 @@
       "opponent": "Bottesford Yellow U14"
     },
     {
+      "id": "cdb03e86078f9dbed303d7e672cd6722",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "Pegasus FC U12",
+      "away_team": "Phoenix Inham Embers U12 FR ONLY",
+      "venue": "Pasture Road Recreation Ground NG9 8GN",
+      "division": "U12 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Phoenix Inham Embers U12 FR ONLY",
+      "home_away": "away",
+      "opponent": "Pegasus FC U12"
+    },
+    {
       "id": "2e289928170f3283e3546ba2dde4e8ca",
       "date": "2026-04-26",
       "time": "11:00",
@@ -593,11 +606,24 @@
       "time": "10:00",
       "home_team": "Phoenix Inham F.C. U13 Starfire",
       "away_team": "Southwell City FC U13 All Whites",
-      "venue": "INHAM NOOK RECREATION GROUND",
+      "venue": "CENTENARY SPORTS GROUND",
       "division": "U13 Div 1 11 v 11",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Phoenix Inham F.C. U13 Starfire",
       "home_away": "home",
+      "opponent": "Southwell City FC U13 All Whites"
+    },
+    {
+      "id": "d1e1d6a52a4efb9f3363c03acca62b13",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Southwell City FC U13 All Whites",
+      "away_team": "Phoenix Inham F.C. U13 Starfire",
+      "venue": "CENTENARY SPORTS GROUND",
+      "division": "U13 Div 1 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Phoenix Inham F.C. U13 Starfire",
+      "home_away": "away",
       "opponent": "Southwell City FC U13 All Whites"
     },
     {

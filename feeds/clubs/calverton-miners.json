@@ -1,6 +1,6 @@
 {
   "club": "Calverton Miners",
-  "generated": "2026-04-01T07:08:00Z",
+  "generated": "2026-04-02T07:00:02Z",
   "fixtures": [
     {
       "id": "aeff0b7aaa3e07f584218c506c17dfdd",
@@ -14,19 +14,6 @@
       "team": "Calverton Miners Welfare Reserves",
       "home_away": "away",
       "opponent": "Pass Move Grin Reserves"
-    },
-    {
-      "id": "76b9826331abb9d72d8234990f2c44c6",
-      "date": "2026-04-01",
-      "time": "20:00",
-      "home_team": "Calverton Miners Welfare Reserves",
-      "away_team": "Harrowby United Reserves",
-      "venue": "Hollinwood Lane Main Pitch",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Calverton Miners Welfare Reserves",
-      "home_away": "home",
-      "opponent": "Harrowby United Reserves"
     },
     {
       "id": "5b55e2c03885dbf24a148860e3b1d52b",
@@ -407,6 +394,23 @@
     }
   ],
   "results": [
+    {
+      "id": "76b9826331abb9d72d8234990f2c44c6",
+      "date": "2026-04-01",
+      "time": "20:00",
+      "home_team": "Calverton Miners Welfare Reserves",
+      "away_team": "Harrowby United Reserves",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Calverton Miners Welfare Reserves",
+      "home_away": "home",
+      "opponent": "Harrowby United Reserves",
+      "goals_for": 6,
+      "goals_against": 0
+    },
     {
       "id": "93d1d9863184150e2aa8c4b8c59ab467",
       "date": "2026-03-28",

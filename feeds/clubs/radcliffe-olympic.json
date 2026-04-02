@@ -1,6 +1,6 @@
 {
   "club": "Radcliffe Olympic",
-  "generated": "2026-04-01T07:08:00Z",
+  "generated": "2026-04-02T07:00:02Z",
   "fixtures": [
     {
       "id": "e5d78556f73c8beb876ad4111db2e5c0",
@@ -14,19 +14,6 @@
       "team": "Radcliffe Olympic FC U16 Girls",
       "home_away": "home",
       "opponent": "Southwell City FC U16 Girls"
-    },
-    {
-      "id": "8e2aa979e817f20192bcae0ca6f05d05",
-      "date": "2026-04-01",
-      "time": "19:45",
-      "home_team": "Linby Colliery Welfare Development",
-      "away_team": "Radcliffe Olympic FC U23",
-      "venue": "LINBY COLLIERY WELFARE FC",
-      "division": "Development Spring Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Radcliffe Olympic FC U23",
-      "home_away": "away",
-      "opponent": "Linby Colliery Welfare Development"
     },
     {
       "id": "af98851d854df5e29b8166afcc2a1986",
@@ -94,19 +81,6 @@
       "opponent": "WBYFC Knights Black U8"
     },
     {
-      "id": "e55676c282dac811c1d6a176c2a120d3",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic Pumas U8",
-      "away_team": "Lowdham FC Red U8",
-      "venue": "Radcliffe-on-Trent Cricket Club NG12 2DU",
-      "division": "U8 Sat Spring 5 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Radcliffe Olympic Pumas U8",
-      "home_away": "home",
-      "opponent": "Lowdham FC Red U8"
-    },
-    {
       "id": "c1447624c8be189523c5df5a76229ea5",
       "date": "2026-04-11",
       "time": "10:00",
@@ -131,6 +105,19 @@
       "team": "Radcliffe Olympic Tigers U8",
       "home_away": "home",
       "opponent": "Carlton Town Lions U8"
+    },
+    {
+      "id": "e55676c282dac811c1d6a176c2a120d3",
+      "date": "2026-04-11",
+      "time": "10:30",
+      "home_team": "Radcliffe Olympic Pumas U8",
+      "away_team": "Lowdham FC Red U8",
+      "venue": "Radcliffe-on-Trent Cricket Club NG12 2DU",
+      "division": "U8 Sat Spring 5 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Radcliffe Olympic Pumas U8",
+      "home_away": "home",
+      "opponent": "Lowdham FC Red U8"
     },
     {
       "id": "adea01dc54eee94aa1a01e06ecdeb612",
@@ -289,19 +276,6 @@
       "opponent": "Spirit Celtic White U14"
     },
     {
-      "id": "8bbbeb3c132d7353634bf70038a05474",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic Bears U8",
-      "away_team": "Burton Joyce U8",
-      "venue": "Radcliffe-on-Trent Cricket Club NG12 2DU",
-      "division": "U8 Sat Spring 7 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Radcliffe Olympic Bears U8",
-      "home_away": "home",
-      "opponent": "Burton Joyce U8"
-    },
-    {
       "id": "86ed03db56c4ec5edb3023c6912a4b48",
       "date": "2026-04-18",
       "time": "10:00",
@@ -352,19 +326,6 @@
       "team": "Radcliffe Olympic Lions U8",
       "home_away": "away",
       "opponent": "Ravenshead Red Devils U8"
-    },
-    {
-      "id": "03f30aa53f467aa01c77370c1edff6f9",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic Outlaws U10",
-      "away_team": "Stanton Ilkeston Ironmasters U10",
-      "venue": "Radcliffe-on-Trent Cricket Club NG12 2DU",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Radcliffe Olympic Outlaws U10",
-      "home_away": "home",
-      "opponent": "Stanton Ilkeston Ironmasters U10"
     },
     {
       "id": "2c97a9e655dc06656aa413a58d976dd3",
@@ -497,6 +458,32 @@
       "opponent": "Newark Brazil Corinthians U12"
     },
     {
+      "id": "8bbbeb3c132d7353634bf70038a05474",
+      "date": "2026-04-18",
+      "time": "11:15",
+      "home_team": "Radcliffe Olympic Bears U8",
+      "away_team": "Burton Joyce U8",
+      "venue": "Radcliffe-on-Trent Cricket Club NG12 2DU",
+      "division": "U8 Sat Spring 7 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Radcliffe Olympic Bears U8",
+      "home_away": "home",
+      "opponent": "Burton Joyce U8"
+    },
+    {
+      "id": "03f30aa53f467aa01c77370c1edff6f9",
+      "date": "2026-04-18",
+      "time": "11:15",
+      "home_team": "Radcliffe Olympic Outlaws U10",
+      "away_team": "Stanton Ilkeston Ironmasters U10",
+      "venue": "Radcliffe-on-Trent Cricket Club NG12 2DU",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Radcliffe Olympic Outlaws U10",
+      "home_away": "home",
+      "opponent": "Stanton Ilkeston Ironmasters U10"
+    },
+    {
       "id": "b66e2824ee4a850a39ee5efa7f89e665",
       "date": "2026-04-18",
       "time": "11:30",
@@ -547,19 +534,6 @@
       "team": "Radcliffe Olympic Jaguars U8",
       "home_away": "home",
       "opponent": "WBYFC Courage Black U8"
-    },
-    {
-      "id": "c396185199211bb47183e567aabd035d",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic Lions U7",
-      "away_team": "Aspire FC U7",
-      "venue": "Radcliffe on Trent Cricket Club NG12 2DU",
-      "division": "U7 Sun Spring Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Radcliffe Olympic Lions U7",
-      "home_away": "home",
-      "opponent": "Aspire FC U7"
     },
     {
       "id": "44200b036dd30f7ea09ba6dd2df37064",
@@ -625,6 +599,19 @@
       "team": "Radcliffe Olympic U11",
       "home_away": "home",
       "opponent": "Ravenshead Reds U11"
+    },
+    {
+      "id": "c396185199211bb47183e567aabd035d",
+      "date": "2026-04-19",
+      "time": "11:15",
+      "home_team": "Radcliffe Olympic Lions U7",
+      "away_team": "Aspire FC U7",
+      "venue": "Radcliffe on Trent Cricket Club NG12 2DU",
+      "division": "U7 Sun Spring Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Radcliffe Olympic Lions U7",
+      "home_away": "home",
+      "opponent": "Aspire FC U7"
     },
     {
       "id": "cb9c841bce614324aec12bc600ec6709",
@@ -913,6 +900,19 @@
       "opponent": "Elston United FC"
     },
     {
+      "id": "17fe4e62f195011d585c2da50f7e0c2f",
+      "date": "2026-04-26",
+      "time": "09:00",
+      "home_team": "Radcliffe Olympic Jaguars U8",
+      "away_team": "Ilkeston Town Zurich U8",
+      "venue": "South Nottinghamshire Academy NG12 2FQ",
+      "division": "U8 Sun Spring 2 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Radcliffe Olympic Jaguars U8",
+      "home_away": "home",
+      "opponent": "Ilkeston Town Zurich U8"
+    },
+    {
       "id": "6d99290d3501ea73af45f9280e84febd",
       "date": "2026-04-26",
       "time": "09:30",
@@ -926,25 +926,12 @@
       "opponent": "Priory Celtic F.C. U16 Girls"
     },
     {
-      "id": "17fe4e62f195011d585c2da50f7e0c2f",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic Jaguars U8",
-      "away_team": "Ilkeston Town Zurich U8",
-      "venue": "Radcliffe on Trent Cricket Club NG12 2DU",
-      "division": "U8 Sun Spring 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Radcliffe Olympic Jaguars U8",
-      "home_away": "home",
-      "opponent": "Ilkeston Town Zurich U8"
-    },
-    {
       "id": "02a5657b5733442dde6cd7d0cb124303",
       "date": "2026-04-26",
       "time": "10:00",
       "home_team": "Radcliffe Olympic Lions U7",
       "away_team": "Silva FC Magpies U7",
-      "venue": "Radcliffe on Trent Cricket Club NG12 2DU",
+      "venue": "South Nottinghamshire Academy NG12 2FQ",
       "division": "U7 Sun Spring Blue",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Radcliffe Olympic Lions U7",
@@ -1174,6 +1161,23 @@
     }
   ],
   "results": [
+    {
+      "id": "8e2aa979e817f20192bcae0ca6f05d05",
+      "date": "2026-04-01",
+      "time": "19:45",
+      "home_team": "Linby Colliery Welfare Development",
+      "away_team": "Radcliffe Olympic FC U23",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Radcliffe Olympic FC U23",
+      "home_away": "away",
+      "opponent": "Linby Colliery Welfare Development",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "11bbc2c4bacd913fbd794bb492bece05",
       "date": "2026-03-29",

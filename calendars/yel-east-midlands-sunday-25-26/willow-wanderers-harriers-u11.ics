@@ -8,7 +8,7 @@ X-WR-CALDESC:Fixtures for Willow Wanderers Harriers U11 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:5f74cc8dcf03c0ff9a6a2fd0843938b2@yel-calendar
-DTSTAMP:20260401T070824Z
+DTSTAMP:20260402T070025Z
 DTSTART;TZID=Europe/London:20260415T183000
 DTEND;TZID=Europe/London:20260415T190000
 SUMMARY:⚽ Willow Wanderers Harriers U11 vs Heanor Town Hurricanes U11 (Away)
@@ -17,11 +17,20 @@ LOCATION:Carlton le Willows School NG4 4AA
 END:VEVENT
 BEGIN:VEVENT
 UID:822a6cf9e29445ff513e6317eb0aa16d@yel-calendar
-DTSTAMP:20260401T070824Z
+DTSTAMP:20260402T070025Z
 DTSTART;TZID=Europe/London:20260419T110000
 DTEND;TZID=Europe/London:20260419T120000
 SUMMARY:⚽ Willow Wanderers Harriers U11 vs Silva FC Rushcliffe Red U11 (Away)
 DESCRIPTION:Division: U11 Sun YEL Foundation Shield\nSilva FC Rushcliffe Red U11 v Willow Wanderers Harriers U11\nKO: 11:00
 LOCATION:Rushcliffe School NG2 7BZ
+END:VEVENT
+BEGIN:VEVENT
+UID:5f13b893884136b0314c654551aa3179@yel-calendar
+DTSTAMP:20260402T070025Z
+DTSTART;TZID=Europe/London:20260426T110000
+DTEND;TZID=Europe/London:20260426T120000
+SUMMARY:⚽ Willow Wanderers Harriers U11 vs Sneinton Town U11 (Home)
+DESCRIPTION:Division: U11 Sunday\nWillow Wanderers Harriers U11 v Sneinton Town U11\nKO: 11:00
+LOCATION:Carlton le Willows School NG4 4AA
 END:VEVENT
 END:VCALENDAR

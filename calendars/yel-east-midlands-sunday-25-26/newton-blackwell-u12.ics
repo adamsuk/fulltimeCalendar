@@ -8,7 +8,7 @@ X-WR-CALDESC:Fixtures for Newton & Blackwell U12 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:daff3f3dfb8702cee3decb5486f9496c@yel-calendar
-DTSTAMP:20260401T070824Z
+DTSTAMP:20260402T070025Z
 DTSTART;TZID=Europe/London:20260416T180000
 DTEND;TZID=Europe/London:20260416T190000
 SUMMARY:⚽ Newton & Blackwell U12 vs Nottingham FC Blue U12 (Home)
@@ -16,8 +16,17 @@ DESCRIPTION:Division: U12 Sun YEL Trophy\nNewton & Blackwell U12 v Nottingham FC
 LOCATION:Scanderlands Pavilion DE55 5JJ
 END:VEVENT
 BEGIN:VEVENT
+UID:dfbcedeb9fbef834f2d344de7f710835@yel-calendar
+DTSTAMP:20260402T070025Z
+DTSTART;TZID=Europe/London:20260419T110000
+DTEND;TZID=Europe/London:20260419T120000
+SUMMARY:⚽ Newton & Blackwell U12 vs Woodhouse Colts Rhinos U12 (Away)
+DESCRIPTION:Division: U12 Sunday\nWoodhouse Colts Rhinos U12 v Newton & Blackwell U12\nKO: 11:00
+LOCATION:Forest Town Welfare NG19 0EE
+END:VEVENT
+BEGIN:VEVENT
 UID:b00a16171524a47e5755344d95dae2ed@yel-calendar
-DTSTAMP:20260401T070824Z
+DTSTAMP:20260402T070025Z
 DTSTART;TZID=Europe/London:20260426T110000
 DTEND;TZID=Europe/London:20260426T120000
 SUMMARY:⚽ Newton & Blackwell U12 vs Kirkby Colts Red U12 (Home)

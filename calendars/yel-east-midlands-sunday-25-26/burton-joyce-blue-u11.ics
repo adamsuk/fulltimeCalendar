@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Burton Joyce Blue U11
+X-WR-CALDESC:Fixtures for Burton Joyce Blue U11 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:bc9ed5ae6241baade09f80af39075911@yel-calendar
+DTSTAMP:20260402T070025Z
+DTSTART;TZID=Europe/London:20260419T110000
+DTEND;TZID=Europe/London:20260419T120000
+SUMMARY:⚽ Burton Joyce Blue U11 vs Calverton MW White U11 (Home)
+DESCRIPTION:Division: U11 Sunday\nBurton Joyce Blue U11 v Calverton MW White U11\nKO: 11:00
+LOCATION:The Poplars Burton Joyce NG14 5AN
+END:VEVENT
+BEGIN:VEVENT
+UID:0c000bb3c50ae3780c661092a4e9d275@yel-calendar
+DTSTAMP:20260402T070025Z
+DTSTART;TZID=Europe/London:20260426T110000
+DTEND;TZID=Europe/London:20260426T120000
+SUMMARY:⚽ Burton Joyce Blue U11 vs Silva FC Carlton Red U11 (Away)
+DESCRIPTION:Division: U11 Sunday\nSilva FC Carlton Red U11 v Burton Joyce Blue U11\nKO: 11:00
+LOCATION:Carlton Forum NG4 3SH
+END:VEVENT
+END:VCALENDAR
