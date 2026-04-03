@@ -1,6 +1,6 @@
 {
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-02T07:00:02Z",
+  "generated": "2026-04-03T06:56:56Z",
   "fixtures": [
     {
       "id": "c77d56e1db575c724f8ee97f372acc07",
@@ -10,15 +10,6 @@
       "away_team": "WBYFC Spartans U13",
       "venue": "Friesland School NG10 5AF",
       "division": "U13 Sat Spring Div 3 Red"
-    },
-    {
-      "id": "9482081b7991f2d6b616c59a65a49ad9",
-      "date": "2026-03-21",
-      "time": "11:15",
-      "home_team": "AJ Sport FC U14",
-      "away_team": "Collingham FC Lions U14",
-      "venue": "Beeston Fields Recreation Ground NG9 2QT",
-      "division": "U14 Sat YEL Trophy"
     },
     {
       "id": "f86c57b8d29b6c8f1f091e50f22228c3",
@@ -199,15 +190,6 @@
       "away_team": "Ingles FC Reds U8",
       "venue": "WALESBY LANE NG22 9UT",
       "division": "U8 Sat Spring 1"
-    },
-    {
-      "id": "4bc6ec27148c340c2a47a9b8e571452f",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic Lions U8",
-      "away_team": "Ilkeston Town Basel U8",
-      "venue": "Radcliffe-on-Trent Cricket Club NG12 2DU",
-      "division": "U8 Sat Spring 2 Blue"
     },
     {
       "id": "b4490e7e9cbfd5da8312ee4821c36af1",
@@ -912,6 +894,15 @@
       "division": "U13 Sat YEL Inter Cup"
     },
     {
+      "id": "4bc6ec27148c340c2a47a9b8e571452f",
+      "date": "2026-04-11",
+      "time": "11:15",
+      "home_team": "Radcliffe Olympic Lions U8",
+      "away_team": "Ilkeston Town Basel U8",
+      "venue": "Radcliffe-on-Trent Cricket Club NG12 2DU",
+      "division": "U8 Sat Spring 2 Blue"
+    },
+    {
       "id": "adea01dc54eee94aa1a01e06ecdeb612",
       "date": "2026-04-11",
       "time": "11:15",
@@ -1178,8 +1169,8 @@
       "time": "18:00",
       "home_team": "Bagthorpe Athletic U14",
       "away_team": "Dunkirk U14",
-      "venue": "Ron Steel Sports Ground  NG7 2SA",
-      "division": "U14 Sat YEL Trophy"
+      "venue": "Dixies Arms Park NG16 5HF",
+      "division": "U14 Sat YEL Trophy (Revised)"
     },
     {
       "id": "a532c5d0a96e58fb3f21e9e39888a524",
@@ -1188,7 +1179,7 @@
       "home_team": "Meden Vale Colts Red U14",
       "away_team": "Sutton Trinity U14 Yellow",
       "venue": "Manor Sport & Recreation Cntre  NG19 8JY",
-      "division": "U14 Sat YEL Trophy"
+      "division": "U14 Sat YEL Trophy (Revised)"
     },
     {
       "id": "d9bf80ef8da5f4ecb45dc6ab1888e774",
@@ -1197,7 +1188,7 @@
       "home_team": "Phoenix Inham Inferno U14",
       "away_team": "Loughborough Eml Falcons U14",
       "venue": "Inham Nook Recreation Ground NG9 4GQ",
-      "division": "U14 Sat YEL Trophy"
+      "division": "U14 Sat YEL Trophy (Revised)"
     },
     {
       "id": "12bf819358ae108e8cea19b5ce2478b5",
@@ -1992,6 +1983,15 @@
       "division": "U11 Saturday"
     },
     {
+      "id": "64d23c37c9e39d57d0f36ec2a3901e99",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Cotgrave FC Blue U11",
+      "away_team": "Priory Celtic Hoops U11",
+      "venue": "Ridley Sports Ground  NG12 3HA",
+      "division": "U11 Saturday"
+    },
+    {
       "id": "c8adb79c9b6e96f4f18904e88b289775",
       "date": "2026-04-18",
       "time": "10:00",
@@ -2728,15 +2728,6 @@
       "away_team": "DJFC U10",
       "venue": "Lowdham Playing Fields  NG14 7AB",
       "division": "U10 Sat Spring Div 8 Red"
-    },
-    {
-      "id": "40430674d88d10d572fbb356a48c9389",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Sandiacre Town Warriors U10",
-      "away_team": "Wollaton H & B Yellow U10",
-      "venue": "Cloudside Junior School NG10 5DE",
-      "division": "U10 Sat Spring Div 9 Blue"
     },
     {
       "id": "ea364b35af411270b36b987351aa90df",
@@ -4980,15 +4971,6 @@
       "division": "U11 Saturday"
     },
     {
-      "id": "64d23c37c9e39d57d0f36ec2a3901e99",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Cotgrave FC Blue U11",
-      "away_team": "Priory Celtic Hoops U11",
-      "venue": "Ridley Sports Ground  NG12 3HA",
-      "division": "U11 Saturday"
-    },
-    {
       "id": "2c5a5363fbcc9eac801a38c4750b9b45",
       "date": "2026-04-18",
       "time": "11:00",
@@ -5356,6 +5338,15 @@
       "away_team": "Stanton Ilkeston Ironmasters U10",
       "venue": "Radcliffe-on-Trent Cricket Club NG12 2DU",
       "division": "U10 Saturday"
+    },
+    {
+      "id": "40430674d88d10d572fbb356a48c9389",
+      "date": "2026-04-18",
+      "time": "11:15",
+      "home_team": "Sandiacre Town Warriors U10",
+      "away_team": "Wollaton H & B Yellow U10",
+      "venue": "Friesland School NG10 5AF",
+      "division": "U10 Sat Spring Div 9 Blue"
     },
     {
       "id": "836febf6bc83fabc085ea52fecf834d3",
@@ -5770,6 +5761,15 @@
       "away_team": "Selston FC Black U9",
       "venue": "Bentinck Miners Welfare NG17 8GS",
       "division": "U9 Sat Spring Div 8 Red"
+    },
+    {
+      "id": "1cb73fe7e5b3e68c5d85bd69ea25afef",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "AJ Sport FC U14",
+      "away_team": "Bottesford FC Blue U14",
+      "venue": "Beeston Fields Recreation Ground NG9 2QT",
+      "division": "U14 Sat YEL Trophy (Revised)"
     },
     {
       "id": "1387297eaf48d2850e02540cb77b2a16",
@@ -9606,15 +9606,6 @@
       "division": "U11 Saturday"
     },
     {
-      "id": "eb88aad7613fb9854d106a4256bb5925",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Notts County Women U11 ^",
-      "away_team": "Silva FC Rushcllife Yellow U11",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U11 Saturday"
-    },
-    {
       "id": "09b7744e872447c0dd22e823581c52f5",
       "date": "2026-04-25",
       "time": "11:00",
@@ -9973,6 +9964,15 @@
       "away_team": "Radcliffe Olympic Blue U12",
       "venue": "Carlton le Willows School NG4 4AA",
       "division": "U12 Sat Spring Div 7 Red"
+    },
+    {
+      "id": "eb88aad7613fb9854d106a4256bb5925",
+      "date": "2026-04-25",
+      "time": "11:30",
+      "home_team": "Notts County Women U11 ^",
+      "away_team": "Silva FC Rushcllife Yellow U11",
+      "venue": "Southglade Leisure Centre  NG5 5GU",
+      "division": "U11 Saturday"
     },
     {
       "id": "7ed459ebc4f6576e753412ed9b204275",

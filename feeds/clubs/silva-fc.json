@@ -1,6 +1,6 @@
 {
   "club": "Silva FC",
-  "generated": "2026-04-02T07:00:02Z",
+  "generated": "2026-04-03T06:56:56Z",
   "fixtures": [
     {
       "id": "b89398c8a163e5aca3c465408118956b",
@@ -521,6 +521,19 @@
       "team": "Silva FC Southglade Pink U14",
       "home_away": "away",
       "opponent": "Southwell City United U14"
+    },
+    {
+      "id": "4f0af7a562dd3a60a30e01b2e20bdcb2",
+      "date": "2026-04-19",
+      "time": "00:00",
+      "home_team": "Silva FC Rushcliffe Gold U9",
+      "away_team": "Cotgrave FC Blue U9",
+      "venue": "Rushcliffe School NG2 7BZ",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Silva FC Rushcliffe Gold U9",
+      "home_away": "home",
+      "opponent": "Cotgrave FC Blue U9"
     },
     {
       "id": "2aa9ed7d0b24725067ebda5b21cbd150",
@@ -1134,19 +1147,6 @@
       "opponent": "Newark Town Cavaliers U12"
     },
     {
-      "id": "eb88aad7613fb9854d106a4256bb5925",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Notts County Women U11 ^",
-      "away_team": "Silva FC Rushcllife Yellow U11",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U11 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Silva FC Rushcllife Yellow U11",
-      "home_away": "away",
-      "opponent": "Notts County Women U11 ^"
-    },
-    {
       "id": "24d37df49691db4d0032a6abf8df54bc",
       "date": "2026-04-25",
       "time": "11:00",
@@ -1160,6 +1160,32 @@
       "opponent": "Sneinton Town U14"
     },
     {
+      "id": "eb88aad7613fb9854d106a4256bb5925",
+      "date": "2026-04-25",
+      "time": "11:30",
+      "home_team": "Notts County Women U11 ^",
+      "away_team": "Silva FC Rushcllife Yellow U11",
+      "venue": "Southglade Leisure Centre  NG5 5GU",
+      "division": "U11 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Silva FC Rushcllife Yellow U11",
+      "home_away": "away",
+      "opponent": "Notts County Women U11 ^"
+    },
+    {
+      "id": "02a5657b5733442dde6cd7d0cb124303",
+      "date": "2026-04-26",
+      "time": "09:00",
+      "home_team": "Radcliffe Olympic Lions U7",
+      "away_team": "Silva FC Magpies U7",
+      "venue": "South Nottinghamshire Academy NG12 2FQ",
+      "division": "U7 Sun Spring Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Silva FC Magpies U7",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic Lions U7"
+    },
+    {
       "id": "62d74c47a75a447983ac3851d4c7ca02",
       "date": "2026-04-26",
       "time": "10:00",
@@ -1171,6 +1197,19 @@
       "team": "Silva FC Brunts Black U9",
       "home_away": "away",
       "opponent": "Beaufort United Red U9"
+    },
+    {
+      "id": "91f4594c680a57c4440b1f1177d1ea51",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Blidworth Bengals Orange U11",
+      "away_team": "Silva FC Carlton Blue U11",
+      "venue": "Bilsthorpe Sports Ground NG22 8SU",
+      "division": "U11 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Silva FC Carlton Blue U11",
+      "home_away": "away",
+      "opponent": "Blidworth Bengals Orange U11"
     },
     {
       "id": "3bac992ccec9b04eb274af414e536f1e",
@@ -1223,19 +1262,6 @@
       "team": "Silva FC Carlton Green U9",
       "home_away": "home",
       "opponent": "Quarrydale United United U9"
-    },
-    {
-      "id": "02a5657b5733442dde6cd7d0cb124303",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic Lions U7",
-      "away_team": "Silva FC Magpies U7",
-      "venue": "South Nottinghamshire Academy NG12 2FQ",
-      "division": "U7 Sun Spring Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Silva FC Magpies U7",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic Lions U7"
     },
     {
       "id": "fa89b34c4829ad530d2b5fc363b5e67f",
@@ -1340,32 +1366,6 @@
       "team": "Silva FC U13 Rushcliffe Pink",
       "home_away": "home",
       "opponent": "Gedling Southbank FC U13 Rockets"
-    },
-    {
-      "id": "91f4594c680a57c4440b1f1177d1ea51",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Blidworth Bengals Orange U11",
-      "away_team": "Silva FC Carlton Blue U11",
-      "venue": "Bilsthorpe Sports Ground NG22 8SU",
-      "division": "U11 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Silva FC Carlton Blue U11",
-      "home_away": "away",
-      "opponent": "Blidworth Bengals Orange U11"
-    },
-    {
-      "id": "864a66da873736894545e410a0078430",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Silva FC Carlton Blue U13",
-      "away_team": "Asfordby Panthers U13",
-      "venue": "Carlton Football Centre (3G) NG4 3SH",
-      "division": "U13 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Silva FC Carlton Blue U13",
-      "home_away": "home",
-      "opponent": "Asfordby Panthers U13"
     },
     {
       "id": "b01986f0e6ff6958b714feafe60c1e58",
