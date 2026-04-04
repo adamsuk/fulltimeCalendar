@@ -1,20 +1,7 @@
 {
   "club": "Elston United FC",
-  "generated": "2026-04-03T06:56:56Z",
+  "generated": "2026-04-04T06:46:24Z",
   "fixtures": [
-    {
-      "id": "845286f3470636ff133be16110a0c5cb",
-      "date": "2026-04-03",
-      "time": "14:00",
-      "home_team": "Bilborough TRD FC",
-      "away_team": "Elston United FC",
-      "venue": "RADFORD FOOTBALL CLUB",
-      "division": "NSL Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Elston United FC",
-      "home_away": "away",
-      "opponent": "Bilborough TRD FC"
-    },
     {
       "id": "3edc06d0290ba2de0bca4a56e96f268c",
       "date": "2026-04-11",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "845286f3470636ff133be16110a0c5cb",
+      "date": "2026-04-03",
+      "time": "14:00",
+      "home_team": "Bilborough TRD FC",
+      "away_team": "Elston United FC",
+      "home_score": 4,
+      "away_score": 4,
+      "venue": "",
+      "division": "NSL Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Elston United FC",
+      "home_away": "away",
+      "opponent": "Bilborough TRD FC",
+      "goals_for": 4,
+      "goals_against": 4
+    },
     {
       "id": "3b7696b824cd6c5302687c062fce8d06",
       "date": "2026-03-28",

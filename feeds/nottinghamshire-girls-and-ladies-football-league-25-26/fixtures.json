@@ -1,6 +1,6 @@
 {
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-03T06:56:56Z",
+  "generated": "2026-04-04T06:46:24Z",
   "fixtures": [
     {
       "id": "67bc4be566a984541f88c71aa3c3fc04",
@@ -291,6 +291,15 @@
       "division": "U16 Div 3"
     },
     {
+      "id": "c447e743f7d07bdc9943f178fca1ed35",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Arnold Eagles F.C. Girls U15 Fire",
+      "away_team": "West Bridgford Colts U15 Lionesses",
+      "venue": "CALVERTON MINERS WELFARE TRUST",
+      "division": "U15 Div 1"
+    },
+    {
       "id": "940c4d131eb576b39f70d6cc694b3823",
       "date": "2026-04-12",
       "time": "10:00",
@@ -315,15 +324,6 @@
       "home_team": "Allenton United FC U15 Ladies Bees",
       "away_team": "Priory Celtic F.C. U15 Girls",
       "venue": "Allenton United FC U15 Ladies Bees",
-      "division": "U15 Div 2"
-    },
-    {
-      "id": "c89708ab2b51581c03c80c7a10d4328c",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Bottesford U15 Girls",
-      "away_team": "Keyworth United F.C. U15 Kobras",
-      "venue": "BOTTESFORD FC",
       "division": "U15 Div 2"
     },
     {
@@ -642,30 +642,12 @@
       "division": "U12 Div 1 P2"
     },
     {
-      "id": "ff96075207f105811c5bd650f7d0480b",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Langwith Whitestar U12 United",
-      "away_team": "Ollerton Town Community FC U12 Girls",
-      "venue": "Langwith Whitestar U12 United",
-      "division": "U12 Div 2 P2"
-    },
-    {
       "id": "8565f9c833b115d46bd298f382989535",
       "date": "2026-04-12",
       "time": "10:00",
       "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
       "away_team": "Keyworth United F.C. U12 Shooting Stars",
       "venue": "BINGHAM ROAD PLAYING FIELDS",
-      "division": "U12 Div 2 P2"
-    },
-    {
-      "id": "c0aeb3942ef6536925246f24ce9a8f3a",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Sherwood Colliery F.C. Ladies U12 Blue",
-      "away_team": "Keyworth United F.C. U12 Vipers",
-      "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
       "division": "U12 Div 2 P2"
     },
     {
@@ -957,6 +939,15 @@
       "division": "U15 Div 2"
     },
     {
+      "id": "c89708ab2b51581c03c80c7a10d4328c",
+      "date": "2026-04-12",
+      "time": "10:30",
+      "home_team": "Bottesford U15 Girls",
+      "away_team": "Keyworth United F.C. U15 Kobras",
+      "venue": "BOTTESFORD FC",
+      "division": "U15 Div 2"
+    },
+    {
       "id": "f48a5405e9dee16201aab445b19468e7",
       "date": "2026-04-12",
       "time": "10:30",
@@ -964,15 +955,6 @@
       "away_team": "Tansley Juniors U15 Girls",
       "venue": "EPPERSTONE PLAYING FIELDS",
       "division": "U15 Div 2"
-    },
-    {
-      "id": "1a8b16c6f22046dc100b6ff9e413b04b",
-      "date": "2026-04-12",
-      "time": "11:00",
-      "home_team": "Woodhouse Colts F.C. U13 Athena",
-      "away_team": "Arnold Eagles F.C. Girls U13 Kites",
-      "venue": "FOREST TOWN ARENA",
-      "division": "U13 Div 2 9 v 9"
     },
     {
       "id": "e07561482cc7c1b0ce735f37cbb24230",
@@ -984,13 +966,13 @@
       "division": "U10 Development"
     },
     {
-      "id": "802a25a765e9c76cbaaa06fa2a742459",
+      "id": "c0aeb3942ef6536925246f24ce9a8f3a",
       "date": "2026-04-12",
-      "time": "11:30",
-      "home_team": "Bingham Town F.C. U16 Girls",
-      "away_team": "Arnold Eagles F.C. Girls U16 Buzzards",
-      "venue": "BUTT FIELD SPORTS CLUB",
-      "division": "U16 Div 2"
+      "time": "11:15",
+      "home_team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "away_team": "Keyworth United F.C. U12 Vipers",
+      "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
+      "division": "U12 Div 2 P2"
     },
     {
       "id": "c8ba237f6d74442b12a9c114fdb935f7",
@@ -1011,6 +993,15 @@
       "division": "U13 Div 2 11 v 11"
     },
     {
+      "id": "1a8b16c6f22046dc100b6ff9e413b04b",
+      "date": "2026-04-12",
+      "time": "11:30",
+      "home_team": "Woodhouse Colts F.C. U13 Athena",
+      "away_team": "Arnold Eagles F.C. Girls U13 Kites",
+      "venue": "FOREST TOWN ARENA",
+      "division": "U13 Div 2 9 v 9"
+    },
+    {
       "id": "a3f1c2a25140eb6110b4019ab40cf937",
       "date": "2026-04-12",
       "time": "11:30",
@@ -1027,6 +1018,15 @@
       "away_team": "Ravenshead Reds F.C. Youth U13",
       "venue": "CARR LANE PARK",
       "division": "U13 Div 3 9 v 9"
+    },
+    {
+      "id": "ff96075207f105811c5bd650f7d0480b",
+      "date": "2026-04-12",
+      "time": "11:30",
+      "home_team": "Langwith Whitestar U12 United",
+      "away_team": "Ollerton Town Community FC U12 Girls",
+      "venue": "Langwith Whitestar U12 United",
+      "division": "U12 Div 2 P2"
     },
     {
       "id": "7febce6353211838984e73e19f2ea3b1",
@@ -1047,13 +1047,13 @@
       "division": "U18 Div 2 Phase 2"
     },
     {
-      "id": "c447e743f7d07bdc9943f178fca1ed35",
+      "id": "802a25a765e9c76cbaaa06fa2a742459",
       "date": "2026-04-12",
       "time": "12:00",
-      "home_team": "Arnold Eagles F.C. Girls U15 Fire",
-      "away_team": "West Bridgford Colts U15 Lionesses",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "U15 Div 1"
+      "home_team": "Bingham Town F.C. U16 Girls",
+      "away_team": "Arnold Eagles F.C. Girls U16 Buzzards",
+      "venue": "BUTT FIELD SPORTS CLUB",
+      "division": "U16 Div 2"
     },
     {
       "id": "533b60b4e6368d0aabe27b6f4b18bf30",
@@ -1368,15 +1368,6 @@
       "home_team": "Bingham Town F.C. U15 Girls",
       "away_team": "Woodlands Women U15",
       "venue": "BUTT FIELD SPORTS CLUB",
-      "division": "U15 Div 2"
-    },
-    {
-      "id": "b51c8aaabb9c31a84c146e9f5b7e34c0",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Bottesford U15 Girls",
-      "away_team": "Sherwood Colliery F.C. Ladies U15",
-      "venue": "BOTTESFORD FC",
       "division": "U15 Div 2"
     },
     {
@@ -1738,6 +1729,15 @@
       "away_team": "Hucknall Town FC Women",
       "venue": "MAGNA MEADOWS PLAYING FIELD",
       "division": "Seniors Div 1"
+    },
+    {
+      "id": "b51c8aaabb9c31a84c146e9f5b7e34c0",
+      "date": "2026-04-19",
+      "time": "10:30",
+      "home_team": "Bottesford U15 Girls",
+      "away_team": "Sherwood Colliery F.C. Ladies U15",
+      "venue": "BOTTESFORD FC",
+      "division": "U15 Div 2"
     },
     {
       "id": "73255dfe4dc667e417a3f9d01a5063d2",
