@@ -1,6 +1,6 @@
 {
   "club": "Cotgrave Reserves",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
     {
       "id": "7cfcbaffede28da14b0b8dc24cec8e9e",
@@ -14,19 +14,6 @@
       "team": "Cotgrave Reserves",
       "home_away": "home",
       "opponent": "Langwith Whitestar FC"
-    },
-    {
-      "id": "90e2eda3e82eaae4669cd238b9b88ea9",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "home_team": "Cotgrave Reserves",
-      "away_team": "Southwell City Development",
-      "venue": "COTGRAVE WELFARE CLUB #1",
-      "division": "NSL Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Cotgrave Reserves",
-      "home_away": "home",
-      "opponent": "Southwell City Development"
     },
     {
       "id": "ef6c520150d27138acbd78417662cf4c",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "90e2eda3e82eaae4669cd238b9b88ea9",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "Cotgrave Reserves",
+      "away_team": "Southwell City Development",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave Reserves",
+      "home_away": "home",
+      "opponent": "Southwell City Development",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "c93b91cae5a0f179af8547fadc5231f3",
       "date": "2026-03-28",

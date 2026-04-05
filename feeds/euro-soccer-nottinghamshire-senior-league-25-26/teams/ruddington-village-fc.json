@@ -1,7 +1,7 @@
 {
   "team": "Ruddington Village FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
     {
       "id": "728393015694333a48360ad5452c500b",
@@ -13,17 +13,6 @@
       "division": "Euro Soccer Premier Division",
       "home_away": "away",
       "opponent": "Southwell City Reserves"
-    },
-    {
-      "id": "730a60b1382ae490d9f12e90e72346c4",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "home_team": "Aslockton & Orston FC",
-      "away_team": "Ruddington Village FC",
-      "venue": "ORSTON RECREATION GROUND",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Aslockton & Orston FC"
     },
     {
       "id": "79e318b387d2b639b0ce59f923b31496",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "730a60b1382ae490d9f12e90e72346c4",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "Aslockton & Orston FC",
+      "away_team": "Ruddington Village FC",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Aslockton & Orston FC",
+      "goals_for": 0,
+      "goals_against": 5
+    },
     {
       "id": "b815728c60add67fdb9d66b29377cda4",
       "date": "2026-03-28",

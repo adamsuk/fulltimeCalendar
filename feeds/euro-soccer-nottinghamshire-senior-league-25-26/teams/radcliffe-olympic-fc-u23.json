@@ -1,19 +1,8 @@
 {
   "team": "Radcliffe Olympic FC U23",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
-    {
-      "id": "af98851d854df5e29b8166afcc2a1986",
-      "date": "2026-04-04",
-      "time": "10:30",
-      "home_team": "Burton Joyce F.C. U23",
-      "away_team": "Radcliffe Olympic FC U23",
-      "venue": "POPLARS SPORTS GROUND",
-      "division": "Development Spring Division Two",
-      "home_away": "away",
-      "opponent": "Burton Joyce F.C. U23"
-    },
     {
       "id": "f72e81ebcbefdaa01e6c50af5c97fe47",
       "date": "2026-04-18",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "af98851d854df5e29b8166afcc2a1986",
+      "date": "2026-04-04",
+      "time": "10:30",
+      "home_team": "Burton Joyce F.C. U23",
+      "away_team": "Radcliffe Olympic FC U23",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "home_away": "away",
+      "opponent": "Burton Joyce F.C. U23",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "8e2aa979e817f20192bcae0ca6f05d05",
       "date": "2026-04-01",

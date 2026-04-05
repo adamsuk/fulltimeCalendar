@@ -1,6 +1,6 @@
 {
   "club": "Awsworth Villa",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
     {
       "id": "c0f70b7e8800cb8f13340a274e51998c",
@@ -14,19 +14,6 @@
       "team": "Awsworth Villa FC",
       "home_away": "home",
       "opponent": "Dunkirk AFC"
-    },
-    {
-      "id": "5f83398e0ca911fa2a6cbc90c02c7cdc",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "home_team": "Rolls Royce FC",
-      "away_team": "Awsworth Villa Reserves",
-      "venue": "DERBY LEISURE & EVENTS VENUE DERBY",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Awsworth Villa Reserves",
-      "home_away": "away",
-      "opponent": "Rolls Royce FC"
     },
     {
       "id": "ed81805493542caf073c3ef34c1e4c9b",
@@ -238,6 +225,23 @@
     }
   ],
   "results": [
+    {
+      "id": "5f83398e0ca911fa2a6cbc90c02c7cdc",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "Rolls Royce FC",
+      "away_team": "Awsworth Villa Reserves",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Awsworth Villa Reserves",
+      "home_away": "away",
+      "opponent": "Rolls Royce FC",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "62fdfb7a85ecdf73c668006b6675292f",
       "date": "2026-03-28",

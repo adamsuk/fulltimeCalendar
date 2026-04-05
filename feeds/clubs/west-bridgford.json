@@ -1,6 +1,6 @@
 {
   "club": "West Bridgford",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
     {
       "id": "3c2f4d185182fa444977a45747ad1f51",
@@ -53,19 +53,6 @@
       "team": "West Bridgford Colts U11 Hurricanes",
       "home_away": "away",
       "opponent": "Keyworth United F.C. U11 Tigers"
-    },
-    {
-      "id": "36d370943c0944752e283e7ee9f5373a",
-      "date": "2026-04-04",
-      "time": "10:30",
-      "home_team": "West Bridgford Development",
-      "away_team": "Cotgrave Development",
-      "venue": "GRESHAM SPORTS PARK #1",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "West Bridgford Development",
-      "home_away": "home",
-      "opponent": "Cotgrave Development"
     },
     {
       "id": "965654f8ae525c06c2f60bc399be0f14",
@@ -641,6 +628,23 @@
     }
   ],
   "results": [
+    {
+      "id": "36d370943c0944752e283e7ee9f5373a",
+      "date": "2026-04-04",
+      "time": "10:30",
+      "home_team": "West Bridgford Development",
+      "away_team": "Cotgrave Development",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "West Bridgford Development",
+      "home_away": "home",
+      "opponent": "Cotgrave Development",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "06c209e900c9a2b1ca8b4ead8d8a7ba2",
       "date": "2026-03-31",

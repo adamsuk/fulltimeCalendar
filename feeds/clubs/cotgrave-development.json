@@ -1,20 +1,7 @@
 {
   "club": "Cotgrave Development",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
-    {
-      "id": "36d370943c0944752e283e7ee9f5373a",
-      "date": "2026-04-04",
-      "time": "10:30",
-      "home_team": "West Bridgford Development",
-      "away_team": "Cotgrave Development",
-      "venue": "GRESHAM SPORTS PARK #1",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Cotgrave Development",
-      "home_away": "away",
-      "opponent": "West Bridgford Development"
-    },
     {
       "id": "c12e74d4c39916cb478c5587fcde9f34",
       "date": "2026-04-15",
@@ -95,6 +82,23 @@
     }
   ],
   "results": [
+    {
+      "id": "36d370943c0944752e283e7ee9f5373a",
+      "date": "2026-04-04",
+      "time": "10:30",
+      "home_team": "West Bridgford Development",
+      "away_team": "Cotgrave Development",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave Development",
+      "home_away": "away",
+      "opponent": "West Bridgford Development",
+      "goals_for": 5,
+      "goals_against": 2
+    },
     {
       "id": "40c81d1c3bad58c0f16f8e276f8e697a",
       "date": "2026-04-01",

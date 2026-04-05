@@ -1,20 +1,7 @@
 {
   "club": "Ravenshead Reds",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
-    {
-      "id": "766c2dc75b950fae240677a06fbbe4f1",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "home_team": "City United FC",
-      "away_team": "Ravenshead Reds FC",
-      "venue": "SOUTH NOTTINGHAMSHIRE ACADEMY",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Ravenshead Reds FC",
-      "home_away": "away",
-      "opponent": "City United FC"
-    },
     {
       "id": "2d1fbcad4b2d658848b6860b85bee1fb",
       "date": "2026-04-11",
@@ -458,6 +445,19 @@
       "opponent": "Collingham FC Panthers U10"
     },
     {
+      "id": "0b065754bb4599ce5c4995a1fb1bdd06",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Lowdham FC Rossoneri U11",
+      "away_team": "Ravenshead Reds U11",
+      "venue": "Gunthorpe Village Hall NG14 7EW",
+      "division": "U11 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ravenshead Reds U11",
+      "home_away": "away",
+      "opponent": "Lowdham FC Rossoneri U11"
+    },
+    {
       "id": "7721d2c0d65bc0505955cfaad214f58c",
       "date": "2026-04-26",
       "time": "10:00",
@@ -482,19 +482,6 @@
       "team": "Ravenshead Reds Red Arrows U7",
       "home_away": "away",
       "opponent": "Quarrydale United U7"
-    },
-    {
-      "id": "0b065754bb4599ce5c4995a1fb1bdd06",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Lowdham FC Rossoneri U11",
-      "away_team": "Ravenshead Reds U11",
-      "venue": "Gunthorpe Village Hall NG14 7EW",
-      "division": "U11 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ravenshead Reds U11",
-      "home_away": "away",
-      "opponent": "Lowdham FC Rossoneri U11"
     },
     {
       "id": "cacf8b1d47a7f70c4185c31056bf278c",
@@ -654,6 +641,23 @@
     }
   ],
   "results": [
+    {
+      "id": "766c2dc75b950fae240677a06fbbe4f1",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "City United FC",
+      "away_team": "Ravenshead Reds FC",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead Reds FC",
+      "home_away": "away",
+      "opponent": "City United FC",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "e68470efc4e7910bcb166e2040336624",
       "date": "2026-03-29",

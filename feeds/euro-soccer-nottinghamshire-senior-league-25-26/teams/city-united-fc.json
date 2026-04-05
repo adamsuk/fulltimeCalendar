@@ -1,19 +1,8 @@
 {
   "team": "City United FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
-    {
-      "id": "766c2dc75b950fae240677a06fbbe4f1",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "home_team": "City United FC",
-      "away_team": "Ravenshead Reds FC",
-      "venue": "SOUTH NOTTINGHAMSHIRE ACADEMY",
-      "division": "NSL Division Three",
-      "home_away": "home",
-      "opponent": "Ravenshead Reds FC"
-    },
     {
       "id": "385e9b75d0dd5b06ea77b9198c1ca326",
       "date": "2026-04-18",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "766c2dc75b950fae240677a06fbbe4f1",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "City United FC",
+      "away_team": "Ravenshead Reds FC",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "home",
+      "opponent": "Ravenshead Reds FC",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "687731029dece8bf01d0a7028a42d038",
       "date": "2026-03-28",

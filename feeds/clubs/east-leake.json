@@ -1,6 +1,6 @@
 {
   "club": "East Leake",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
     {
       "id": "29aff3c032b72a5f35c9472f58ae512d",
@@ -14,19 +14,6 @@
       "team": "East Leake FC U9 Bantams Girls Red",
       "home_away": "away",
       "opponent": "West Bridgford Colts U9 Stars"
-    },
-    {
-      "id": "46d63032b890fc8a06c7874acdeb95ac",
-      "date": "2026-04-04",
-      "time": "11:00",
-      "home_team": "Priory Celtic White U14",
-      "away_team": "East Leake Bantams Red U14",
-      "venue": "Kimberley Leisure Centre NG16 2NJ GP1",
-      "division": "U14 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "East Leake Bantams Red U14",
-      "home_away": "away",
-      "opponent": "Priory Celtic White U14"
     },
     {
       "id": "83a99b9c5aacb20d2231ffd35af3b827",
@@ -849,6 +836,23 @@
     }
   ],
   "results": [
+    {
+      "id": "46d63032b890fc8a06c7874acdeb95ac",
+      "date": "2026-04-04",
+      "time": "11:00",
+      "home_team": "Priory Celtic White U14",
+      "away_team": "East Leake Bantams Red U14",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "East Leake Bantams Red U14",
+      "home_away": "away",
+      "opponent": "Priory Celtic White U14",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "7adfc76b76a29c875ac95b955e15db6e",
       "date": "2026-03-29",

@@ -1,6 +1,6 @@
 {
   "club": "Priory Celtic",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
     {
       "id": "b89398c8a163e5aca3c465408118956b",
@@ -14,19 +14,6 @@
       "team": "Priory Celtic Hoops U10",
       "home_away": "home",
       "opponent": "Silva FC Rushcliffe Yellow U10"
-    },
-    {
-      "id": "46d63032b890fc8a06c7874acdeb95ac",
-      "date": "2026-04-04",
-      "time": "11:00",
-      "home_team": "Priory Celtic White U14",
-      "away_team": "East Leake Bantams Red U14",
-      "venue": "Kimberley Leisure Centre NG16 2NJ GP1",
-      "division": "U14 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Priory Celtic White U14",
-      "home_away": "home",
-      "opponent": "East Leake Bantams Red U14"
     },
     {
       "id": "6a187da8f8659ffa603536eb6c052c82",
@@ -209,19 +196,6 @@
       "team": "Priory Celtic FC Ladies First Team",
       "home_away": "away",
       "opponent": "Southwell City FC Ladies"
-    },
-    {
-      "id": "9910999a4cb543d42476e34fdbda5bf9",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "PMG Excel U13",
-      "away_team": "Priory Celtic Hoops U13",
-      "venue": "Bulwell Hall Park NG6 8LF",
-      "division": "U13 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Priory Celtic Hoops U13",
-      "home_away": "away",
-      "opponent": "PMG Excel U13"
     },
     {
       "id": "86fedb750ddbbfbef52173718e2f853f",
@@ -1082,6 +1056,19 @@
       "opponent": "Gedling Southbank White U13"
     },
     {
+      "id": "97678de5caf9af01e56dd74b74cf3bed",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "home_team": "PMG Excel U13",
+      "away_team": "Priory Celtic Hoops U13",
+      "venue": "Bulwell Hall Park NG6 8LF",
+      "division": "U13 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Priory Celtic Hoops U13",
+      "home_away": "away",
+      "opponent": "PMG Excel U13"
+    },
+    {
       "id": "a3101d313fe3f2e6eefdfed9a03a9537",
       "date": "2026-04-28",
       "time": "18:00",
@@ -1252,6 +1239,23 @@
     }
   ],
   "results": [
+    {
+      "id": "46d63032b890fc8a06c7874acdeb95ac",
+      "date": "2026-04-04",
+      "time": "11:00",
+      "home_team": "Priory Celtic White U14",
+      "away_team": "East Leake Bantams Red U14",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Priory Celtic White U14",
+      "home_away": "home",
+      "opponent": "East Leake Bantams Red U14",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "e8335c732b8210461874b2ca2841bdcf",
       "date": "2026-03-29",

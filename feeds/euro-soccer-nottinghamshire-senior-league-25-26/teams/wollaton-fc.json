@@ -1,19 +1,8 @@
 {
   "team": "Wollaton FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
-    {
-      "id": "03891028caa2f228ba8fecec4c034d12",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "home_team": "Wollaton FC",
-      "away_team": "Woodthorpe Park Rangers FC",
-      "venue": "WOLLATON SPORTS ASSOCIATION GROUND",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "home",
-      "opponent": "Woodthorpe Park Rangers FC"
-    },
     {
       "id": "947b30aba76f04adac4c8539644daa6f",
       "date": "2026-04-11",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "03891028caa2f228ba8fecec4c034d12",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "Wollaton FC",
+      "away_team": "Woodthorpe Park Rangers FC",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "home",
+      "opponent": "Woodthorpe Park Rangers FC",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "2dee91f6597fdbed491e2b193f13b592",
       "date": "2026-04-01",

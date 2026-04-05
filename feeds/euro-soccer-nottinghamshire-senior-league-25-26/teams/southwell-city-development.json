@@ -1,19 +1,8 @@
 {
   "team": "Southwell City Development",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
-    {
-      "id": "90e2eda3e82eaae4669cd238b9b88ea9",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "home_team": "Cotgrave Reserves",
-      "away_team": "Southwell City Development",
-      "venue": "COTGRAVE WELFARE CLUB #1",
-      "division": "NSL Division Two",
-      "home_away": "away",
-      "opponent": "Cotgrave Reserves"
-    },
     {
       "id": "cc810706633749ff02779bb22fd7330c",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "90e2eda3e82eaae4669cd238b9b88ea9",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "Cotgrave Reserves",
+      "away_team": "Southwell City Development",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Two",
+      "home_away": "away",
+      "opponent": "Cotgrave Reserves",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "14d77202cb7e37598f8636f8d51c6677",
       "date": "2026-03-28",

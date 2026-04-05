@@ -1,19 +1,8 @@
 {
   "team": "AJ Sport FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
-    {
-      "id": "dbb1e64b5253087d8bf6dcf3cd6ec586",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "home_team": "Collingham Reserves",
-      "away_team": "AJ Sport FC",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "NSL Division Two",
-      "home_away": "away",
-      "opponent": "Collingham Reserves"
-    },
     {
       "id": "f4eddc83e102ef3145d2a49e72432e33",
       "date": "2026-04-11",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "dbb1e64b5253087d8bf6dcf3cd6ec586",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "Collingham Reserves",
+      "away_team": "AJ Sport FC",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "NSL Division Two",
+      "home_away": "away",
+      "opponent": "Collingham Reserves",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "00f5765e7545b1fb19c11df887d018d7",
       "date": "2026-03-28",

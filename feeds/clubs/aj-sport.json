@@ -1,6 +1,6 @@
 {
   "club": "AJ Sport",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
     {
       "id": "6cf2b543cd315c5e29610b0673c1a237",
@@ -14,19 +14,6 @@
       "team": "AJ Sport F.C. Reserves",
       "home_away": "home",
       "opponent": "Pass Move Grin Reserves"
-    },
-    {
-      "id": "dbb1e64b5253087d8bf6dcf3cd6ec586",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "home_team": "Collingham Reserves",
-      "away_team": "AJ Sport FC",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "NSL Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "AJ Sport FC",
-      "home_away": "away",
-      "opponent": "Collingham Reserves"
     },
     {
       "id": "9333f7c3d0f8b92511f04d1fe5688609",
@@ -411,7 +398,7 @@
       "time": "11:00",
       "home_team": "Moorgreen Colts White U13",
       "away_team": "AJ Sport FC U13",
-      "venue": "Birnam Park  NG16 2DE",
+      "venue": "The Dale Club NG16 5HR",
       "division": "U13 Sat Spring Div 4 Blue",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "AJ Sport FC U13",
@@ -602,6 +589,23 @@
     }
   ],
   "results": [
+    {
+      "id": "dbb1e64b5253087d8bf6dcf3cd6ec586",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "Collingham Reserves",
+      "away_team": "AJ Sport FC",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "NSL Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "AJ Sport FC",
+      "home_away": "away",
+      "opponent": "Collingham Reserves",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "961b5ba25f10df3878c3943c8a227841",
       "date": "2026-03-29",

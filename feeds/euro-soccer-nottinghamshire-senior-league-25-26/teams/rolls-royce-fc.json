@@ -1,19 +1,8 @@
 {
   "team": "Rolls Royce FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
-    {
-      "id": "5f83398e0ca911fa2a6cbc90c02c7cdc",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "home_team": "Rolls Royce FC",
-      "away_team": "Awsworth Villa Reserves",
-      "venue": "DERBY LEISURE & EVENTS VENUE DERBY",
-      "division": "NSL Division Three",
-      "home_away": "home",
-      "opponent": "Awsworth Villa Reserves"
-    },
     {
       "id": "e082998e40ae29338323273e20242cc1",
       "date": "2026-04-11",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5f83398e0ca911fa2a6cbc90c02c7cdc",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "Rolls Royce FC",
+      "away_team": "Awsworth Villa Reserves",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "home",
+      "opponent": "Awsworth Villa Reserves",
+      "goals_for": 5,
+      "goals_against": 2
+    },
     {
       "id": "a83ce80bf80c860f025921ec286e016a",
       "date": "2026-03-21",

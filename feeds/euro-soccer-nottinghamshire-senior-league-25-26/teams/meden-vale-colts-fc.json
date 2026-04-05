@@ -1,7 +1,7 @@
 {
   "team": "Meden Vale Colts FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
     {
       "id": "a3b06b7f6324de7da9a2916b941506d7",
@@ -13,17 +13,6 @@
       "division": "NSL Division One",
       "home_away": "away",
       "opponent": "Gedling Southbank FC"
-    },
-    {
-      "id": "d00f10d95699ac4d8795598ed0372756",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "home_team": "AC United FC",
-      "away_team": "Meden Vale Colts FC",
-      "venue": "THE FOREST SPORTS ZONE #1",
-      "division": "NSL Division One",
-      "home_away": "away",
-      "opponent": "AC United FC"
     },
     {
       "id": "399d8eea03004bab6718abab15852080",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d00f10d95699ac4d8795598ed0372756",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "AC United FC",
+      "away_team": "Meden Vale Colts FC",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division One",
+      "home_away": "away",
+      "opponent": "AC United FC",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "3b7696b824cd6c5302687c062fce8d06",
       "date": "2026-03-28",

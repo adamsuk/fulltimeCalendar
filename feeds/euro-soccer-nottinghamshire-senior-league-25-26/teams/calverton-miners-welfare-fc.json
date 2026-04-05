@@ -1,19 +1,8 @@
 {
   "team": "Calverton Miners Welfare FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
-    {
-      "id": "d6e003fcb8a56113b2101153d50fe956",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "home_team": "Radcliffe Olympic FC",
-      "away_team": "Calverton Miners Welfare FC",
-      "venue": "WHARF LANE RECREATION GROUND",
-      "division": "NSL Division One",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic FC"
-    },
     {
       "id": "e0a6679a87931cefe193ba5fdd56837e",
       "date": "2026-04-15",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d6e003fcb8a56113b2101153d50fe956",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "Radcliffe Olympic FC",
+      "away_team": "Calverton Miners Welfare FC",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "NSL Division One",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "b8700a809a26fc59d32c3a95226ff77e",
       "date": "2026-03-25",

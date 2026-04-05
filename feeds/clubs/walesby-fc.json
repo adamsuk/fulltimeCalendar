@@ -1,33 +1,7 @@
 {
   "club": "Walesby FC",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
-    {
-      "id": "4bbeb78a22f39c5f4dffd0b20ee52361",
-      "date": "2026-04-04",
-      "time": "10:30",
-      "home_team": "Walesby F.C. U23s",
-      "away_team": "Stapleford Town FC U23",
-      "venue": "Walesby F.C. Walesby FC U23s",
-      "division": "Development Spring Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Walesby F.C. U23s",
-      "home_away": "home",
-      "opponent": "Stapleford Town FC U23"
-    },
-    {
-      "id": "aaa65c9424ff7a927dc2a51b465b64c4",
-      "date": "2026-04-04",
-      "time": "11:40",
-      "home_team": "Stapleford Town FC U23",
-      "away_team": "Walesby F.C. U23s",
-      "venue": "Walesby F.C. Walesby FC U23s",
-      "division": "Development Spring Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Walesby F.C. U23s",
-      "home_away": "away",
-      "opponent": "Stapleford Town FC U23"
-    },
     {
       "id": "7f8f156fe801373111b1a6c2e2e30689",
       "date": "2026-04-11",
@@ -108,6 +82,40 @@
     }
   ],
   "results": [
+    {
+      "id": "aaa65c9424ff7a927dc2a51b465b64c4",
+      "date": "2026-04-04",
+      "time": "11:40",
+      "home_team": "Stapleford Town FC U23",
+      "away_team": "Walesby F.C. U23s",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Walesby F.C. U23s",
+      "home_away": "away",
+      "opponent": "Stapleford Town FC U23",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "4bbeb78a22f39c5f4dffd0b20ee52361",
+      "date": "2026-04-04",
+      "time": "10:30",
+      "home_team": "Walesby F.C. U23s",
+      "away_team": "Stapleford Town FC U23",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Walesby F.C. U23s",
+      "home_away": "home",
+      "opponent": "Stapleford Town FC U23",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "423e16e1ebf879582d258cd9b67585e5",
       "date": "2026-03-28",

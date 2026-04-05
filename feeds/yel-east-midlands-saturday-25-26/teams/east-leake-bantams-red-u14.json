@@ -1,19 +1,8 @@
 {
   "team": "East Leake Bantams Red U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
-    {
-      "id": "46d63032b890fc8a06c7874acdeb95ac",
-      "date": "2026-04-04",
-      "time": "11:00",
-      "home_team": "Priory Celtic White U14",
-      "away_team": "East Leake Bantams Red U14",
-      "venue": "Kimberley Leisure Centre NG16 2NJ GP1",
-      "division": "U14 Sat Spring Div 4 Blue",
-      "home_away": "away",
-      "opponent": "Priory Celtic White U14"
-    },
     {
       "id": "5ab4ce07f41a35cbf3a56008e339c531",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "46d63032b890fc8a06c7874acdeb95ac",
+      "date": "2026-04-04",
+      "time": "11:00",
+      "home_team": "Priory Celtic White U14",
+      "away_team": "East Leake Bantams Red U14",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Sat Spring Div 4 Blue",
+      "home_away": "away",
+      "opponent": "Priory Celtic White U14",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "2e30098665eb2d5616c42c99835a9f36",
       "date": "2026-03-28",

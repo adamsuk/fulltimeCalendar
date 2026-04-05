@@ -1,19 +1,8 @@
 {
   "team": "Linby Colliery Welfare Development",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
-    {
-      "id": "1cb7f5ec11507ae4cda647d438bb538e",
-      "date": "2026-04-04",
-      "time": "10:30",
-      "home_team": "Linby Colliery Welfare Development",
-      "away_team": "AFC Warriors Development",
-      "venue": "LINBY COLLIERY WELFARE FC",
-      "division": "NSL Development Cup",
-      "home_away": "home",
-      "opponent": "AFC Warriors Development"
-    },
     {
       "id": "0797b4431d5c663de67f5b1b97212356",
       "date": "2026-04-11",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "1cb7f5ec11507ae4cda647d438bb538e",
+      "date": "2026-04-04",
+      "time": "10:30",
+      "home_team": "Linby Colliery Welfare Development",
+      "away_team": "AFC Warriors Development",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Development Cup",
+      "home_away": "home",
+      "opponent": "AFC Warriors Development",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "8e2aa979e817f20192bcae0ca6f05d05",
       "date": "2026-04-01",

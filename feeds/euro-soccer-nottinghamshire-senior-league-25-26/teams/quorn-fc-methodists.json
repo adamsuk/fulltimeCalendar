@@ -1,30 +1,8 @@
 {
   "team": "Quorn FC Methodists",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
-    {
-      "id": "8ee8bf612a9850ce6267d13eab3a1563",
-      "date": "2026-04-04",
-      "time": "10:15",
-      "home_team": "Quorn FC Methodists",
-      "away_team": "Bingham Town F.C. Development",
-      "venue": "FARLEY WAY STADIUM",
-      "division": "Development Spring Division One",
-      "home_away": "home",
-      "opponent": "Bingham Town F.C. Development"
-    },
-    {
-      "id": "d069c402a2a50571254daa792b29d4ad",
-      "date": "2026-04-04",
-      "time": "11:30",
-      "home_team": "Bingham Town F.C. Development",
-      "away_team": "Quorn FC Methodists",
-      "venue": "FARLEY WAY STADIUM",
-      "division": "Development Spring Division One",
-      "home_away": "away",
-      "opponent": "Bingham Town F.C. Development"
-    },
     {
       "id": "0ec6257b0d55511445d0bb6594fe426f",
       "date": "2026-04-11",
@@ -115,6 +93,36 @@
     }
   ],
   "results": [
+    {
+      "id": "d069c402a2a50571254daa792b29d4ad",
+      "date": "2026-04-04",
+      "time": "11:30",
+      "home_team": "Bingham Town F.C. Development",
+      "away_team": "Quorn FC Methodists",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "away",
+      "opponent": "Bingham Town F.C. Development",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "8ee8bf612a9850ce6267d13eab3a1563",
+      "date": "2026-04-04",
+      "time": "10:15",
+      "home_team": "Quorn FC Methodists",
+      "away_team": "Bingham Town F.C. Development",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "home",
+      "opponent": "Bingham Town F.C. Development",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "8a5d554fb2549cecb7359e1fbc157aef",
       "date": "2026-03-28",

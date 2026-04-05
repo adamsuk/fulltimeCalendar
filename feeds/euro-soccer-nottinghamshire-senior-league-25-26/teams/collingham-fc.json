@@ -1,19 +1,8 @@
 {
   "team": "Collingham FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
-    {
-      "id": "92c06819b43b6630525ef676dd1c5e7c",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "home_team": "Keyworth United FC",
-      "away_team": "Collingham FC",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Keyworth United FC"
-    },
     {
       "id": "0dffaf17bf0f3bb4f3a27cdc728a655f",
       "date": "2026-04-11",
@@ -104,6 +93,21 @@
     }
   ],
   "results": [
+    {
+      "id": "92c06819b43b6630525ef676dd1c5e7c",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "Keyworth United FC",
+      "away_team": "Collingham FC",
+      "home_score": 6,
+      "away_score": 2,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Keyworth United FC",
+      "goals_for": 2,
+      "goals_against": 6
+    },
     {
       "id": "a45f1fc09b14b5bd7ea7b938e37e0979",
       "date": "2026-03-31",

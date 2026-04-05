@@ -1,19 +1,8 @@
 {
   "team": "Cotgrave FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
-    {
-      "id": "9b8f23aeab3987005eb4bc1daa3a2c9e",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "home_team": "Beeston FC",
-      "away_team": "Cotgrave FC",
-      "venue": "Trent Vale Road Sports Ground",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Beeston FC"
-    },
     {
       "id": "947b30aba76f04adac4c8539644daa6f",
       "date": "2026-04-11",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "9b8f23aeab3987005eb4bc1daa3a2c9e",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "Beeston FC",
+      "away_team": "Cotgrave FC",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Beeston FC",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "a45f1fc09b14b5bd7ea7b938e37e0979",
       "date": "2026-03-31",

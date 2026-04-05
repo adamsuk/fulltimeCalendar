@@ -1,19 +1,8 @@
 {
   "team": "Attenborough FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
-    {
-      "id": "6bca146d004ae0f1c29e4004c52d0be4",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "home_team": "Attenborough FC",
-      "away_team": "Notts City Rangers FC",
-      "venue": "ATTENBOROUGH CRICKET CLUB",
-      "division": "NSL Division Three",
-      "home_away": "home",
-      "opponent": "Notts City Rangers FC"
-    },
     {
       "id": "b73421a723e2112a6dd871950c659eae",
       "date": "2026-04-11",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6bca146d004ae0f1c29e4004c52d0be4",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "Attenborough FC",
+      "away_team": "Notts City Rangers FC",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "home",
+      "opponent": "Notts City Rangers FC",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "687731029dece8bf01d0a7028a42d038",
       "date": "2026-03-28",

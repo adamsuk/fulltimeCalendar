@@ -1,19 +1,8 @@
 {
   "team": "AC United FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
-    {
-      "id": "d00f10d95699ac4d8795598ed0372756",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "home_team": "AC United FC",
-      "away_team": "Meden Vale Colts FC",
-      "venue": "THE FOREST SPORTS ZONE #1",
-      "division": "NSL Division One",
-      "home_away": "home",
-      "opponent": "Meden Vale Colts FC"
-    },
     {
       "id": "fe4e9d74977acb2ac86fb18b1ab1acd0",
       "date": "2026-04-11",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d00f10d95699ac4d8795598ed0372756",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "AC United FC",
+      "away_team": "Meden Vale Colts FC",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division One",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts FC",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "ed5ee293dfc43858c07c3014d1c29fef",
       "date": "2026-03-28",

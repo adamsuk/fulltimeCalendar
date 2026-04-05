@@ -1,6 +1,6 @@
 {
   "club": "Collingham FC",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
     {
       "id": "60e4749a0efea129c9fec404c9e45e5e",
@@ -14,45 +14,6 @@
       "team": "Collingham FC Development",
       "home_away": "away",
       "opponent": "West Bridgford Development"
-    },
-    {
-      "id": "5b55e2c03885dbf24a148860e3b1d52b",
-      "date": "2026-04-04",
-      "time": "10:30",
-      "home_team": "Calverton Miners Welfare U23",
-      "away_team": "Collingham FC Development",
-      "venue": "Hollinwood Lane 2",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Collingham FC Development",
-      "home_away": "away",
-      "opponent": "Calverton Miners Welfare U23"
-    },
-    {
-      "id": "8773818971cd1c43aa42e262768aed6b",
-      "date": "2026-04-04",
-      "time": "11:40",
-      "home_team": "Collingham FC Development",
-      "away_team": "Calverton Miners Welfare U23",
-      "venue": "Hollinwood Lane 2",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Collingham FC Development",
-      "home_away": "home",
-      "opponent": "Calverton Miners Welfare U23"
-    },
-    {
-      "id": "92c06819b43b6630525ef676dd1c5e7c",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "home_team": "Keyworth United FC",
-      "away_team": "Collingham FC",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Collingham FC",
-      "home_away": "away",
-      "opponent": "Keyworth United FC"
     },
     {
       "id": "c833fae1cf2449e12d68c169a3ed073a",
@@ -849,6 +810,57 @@
     }
   ],
   "results": [
+    {
+      "id": "92c06819b43b6630525ef676dd1c5e7c",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "Keyworth United FC",
+      "away_team": "Collingham FC",
+      "home_score": 6,
+      "away_score": 2,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Collingham FC",
+      "home_away": "away",
+      "opponent": "Keyworth United FC",
+      "goals_for": 2,
+      "goals_against": 6
+    },
+    {
+      "id": "8773818971cd1c43aa42e262768aed6b",
+      "date": "2026-04-04",
+      "time": "11:40",
+      "home_team": "Collingham FC Development",
+      "away_team": "Calverton Miners Welfare U23",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Collingham FC Development",
+      "home_away": "home",
+      "opponent": "Calverton Miners Welfare U23",
+      "goals_for": 6,
+      "goals_against": 0
+    },
+    {
+      "id": "5b55e2c03885dbf24a148860e3b1d52b",
+      "date": "2026-04-04",
+      "time": "10:30",
+      "home_team": "Calverton Miners Welfare U23",
+      "away_team": "Collingham FC Development",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Collingham FC Development",
+      "home_away": "away",
+      "opponent": "Calverton Miners Welfare U23",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "a45f1fc09b14b5bd7ea7b938e37e0979",
       "date": "2026-03-31",

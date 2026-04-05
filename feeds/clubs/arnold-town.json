@@ -1,6 +1,6 @@
 {
   "club": "Arnold Town",
-  "generated": "2026-04-04T06:46:24Z",
+  "generated": "2026-04-05T06:56:24Z",
   "fixtures": [
     {
       "id": "adaa5163215a06f0f52116c9a7138bbd",
@@ -27,19 +27,6 @@
       "team": "Arnold Town FC Development",
       "home_away": "away",
       "opponent": "Beaufort United F.C. Development"
-    },
-    {
-      "id": "18f1bef4933f954aba94382957ef85f0",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "home_team": "Kimberley Miners Welfare Reserves",
-      "away_team": "Arnold Town FC",
-      "venue": "STAG RECREATION GROUND",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Arnold Town FC",
-      "home_away": "away",
-      "opponent": "Kimberley Miners Welfare Reserves"
     },
     {
       "id": "1ac6826e29f45fecdaa22f2b7f5bc933",
@@ -966,6 +953,23 @@
     }
   ],
   "results": [
+    {
+      "id": "18f1bef4933f954aba94382957ef85f0",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "Kimberley Miners Welfare Reserves",
+      "away_team": "Arnold Town FC",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Arnold Town FC",
+      "home_away": "away",
+      "opponent": "Kimberley Miners Welfare Reserves",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "40c81d1c3bad58c0f16f8e276f8e697a",
       "date": "2026-04-01",
