@@ -1,19 +1,8 @@
 {
   "team": "Priory Celtic F.C. U14 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-05T06:56:24Z",
+  "generated": "2026-04-06T07:18:55Z",
   "fixtures": [
-    {
-      "id": "6a187da8f8659ffa603536eb6c052c82",
-      "date": "2026-04-05",
-      "time": "10:00",
-      "home_team": "Priory Celtic F.C. U14 Girls",
-      "away_team": "Gedling Southbank FC U14 Warriors",
-      "venue": "THE KIMBERLEY SCHOOL",
-      "division": "U14 Div 3",
-      "home_away": "home",
-      "opponent": "Gedling Southbank FC U14 Warriors"
-    },
     {
       "id": "e523186d1b207a22ec7a6d292d60c5fd",
       "date": "2026-04-12",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6a187da8f8659ffa603536eb6c052c82",
+      "date": "2026-04-05",
+      "time": "10:00",
+      "home_team": "Priory Celtic F.C. U14 Girls",
+      "away_team": "Gedling Southbank FC U14 Warriors",
+      "home_score": 1,
+      "away_score": 8,
+      "venue": "",
+      "division": "U14 Div 3",
+      "home_away": "home",
+      "opponent": "Gedling Southbank FC U14 Warriors",
+      "goals_for": 1,
+      "goals_against": 8
+    },
     {
       "id": "8c3a0f7a4c12ada74dd72068d0cd3c8a",
       "date": "2026-03-22",

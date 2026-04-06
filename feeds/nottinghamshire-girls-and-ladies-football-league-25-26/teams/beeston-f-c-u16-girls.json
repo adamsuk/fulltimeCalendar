@@ -1,19 +1,8 @@
 {
   "team": "Beeston F.C. U16 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-05T06:56:24Z",
+  "generated": "2026-04-06T07:18:55Z",
   "fixtures": [
-    {
-      "id": "6bec2ad580da23c3be8597a892d0cf24",
-      "date": "2026-04-05",
-      "time": "10:00",
-      "home_team": "Pelican Colts F.C. Youth U16 girls",
-      "away_team": "Beeston F.C. U16 Girls",
-      "venue": "DAVE EASTWOOD SPORTS GROUND",
-      "division": "U16 Div 3",
-      "home_away": "away",
-      "opponent": "Pelican Colts F.C. Youth U16 girls"
-    },
     {
       "id": "5810dc872352bb9de4f390e591c68689",
       "date": "2026-04-12",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6bec2ad580da23c3be8597a892d0cf24",
+      "date": "2026-04-05",
+      "time": "10:00",
+      "home_team": "Pelican Colts F.C. Youth U16 girls",
+      "away_team": "Beeston F.C. U16 Girls",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "U16 Div 3",
+      "home_away": "away",
+      "opponent": "Pelican Colts F.C. Youth U16 girls",
+      "goals_for": 1,
+      "goals_against": 6
+    },
     {
       "id": "69e4c812da6a04a73bcc9db74bafa7a0",
       "date": "2026-03-01",

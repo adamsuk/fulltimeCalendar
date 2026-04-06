@@ -1,6 +1,6 @@
 {
   "club": "Arnold Town",
-  "generated": "2026-04-05T06:56:24Z",
+  "generated": "2026-04-06T07:18:55Z",
   "fixtures": [
     {
       "id": "adaa5163215a06f0f52116c9a7138bbd",
@@ -14,32 +14,6 @@
       "team": "Arnold Town FC U9 Girls Maroon",
       "home_away": "home",
       "opponent": "Hucknall Sports F.C. Youth U9 Wildcats"
-    },
-    {
-      "id": "5c0279a3b66a610ef3e21b93c27ca934",
-      "date": "2026-04-04",
-      "time": "10:30",
-      "home_team": "Beaufort United F.C. Development",
-      "away_team": "Arnold Town FC Development",
-      "venue": "Unwin Road",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Arnold Town FC Development",
-      "home_away": "away",
-      "opponent": "Beaufort United F.C. Development"
-    },
-    {
-      "id": "1ac6826e29f45fecdaa22f2b7f5bc933",
-      "date": "2026-04-05",
-      "time": "10:00",
-      "home_team": "Arnold Town FC U9 Girls Maroon",
-      "away_team": "Gedling Southbank FC U9 Tigers",
-      "venue": "EAGLE VALLEY",
-      "division": "U9 Development",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Arnold Town FC U9 Girls Maroon",
-      "home_away": "home",
-      "opponent": "Gedling Southbank FC U9 Tigers"
     },
     {
       "id": "84c00910af7889df3659525a50e3902a",
@@ -954,6 +928,23 @@
   ],
   "results": [
     {
+      "id": "1ac6826e29f45fecdaa22f2b7f5bc933",
+      "date": "2026-04-05",
+      "time": "10:00",
+      "home_team": "Arnold Town FC U9 Girls Maroon",
+      "away_team": "Gedling Southbank FC U9 Tigers",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Arnold Town FC U9 Girls Maroon",
+      "home_away": "home",
+      "opponent": "Gedling Southbank FC U9 Tigers",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "18f1bef4933f954aba94382957ef85f0",
       "date": "2026-04-04",
       "time": "15:00",
@@ -969,6 +960,23 @@
       "opponent": "Kimberley Miners Welfare Reserves",
       "goals_for": 1,
       "goals_against": 2
+    },
+    {
+      "id": "5c0279a3b66a610ef3e21b93c27ca934",
+      "date": "2026-04-04",
+      "time": "10:30",
+      "home_team": "Beaufort United F.C. Development",
+      "away_team": "Arnold Town FC Development",
+      "home_score": 5,
+      "away_score": 4,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Arnold Town FC Development",
+      "home_away": "away",
+      "opponent": "Beaufort United F.C. Development",
+      "goals_for": 4,
+      "goals_against": 5
     },
     {
       "id": "40c81d1c3bad58c0f16f8e276f8e697a",

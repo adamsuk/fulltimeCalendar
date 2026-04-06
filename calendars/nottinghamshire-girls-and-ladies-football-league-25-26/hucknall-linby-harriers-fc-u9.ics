@@ -8,11 +8,20 @@ X-WR-CALDESC:Fixtures for Hucknall & Linby Harriers FC U9 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:16cfbdab779c1aeee995cb99e433a008@yel-calendar
-DTSTAMP:20260405T065717Z
+DTSTAMP:20260406T071942Z
 DTSTART;TZID=Europe/London:20260412T100000
 DTEND;TZID=Europe/London:20260412T110000
 SUMMARY:⚽ Hucknall & Linby Harriers FC U9 vs Ravenshead Reds F.C. Youth U9 (Away)
 DESCRIPTION:Division: U9 Development\nRavenshead Reds F.C. Youth U9 v Hucknall & Linby Harriers FC U9\nKO: 10:00
 LOCATION:Ravenshead Reds F.C. Youth U9 (SUN )GIRL
+END:VEVENT
+BEGIN:VEVENT
+UID:c31ba664ed5f991aeb8b202c4e9b5ae8@yel-calendar
+DTSTAMP:20260406T071942Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T110000
+SUMMARY:⚽ Hucknall & Linby Harriers FC U9 vs Shirebrook Rangers & Juniors U9 Girls (Away)
+DESCRIPTION:Division: Other Fixtures\nShirebrook Rangers & Juniors U9 Girls v Hucknall & Linby Harriers FC U9\nKO: 10:00
+LOCATION:SHIREBROOK ACADEMY
 END:VEVENT
 END:VCALENDAR

@@ -1,6 +1,6 @@
 {
   "club": "West Bridgford",
-  "generated": "2026-04-05T06:56:24Z",
+  "generated": "2026-04-06T07:18:55Z",
   "fixtures": [
     {
       "id": "3c2f4d185182fa444977a45747ad1f51",
@@ -107,19 +107,6 @@
       "opponent": "West Bridgford Colts U10 Moon"
     },
     {
-      "id": "376364aa645c7f1af82fae582363e088",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Asfordby Amateurs LG&I U13 Diamonds",
-      "away_team": "West Bridgford Colts U13 Leopards",
-      "venue": "JOHN FERNELEY COLLEGE",
-      "division": "U13 Div 2 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "West Bridgford Colts U13 Leopards",
-      "home_away": "away",
-      "opponent": "Asfordby Amateurs LG&I U13 Diamonds"
-    },
-    {
       "id": "57599c78aee38dde957fe78a6c9d0e2b",
       "date": "2026-04-12",
       "time": "10:00",
@@ -157,6 +144,19 @@
       "team": "West Bridgford Colts U15 Lionesses",
       "home_away": "away",
       "opponent": "Arnold Eagles F.C. Girls U15 Fire"
+    },
+    {
+      "id": "5341d951a8e8e9a9f3a61d6371ebfed0",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "West Bridgford Colts U16 Vipers",
+      "away_team": "Meden Vale Colts F.C. U16 Girls",
+      "venue": "REGATTA WAY SPORTS GROUND",
+      "division": "U16 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "West Bridgford Colts U16 Vipers",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts F.C. U16 Girls"
     },
     {
       "id": "f8921feb02ed34290bb3fb8ff5a31d2a",
@@ -250,19 +250,6 @@
       "opponent": "Arnold Town FC U9 Girls Maroon"
     },
     {
-      "id": "5341d951a8e8e9a9f3a61d6371ebfed0",
-      "date": "2026-04-12",
-      "time": "10:30",
-      "home_team": "West Bridgford Colts U16 Vipers",
-      "away_team": "Meden Vale Colts F.C. U16 Girls",
-      "venue": "GRESHAM SPORTS PARK",
-      "division": "U16 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "West Bridgford Colts U16 Vipers",
-      "home_away": "home",
-      "opponent": "Meden Vale Colts F.C. U16 Girls"
-    },
-    {
       "id": "533b60b4e6368d0aabe27b6f4b18bf30",
       "date": "2026-04-12",
       "time": "12:15",
@@ -274,6 +261,19 @@
       "team": "West Bridgford Colts U14 Pacific",
       "home_away": "home",
       "opponent": "Hucknall & Linby Harriers FC U14"
+    },
+    {
+      "id": "376364aa645c7f1af82fae582363e088",
+      "date": "2026-04-12",
+      "time": "12:30",
+      "home_team": "Asfordby Amateurs LG&I U13 Diamonds",
+      "away_team": "West Bridgford Colts U13 Leopards",
+      "venue": "LONG FIELD ACADEMY",
+      "division": "U13 Div 2 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "West Bridgford Colts U13 Leopards",
+      "home_away": "away",
+      "opponent": "Asfordby Amateurs LG&I U13 Diamonds"
     },
     {
       "id": "2dd6b8d8b51e8d7f4b060bdb7b3dc224",
@@ -471,19 +471,6 @@
       "opponent": "Priory Celtic F.C. U14 Lionesses"
     },
     {
-      "id": "a31baca9793ff9b9db4e66b94ac8cd64",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "West Bridgford Colts U16 Vipers",
-      "away_team": "Gedling Southbank FC U16 Dynamos",
-      "venue": "REGATTA WAY SPORTS GROUND",
-      "division": "U16 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "West Bridgford Colts U16 Vipers",
-      "home_away": "home",
-      "opponent": "Gedling Southbank FC U16 Dynamos"
-    },
-    {
       "id": "496c57fd52bcdecddddebcd536f98469",
       "date": "2026-05-03",
       "time": "10:30",
@@ -495,6 +482,19 @@
       "team": "West Bridgford Colts U13 Tigers",
       "home_away": "home",
       "opponent": "Woodhouse Colts F.C. U13 Athena"
+    },
+    {
+      "id": "a31baca9793ff9b9db4e66b94ac8cd64",
+      "date": "2026-05-03",
+      "time": "10:30",
+      "home_team": "West Bridgford Colts U16 Vipers",
+      "away_team": "Gedling Southbank FC U16 Dynamos",
+      "venue": "GRESHAM SPORTS PARK",
+      "division": "U16 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "West Bridgford Colts U16 Vipers",
+      "home_away": "home",
+      "opponent": "Gedling Southbank FC U16 Dynamos"
     },
     {
       "id": "6a157db23698db868273de136dba1e3d",
@@ -634,16 +634,16 @@
       "time": "10:30",
       "home_team": "West Bridgford Development",
       "away_team": "Cotgrave Development",
-      "home_score": 2,
-      "away_score": 5,
+      "home_score": 5,
+      "away_score": 2,
       "venue": "",
       "division": "Development Spring Division One",
       "league": "Euro Soccer Nottinghamshire Senior League 25/26",
       "team": "West Bridgford Development",
       "home_away": "home",
       "opponent": "Cotgrave Development",
-      "goals_for": 2,
-      "goals_against": 5
+      "goals_for": 5,
+      "goals_against": 2
     },
     {
       "id": "06c209e900c9a2b1ca8b4ead8d8a7ba2",

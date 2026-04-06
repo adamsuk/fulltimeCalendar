@@ -1,20 +1,7 @@
 {
   "club": "Riverside Junior",
-  "generated": "2026-04-05T06:56:24Z",
+  "generated": "2026-04-06T07:18:55Z",
   "fixtures": [
-    {
-      "id": "beb426c89542b01769df62d5563e202b",
-      "date": "2026-04-05",
-      "time": "10:00",
-      "home_team": "Gedling Southbank FC U13 Rockets",
-      "away_team": "Riverside Junior U13 Sapphires",
-      "venue": "THE TREVOR CARTER PAVILION",
-      "division": "U13 Div 3 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Riverside Junior U13 Sapphires",
-      "home_away": "away",
-      "opponent": "Gedling Southbank FC U13 Rockets"
-    },
     {
       "id": "c8ba237f6d74442b12a9c114fdb935f7",
       "date": "2026-04-12",
@@ -225,6 +212,23 @@
     }
   ],
   "results": [
+    {
+      "id": "beb426c89542b01769df62d5563e202b",
+      "date": "2026-04-05",
+      "time": "10:00",
+      "home_team": "Gedling Southbank FC U13 Rockets",
+      "away_team": "Riverside Junior U13 Sapphires",
+      "home_score": 8,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Div 3 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Riverside Junior U13 Sapphires",
+      "home_away": "away",
+      "opponent": "Gedling Southbank FC U13 Rockets",
+      "goals_for": 1,
+      "goals_against": 8
+    },
     {
       "id": "282c34cd59c3d42e3eccbd2a8030bac4",
       "date": "2026-03-22",
