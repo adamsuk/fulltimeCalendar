@@ -1,7 +1,20 @@
 {
   "club": "Beeston FC",
-  "generated": "2026-04-06T07:18:55Z",
+  "generated": "2026-04-07T07:04:29Z",
   "fixtures": [
+    {
+      "id": "a9583835ee6b72ee9b3c3b88939aba4b",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Beeston F.C. U14 Girls",
+      "away_team": "Bottesford U14 Girls",
+      "venue": "TRENT VALE SPORTS ASSOCIATION",
+      "division": "U14 Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Beeston F.C. U14 Girls",
+      "home_away": "home",
+      "opponent": "Bottesford U14 Girls"
+    },
     {
       "id": "71cbfd8408f66bb2946e77a98beb2987",
       "date": "2026-04-07",
@@ -92,19 +105,6 @@
       "team": "Beeston F.C. U16 Girls",
       "home_away": "away",
       "opponent": "Heanor Town Juniors U16 Tornados"
-    },
-    {
-      "id": "58fcb4717894d939a53227c0fac8c930",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Keyworth United FC Development",
-      "away_team": "Beeston FC Women",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "Senior Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Beeston FC Women",
-      "home_away": "away",
-      "opponent": "Keyworth United FC Development"
     },
     {
       "id": "b70db2d88d35ad16d439c63f6db35653",
@@ -222,6 +222,19 @@
       "team": "Beeston FC U14",
       "home_away": "away",
       "opponent": "Rainworth MW U14"
+    },
+    {
+      "id": "6e3159b0adaeea77de232cd4c50ccdbd",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Mansfield Town F.C. Girls U14",
+      "away_team": "Beeston F.C. U14 Girls",
+      "venue": "RH ACADEMY",
+      "division": "U14 Div 1 League Cup",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Beeston F.C. U14 Girls",
+      "home_away": "away",
+      "opponent": "Mansfield Town F.C. Girls U14"
     },
     {
       "id": "2e4681ab5cc8f2fce03d6e0e75dcedf6",
@@ -536,17 +549,17 @@
       "opponent": "Southwell City FC U15 Girls"
     },
     {
-      "id": "a407bdc0426794fc6aee52744074c4d7",
+      "id": "7ac47dc06410504a756920e99443f66e",
       "date": "2026-05-03",
-      "time": "14:00",
-      "home_team": "Beeston FC Women",
-      "away_team": "Ravenshead Reds FC",
-      "venue": "TRENT VALE SPORTS ASSOCIATION",
+      "time": "10:00",
+      "home_team": "Keyworth United FC Development",
+      "away_team": "Beeston FC Women",
+      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
       "division": "Senior Div 4",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Beeston FC Women",
-      "home_away": "home",
-      "opponent": "Ravenshead Reds FC"
+      "home_away": "away",
+      "opponent": "Keyworth United FC Development"
     },
     {
       "id": "2056e9e550d574e5b60a9fb7182211a8",
@@ -599,6 +612,19 @@
       "team": "Beeston F.C. U16 Girls",
       "home_away": "away",
       "opponent": "Clifton All Whites U16 Girls"
+    },
+    {
+      "id": "18f7316c710e1d8cc7133d1b34703871",
+      "date": "2026-05-10",
+      "time": "14:00",
+      "home_team": "Beeston FC Women",
+      "away_team": "Ravenshead Reds FC",
+      "venue": "TRENT VALE SPORTS ASSOCIATION",
+      "division": "Senior Div 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Beeston FC Women",
+      "home_away": "home",
+      "opponent": "Ravenshead Reds FC"
     }
   ],
   "results": [

@@ -1,8 +1,75 @@
 {
   "team": "Bingham Town F.C. U12 Girls Red",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-06T07:18:55Z",
-  "fixtures": [],
+  "generated": "2026-04-07T07:04:29Z",
+  "fixtures": [
+    {
+      "id": "24e028702c630c2413d1f74093a0f16e",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Burton Joyce F.C. Girls U12 Outlaws",
+      "away_team": "Bingham Town F.C. U12 Girls Red",
+      "venue": "POPLARS SPORTS GROUND",
+      "division": "U12 Div 3 P2",
+      "home_away": "away",
+      "opponent": "Burton Joyce F.C. Girls U12 Outlaws"
+    },
+    {
+      "id": "bd1bc99fa89e93934fb00498ca4f6d81",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Bingham Town F.C. U12 Girls Red",
+      "away_team": "Hucknall & Linby Harriers FC U12 Jets",
+      "venue": "BUTT FIELD SPORTS CLUB",
+      "division": "U12 Div 3 P2",
+      "home_away": "home",
+      "opponent": "Hucknall & Linby Harriers FC U12 Jets"
+    },
+    {
+      "id": "3edfa2f9ad68de9b99118f5741ad9b5f",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Bingham Town F.C. U12 Girls Red",
+      "away_team": "ATFA Brinsley FC U12",
+      "venue": "BUTT FIELD SPORTS CLUB",
+      "division": "U12 Div 3 P2",
+      "home_away": "home",
+      "opponent": "ATFA Brinsley FC U12"
+    },
+    {
+      "id": "1958f4ca2580406d60fc111694eea0b0",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "West Bridgford Colts U12 Lightning",
+      "away_team": "Bingham Town F.C. U12 Girls Red",
+      "venue": "REGATTA WAY SPORTS GROUND",
+      "division": "U12 Div 3 P2",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U12 Lightning"
+    },
+    {
+      "id": "16cca729c504462546f4e2183f425db2",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Bingham Town F.C. U12 Girls Red",
+      "away_team": "Newark Town FC U12 Girls",
+      "venue": "BUTT FIELD SPORTS CLUB",
+      "division": "U12 Div 3 P2",
+      "home_away": "home",
+      "opponent": "Newark Town FC U12 Girls"
+    },
+    {
+      "id": "626a4fdf3993b7ba547ca1e18bd82b02",
+      "date": "2026-05-17",
+      "time": "10:00",
+      "home_team": "Blidworth Bengals F.C. U12",
+      "away_team": "Bingham Town F.C. U12 Girls Red",
+      "venue": "BILSTHORPE SPORTS GROUND",
+      "division": "U12 Div 3 P2",
+      "home_away": "away",
+      "opponent": "Blidworth Bengals F.C. U12"
+    }
+  ],
   "results": [
     {
       "id": "3e04b43c07b3563a90ed6998e3c07a0d",
@@ -37,13 +104,13 @@
     {
       "id": "8fbdf5e48cd978c78433cd2288f4550d",
       "date": "2026-03-01",
-      "time": "11:30",
+      "time": "10:00",
       "home_team": "Bingham Town F.C. U12 Girls Red",
       "away_team": "West Bridgford Colts U12 Flames",
       "home_score": 7,
       "away_score": 1,
       "venue": "",
-      "division": "Other Fixtures",
+      "division": "U12 Div 3 P2",
       "home_away": "home",
       "opponent": "West Bridgford Colts U12 Flames",
       "goals_for": 7,

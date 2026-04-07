@@ -1,6 +1,6 @@
 {
   "club": "Priory Celtic",
-  "generated": "2026-04-06T07:18:55Z",
+  "generated": "2026-04-07T07:04:29Z",
   "fixtures": [
     {
       "id": "b89398c8a163e5aca3c465408118956b",
@@ -172,19 +172,6 @@
       "opponent": "Southwell City FC U13 All Whites"
     },
     {
-      "id": "14d7e800c9958d5b53d9bc1119623e43",
-      "date": "2026-04-12",
-      "time": "14:00",
-      "home_team": "Southwell City FC Ladies",
-      "away_team": "Priory Celtic FC Ladies First Team",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "Seniors Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Priory Celtic FC Ladies First Team",
-      "home_away": "away",
-      "opponent": "Southwell City FC Ladies"
-    },
-    {
       "id": "86fedb750ddbbfbef52173718e2f853f",
       "date": "2026-04-14",
       "time": "18:00",
@@ -261,6 +248,19 @@
       "team": "Priory Celtic Green U10",
       "home_away": "away",
       "opponent": "Silva FC Brunts U10"
+    },
+    {
+      "id": "8f48b85e6f2039afa19f8871aef19bc2",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Priory Celtic Green U13",
+      "away_team": "Cotgrave FC Claret U13",
+      "venue": "Kimberley Leisure Centre NG16 2NJ GP1",
+      "division": "U13 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Priory Celtic Green U13",
+      "home_away": "home",
+      "opponent": "Cotgrave FC Claret U13"
     },
     {
       "id": "5882ebb6c9fb0a43695c28baa68173be",
@@ -354,32 +354,6 @@
       "opponent": "Hemington Hammers Hammerheads U7"
     },
     {
-      "id": "d91507ef0feff8a26c7d76d622863f62",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Priory Celtic White U8",
-      "away_team": "WBYFC Crusaders Black U8",
-      "venue": "Kimberley Leisure Centre NG16 2NJ 3G 5v5 Pitch (A)",
-      "division": "U8 Sat Spring 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Priory Celtic White U8",
-      "home_away": "home",
-      "opponent": "WBYFC Crusaders Black U8"
-    },
-    {
-      "id": "8f48b85e6f2039afa19f8871aef19bc2",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Priory Celtic Green U13",
-      "away_team": "Cotgrave FC Claret U13",
-      "venue": "Kimberley Leisure Centre NG16 2NJ GP1",
-      "division": "U13 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Priory Celtic Green U13",
-      "home_away": "home",
-      "opponent": "Cotgrave FC Claret U13"
-    },
-    {
       "id": "7843d0c805e36313c384dbc74750489b",
       "date": "2026-04-18",
       "time": "11:00",
@@ -430,6 +404,19 @@
       "team": "Priory Celtic White U14",
       "home_away": "home",
       "opponent": "Newark Town Titans U14"
+    },
+    {
+      "id": "d91507ef0feff8a26c7d76d622863f62",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Priory Celtic White U8",
+      "away_team": "WBYFC Crusaders Black U8",
+      "venue": "Kimberley Leisure Centre NG16 2NJ 3G 5v5 Pitch (A)",
+      "division": "U8 Sat Spring 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Priory Celtic White U8",
+      "home_away": "home",
+      "opponent": "WBYFC Crusaders Black U8"
     },
     {
       "id": "5fdc9d45151f01a52710bf89d829b11f",
@@ -586,6 +573,19 @@
       "team": "Priory Celtic F.C. U13 Girls",
       "home_away": "home",
       "opponent": "Shardlow St. James U13 Jets Girls"
+    },
+    {
+      "id": "c581b41f4e46360a45d3146cbea2e2c9",
+      "date": "2026-04-19",
+      "time": "16:00",
+      "home_team": "Priory Celtic F.C. U16 Girls",
+      "away_team": "West Bridgford Colts U16 Vipers",
+      "venue": "RH ACADEMY",
+      "division": "U16 Div 2 League Cup",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U16 Girls",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U16 Vipers"
     },
     {
       "id": "1932ec5eecad014895464c4436a1f686",
@@ -1171,6 +1171,19 @@
       "team": "Priory Celtic 1967 U9",
       "home_away": "home",
       "opponent": "WBYFC Lyon U9"
+    },
+    {
+      "id": "81551561090c137036f826675e0c100b",
+      "date": "2026-05-10",
+      "time": "14:00",
+      "home_team": "Southwell City FC Ladies",
+      "away_team": "Priory Celtic FC Ladies First Team",
+      "venue": "CENTENARY SPORTS GROUND",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic FC Ladies First Team",
+      "home_away": "away",
+      "opponent": "Southwell City FC Ladies"
     },
     {
       "id": "8f77faf39b930d1ad2f18a2abc770e85",

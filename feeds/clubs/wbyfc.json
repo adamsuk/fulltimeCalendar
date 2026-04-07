@@ -1,6 +1,6 @@
 {
   "club": "WBYFC",
-  "generated": "2026-04-06T07:18:55Z",
+  "generated": "2026-04-07T07:04:29Z",
   "fixtures": [
     {
       "id": "a24f5c234769779523d8ab2d383d8ac6",
@@ -68,19 +68,6 @@
       "opponent": "Market Warsop Stags U8"
     },
     {
-      "id": "4814169d03fd8517b02c56fe960850ff",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Toton Tornados Lightening U8",
-      "away_team": "WBYFC Dynamos Red U8",
-      "venue": "Manor Farm Recreation Ground NG9 6EL",
-      "division": "U8 Sat Spring 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "WBYFC Dynamos Red U8",
-      "home_away": "away",
-      "opponent": "Toton Tornados Lightening U8"
-    },
-    {
       "id": "2889562bd51aa3001d0e3601062e8b3c",
       "date": "2026-04-11",
       "time": "10:00",
@@ -144,6 +131,19 @@
       "team": "WBYFC Bruges Black U7",
       "home_away": "away",
       "opponent": "Keyworth United Blue U7"
+    },
+    {
+      "id": "4814169d03fd8517b02c56fe960850ff",
+      "date": "2026-04-11",
+      "time": "11:00",
+      "home_team": "Toton Tornados Lightening U8",
+      "away_team": "WBYFC Dynamos Red U8",
+      "venue": "Alford Road, NG2 6HP",
+      "division": "U8 Sat Spring 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Dynamos Red U8",
+      "home_away": "away",
+      "opponent": "Toton Tornados Lightening U8"
     },
     {
       "id": "76202adc63a1bb0d42e36a1c0ce5a34c",
@@ -497,19 +497,6 @@
       "opponent": "Inspire Nottingham U9"
     },
     {
-      "id": "d91507ef0feff8a26c7d76d622863f62",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Priory Celtic White U8",
-      "away_team": "WBYFC Crusaders Black U8",
-      "venue": "Kimberley Leisure Centre NG16 2NJ 3G 5v5 Pitch (A)",
-      "division": "U8 Sat Spring 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "WBYFC Crusaders Black U8",
-      "home_away": "away",
-      "opponent": "Priory Celtic White U8"
-    },
-    {
       "id": "2909bf1f0b614e7ff17e9860f07d38f8",
       "date": "2026-04-18",
       "time": "10:00",
@@ -638,19 +625,6 @@
       "team": "WBYFC Giants U14",
       "home_away": "away",
       "opponent": "Ilkeston Town White Star U14"
-    },
-    {
-      "id": "ef0b8cf9f1b985ff3c3de7262f8fb826",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Sutton Bonington Hornets U9",
-      "away_team": "WBYFC Independiente U9",
-      "venue": "SUTTON BONINGTON PLAYING FIELDS LE12 5PL",
-      "division": "U9 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "WBYFC Independiente U9",
-      "home_away": "away",
-      "opponent": "Sutton Bonington Hornets U9"
     },
     {
       "id": "b560a67c7c1f51aacf1b0d4e56eacb57",
@@ -835,17 +809,30 @@
       "opponent": "St Anns & Sneinton U13"
     },
     {
-      "id": "cba3e2555643077e305223ce1f663f79",
+      "id": "d91507ef0feff8a26c7d76d622863f62",
       "date": "2026-04-18",
       "time": "11:00",
-      "home_team": "WBYFC Invicta U11",
-      "away_team": "Toton Tornados Typhoons U11",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U11 Saturday",
+      "home_team": "Priory Celtic White U8",
+      "away_team": "WBYFC Crusaders Black U8",
+      "venue": "Kimberley Leisure Centre NG16 2NJ 3G 5v5 Pitch (A)",
+      "division": "U8 Sat Spring 2 Blue",
       "league": "YEL East Midlands Saturday 25/26",
-      "team": "WBYFC Invicta U11",
-      "home_away": "home",
-      "opponent": "Toton Tornados Typhoons U11"
+      "team": "WBYFC Crusaders Black U8",
+      "home_away": "away",
+      "opponent": "Priory Celtic White U8"
+    },
+    {
+      "id": "ef0b8cf9f1b985ff3c3de7262f8fb826",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Sutton Bonington Hornets U9",
+      "away_team": "WBYFC Independiente U9",
+      "venue": "SUTTON BONINGTON PLAYING FIELDS LE12 5PL",
+      "division": "U9 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Independiente U9",
+      "home_away": "away",
+      "opponent": "Sutton Bonington Hornets U9"
     },
     {
       "id": "ee40bcaba21bd06e227a0d6614379428",
@@ -911,6 +898,19 @@
       "team": "WBYFC Buffalos U12",
       "home_away": "home",
       "opponent": "Hucknall Sports White U12"
+    },
+    {
+      "id": "cba3e2555643077e305223ce1f663f79",
+      "date": "2026-04-18",
+      "time": "11:30",
+      "home_team": "WBYFC Invicta U11",
+      "away_team": "Toton Tornados Typhoons U11",
+      "venue": "Regatta Way NG2 5AT",
+      "division": "U11 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Invicta U11",
+      "home_away": "home",
+      "opponent": "Toton Tornados Typhoons U11"
     },
     {
       "id": "9105835f8da21dcb370683e7ea99c27b",

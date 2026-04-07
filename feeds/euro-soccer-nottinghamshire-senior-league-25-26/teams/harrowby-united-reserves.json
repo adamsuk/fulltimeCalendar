@@ -1,19 +1,8 @@
 {
   "team": "Harrowby United Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-06T07:18:55Z",
+  "generated": "2026-04-07T07:04:29Z",
   "fixtures": [
-    {
-      "id": "83a99b9c5aacb20d2231ffd35af3b827",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "home_team": "Harrowby United Reserves",
-      "away_team": "East Leake Robins Reserves",
-      "venue": "FRUEHAUF STADIUM",
-      "division": "NSL Division Three",
-      "home_away": "home",
-      "opponent": "East Leake Robins Reserves"
-    },
     {
       "id": "349a5f392bf7976f3c0eb5f048ac6456",
       "date": "2026-04-11",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "83a99b9c5aacb20d2231ffd35af3b827",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "Harrowby United Reserves",
+      "away_team": "East Leake Robins Reserves",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "home",
+      "opponent": "East Leake Robins Reserves",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "76b9826331abb9d72d8234990f2c44c6",
       "date": "2026-04-01",

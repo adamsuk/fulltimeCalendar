@@ -1,8 +1,42 @@
 {
   "team": "West Bridgford Colts U12 Flames",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-06T07:18:55Z",
-  "fixtures": [],
+  "generated": "2026-04-07T07:04:29Z",
+  "fixtures": [
+    {
+      "id": "e3c32ccbc0f9e473125a7af53b0571b9",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "ATFA Brinsley FC U12",
+      "away_team": "West Bridgford Colts U12 Flames",
+      "venue": "BRINSLEY RECREATION GROUND",
+      "division": "U12 Div 3 P2",
+      "home_away": "away",
+      "opponent": "ATFA Brinsley FC U12"
+    },
+    {
+      "id": "91b3f61413bc66f6eab599a640c09c39",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "West Bridgford Colts U12 Lightning",
+      "away_team": "West Bridgford Colts U12 Flames",
+      "venue": "REGATTA WAY SPORTS GROUND",
+      "division": "U12 Div 3 P2",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U12 Lightning"
+    },
+    {
+      "id": "5316abdd0e9f26d33c6f1a493fb3948b",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "West Bridgford Colts U12 Flames",
+      "away_team": "Blidworth Bengals F.C. U12",
+      "venue": "REGATTA WAY SPORTS GROUND",
+      "division": "U12 Div 3 P2",
+      "home_away": "home",
+      "opponent": "Blidworth Bengals F.C. U12"
+    }
+  ],
   "results": [
     {
       "id": "f9dae93e3d08c1f5935c45eea05b5498",
@@ -67,13 +101,13 @@
     {
       "id": "8fbdf5e48cd978c78433cd2288f4550d",
       "date": "2026-03-01",
-      "time": "11:30",
+      "time": "10:00",
       "home_team": "Bingham Town F.C. U12 Girls Red",
       "away_team": "West Bridgford Colts U12 Flames",
       "home_score": 7,
       "away_score": 1,
       "venue": "",
-      "division": "Other Fixtures",
+      "division": "U12 Div 3 P2",
       "home_away": "away",
       "opponent": "Bingham Town F.C. U12 Girls Red",
       "goals_for": 1,

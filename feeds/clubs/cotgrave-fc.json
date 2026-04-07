@@ -1,6 +1,6 @@
 {
   "club": "Cotgrave FC",
-  "generated": "2026-04-06T07:18:55Z",
+  "generated": "2026-04-07T07:04:29Z",
   "fixtures": [
     {
       "id": "ed80b2941052418f43eb1b727fc27fc1",
@@ -68,19 +68,6 @@
       "opponent": "Mansfield Town F.C. Girls U12"
     },
     {
-      "id": "d196d6e1d5574fbb15cc31c6a27b01e0",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Cotgrave FC U14 White",
-      "away_team": "Arnold Eagles F.C. Girls U14 Storm",
-      "venue": "COTGRAVE LEISURE CENTRE",
-      "division": "U14 Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Cotgrave FC U14 White",
-      "home_away": "home",
-      "opponent": "Arnold Eagles F.C. Girls U14 Storm"
-    },
-    {
       "id": "6538ce0e0f3e927c2a931d46b4ab9869",
       "date": "2026-04-12",
       "time": "10:00",
@@ -105,6 +92,19 @@
       "team": "Cotgrave FC Blue U9",
       "home_away": "home",
       "opponent": "Breaston Park Green U9"
+    },
+    {
+      "id": "d196d6e1d5574fbb15cc31c6a27b01e0",
+      "date": "2026-04-12",
+      "time": "12:00",
+      "home_team": "Cotgrave FC U14 White",
+      "away_team": "Arnold Eagles F.C. Girls U14 Storm",
+      "venue": "COTGRAVE WELFARE CLUB",
+      "division": "U14 Div 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Cotgrave FC U14 White",
+      "home_away": "home",
+      "opponent": "Arnold Eagles F.C. Girls U14 Storm"
     },
     {
       "id": "f586c5499ca6d67de6b388ddfdd93424",
@@ -224,6 +224,19 @@
       "opponent": "WBYFC Deportivo U12"
     },
     {
+      "id": "8f48b85e6f2039afa19f8871aef19bc2",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Priory Celtic Green U13",
+      "away_team": "Cotgrave FC Claret U13",
+      "venue": "Kimberley Leisure Centre NG16 2NJ GP1",
+      "division": "U13 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Cotgrave FC Claret U13",
+      "home_away": "away",
+      "opponent": "Priory Celtic Green U13"
+    },
+    {
       "id": "733c0a1242996056c870349826d72406",
       "date": "2026-04-18",
       "time": "10:00",
@@ -287,19 +300,6 @@
       "team": "Cotgrave FC Blue U14",
       "home_away": "away",
       "opponent": "Stapleford Town Blue U14"
-    },
-    {
-      "id": "8f48b85e6f2039afa19f8871aef19bc2",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Priory Celtic Green U13",
-      "away_team": "Cotgrave FC Claret U13",
-      "venue": "Kimberley Leisure Centre NG16 2NJ GP1",
-      "division": "U13 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Cotgrave FC Claret U13",
-      "home_away": "away",
-      "opponent": "Priory Celtic Green U13"
     },
     {
       "id": "6149b001bf05ab03a166ca5ad47fbe05",
@@ -406,19 +406,6 @@
       "opponent": "Barrowby FC Black U10"
     },
     {
-      "id": "266c944d7900b18c19ec62aa70bd6fb4",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Cotgrave FC U11 Girls",
-      "away_team": "Willow Wanderers F.C. U11 Phoenixes",
-      "venue": "ARTHUR RIDLEY SPORTS GROUND",
-      "division": "U11 CUP 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Cotgrave FC U11 Girls",
-      "home_away": "home",
-      "opponent": "Willow Wanderers F.C. U11 Phoenixes"
-    },
-    {
       "id": "f5bddad19cd50ee39b0ffcddb33aec2c",
       "date": "2026-04-19",
       "time": "10:00",
@@ -443,6 +430,19 @@
       "team": "Cotgrave FC U9 White",
       "home_away": "away",
       "opponent": "East Leake FC U9 Bantams Girls Red"
+    },
+    {
+      "id": "01505957871af2586acc426e0cd17ef4",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "West Bridgford Colts U9 Nova",
+      "away_team": "Cotgrave FC U9 White",
+      "venue": "RH ACADEMY",
+      "division": "U9 League Cup",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Cotgrave FC U9 White",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U9 Nova"
     },
     {
       "id": "ebd11c3213d346e34d648378dfba9133",
@@ -482,6 +482,19 @@
       "team": "Cotgrave FC Green U10",
       "home_away": "home",
       "opponent": "Kirkby Colts U10"
+    },
+    {
+      "id": "266c944d7900b18c19ec62aa70bd6fb4",
+      "date": "2026-04-19",
+      "time": "12:00",
+      "home_team": "Cotgrave FC U11 Girls",
+      "away_team": "Willow Wanderers F.C. U11 Phoenixes",
+      "venue": "RH ACADEMY",
+      "division": "U11 CUP 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Cotgrave FC U11 Girls",
+      "home_away": "home",
+      "opponent": "Willow Wanderers F.C. U11 Phoenixes"
     },
     {
       "id": "b003c8b9487c741dd03c6103fdc51a77",
@@ -1710,6 +1723,23 @@
       "goals_against": 2
     },
     {
+      "id": "88b3cf95f7cfab643c779e2a7a466070",
+      "date": "2026-03-15",
+      "time": "12:00",
+      "home_team": "Cotgrave FC U14 White",
+      "away_team": "Newark Town FC U14 Nesbitts",
+      "home_score": 0,
+      "away_score": 12,
+      "venue": "",
+      "division": "U14 Div 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Cotgrave FC U14 White",
+      "home_away": "home",
+      "opponent": "Newark Town FC U14 Nesbitts",
+      "goals_for": 0,
+      "goals_against": 12
+    },
+    {
       "id": "169bc50c8d018c0e78baed5683c44a01",
       "date": "2026-03-15",
       "time": "11:30",
@@ -1895,23 +1925,6 @@
       "opponent": "ATFA Brinsley FC U12",
       "goals_for": 1,
       "goals_against": 0
-    },
-    {
-      "id": "88b3cf95f7cfab643c779e2a7a466070",
-      "date": "2026-03-15",
-      "time": "10:00",
-      "home_team": "Cotgrave FC U14 White",
-      "away_team": "Newark Town FC U14 Nesbitts",
-      "home_score": 0,
-      "away_score": 12,
-      "venue": "",
-      "division": "U14 Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Cotgrave FC U14 White",
-      "home_away": "home",
-      "opponent": "Newark Town FC U14 Nesbitts",
-      "goals_for": 0,
-      "goals_against": 12
     },
     {
       "id": "d234822d424e2d11caa9fe738f70410b",

@@ -1,6 +1,6 @@
 {
   "club": "East Leake",
-  "generated": "2026-04-06T07:18:55Z",
+  "generated": "2026-04-07T07:04:29Z",
   "fixtures": [
     {
       "id": "29aff3c032b72a5f35c9472f58ae512d",
@@ -14,19 +14,6 @@
       "team": "East Leake FC U9 Bantams Girls Red",
       "home_away": "away",
       "opponent": "West Bridgford Colts U9 Stars"
-    },
-    {
-      "id": "83a99b9c5aacb20d2231ffd35af3b827",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "home_team": "Harrowby United Reserves",
-      "away_team": "East Leake Robins Reserves",
-      "venue": "FRUEHAUF STADIUM",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "East Leake Robins Reserves",
-      "home_away": "away",
-      "opponent": "Harrowby United Reserves"
     },
     {
       "id": "4ff46edf93b34d105a3e1838843e7fb5",
@@ -836,6 +823,23 @@
     }
   ],
   "results": [
+    {
+      "id": "83a99b9c5aacb20d2231ffd35af3b827",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "home_team": "Harrowby United Reserves",
+      "away_team": "East Leake Robins Reserves",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "East Leake Robins Reserves",
+      "home_away": "away",
+      "opponent": "Harrowby United Reserves",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "46d63032b890fc8a06c7874acdeb95ac",
       "date": "2026-04-04",
