@@ -1,20 +1,7 @@
 {
   "club": "Silva FC",
-  "generated": "2026-04-07T07:04:29Z",
+  "generated": "2026-04-08T07:06:14Z",
   "fixtures": [
-    {
-      "id": "b89398c8a163e5aca3c465408118956b",
-      "date": "2026-03-29",
-      "time": "12:00",
-      "home_team": "Priory Celtic Hoops U10",
-      "away_team": "Silva FC Rushcliffe Yellow U10",
-      "venue": "Kimberley Leisure Centre NG16 2NJ",
-      "division": "U10 Sun Spring Div 4 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Silva FC Rushcliffe Yellow U10",
-      "home_away": "away",
-      "opponent": "Priory Celtic Hoops U10"
-    },
     {
       "id": "927ee805a9b966e70ed2895a8ca546c1",
       "date": "2026-04-11",
@@ -66,19 +53,6 @@
       "team": "Silva FC Carlton Yellow U8",
       "home_away": "away",
       "opponent": "Southwell City Pumas U8"
-    },
-    {
-      "id": "c405b3aa095d2d5720ef3bc6b2f7138b",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Collingham FC Lions U7",
-      "away_team": "Silva FC Rushcliffe Gold U7 ^^",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U7 Sat Spring 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Silva FC Rushcliffe Gold U7 ^^",
-      "home_away": "away",
-      "opponent": "Collingham FC Lions U7"
     },
     {
       "id": "d9cf5650154a9d016a316560822461d4",
@@ -224,6 +198,19 @@
       "opponent": "WBYFC Lyon U9"
     },
     {
+      "id": "eb023a37c180b96f81118ad1fc97af09",
+      "date": "2026-04-18",
+      "time": "09:00",
+      "home_team": "DLFC White U8",
+      "away_team": "Silva FC Carlton Miami U8",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U8 Sat Spring 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Silva FC Carlton Miami U8",
+      "home_away": "away",
+      "opponent": "DLFC White U8"
+    },
+    {
       "id": "c9699b0082440a0126f24a02429fb007",
       "date": "2026-04-18",
       "time": "09:45",
@@ -302,19 +289,6 @@
       "opponent": "Moorgreen Colts U9"
     },
     {
-      "id": "eb023a37c180b96f81118ad1fc97af09",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "DLFC White U8",
-      "away_team": "Silva FC Carlton Miami U8",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U8 Sat Spring 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Silva FC Carlton Miami U8",
-      "home_away": "away",
-      "opponent": "DLFC White U8"
-    },
-    {
       "id": "c1d37f5783b45a11fecc06dfd68e027c",
       "date": "2026-04-18",
       "time": "10:00",
@@ -367,19 +341,6 @@
       "opponent": "Sandiacre Town Knights U10"
     },
     {
-      "id": "8f8435e1c42d4a0ad44322666b0e8f1f",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Silva FC Rushcliffe Gold U13",
-      "away_team": "Stapleford Town Saxons U13",
-      "venue": "Rushcliffe School  NG2 7BW",
-      "division": "U13 Sat YEL Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Silva FC Rushcliffe Gold U13",
-      "home_away": "home",
-      "opponent": "Stapleford Town Saxons U13"
-    },
-    {
       "id": "2909bf1f0b614e7ff17e9860f07d38f8",
       "date": "2026-04-18",
       "time": "10:00",
@@ -391,6 +352,19 @@
       "team": "Silva FC Rushcliffe Red U8",
       "home_away": "away",
       "opponent": "WBYFC Crusaders Red U8"
+    },
+    {
+      "id": "dd7b2a0f570f0285372599093c13dc7d",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Silva FC Rushcliffe Reds U13",
+      "away_team": "Mansfield Town Grassroots U13",
+      "venue": "Rushcliffe School  NG2 7BW",
+      "division": "U13 Sat YEL Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Silva FC Rushcliffe Reds U13",
+      "home_away": "home",
+      "opponent": "Mansfield Town Grassroots U13"
     },
     {
       "id": "c4649fc258af6241be13434fb6514d03",
@@ -510,17 +484,17 @@
       "opponent": "Southwell City United U14"
     },
     {
-      "id": "dd7b2a0f570f0285372599093c13dc7d",
+      "id": "8f8435e1c42d4a0ad44322666b0e8f1f",
       "date": "2026-04-18",
       "time": "11:30",
-      "home_team": "Silva FC Rushcliffe Reds U13",
-      "away_team": "Mansfield Town Grassroots U13",
+      "home_team": "Silva FC Rushcliffe Gold U13",
+      "away_team": "Stapleford Town Saxons U13",
       "venue": "Rushcliffe School  NG2 7BW",
       "division": "U13 Sat YEL Cup",
       "league": "YEL East Midlands Saturday 25/26",
-      "team": "Silva FC Rushcliffe Reds U13",
+      "team": "Silva FC Rushcliffe Gold U13",
       "home_away": "home",
-      "opponent": "Mansfield Town Grassroots U13"
+      "opponent": "Stapleford Town Saxons U13"
     },
     {
       "id": "33339110d8491c6c746a479b4adcabfe",
@@ -549,6 +523,45 @@
       "opponent": "Cotgrave FC Blue U9"
     },
     {
+      "id": "be10422d73525e197b8d02de4daf1d2f",
+      "date": "2026-04-19",
+      "time": "09:15",
+      "home_team": "DLFC Black U8",
+      "away_team": "Silva FC Rushcliffe Vipers U8",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U8 Sun Spring 1",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Silva FC Rushcliffe Vipers U8",
+      "home_away": "away",
+      "opponent": "DLFC Black U8"
+    },
+    {
+      "id": "822a6cf9e29445ff513e6317eb0aa16d",
+      "date": "2026-04-19",
+      "time": "09:45",
+      "home_team": "Silva FC Rushcliffe Red U11",
+      "away_team": "Willow Wanderers Harriers U11",
+      "venue": "Rushcliffe School NG2 7BZ",
+      "division": "U11 Sun YEL Foundation Shield",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Silva FC Rushcliffe Red U11",
+      "home_away": "home",
+      "opponent": "Willow Wanderers Harriers U11"
+    },
+    {
+      "id": "f49839b9faabf9780828bf4a57435dff",
+      "date": "2026-04-19",
+      "time": "09:45",
+      "home_team": "Silva FC Southglade Knights U11",
+      "away_team": "Beaufort United Blue U11",
+      "venue": "Southglade Leisure Centre NG5 5GU",
+      "division": "U11 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Silva FC Southglade Knights U11",
+      "home_away": "home",
+      "opponent": "Beaufort United Blue U11"
+    },
+    {
       "id": "2aa9ed7d0b24725067ebda5b21cbd150",
       "date": "2026-04-19",
       "time": "10:00",
@@ -562,12 +575,25 @@
       "opponent": "Underwood Villa Lions U9"
     },
     {
+      "id": "53fa41a4b14d728e5cbb061bdee88647",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Robins U13",
+      "away_team": "Silva FC Carlton Blue U13",
+      "venue": "Booths Playing Fields DE7 8JF",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Silva FC Carlton Blue U13",
+      "home_away": "away",
+      "opponent": "Ilkeston Town Robins U13"
+    },
+    {
       "id": "ce885f5680a012cd2e2f90f41094aa8a",
       "date": "2026-04-19",
       "time": "10:00",
       "home_team": "Silva FC Carlton Gold U7",
       "away_team": "DLFC Barca U7",
-      "venue": "Carlton Football Centre (3G) NG4 3SH",
+      "venue": "Southglade Leisure Centre NG5 5GU",
       "division": "U7 Sun Spring Green",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Silva FC Carlton Gold U7",
@@ -593,7 +619,7 @@
       "time": "10:00",
       "home_team": "Silva FC Carlton Gold U9",
       "away_team": "DLFC Orange U9",
-      "venue": "Carlton Football Centre (3G) NG4 3SH",
+      "venue": "Southglade Leisure Centre NG5 5GU",
       "division": "U9 Sun Spring Div 5 Green",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Silva FC Carlton Gold U9",
@@ -638,6 +664,19 @@
       "team": "Silva FC Magpies U7",
       "home_away": "away",
       "opponent": "Clifton AW Purple U7"
+    },
+    {
+      "id": "0f12ea1b9a2ce95ce15a885ac3df77c3",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Priory Celtic Green U9",
+      "away_team": "Silva FC Rushcliffe Gold U9",
+      "venue": "Kimberley Leisure Centre NG16 2NJ",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Silva FC Rushcliffe Gold U9",
+      "home_away": "away",
+      "opponent": "Priory Celtic Green U9"
     },
     {
       "id": "6786b51aebc6fe91e79c9108c8133e60",
@@ -692,19 +731,6 @@
       "opponent": "Beaufort United Red U9"
     },
     {
-      "id": "be10422d73525e197b8d02de4daf1d2f",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "DLFC Black U8",
-      "away_team": "Silva FC Rushcliffe Vipers U8",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U8 Sun Spring 1",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Silva FC Rushcliffe Vipers U8",
-      "home_away": "away",
-      "opponent": "DLFC Black U8"
-    },
-    {
       "id": "b12a91ab9704a28f3339e0ef7b9cc0cd",
       "date": "2026-04-19",
       "time": "10:00",
@@ -718,17 +744,17 @@
       "opponent": "Ilkeston Town Ajax U10"
     },
     {
-      "id": "85d27a0b76e2454a8f665dd5be8a7217",
+      "id": "04e2d7d769bade49af4acd65e28572cc",
       "date": "2026-04-19",
       "time": "10:00",
-      "home_team": "Silva FC Southglade Black U10",
-      "away_team": "Grantham Town U10",
-      "venue": "Southglade Leisure Centre NG5 5GU",
-      "division": "U10 Sunday",
+      "home_team": "Hucknall Sports Red U13",
+      "away_team": "Silva FC Southglade Grey U13",
+      "venue": "Goosedale Sport Club NG6 8UJ",
+      "division": "U13 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
-      "team": "Silva FC Southglade Black U10",
-      "home_away": "home",
-      "opponent": "Grantham Town U10"
+      "team": "Silva FC Southglade Grey U13",
+      "home_away": "away",
+      "opponent": "Hucknall Sports Red U13"
     },
     {
       "id": "8ed3e7601295b9addf572270fbc38663",
@@ -770,17 +796,17 @@
       "opponent": "Silva FC Carlton Blue U11"
     },
     {
-      "id": "6315d3e310790f962bb2ced3b5a36beb",
+      "id": "d48b2f4be107dba8780f4ba2971314ff",
       "date": "2026-04-19",
       "time": "11:00",
-      "home_team": "Sherwood Colliery Red U14",
+      "home_team": "Quarrydale United Rangers U14",
       "away_team": "Silva FC Carlton U14",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
+      "venue": "Bentinck Miners Welfare NG17 8GS",
       "division": "U14 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Silva FC Carlton U14",
       "home_away": "away",
-      "opponent": "Sherwood Colliery Red U14"
+      "opponent": "Quarrydale United Rangers U14"
     },
     {
       "id": "3e552cd5c829da299164a0a1328bb524",
@@ -809,19 +835,6 @@
       "opponent": "Beeston FC U11"
     },
     {
-      "id": "822a6cf9e29445ff513e6317eb0aa16d",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Silva FC Rushcliffe Red U11",
-      "away_team": "Willow Wanderers Harriers U11",
-      "venue": "Rushcliffe School NG2 7BZ",
-      "division": "U11 Sun YEL Foundation Shield",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Silva FC Rushcliffe Red U11",
-      "home_away": "home",
-      "opponent": "Willow Wanderers Harriers U11"
-    },
-    {
       "id": "7ba8fa91f1f6bb3db10f01922f0215c0",
       "date": "2026-04-19",
       "time": "11:00",
@@ -848,9 +861,22 @@
       "opponent": "Kirkby Colts Red U12"
     },
     {
-      "id": "3acebda611df7313ebe5f99130fc08d6",
+      "id": "85d27a0b76e2454a8f665dd5be8a7217",
       "date": "2026-04-19",
       "time": "11:00",
+      "home_team": "Silva FC Southglade Black U10",
+      "away_team": "Grantham Town U10",
+      "venue": "Southglade Leisure Centre NG5 5GU",
+      "division": "U10 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Silva FC Southglade Black U10",
+      "home_away": "home",
+      "opponent": "Grantham Town U10"
+    },
+    {
+      "id": "3acebda611df7313ebe5f99130fc08d6",
+      "date": "2026-04-19",
+      "time": "11:15",
       "home_team": "Basford United FC Yellow U13",
       "away_team": "Silva FC Sherwood U13",
       "venue": "Greenwich Avenue NG6 0LD",
@@ -861,25 +887,12 @@
       "opponent": "Basford United FC Yellow U13"
     },
     {
-      "id": "f49839b9faabf9780828bf4a57435dff",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Silva FC Southglade Knights U11",
-      "away_team": "Beaufort United Blue U11",
-      "venue": "Southglade Leisure Centre NG5 5GU",
-      "division": "U11 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Silva FC Southglade Knights U11",
-      "home_away": "home",
-      "opponent": "Beaufort United Blue U11"
-    },
-    {
       "id": "6a879d6089ea88bbdfa1250af644a082",
       "date": "2026-04-19",
-      "time": "11:00",
+      "time": "11:30",
       "home_team": "Silva FC Southglade Purple U14",
       "away_team": "Attenborough Colts Spartans U14",
-      "venue": "Southglade Leisure Centre NG5 5GU",
+      "venue": "Rushcliffe School NG2 7BZ",
       "division": "U14 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Silva FC Southglade Purple U14",
@@ -1334,7 +1347,7 @@
       "time": "10:00",
       "home_team": "WBYFC BVB U10",
       "away_team": "Silva FC Southglade Black U10",
-      "venue": "Regatta Way NG2 5AT",
+      "venue": "The Nottingham Emmanuel School NG2 7YF",
       "division": "U10 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Silva FC Southglade Black U10",

@@ -1,6 +1,6 @@
 {
   "club": "Bingham Town",
-  "generated": "2026-04-07T07:04:29Z",
+  "generated": "2026-04-08T07:06:14Z",
   "fixtures": [
     {
       "id": "f7736dfed6bcc943ccb79a2f08b85d45",
@@ -40,19 +40,6 @@
       "team": "Bingham Town Red U7",
       "home_away": "away",
       "opponent": "WBYFC Bruges White U7"
-    },
-    {
-      "id": "0343c4d0a4f49d30e9bf776d1b42c0f9",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Bingham Town Red U8",
-      "away_team": "Inspire Nottingham Black U8",
-      "venue": "Butt Field NG13 8GG",
-      "division": "U8 Sat Spring 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Bingham Town Red U8",
-      "home_away": "home",
-      "opponent": "Inspire Nottingham Black U8"
     },
     {
       "id": "f7736dfed6bcc943ccb79a2f08b85d45",
@@ -380,6 +367,19 @@
       "opponent": "Southwell City Reds U10"
     },
     {
+      "id": "9362074505ab8800e7fca6e3b3d1f511",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Bingham Town Blue U12",
+      "away_team": "AFC Chellaston Raiders U12",
+      "venue": "Butt Field NG13 8GG",
+      "division": "U12 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Bingham Town Blue U12",
+      "home_away": "home",
+      "opponent": "AFC Chellaston Raiders U12"
+    },
+    {
       "id": "f7be50291d2050698d2a686d6dfb852c",
       "date": "2026-04-18",
       "time": "10:00",
@@ -404,19 +404,6 @@
       "team": "Bingham Town Blue U8",
       "home_away": "home",
       "opponent": "Radcliffe Olympic Tigers U8"
-    },
-    {
-      "id": "49ad04757d153c64bcbec3f54dfb30e1",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Bingham Town Blue U9",
-      "away_team": "Gotham Rangers U9",
-      "venue": "Butt Field NG13 8GG",
-      "division": "U9 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Bingham Town Blue U9",
-      "home_away": "home",
-      "opponent": "Gotham Rangers U9"
     },
     {
       "id": "ae5c0f0c4d64a5b9477d4f3a559dcf78",
@@ -562,45 +549,6 @@
       "opponent": "Calverton Miners Welfare U23"
     },
     {
-      "id": "392b1dafa3976d79af1a7bd9402fb485",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Bingham Town Blue U11",
-      "away_team": "Sutton-on-Trent Tornadoes U11",
-      "venue": "Butt Field NG13 8GG",
-      "division": "U11 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Bingham Town Blue U11",
-      "home_away": "home",
-      "opponent": "Sutton-on-Trent Tornadoes U11"
-    },
-    {
-      "id": "9362074505ab8800e7fca6e3b3d1f511",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Bingham Town Blue U12",
-      "away_team": "AFC Chellaston Raiders U12",
-      "venue": "Butt Field NG13 8GG",
-      "division": "U12 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Bingham Town Blue U12",
-      "home_away": "home",
-      "opponent": "AFC Chellaston Raiders U12"
-    },
-    {
-      "id": "b27dd797246ae754b3d1c531d7131e39",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Bingham Town Blue U13",
-      "away_team": "Newark Town Saxons U13",
-      "venue": "Butt Field NG13 8GG",
-      "division": "U13 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Bingham Town Blue U13",
-      "home_away": "home",
-      "opponent": "Newark Town Saxons U13"
-    },
-    {
       "id": "614e2a5652b36853c362d3f503e13515",
       "date": "2026-04-18",
       "time": "11:00",
@@ -640,17 +588,30 @@
       "opponent": "Willow Wanderers Wolves U13"
     },
     {
-      "id": "bf72eed3783ed64676e83abc660f3745",
+      "id": "49ad04757d153c64bcbec3f54dfb30e1",
       "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Bingham Town Red U14",
-      "away_team": "Hilton Harriers Bucks U14",
+      "time": "11:15",
+      "home_team": "Bingham Town Blue U9",
+      "away_team": "Gotham Rangers U9",
       "venue": "Butt Field NG13 8GG",
-      "division": "U14 Sat Spring Div 5 Blue",
+      "division": "U9 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
-      "team": "Bingham Town Red U14",
+      "team": "Bingham Town Blue U9",
       "home_away": "home",
-      "opponent": "Hilton Harriers Bucks U14"
+      "opponent": "Gotham Rangers U9"
+    },
+    {
+      "id": "392b1dafa3976d79af1a7bd9402fb485",
+      "date": "2026-04-18",
+      "time": "11:30",
+      "home_team": "Bingham Town Blue U11",
+      "away_team": "Sutton-on-Trent Tornadoes U11",
+      "venue": "Butt Field NG13 8GG",
+      "division": "U11 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Bingham Town Blue U11",
+      "home_away": "home",
+      "opponent": "Sutton-on-Trent Tornadoes U11"
     },
     {
       "id": "41de8027ccc770ac55dc0d1ccfc314de",
@@ -664,6 +625,19 @@
       "team": "Bingham Town F.C. Development",
       "home_away": "away",
       "opponent": "Calverton Miners Welfare U23"
+    },
+    {
+      "id": "b27dd797246ae754b3d1c531d7131e39",
+      "date": "2026-04-18",
+      "time": "12:30",
+      "home_team": "Bingham Town Blue U13",
+      "away_team": "Newark Town Saxons U13",
+      "venue": "Butt Field NG13 8GG",
+      "division": "U13 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Bingham Town Blue U13",
+      "home_away": "home",
+      "opponent": "Newark Town Saxons U13"
     },
     {
       "id": "b45c829d39a107e2df5cff144a456cfc",
@@ -1095,19 +1069,6 @@
       "opponent": "Riverside Junior U13 Sapphires"
     },
     {
-      "id": "12489e6a4c21f10b1b99cbd2d784a6f3",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Gedling Southbank FC U16 Dynamos",
-      "away_team": "Bingham Town F.C. U16 Girls",
-      "venue": "THE TREVOR CARTER PAVILION",
-      "division": "U16 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Bingham Town F.C. U16 Girls",
-      "home_away": "away",
-      "opponent": "Gedling Southbank FC U16 Dynamos"
-    },
-    {
       "id": "020830ba25f9a577a360d7c70a421662",
       "date": "2026-04-26",
       "time": "10:00",
@@ -1225,6 +1186,19 @@
       "opponent": "West Bridgford Colts U12 Lightning"
     },
     {
+      "id": "a4c6a226d762d28c944c7c112f5f2bba",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Bingham Town F.C. U16 Girls",
+      "away_team": "Priory Celtic F.C. U16 Girls",
+      "venue": "BUTT FIELD SPORTS CLUB",
+      "division": "U16 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Bingham Town F.C. U16 Girls",
+      "home_away": "home",
+      "opponent": "Priory Celtic F.C. U16 Girls"
+    },
+    {
       "id": "efb889fe04225625ce42fbdc8da079db",
       "date": "2026-05-09",
       "time": "10:30",
@@ -1251,17 +1225,17 @@
       "opponent": "Newark Town FC U12 Girls"
     },
     {
-      "id": "6be9b34a6017da8d4b56a4ee6f9fbe16",
+      "id": "44ed724bf322db40bee1b74ab3a212d1",
       "date": "2026-05-10",
       "time": "10:00",
-      "home_team": "Bingham Town F.C. U16 Girls",
-      "away_team": "Priory Celtic F.C. U16 Girls",
-      "venue": "BUTT FIELD SPORTS CLUB",
+      "home_team": "Gedling Southbank FC U16 Dynamos",
+      "away_team": "Bingham Town F.C. U16 Girls",
+      "venue": "THE TREVOR CARTER PAVILION",
       "division": "U16 Div 2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Bingham Town F.C. U16 Girls",
-      "home_away": "home",
-      "opponent": "Priory Celtic F.C. U16 Girls"
+      "home_away": "away",
+      "opponent": "Gedling Southbank FC U16 Dynamos"
     },
     {
       "id": "96adf9cc029d91c948b808b7633e4b93",

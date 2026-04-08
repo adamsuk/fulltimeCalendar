@@ -1,6 +1,6 @@
 {
   "club": "Shirebrook Rangers",
-  "generated": "2026-04-07T07:04:29Z",
+  "generated": "2026-04-08T07:06:14Z",
   "fixtures": [
     {
       "id": "45d5a9d269aaaabafbe2b6d8d45d6302",
@@ -81,6 +81,19 @@
       "opponent": "Eastwood & Kimberley FC"
     },
     {
+      "id": "c09e92b4cbbcce30e0de0a7b5609c94b",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "DLFC Yellow U9",
+      "away_team": "Shirebrook Rangers Red U9",
+      "venue": "Mellish Sports Centre  NG6 9FH",
+      "division": "U9 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Shirebrook Rangers Red U9",
+      "home_away": "away",
+      "opponent": "DLFC Yellow U9"
+    },
+    {
       "id": "853181caf60beedc2536eb88efedb268",
       "date": "2026-04-18",
       "time": "10:00",
@@ -92,19 +105,6 @@
       "team": "Shirebrook Rangers Blue U9",
       "home_away": "away",
       "opponent": "Winthorpe & Cod T Amber U9"
-    },
-    {
-      "id": "c09e92b4cbbcce30e0de0a7b5609c94b",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "DLFC Yellow U9",
-      "away_team": "Shirebrook Rangers Red U9",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U9 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Shirebrook Rangers Red U9",
-      "home_away": "away",
-      "opponent": "DLFC Yellow U9"
     },
     {
       "id": "b732e808d61a54abaf897a8329d97d2a",
@@ -224,19 +224,6 @@
       "opponent": "Shirebrook Rangers Red U11"
     },
     {
-      "id": "2507b349a5c083ad612a11205c288fc0",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Priory Celtic Phoenix U13",
-      "away_team": "Shirebrook Rangers Blue U13",
-      "venue": "Kimberley Leisure Centre NG16 2NJ",
-      "division": "U13 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Shirebrook Rangers Blue U13",
-      "home_away": "away",
-      "opponent": "Priory Celtic Phoenix U13"
-    },
-    {
       "id": "5b3480c2a34230257659e63ceeda9b77",
       "date": "2026-04-19",
       "time": "11:00",
@@ -248,6 +235,19 @@
       "team": "Shirebrook Rangers Red U11",
       "home_away": "away",
       "opponent": "Shirebrook Rangers Blue U11"
+    },
+    {
+      "id": "44436697be026b3f8ae6c68b1334002e",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Priory Celtic 1967 U13",
+      "away_team": "Shirebrook Rangers Red U13",
+      "venue": "Kimberley Leisure Centre NG16 2NJ",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Shirebrook Rangers Red U13",
+      "home_away": "away",
+      "opponent": "Priory Celtic 1967 U13"
     },
     {
       "id": "4caf826372ba2bbe071b35a04f67a8e2",
@@ -274,6 +274,19 @@
       "team": "Shirebrook Rangers & Juniors U14 Girls",
       "home_away": "away",
       "opponent": "Ravenshead Reds F.C. Youth U14"
+    },
+    {
+      "id": "2507b349a5c083ad612a11205c288fc0",
+      "date": "2026-04-19",
+      "time": "12:00",
+      "home_team": "Priory Celtic Phoenix U13",
+      "away_team": "Shirebrook Rangers Blue U13",
+      "venue": "Kimberley Leisure Centre NG16 2NJ",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Shirebrook Rangers Blue U13",
+      "home_away": "away",
+      "opponent": "Priory Celtic Phoenix U13"
     },
     {
       "id": "1d3a1d29b0df7ba8129dffb9e1079d3d",
@@ -499,7 +512,7 @@
     {
       "id": "53e750dbd2a1647730d73da992c63189",
       "date": "2026-04-29",
-      "time": "18:00",
+      "time": "18:30",
       "home_team": "Shirebrook Rangers Women",
       "away_team": "Retford FC Ladies",
       "venue": "SHIREBROOK ACADEMY",

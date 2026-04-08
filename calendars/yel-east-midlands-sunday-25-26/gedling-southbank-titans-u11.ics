@@ -8,7 +8,7 @@ X-WR-CALDESC:Fixtures for Gedling Southbank Titans U11 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:8e2d84803cef006f335abb72090a0603@yel-calendar
-DTSTAMP:20260407T070443Z
+DTSTAMP:20260408T070632Z
 DTSTART;TZID=Europe/London:20260412T113000
 DTEND;TZID=Europe/London:20260412T120000
 SUMMARY:⚽ Gedling Southbank Titans U11 vs Kirkby Garibaldi Reds U11 (Home)
@@ -17,7 +17,7 @@ LOCATION:Richard Herrod Centre  Ng41RL
 END:VEVENT
 BEGIN:VEVENT
 UID:9c825aefb60cd61a7e76dbc2ad87b3ea@yel-calendar
-DTSTAMP:20260407T070443Z
+DTSTAMP:20260408T070632Z
 DTSTART;TZID=Europe/London:20260419T100000
 DTEND;TZID=Europe/London:20260419T110000
 SUMMARY:⚽ Gedling Southbank Titans U11 vs Castle Donington Panthers U11 (Home)
@@ -26,7 +26,7 @@ LOCATION:Richard Herrod Centre  Ng41RL
 END:VEVENT
 BEGIN:VEVENT
 UID:ccc1c625a4efe370701dbbbe9f239166@yel-calendar
-DTSTAMP:20260407T070443Z
+DTSTAMP:20260408T070632Z
 DTSTART;TZID=Europe/London:20260423T180000
 DTEND;TZID=Europe/London:20260423T190000
 SUMMARY:⚽ Gedling Southbank Titans U11 vs Codnor Sports Juniors U11 (Away)
@@ -34,8 +34,17 @@ DESCRIPTION:Division: U11 Sun Spring Div 3\nCodnor Sports Juniors U11 v Gedling 
 LOCATION:Mill Lane Recreation Ground DE5 9QF
 END:VEVENT
 BEGIN:VEVENT
+UID:f23cdf82f1bb609885043c86ebd64512@yel-calendar
+DTSTAMP:20260408T070632Z
+DTSTART;TZID=Europe/London:20260426T110000
+DTEND;TZID=Europe/London:20260426T120000
+SUMMARY:⚽ Gedling Southbank Titans U11 vs Ropsley Colts U11 (Home)
+DESCRIPTION:Division: U11 Sunday\nGedling Southbank Titans U11 v Ropsley Colts U11\nKO: 11:00
+LOCATION:Redhill Leisure Centre NG5 8GX
+END:VEVENT
+BEGIN:VEVENT
 UID:7b3fc30c0f46003bd04fc21895c99e16@yel-calendar
-DTSTAMP:20260407T070443Z
+DTSTAMP:20260408T070632Z
 DTSTART;TZID=Europe/London:20260429T180000
 DTEND;TZID=Europe/London:20260429T190000
 SUMMARY:⚽ Gedling Southbank Titans U11 vs Ruddington Village Black U11 (Away)

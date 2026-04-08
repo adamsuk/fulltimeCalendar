@@ -1,6 +1,6 @@
 {
   "club": "Beeston FC",
-  "generated": "2026-04-07T07:04:29Z",
+  "generated": "2026-04-08T07:06:14Z",
   "fixtures": [
     {
       "id": "a9583835ee6b72ee9b3c3b88939aba4b",
@@ -14,19 +14,6 @@
       "team": "Beeston F.C. U14 Girls",
       "home_away": "home",
       "opponent": "Bottesford U14 Girls"
-    },
-    {
-      "id": "71cbfd8408f66bb2946e77a98beb2987",
-      "date": "2026-04-07",
-      "time": "19:30",
-      "home_team": "Notts Olympic FC",
-      "away_team": "Beeston FC",
-      "venue": "RADFORD FOOTBALL CLUB",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Beeston FC",
-      "home_away": "away",
-      "opponent": "Notts Olympic FC"
     },
     {
       "id": "eb8db77aa3e9bfae944dce01774a8b6b",
@@ -118,19 +105,6 @@
       "team": "Beeston FC U14",
       "home_away": "home",
       "opponent": "Attenborough Colts Blue U14"
-    },
-    {
-      "id": "c62073f3c2e4a10df5602f3697363fda",
-      "date": "2026-04-14",
-      "time": "18:30",
-      "home_team": "Beeston FC U12",
-      "away_team": "Etwall FC U12",
-      "venue": "Trent Vale Sports Ground  NG9 1ND",
-      "division": "U12 Sat Spring Div 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Beeston FC U12",
-      "home_away": "home",
-      "opponent": "Etwall FC U12"
     },
     {
       "id": "b1277173fb83cae9ae0911c9bf2191d6",
@@ -471,19 +445,6 @@
       "opponent": "Silva FC Southglade Grey U13"
     },
     {
-      "id": "a63a70c82341ffc6b7dc93481e05e7ad",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Ilkeston Town Panthers U13",
-      "away_team": "Beeston FC Orange U13",
-      "venue": "Booths Playing Fields DE7 8JF",
-      "division": "U13 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Beeston FC Orange U13",
-      "home_away": "away",
-      "opponent": "Ilkeston Town Panthers U13"
-    },
-    {
       "id": "0db5e0fc69fcd7966e9bc270feb959e8",
       "date": "2026-04-26",
       "time": "11:00",
@@ -495,6 +456,19 @@
       "team": "Beeston FC U11",
       "home_away": "away",
       "opponent": "WBYFC Rapids U11"
+    },
+    {
+      "id": "a63a70c82341ffc6b7dc93481e05e7ad",
+      "date": "2026-04-26",
+      "time": "11:40",
+      "home_team": "Ilkeston Town Panthers U13",
+      "away_team": "Beeston FC Orange U13",
+      "venue": "Booths Playing Fields DE7 8JF",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Beeston FC Orange U13",
+      "home_away": "away",
+      "opponent": "Ilkeston Town Panthers U13"
     },
     {
       "id": "3093e83a7259592a5ec622c5fed8b8c2",
@@ -628,6 +602,23 @@
     }
   ],
   "results": [
+    {
+      "id": "71cbfd8408f66bb2946e77a98beb2987",
+      "date": "2026-04-07",
+      "time": "19:30",
+      "home_team": "Notts Olympic FC",
+      "away_team": "Beeston FC",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Beeston FC",
+      "home_away": "away",
+      "opponent": "Notts Olympic FC",
+      "goals_for": 0,
+      "goals_against": 0
+    },
     {
       "id": "6bec2ad580da23c3be8597a892d0cf24",
       "date": "2026-04-05",

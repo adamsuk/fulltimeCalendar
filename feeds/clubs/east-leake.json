@@ -1,6 +1,6 @@
 {
   "club": "East Leake",
-  "generated": "2026-04-07T07:04:29Z",
+  "generated": "2026-04-08T07:06:14Z",
   "fixtures": [
     {
       "id": "29aff3c032b72a5f35c9472f58ae512d",
@@ -289,19 +289,6 @@
       "opponent": "Sherwood Colliery Black U9"
     },
     {
-      "id": "38d33b8c6838d60ca24b35e43d8d20b9",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Priory Celtic Hoops U10",
-      "away_team": "East Leake Bantams Orange U10",
-      "venue": "Kimberley Leisure Centre NG16 2NJ",
-      "division": "U10 Sun Spring Div 4 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "East Leake Bantams Orange U10",
-      "home_away": "away",
-      "opponent": "Priory Celtic Hoops U10"
-    },
-    {
       "id": "232c23c34a36206fe3c1dadd6b93e35f",
       "date": "2026-04-19",
       "time": "10:00",
@@ -432,19 +419,6 @@
       "opponent": "Radford FC U13"
     },
     {
-      "id": "5f7dbc68f9c56ee99ad5fcb53532b0c5",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "DLFC Orange U14",
-      "away_team": "East Leake Bantams Black U14",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U14 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "East Leake Bantams Black U14",
-      "home_away": "away",
-      "opponent": "DLFC Orange U14"
-    },
-    {
       "id": "3942313221dd9e0121947b453bd602af",
       "date": "2026-04-19",
       "time": "11:00",
@@ -458,17 +432,30 @@
       "opponent": "Carlton Town Yellow U12"
     },
     {
-      "id": "3c33704bc0630fec70f04c60144cb982",
+      "id": "38d33b8c6838d60ca24b35e43d8d20b9",
       "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Hucknall Sports White U13",
-      "away_team": "East Leake Bantams Red U13",
-      "venue": "Engine Rooms NG15 6EP",
-      "division": "U13 Sunday",
+      "time": "11:30",
+      "home_team": "Priory Celtic Hoops U10",
+      "away_team": "East Leake Bantams Orange U10",
+      "venue": "Kimberley Leisure Centre NG16 2NJ",
+      "division": "U10 Sun Spring Div 4 Blue",
       "league": "YEL East Midlands Sunday 25/26",
-      "team": "East Leake Bantams Red U13",
+      "team": "East Leake Bantams Orange U10",
       "home_away": "away",
-      "opponent": "Hucknall Sports White U13"
+      "opponent": "Priory Celtic Hoops U10"
+    },
+    {
+      "id": "5f7dbc68f9c56ee99ad5fcb53532b0c5",
+      "date": "2026-04-19",
+      "time": "12:30",
+      "home_team": "DLFC Orange U14",
+      "away_team": "East Leake Bantams Black U14",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U14 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "East Leake Bantams Black U14",
+      "home_away": "away",
+      "opponent": "DLFC Orange U14"
     },
     {
       "id": "27d3491c372747241f6d00d54ff8110a",
@@ -588,19 +575,6 @@
       "opponent": "AJ Sport White U9"
     },
     {
-      "id": "a94ac7e252949de9c273df6b927c86f9",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "East Leake Bantams Orange U10",
-      "away_team": "Cotgrave FC Green U10",
-      "venue": "Costock Road LE12 6LY",
-      "division": "U10 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "East Leake Bantams Orange U10",
-      "home_away": "home",
-      "opponent": "Cotgrave FC Green U10"
-    },
-    {
       "id": "4333b8564f909f9fee7c07d90ebcbf68",
       "date": "2026-04-26",
       "time": "10:00",
@@ -718,6 +692,19 @@
       "opponent": "Moorgreen Colts Blue U14"
     },
     {
+      "id": "a94ac7e252949de9c273df6b927c86f9",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "East Leake Bantams Orange U10",
+      "away_team": "Cotgrave FC Green U10",
+      "venue": "Costock Road LE12 6LY",
+      "division": "U10 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "East Leake Bantams Orange U10",
+      "home_away": "home",
+      "opponent": "Cotgrave FC Green U10"
+    },
+    {
       "id": "af2c7278668a2ddc7bacc79fdd14f7ca",
       "date": "2026-04-26",
       "time": "11:00",
@@ -731,17 +718,17 @@
       "opponent": "Harrowby United U12"
     },
     {
-      "id": "8d836067c7a4461e72fc72f57f55b98e",
+      "id": "01a818d7bff633658adc3b4781fa2f29",
       "date": "2026-04-26",
       "time": "11:00",
-      "home_team": "Priory Celtic 1967 U13",
-      "away_team": "East Leake Bantams Red U13",
-      "venue": "Kimberley Leisure Centre NG16 2NJ",
+      "home_team": "East Leake Bantams Red U13",
+      "away_team": "Hucknall Sports White U13",
+      "venue": "Costock Road LE12 6LY",
       "division": "U13 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "East Leake Bantams Red U13",
-      "home_away": "away",
-      "opponent": "Priory Celtic 1967 U13"
+      "home_away": "home",
+      "opponent": "Hucknall Sports White U13"
     },
     {
       "id": "d953c326265ec54b7438bc53890ad8cd",

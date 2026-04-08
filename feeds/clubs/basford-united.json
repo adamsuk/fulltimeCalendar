@@ -1,6 +1,6 @@
 {
   "club": "Basford United",
-  "generated": "2026-04-07T07:04:29Z",
+  "generated": "2026-04-08T07:06:14Z",
   "fixtures": [
     {
       "id": "3cf1c16292f2a968c91df3483f0bd8e5",
@@ -42,6 +42,19 @@
       "opponent": "Mickleover Country Park U13"
     },
     {
+      "id": "fc2755fdc8262b7b521cecfb178da23d",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Basford United Ambers U14",
+      "away_team": "Ashby United Mavericks U14",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U14 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United Ambers U14",
+      "home_away": "home",
+      "opponent": "Ashby United Mavericks U14"
+    },
+    {
       "id": "b5fcc52bc42847394b1a2cec2062ad6c",
       "date": "2026-04-18",
       "time": "10:00",
@@ -53,19 +66,6 @@
       "team": "Basford United Yellow U13",
       "home_away": "away",
       "opponent": "Canoville FC Gold U13"
-    },
-    {
-      "id": "fc2755fdc8262b7b521cecfb178da23d",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Basford United Ambers U14",
-      "away_team": "Ashby United Mavericks U14",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U14 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford United Ambers U14",
-      "home_away": "home",
-      "opponent": "Ashby United Mavericks U14"
     },
     {
       "id": "80410e849498b283e318f409d02710d9",
@@ -120,32 +120,6 @@
       "opponent": "Selston U14"
     },
     {
-      "id": "3acebda611df7313ebe5f99130fc08d6",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Basford United FC Yellow U13",
-      "away_team": "Silva FC Sherwood U13",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U13 Sun Spring Premier Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford United FC Yellow U13",
-      "home_away": "home",
-      "opponent": "Silva FC Sherwood U13"
-    },
-    {
-      "id": "81abd52cd94e9897f364781d9d6c0e8f",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Basford United Iconz U12",
-      "away_team": "Clifton All Whites Black U12",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U12 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford United Iconz U12",
-      "home_away": "home",
-      "opponent": "Clifton All Whites Black U12"
-    },
-    {
       "id": "2e97d6f11e56f4b510b487696a44417c",
       "date": "2026-04-19",
       "time": "11:00",
@@ -172,8 +146,34 @@
       "opponent": "Clifton All Whites Silver U12"
     },
     {
-      "id": "6e117161d260d98aec539c206c658bd6",
-      "date": "2026-04-23",
+      "id": "3acebda611df7313ebe5f99130fc08d6",
+      "date": "2026-04-19",
+      "time": "11:15",
+      "home_team": "Basford United FC Yellow U13",
+      "away_team": "Silva FC Sherwood U13",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U13 Sun Spring Premier Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United FC Yellow U13",
+      "home_away": "home",
+      "opponent": "Silva FC Sherwood U13"
+    },
+    {
+      "id": "81abd52cd94e9897f364781d9d6c0e8f",
+      "date": "2026-04-19",
+      "time": "11:30",
+      "home_team": "Basford United Iconz U12",
+      "away_team": "Clifton All Whites Black U12",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U12 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Iconz U12",
+      "home_away": "home",
+      "opponent": "Clifton All Whites Black U12"
+    },
+    {
+      "id": "007a277fbfd2888e9ae144d4cde50074",
+      "date": "2026-04-22",
       "time": "18:15",
       "home_team": "Bottesford Yellow U12",
       "away_team": "Basford United Lions U12",
@@ -261,19 +261,6 @@
       "team": "Basford United Yellow U13",
       "home_away": "home",
       "opponent": "Spondon Dynamos Blades U13"
-    },
-    {
-      "id": "a3938528e334fefe51ca92435b514f30",
-      "date": "2026-04-25",
-      "time": "12:30",
-      "home_team": "Basford United United U12",
-      "away_team": "Darley Sports Lions 2 U12",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U12 Sat Spring Div 1 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford United United U12",
-      "home_away": "home",
-      "opponent": "Darley Sports Lions 2 U12"
     },
     {
       "id": "23691e7de6904a611efde4f35f1d21ce",
@@ -365,6 +352,19 @@
       "team": "Basford United Silva U12",
       "home_away": "home",
       "opponent": "Calverton MW Blue U12"
+    },
+    {
+      "id": "5b98bb81036cf3559a692b849070fd59",
+      "date": "2026-04-28",
+      "time": "18:30",
+      "home_team": "Basford United United U12",
+      "away_team": "Darley Sports Lions 2 U12",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U12 Sat Spring Div 1 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United United U12",
+      "home_away": "home",
+      "opponent": "Darley Sports Lions 2 U12"
     },
     {
       "id": "1cc2c0101ef044296ab1b35d45554650",

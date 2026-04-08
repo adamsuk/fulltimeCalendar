@@ -1,6 +1,6 @@
 {
   "club": "Ilkeston Town",
-  "generated": "2026-04-07T07:04:29Z",
+  "generated": "2026-04-08T07:06:14Z",
   "fixtures": [
     {
       "id": "3ae42269423a0a14565a59f6f5ce06cc",
@@ -42,6 +42,19 @@
       "opponent": "Radcliffe Olympic Lions U8"
     },
     {
+      "id": "940c4d131eb576b39f70d6cc694b3823",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Juniors U15 Robins",
+      "away_team": "Gainsborough Trinity Community FC U15",
+      "venue": "ILKESTON TOWN FOOTBALL CLUB",
+      "division": "U15 Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ilkeston Town Juniors U15 Robins",
+      "home_away": "home",
+      "opponent": "Gainsborough Trinity Community FC U15"
+    },
+    {
       "id": "0f8a9838aad21cfed38642ebe56e32d3",
       "date": "2026-04-12",
       "time": "11:00",
@@ -53,19 +66,6 @@
       "team": "Ilkeston Town Bears U14",
       "home_away": "away",
       "opponent": "DLFC Red U14"
-    },
-    {
-      "id": "940c4d131eb576b39f70d6cc694b3823",
-      "date": "2026-04-12",
-      "time": "14:00",
-      "home_team": "Ilkeston Town Juniors U15 Robins",
-      "away_team": "Gainsborough Trinity Community FC U15",
-      "venue": "ILKESTON TOWN FOOTBALL CLUB",
-      "division": "U15 Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ilkeston Town Juniors U15 Robins",
-      "home_away": "home",
-      "opponent": "Gainsborough Trinity Community FC U15"
     },
     {
       "id": "511836173bbfdc9bb7e61c5080e27fd3",
@@ -250,6 +250,19 @@
       "opponent": "Ruddington Village U13"
     },
     {
+      "id": "53fa41a4b14d728e5cbb061bdee88647",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Robins U13",
+      "away_team": "Silva FC Carlton Blue U13",
+      "venue": "Booths Playing Fields DE7 8JF",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ilkeston Town Robins U13",
+      "home_away": "home",
+      "opponent": "Silva FC Carlton Blue U13"
+    },
+    {
       "id": "575aa411f54bb9077f77d644411f2ff5",
       "date": "2026-04-19",
       "time": "10:00",
@@ -302,32 +315,6 @@
       "opponent": "Eastwood CFC Eagles U8"
     },
     {
-      "id": "8748612b144dfe292c1194d2bc3d180c",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Quarrydale United Rangers U14",
-      "away_team": "Ilkeston Town Bears U14",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U14 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ilkeston Town Bears U14",
-      "home_away": "away",
-      "opponent": "Quarrydale United Rangers U14"
-    },
-    {
-      "id": "21993f401e417b6fb7e8477294b2b057",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Ilkeston Town Raptors U14",
-      "away_team": "WBYFC AC U14",
-      "venue": "Booths Playing Fields DE7 8JF",
-      "division": "U14 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ilkeston Town Raptors U14",
-      "home_away": "home",
-      "opponent": "WBYFC AC U14"
-    },
-    {
       "id": "ea1d85c6373662d86ab14544c0dfb51a",
       "date": "2026-04-19",
       "time": "11:00",
@@ -365,6 +352,19 @@
       "team": "Ilkeston Town Roma U12",
       "home_away": "home",
       "opponent": "Ancaster Athletic U12"
+    },
+    {
+      "id": "21993f401e417b6fb7e8477294b2b057",
+      "date": "2026-04-19",
+      "time": "11:40",
+      "home_team": "Ilkeston Town Raptors U14",
+      "away_team": "WBYFC AC U14",
+      "venue": "Booths Playing Fields DE7 8JF",
+      "division": "U14 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ilkeston Town Raptors U14",
+      "home_away": "home",
+      "opponent": "WBYFC AC U14"
     },
     {
       "id": "e5e5817747bc2ab56d6aa22f72325bb0",
@@ -588,6 +588,19 @@
       "opponent": "Sporting Markfield U14"
     },
     {
+      "id": "7c4f3d91e7aed500029105020aafef2c",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Raptors U14",
+      "away_team": "Blidworth Bengals Orange U14",
+      "venue": "Booths Playing Fields DE7 8JF",
+      "division": "U14 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ilkeston Town Raptors U14",
+      "home_away": "home",
+      "opponent": "Blidworth Bengals Orange U14"
+    },
+    {
       "id": "ffdab7a570953fb6d6a80047a65180ef",
       "date": "2026-04-26",
       "time": "10:00",
@@ -612,32 +625,6 @@
       "team": "Ilkeston Town Wolfpack U11",
       "home_away": "home",
       "opponent": "Berry Hill United U11"
-    },
-    {
-      "id": "a63a70c82341ffc6b7dc93481e05e7ad",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Ilkeston Town Panthers U13",
-      "away_team": "Beeston FC Orange U13",
-      "venue": "Booths Playing Fields DE7 8JF",
-      "division": "U13 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ilkeston Town Panthers U13",
-      "home_away": "home",
-      "opponent": "Beeston FC Orange U13"
-    },
-    {
-      "id": "7c4f3d91e7aed500029105020aafef2c",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Ilkeston Town Raptors U14",
-      "away_team": "Blidworth Bengals Orange U14",
-      "venue": "Booths Playing Fields DE7 8JF",
-      "division": "U14 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ilkeston Town Raptors U14",
-      "home_away": "home",
-      "opponent": "Blidworth Bengals Orange U14"
     },
     {
       "id": "d4c1c1fbad8effd879b35aec6a78adb1",
@@ -703,6 +690,19 @@
       "team": "Ilkeston Town Vipers U11",
       "home_away": "home",
       "opponent": "Matlock Town Juniors U11"
+    },
+    {
+      "id": "a63a70c82341ffc6b7dc93481e05e7ad",
+      "date": "2026-04-26",
+      "time": "11:40",
+      "home_team": "Ilkeston Town Panthers U13",
+      "away_team": "Beeston FC Orange U13",
+      "venue": "Booths Playing Fields DE7 8JF",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ilkeston Town Panthers U13",
+      "home_away": "home",
+      "opponent": "Beeston FC Orange U13"
     },
     {
       "id": "551b198f2ac879ddbaa7ba3eb714f7e8",

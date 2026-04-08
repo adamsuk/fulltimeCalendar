@@ -1,6 +1,6 @@
 {
   "club": "Collingham FC",
-  "generated": "2026-04-07T07:04:29Z",
+  "generated": "2026-04-08T07:06:14Z",
   "fixtures": [
     {
       "id": "60e4749a0efea129c9fec404c9e45e5e",
@@ -14,6 +14,19 @@
       "team": "Collingham FC Development",
       "home_away": "away",
       "opponent": "West Bridgford Development"
+    },
+    {
+      "id": "9b4f5a6f21b85ca1cde22af364a98a12",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Ravenshead Reds U14",
+      "away_team": "Collingham FC Cougars U14",
+      "venue": "Joseph Whitaker School  NG21 0AG",
+      "division": "U14 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Collingham FC Cougars U14",
+      "home_away": "away",
+      "opponent": "Ravenshead Reds U14"
     },
     {
       "id": "c833fae1cf2449e12d68c169a3ed073a",
@@ -40,19 +53,6 @@
       "team": "Collingham FC Cougars U8",
       "home_away": "home",
       "opponent": "Bottesford Yellow U8"
-    },
-    {
-      "id": "c405b3aa095d2d5720ef3bc6b2f7138b",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Collingham FC Lions U7",
-      "away_team": "Silva FC Rushcliffe Gold U7 ^^",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U7 Sat Spring 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Collingham FC Lions U7",
-      "home_away": "home",
-      "opponent": "Silva FC Rushcliffe Gold U7 ^^"
     },
     {
       "id": "28a069eb7407a677a6c508bca2c5b243",
@@ -144,19 +144,6 @@
       "team": "Collingham FC Cougars U12",
       "home_away": "away",
       "opponent": "Sherwood FC Yellow U12"
-    },
-    {
-      "id": "55f23e697af80c22ebd227bb2c2e0c78",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Ravenshead Reds U14",
-      "away_team": "Collingham FC Cougars U14",
-      "venue": "Joseph Whitaker School  NG21 0AG",
-      "division": "U14 Sat Spring Div 6 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Collingham FC Cougars U14",
-      "home_away": "away",
-      "opponent": "Ravenshead Reds U14"
     },
     {
       "id": "71abc07a640cbe54678fa22ebad9782d",
@@ -497,19 +484,6 @@
       "opponent": "Silva FC Carlton Grey U9"
     },
     {
-      "id": "93d994530af9b9c4ac2ba1146a121bf4",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Collingham FC Lions U11",
-      "away_team": "Sports Gateway Blue U11",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U11 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Collingham FC Lions U11",
-      "home_away": "home",
-      "opponent": "Sports Gateway Blue U11"
-    },
-    {
       "id": "958e7167ccb291478a4abc2620733976",
       "date": "2026-04-25",
       "time": "10:00",
@@ -547,6 +521,19 @@
       "team": "Collingham FC Lions U8",
       "home_away": "away",
       "opponent": "ATFA Brinsley Eagles U8"
+    },
+    {
+      "id": "93d994530af9b9c4ac2ba1146a121bf4",
+      "date": "2026-04-25",
+      "time": "10:30",
+      "home_team": "Collingham FC Lions U11",
+      "away_team": "Sports Gateway Blue U11",
+      "venue": "Collingham FC  NG23 7RA",
+      "division": "U11 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Collingham FC Lions U11",
+      "home_away": "home",
+      "opponent": "Sports Gateway Blue U11"
     },
     {
       "id": "032148229da085c61a8d3b06179e327a",
@@ -588,19 +575,6 @@
       "opponent": "Edwalton Cavaliers White U14"
     },
     {
-      "id": "949edbd1b24045b6c8378e2b38325ad9",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Collingham FC Lions U13",
-      "away_team": "Winthorpe & Cod T U13",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U13 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Collingham FC Lions U13",
-      "home_away": "home",
-      "opponent": "Winthorpe & Cod T U13"
-    },
-    {
       "id": "2f0161c7da328531fec528b937ebbc22",
       "date": "2026-04-25",
       "time": "11:15",
@@ -625,6 +599,19 @@
       "team": "Collingham FC Lions U9",
       "home_away": "home",
       "opponent": "Sherwood Colliery Black U9"
+    },
+    {
+      "id": "949edbd1b24045b6c8378e2b38325ad9",
+      "date": "2026-04-25",
+      "time": "13:30",
+      "home_team": "Collingham FC Lions U13",
+      "away_team": "Winthorpe & Cod T U13",
+      "venue": "SOUTH CLIFTON SPORTS FIELD NG23 7AF",
+      "division": "U13 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Collingham FC Lions U13",
+      "home_away": "home",
+      "opponent": "Winthorpe & Cod T U13"
     },
     {
       "id": "ada6a2645f328c076067fc51fb3bbb03",

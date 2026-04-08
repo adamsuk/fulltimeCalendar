@@ -1,6 +1,6 @@
 {
   "club": "Blidworth Bengals",
-  "generated": "2026-04-07T07:04:29Z",
+  "generated": "2026-04-08T07:06:14Z",
   "fixtures": [
     {
       "id": "cf845ab03c2fdba2f96303ba9a8570f1",
@@ -8,7 +8,7 @@
       "time": "10:00",
       "home_team": "Woodthorpe Community Union U7",
       "away_team": "Blidworth Bengals U7",
-      "venue": "Carlton Football Centre (3G) NG4 3SH",
+      "venue": "Southglade Leisure Centre  NG5 5GU",
       "division": "U7 Sat Spring 4 Red",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Blidworth Bengals U7",
@@ -133,6 +133,19 @@
       "opponent": "Underwood Villa Fire U11"
     },
     {
+      "id": "16550dcd2233e58ad724a1f254027f1f",
+      "date": "2026-04-19",
+      "time": "09:00",
+      "home_team": "Woodborough Celtic U14",
+      "away_team": "Blidworth Bengals Orange U14",
+      "venue": "Woodborough Village Hall NG14 6DX",
+      "division": "U14 Sun Spring Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Blidworth Bengals Orange U14",
+      "home_away": "away",
+      "opponent": "Woodborough Celtic U14"
+    },
+    {
       "id": "d2b065833d68128bf0e259d51c588052",
       "date": "2026-04-19",
       "time": "10:00",
@@ -159,19 +172,6 @@
       "opponent": "ATFA Brinsley FC U12"
     },
     {
-      "id": "87b554a7e3bb58d92123c4e501cb92cb",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Blidworth Bengals B/W U12",
-      "away_team": "Woodhouse Colts Yellow U12",
-      "venue": "Bilsthorpe Football Ground NG22 8PY",
-      "division": "U12 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Blidworth Bengals B/W U12",
-      "home_away": "home",
-      "opponent": "Woodhouse Colts Yellow U12"
-    },
-    {
       "id": "9f4fe48d2f3923ac5bda887330132dc7",
       "date": "2026-04-19",
       "time": "11:00",
@@ -183,19 +183,6 @@
       "team": "Blidworth Bengals Orange U11",
       "home_away": "away",
       "opponent": "Alfreton Town Cobras U11"
-    },
-    {
-      "id": "16550dcd2233e58ad724a1f254027f1f",
-      "date": "2026-04-19",
-      "time": "12:30",
-      "home_team": "Woodborough Celtic U14",
-      "away_team": "Blidworth Bengals Orange U14",
-      "venue": "William Lee Memorial Park NG14 6SA",
-      "division": "U14 Sun Spring Div 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Blidworth Bengals Orange U14",
-      "home_away": "away",
-      "opponent": "Woodborough Celtic U14"
     },
     {
       "id": "1f7f4afa83cdce6896958f86ffa9e80a",
@@ -315,6 +302,19 @@
       "opponent": "Silva FC Carlton Blue U11"
     },
     {
+      "id": "7c4f3d91e7aed500029105020aafef2c",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Raptors U14",
+      "away_team": "Blidworth Bengals Orange U14",
+      "venue": "Booths Playing Fields DE7 8JF",
+      "division": "U14 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Blidworth Bengals Orange U14",
+      "home_away": "away",
+      "opponent": "Ilkeston Town Raptors U14"
+    },
+    {
       "id": "c7330ff19f01b0d06789f5451b118fb5",
       "date": "2026-04-26",
       "time": "10:00",
@@ -328,30 +328,17 @@
       "opponent": "Ruddington Village Black U9"
     },
     {
-      "id": "0fc1fa6548c9c318b2de00d495e14800",
+      "id": "1171054344e2b3a78f232e24ea735c7f",
       "date": "2026-04-26",
       "time": "10:00",
-      "home_team": "Blidworth Bengals F.C. U12",
-      "away_team": "Hucknall & Linby Harriers FC U12 Jets",
-      "venue": "BILSTHORPE SPORTS GROUND",
+      "home_team": "Newark Town FC U12 Girls",
+      "away_team": "Blidworth Bengals F.C. U12",
+      "venue": "DEVON PARK",
       "division": "U12 Div 3 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Blidworth Bengals F.C. U12",
-      "home_away": "home",
-      "opponent": "Hucknall & Linby Harriers FC U12 Jets"
-    },
-    {
-      "id": "7c4f3d91e7aed500029105020aafef2c",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Ilkeston Town Raptors U14",
-      "away_team": "Blidworth Bengals Orange U14",
-      "venue": "Booths Playing Fields DE7 8JF",
-      "division": "U14 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Blidworth Bengals Orange U14",
       "home_away": "away",
-      "opponent": "Ilkeston Town Raptors U14"
+      "opponent": "Newark Town FC U12 Girls"
     },
     {
       "id": "71089723b83b47860add54b3e4e7a7b4",
@@ -367,17 +354,17 @@
       "opponent": "Market Warsop Mavericks U11"
     },
     {
-      "id": "67db400ed7005296fd84d9e098f5a921",
+      "id": "e9dcb1a2b3a5b7cd411894fca48dbc43",
       "date": "2026-05-03",
       "time": "10:00",
-      "home_team": "Newark Town FC U12 Girls",
-      "away_team": "Blidworth Bengals F.C. U12",
-      "venue": "DEVON PARK",
+      "home_team": "Blidworth Bengals F.C. U12",
+      "away_team": "Burton Joyce F.C. Girls U12 Outlaws",
+      "venue": "BILSTHORPE SPORTS GROUND",
       "division": "U12 Div 3 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Blidworth Bengals F.C. U12",
-      "home_away": "away",
-      "opponent": "Newark Town FC U12 Girls"
+      "home_away": "home",
+      "opponent": "Burton Joyce F.C. Girls U12 Outlaws"
     },
     {
       "id": "5316abdd0e9f26d33c6f1a493fb3948b",
@@ -406,17 +393,17 @@
       "opponent": "Bingham Town F.C. U12 Girls Red"
     },
     {
-      "id": "ce1506dcdf3f1eab2c5d4b8b53b51f2d",
+      "id": "40753da0c4e4442d89eb45c935a31687",
       "date": "2026-05-24",
       "time": "10:00",
       "home_team": "Blidworth Bengals F.C. U12",
-      "away_team": "Burton Joyce F.C. Girls U12 Outlaws",
+      "away_team": "Hucknall & Linby Harriers FC U12 Jets",
       "venue": "BILSTHORPE SPORTS GROUND",
       "division": "U12 Div 3 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Blidworth Bengals F.C. U12",
       "home_away": "home",
-      "opponent": "Burton Joyce F.C. Girls U12 Outlaws"
+      "opponent": "Hucknall & Linby Harriers FC U12 Jets"
     }
   ],
   "results": [

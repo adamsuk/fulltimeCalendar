@@ -1,6 +1,6 @@
 {
   "club": "Hucknall Sports",
-  "generated": "2026-04-07T07:04:29Z",
+  "generated": "2026-04-08T07:06:14Z",
   "fixtures": [
     {
       "id": "7fb59b1adf0158d0f09b8054ba245baa",
@@ -315,6 +315,19 @@
       "opponent": "Clifton AW Green U10"
     },
     {
+      "id": "04e2d7d769bade49af4acd65e28572cc",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Hucknall Sports Red U13",
+      "away_team": "Silva FC Southglade Grey U13",
+      "venue": "Goosedale Sport Club NG6 8UJ",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Hucknall Sports Red U13",
+      "home_away": "home",
+      "opponent": "Silva FC Southglade Grey U13"
+    },
+    {
       "id": "478b48b7c36dc108585400ec66ee335f",
       "date": "2026-04-19",
       "time": "10:00",
@@ -367,30 +380,17 @@
       "opponent": "Bagthorpe Athletic U13"
     },
     {
-      "id": "66d138f7f8c5f1edfaa2336ded0843b5",
+      "id": "4f12302e96147fabe31e968cc67d6715",
       "date": "2026-04-19",
       "time": "11:00",
-      "home_team": "Hucknall Sports Red U13",
-      "away_team": "ATFA Brinsley Raptors U13",
-      "venue": "Engine Rooms NG15 6EP",
-      "division": "U13 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Hucknall Sports Red U13",
-      "home_away": "home",
-      "opponent": "ATFA Brinsley Raptors U13"
-    },
-    {
-      "id": "3c33704bc0630fec70f04c60144cb982",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Hucknall Sports White U13",
-      "away_team": "East Leake Bantams Red U13",
-      "venue": "Engine Rooms NG15 6EP",
+      "home_team": "Long Eaton United Red U13",
+      "away_team": "Hucknall Sports White U13",
+      "venue": "Grange Park NG10 2EG",
       "division": "U13 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Hucknall Sports White U13",
-      "home_away": "home",
-      "opponent": "East Leake Bantams Red U13"
+      "home_away": "away",
+      "opponent": "Long Eaton United Red U13"
     },
     {
       "id": "68154a6af1527728e46a8d0a9b8a9da3",
@@ -443,6 +443,19 @@
       "team": "Hucknall Sports Black U10",
       "home_away": "home",
       "opponent": "Moorgreen Colts White U10"
+    },
+    {
+      "id": "3a50b44c2f000bb0382564447ef3ccfa",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Woodhouse Colts Rhinos U12",
+      "away_team": "Hucknall Sports Black U12",
+      "venue": "Queensway Park NG19 0DU",
+      "division": "U12 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hucknall Sports Black U12",
+      "home_away": "away",
+      "opponent": "Woodhouse Colts Rhinos U12"
     },
     {
       "id": "183147fce60b11f99fe65973f10b11e8",
@@ -562,19 +575,6 @@
       "opponent": "Winthorpe & Cod T Amber U9"
     },
     {
-      "id": "3a50b44c2f000bb0382564447ef3ccfa",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Woodhouse Colts Rhinos U12",
-      "away_team": "Hucknall Sports Black U12",
-      "venue": "Queensway Park NG19 0DU",
-      "division": "U12 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Hucknall Sports Black U12",
-      "home_away": "away",
-      "opponent": "Woodhouse Colts Rhinos U12"
-    },
-    {
       "id": "91bd59d7170b4271e700eea133e05d96",
       "date": "2026-04-25",
       "time": "11:00",
@@ -653,19 +653,6 @@
       "opponent": "WBYFC Sporting U10"
     },
     {
-      "id": "64178cb062e7562092860cf34fdc8a25",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Hucknall Sports Red U8",
-      "away_team": "Priory Celtic Hoops U8",
-      "venue": "Goosedale Sport Club NG6 8UJ",
-      "division": "U8 Sun Spring 3 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Hucknall Sports Red U8",
-      "home_away": "home",
-      "opponent": "Priory Celtic Hoops U8"
-    },
-    {
       "id": "74d448280ae057e07682600bfb6da008",
       "date": "2026-04-26",
       "time": "10:00",
@@ -703,6 +690,19 @@
       "team": "Hucknall Sports Red U13",
       "home_away": "home",
       "opponent": "DLFC Orange U13"
+    },
+    {
+      "id": "01a818d7bff633658adc3b4781fa2f29",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "East Leake Bantams Red U13",
+      "away_team": "Hucknall Sports White U13",
+      "venue": "Costock Road LE12 6LY",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Hucknall Sports White U13",
+      "home_away": "away",
+      "opponent": "East Leake Bantams Red U13"
     },
     {
       "id": "6335db6a2f8f2ad6d002bb69703bd805",

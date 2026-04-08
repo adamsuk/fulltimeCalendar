@@ -1,19 +1,8 @@
 {
   "team": "Notts Olympic FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-07T07:04:29Z",
+  "generated": "2026-04-08T07:06:14Z",
   "fixtures": [
-    {
-      "id": "71cbfd8408f66bb2946e77a98beb2987",
-      "date": "2026-04-07",
-      "time": "19:30",
-      "home_team": "Notts Olympic FC",
-      "away_team": "Beeston FC",
-      "venue": "RADFORD FOOTBALL CLUB",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "home",
-      "opponent": "Beeston FC"
-    },
     {
       "id": "076cd796712a936ea706731423e86452",
       "date": "2026-04-11",
@@ -104,6 +93,21 @@
     }
   ],
   "results": [
+    {
+      "id": "71cbfd8408f66bb2946e77a98beb2987",
+      "date": "2026-04-07",
+      "time": "19:30",
+      "home_team": "Notts Olympic FC",
+      "away_team": "Beeston FC",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "home",
+      "opponent": "Beeston FC",
+      "goals_for": 0,
+      "goals_against": 0
+    },
     {
       "id": "cddb970d7322e2c34a0a872915f2438d",
       "date": "2026-04-04",

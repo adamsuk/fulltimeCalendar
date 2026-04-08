@@ -1,7 +1,7 @@
 {
   "team": "Dunkirk AFC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-07T07:04:29Z",
+  "generated": "2026-04-08T07:06:14Z",
   "fixtures": [
     {
       "id": "c0f70b7e8800cb8f13340a274e51998c",
@@ -13,17 +13,6 @@
       "division": "Euro Soccer Premier Division",
       "home_away": "away",
       "opponent": "Awsworth Villa FC"
-    },
-    {
-      "id": "965654f8ae525c06c2f60bc399be0f14",
-      "date": "2026-04-07",
-      "time": "19:30",
-      "home_team": "West Bridgford Reserves",
-      "away_team": "Dunkirk AFC",
-      "venue": "REGATTA WAY SPORTS GROUND",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "West Bridgford Reserves"
     },
     {
       "id": "076cd796712a936ea706731423e86452",
@@ -93,6 +82,21 @@
     }
   ],
   "results": [
+    {
+      "id": "965654f8ae525c06c2f60bc399be0f14",
+      "date": "2026-04-07",
+      "time": "19:30",
+      "home_team": "West Bridgford Reserves",
+      "away_team": "Dunkirk AFC",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "West Bridgford Reserves",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "8a9dc1b7d835b64a46e1bec1ad633999",
       "date": "2026-03-28",

@@ -1,20 +1,7 @@
 {
   "club": "Priory Celtic",
-  "generated": "2026-04-07T07:04:29Z",
+  "generated": "2026-04-08T07:06:14Z",
   "fixtures": [
-    {
-      "id": "b89398c8a163e5aca3c465408118956b",
-      "date": "2026-03-29",
-      "time": "12:00",
-      "home_team": "Priory Celtic Hoops U10",
-      "away_team": "Silva FC Rushcliffe Yellow U10",
-      "venue": "Kimberley Leisure Centre NG16 2NJ",
-      "division": "U10 Sun Spring Div 4 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Priory Celtic Hoops U10",
-      "home_away": "home",
-      "opponent": "Silva FC Rushcliffe Yellow U10"
-    },
     {
       "id": "ec4b992ce1d6397bb7505aa54201d7c0",
       "date": "2026-04-11",
@@ -458,30 +445,30 @@
       "opponent": "Ernehale Colts U9"
     },
     {
-      "id": "8fe6ef144630d098f0c79d7327f2ece6",
+      "id": "ca3202d2cf96883c8ea0828f64c441eb",
       "date": "2026-04-19",
       "time": "10:00",
-      "home_team": "Sports Gateway Arcs U9",
-      "away_team": "Priory Celtic Green U9",
-      "venue": "Papplewick Green NG15 8HR",
+      "home_team": "Priory Celtic Green U11",
+      "away_team": "Sandiacre Town Red U11",
+      "venue": "Kimberley Leisure Centre NG16 2NJ",
+      "division": "U11 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Priory Celtic Green U11",
+      "home_away": "home",
+      "opponent": "Sandiacre Town Red U11"
+    },
+    {
+      "id": "0f12ea1b9a2ce95ce15a885ac3df77c3",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Priory Celtic Green U9",
+      "away_team": "Silva FC Rushcliffe Gold U9",
+      "venue": "Kimberley Leisure Centre NG16 2NJ",
       "division": "U9 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Priory Celtic Green U9",
-      "home_away": "away",
-      "opponent": "Sports Gateway Arcs U9"
-    },
-    {
-      "id": "38d33b8c6838d60ca24b35e43d8d20b9",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Priory Celtic Hoops U10",
-      "away_team": "East Leake Bantams Orange U10",
-      "venue": "Kimberley Leisure Centre NG16 2NJ",
-      "division": "U10 Sun Spring Div 4 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Priory Celtic Hoops U10",
       "home_away": "home",
-      "opponent": "East Leake Bantams Orange U10"
+      "opponent": "Silva FC Rushcliffe Gold U9"
     },
     {
       "id": "7434c73a6a5d141bc7fd2ba80099d80b",
@@ -523,6 +510,19 @@
       "opponent": "Retford FC Ladies"
     },
     {
+      "id": "44436697be026b3f8ae6c68b1334002e",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Priory Celtic 1967 U13",
+      "away_team": "Shirebrook Rangers Red U13",
+      "venue": "Kimberley Leisure Centre NG16 2NJ",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Priory Celtic 1967 U13",
+      "home_away": "home",
+      "opponent": "Shirebrook Rangers Red U13"
+    },
+    {
       "id": "d1eaa49e3bc2be75b1ee50ddac77c8c0",
       "date": "2026-04-19",
       "time": "11:00",
@@ -536,30 +536,17 @@
       "opponent": "Sutton Trinity U14 Blue"
     },
     {
-      "id": "ca3202d2cf96883c8ea0828f64c441eb",
+      "id": "38d33b8c6838d60ca24b35e43d8d20b9",
       "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Priory Celtic Green U11",
-      "away_team": "Sandiacre Town Red U11",
+      "time": "11:30",
+      "home_team": "Priory Celtic Hoops U10",
+      "away_team": "East Leake Bantams Orange U10",
       "venue": "Kimberley Leisure Centre NG16 2NJ",
-      "division": "U11 Sunday",
+      "division": "U10 Sun Spring Div 4 Blue",
       "league": "YEL East Midlands Sunday 25/26",
-      "team": "Priory Celtic Green U11",
+      "team": "Priory Celtic Hoops U10",
       "home_away": "home",
-      "opponent": "Sandiacre Town Red U11"
-    },
-    {
-      "id": "2507b349a5c083ad612a11205c288fc0",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Priory Celtic Phoenix U13",
-      "away_team": "Shirebrook Rangers Blue U13",
-      "venue": "Kimberley Leisure Centre NG16 2NJ",
-      "division": "U13 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Priory Celtic Phoenix U13",
-      "home_away": "home",
-      "opponent": "Shirebrook Rangers Blue U13"
+      "opponent": "East Leake Bantams Orange U10"
     },
     {
       "id": "d82dfe6a40b1865e70c9f74af4e44d51",
@@ -573,6 +560,19 @@
       "team": "Priory Celtic F.C. U13 Girls",
       "home_away": "home",
       "opponent": "Shardlow St. James U13 Jets Girls"
+    },
+    {
+      "id": "2507b349a5c083ad612a11205c288fc0",
+      "date": "2026-04-19",
+      "time": "12:00",
+      "home_team": "Priory Celtic Phoenix U13",
+      "away_team": "Shirebrook Rangers Blue U13",
+      "venue": "Kimberley Leisure Centre NG16 2NJ",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Priory Celtic Phoenix U13",
+      "home_away": "home",
+      "opponent": "Shirebrook Rangers Blue U13"
     },
     {
       "id": "c581b41f4e46360a45d3146cbea2e2c9",
@@ -913,19 +913,6 @@
       "opponent": "WBYFC Atlantis U13"
     },
     {
-      "id": "64178cb062e7562092860cf34fdc8a25",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Hucknall Sports Red U8",
-      "away_team": "Priory Celtic Hoops U8",
-      "venue": "Goosedale Sport Club NG6 8UJ",
-      "division": "U8 Sun Spring 3 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Priory Celtic Hoops U8",
-      "home_away": "away",
-      "opponent": "Hucknall Sports Red U8"
-    },
-    {
       "id": "4d1fb1f51edc53707395cef52e1bde53",
       "date": "2026-04-26",
       "time": "10:00",
@@ -976,19 +963,6 @@
       "team": "Priory Celtic FC Ladies First Team",
       "home_away": "home",
       "opponent": "Sherwood FC Development Women"
-    },
-    {
-      "id": "8d836067c7a4461e72fc72f57f55b98e",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Priory Celtic 1967 U13",
-      "away_team": "East Leake Bantams Red U13",
-      "venue": "Kimberley Leisure Centre NG16 2NJ",
-      "division": "U13 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Priory Celtic 1967 U13",
-      "home_away": "home",
-      "opponent": "East Leake Bantams Red U13"
     },
     {
       "id": "b01986f0e6ff6958b714feafe60c1e58",
@@ -1121,6 +1095,19 @@
       "opponent": "Hilton Harriers U15 Girls Sunday"
     },
     {
+      "id": "a4c6a226d762d28c944c7c112f5f2bba",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Bingham Town F.C. U16 Girls",
+      "away_team": "Priory Celtic F.C. U16 Girls",
+      "venue": "BUTT FIELD SPORTS CLUB",
+      "division": "U16 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U16 Girls",
+      "home_away": "away",
+      "opponent": "Bingham Town F.C. U16 Girls"
+    },
+    {
       "id": "d85b4c8669efd2721fa4dda00975fc91",
       "date": "2026-05-03",
       "time": "10:00",
@@ -1134,32 +1121,6 @@
       "opponent": "Arnold Town FC Women"
     },
     {
-      "id": "5051707124f6e065e33f99670fde7aaa",
-      "date": "2026-05-03",
-      "time": "12:00",
-      "home_team": "Arnold Eagles F.C. Girls U16 Buzzards",
-      "away_team": "Priory Celtic F.C. U16 Girls",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "U16 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Priory Celtic F.C. U16 Girls",
-      "home_away": "away",
-      "opponent": "Arnold Eagles F.C. Girls U16 Buzzards"
-    },
-    {
-      "id": "6be9b34a6017da8d4b56a4ee6f9fbe16",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Bingham Town F.C. U16 Girls",
-      "away_team": "Priory Celtic F.C. U16 Girls",
-      "venue": "BUTT FIELD SPORTS CLUB",
-      "division": "U16 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Priory Celtic F.C. U16 Girls",
-      "home_away": "away",
-      "opponent": "Bingham Town F.C. U16 Girls"
-    },
-    {
       "id": "cac361961179eb35c61eea378d2e40de",
       "date": "2026-05-10",
       "time": "12:00",
@@ -1171,6 +1132,19 @@
       "team": "Priory Celtic 1967 U9",
       "home_away": "home",
       "opponent": "WBYFC Lyon U9"
+    },
+    {
+      "id": "7d25c26e7b622296c5e21b03281337d9",
+      "date": "2026-05-10",
+      "time": "12:00",
+      "home_team": "Arnold Eagles F.C. Girls U16 Buzzards",
+      "away_team": "Priory Celtic F.C. U16 Girls",
+      "venue": "CALVERTON MINERS WELFARE TRUST",
+      "division": "U16 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U16 Girls",
+      "home_away": "away",
+      "opponent": "Arnold Eagles F.C. Girls U16 Buzzards"
     },
     {
       "id": "81551561090c137036f826675e0c100b",

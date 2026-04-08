@@ -1,20 +1,7 @@
 {
   "club": "WBYFC",
-  "generated": "2026-04-07T07:04:29Z",
+  "generated": "2026-04-08T07:06:14Z",
   "fixtures": [
-    {
-      "id": "a24f5c234769779523d8ab2d383d8ac6",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Kirkby Colts U14",
-      "away_team": "WBYFC AC U14",
-      "venue": "Healswood NG17 3EE",
-      "division": "U14 Sun Spring Div 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "WBYFC AC U14",
-      "home_away": "away",
-      "opponent": "Kirkby Colts U14"
-    },
     {
       "id": "cb67a944745267e7f15079c89d985ddc",
       "date": "2026-04-11",
@@ -294,7 +281,7 @@
       "time": "18:00",
       "home_team": "WBYFC Blackhawks U14",
       "away_team": "WBYFC Scorpions U14",
-      "venue": "Riverside Complex NG7 2SA",
+      "venue": "Regatta Way NG2 5AT",
       "division": "U14 Sat Spring Div 6 Blue",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "WBYFC Blackhawks U14",
@@ -320,7 +307,7 @@
       "time": "18:00",
       "home_team": "WBYFC Blackhawks U14",
       "away_team": "WBYFC Scorpions U14",
-      "venue": "Riverside Complex NG7 2SA",
+      "venue": "Regatta Way NG2 5AT",
       "division": "U14 Sat Spring Div 6 Blue",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "WBYFC Scorpions U14",
@@ -352,6 +339,19 @@
       "team": "WBYFC Lyon U9",
       "home_away": "away",
       "opponent": "Silva FC Rushcliffe Gold U9"
+    },
+    {
+      "id": "5d13ef80d8f3455c4f69c285ffb2c922",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "WBYFC Olympia U9",
+      "away_team": "Edwalton Cavaliers White U9",
+      "venue": "Regatta Way NG2 5AT",
+      "division": "U9 Sat Spring Div 7 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Olympia U9",
+      "home_away": "home",
+      "opponent": "Edwalton Cavaliers White U9"
     },
     {
       "id": "a18c8027d04dfd1fde045a3d87deacb8",
@@ -651,19 +651,6 @@
       "team": "WBYFC Napoli U10",
       "home_away": "away",
       "opponent": "Heanor Town Vikings U10"
-    },
-    {
-      "id": "5d13ef80d8f3455c4f69c285ffb2c922",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "WBYFC Olympia U9",
-      "away_team": "Edwalton Cavaliers White U9",
-      "venue": "Gresham Park  NG2 7YF",
-      "division": "U9 Sat Spring Div 7 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "WBYFC Olympia U9",
-      "home_away": "home",
-      "opponent": "Edwalton Cavaliers White U9"
     },
     {
       "id": "af8bd11fe090f1f3517b52494d17fd44",
@@ -1017,19 +1004,6 @@
       "opponent": "Hemington Hammers Hornets U8"
     },
     {
-      "id": "3deeefa92c08e0c98c8352297e4fa2eb",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "DLFC Red U7",
-      "away_team": "WBYFC Feyanoord Black U7",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U7 Sun Spring Yellow",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "WBYFC Feyanoord Black U7",
-      "home_away": "away",
-      "opponent": "DLFC Red U7"
-    },
-    {
       "id": "872428a6c1b0089acc8c9d2e26f7db32",
       "date": "2026-04-19",
       "time": "10:00",
@@ -1080,19 +1054,6 @@
       "team": "WBYFC Phoenix U13",
       "home_away": "home",
       "opponent": "Arnold Town Maroon U13"
-    },
-    {
-      "id": "7db900f009de80eb5568774b54b00d87",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "WBYFC Rosario U10",
-      "away_team": "Be Your Best Dortmund U10",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U10 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "WBYFC Rosario U10",
-      "home_away": "home",
-      "opponent": "Be Your Best Dortmund U10"
     },
     {
       "id": "2f5d9621ffebb76234b5f06cbbb48c3e",
@@ -1173,30 +1134,43 @@
       "opponent": "Quarrydale United United U13"
     },
     {
-      "id": "0fe3b28de09e6a43b4083297f1e9d66c",
+      "id": "3deeefa92c08e0c98c8352297e4fa2eb",
       "date": "2026-04-19",
       "time": "10:30",
+      "home_team": "DLFC Red U7",
+      "away_team": "WBYFC Feyanoord Black U7",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U7 Sun Spring Yellow",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "WBYFC Feyanoord Black U7",
+      "home_away": "away",
+      "opponent": "DLFC Red U7"
+    },
+    {
+      "id": "7db900f009de80eb5568774b54b00d87",
+      "date": "2026-04-19",
+      "time": "10:30",
+      "home_team": "WBYFC Rosario U10",
+      "away_team": "Be Your Best Dortmund U10",
+      "venue": "Regatta Way NG2 5AT",
+      "division": "U10 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "WBYFC Rosario U10",
+      "home_away": "home",
+      "opponent": "Be Your Best Dortmund U10"
+    },
+    {
+      "id": "0fe3b28de09e6a43b4083297f1e9d66c",
+      "date": "2026-04-19",
+      "time": "10:45",
       "home_team": "WBYFC Rapids U11",
       "away_team": "Eastwood Athletic Blazers U11",
-      "venue": "Riverside Complex NG7 2SA",
+      "venue": "Gresham Sports Pitch NG2 7YF",
       "division": "U11 Sun Spring Div 7",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "WBYFC Rapids U11",
       "home_away": "home",
       "opponent": "Eastwood Athletic Blazers U11"
-    },
-    {
-      "id": "21993f401e417b6fb7e8477294b2b057",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Ilkeston Town Raptors U14",
-      "away_team": "WBYFC AC U14",
-      "venue": "Booths Playing Fields DE7 8JF",
-      "division": "U14 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "WBYFC AC U14",
-      "home_away": "away",
-      "opponent": "Ilkeston Town Raptors U14"
     },
     {
       "id": "370d6a416cae8129966e2f5edf9b538a",
@@ -1249,6 +1223,19 @@
       "team": "WBYFC Mavericks U12",
       "home_away": "home",
       "opponent": "Robin Hood Colts U12"
+    },
+    {
+      "id": "21993f401e417b6fb7e8477294b2b057",
+      "date": "2026-04-19",
+      "time": "11:40",
+      "home_team": "Ilkeston Town Raptors U14",
+      "away_team": "WBYFC AC U14",
+      "venue": "Booths Playing Fields DE7 8JF",
+      "division": "U14 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "WBYFC AC U14",
+      "home_away": "away",
+      "opponent": "Ilkeston Town Raptors U14"
     },
     {
       "id": "6bb2a609c9d34ed1d8f8ddbebe9a74a3",
@@ -1828,7 +1815,7 @@
       "time": "10:00",
       "home_team": "WBYFC BVB U10",
       "away_team": "Silva FC Southglade Black U10",
-      "venue": "Regatta Way NG2 5AT",
+      "venue": "The Nottingham Emmanuel School NG2 7YF",
       "division": "U10 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "WBYFC BVB U10",
@@ -1951,19 +1938,6 @@
       "team": "WBYFC Mavericks U12",
       "home_away": "away",
       "opponent": "Notts County Women U12 ^"
-    },
-    {
-      "id": "5e8f9a06c8bc3c92dcf7165e73d72c45",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "WBYFC PSG U9",
-      "away_team": "Bulwell Forest U9",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U9 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "WBYFC PSG U9",
-      "home_away": "home",
-      "opponent": "Bulwell Forest U9"
     },
     {
       "id": "8e4cbc63c595efcca6fd23bc37c111a4",
@@ -2107,6 +2081,19 @@
       "team": "WBYFC Inter U11",
       "home_away": "away",
       "opponent": "Silva FC Rushcliffe Red U11"
+    },
+    {
+      "id": "5e8f9a06c8bc3c92dcf7165e73d72c45",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "WBYFC PSG U9",
+      "away_team": "Bulwell Forest U9",
+      "venue": "Gresham Sports Pitch NG2 7YF",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "WBYFC PSG U9",
+      "home_away": "home",
+      "opponent": "Bulwell Forest U9"
     },
     {
       "id": "0db5e0fc69fcd7966e9bc270feb959e8",

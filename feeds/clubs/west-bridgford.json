@@ -1,6 +1,6 @@
 {
   "club": "West Bridgford",
-  "generated": "2026-04-07T07:04:29Z",
+  "generated": "2026-04-08T07:06:14Z",
   "fixtures": [
     {
       "id": "3c2f4d185182fa444977a45747ad1f51",
@@ -40,19 +40,6 @@
       "team": "West Bridgford Development",
       "home_away": "home",
       "opponent": "Collingham FC Development"
-    },
-    {
-      "id": "965654f8ae525c06c2f60bc399be0f14",
-      "date": "2026-04-07",
-      "time": "19:30",
-      "home_team": "West Bridgford Reserves",
-      "away_team": "Dunkirk AFC",
-      "venue": "REGATTA WAY SPORTS GROUND",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "West Bridgford Reserves",
-      "home_away": "home",
-      "opponent": "Dunkirk AFC"
     },
     {
       "id": "0ec6257b0d55511445d0bb6594fe426f",
@@ -653,6 +640,19 @@
       "opponent": "Blidworth Bengals F.C. U12"
     },
     {
+      "id": "0e6ded0e40db4ad5ed50611df0d1ad34",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Hucknall & Linby Harriers FC U12 Jets",
+      "away_team": "West Bridgford Colts U12 Lightning",
+      "venue": "HOLGATE ACADEMY",
+      "division": "U12 Div 3 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "West Bridgford Colts U12 Lightning",
+      "home_away": "away",
+      "opponent": "Hucknall & Linby Harriers FC U12 Jets"
+    },
+    {
       "id": "6c05ffe5a0ab7d65178db548cd4e27d2",
       "date": "2026-05-10",
       "time": "10:00",
@@ -703,19 +703,6 @@
       "team": "West Bridgford Development",
       "home_away": "away",
       "opponent": "Arnold Town FC Development"
-    },
-    {
-      "id": "148deabdcccbba6b95b87a06385b94b9",
-      "date": "2026-05-17",
-      "time": "10:00",
-      "home_team": "Hucknall & Linby Harriers FC U12 Jets",
-      "away_team": "West Bridgford Colts U12 Lightning",
-      "venue": "HOLGATE ACADEMY",
-      "division": "U12 Div 3 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "West Bridgford Colts U12 Lightning",
-      "home_away": "away",
-      "opponent": "Hucknall & Linby Harriers FC U12 Jets"
     },
     {
       "id": "a80483c8eece0a238e0b424cc9acf92b",
@@ -771,6 +758,23 @@
     }
   ],
   "results": [
+    {
+      "id": "965654f8ae525c06c2f60bc399be0f14",
+      "date": "2026-04-07",
+      "time": "19:30",
+      "home_team": "West Bridgford Reserves",
+      "away_team": "Dunkirk AFC",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "West Bridgford Reserves",
+      "home_away": "home",
+      "opponent": "Dunkirk AFC",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "36d370943c0944752e283e7ee9f5373a",
       "date": "2026-04-04",

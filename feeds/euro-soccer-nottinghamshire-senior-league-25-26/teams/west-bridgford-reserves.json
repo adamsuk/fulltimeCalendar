@@ -1,19 +1,8 @@
 {
   "team": "West Bridgford Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-07T07:04:29Z",
+  "generated": "2026-04-08T07:06:14Z",
   "fixtures": [
-    {
-      "id": "965654f8ae525c06c2f60bc399be0f14",
-      "date": "2026-04-07",
-      "time": "19:30",
-      "home_team": "West Bridgford Reserves",
-      "away_team": "Dunkirk AFC",
-      "venue": "REGATTA WAY SPORTS GROUND",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "home",
-      "opponent": "Dunkirk AFC"
-    },
     {
       "id": "2dd6b8d8b51e8d7f4b060bdb7b3dc224",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "965654f8ae525c06c2f60bc399be0f14",
+      "date": "2026-04-07",
+      "time": "19:30",
+      "home_team": "West Bridgford Reserves",
+      "away_team": "Dunkirk AFC",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "home",
+      "opponent": "Dunkirk AFC",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "06c209e900c9a2b1ca8b4ead8d8a7ba2",
       "date": "2026-03-31",

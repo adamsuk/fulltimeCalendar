@@ -1,7 +1,7 @@
 {
   "team": "Awsworth Villa FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-07T07:04:29Z",
+  "generated": "2026-04-08T07:06:14Z",
   "fixtures": [
     {
       "id": "c0f70b7e8800cb8f13340a274e51998c",
@@ -13,17 +13,6 @@
       "division": "Euro Soccer Premier Division",
       "home_away": "home",
       "opponent": "Dunkirk AFC"
-    },
-    {
-      "id": "ed81805493542caf073c3ef34c1e4c9b",
-      "date": "2026-04-07",
-      "time": "19:45",
-      "home_team": "Kimberley Miners Welfare Reserves",
-      "away_team": "Awsworth Villa FC",
-      "venue": "STAG RECREATION GROUND",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Kimberley Miners Welfare Reserves"
     },
     {
       "id": "dad7cba8331aed6799b3d337cbedcfe8",
@@ -104,6 +93,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ed81805493542caf073c3ef34c1e4c9b",
+      "date": "2026-04-07",
+      "time": "19:45",
+      "home_team": "Kimberley Miners Welfare Reserves",
+      "away_team": "Awsworth Villa FC",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Kimberley Miners Welfare Reserves",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "62fdfb7a85ecdf73c668006b6675292f",
       "date": "2026-03-28",
