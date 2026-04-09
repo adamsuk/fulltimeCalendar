@@ -1,33 +1,7 @@
 {
   "club": "AFC Warriors",
-  "generated": "2026-04-08T07:06:14Z",
+  "generated": "2026-04-09T07:10:25Z",
   "fixtures": [
-    {
-      "id": "7243583af1a966e490394b8e800df17a",
-      "date": "2026-04-08",
-      "time": "19:45",
-      "home_team": "Calverton Miners Welfare U23",
-      "away_team": "AFC Warriors Development",
-      "venue": "Hollinwood Lane Main Pitch",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "AFC Warriors Development",
-      "home_away": "away",
-      "opponent": "Calverton Miners Welfare U23"
-    },
-    {
-      "id": "657259a798cf534def307be3b5f099df",
-      "date": "2026-04-08",
-      "time": "20:50",
-      "home_team": "AFC Warriors Development",
-      "away_team": "Calverton Miners Welfare U23",
-      "venue": "Hollinwood Lane Main Pitch",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "AFC Warriors Development",
-      "home_away": "home",
-      "opponent": "Calverton Miners Welfare U23"
-    },
     {
       "id": "e82a4065c7ecac12dc1e31376fcb1644",
       "date": "2026-04-11",
@@ -148,7 +122,7 @@
     {
       "id": "cb271a8dab0af6b423c268c80d5de2cc",
       "date": "2026-04-18",
-      "time": "11:00",
+      "time": "12:00",
       "home_team": "Newark Town Cavaliers U13",
       "away_team": "AFC Warriors Spartans U13",
       "venue": "Devon Park NG24 4QN",
@@ -355,6 +329,40 @@
     }
   ],
   "results": [
+    {
+      "id": "657259a798cf534def307be3b5f099df",
+      "date": "2026-04-08",
+      "time": "20:50",
+      "home_team": "AFC Warriors Development",
+      "away_team": "Calverton Miners Welfare U23",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "AFC Warriors Development",
+      "home_away": "home",
+      "opponent": "Calverton Miners Welfare U23",
+      "goals_for": 4,
+      "goals_against": 0
+    },
+    {
+      "id": "7243583af1a966e490394b8e800df17a",
+      "date": "2026-04-08",
+      "time": "19:45",
+      "home_team": "Calverton Miners Welfare U23",
+      "away_team": "AFC Warriors Development",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "AFC Warriors Development",
+      "home_away": "away",
+      "opponent": "Calverton Miners Welfare U23",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "1cb7f5ec11507ae4cda647d438bb538e",
       "date": "2026-04-04",

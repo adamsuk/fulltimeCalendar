@@ -1,7 +1,7 @@
 {
   "team": "Clifton All Whites Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-08T07:06:14Z",
+  "generated": "2026-04-09T07:10:25Z",
   "fixtures": [
     {
       "id": "ae36f7805ae1bde8559cb628d5bd6f1e",
@@ -13,20 +13,24 @@
       "division": "NSL Division One",
       "home_away": "away",
       "opponent": "Gedling Southbank FC"
-    },
+    }
+  ],
+  "results": [
     {
       "id": "bb1e88f2fab993bc6930a8f85308accd",
       "date": "2026-04-08",
       "time": "19:30",
       "home_team": "Hucknall Town Reserves",
       "away_team": "Clifton All Whites Reserves",
-      "venue": "HUCKNALL TOWN FOOTBALL CLUB",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
       "division": "NSL Division One",
       "home_away": "away",
-      "opponent": "Hucknall Town Reserves"
-    }
-  ],
-  "results": [
+      "opponent": "Hucknall Town Reserves",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "6bd8f7ae41ff9a7112cf7c569281ef42",
       "date": "2026-03-14",

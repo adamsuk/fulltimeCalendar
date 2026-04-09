@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-08T07:06:14Z",
+  "generated": "2026-04-09T07:10:25Z",
   "fixtures": [
-    {
-      "id": "84c00910af7889df3659525a50e3902a",
-      "date": "2026-04-08",
-      "time": "19:30",
-      "home_team": "Arnold Town FC",
-      "away_team": "Keyworth United FC",
-      "venue": "EAGLE VALLEY #1",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Arnold Town FC"
-    },
     {
       "id": "22ce917eb72284ca0329dc6ecf3c8fda",
       "date": "2026-04-11",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "84c00910af7889df3659525a50e3902a",
+      "date": "2026-04-08",
+      "time": "19:30",
+      "home_team": "Arnold Town FC",
+      "away_team": "Keyworth United FC",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Arnold Town FC",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "92c06819b43b6630525ef676dd1c5e7c",
       "date": "2026-04-04",

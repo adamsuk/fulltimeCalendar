@@ -1,6 +1,6 @@
 {
   "club": "Clifton All",
-  "generated": "2026-04-08T07:06:14Z",
+  "generated": "2026-04-09T07:10:25Z",
   "fixtures": [
     {
       "id": "ae36f7805ae1bde8559cb628d5bd6f1e",
@@ -14,19 +14,6 @@
       "team": "Clifton All Whites Reserves",
       "home_away": "away",
       "opponent": "Gedling Southbank FC"
-    },
-    {
-      "id": "bb1e88f2fab993bc6930a8f85308accd",
-      "date": "2026-04-08",
-      "time": "19:30",
-      "home_team": "Hucknall Town Reserves",
-      "away_team": "Clifton All Whites Reserves",
-      "venue": "HUCKNALL TOWN FOOTBALL CLUB",
-      "division": "NSL Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Clifton All Whites Reserves",
-      "home_away": "away",
-      "opponent": "Hucknall Town Reserves"
     },
     {
       "id": "3482f8604f360dbb557404b2752ec15d",
@@ -53,19 +40,6 @@
       "team": "Clifton All Whites Blue U13",
       "home_away": "away",
       "opponent": "Eastwood Athletic Eagles U13"
-    },
-    {
-      "id": "6dc13aee9ed9097f4945fcb4b8d9cbce",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Clifton All Whites U13",
-      "away_team": "Newark Town FC U13 Nesbitts",
-      "venue": "CLIFTON FOOTBALL CENTRE",
-      "division": "U13 Div 1 11 v 11",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Clifton All Whites U13",
-      "home_away": "home",
-      "opponent": "Newark Town FC U13 Nesbitts"
     },
     {
       "id": "6e2ac7e2668eec1d76e16a90e1b985a8",
@@ -523,6 +497,19 @@
       "opponent": "Sherwood Colliery Outlaws U12"
     },
     {
+      "id": "3feda28c8d8fba765e6106b9e3659102",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U13",
+      "away_team": "Newark Town FC U13 Nesbitts",
+      "venue": "CLIFTON FOOTBALL CENTRE",
+      "division": "U13 Div 1 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U13",
+      "home_away": "home",
+      "opponent": "Newark Town FC U13 Nesbitts"
+    },
+    {
       "id": "90c8b3e6784ccef47f3bcf8ae40aa7dc",
       "date": "2026-04-26",
       "time": "11:00",
@@ -602,6 +589,23 @@
     }
   ],
   "results": [
+    {
+      "id": "bb1e88f2fab993bc6930a8f85308accd",
+      "date": "2026-04-08",
+      "time": "19:30",
+      "home_team": "Hucknall Town Reserves",
+      "away_team": "Clifton All Whites Reserves",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "NSL Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Clifton All Whites Reserves",
+      "home_away": "away",
+      "opponent": "Hucknall Town Reserves",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "6f7cb1551564ebf6ffd077259e528326",
       "date": "2026-03-28",

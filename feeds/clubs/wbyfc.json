@@ -1,6 +1,6 @@
 {
   "club": "WBYFC",
-  "generated": "2026-04-08T07:06:14Z",
+  "generated": "2026-04-09T07:10:25Z",
   "fixtures": [
     {
       "id": "cb67a944745267e7f15079c89d985ddc",
@@ -783,6 +783,19 @@
       "opponent": "West Hallam Wanderers U14"
     },
     {
+      "id": "681b226ca5d755895c3616808a8f829b",
+      "date": "2026-04-18",
+      "time": "10:45",
+      "home_team": "WBYFC Buffalos U12",
+      "away_team": "Hucknall Sports White U12",
+      "venue": "Gresham Park  NG2 7YF",
+      "division": "U12 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Buffalos U12",
+      "home_away": "home",
+      "opponent": "Hucknall Sports White U12"
+    },
+    {
       "id": "ce8e72740da3bb83e538e35d59e5d3ed",
       "date": "2026-04-18",
       "time": "11:00",
@@ -872,19 +885,6 @@
       "team": "WBYFC Thunderbolts U12",
       "home_away": "away",
       "opponent": "Muskham Cougars U12"
-    },
-    {
-      "id": "681b226ca5d755895c3616808a8f829b",
-      "date": "2026-04-18",
-      "time": "11:30",
-      "home_team": "WBYFC Buffalos U12",
-      "away_team": "Hucknall Sports White U12",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U12 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "WBYFC Buffalos U12",
-      "home_away": "home",
-      "opponent": "Hucknall Sports White U12"
     },
     {
       "id": "cba3e2555643077e305223ce1f663f79",
@@ -1134,6 +1134,19 @@
       "opponent": "Quarrydale United United U13"
     },
     {
+      "id": "370d6a416cae8129966e2f5edf9b538a",
+      "date": "2026-04-19",
+      "time": "10:30",
+      "home_team": "WBYFC Boca U13",
+      "away_team": "PMG Excel U13",
+      "venue": "Gresham Sports Pitch NG2 7YF",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "WBYFC Boca U13",
+      "home_away": "home",
+      "opponent": "PMG Excel U13"
+    },
+    {
       "id": "3deeefa92c08e0c98c8352297e4fa2eb",
       "date": "2026-04-19",
       "time": "10:30",
@@ -1171,19 +1184,6 @@
       "team": "WBYFC Rapids U11",
       "home_away": "home",
       "opponent": "Eastwood Athletic Blazers U11"
-    },
-    {
-      "id": "370d6a416cae8129966e2f5edf9b538a",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "WBYFC Boca U13",
-      "away_team": "PMG Excel U13",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U13 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "WBYFC Boca U13",
-      "home_away": "home",
-      "opponent": "PMG Excel U13"
     },
     {
       "id": "3b608d6abda3b9238b239566b628b4f1",
@@ -3612,6 +3612,23 @@
       "team": "WBYFC Dynamos Black U8",
       "home_away": "away",
       "opponent": "Newark Brazil Corinthians U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "b5380b814e938970d9b439a54ab4e2ff",
+      "date": "2026-03-21",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic Leopards U8",
+      "away_team": "WBYFC Dynamos Stripes U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Dynamos Stripes U8",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic Leopards U8",
       "goals_for": null,
       "goals_against": null
     },

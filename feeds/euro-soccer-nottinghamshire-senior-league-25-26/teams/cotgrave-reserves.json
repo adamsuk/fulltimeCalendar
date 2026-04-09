@@ -1,7 +1,7 @@
 {
   "team": "Cotgrave Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-08T07:06:14Z",
+  "generated": "2026-04-09T07:10:25Z",
   "fixtures": [
     {
       "id": "7cfcbaffede28da14b0b8dc24cec8e9e",
@@ -13,17 +13,6 @@
       "division": "NSL Division Two",
       "home_away": "home",
       "opponent": "Langwith Whitestar FC"
-    },
-    {
-      "id": "ef6c520150d27138acbd78417662cf4c",
-      "date": "2026-04-08",
-      "time": "18:30",
-      "home_team": "Wollaton Reserves",
-      "away_team": "Cotgrave Reserves",
-      "venue": "WOLLATON SPORTS ASSOCIATION GROUND",
-      "division": "NSL Division Two",
-      "home_away": "away",
-      "opponent": "Wollaton Reserves"
     },
     {
       "id": "ee880537b7328f346c2b574bcd322500",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ef6c520150d27138acbd78417662cf4c",
+      "date": "2026-04-08",
+      "time": "18:30",
+      "home_team": "Wollaton Reserves",
+      "away_team": "Cotgrave Reserves",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Two",
+      "home_away": "away",
+      "opponent": "Wollaton Reserves",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "90e2eda3e82eaae4669cd238b9b88ea9",
       "date": "2026-04-04",
