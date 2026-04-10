@@ -1,6 +1,6 @@
 {
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-09T07:10:25Z",
+  "generated": "2026-04-10T07:14:49Z",
   "fixtures": [
     {
       "id": "67bc4be566a984541f88c71aa3c3fc04",
@@ -1992,15 +1992,6 @@
       "division": "U16 Div 2 League Cup"
     },
     {
-      "id": "018e36ae42bf047978061bf34284253e",
-      "date": "2026-04-19",
-      "time": "16:00",
-      "home_team": "Mansfield Town F.C. Girls U13",
-      "away_team": "Hilton Harriers U13 Girls",
-      "venue": "RH ACADEMY",
-      "division": "U13 (9v9) League Cup 1"
-    },
-    {
       "id": "54578ecc6b68de1fbf0ef3022b97e5fc",
       "date": "2026-04-22",
       "time": "10:00",
@@ -2739,15 +2730,6 @@
       "division": "U16 Div 3 League Cup"
     },
     {
-      "id": "df0b6a4a6a00350c8b4a545b65f149e8",
-      "date": "2026-04-26",
-      "time": "12:00",
-      "home_team": "Ravenshead Reds F.C. Youth U18",
-      "away_team": "West Bridgford Colts U18 Rangers Girls",
-      "venue": "RH ACADEMY",
-      "division": "U18 Div 2 League Cup"
-    },
-    {
       "id": "d79511c731ef6bcee38891366697eb83",
       "date": "2026-04-26",
       "time": "12:00",
@@ -2890,6 +2872,24 @@
       "away_team": "Long Eaton United U16 Girls",
       "venue": "RH ACADEMY",
       "division": "U16 Div 1 League Cup"
+    },
+    {
+      "id": "17a2015bf61e2e4db44ae57d2bc71df4",
+      "date": "2026-04-26",
+      "time": "16:00",
+      "home_team": "Mansfield Town F.C. Girls U13",
+      "away_team": "Hilton Harriers U13 Girls",
+      "venue": "RH ACADEMY",
+      "division": "U13 (9v9) League Cup 1"
+    },
+    {
+      "id": "df0b6a4a6a00350c8b4a545b65f149e8",
+      "date": "2026-04-26",
+      "time": "16:00",
+      "home_team": "Ravenshead Reds F.C. Youth U18",
+      "away_team": "West Bridgford Colts U18 Rangers Girls",
+      "venue": "RH ACADEMY",
+      "division": "U18 Div 2 League Cup"
     },
     {
       "id": "06ff050aaa3004dd7868cd1a675ba4d3",
@@ -3972,6 +3972,15 @@
       "division": "Senior Div 4"
     },
     {
+      "id": "0a6d4d20e07d50c8cee17df06bc169a3",
+      "date": "2026-05-12",
+      "time": "19:30",
+      "home_team": "Calverton Miners Welfare FC",
+      "away_team": "Mansfield Town Ladies FC Development",
+      "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
+      "division": "Senior Div 1 League Cup"
+    },
+    {
       "id": "58cfa5e62c7b4f8d7ee75c85b6a5642a",
       "date": "2026-05-13",
       "time": "10:00",
@@ -3983,20 +3992,11 @@
     {
       "id": "3477720e47ebb5146d3dc35eac41eb7e",
       "date": "2026-05-13",
-      "time": "18:00",
+      "time": "19:30",
       "home_team": "Shirebrook Rangers Women",
       "away_team": "Eastwood & Kimberley FC",
-      "venue": "SHIREBROOK ACADEMY",
+      "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
       "division": "Senior Div 2 League Cup"
-    },
-    {
-      "id": "45688a8f47dbc72eb614a1c759ee03e8",
-      "date": "2026-05-14",
-      "time": "18:00",
-      "home_team": "Bingham Town FC Women Red",
-      "away_team": "Meden Vale Colts FC Ladies",
-      "venue": "BUTT FIELD SPORTS CLUB",
-      "division": "Senior Div 3 League Cup"
     },
     {
       "id": "f3d627667807742c5463b1ad3cd6cfdd",
@@ -4006,6 +4006,15 @@
       "away_team": "Sherwood Colliery FC Ladies",
       "venue": "EAGLE VALLEY",
       "division": "Seniors Div 2"
+    },
+    {
+      "id": "45688a8f47dbc72eb614a1c759ee03e8",
+      "date": "2026-05-14",
+      "time": "19:30",
+      "home_team": "Bingham Town FC Women Red",
+      "away_team": "Meden Vale Colts FC Ladies",
+      "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
+      "division": "Senior Div 3 League Cup"
     },
     {
       "id": "e3a42ab96335849f95a9e9682dd0ada0",
@@ -4251,15 +4260,6 @@
       "division": "U12 Div 2 P2"
     },
     {
-      "id": "72a8fa9ee59f74f7ca40277d3b239dfc",
-      "date": "2026-05-17",
-      "time": "10:00",
-      "home_team": "Ollerton Town Community FC U12 Girls",
-      "away_team": "Radcliffe Olympic FC U12 Girls Eagles",
-      "venue": "WALESBY LANE SPORTS GROUND",
-      "division": "U12 Div 2 P2"
-    },
-    {
       "id": "50f398c8f3bcd56c507c1229dc31b53f",
       "date": "2026-05-17",
       "time": "10:00",
@@ -4357,6 +4357,15 @@
       "away_team": "Nottingham F.C. Youth U14 Girls",
       "venue": "THE TREVOR CARTER PAVILION",
       "division": "U14 Div 3"
+    },
+    {
+      "id": "72a8fa9ee59f74f7ca40277d3b239dfc",
+      "date": "2026-05-17",
+      "time": "11:00",
+      "home_team": "Ollerton Town Community FC U12 Girls",
+      "away_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "venue": "JOSEPH WHITAKER SCHOOL",
+      "division": "U12 Div 2 P2"
     },
     {
       "id": "a729888f065a0705311d9a0659d5f732",
