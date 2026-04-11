@@ -1,19 +1,8 @@
 {
   "team": "East Leake Robins FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-10T07:14:49Z",
+  "generated": "2026-04-11T06:48:24Z",
   "fixtures": [
-    {
-      "id": "c57cdc1587599c6cae68516b5437ce7c",
-      "date": "2026-04-10",
-      "time": "20:00",
-      "home_team": "Bilborough TRD FC",
-      "away_team": "East Leake Robins FC",
-      "venue": "BASFORD UNITED GROUND #1",
-      "division": "NSL Division One",
-      "home_away": "away",
-      "opponent": "Bilborough TRD FC"
-    },
     {
       "id": "be4ad4d4045b6f1f0a08ce76b57efeab",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c57cdc1587599c6cae68516b5437ce7c",
+      "date": "2026-04-10",
+      "time": "20:00",
+      "home_team": "Bilborough TRD FC",
+      "away_team": "East Leake Robins FC",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "NSL Division One",
+      "home_away": "away",
+      "opponent": "Bilborough TRD FC",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "b827fd22305dd7f9a67bc76e3130c3d3",
       "date": "2026-03-28",

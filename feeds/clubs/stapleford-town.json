@@ -1,6 +1,6 @@
 {
   "club": "Stapleford Town",
-  "generated": "2026-04-10T07:14:49Z",
+  "generated": "2026-04-11T06:48:24Z",
   "fixtures": [
     {
       "id": "71ff33cc0a0c78af145dd7dfe9f0bd6b",
@@ -131,19 +131,6 @@
       "team": "Stapleford Town FC U13 Girls",
       "home_away": "away",
       "opponent": "Hilton Harriers U13 Girls"
-    },
-    {
-      "id": "852ea4a055d4d43db9497f1a9ee26b2e",
-      "date": "2026-04-16",
-      "time": "18:00",
-      "home_team": "Stapleford Town Saxons U12",
-      "away_team": "Melbourne Dynamo Rangers U12",
-      "venue": "Hickings Lane NG9 8PG",
-      "division": "U12 Sun Spring Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Stapleford Town Saxons U12",
-      "home_away": "home",
-      "opponent": "Melbourne Dynamo Rangers U12"
     },
     {
       "id": "dbed18ceaa0c45a2d586285309367092",
@@ -419,6 +406,19 @@
       "opponent": "Keyworth United F.C. U13 Girls"
     },
     {
+      "id": "9b49033515e43f02acf7afcd771dac95",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "Stapleford Town Saxons U12",
+      "away_team": "Melbourne Dynamo Rangers U12",
+      "venue": "Hickings Lane NG9 8PG",
+      "division": "U12 Sun Spring Div 2 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Stapleford Town Saxons U12",
+      "home_away": "home",
+      "opponent": "Melbourne Dynamo Rangers U12"
+    },
+    {
       "id": "4667ed7bae04a759969237993fecae92",
       "date": "2026-04-25",
       "time": "09:45",
@@ -653,6 +653,32 @@
       "opponent": "Cotgrave FC White U12"
     },
     {
+      "id": "baabfaf5a41e71ecda13fc6afda6bc9f",
+      "date": "2026-04-26",
+      "time": "11:30",
+      "home_team": "Stapleford Town FC U15 Girls",
+      "away_team": "Retford FC Juniors U15 GIRLS",
+      "venue": "STAPLEFORD COMMUNITY PAVILION",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Stapleford Town FC U15 Girls",
+      "home_away": "home",
+      "opponent": "Retford FC Juniors U15 GIRLS"
+    },
+    {
+      "id": "cf27f7beaefe1f497588c5209ddd5705",
+      "date": "2026-04-26",
+      "time": "12:30",
+      "home_team": "Retford FC Juniors U15 GIRLS",
+      "away_team": "Stapleford Town FC U15 Girls",
+      "venue": "Retford FC Juniors U15 GIRLS",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Stapleford Town FC U15 Girls",
+      "home_away": "away",
+      "opponent": "Retford FC Juniors U15 GIRLS"
+    },
+    {
       "id": "d429f244a9cb6f47d53f6450587139e1",
       "date": "2026-04-26",
       "time": "14:00",
@@ -794,32 +820,6 @@
       "team": "Stapleford Town FC U13 Girls",
       "home_away": "home",
       "opponent": "West Bridgford Colts U13 Lions"
-    },
-    {
-      "id": "6518aad3fd72fee0bb13078f51c1697d",
-      "date": "2026-05-24",
-      "time": "11:30",
-      "home_team": "Stapleford Town FC U15 Girls",
-      "away_team": "Retford FC Juniors U15 GIRLS",
-      "venue": "STAPLEFORD COMMUNITY PAVILION",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Stapleford Town FC U15 Girls",
-      "home_away": "home",
-      "opponent": "Retford FC Juniors U15 GIRLS"
-    },
-    {
-      "id": "edafeec867c7ce251d2d46bc2b9bab69",
-      "date": "2026-05-24",
-      "time": "12:30",
-      "home_team": "Retford FC Juniors U15 GIRLS",
-      "away_team": "Stapleford Town FC U15 Girls",
-      "venue": "Retford FC Juniors U15 GIRLS",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Stapleford Town FC U15 Girls",
-      "home_away": "away",
-      "opponent": "Retford FC Juniors U15 GIRLS"
     }
   ],
   "results": [

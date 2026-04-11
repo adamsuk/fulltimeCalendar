@@ -1,6 +1,6 @@
 {
   "club": "East Leake",
-  "generated": "2026-04-10T07:14:49Z",
+  "generated": "2026-04-11T06:48:24Z",
   "fixtures": [
     {
       "id": "29aff3c032b72a5f35c9472f58ae512d",
@@ -14,19 +14,6 @@
       "team": "East Leake FC U9 Bantams Girls Red",
       "home_away": "away",
       "opponent": "West Bridgford Colts U9 Stars"
-    },
-    {
-      "id": "c57cdc1587599c6cae68516b5437ce7c",
-      "date": "2026-04-10",
-      "time": "20:00",
-      "home_team": "Bilborough TRD FC",
-      "away_team": "East Leake Robins FC",
-      "venue": "BASFORD UNITED GROUND #1",
-      "division": "NSL Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "East Leake Robins FC",
-      "home_away": "away",
-      "opponent": "Bilborough TRD FC"
     },
     {
       "id": "2d1fbcad4b2d658848b6860b85bee1fb",
@@ -810,6 +797,23 @@
     }
   ],
   "results": [
+    {
+      "id": "c57cdc1587599c6cae68516b5437ce7c",
+      "date": "2026-04-10",
+      "time": "20:00",
+      "home_team": "Bilborough TRD FC",
+      "away_team": "East Leake Robins FC",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "NSL Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "East Leake Robins FC",
+      "home_away": "away",
+      "opponent": "Bilborough TRD FC",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "83a99b9c5aacb20d2231ffd35af3b827",
       "date": "2026-04-04",

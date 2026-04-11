@@ -1,19 +1,8 @@
 {
   "team": "RHP Colts Green U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-10T07:14:49Z",
+  "generated": "2026-04-11T06:48:24Z",
   "fixtures": [
-    {
-      "id": "25d1b00ec220781559dab57884d1c0dd",
-      "date": "2026-04-10",
-      "time": "18:00",
-      "home_team": "Robin Hood Colts Red U9",
-      "away_team": "RHP Colts Green U9",
-      "venue": "Ymca Sports Village NG24 4DH",
-      "division": "U9 Sun Spring Div 6 Red",
-      "home_away": "away",
-      "opponent": "Robin Hood Colts Red U9"
-    },
     {
       "id": "197f27e091b69806353fd18dee9460b3",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "25d1b00ec220781559dab57884d1c0dd",
+      "date": "2026-04-10",
+      "time": "18:00",
+      "home_team": "Robin Hood Colts Red U9",
+      "away_team": "RHP Colts Green U9",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sun Spring Div 6 Red",
+      "home_away": "away",
+      "opponent": "Robin Hood Colts Red U9",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "639df647a7ecc5bcb7fbce6d3976c70e",
       "date": "2026-03-15",
