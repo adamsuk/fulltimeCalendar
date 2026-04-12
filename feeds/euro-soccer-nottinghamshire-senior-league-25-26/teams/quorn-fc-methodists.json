@@ -1,19 +1,8 @@
 {
   "team": "Quorn FC Methodists",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "0ec6257b0d55511445d0bb6594fe426f",
-      "date": "2026-04-11",
-      "time": "10:30",
-      "home_team": "West Bridgford Development",
-      "away_team": "Quorn FC Methodists",
-      "venue": "GRESHAM SPORTS PARK #1",
-      "division": "Development Spring Division One",
-      "home_away": "away",
-      "opponent": "West Bridgford Development"
-    },
     {
       "id": "b485730f309d362212546772880832c7",
       "date": "2026-04-16",
@@ -93,6 +82,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0ec6257b0d55511445d0bb6594fe426f",
+      "date": "2026-04-11",
+      "time": "10:30",
+      "home_team": "West Bridgford Development",
+      "away_team": "Quorn FC Methodists",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "away",
+      "opponent": "West Bridgford Development",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "d069c402a2a50571254daa792b29d4ad",
       "date": "2026-04-04",

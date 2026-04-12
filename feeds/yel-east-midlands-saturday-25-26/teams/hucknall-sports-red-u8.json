@@ -1,19 +1,8 @@
 {
   "team": "Hucknall Sports Red U8",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "ba65f33020005df5fb4737285f8b3155",
-      "date": "2026-04-11",
-      "time": "11:00",
-      "home_team": "DLFC Yellow U8",
-      "away_team": "Hucknall Sports Red U8",
-      "venue": "Bestwood Road Sports Club NG6 8UA",
-      "division": "U8 Sat Spring 4 Red",
-      "home_away": "away",
-      "opponent": "DLFC Yellow U8"
-    },
     {
       "id": "be5c9bffc3a06e7c33bf0da643e6f206",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ba65f33020005df5fb4737285f8b3155",
+      "date": "2026-04-11",
+      "time": "11:00",
+      "home_team": "DLFC Yellow U8",
+      "away_team": "Hucknall Sports Red U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 4 Red",
+      "home_away": "away",
+      "opponent": "DLFC Yellow U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "523711fe7e6e172a791c03eddce81d46",
       "date": "2026-03-28",

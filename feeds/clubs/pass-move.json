@@ -1,6 +1,6 @@
 {
   "club": "Pass Move",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
     {
       "id": "aeff0b7aaa3e07f584218c506c17dfdd",
@@ -27,19 +27,6 @@
       "team": "Pass Move Grin Reserves",
       "home_away": "away",
       "opponent": "AJ Sport F.C. Reserves"
-    },
-    {
-      "id": "376e22da4c46d5937416042151fb660a",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Pass Move Grin Reserves",
-      "away_team": "Awsworth Villa Reserves",
-      "venue": "ARNOLD HILL SCHOOL POWERLEAGUE",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Pass Move Grin Reserves",
-      "home_away": "home",
-      "opponent": "Awsworth Villa Reserves"
     },
     {
       "id": "e0a6679a87931cefe193ba5fdd56837e",
@@ -95,6 +82,23 @@
     }
   ],
   "results": [
+    {
+      "id": "376e22da4c46d5937416042151fb660a",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Pass Move Grin Reserves",
+      "away_team": "Awsworth Villa Reserves",
+      "home_score": 6,
+      "away_score": 7,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Pass Move Grin Reserves",
+      "home_away": "home",
+      "opponent": "Awsworth Villa Reserves",
+      "goals_for": 6,
+      "goals_against": 7
+    },
     {
       "id": "b827fd22305dd7f9a67bc76e3130c3d3",
       "date": "2026-03-28",

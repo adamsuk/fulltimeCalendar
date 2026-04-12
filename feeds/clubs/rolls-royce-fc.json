@@ -1,20 +1,7 @@
 {
   "club": "Rolls Royce FC",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "e082998e40ae29338323273e20242cc1",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Rolls Royce FC",
-      "away_team": "Calverton Miners Welfare Reserves",
-      "venue": "DERBY LEISURE & EVENTS VENUE DERBY",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Rolls Royce FC",
-      "home_away": "home",
-      "opponent": "Calverton Miners Welfare Reserves"
-    },
     {
       "id": "21fcbb6d427eb3f685837cf0c3114a5c",
       "date": "2026-04-18",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "e082998e40ae29338323273e20242cc1",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Rolls Royce FC",
+      "away_team": "Calverton Miners Welfare Reserves",
+      "home_score": 2,
+      "away_score": 7,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Rolls Royce FC",
+      "home_away": "home",
+      "opponent": "Calverton Miners Welfare Reserves",
+      "goals_for": 2,
+      "goals_against": 7
+    },
     {
       "id": "5f83398e0ca911fa2a6cbc90c02c7cdc",
       "date": "2026-04-04",

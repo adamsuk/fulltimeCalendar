@@ -1,20 +1,7 @@
 {
   "club": "Walesby FC",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "7f8f156fe801373111b1a6c2e2e30689",
-      "date": "2026-04-11",
-      "time": "10:30",
-      "home_team": "Walesby F.C. U23s",
-      "away_team": "Grantham Town FC U23",
-      "venue": "Walesby F.C. Walesby FC U23s",
-      "division": "Development Spring Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Walesby F.C. U23s",
-      "home_away": "home",
-      "opponent": "Grantham Town FC U23"
-    },
     {
       "id": "14ececf5be9b6daca2d20c73945fed09",
       "date": "2026-04-18",
@@ -47,7 +34,7 @@
       "time": "10:30",
       "home_team": "Radcliffe Olympic FC U23",
       "away_team": "Walesby F.C. U23s",
-      "venue": "WHARF LANE RECREATION GROUND",
+      "venue": "Walesby F.C. Walesby FC U23s",
       "division": "Development Spring Division Two",
       "league": "Euro Soccer Nottinghamshire Senior League 25/26",
       "team": "Walesby F.C. U23s",
@@ -82,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "7f8f156fe801373111b1a6c2e2e30689",
+      "date": "2026-04-11",
+      "time": "10:30",
+      "home_team": "Walesby F.C. U23s",
+      "away_team": "Grantham Town FC U23",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Walesby F.C. U23s",
+      "home_away": "home",
+      "opponent": "Grantham Town FC U23",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "aaa65c9424ff7a927dc2a51b465b64c4",
       "date": "2026-04-04",

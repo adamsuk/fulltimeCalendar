@@ -1,20 +1,7 @@
 {
   "club": "Inspire Nottingham",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "181cb032cb5b36a1a58297cedd27af40",
-      "date": "2026-04-11",
-      "time": "11:00",
-      "home_team": "Inspire Nottingham FC Red U13",
-      "away_team": "G3A FC Benfica U13",
-      "venue": "Powerleague Arnold NG5 6NZ",
-      "division": "U13 Sat Spring Div 1",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Inspire Nottingham FC Red U13",
-      "home_away": "home",
-      "opponent": "G3A FC Benfica U13"
-    },
     {
       "id": "923b1eb03341cb34af3bf8fd81f1ee70",
       "date": "2026-04-12",
@@ -68,6 +55,19 @@
       "opponent": "Meden Vale Colts Red U8"
     },
     {
+      "id": "262a574b93a648fa4bfe28f988e3b279",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Market Warsop Stags U13",
+      "away_team": "Inspire Nottingham FC Red U13",
+      "venue": "John Fretwell Centre NG19 8LL",
+      "division": "U13 Sat Spring Div 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Inspire Nottingham FC Red U13",
+      "home_away": "away",
+      "opponent": "Market Warsop Stags U13"
+    },
+    {
       "id": "3a391108b5866200dd4d41fb5e570dd1",
       "date": "2026-04-18",
       "time": "10:00",
@@ -92,19 +92,6 @@
       "team": "Inspire Nottingham U9",
       "home_away": "away",
       "opponent": "WBYFC Corinthians U9"
-    },
-    {
-      "id": "262a574b93a648fa4bfe28f988e3b279",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Market Warsop Stags U13",
-      "away_team": "Inspire Nottingham FC Red U13",
-      "venue": "John Fretwell Centre NG19 8LL",
-      "division": "U13 Sat Spring Div 1",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Inspire Nottingham FC Red U13",
-      "home_away": "away",
-      "opponent": "Market Warsop Stags U13"
     },
     {
       "id": "6fdaf70ea1efee280e43527627baeb3c",
@@ -251,6 +238,23 @@
     }
   ],
   "results": [
+    {
+      "id": "181cb032cb5b36a1a58297cedd27af40",
+      "date": "2026-04-11",
+      "time": "11:00",
+      "home_team": "Inspire Nottingham FC Red U13",
+      "away_team": "G3A FC Benfica U13",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Spring Div 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Inspire Nottingham FC Red U13",
+      "home_away": "home",
+      "opponent": "G3A FC Benfica U13",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "7b06dab684edd1def6288297588bc799",
       "date": "2026-03-29",

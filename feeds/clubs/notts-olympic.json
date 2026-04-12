@@ -1,33 +1,7 @@
 {
   "club": "Notts Olympic",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "d71195bc734cbb09aef66ade29753ec6",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Notts Olympic FC U11",
-      "away_team": "Market Warsop Mavericks U11",
-      "venue": "Birchover Park NG8 4BW",
-      "division": "U11 Sat YEL Trophy",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Notts Olympic FC U11",
-      "home_away": "home",
-      "opponent": "Market Warsop Mavericks U11"
-    },
-    {
-      "id": "076cd796712a936ea706731423e86452",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Dunkirk AFC",
-      "away_team": "Notts Olympic FC",
-      "venue": "RON STEEL SPORTS GROUND #1",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Notts Olympic FC",
-      "home_away": "away",
-      "opponent": "Dunkirk AFC"
-    },
     {
       "id": "082583a9f18d4f91a7ce49b0197eb07c",
       "date": "2026-04-11",
@@ -303,6 +277,40 @@
     }
   ],
   "results": [
+    {
+      "id": "076cd796712a936ea706731423e86452",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Dunkirk AFC",
+      "away_team": "Notts Olympic FC",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Notts Olympic FC",
+      "home_away": "away",
+      "opponent": "Dunkirk AFC",
+      "goals_for": 3,
+      "goals_against": 0
+    },
+    {
+      "id": "d71195bc734cbb09aef66ade29753ec6",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Notts Olympic FC U11",
+      "away_team": "Market Warsop Mavericks U11",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat YEL Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Notts Olympic FC U11",
+      "home_away": "home",
+      "opponent": "Market Warsop Mavericks U11",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "71cbfd8408f66bb2946e77a98beb2987",
       "date": "2026-04-07",

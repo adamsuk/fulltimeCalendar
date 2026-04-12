@@ -1,6 +1,6 @@
 {
   "club": "East Leake",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
     {
       "id": "29aff3c032b72a5f35c9472f58ae512d",
@@ -14,19 +14,6 @@
       "team": "East Leake FC U9 Bantams Girls Red",
       "home_away": "away",
       "opponent": "West Bridgford Colts U9 Stars"
-    },
-    {
-      "id": "2d1fbcad4b2d658848b6860b85bee1fb",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Ravenshead Reds FC",
-      "away_team": "East Leake Robins Reserves",
-      "venue": "RAVENSHEAD LEISURE CENTRE",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "East Leake Robins Reserves",
-      "home_away": "away",
-      "opponent": "Ravenshead Reds FC"
     },
     {
       "id": "912b31f8a6a93e274dac44c953ee8063",
@@ -797,6 +784,23 @@
     }
   ],
   "results": [
+    {
+      "id": "2d1fbcad4b2d658848b6860b85bee1fb",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Ravenshead Reds FC",
+      "away_team": "East Leake Robins Reserves",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "East Leake Robins Reserves",
+      "home_away": "away",
+      "opponent": "Ravenshead Reds FC",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "c57cdc1587599c6cae68516b5437ce7c",
       "date": "2026-04-10",

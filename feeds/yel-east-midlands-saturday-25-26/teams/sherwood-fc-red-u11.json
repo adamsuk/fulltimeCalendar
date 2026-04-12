@@ -1,19 +1,8 @@
 {
   "team": "Sherwood FC Red U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "c9f928b6dc64919dc5bd2e63d57e97da",
-      "date": "2026-04-11",
-      "time": "11:00",
-      "home_team": "Nottingham FC Emeralds U11",
-      "away_team": "Sherwood FC Red U11",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U11 Sat Spring Div 5 Blue",
-      "home_away": "away",
-      "opponent": "Nottingham FC Emeralds U11"
-    },
     {
       "id": "a40f95ba5bf7bae158a86a61e55dd54a",
       "date": "2026-04-14",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c9f928b6dc64919dc5bd2e63d57e97da",
+      "date": "2026-04-11",
+      "time": "11:00",
+      "home_team": "Nottingham FC Emeralds U11",
+      "away_team": "Sherwood FC Red U11",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 5 Blue",
+      "home_away": "away",
+      "opponent": "Nottingham FC Emeralds U11",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "3ab43abdc92df66aa4bfa5d6753fad42",
       "date": "2026-03-21",

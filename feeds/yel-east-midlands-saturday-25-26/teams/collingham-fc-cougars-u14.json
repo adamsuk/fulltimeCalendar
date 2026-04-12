@@ -1,19 +1,8 @@
 {
   "team": "Collingham FC Cougars U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "9b4f5a6f21b85ca1cde22af364a98a12",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Ravenshead Reds U14",
-      "away_team": "Collingham FC Cougars U14",
-      "venue": "Joseph Whitaker School  NG21 0AG",
-      "division": "U14 Sat Spring Div 6 Red",
-      "home_away": "away",
-      "opponent": "Ravenshead Reds U14"
-    },
     {
       "id": "2c7a9467e153fae3379dc35e46b913c8",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "9b4f5a6f21b85ca1cde22af364a98a12",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Ravenshead Reds U14",
+      "away_team": "Collingham FC Cougars U14",
+      "home_score": 1,
+      "away_score": 11,
+      "venue": "",
+      "division": "U14 Sat Spring Div 6 Red",
+      "home_away": "away",
+      "opponent": "Ravenshead Reds U14",
+      "goals_for": 11,
+      "goals_against": 1
+    },
     {
       "id": "bb3f2dcb805edebe4cb7d11a0bdf7404",
       "date": "2026-03-21",

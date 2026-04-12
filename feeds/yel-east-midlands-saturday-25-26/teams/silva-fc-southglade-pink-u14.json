@@ -1,19 +1,8 @@
 {
   "team": "Silva FC Southglade Pink U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "558a1c8b7a759d3e48b1a240e24fbec2",
-      "date": "2026-04-11",
-      "time": "10:30",
-      "home_team": "Bingham Town Red U14",
-      "away_team": "Silva FC Southglade Pink U14",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U14 Sat YEL Inter Cup",
-      "home_away": "away",
-      "opponent": "Bingham Town Red U14"
-    },
     {
       "id": "206df6bedb21e4484f77de248bb2d292",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "558a1c8b7a759d3e48b1a240e24fbec2",
+      "date": "2026-04-11",
+      "time": "10:30",
+      "home_team": "Bingham Town Red U14",
+      "away_team": "Silva FC Southglade Pink U14",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sat YEL Inter Cup",
+      "home_away": "away",
+      "opponent": "Bingham Town Red U14",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "5bc6554a07af7bdde171823df8411c24",
       "date": "2026-03-21",

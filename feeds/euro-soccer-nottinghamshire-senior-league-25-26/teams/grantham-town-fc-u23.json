@@ -1,7 +1,7 @@
 {
   "team": "Grantham Town FC U23",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
     {
       "id": "aa2b459b2ef1439eb56b1321ce99fb07",
@@ -13,17 +13,6 @@
       "division": "Development Spring Division Two",
       "home_away": "home",
       "opponent": "Newark Town FC U23's"
-    },
-    {
-      "id": "7f8f156fe801373111b1a6c2e2e30689",
-      "date": "2026-04-11",
-      "time": "10:30",
-      "home_team": "Walesby F.C. U23s",
-      "away_team": "Grantham Town FC U23",
-      "venue": "Walesby F.C. Walesby FC U23s",
-      "division": "Development Spring Division Two",
-      "home_away": "away",
-      "opponent": "Walesby F.C. U23s"
     },
     {
       "id": "30d97aa45e2eb529836af5bc0963b8bf",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7f8f156fe801373111b1a6c2e2e30689",
+      "date": "2026-04-11",
+      "time": "10:30",
+      "home_team": "Walesby F.C. U23s",
+      "away_team": "Grantham Town FC U23",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "home_away": "away",
+      "opponent": "Walesby F.C. U23s",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "d20b12dfabad345690b954c331978b4c",
       "date": "2026-03-21",

@@ -1,19 +1,8 @@
 {
   "team": "AJ Sport FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "f4eddc83e102ef3145d2a49e72432e33",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "AFC Parabellum",
-      "away_team": "AJ Sport FC",
-      "venue": "Melbourne Park #1",
-      "division": "NSL Division Two",
-      "home_away": "away",
-      "opponent": "AFC Parabellum"
-    },
     {
       "id": "5c2a7af689200550862f806d3147aa26",
       "date": "2026-04-18",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f4eddc83e102ef3145d2a49e72432e33",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "AFC Parabellum",
+      "away_team": "AJ Sport FC",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Two",
+      "home_away": "away",
+      "opponent": "AFC Parabellum",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "dbb1e64b5253087d8bf6dcf3cd6ec586",
       "date": "2026-04-04",

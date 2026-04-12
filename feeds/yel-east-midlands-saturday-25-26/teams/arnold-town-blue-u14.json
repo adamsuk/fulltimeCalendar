@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town Blue U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "d8e2d4653219f796461d988c668be4c6",
-      "date": "2026-04-11",
-      "time": "10:30",
-      "home_team": "Arnold Town Blue U14",
-      "away_team": "Meden Vale Colts Gold U14",
-      "venue": "Eagle Valley NG5 8PS",
-      "division": "U14 Sat YEL Challenge Trophy",
-      "home_away": "home",
-      "opponent": "Meden Vale Colts Gold U14"
-    },
     {
       "id": "05c556f66678db713912c13dbccfac34",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d8e2d4653219f796461d988c668be4c6",
+      "date": "2026-04-11",
+      "time": "10:30",
+      "home_team": "Arnold Town Blue U14",
+      "away_team": "Meden Vale Colts Gold U14",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sat YEL Challenge Trophy",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts Gold U14",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "c3a517f140136192c2aaee067f21ec18",
       "date": "2026-03-21",

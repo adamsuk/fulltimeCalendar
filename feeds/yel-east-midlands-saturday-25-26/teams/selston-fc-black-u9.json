@@ -1,19 +1,8 @@
 {
   "team": "Selston FC Black U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "ae8fe5dd27cdb7fd42bb6e84c3f2a0a7",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Selston FC Black U9",
-      "away_team": "Arnold Town Blue U9",
-      "venue": "Selston Parish Hall  NG16 6EE",
-      "division": "U9 Sat Spring Div 8 Red",
-      "home_away": "home",
-      "opponent": "Arnold Town Blue U9"
-    },
     {
       "id": "2d33f916bf879b6aeb0e1e7cb09adf96",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ae8fe5dd27cdb7fd42bb6e84c3f2a0a7",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Selston FC Black U9",
+      "away_team": "Arnold Town Blue U9",
+      "home_score": 10,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat Spring Div 8 Red",
+      "home_away": "home",
+      "opponent": "Arnold Town Blue U9",
+      "goals_for": 10,
+      "goals_against": 3
+    },
     {
       "id": "f198f098a90060b075a2d5598cbe0cce",
       "date": "2026-03-21",

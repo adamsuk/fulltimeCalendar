@@ -1,20 +1,7 @@
 {
   "club": "Woodthorpe Community",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "cf845ab03c2fdba2f96303ba9a8570f1",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Woodthorpe Community Union U7",
-      "away_team": "Blidworth Bengals U7",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U7 Sat Spring 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Woodthorpe Community Union U7",
-      "home_away": "home",
-      "opponent": "Blidworth Bengals U7"
-    },
     {
       "id": "79f7f5682d37e614fed33e83ba384383",
       "date": "2026-04-12",
@@ -27,19 +14,6 @@
       "team": "Woodthorpe Community U12 Warriors",
       "home_away": "home",
       "opponent": "Sherwood FC U12 Girls"
-    },
-    {
-      "id": "752002808752fb33291a665953266c80",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Shirebrook Rangers U7",
-      "away_team": "Woodthorpe Community Union U7",
-      "venue": "Shirebrook Academy  NG20 8QF",
-      "division": "U7 Sat Spring 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Woodthorpe Community Union U7",
-      "home_away": "away",
-      "opponent": "Shirebrook Rangers U7"
     },
     {
       "id": "d8b2a555df1af83ff84c5dd093dc3b17",
@@ -108,6 +82,40 @@
     }
   ],
   "results": [
+    {
+      "id": "752002808752fb33291a665953266c80",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers U7",
+      "away_team": "Woodthorpe Community Union U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Woodthorpe Community Union U7",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "cf845ab03c2fdba2f96303ba9a8570f1",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Woodthorpe Community Union U7",
+      "away_team": "Blidworth Bengals U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Woodthorpe Community Union U7",
+      "home_away": "home",
+      "opponent": "Blidworth Bengals U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "02df4fd87bb8e8d436f6d0d1928ac28b",
       "date": "2026-03-29",

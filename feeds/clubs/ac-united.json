@@ -1,33 +1,7 @@
 {
   "club": "AC United",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "6b7f25aabe3c2a23ff5e6ef86c290649",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "A.C. United U8",
-      "away_team": "Southwell City Hawks U8",
-      "venue": "Newstead Recreational Ground  NG15 0BS",
-      "division": "U8 Sat Spring 5 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "A.C. United U8",
-      "home_away": "home",
-      "opponent": "Southwell City Hawks U8"
-    },
-    {
-      "id": "fe4e9d74977acb2ac86fb18b1ab1acd0",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "AC United FC",
-      "away_team": "Grantham Town Reserves",
-      "venue": "THE FOREST SPORTS ZONE #1",
-      "division": "NSL Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "AC United FC",
-      "home_away": "home",
-      "opponent": "Grantham Town Reserves"
-    },
     {
       "id": "69de3170f43c78ce846c5775b3dd3893",
       "date": "2026-04-14",
@@ -173,6 +147,40 @@
     }
   ],
   "results": [
+    {
+      "id": "fe4e9d74977acb2ac86fb18b1ab1acd0",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "AC United FC",
+      "away_team": "Grantham Town Reserves",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "AC United FC",
+      "home_away": "home",
+      "opponent": "Grantham Town Reserves",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
+      "id": "6b7f25aabe3c2a23ff5e6ef86c290649",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "A.C. United U8",
+      "away_team": "Southwell City Hawks U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 5 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "A.C. United U8",
+      "home_away": "home",
+      "opponent": "Southwell City Hawks U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "d00f10d95699ac4d8795598ed0372756",
       "date": "2026-04-04",

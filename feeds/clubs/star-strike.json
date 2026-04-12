@@ -1,20 +1,7 @@
 {
   "club": "Star Strike",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "aaaa32bd3032d9928fb575d5944413c5",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "DLFC Ruby U8",
-      "away_team": "Star Strike Tigers U8",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U8 Sat Spring 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Star Strike Tigers U8",
-      "home_away": "away",
-      "opponent": "DLFC Ruby U8"
-    },
     {
       "id": "51fbf8a1b99e6f8b9a6863ce3960c18e",
       "date": "2026-04-12",
@@ -27,6 +14,19 @@
       "team": "Star Strike Tigers U7",
       "home_away": "home",
       "opponent": "Silva FC Rushcliffe Panthers U7"
+    },
+    {
+      "id": "b64d6638916e36f0426d05af74efa1bd",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Spirit Celtic White U14",
+      "away_team": "Star Strike Tigers Orange U14",
+      "venue": "Becket School NG2 7QY",
+      "division": "U14 Sat Spring Div 7",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Star Strike Tigers Orange U14",
+      "home_away": "away",
+      "opponent": "Spirit Celtic White U14"
     },
     {
       "id": "f6181872aa296373349098047466ac46",
@@ -92,19 +92,6 @@
       "team": "Star Strike Tigers U9",
       "home_away": "away",
       "opponent": "Loughborough Emmanuel U9"
-    },
-    {
-      "id": "b64d6638916e36f0426d05af74efa1bd",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Spirit Celtic White U14",
-      "away_team": "Star Strike Tigers Orange U14",
-      "venue": "Becket School NG2 7QY",
-      "division": "U14 Sat Spring Div 7",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Star Strike Tigers Orange U14",
-      "home_away": "away",
-      "opponent": "Spirit Celtic White U14"
     },
     {
       "id": "db76850d39dbddf73512eae790e2108a",
@@ -212,6 +199,23 @@
     }
   ],
   "results": [
+    {
+      "id": "aaaa32bd3032d9928fb575d5944413c5",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "DLFC Ruby U8",
+      "away_team": "Star Strike Tigers U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Star Strike Tigers U8",
+      "home_away": "away",
+      "opponent": "DLFC Ruby U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "dd4529d6711a39587356a801307fec1d",
       "date": "2026-03-28",

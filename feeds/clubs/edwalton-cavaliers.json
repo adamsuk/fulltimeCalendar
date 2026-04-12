@@ -1,20 +1,7 @@
 {
   "club": "Edwalton Cavaliers",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "abb45ac3e19ba25b1bc3934271b5ddea",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Edwalton Cavaliers White U7",
-      "away_team": "Wollaton H/B Cobras U7",
-      "venue": "Nottingham Football Centre NG2 7BW",
-      "division": "U7 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Edwalton Cavaliers White U7",
-      "home_away": "home",
-      "opponent": "Wollaton H/B Cobras U7"
-    },
     {
       "id": "5eabed92536cd8c749cd6a21ba249358",
       "date": "2026-04-13",
@@ -44,7 +31,7 @@
     {
       "id": "e8cae30cd5833399dbb10d25d0e44843",
       "date": "2026-04-18",
-      "time": "10:00",
+      "time": "09:45",
       "home_team": "Edwalton Cavaliers Blue U10",
       "away_team": "DLFC Red U10",
       "venue": "Nottingham Football Centre NG2 7BW",
@@ -355,6 +342,23 @@
     }
   ],
   "results": [
+    {
+      "id": "abb45ac3e19ba25b1bc3934271b5ddea",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Edwalton Cavaliers White U7",
+      "away_team": "Wollaton H/B Cobras U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Edwalton Cavaliers White U7",
+      "home_away": "home",
+      "opponent": "Wollaton H/B Cobras U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "3165d6a288a1cffd1f75ccb6b3d974ed",
       "date": "2026-03-29",

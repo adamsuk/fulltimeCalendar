@@ -1,19 +1,8 @@
 {
   "team": "Tibshelf Community U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "e6b19af54e85f49861511e3f01e75dbc",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "PMG Excel U10",
-      "away_team": "Tibshelf Community U10",
-      "venue": "Bulwell Hall Park NG6 8LF",
-      "division": "U10 Sat Spring Div 2 Silver",
-      "home_away": "away",
-      "opponent": "PMG Excel U10"
-    },
     {
       "id": "9350f005705809abf5f4229fb466ee97",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e6b19af54e85f49861511e3f01e75dbc",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "PMG Excel U10",
+      "away_team": "Tibshelf Community U10",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 2 Silver",
+      "home_away": "away",
+      "opponent": "PMG Excel U10",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "46281d3289b5392d3a0b5f66317c0871",
       "date": "2026-03-28",

@@ -8,7 +8,7 @@ X-WR-CALDESC:Fixtures for Mansfield Town Ladies FC Development — YEL East Midl
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:b31a1913aaac4c4abc539fd33691894f@yel-calendar
-DTSTAMP:20260411T064908Z
+DTSTAMP:20260412T070350Z
 DTSTART;TZID=Europe/London:20260412T140000
 DTEND;TZID=Europe/London:20260412T150000
 SUMMARY:⚽ Mansfield Town Ladies FC Development vs Hucknall Town FC Women (Away)
@@ -16,26 +16,17 @@ DESCRIPTION:Division: Seniors Div 1\nHucknall Town FC Women v Mansfield Town Lad
 LOCATION:HUCKNALL TOWN FOOTBALL CLUB
 END:VEVENT
 BEGIN:VEVENT
-UID:d8a539d3bd6fbd827ab79db0eea02294@yel-calendar
-DTSTAMP:20260411T064908Z
+UID:6c76c7228e1752698b690d6caef85a09@yel-calendar
+DTSTAMP:20260412T070350Z
 DTSTART;TZID=Europe/London:20260419T140000
 DTEND;TZID=Europe/London:20260419T150000
-SUMMARY:⚽ Mansfield Town Ladies FC Development vs Calverton Miners Welfare FC (Home)
-DESCRIPTION:Division: Seniors Div 1\nMansfield Town Ladies FC Development v Calverton Miners Welfare FC\nKO: 14:00
-LOCATION:RH ACADEMY
-END:VEVENT
-BEGIN:VEVENT
-UID:d2872a4c88fbd3d3f1b514e2888f2f27@yel-calendar
-DTSTAMP:20260411T064908Z
-DTSTART;TZID=Europe/London:20260426T140000
-DTEND;TZID=Europe/London:20260426T150000
-SUMMARY:⚽ Mansfield Town Ladies FC Development vs Nottingham Trent Uni FC Womens Pink (Home)
-DESCRIPTION:Division: Seniors Div 1\nMansfield Town Ladies FC Development v Nottingham Trent Uni FC Womens Pink\nKO: 14:00
-LOCATION:RH ACADEMY
+SUMMARY:⚽ Mansfield Town Ladies FC Development vs Radcliffe Olympic FC Ladies (Away)
+DESCRIPTION:Division: Seniors Div 1\nRadcliffe Olympic FC Ladies v Mansfield Town Ladies FC Development\nKO: 14:00
+LOCATION:BINGHAM ROAD PLAYING FIELDS
 END:VEVENT
 BEGIN:VEVENT
 UID:b4cc05f0c840aa6c4dbd938ceb6082f0@yel-calendar
-DTSTAMP:20260411T064908Z
+DTSTAMP:20260412T070350Z
 DTSTART;TZID=Europe/London:20260503T140000
 DTEND;TZID=Europe/London:20260503T150000
 SUMMARY:⚽ Mansfield Town Ladies FC Development vs Radcliffe Olympic FC Ladies (Home)
@@ -43,21 +34,30 @@ DESCRIPTION:Division: Seniors Div 1\nMansfield Town Ladies FC Development v Radc
 LOCATION:RH ACADEMY
 END:VEVENT
 BEGIN:VEVENT
-UID:8c6ff08778860184fade674ed609e23e@yel-calendar
-DTSTAMP:20260411T064908Z
+UID:272618c9dcbc8d3354384112f7768c9a@yel-calendar
+DTSTAMP:20260412T070350Z
 DTSTART;TZID=Europe/London:20260510T140000
 DTEND;TZID=Europe/London:20260510T150000
-SUMMARY:⚽ Mansfield Town Ladies FC Development vs Radcliffe Olympic FC Ladies (Away)
-DESCRIPTION:Division: Seniors Div 1\nRadcliffe Olympic FC Ladies v Mansfield Town Ladies FC Development\nKO: 14:00
-LOCATION:BINGHAM ROAD PLAYING FIELDS
+SUMMARY:⚽ Mansfield Town Ladies FC Development vs Nottingham Trent Uni FC Womens Pink (Home)
+DESCRIPTION:Division: Seniors Div 1\nMansfield Town Ladies FC Development v Nottingham Trent Uni FC Womens Pink\nKO: 14:00
+LOCATION:RH ACADEMY
 END:VEVENT
 BEGIN:VEVENT
 UID:0a6d4d20e07d50c8cee17df06bc169a3@yel-calendar
-DTSTAMP:20260411T064908Z
+DTSTAMP:20260412T070350Z
 DTSTART;TZID=Europe/London:20260512T193000
 DTEND;TZID=Europe/London:20260512T200000
 SUMMARY:⚽ Mansfield Town Ladies FC Development vs Calverton Miners Welfare FC (Away)
 DESCRIPTION:Division: Senior Div 1 League Cup\nCalverton Miners Welfare FC v Mansfield Town Ladies FC Development\nKO: 19:30
 LOCATION:DEBDALE PARK SPORTS AND RECREATIONAL CLUB
+END:VEVENT
+BEGIN:VEVENT
+UID:958bc16d8ed96dd77c3b1d32ad15c60f@yel-calendar
+DTSTAMP:20260412T070350Z
+DTSTART;TZID=Europe/London:20260517T140000
+DTEND;TZID=Europe/London:20260517T150000
+SUMMARY:⚽ Mansfield Town Ladies FC Development vs Calverton Miners Welfare FC (Home)
+DESCRIPTION:Division: Seniors Div 1\nMansfield Town Ladies FC Development v Calverton Miners Welfare FC\nKO: 14:00
+LOCATION:RH ACADEMY
 END:VEVENT
 END:VCALENDAR

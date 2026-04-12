@@ -1,30 +1,8 @@
 {
   "team": "Bingham Town F.C. Development",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "2ddc4131092055e18d1a312155e6a066",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Bingham Town F.C. Development",
-      "away_team": "AFC Warriors Development",
-      "venue": "NEWARK ACADEMY",
-      "division": "Development Spring Division One",
-      "home_away": "home",
-      "opponent": "AFC Warriors Development"
-    },
-    {
-      "id": "96af958c1e8f34b85beae02def810d31",
-      "date": "2026-04-11",
-      "time": "11:10",
-      "home_team": "AFC Warriors Development",
-      "away_team": "Bingham Town F.C. Development",
-      "venue": "NEWARK ACADEMY",
-      "division": "Development Spring Division One",
-      "home_away": "away",
-      "opponent": "AFC Warriors Development"
-    },
     {
       "id": "c12e74d4c39916cb478c5587fcde9f34",
       "date": "2026-04-15",
@@ -93,6 +71,36 @@
     }
   ],
   "results": [
+    {
+      "id": "96af958c1e8f34b85beae02def810d31",
+      "date": "2026-04-11",
+      "time": "11:10",
+      "home_team": "AFC Warriors Development",
+      "away_team": "Bingham Town F.C. Development",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "away",
+      "opponent": "AFC Warriors Development",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
+      "id": "2ddc4131092055e18d1a312155e6a066",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Bingham Town F.C. Development",
+      "away_team": "AFC Warriors Development",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "home",
+      "opponent": "AFC Warriors Development",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "d069c402a2a50571254daa792b29d4ad",
       "date": "2026-04-04",

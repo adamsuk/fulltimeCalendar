@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "22ce917eb72284ca0329dc6ecf3c8fda",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Aslockton & Orston FC",
-      "away_team": "Keyworth United FC",
-      "venue": "ORSTON RECREATION GROUND",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Aslockton & Orston FC"
-    },
     {
       "id": "6149b001bf05ab03a166ca5ad47fbe05",
       "date": "2026-04-18",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "22ce917eb72284ca0329dc6ecf3c8fda",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Aslockton & Orston FC",
+      "away_team": "Keyworth United FC",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Aslockton & Orston FC",
+      "goals_for": 3,
+      "goals_against": 4
+    },
     {
       "id": "84c00910af7889df3659525a50e3902a",
       "date": "2026-04-08",

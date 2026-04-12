@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Bruges Black U7",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "93c4d4c8441c0ddc9f0cbfa94172e0df",
-      "date": "2026-04-11",
-      "time": "10:45",
-      "home_team": "Keyworth United Blue U7",
-      "away_team": "WBYFC Bruges Black U7",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U7 Sat Spring 3 Blue",
-      "home_away": "away",
-      "opponent": "Keyworth United Blue U7"
-    },
     {
       "id": "77b600461e744e3055cadef77501440d",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "93c4d4c8441c0ddc9f0cbfa94172e0df",
+      "date": "2026-04-11",
+      "time": "10:45",
+      "home_team": "Keyworth United Blue U7",
+      "away_team": "WBYFC Bruges Black U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 3 Blue",
+      "home_away": "away",
+      "opponent": "Keyworth United Blue U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "38ad718700a48136a9819d6bbdd60ad2",
       "date": "2026-03-28",

@@ -1,20 +1,7 @@
 {
   "club": "Nottingham Second",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "074e1eced87bd08174097fa33bff1eab",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Nottingham Second Chance U11",
-      "away_team": "DLFC Orange U11",
-      "venue": "Stockhill Fire Station Park NG6 0LP",
-      "division": "U11 Sat Spring Div 7 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Nottingham Second Chance U11",
-      "home_away": "home",
-      "opponent": "DLFC Orange U11"
-    },
     {
       "id": "50448b2a1af5c15dadbdc1720a05f557",
       "date": "2026-04-18",
@@ -95,6 +82,23 @@
     }
   ],
   "results": [
+    {
+      "id": "074e1eced87bd08174097fa33bff1eab",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Nottingham Second Chance U11",
+      "away_team": "DLFC Orange U11",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham Second Chance U11",
+      "home_away": "home",
+      "opponent": "DLFC Orange U11",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "8c1efb5726f2e37c427eff0b9c6a47aa",
       "date": "2026-03-28",

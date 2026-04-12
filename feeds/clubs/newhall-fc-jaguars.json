@@ -1,20 +1,7 @@
 {
   "club": "Newhall FC Jaguars",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "aa2f72587a8e8feae516e11a7b69c8e8",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Mansfield Hos Mills Blue U13",
-      "away_team": "Newhall FC Jaguars U13",
-      "venue": "The Fieldings  NG17 2TF",
-      "division": "U13 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Newhall FC Jaguars U13",
-      "home_away": "away",
-      "opponent": "Mansfield Hos Mills Blue U13"
-    },
     {
       "id": "4e179c575f2cd5d6ef9bc0775013e0f9",
       "date": "2026-04-22",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "aa2f72587a8e8feae516e11a7b69c8e8",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Mansfield Hos Mills Blue U13",
+      "away_team": "Newhall FC Jaguars U13",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Newhall FC Jaguars U13",
+      "home_away": "away",
+      "opponent": "Mansfield Hos Mills Blue U13",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "029121dfa3a66b9e90355c60336ea757",
       "date": "2026-03-21",

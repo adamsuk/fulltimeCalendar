@@ -1,19 +1,8 @@
 {
   "team": "Radcliffe Olympic FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "e5b4f9f5068360cff174a211efd29f2b",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Radcliffe Olympic FC",
-      "away_team": "Ravenshead FC",
-      "venue": "WHARF LANE RECREATION GROUND",
-      "division": "NSL Division One",
-      "home_away": "home",
-      "opponent": "Ravenshead FC"
-    },
     {
       "id": "399d8eea03004bab6718abab15852080",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e5b4f9f5068360cff174a211efd29f2b",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Radcliffe Olympic FC",
+      "away_team": "Ravenshead FC",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division One",
+      "home_away": "home",
+      "opponent": "Ravenshead FC",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "d6e003fcb8a56113b2101153d50fe956",
       "date": "2026-04-04",

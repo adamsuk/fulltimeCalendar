@@ -1,7 +1,7 @@
 {
   "team": "Lowdham Colts FC Ladies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
     {
       "id": "afa6d2f6f4006884c4e38444023caef3",
@@ -15,9 +15,20 @@
       "opponent": "Radcliffe Olympic FC Ladies"
     },
     {
-      "id": "c3938069449b026b23ea7f0f388d4498",
+      "id": "8bb3e49a38a3e0349a7c7cac93432844",
       "date": "2026-04-19",
-      "time": "10:30",
+      "time": "10:00",
+      "home_team": "Calverton Miners Welfare FC",
+      "away_team": "Lowdham Colts FC Ladies",
+      "venue": "CALVERTON MINERS WELFARE TRUST",
+      "division": "Seniors Div 1",
+      "home_away": "away",
+      "opponent": "Calverton Miners Welfare FC"
+    },
+    {
+      "id": "180bbd727c3b5f24e3c92b0299176bf7",
+      "date": "2026-04-26",
+      "time": "10:00",
       "home_team": "Lowdham Colts FC Ladies",
       "away_team": "Hucknall Town FC Women",
       "venue": "MAGNA MEADOWS PLAYING FIELD",
@@ -26,8 +37,8 @@
       "opponent": "Hucknall Town FC Women"
     },
     {
-      "id": "20f33ab48310cdcc70c152196ab5fcc5",
-      "date": "2026-04-26",
+      "id": "cfdfa56f7587cc887ce48c5198a5b3e3",
+      "date": "2026-05-10",
       "time": "10:30",
       "home_team": "Lowdham Colts FC Ladies",
       "away_team": "Radcliffe Olympic FC Ladies",
@@ -35,17 +46,6 @@
       "division": "Seniors Div 1",
       "home_away": "home",
       "opponent": "Radcliffe Olympic FC Ladies"
-    },
-    {
-      "id": "bfb558ec5e6e8762f8f9ed96b6857a2f",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Calverton Miners Welfare FC",
-      "away_team": "Lowdham Colts FC Ladies",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "Seniors Div 1",
-      "home_away": "away",
-      "opponent": "Calverton Miners Welfare FC"
     }
   ],
   "results": [

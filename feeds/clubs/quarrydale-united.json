@@ -1,33 +1,7 @@
 {
   "club": "Quarrydale United",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "0c4439d9ba0c89c848b98fdeff485089",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Quarrydale United U11",
-      "away_team": "Ravenshead FC U11",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U11 Sat YEL Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Quarrydale United U11",
-      "home_away": "home",
-      "opponent": "Ravenshead FC U11"
-    },
-    {
-      "id": "4cfb19b1a50858d26214477583c2ed11",
-      "date": "2026-04-11",
-      "time": "10:15",
-      "home_team": "Quarrydale United Yellow U14",
-      "away_team": "Dunkirk U14",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "u14 Sat Spring Div 1 Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Quarrydale United Yellow U14",
-      "home_away": "home",
-      "opponent": "Dunkirk U14"
-    },
     {
       "id": "d730e6d4bc0f75ae6303ee26152c6b3c",
       "date": "2026-04-12",
@@ -107,6 +81,19 @@
       "opponent": "Lowdham FC Red U14"
     },
     {
+      "id": "ca7459f02d1eeb95cc2a4c0beb0b02e8",
+      "date": "2026-04-15",
+      "time": "18:00",
+      "home_team": "Hucknall Sports White U10",
+      "away_team": "Quarrydale United Rangers U10",
+      "venue": "Engine Rooms NG15 6EP",
+      "division": "U10 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United Rangers U10",
+      "home_away": "away",
+      "opponent": "Hucknall Sports White U10"
+    },
+    {
       "id": "c9699b0082440a0126f24a02429fb007",
       "date": "2026-04-18",
       "time": "09:45",
@@ -118,19 +105,6 @@
       "team": "Quarrydale United U11",
       "home_away": "away",
       "opponent": "Silva FC Carlton Black U11"
-    },
-    {
-      "id": "a56ad1d407426ac02ea9a806ceca908a",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Hucknall Sports White U10",
-      "away_team": "Quarrydale United Rangers U10",
-      "venue": "Engine Rooms NG15 6EP",
-      "division": "U10 Sat Spring Div 6 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Quarrydale United Rangers U10",
-      "home_away": "away",
-      "opponent": "Hucknall Sports White U10"
     },
     {
       "id": "3f378ca56b6614c5ac38e36ca75621ae",
@@ -339,6 +313,19 @@
       "team": "Quarrydale United U11",
       "home_away": "home",
       "opponent": "Long Eaton United Purple U11"
+    },
+    {
+      "id": "d9c59d44923745bce786cc1842ab68be",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Quarrydale United U11",
+      "away_team": "Calverton MW Blue U11",
+      "venue": "Bentinck Miners Welfare NG17 8GS",
+      "division": "U11 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United U11",
+      "home_away": "home",
+      "opponent": "Calverton MW Blue U11"
     },
     {
       "id": "cc954c1053496d599709d4afe7ba9fed",
@@ -589,6 +576,40 @@
     }
   ],
   "results": [
+    {
+      "id": "4cfb19b1a50858d26214477583c2ed11",
+      "date": "2026-04-11",
+      "time": "10:15",
+      "home_team": "Quarrydale United Yellow U14",
+      "away_team": "Dunkirk U14",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "u14 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United Yellow U14",
+      "home_away": "home",
+      "opponent": "Dunkirk U14",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
+      "id": "0c4439d9ba0c89c848b98fdeff485089",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Quarrydale United U11",
+      "away_team": "Ravenshead FC U11",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United U11",
+      "home_away": "home",
+      "opponent": "Ravenshead FC U11",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "35da660cb3ee0d1fee4e739438022a37",
       "date": "2026-03-29",

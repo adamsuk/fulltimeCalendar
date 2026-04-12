@@ -1,33 +1,7 @@
 {
   "club": "Hucknall Town",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "927ee805a9b966e70ed2895a8ca546c1",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Silva FC Brunts U9",
-      "away_team": "Hucknall Town Warriors U9",
-      "venue": "Hucknall Town FC NG15 6DW",
-      "division": "U9 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Hucknall Town Warriors U9",
-      "home_away": "away",
-      "opponent": "Silva FC Brunts U9"
-    },
-    {
-      "id": "ea07c0b359816e01702a57d0d95f677b",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Hucknall Town Reserves",
-      "away_team": "Stapleford Town Reserves",
-      "venue": "HUCKNALL TOWN FOOTBALL CLUB",
-      "division": "NSL Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Hucknall Town Reserves",
-      "home_away": "home",
-      "opponent": "Stapleford Town Reserves"
-    },
     {
       "id": "a85893eee13819801b4b3843a143d40d",
       "date": "2026-04-12",
@@ -250,19 +224,6 @@
       "opponent": "DLFC Purple U8"
     },
     {
-      "id": "c3938069449b026b23ea7f0f388d4498",
-      "date": "2026-04-19",
-      "time": "10:30",
-      "home_team": "Lowdham Colts FC Ladies",
-      "away_team": "Hucknall Town FC Women",
-      "venue": "MAGNA MEADOWS PLAYING FIELD",
-      "division": "Seniors Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Hucknall Town FC Women",
-      "home_away": "away",
-      "opponent": "Lowdham Colts FC Ladies"
-    },
-    {
       "id": "1773b857a013f153e0831f40849688a1",
       "date": "2026-04-25",
       "time": "10:00",
@@ -393,6 +354,19 @@
       "opponent": "Heanor Juniors Cobras U8"
     },
     {
+      "id": "180bbd727c3b5f24e3c92b0299176bf7",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Lowdham Colts FC Ladies",
+      "away_team": "Hucknall Town FC Women",
+      "venue": "MAGNA MEADOWS PLAYING FIELD",
+      "division": "Seniors Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall Town FC Women",
+      "home_away": "away",
+      "opponent": "Lowdham Colts FC Ladies"
+    },
+    {
       "id": "7bfea646e030ffc78b47648a70a48dd4",
       "date": "2026-04-26",
       "time": "11:00",
@@ -433,6 +407,40 @@
     }
   ],
   "results": [
+    {
+      "id": "ea07c0b359816e01702a57d0d95f677b",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Hucknall Town Reserves",
+      "away_team": "Stapleford Town Reserves",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Hucknall Town Reserves",
+      "home_away": "home",
+      "opponent": "Stapleford Town Reserves",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
+      "id": "927ee805a9b966e70ed2895a8ca546c1",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Silva FC Brunts U9",
+      "away_team": "Hucknall Town Warriors U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hucknall Town Warriors U9",
+      "home_away": "away",
+      "opponent": "Silva FC Brunts U9",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "bb1e88f2fab993bc6930a8f85308accd",
       "date": "2026-04-08",

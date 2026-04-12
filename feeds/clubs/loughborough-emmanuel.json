@@ -1,33 +1,7 @@
 {
   "club": "Loughborough Emmanuel",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "445b9c0f05f942fb54eeb2b4cef40723",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Loughborough Emmanuel U8",
-      "away_team": "DLFC Vipers U8",
-      "venue": "Charnwood College, Loughborough LE11 4SQ",
-      "division": "U8 Sat Spring 8",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Loughborough Emmanuel U8",
-      "home_away": "home",
-      "opponent": "DLFC Vipers U8"
-    },
-    {
-      "id": "b82ab85172793bf7e4cc356419939fc7",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "WBYFC Olympia U9",
-      "away_team": "Loughborough Emmanuel U9",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U9 Sat Spring Div 7 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Loughborough Emmanuel U9",
-      "home_away": "away",
-      "opponent": "WBYFC Olympia U9"
-    },
     {
       "id": "50448b2a1af5c15dadbdc1720a05f557",
       "date": "2026-04-18",
@@ -160,6 +134,23 @@
     }
   ],
   "results": [
+    {
+      "id": "b82ab85172793bf7e4cc356419939fc7",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "WBYFC Olympia U9",
+      "away_team": "Loughborough Emmanuel U9",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat Spring Div 7 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Loughborough Emmanuel U9",
+      "home_away": "away",
+      "opponent": "WBYFC Olympia U9",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "68503e18887d4c08db3c0c2c85850f5d",
       "date": "2026-03-28",

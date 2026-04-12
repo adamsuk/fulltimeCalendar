@@ -1,19 +1,8 @@
 {
   "team": "Basford United Madrid U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "3cf1c16292f2a968c91df3483f0bd8e5",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Canoville FC Dev Girls U13^",
-      "away_team": "Basford United Madrid U13",
-      "venue": "William Lee Memorial Park NG14 6SA",
-      "division": "U13 Sat Spring Div 5 Blue",
-      "home_away": "away",
-      "opponent": "Canoville FC Dev Girls U13^"
-    },
     {
       "id": "ce2be44d53132fb668964bc49e59f2a1",
       "date": "2026-04-14",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "3cf1c16292f2a968c91df3483f0bd8e5",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Canoville FC Dev Girls U13^",
+      "away_team": "Basford United Madrid U13",
+      "home_score": 0,
+      "away_score": 6,
+      "venue": "",
+      "division": "U13 Sat Spring Div 5 Blue",
+      "home_away": "away",
+      "opponent": "Canoville FC Dev Girls U13^",
+      "goals_for": 6,
+      "goals_against": 0
+    },
     {
       "id": "36f6a8b8d715b50ddb91c704b62d40d6",
       "date": "2026-03-21",

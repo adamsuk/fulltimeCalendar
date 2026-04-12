@@ -1,19 +1,8 @@
 {
   "team": "ASFC U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "c1447624c8be189523c5df5a76229ea5",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic Rockets U14",
-      "away_team": "ASFC U14",
-      "venue": "Bingham Road NG12 2GP",
-      "division": "U14 Sat YEL Shield",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic Rockets U14"
-    },
     {
       "id": "d31c3b6167f94cb8b78d3a585b5496bc",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c1447624c8be189523c5df5a76229ea5",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic Rockets U14",
+      "away_team": "ASFC U14",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U14 Sat YEL Shield",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic Rockets U14",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "da1df40c9a675c92687762c73a036556",
       "date": "2026-03-21",

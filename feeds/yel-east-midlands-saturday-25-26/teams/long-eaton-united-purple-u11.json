@@ -1,19 +1,8 @@
 {
   "team": "Long Eaton United Purple U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "401acc78378d46dbf52c5bf6f60c5fbd",
-      "date": "2026-04-11",
-      "time": "11:00",
-      "home_team": "Stanton Ilkeston Galacticos U11",
-      "away_team": "Long Eaton United Purple U11",
-      "venue": "Ron Brooks Pavilion DE7 4LD",
-      "division": "U11 Sat Spring Div 5 Blue",
-      "home_away": "away",
-      "opponent": "Stanton Ilkeston Galacticos U11"
-    },
     {
       "id": "43d1142a0ab291f0594cfbc265f220f4",
       "date": "2026-04-14",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "401acc78378d46dbf52c5bf6f60c5fbd",
+      "date": "2026-04-11",
+      "time": "11:00",
+      "home_team": "Stanton Ilkeston Galacticos U11",
+      "away_team": "Long Eaton United Purple U11",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U11 Sat Spring Div 5 Blue",
+      "home_away": "away",
+      "opponent": "Stanton Ilkeston Galacticos U11",
+      "goals_for": 5,
+      "goals_against": 2
+    },
     {
       "id": "3dadf01369ae339b323aeee41377c848",
       "date": "2026-03-14",

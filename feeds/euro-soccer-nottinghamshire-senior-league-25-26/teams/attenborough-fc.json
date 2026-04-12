@@ -1,19 +1,8 @@
 {
   "team": "Attenborough FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "b73421a723e2112a6dd871950c659eae",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Attenborough FC",
-      "away_team": "Phoenix Athletic FC",
-      "venue": "ATTENBOROUGH CRICKET CLUB",
-      "division": "NSL Division Three",
-      "home_away": "home",
-      "opponent": "Phoenix Athletic FC"
-    },
     {
       "id": "5044988cb423f415865bdb7f507ea7cb",
       "date": "2026-04-14",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b73421a723e2112a6dd871950c659eae",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Attenborough FC",
+      "away_team": "Phoenix Athletic FC",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "home",
+      "opponent": "Phoenix Athletic FC",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "6bca146d004ae0f1c29e4004c52d0be4",
       "date": "2026-04-04",

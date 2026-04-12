@@ -1,20 +1,7 @@
 {
   "club": "Harrowby United",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "349a5f392bf7976f3c0eb5f048ac6456",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Harrowby United Reserves",
-      "away_team": "Trent Vineyard FC",
-      "venue": "FRUEHAUF STADIUM",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Harrowby United Reserves",
-      "home_away": "home",
-      "opponent": "Trent Vineyard FC"
-    },
     {
       "id": "f2724d2096042255080095b676ae5462",
       "date": "2026-04-16",
@@ -134,6 +121,23 @@
     }
   ],
   "results": [
+    {
+      "id": "349a5f392bf7976f3c0eb5f048ac6456",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Harrowby United Reserves",
+      "away_team": "Trent Vineyard FC",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Harrowby United Reserves",
+      "home_away": "home",
+      "opponent": "Trent Vineyard FC",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "83a99b9c5aacb20d2231ffd35af3b827",
       "date": "2026-04-04",

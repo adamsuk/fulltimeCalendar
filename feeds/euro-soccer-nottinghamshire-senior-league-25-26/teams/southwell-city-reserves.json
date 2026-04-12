@@ -1,7 +1,7 @@
 {
   "team": "Southwell City Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
     {
       "id": "728393015694333a48360ad5452c500b",
@@ -13,17 +13,6 @@
       "division": "Euro Soccer Premier Division",
       "home_away": "home",
       "opponent": "Ruddington Village FC"
-    },
-    {
-      "id": "480ba318d75da25ae516e2c405800b9e",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Beeston FC",
-      "away_team": "Southwell City Reserves",
-      "venue": "Trent Vale Road Sports Ground",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Beeston FC"
     },
     {
       "id": "a3ad15a25506a3d522b66f4cfa4cf054",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "480ba318d75da25ae516e2c405800b9e",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Beeston FC",
+      "away_team": "Southwell City Reserves",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Beeston FC",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "36985dbc66f5ba27202b0b4b471941bc",
       "date": "2026-04-04",

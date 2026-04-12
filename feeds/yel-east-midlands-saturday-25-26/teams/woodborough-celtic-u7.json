@@ -1,19 +1,8 @@
 {
   "team": "Woodborough Celtic U7",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "ba57da82496bb9dda0a50cbe828fe384",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "G3A Stags U7",
-      "away_team": "Woodborough Celtic U7",
-      "venue": "Brunts Academy NG18 2AT",
-      "division": "U7 Sat Spring 1",
-      "home_away": "away",
-      "opponent": "G3A Stags U7"
-    },
     {
       "id": "99718ef65f427c1e42df2fa6c43f0248",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ba57da82496bb9dda0a50cbe828fe384",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "G3A Stags U7",
+      "away_team": "Woodborough Celtic U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 1",
+      "home_away": "away",
+      "opponent": "G3A Stags U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "090e1cfede1b001cf25a80251af843af",
       "date": "2026-03-28",

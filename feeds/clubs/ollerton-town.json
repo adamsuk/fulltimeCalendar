@@ -1,33 +1,7 @@
 {
   "club": "Ollerton Town",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "1a4ad3f992b8fdd126a0b671946c1f08",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Castle Donington Rex's U8",
-      "away_team": "Ollerton Town Black U8",
-      "venue": "Spital Park DE74 2NQ",
-      "division": "U8 Sat Spring 8",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ollerton Town Black U8",
-      "home_away": "away",
-      "opponent": "Castle Donington Rex's U8"
-    },
-    {
-      "id": "4b4e3369e3b0749406c92cd300d53f6f",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Ollerton Town Red U8",
-      "away_team": "Ingles FC Reds U8",
-      "venue": "WALESBY LANE NG22 9UT",
-      "division": "U8 Sat Spring 1",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ollerton Town Red U8",
-      "home_away": "home",
-      "opponent": "Ingles FC Reds U8"
-    },
     {
       "id": "ff96075207f105811c5bd650f7d0480b",
       "date": "2026-04-12",
@@ -118,6 +92,19 @@
       "team": "Ollerton Town U12",
       "home_away": "home",
       "opponent": "Ravenshead Reds U12"
+    },
+    {
+      "id": "1022ab1e1574a61386d424018701b0f9",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Ollerton Town U14",
+      "away_team": "Bingham Town Red U14",
+      "venue": "WALESBY LANE NG22 9UT",
+      "division": "U14 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ollerton Town U14",
+      "home_away": "home",
+      "opponent": "Bingham Town Red U14"
     },
     {
       "id": "228bf65a50009a93a3e58bb5166c505a",
@@ -251,6 +238,40 @@
     }
   ],
   "results": [
+    {
+      "id": "1a4ad3f992b8fdd126a0b671946c1f08",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Castle Donington Rex's U8",
+      "away_team": "Ollerton Town Black U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 8",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ollerton Town Black U8",
+      "home_away": "away",
+      "opponent": "Castle Donington Rex's U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "4b4e3369e3b0749406c92cd300d53f6f",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Ollerton Town Red U8",
+      "away_team": "Ingles FC Reds U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ollerton Town Red U8",
+      "home_away": "home",
+      "opponent": "Ingles FC Reds U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "78bba25d94e288edd38abbb32e07da84",
       "date": "2026-03-29",

@@ -1,6 +1,6 @@
 {
   "club": "Grantham Town",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
     {
       "id": "aa2b459b2ef1439eb56b1321ce99fb07",
@@ -14,45 +14,6 @@
       "team": "Grantham Town FC U23",
       "home_away": "home",
       "opponent": "Newark Town FC U23's"
-    },
-    {
-      "id": "41ebcbfaaf86f83bf14860be6a7232cd",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Long Eaton United Rayo U8",
-      "away_team": "Grantham Town Grey U8",
-      "venue": "Grange Park NG10 2EF",
-      "division": "U8 Sat Spring 1",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Grantham Town Grey U8",
-      "home_away": "away",
-      "opponent": "Long Eaton United Rayo U8"
-    },
-    {
-      "id": "7f8f156fe801373111b1a6c2e2e30689",
-      "date": "2026-04-11",
-      "time": "10:30",
-      "home_team": "Walesby F.C. U23s",
-      "away_team": "Grantham Town FC U23",
-      "venue": "Walesby F.C. Walesby FC U23s",
-      "division": "Development Spring Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Grantham Town FC U23",
-      "home_away": "away",
-      "opponent": "Walesby F.C. U23s"
-    },
-    {
-      "id": "fe4e9d74977acb2ac86fb18b1ab1acd0",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "AC United FC",
-      "away_team": "Grantham Town Reserves",
-      "venue": "THE FOREST SPORTS ZONE #1",
-      "division": "NSL Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Grantham Town Reserves",
-      "home_away": "away",
-      "opponent": "AC United FC"
     },
     {
       "id": "e6d5a6a770577de9880f2e03628f8bc7",
@@ -433,6 +394,57 @@
     }
   ],
   "results": [
+    {
+      "id": "fe4e9d74977acb2ac86fb18b1ab1acd0",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "AC United FC",
+      "away_team": "Grantham Town Reserves",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Grantham Town Reserves",
+      "home_away": "away",
+      "opponent": "AC United FC",
+      "goals_for": 2,
+      "goals_against": 3
+    },
+    {
+      "id": "7f8f156fe801373111b1a6c2e2e30689",
+      "date": "2026-04-11",
+      "time": "10:30",
+      "home_team": "Walesby F.C. U23s",
+      "away_team": "Grantham Town FC U23",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Grantham Town FC U23",
+      "home_away": "away",
+      "opponent": "Walesby F.C. U23s",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
+      "id": "41ebcbfaaf86f83bf14860be6a7232cd",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Long Eaton United Rayo U8",
+      "away_team": "Grantham Town Grey U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Grantham Town Grey U8",
+      "home_away": "away",
+      "opponent": "Long Eaton United Rayo U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "bf27581d43e2b5a53e41fb4ba5a0f87f",
       "date": "2026-04-04",

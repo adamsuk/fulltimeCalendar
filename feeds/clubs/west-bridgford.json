@@ -1,6 +1,6 @@
 {
   "club": "West Bridgford",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
     {
       "id": "3c2f4d185182fa444977a45747ad1f51",
@@ -40,19 +40,6 @@
       "team": "West Bridgford Development",
       "home_away": "home",
       "opponent": "Collingham FC Development"
-    },
-    {
-      "id": "0ec6257b0d55511445d0bb6594fe426f",
-      "date": "2026-04-11",
-      "time": "10:30",
-      "home_team": "West Bridgford Development",
-      "away_team": "Quorn FC Methodists",
-      "venue": "GRESHAM SPORTS PARK #1",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "West Bridgford Development",
-      "home_away": "home",
-      "opponent": "Quorn FC Methodists"
     },
     {
       "id": "d0e66839b787d936f0200344d3260839",
@@ -250,6 +237,32 @@
       "opponent": "Wollaton FC"
     },
     {
+      "id": "91b3f61413bc66f6eab599a640c09c39",
+      "date": "2026-04-19",
+      "time": "09:15",
+      "home_team": "West Bridgford Colts U12 Lightning",
+      "away_team": "West Bridgford Colts U12 Flames",
+      "venue": "GRESHAM SPORTS PARK",
+      "division": "U12 Div 3 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "West Bridgford Colts U12 Flames",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U12 Lightning"
+    },
+    {
+      "id": "91b3f61413bc66f6eab599a640c09c39",
+      "date": "2026-04-19",
+      "time": "09:15",
+      "home_team": "West Bridgford Colts U12 Lightning",
+      "away_team": "West Bridgford Colts U12 Flames",
+      "venue": "GRESHAM SPORTS PARK",
+      "division": "U12 Div 3 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "West Bridgford Colts U12 Lightning",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U12 Flames"
+    },
+    {
       "id": "fda426f40635ca4e9b338f8744bd97e9",
       "date": "2026-04-19",
       "time": "09:30",
@@ -261,32 +274,6 @@
       "team": "West Bridgford Colts U10 Sky",
       "home_away": "home",
       "opponent": "Beeston F.C. U10 Girls"
-    },
-    {
-      "id": "91b3f61413bc66f6eab599a640c09c39",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "West Bridgford Colts U12 Lightning",
-      "away_team": "West Bridgford Colts U12 Flames",
-      "venue": "REGATTA WAY SPORTS GROUND",
-      "division": "U12 Div 3 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "West Bridgford Colts U12 Flames",
-      "home_away": "away",
-      "opponent": "West Bridgford Colts U12 Lightning"
-    },
-    {
-      "id": "91b3f61413bc66f6eab599a640c09c39",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "West Bridgford Colts U12 Lightning",
-      "away_team": "West Bridgford Colts U12 Flames",
-      "venue": "REGATTA WAY SPORTS GROUND",
-      "division": "U12 Div 3 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "West Bridgford Colts U12 Lightning",
-      "home_away": "home",
-      "opponent": "West Bridgford Colts U12 Flames"
     },
     {
       "id": "cc72bf14111bad8526254d61a2a6a7cd",
@@ -758,6 +745,23 @@
     }
   ],
   "results": [
+    {
+      "id": "0ec6257b0d55511445d0bb6594fe426f",
+      "date": "2026-04-11",
+      "time": "10:30",
+      "home_team": "West Bridgford Development",
+      "away_team": "Quorn FC Methodists",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "West Bridgford Development",
+      "home_away": "home",
+      "opponent": "Quorn FC Methodists",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "965654f8ae525c06c2f60bc399be0f14",
       "date": "2026-04-07",

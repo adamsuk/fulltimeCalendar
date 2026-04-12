@@ -1,19 +1,8 @@
 {
   "team": "Breaston Park U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "c186b84b008d0b16b6f9dcd8a29701dc",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Sandiacre Town Red U9",
-      "away_team": "Breaston Park U9",
-      "venue": "Cloudside Junior School NG10 5DE",
-      "division": "U9 Sat Spring Div 7 Green",
-      "home_away": "away",
-      "opponent": "Sandiacre Town Red U9"
-    },
     {
       "id": "dbf5984852bd28643c2311a2aa47cdad",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c186b84b008d0b16b6f9dcd8a29701dc",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Sandiacre Town Red U9",
+      "away_team": "Breaston Park U9",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat Spring Div 7 Green",
+      "home_away": "away",
+      "opponent": "Sandiacre Town Red U9",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "1f624a13792389b21b475430b8887421",
       "date": "2026-03-21",

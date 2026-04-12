@@ -1,19 +1,8 @@
 {
   "team": "Woodthorpe Park Rangers FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "5c95019f357c527b0e653983ddaa306d",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Woodthorpe Park Rangers FC",
-      "away_team": "Bingham Town FC",
-      "venue": "EAGLE VALLEY #1",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "home",
-      "opponent": "Bingham Town FC"
-    },
     {
       "id": "86338774450620691dc14d8993c9d78e",
       "date": "2026-04-14",
@@ -93,6 +82,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5c95019f357c527b0e653983ddaa306d",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Woodthorpe Park Rangers FC",
+      "away_team": "Bingham Town FC",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "home",
+      "opponent": "Bingham Town FC",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "03891028caa2f228ba8fecec4c034d12",
       "date": "2026-04-04",

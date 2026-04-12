@@ -1,20 +1,7 @@
 {
   "club": "Clay Cross",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "e2b58261e26be59dceb12df68d2d867f",
-      "date": "2026-04-11",
-      "time": "13:00",
-      "home_team": "Clay Cross Town Bulldogs U12",
-      "away_team": "Keyworth United Blue U12",
-      "venue": "King George V Playing Field S42 5PE",
-      "division": "U12 Sat YEL Inter Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Clay Cross Town Bulldogs U12",
-      "home_away": "home",
-      "opponent": "Keyworth United Blue U12"
-    },
     {
       "id": "279c486a4a55efa64f6325303df025ba",
       "date": "2026-04-18",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "e2b58261e26be59dceb12df68d2d867f",
+      "date": "2026-04-11",
+      "time": "13:00",
+      "home_team": "Clay Cross Town Bulldogs U12",
+      "away_team": "Keyworth United Blue U12",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "",
+      "division": "U12 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Clay Cross Town Bulldogs U12",
+      "home_away": "home",
+      "opponent": "Keyworth United Blue U12",
+      "goals_for": 2,
+      "goals_against": 6
+    },
     {
       "id": "54b81431abeff49ce616bf7ab889f984",
       "date": "2026-03-28",

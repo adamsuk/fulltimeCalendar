@@ -1,19 +1,8 @@
 {
   "team": "Beeston FC U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "eb8db77aa3e9bfae944dce01774a8b6b",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Beeston FC U14",
-      "away_team": "Hilton Harriers Bucks U14",
-      "venue": "Trent Vale Sports Ground  NG9 1ND",
-      "division": "U14 Sat Spring Div 5 Blue",
-      "home_away": "home",
-      "opponent": "Hilton Harriers Bucks U14"
-    },
     {
       "id": "b70db2d88d35ad16d439c63f6db35653",
       "date": "2026-04-14",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "eb8db77aa3e9bfae944dce01774a8b6b",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Beeston FC U14",
+      "away_team": "Hilton Harriers Bucks U14",
+      "home_score": 11,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sat Spring Div 5 Blue",
+      "home_away": "home",
+      "opponent": "Hilton Harriers Bucks U14",
+      "goals_for": 11,
+      "goals_against": 2
+    },
     {
       "id": "3cccedc65a901a151a39a8173006101f",
       "date": "2026-03-21",

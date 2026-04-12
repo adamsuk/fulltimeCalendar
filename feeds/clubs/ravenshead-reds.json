@@ -1,33 +1,7 @@
 {
   "club": "Ravenshead Reds",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "9b4f5a6f21b85ca1cde22af364a98a12",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Ravenshead Reds U14",
-      "away_team": "Collingham FC Cougars U14",
-      "venue": "Joseph Whitaker School  NG21 0AG",
-      "division": "U14 Sat Spring Div 6 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ravenshead Reds U14",
-      "home_away": "home",
-      "opponent": "Collingham FC Cougars U14"
-    },
-    {
-      "id": "2d1fbcad4b2d658848b6860b85bee1fb",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Ravenshead Reds FC",
-      "away_team": "East Leake Robins Reserves",
-      "venue": "RAVENSHEAD LEISURE CENTRE",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Ravenshead Reds FC",
-      "home_away": "home",
-      "opponent": "East Leake Robins Reserves"
-    },
     {
       "id": "4392633f0c793de2a317e1bbb4079356",
       "date": "2026-04-12",
@@ -261,19 +235,6 @@
       "team": "Ravenshead Reds U11",
       "home_away": "away",
       "opponent": "Radcliffe Olympic U11"
-    },
-    {
-      "id": "82a65a0bb6062baa373591a1027b38ec",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Sutton Bonington U12 Comets",
-      "away_team": "Ravenshead Reds F.C. Youth U12",
-      "venue": "SUTTON BONINGTON PLAYING FIELDS",
-      "division": "U12 Div 5 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ravenshead Reds F.C. Youth U12",
-      "home_away": "away",
-      "opponent": "Sutton Bonington U12 Comets"
     },
     {
       "id": "5d277a31ecebc1b9bafa5bd36dd48d39",
@@ -667,6 +628,40 @@
     }
   ],
   "results": [
+    {
+      "id": "2d1fbcad4b2d658848b6860b85bee1fb",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Ravenshead Reds FC",
+      "away_team": "East Leake Robins Reserves",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead Reds FC",
+      "home_away": "home",
+      "opponent": "East Leake Robins Reserves",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
+      "id": "9b4f5a6f21b85ca1cde22af364a98a12",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Ravenshead Reds U14",
+      "away_team": "Collingham FC Cougars U14",
+      "home_score": 1,
+      "away_score": 11,
+      "venue": "",
+      "division": "U14 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ravenshead Reds U14",
+      "home_away": "home",
+      "opponent": "Collingham FC Cougars U14",
+      "goals_for": 1,
+      "goals_against": 11
+    },
     {
       "id": "766c2dc75b950fae240677a06fbbe4f1",
       "date": "2026-04-04",

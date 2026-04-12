@@ -1,6 +1,6 @@
 {
   "club": "Ruddington Village",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
     {
       "id": "728393015694333a48360ad5452c500b",
@@ -14,45 +14,6 @@
       "team": "Ruddington Village FC",
       "home_away": "away",
       "opponent": "Southwell City Reserves"
-    },
-    {
-      "id": "3687565ae8af5ab7da6788a5a5fd63f2",
-      "date": "2026-04-11",
-      "time": "09:30",
-      "home_team": "Stapleford Town Saxons U7",
-      "away_team": "Ruddington Village Black U7",
-      "venue": "Hickings Lane NG9 8PG",
-      "division": "U7 Sat Spring 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ruddington Village Black U7",
-      "home_away": "away",
-      "opponent": "Stapleford Town Saxons U7"
-    },
-    {
-      "id": "c6fb61ec2dd4924825f91e170c577ca3",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Ruddington Village RED U7",
-      "away_team": "Burton Joyce Blue U7",
-      "venue": "Jubilee Fields NG11 6NX",
-      "division": "U7 Sat Spring 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ruddington Village RED U7",
-      "home_away": "home",
-      "opponent": "Burton Joyce Blue U7"
-    },
-    {
-      "id": "dbc1df6c0f4d756aa6a521f07237f2ae",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Ruddington Village Yellow U7",
-      "away_team": "DLFC Yellow U7",
-      "venue": "Jubilee Fields NG11 6NX",
-      "division": "U7 Sat Spring 1",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ruddington Village Yellow U7",
-      "home_away": "home",
-      "opponent": "DLFC Yellow U7"
     },
     {
       "id": "0897d6f9391aa129ec7367d781d91603",
@@ -628,6 +589,40 @@
     }
   ],
   "results": [
+    {
+      "id": "c6fb61ec2dd4924825f91e170c577ca3",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Ruddington Village RED U7",
+      "away_team": "Burton Joyce Blue U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ruddington Village RED U7",
+      "home_away": "home",
+      "opponent": "Burton Joyce Blue U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "3687565ae8af5ab7da6788a5a5fd63f2",
+      "date": "2026-04-11",
+      "time": "09:30",
+      "home_team": "Stapleford Town Saxons U7",
+      "away_team": "Ruddington Village Black U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ruddington Village Black U7",
+      "home_away": "away",
+      "opponent": "Stapleford Town Saxons U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "730a60b1382ae490d9f12e90e72346c4",
       "date": "2026-04-04",

@@ -1,33 +1,7 @@
 {
   "club": "Selston FC",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "ae8fe5dd27cdb7fd42bb6e84c3f2a0a7",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Selston FC Black U9",
-      "away_team": "Arnold Town Blue U9",
-      "venue": "Selston Parish Hall  NG16 6EE",
-      "division": "U9 Sat Spring Div 8 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Selston FC Black U9",
-      "home_away": "home",
-      "opponent": "Arnold Town Blue U9"
-    },
-    {
-      "id": "186431750a54e7fb63e6d5bda549b17e",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Silva FC Carlton Miami U8",
-      "away_team": "Selston FC U8",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U8 Sat Spring 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Selston FC U8",
-      "home_away": "away",
-      "opponent": "Silva FC Carlton Miami U8"
-    },
     {
       "id": "4392633f0c793de2a317e1bbb4079356",
       "date": "2026-04-12",
@@ -355,6 +329,40 @@
     }
   ],
   "results": [
+    {
+      "id": "ae8fe5dd27cdb7fd42bb6e84c3f2a0a7",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Selston FC Black U9",
+      "away_team": "Arnold Town Blue U9",
+      "home_score": 10,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat Spring Div 8 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Selston FC Black U9",
+      "home_away": "home",
+      "opponent": "Arnold Town Blue U9",
+      "goals_for": 10,
+      "goals_against": 3
+    },
+    {
+      "id": "186431750a54e7fb63e6d5bda549b17e",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Silva FC Carlton Miami U8",
+      "away_team": "Selston FC U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Selston FC U8",
+      "home_away": "away",
+      "opponent": "Silva FC Carlton Miami U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "7a5b8cd60ef24d254ce378a2f3549fa0",
       "date": "2026-03-29",

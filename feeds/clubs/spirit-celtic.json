@@ -1,33 +1,7 @@
 {
   "club": "Spirit Celtic",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "3ae42269423a0a14565a59f6f5ce06cc",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Spirit Celtic Panthers U7",
-      "away_team": "Ilkeston Town Robins U7",
-      "venue": "Becket School NG2 7QY",
-      "division": "U7 Sat Spring 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Spirit Celtic Panthers U7",
-      "home_away": "home",
-      "opponent": "Ilkeston Town Robins U7"
-    },
-    {
-      "id": "6418d15068beb3426f969161d3410596",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Long Bennington FC U7",
-      "away_team": "Spirit Celtic Pumas U7",
-      "venue": "QE2 Playing Field NG23 5HD",
-      "division": "U7 Sat Spring 6",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Spirit Celtic Pumas U7",
-      "home_away": "away",
-      "opponent": "Long Bennington FC U7"
-    },
     {
       "id": "df0d01154da168d7aebbbf063dae1f5e",
       "date": "2026-04-14",
@@ -40,6 +14,19 @@
       "team": "Spirit Celtic White U14",
       "home_away": "away",
       "opponent": "Radcliffe Olympic Outlaws U14"
+    },
+    {
+      "id": "b64d6638916e36f0426d05af74efa1bd",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Spirit Celtic White U14",
+      "away_team": "Star Strike Tigers Orange U14",
+      "venue": "Becket School NG2 7QY",
+      "division": "U14 Sat Spring Div 7",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Spirit Celtic White U14",
+      "home_away": "home",
+      "opponent": "Star Strike Tigers Orange U14"
     },
     {
       "id": "55a6d8ac018eb1c40b3754d53ec3aaa8",
@@ -144,19 +131,6 @@
       "team": "Spirit Celtic Green U13",
       "home_away": "home",
       "opponent": "Spondon Dynamos Legends U13"
-    },
-    {
-      "id": "b64d6638916e36f0426d05af74efa1bd",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Spirit Celtic White U14",
-      "away_team": "Star Strike Tigers Orange U14",
-      "venue": "Becket School NG2 7QY",
-      "division": "U14 Sat Spring Div 7",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Spirit Celtic White U14",
-      "home_away": "home",
-      "opponent": "Star Strike Tigers Orange U14"
     },
     {
       "id": "a593b9c427559c6ebd1352b93be98b12",
@@ -394,6 +368,40 @@
     }
   ],
   "results": [
+    {
+      "id": "3ae42269423a0a14565a59f6f5ce06cc",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Spirit Celtic Panthers U7",
+      "away_team": "Ilkeston Town Robins U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Spirit Celtic Panthers U7",
+      "home_away": "home",
+      "opponent": "Ilkeston Town Robins U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "6418d15068beb3426f969161d3410596",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Long Bennington FC U7",
+      "away_team": "Spirit Celtic Pumas U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 6",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Spirit Celtic Pumas U7",
+      "home_away": "away",
+      "opponent": "Long Bennington FC U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "44778a874c9a49470dda237106e69aa6",
       "date": "2026-03-29",

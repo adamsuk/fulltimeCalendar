@@ -1,7 +1,7 @@
 {
   "team": "AJ Sport F.C. Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
     {
       "id": "6cf2b543cd315c5e29610b0673c1a237",
@@ -13,17 +13,6 @@
       "division": "NSL Division Three",
       "home_away": "home",
       "opponent": "Pass Move Grin Reserves"
-    },
-    {
-      "id": "9333f7c3d0f8b92511f04d1fe5688609",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "AJ Sport F.C. Reserves",
-      "away_team": "Nottingham Greens",
-      "venue": "LEYTON CRESCENT RECREATION GROUND",
-      "division": "NSL Division Three",
-      "home_away": "home",
-      "opponent": "Nottingham Greens"
     },
     {
       "id": "5044988cb423f415865bdb7f507ea7cb",
@@ -93,6 +82,21 @@
     }
   ],
   "results": [
+    {
+      "id": "9333f7c3d0f8b92511f04d1fe5688609",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "AJ Sport F.C. Reserves",
+      "away_team": "Nottingham Greens",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "home",
+      "opponent": "Nottingham Greens",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "2d751f4ac64ad1966c562fe98d004e32",
       "date": "2026-03-28",

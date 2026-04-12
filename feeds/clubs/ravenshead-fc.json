@@ -1,33 +1,7 @@
 {
   "club": "Ravenshead FC",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "0c4439d9ba0c89c848b98fdeff485089",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Quarrydale United U11",
-      "away_team": "Ravenshead FC U11",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U11 Sat YEL Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ravenshead FC U11",
-      "home_away": "away",
-      "opponent": "Quarrydale United U11"
-    },
-    {
-      "id": "e5b4f9f5068360cff174a211efd29f2b",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Radcliffe Olympic FC",
-      "away_team": "Ravenshead FC",
-      "venue": "WHARF LANE RECREATION GROUND",
-      "division": "NSL Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Ravenshead FC",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic FC"
-    },
     {
       "id": "8eda4ad8002ef5ba219bd2c462dbcda4",
       "date": "2026-04-15",
@@ -134,6 +108,40 @@
     }
   ],
   "results": [
+    {
+      "id": "e5b4f9f5068360cff174a211efd29f2b",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Radcliffe Olympic FC",
+      "away_team": "Ravenshead FC",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead FC",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
+      "id": "0c4439d9ba0c89c848b98fdeff485089",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Quarrydale United U11",
+      "away_team": "Ravenshead FC U11",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ravenshead FC U11",
+      "home_away": "away",
+      "opponent": "Quarrydale United U11",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "4df48fd60c5b2ac44e0d3dc664d40c96",
       "date": "2026-03-28",

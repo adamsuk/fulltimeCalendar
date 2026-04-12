@@ -1,19 +1,8 @@
 {
   "team": "FC Cavaliers",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "dad7cba8331aed6799b3d337cbedcfe8",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Awsworth Villa FC",
-      "away_team": "FC Cavaliers",
-      "venue": "SHILO PARK ZINDA GROUND",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Awsworth Villa FC"
-    },
     {
       "id": "50a001275f211bc53e2f33910bb33e05",
       "date": "2026-04-18",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "dad7cba8331aed6799b3d337cbedcfe8",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Awsworth Villa FC",
+      "away_team": "FC Cavaliers",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Awsworth Villa FC",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "36985dbc66f5ba27202b0b4b471941bc",
       "date": "2026-04-04",

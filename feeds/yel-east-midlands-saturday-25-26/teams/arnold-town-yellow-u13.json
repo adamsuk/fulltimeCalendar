@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town Yellow U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "d9469055cc93636d53166478bb58f46f",
-      "date": "2026-04-11",
-      "time": "10:30",
-      "home_team": "Arnold Town Yellow U13",
-      "away_team": "Keyworth United Cyan U13",
-      "venue": "Eagle Valley NG5 8PS",
-      "division": "U13 Sat Spring Div 4 Red",
-      "home_away": "home",
-      "opponent": "Keyworth United Cyan U13"
-    },
     {
       "id": "21761a8744c70738f64167ddd1615a03",
       "date": "2026-04-14",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d9469055cc93636d53166478bb58f46f",
+      "date": "2026-04-11",
+      "time": "10:30",
+      "home_team": "Arnold Town Yellow U13",
+      "away_team": "Keyworth United Cyan U13",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat Spring Div 4 Red",
+      "home_away": "home",
+      "opponent": "Keyworth United Cyan U13",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "1033fdd7ebef7ba13d78a9f1c7e082bb",
       "date": "2026-03-21",

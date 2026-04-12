@@ -1,20 +1,7 @@
 {
   "club": "Mountsorrel Juniors",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "ec3ee7521b766cb84a99a985b5832bfb",
-      "date": "2026-04-11",
-      "time": "12:15",
-      "home_team": "Mountsorrel Juniors U14",
-      "away_team": "Priory Celtic White U14",
-      "venue": "THE CEDARS ACADEMY LE4 4GH",
-      "division": "U14 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Mountsorrel Juniors U14",
-      "home_away": "home",
-      "opponent": "Priory Celtic White U14"
-    },
     {
       "id": "32a48c7aa0ae6efb006e781ca4cb828a",
       "date": "2026-04-14",
@@ -82,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "ec3ee7521b766cb84a99a985b5832bfb",
+      "date": "2026-04-11",
+      "time": "12:15",
+      "home_team": "Mountsorrel Juniors U14",
+      "away_team": "Priory Celtic White U14",
+      "home_score": 11,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mountsorrel Juniors U14",
+      "home_away": "home",
+      "opponent": "Priory Celtic White U14",
+      "goals_for": 11,
+      "goals_against": 1
+    },
     {
       "id": "bc8a201f8f74478292889898c93e5d4a",
       "date": "2026-03-21",

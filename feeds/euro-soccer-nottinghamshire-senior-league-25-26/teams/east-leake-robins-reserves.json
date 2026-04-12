@@ -1,19 +1,8 @@
 {
   "team": "East Leake Robins Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "2d1fbcad4b2d658848b6860b85bee1fb",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Ravenshead Reds FC",
-      "away_team": "East Leake Robins Reserves",
-      "venue": "RAVENSHEAD LEISURE CENTRE",
-      "division": "NSL Division Three",
-      "home_away": "away",
-      "opponent": "Ravenshead Reds FC"
-    },
     {
       "id": "b08dba3bf2b5dad3b4f378e7a9a88483",
       "date": "2026-04-15",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2d1fbcad4b2d658848b6860b85bee1fb",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Ravenshead Reds FC",
+      "away_team": "East Leake Robins Reserves",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "away",
+      "opponent": "Ravenshead Reds FC",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "83a99b9c5aacb20d2231ffd35af3b827",
       "date": "2026-04-04",

@@ -1,30 +1,8 @@
 {
   "team": "Shirebrook Rangers U7",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "45d5a9d269aaaabafbe2b6d8d45d6302",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Bingham Town Blue U7",
-      "away_team": "Shirebrook Rangers U7",
-      "venue": "Butt Field NG13 8GG",
-      "division": "U7 Sat Spring 4 Red",
-      "home_away": "away",
-      "opponent": "Bingham Town Blue U7"
-    },
-    {
-      "id": "752002808752fb33291a665953266c80",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Shirebrook Rangers U7",
-      "away_team": "Woodthorpe Community Union U7",
-      "venue": "Shirebrook Academy  NG20 8QF",
-      "division": "U7 Sat Spring 4 Red",
-      "home_away": "home",
-      "opponent": "Woodthorpe Community Union U7"
-    },
     {
       "id": "56bc55ce0a8bc745b6301ebe51a51403",
       "date": "2026-04-25",
@@ -38,6 +16,36 @@
     }
   ],
   "results": [
+    {
+      "id": "752002808752fb33291a665953266c80",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers U7",
+      "away_team": "Woodthorpe Community Union U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 4 Red",
+      "home_away": "home",
+      "opponent": "Woodthorpe Community Union U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "45d5a9d269aaaabafbe2b6d8d45d6302",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Bingham Town Blue U7",
+      "away_team": "Shirebrook Rangers U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 4 Red",
+      "home_away": "away",
+      "opponent": "Bingham Town Blue U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "f7a1a707f2f5234e094b688a30a576f9",
       "date": "2026-03-28",

@@ -1,19 +1,8 @@
 {
   "team": "Notts Olympic FC U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "d71195bc734cbb09aef66ade29753ec6",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Notts Olympic FC U11",
-      "away_team": "Market Warsop Mavericks U11",
-      "venue": "Birchover Park NG8 4BW",
-      "division": "U11 Sat YEL Trophy",
-      "home_away": "home",
-      "opponent": "Market Warsop Mavericks U11"
-    },
     {
       "id": "4fcbb0f5c5b4611f6be8767fcb16617b",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d71195bc734cbb09aef66ade29753ec6",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Notts Olympic FC U11",
+      "away_team": "Market Warsop Mavericks U11",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat YEL Trophy",
+      "home_away": "home",
+      "opponent": "Market Warsop Mavericks U11",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "29bb8f95d10bcdda2cbc67f0daa8c9d2",
       "date": "2026-03-28",

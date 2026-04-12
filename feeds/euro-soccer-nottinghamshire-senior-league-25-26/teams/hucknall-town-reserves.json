@@ -1,19 +1,8 @@
 {
   "team": "Hucknall Town Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "ea07c0b359816e01702a57d0d95f677b",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Hucknall Town Reserves",
-      "away_team": "Stapleford Town Reserves",
-      "venue": "HUCKNALL TOWN FOOTBALL CLUB",
-      "division": "NSL Division One",
-      "home_away": "home",
-      "opponent": "Stapleford Town Reserves"
-    },
     {
       "id": "1bdcfdb383eafc6556a9b7bf89111503",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ea07c0b359816e01702a57d0d95f677b",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Hucknall Town Reserves",
+      "away_team": "Stapleford Town Reserves",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division One",
+      "home_away": "home",
+      "opponent": "Stapleford Town Reserves",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "bb1e88f2fab993bc6930a8f85308accd",
       "date": "2026-04-08",

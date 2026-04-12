@@ -1,19 +1,8 @@
 {
   "team": "Cotgrave FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "947b30aba76f04adac4c8539644daa6f",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Wollaton FC",
-      "away_team": "Cotgrave FC",
-      "venue": "WOLLATON SPORTS ASSOCIATION GROUND",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Wollaton FC"
-    },
     {
       "id": "6149b001bf05ab03a166ca5ad47fbe05",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "947b30aba76f04adac4c8539644daa6f",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Wollaton FC",
+      "away_team": "Cotgrave FC",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Wollaton FC",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "9b8f23aeab3987005eb4bc1daa3a2c9e",
       "date": "2026-04-04",

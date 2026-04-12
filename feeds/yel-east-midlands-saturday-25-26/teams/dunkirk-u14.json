@@ -1,19 +1,8 @@
 {
   "team": "Dunkirk U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "4cfb19b1a50858d26214477583c2ed11",
-      "date": "2026-04-11",
-      "time": "10:15",
-      "home_team": "Quarrydale United Yellow U14",
-      "away_team": "Dunkirk U14",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "u14 Sat Spring Div 1 Silver",
-      "home_away": "away",
-      "opponent": "Quarrydale United Yellow U14"
-    },
     {
       "id": "f630a0d5346140683bb0d02d05afbc79",
       "date": "2026-04-14",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "4cfb19b1a50858d26214477583c2ed11",
+      "date": "2026-04-11",
+      "time": "10:15",
+      "home_team": "Quarrydale United Yellow U14",
+      "away_team": "Dunkirk U14",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "u14 Sat Spring Div 1 Silver",
+      "home_away": "away",
+      "opponent": "Quarrydale United Yellow U14",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "367dcecc5c978589c6cfd117d6cfd0ad",
       "date": "2026-03-21",

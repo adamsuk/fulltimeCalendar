@@ -1,19 +1,8 @@
 {
   "team": "Hilton Harriers Cobras U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "87ee48cda81d226dc3882475d050acda",
-      "date": "2026-04-11",
-      "time": "09:30",
-      "home_team": "Hilton Harriers Cobras U13",
-      "away_team": "Duffield Dynamo United U13",
-      "venue": "The Mease Pavilion DE65 5LS",
-      "division": "U13 Sat Spring Div 2 Blue",
-      "home_away": "home",
-      "opponent": "Duffield Dynamo United U13"
-    },
     {
       "id": "0a6cdc5d9820ff0e1e31c9872bc7929b",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "87ee48cda81d226dc3882475d050acda",
+      "date": "2026-04-11",
+      "time": "09:30",
+      "home_team": "Hilton Harriers Cobras U13",
+      "away_team": "Duffield Dynamo United U13",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat Spring Div 2 Blue",
+      "home_away": "home",
+      "opponent": "Duffield Dynamo United U13",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "a85c82f5932156bfb72429b915bfb1fb",
       "date": "2026-03-21",

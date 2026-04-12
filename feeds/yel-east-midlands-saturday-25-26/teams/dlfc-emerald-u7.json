@@ -1,19 +1,8 @@
 {
   "team": "DLFC Emerald U7",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "71b9a2b8625b0d22960ac8d28f7f22c3",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "DLFC Emerald U7",
-      "away_team": "Priory Celtic White U7",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U7 Sat Spring 6",
-      "home_away": "home",
-      "opponent": "Priory Celtic White U7"
-    },
     {
       "id": "c0629aa39f5ad9eb4456430edbd20c9a",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "71b9a2b8625b0d22960ac8d28f7f22c3",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "DLFC Emerald U7",
+      "away_team": "Priory Celtic White U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 6",
+      "home_away": "home",
+      "opponent": "Priory Celtic White U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "348b4a831e9b1000a0a2768bb379c3ee",
       "date": "2026-03-28",

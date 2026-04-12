@@ -1,6 +1,6 @@
 {
   "club": "Pegasus FC",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
     {
       "id": "fc8098c162e51af805d9f0ad00a5c2dd",
@@ -14,19 +14,6 @@
       "team": "Pegasus FC",
       "home_away": "home",
       "opponent": "Newark Town FC U23's"
-    },
-    {
-      "id": "f431939a145b1c2a75957238e833ca09",
-      "date": "2026-04-11",
-      "time": "10:30",
-      "home_team": "Pegasus FC",
-      "away_team": "Stapleford Town FC U23",
-      "venue": "PASTURE ROAD RECREATION GROUND",
-      "division": "Development Spring Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Pegasus FC",
-      "home_away": "home",
-      "opponent": "Stapleford Town FC U23"
     },
     {
       "id": "51fc448ade38eabff0412ac5a5dd4590",
@@ -164,7 +151,7 @@
       "time": "10:00",
       "home_team": "Radcliffe Olympic Rangers U10",
       "away_team": "Pegasus FC U10",
-      "venue": "South Nottinghamshire Academy  NG12 2FQ",
+      "venue": "Pasture Road Recreation Ground  NG9 8GN",
       "division": "U10 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Pegasus FC U10",
@@ -290,6 +277,23 @@
     }
   ],
   "results": [
+    {
+      "id": "f431939a145b1c2a75957238e833ca09",
+      "date": "2026-04-11",
+      "time": "10:30",
+      "home_team": "Pegasus FC",
+      "away_team": "Stapleford Town FC U23",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Pegasus FC",
+      "home_away": "home",
+      "opponent": "Stapleford Town FC U23",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "9378b57712868c8c4addc7b2c5c3918f",
       "date": "2026-03-28",

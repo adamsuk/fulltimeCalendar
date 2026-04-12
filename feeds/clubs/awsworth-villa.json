@@ -1,6 +1,6 @@
 {
   "club": "Awsworth Villa",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
     {
       "id": "c0f70b7e8800cb8f13340a274e51998c",
@@ -14,32 +14,6 @@
       "team": "Awsworth Villa FC",
       "home_away": "home",
       "opponent": "Dunkirk AFC"
-    },
-    {
-      "id": "dad7cba8331aed6799b3d337cbedcfe8",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Awsworth Villa FC",
-      "away_team": "FC Cavaliers",
-      "venue": "SHILO PARK ZINDA GROUND",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Awsworth Villa FC",
-      "home_away": "home",
-      "opponent": "FC Cavaliers"
-    },
-    {
-      "id": "376e22da4c46d5937416042151fb660a",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Pass Move Grin Reserves",
-      "away_team": "Awsworth Villa Reserves",
-      "venue": "ARNOLD HILL SCHOOL POWERLEAGUE",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Awsworth Villa Reserves",
-      "home_away": "away",
-      "opponent": "Pass Move Grin Reserves"
     },
     {
       "id": "6fb74d9ca9112c1d4e58affcc262961a",
@@ -212,6 +186,40 @@
     }
   ],
   "results": [
+    {
+      "id": "dad7cba8331aed6799b3d337cbedcfe8",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Awsworth Villa FC",
+      "away_team": "FC Cavaliers",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Awsworth Villa FC",
+      "home_away": "home",
+      "opponent": "FC Cavaliers",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "376e22da4c46d5937416042151fb660a",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Pass Move Grin Reserves",
+      "away_team": "Awsworth Villa Reserves",
+      "home_score": 6,
+      "away_score": 7,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Awsworth Villa Reserves",
+      "home_away": "away",
+      "opponent": "Pass Move Grin Reserves",
+      "goals_for": 7,
+      "goals_against": 6
+    },
     {
       "id": "ed81805493542caf073c3ef34c1e4c9b",
       "date": "2026-04-07",

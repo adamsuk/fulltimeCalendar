@@ -1,30 +1,8 @@
 {
   "team": "Woodthorpe Community Union U7",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "cf845ab03c2fdba2f96303ba9a8570f1",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Woodthorpe Community Union U7",
-      "away_team": "Blidworth Bengals U7",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U7 Sat Spring 4 Red",
-      "home_away": "home",
-      "opponent": "Blidworth Bengals U7"
-    },
-    {
-      "id": "752002808752fb33291a665953266c80",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Shirebrook Rangers U7",
-      "away_team": "Woodthorpe Community Union U7",
-      "venue": "Shirebrook Academy  NG20 8QF",
-      "division": "U7 Sat Spring 4 Red",
-      "home_away": "away",
-      "opponent": "Shirebrook Rangers U7"
-    },
     {
       "id": "d20fda14ce10f69fa9b39759fe9fa66d",
       "date": "2026-04-25",
@@ -38,6 +16,36 @@
     }
   ],
   "results": [
+    {
+      "id": "752002808752fb33291a665953266c80",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers U7",
+      "away_team": "Woodthorpe Community Union U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 4 Red",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "cf845ab03c2fdba2f96303ba9a8570f1",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Woodthorpe Community Union U7",
+      "away_team": "Blidworth Bengals U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 4 Red",
+      "home_away": "home",
+      "opponent": "Blidworth Bengals U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "9ee7f2c1b4383450b68e29ec7ceccc84",
       "date": "2026-03-28",

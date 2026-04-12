@@ -1,33 +1,7 @@
 {
   "club": "Moorgreen Colts",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "7fb59b1adf0158d0f09b8054ba245baa",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Hucknall Sports Red U7",
-      "away_team": "Moorgreen Colts U7",
-      "venue": "Engine Rooms NG15 6EP",
-      "division": "U7 Sat Spring 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Moorgreen Colts U7",
-      "home_away": "away",
-      "opponent": "Hucknall Sports Red U7"
-    },
-    {
-      "id": "2889562bd51aa3001d0e3601062e8b3c",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Moorgreen Colts U8",
-      "away_team": "WBYFC Dynamos Stripes U8",
-      "venue": "Birnam Park  NG16 2DE",
-      "division": "U8 Sat Spring 7 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Moorgreen Colts U8",
-      "home_away": "home",
-      "opponent": "WBYFC Dynamos Stripes U8"
-    },
     {
       "id": "87d866b2bb4f4fa9fd624b8ceaa72584",
       "date": "2026-04-12",
@@ -537,6 +511,40 @@
     }
   ],
   "results": [
+    {
+      "id": "7fb59b1adf0158d0f09b8054ba245baa",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Hucknall Sports Red U7",
+      "away_team": "Moorgreen Colts U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Moorgreen Colts U7",
+      "home_away": "away",
+      "opponent": "Hucknall Sports Red U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "2889562bd51aa3001d0e3601062e8b3c",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Moorgreen Colts U8",
+      "away_team": "WBYFC Dynamos Stripes U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Moorgreen Colts U8",
+      "home_away": "home",
+      "opponent": "WBYFC Dynamos Stripes U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "c3e410eb8ff2ad22bbe38b5299e5caa1",
       "date": "2026-03-29",

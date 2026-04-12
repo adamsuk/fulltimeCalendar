@@ -1,33 +1,7 @@
 {
   "club": "Hemington Hammers",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "143de5187b84dc6cec81fc68e55ef7f0",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Hemington Hammers Hammerheads U7",
-      "away_team": "Keyworth United White U7",
-      "venue": "Hemington Lane DE74 2RF",
-      "division": "U7 Sat Spring 6",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Hemington Hammers Hammerheads U7",
-      "home_away": "home",
-      "opponent": "Keyworth United White U7"
-    },
-    {
-      "id": "ec4b992ce1d6397bb7505aa54201d7c0",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Priory Celtic Green U7",
-      "away_team": "Hemington Hammers Hunters U7",
-      "venue": "Kimberley Leisure Centre NG16 2NJ GP1",
-      "division": "U7 Sat Spring 6",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Hemington Hammers Hunters U7",
-      "home_away": "away",
-      "opponent": "Priory Celtic Green U7"
-    },
     {
       "id": "1553aed0fe00ad62d194a99c7f7b5aca",
       "date": "2026-04-12",
@@ -225,6 +199,40 @@
     }
   ],
   "results": [
+    {
+      "id": "143de5187b84dc6cec81fc68e55ef7f0",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Hemington Hammers Hammerheads U7",
+      "away_team": "Keyworth United White U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 6",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hemington Hammers Hammerheads U7",
+      "home_away": "home",
+      "opponent": "Keyworth United White U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "ec4b992ce1d6397bb7505aa54201d7c0",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Priory Celtic Green U7",
+      "away_team": "Hemington Hammers Hunters U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 6",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hemington Hammers Hunters U7",
+      "home_away": "away",
+      "opponent": "Priory Celtic Green U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "2d692cf449d8274b87569d48b7ed2261",
       "date": "2026-03-29",

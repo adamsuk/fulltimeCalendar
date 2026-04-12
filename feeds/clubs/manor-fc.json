@@ -1,33 +1,7 @@
 {
   "club": "Manor FC",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "c6a018421900c108dd2ca857e40fb2b8",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Manor FC Yellow U7",
-      "away_team": "Bingham Town White U7",
-      "venue": "Manor Park Sports Complex NG19 8JX",
-      "division": "U7 Sat Spring 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Manor FC Yellow U7",
-      "home_away": "home",
-      "opponent": "Bingham Town White U7"
-    },
-    {
-      "id": "9ee847d297b30bab467b8fd74d0f623e",
-      "date": "2026-04-11",
-      "time": "11:30",
-      "home_team": "Cotgrave FC Claret U7",
-      "away_team": "Manor FC Red U7",
-      "venue": "Cotgrave Welfare NG12 3PJ",
-      "division": "U7 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Manor FC Red U7",
-      "home_away": "away",
-      "opponent": "Cotgrave FC Claret U7"
-    },
     {
       "id": "d1265e59daea39068b13dccbe0f164a8",
       "date": "2026-04-18",
@@ -160,6 +134,40 @@
     }
   ],
   "results": [
+    {
+      "id": "9ee847d297b30bab467b8fd74d0f623e",
+      "date": "2026-04-11",
+      "time": "11:30",
+      "home_team": "Cotgrave FC Claret U7",
+      "away_team": "Manor FC Red U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Manor FC Red U7",
+      "home_away": "away",
+      "opponent": "Cotgrave FC Claret U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "c6a018421900c108dd2ca857e40fb2b8",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Manor FC Yellow U7",
+      "away_team": "Bingham Town White U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Manor FC Yellow U7",
+      "home_away": "home",
+      "opponent": "Bingham Town White U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "d41076eaafaff229b9e9e24d2a8606c5",
       "date": "2026-03-28",

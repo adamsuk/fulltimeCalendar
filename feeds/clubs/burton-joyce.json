@@ -1,6 +1,6 @@
 {
   "club": "Burton Joyce",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
     {
       "id": "33c4a10d6931b4a29921b62d6588be05",
@@ -14,45 +14,6 @@
       "team": "Burton Joyce F.C. Girls U16",
       "home_away": "home",
       "opponent": "Woodlands Women U16 Greensocks"
-    },
-    {
-      "id": "c6fb61ec2dd4924825f91e170c577ca3",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Ruddington Village RED U7",
-      "away_team": "Burton Joyce Blue U7",
-      "venue": "Jubilee Fields NG11 6NX",
-      "division": "U7 Sat Spring 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Burton Joyce Blue U7",
-      "home_away": "away",
-      "opponent": "Ruddington Village RED U7"
-    },
-    {
-      "id": "47577a83e0b0e157cb767f2220f7e41a",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Burton Joyce U8",
-      "away_team": "Newark Brazil Rio U8",
-      "venue": "The Poplars, Burton Joyce  NG14 5AN",
-      "division": "U8 Sat Spring 7 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Burton Joyce U8",
-      "home_away": "home",
-      "opponent": "Newark Brazil Rio U8"
-    },
-    {
-      "id": "0797b4431d5c663de67f5b1b97212356",
-      "date": "2026-04-11",
-      "time": "10:30",
-      "home_team": "Linby Colliery Welfare Development",
-      "away_team": "Burton Joyce F.C. U23",
-      "venue": "LINBY COLLIERY WELFARE FC",
-      "division": "Development Spring Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Burton Joyce F.C. U23",
-      "home_away": "away",
-      "opponent": "Linby Colliery Welfare Development"
     },
     {
       "id": "7102956156fa8e2bb4104bfe24b25f0d",
@@ -237,6 +198,19 @@
       "opponent": "RHP Colts Green U9"
     },
     {
+      "id": "934f6cad04a2eb6ed1a56343238a8ca8",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Burton Joyce F.C. Girls U12 Olympians",
+      "away_team": "Keyworth United F.C. U12 Shooting Stars",
+      "venue": "RH ACADEMY",
+      "division": "U12 Cup 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Burton Joyce F.C. Girls U12 Olympians",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U12 Shooting Stars"
+    },
+    {
       "id": "1ab3d8097c25ee8dd32237c1785dcd64",
       "date": "2026-04-19",
       "time": "10:00",
@@ -300,19 +274,6 @@
       "team": "Burton Joyce Green U12",
       "home_away": "home",
       "opponent": "Shirebrook Rangers U12"
-    },
-    {
-      "id": "934f6cad04a2eb6ed1a56343238a8ca8",
-      "date": "2026-04-19",
-      "time": "12:00",
-      "home_team": "Burton Joyce F.C. Girls U12 Olympians",
-      "away_team": "Keyworth United F.C. U12 Shooting Stars",
-      "venue": "RH ACADEMY",
-      "division": "U12 Cup 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Burton Joyce F.C. Girls U12 Olympians",
-      "home_away": "home",
-      "opponent": "Keyworth United F.C. U12 Shooting Stars"
     },
     {
       "id": "4091f3eb030c8ecfa662390e24df2413",
@@ -523,19 +484,6 @@
       "opponent": "Stapleford Town FC U15 Girls"
     },
     {
-      "id": "116631e76d62976997f58c9f33cb9a1e",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Keyworth United F.C. U15 Predators",
-      "away_team": "Burton Joyce F.C. Girls U15 Green",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Burton Joyce F.C. Girls U15 Green",
-      "home_away": "away",
-      "opponent": "Keyworth United F.C. U15 Predators"
-    },
-    {
       "id": "d1080865e99bcb235566792f3eb9c95b",
       "date": "2026-04-26",
       "time": "10:10",
@@ -573,6 +521,19 @@
       "team": "Burton Joyce Green U12",
       "home_away": "away",
       "opponent": "Arnold Town Maroon U12"
+    },
+    {
+      "id": "116631e76d62976997f58c9f33cb9a1e",
+      "date": "2026-04-26",
+      "time": "12:30",
+      "home_team": "Keyworth United F.C. U15 Predators",
+      "away_team": "Burton Joyce F.C. Girls U15 Green",
+      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Burton Joyce F.C. Girls U15 Green",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U15 Predators"
     },
     {
       "id": "edb84c8758d5d22d4723acc372d0a68f",
@@ -771,6 +732,57 @@
     }
   ],
   "results": [
+    {
+      "id": "0797b4431d5c663de67f5b1b97212356",
+      "date": "2026-04-11",
+      "time": "10:30",
+      "home_team": "Linby Colliery Welfare Development",
+      "away_team": "Burton Joyce F.C. U23",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Burton Joyce F.C. U23",
+      "home_away": "away",
+      "opponent": "Linby Colliery Welfare Development",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "c6fb61ec2dd4924825f91e170c577ca3",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Ruddington Village RED U7",
+      "away_team": "Burton Joyce Blue U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Burton Joyce Blue U7",
+      "home_away": "away",
+      "opponent": "Ruddington Village RED U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "47577a83e0b0e157cb767f2220f7e41a",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Burton Joyce U8",
+      "away_team": "Newark Brazil Rio U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 7 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Burton Joyce U8",
+      "home_away": "home",
+      "opponent": "Newark Brazil Rio U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "af98851d854df5e29b8166afcc2a1986",
       "date": "2026-04-04",

@@ -1,20 +1,7 @@
 {
   "club": "Beeston Reserves",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "cf9dc2ca719f5394b6e7f049c24d50d6",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Beeston Reserves",
-      "away_team": "Newark and Sherwood Reserves",
-      "venue": "Trent Vale Road Sports Ground",
-      "division": "NSL Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Beeston Reserves",
-      "home_away": "home",
-      "opponent": "Newark and Sherwood Reserves"
-    },
     {
       "id": "8024c79fd137e08e0713f0069de8f83f",
       "date": "2026-04-18",
@@ -82,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "cf9dc2ca719f5394b6e7f049c24d50d6",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Beeston Reserves",
+      "away_team": "Newark and Sherwood Reserves",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "NSL Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Beeston Reserves",
+      "home_away": "home",
+      "opponent": "Newark and Sherwood Reserves",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "cf55a62cc49c059f1e10bd46738371bb",
       "date": "2026-03-28",

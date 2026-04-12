@@ -1,6 +1,6 @@
 {
   "club": "Calverton Miners",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
     {
       "id": "aeff0b7aaa3e07f584218c506c17dfdd",
@@ -14,32 +14,6 @@
       "team": "Calverton Miners Welfare Reserves",
       "home_away": "away",
       "opponent": "Pass Move Grin Reserves"
-    },
-    {
-      "id": "71aaa53f8e517496c8094e0354d68b1e",
-      "date": "2026-04-11",
-      "time": "10:30",
-      "home_team": "Beaufort United F.C. Development",
-      "away_team": "Calverton Miners Welfare U23",
-      "venue": "Unwin Road",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Calverton Miners Welfare U23",
-      "home_away": "away",
-      "opponent": "Beaufort United F.C. Development"
-    },
-    {
-      "id": "e082998e40ae29338323273e20242cc1",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Rolls Royce FC",
-      "away_team": "Calverton Miners Welfare Reserves",
-      "venue": "DERBY LEISURE & EVENTS VENUE DERBY",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Calverton Miners Welfare Reserves",
-      "home_away": "away",
-      "opponent": "Rolls Royce FC"
     },
     {
       "id": "49454f7dc76c4e60dc9dd3d1c06440d2",
@@ -133,6 +107,19 @@
       "opponent": "Elston United FC"
     },
     {
+      "id": "8bb3e49a38a3e0349a7c7cac93432844",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Calverton Miners Welfare FC",
+      "away_team": "Lowdham Colts FC Ladies",
+      "venue": "CALVERTON MINERS WELFARE TRUST",
+      "division": "Seniors Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Calverton Miners Welfare FC",
+      "home_away": "home",
+      "opponent": "Lowdham Colts FC Ladies"
+    },
+    {
       "id": "358da77d09c22e6d9cb4706c50aaa77e",
       "date": "2026-04-19",
       "time": "10:00",
@@ -144,19 +131,6 @@
       "team": "Calverton Miners Welfare FC U13",
       "home_away": "away",
       "opponent": "Stapleford Town FC U13 Girls"
-    },
-    {
-      "id": "d8a539d3bd6fbd827ab79db0eea02294",
-      "date": "2026-04-19",
-      "time": "14:00",
-      "home_team": "Mansfield Town Ladies FC Development",
-      "away_team": "Calverton Miners Welfare FC",
-      "venue": "RH ACADEMY",
-      "division": "Seniors Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Calverton Miners Welfare FC",
-      "home_away": "away",
-      "opponent": "Mansfield Town Ladies FC Development"
     },
     {
       "id": "b6e988b26c64c70540507cbc86a3ee12",
@@ -263,19 +237,6 @@
       "opponent": "Quorn FC Methodists"
     },
     {
-      "id": "bfb558ec5e6e8762f8f9ed96b6857a2f",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Calverton Miners Welfare FC",
-      "away_team": "Lowdham Colts FC Ladies",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "Seniors Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Calverton Miners Welfare FC",
-      "home_away": "home",
-      "opponent": "Lowdham Colts FC Ladies"
-    },
-    {
       "id": "8ede9cb2d4daf7664dfffb2fe50c98ee",
       "date": "2026-05-08",
       "time": "19:45",
@@ -339,9 +300,56 @@
       "team": "Calverton Miners Welfare FC U13",
       "home_away": "away",
       "opponent": "Mansfield Town F.C. Girls U13"
+    },
+    {
+      "id": "958bc16d8ed96dd77c3b1d32ad15c60f",
+      "date": "2026-05-17",
+      "time": "14:00",
+      "home_team": "Mansfield Town Ladies FC Development",
+      "away_team": "Calverton Miners Welfare FC",
+      "venue": "RH ACADEMY",
+      "division": "Seniors Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Calverton Miners Welfare FC",
+      "home_away": "away",
+      "opponent": "Mansfield Town Ladies FC Development"
     }
   ],
   "results": [
+    {
+      "id": "e082998e40ae29338323273e20242cc1",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Rolls Royce FC",
+      "away_team": "Calverton Miners Welfare Reserves",
+      "home_score": 2,
+      "away_score": 7,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Calverton Miners Welfare Reserves",
+      "home_away": "away",
+      "opponent": "Rolls Royce FC",
+      "goals_for": 7,
+      "goals_against": 2
+    },
+    {
+      "id": "71aaa53f8e517496c8094e0354d68b1e",
+      "date": "2026-04-11",
+      "time": "10:30",
+      "home_team": "Beaufort United F.C. Development",
+      "away_team": "Calverton Miners Welfare U23",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Calverton Miners Welfare U23",
+      "home_away": "away",
+      "opponent": "Beaufort United F.C. Development",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "657259a798cf534def307be3b5f099df",
       "date": "2026-04-08",

@@ -1,7 +1,7 @@
 {
   "team": "Mansfield Town Ladies FC Development",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
     {
       "id": "b31a1913aaac4c4abc539fd33691894f",
@@ -15,26 +15,15 @@
       "opponent": "Hucknall Town FC Women"
     },
     {
-      "id": "d8a539d3bd6fbd827ab79db0eea02294",
+      "id": "6c76c7228e1752698b690d6caef85a09",
       "date": "2026-04-19",
       "time": "14:00",
-      "home_team": "Mansfield Town Ladies FC Development",
-      "away_team": "Calverton Miners Welfare FC",
-      "venue": "RH ACADEMY",
+      "home_team": "Radcliffe Olympic FC Ladies",
+      "away_team": "Mansfield Town Ladies FC Development",
+      "venue": "BINGHAM ROAD PLAYING FIELDS",
       "division": "Seniors Div 1",
-      "home_away": "home",
-      "opponent": "Calverton Miners Welfare FC"
-    },
-    {
-      "id": "d2872a4c88fbd3d3f1b514e2888f2f27",
-      "date": "2026-04-26",
-      "time": "14:00",
-      "home_team": "Mansfield Town Ladies FC Development",
-      "away_team": "Nottingham Trent Uni FC Womens Pink",
-      "venue": "RH ACADEMY",
-      "division": "Seniors Div 1",
-      "home_away": "home",
-      "opponent": "Nottingham Trent Uni FC Womens Pink"
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC Ladies"
     },
     {
       "id": "b4cc05f0c840aa6c4dbd938ceb6082f0",
@@ -48,15 +37,15 @@
       "opponent": "Radcliffe Olympic FC Ladies"
     },
     {
-      "id": "8c6ff08778860184fade674ed609e23e",
+      "id": "272618c9dcbc8d3354384112f7768c9a",
       "date": "2026-05-10",
       "time": "14:00",
-      "home_team": "Radcliffe Olympic FC Ladies",
-      "away_team": "Mansfield Town Ladies FC Development",
-      "venue": "BINGHAM ROAD PLAYING FIELDS",
+      "home_team": "Mansfield Town Ladies FC Development",
+      "away_team": "Nottingham Trent Uni FC Womens Pink",
+      "venue": "RH ACADEMY",
       "division": "Seniors Div 1",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic FC Ladies"
+      "home_away": "home",
+      "opponent": "Nottingham Trent Uni FC Womens Pink"
     },
     {
       "id": "0a6d4d20e07d50c8cee17df06bc169a3",
@@ -67,6 +56,17 @@
       "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
       "division": "Senior Div 1 League Cup",
       "home_away": "away",
+      "opponent": "Calverton Miners Welfare FC"
+    },
+    {
+      "id": "958bc16d8ed96dd77c3b1d32ad15c60f",
+      "date": "2026-05-17",
+      "time": "14:00",
+      "home_team": "Mansfield Town Ladies FC Development",
+      "away_team": "Calverton Miners Welfare FC",
+      "venue": "RH ACADEMY",
+      "division": "Seniors Div 1",
+      "home_away": "home",
       "opponent": "Calverton Miners Welfare FC"
     }
   ],

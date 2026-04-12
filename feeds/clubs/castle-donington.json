@@ -1,20 +1,7 @@
 {
   "club": "Castle Donington",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "1a4ad3f992b8fdd126a0b671946c1f08",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Castle Donington Rex's U8",
-      "away_team": "Ollerton Town Black U8",
-      "venue": "Spital Park DE74 2NQ",
-      "division": "U8 Sat Spring 8",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Castle Donington Rex's U8",
-      "home_away": "home",
-      "opponent": "Ollerton Town Black U8"
-    },
     {
       "id": "0a8f804078aa422286e09b2eef126273",
       "date": "2026-04-12",
@@ -433,6 +420,23 @@
     }
   ],
   "results": [
+    {
+      "id": "1a4ad3f992b8fdd126a0b671946c1f08",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Castle Donington Rex's U8",
+      "away_team": "Ollerton Town Black U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 8",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Castle Donington Rex's U8",
+      "home_away": "home",
+      "opponent": "Ollerton Town Black U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "3541b6f177b02744e87921b42bcd9154",
       "date": "2026-03-29",

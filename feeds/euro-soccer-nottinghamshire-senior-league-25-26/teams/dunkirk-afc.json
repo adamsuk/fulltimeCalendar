@@ -1,7 +1,7 @@
 {
   "team": "Dunkirk AFC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
     {
       "id": "c0f70b7e8800cb8f13340a274e51998c",
@@ -13,17 +13,6 @@
       "division": "Euro Soccer Premier Division",
       "home_away": "away",
       "opponent": "Awsworth Villa FC"
-    },
-    {
-      "id": "076cd796712a936ea706731423e86452",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Dunkirk AFC",
-      "away_team": "Notts Olympic FC",
-      "venue": "RON STEEL SPORTS GROUND #1",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "home",
-      "opponent": "Notts Olympic FC"
     },
     {
       "id": "99216d7d3aeed093ab198fbb844d594c",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "076cd796712a936ea706731423e86452",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Dunkirk AFC",
+      "away_team": "Notts Olympic FC",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "home",
+      "opponent": "Notts Olympic FC",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "965654f8ae525c06c2f60bc399be0f14",
       "date": "2026-04-07",

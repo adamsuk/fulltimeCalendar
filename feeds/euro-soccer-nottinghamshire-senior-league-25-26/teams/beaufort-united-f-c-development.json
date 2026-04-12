@@ -1,19 +1,8 @@
 {
   "team": "Beaufort United F.C. Development",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "71aaa53f8e517496c8094e0354d68b1e",
-      "date": "2026-04-11",
-      "time": "10:30",
-      "home_team": "Beaufort United F.C. Development",
-      "away_team": "Calverton Miners Welfare U23",
-      "venue": "Unwin Road",
-      "division": "Development Spring Division One",
-      "home_away": "home",
-      "opponent": "Calverton Miners Welfare U23"
-    },
     {
       "id": "4675a1e8a2a2fa41268b0645c51b8239",
       "date": "2026-04-15",
@@ -104,6 +93,21 @@
     }
   ],
   "results": [
+    {
+      "id": "71aaa53f8e517496c8094e0354d68b1e",
+      "date": "2026-04-11",
+      "time": "10:30",
+      "home_team": "Beaufort United F.C. Development",
+      "away_team": "Calverton Miners Welfare U23",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "home",
+      "opponent": "Calverton Miners Welfare U23",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "5c0279a3b66a610ef3e21b93c27ca934",
       "date": "2026-04-04",

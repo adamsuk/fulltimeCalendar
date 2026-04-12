@@ -1,19 +1,8 @@
 {
   "team": "Kimberley Miners Welfare Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "0dffaf17bf0f3bb4f3a27cdc728a655f",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "Collingham FC",
-      "away_team": "Kimberley Miners Welfare Reserves",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Collingham FC"
-    },
     {
       "id": "99216d7d3aeed093ab198fbb844d594c",
       "date": "2026-04-14",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0dffaf17bf0f3bb4f3a27cdc728a655f",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Collingham FC",
+      "away_team": "Kimberley Miners Welfare Reserves",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Collingham FC",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "ed81805493542caf073c3ef34c1e4c9b",
       "date": "2026-04-07",

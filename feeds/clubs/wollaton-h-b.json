@@ -1,33 +1,7 @@
 {
   "club": "Wollaton H/B",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "abb45ac3e19ba25b1bc3934271b5ddea",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Edwalton Cavaliers White U7",
-      "away_team": "Wollaton H/B Cobras U7",
-      "venue": "Nottingham Football Centre NG2 7BW",
-      "division": "U7 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Wollaton H/B Cobras U7",
-      "home_away": "away",
-      "opponent": "Edwalton Cavaliers White U7"
-    },
-    {
-      "id": "16482b1cf1386e6ffc0379d6cefca685",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Heanor Junior Tigers U7",
-      "away_team": "Wollaton H/B Falcons U7",
-      "venue": "Charles Hill DE75 7RN",
-      "division": "U7 Sat Spring 5 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Wollaton H/B Falcons U7",
-      "home_away": "away",
-      "opponent": "Heanor Junior Tigers U7"
-    },
     {
       "id": "25d742601d2320febfcce77f03d3a992",
       "date": "2026-04-12",
@@ -121,6 +95,40 @@
     }
   ],
   "results": [
+    {
+      "id": "abb45ac3e19ba25b1bc3934271b5ddea",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Edwalton Cavaliers White U7",
+      "away_team": "Wollaton H/B Cobras U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Wollaton H/B Cobras U7",
+      "home_away": "away",
+      "opponent": "Edwalton Cavaliers White U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "16482b1cf1386e6ffc0379d6cefca685",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Heanor Junior Tigers U7",
+      "away_team": "Wollaton H/B Falcons U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Wollaton H/B Falcons U7",
+      "home_away": "away",
+      "opponent": "Heanor Junior Tigers U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "55c7035c620dae60f706a292dd3a6444",
       "date": "2026-03-29",

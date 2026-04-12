@@ -1,19 +1,8 @@
 {
   "team": "Linby Colliery Welfare Development",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "0797b4431d5c663de67f5b1b97212356",
-      "date": "2026-04-11",
-      "time": "10:30",
-      "home_team": "Linby Colliery Welfare Development",
-      "away_team": "Burton Joyce F.C. U23",
-      "venue": "LINBY COLLIERY WELFARE FC",
-      "division": "Development Spring Division Two",
-      "home_away": "home",
-      "opponent": "Burton Joyce F.C. U23"
-    },
     {
       "id": "9257d20ae724a438781cfaf0ac44255a",
       "date": "2026-04-15",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0797b4431d5c663de67f5b1b97212356",
+      "date": "2026-04-11",
+      "time": "10:30",
+      "home_team": "Linby Colliery Welfare Development",
+      "away_team": "Burton Joyce F.C. U23",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "home_away": "home",
+      "opponent": "Burton Joyce F.C. U23",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "1cb7f5ec11507ae4cda647d438bb538e",
       "date": "2026-04-04",

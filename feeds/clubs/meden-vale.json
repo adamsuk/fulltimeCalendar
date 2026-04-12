@@ -1,6 +1,6 @@
 {
   "club": "Meden Vale",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
     {
       "id": "a3b06b7f6324de7da9a2916b941506d7",
@@ -27,45 +27,6 @@
       "team": "Meden Vale Colts FC Ladies",
       "home_away": "home",
       "opponent": "Newark Town FC Ladies Development"
-    },
-    {
-      "id": "d9cf5650154a9d016a316560822461d4",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Silva FC Rushcliffe Red U8",
-      "away_team": "Meden Vale Colts Gold U8",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U8 Sat Spring 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Meden Vale Colts Gold U8",
-      "home_away": "away",
-      "opponent": "Silva FC Rushcliffe Red U8"
-    },
-    {
-      "id": "b96d4809c070b4468d5d1b17e0feae4f",
-      "date": "2026-04-11",
-      "time": "10:00",
-      "home_team": "Meden Vale Colts Red U8",
-      "away_team": "Gonerby FC Blue U8",
-      "venue": "Elkesley Road NG20 9PS",
-      "division": "U8 Sat Spring 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Meden Vale Colts Red U8",
-      "home_away": "home",
-      "opponent": "Gonerby FC Blue U8"
-    },
-    {
-      "id": "d8e2d4653219f796461d988c668be4c6",
-      "date": "2026-04-11",
-      "time": "10:30",
-      "home_team": "Arnold Town Blue U14",
-      "away_team": "Meden Vale Colts Gold U14",
-      "venue": "Eagle Valley NG5 8PS",
-      "division": "U14 Sat YEL Challenge Trophy",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Meden Vale Colts Gold U14",
-      "home_away": "away",
-      "opponent": "Arnold Town Blue U14"
     },
     {
       "id": "38228d8ba0a481efb42c9c6d91da2de3",
@@ -719,6 +680,57 @@
     }
   ],
   "results": [
+    {
+      "id": "d8e2d4653219f796461d988c668be4c6",
+      "date": "2026-04-11",
+      "time": "10:30",
+      "home_team": "Arnold Town Blue U14",
+      "away_team": "Meden Vale Colts Gold U14",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sat YEL Challenge Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Meden Vale Colts Gold U14",
+      "home_away": "away",
+      "opponent": "Arnold Town Blue U14",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "d9cf5650154a9d016a316560822461d4",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Silva FC Rushcliffe Red U8",
+      "away_team": "Meden Vale Colts Gold U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Meden Vale Colts Gold U8",
+      "home_away": "away",
+      "opponent": "Silva FC Rushcliffe Red U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "b96d4809c070b4468d5d1b17e0feae4f",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Meden Vale Colts Red U8",
+      "away_team": "Gonerby FC Blue U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Meden Vale Colts Red U8",
+      "home_away": "home",
+      "opponent": "Gonerby FC Blue U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "2de7760df0dc696cb4e9ca739ae6a71f",
       "date": "2026-04-05",

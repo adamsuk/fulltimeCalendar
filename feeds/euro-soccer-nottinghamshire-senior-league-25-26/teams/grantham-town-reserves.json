@@ -1,19 +1,8 @@
 {
   "team": "Grantham Town Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-11T06:48:24Z",
+  "generated": "2026-04-12T07:03:02Z",
   "fixtures": [
-    {
-      "id": "fe4e9d74977acb2ac86fb18b1ab1acd0",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "home_team": "AC United FC",
-      "away_team": "Grantham Town Reserves",
-      "venue": "THE FOREST SPORTS ZONE #1",
-      "division": "NSL Division One",
-      "home_away": "away",
-      "opponent": "AC United FC"
-    },
     {
       "id": "1bdcfdb383eafc6556a9b7bf89111503",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "fe4e9d74977acb2ac86fb18b1ab1acd0",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "AC United FC",
+      "away_team": "Grantham Town Reserves",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Division One",
+      "home_away": "away",
+      "opponent": "AC United FC",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "bf27581d43e2b5a53e41fb4ba5a0f87f",
       "date": "2026-04-04",
