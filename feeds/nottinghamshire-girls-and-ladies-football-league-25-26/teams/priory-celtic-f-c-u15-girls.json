@@ -1,19 +1,8 @@
 {
   "team": "Priory Celtic F.C. U15 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "85e7cf845b93a6dc05328d1153c46348",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Allenton United FC U15 Ladies Bees",
-      "away_team": "Priory Celtic F.C. U15 Girls",
-      "venue": "Allenton United FC U15 Ladies Bees",
-      "division": "U15 Div 2",
-      "home_away": "away",
-      "opponent": "Allenton United FC U15 Ladies Bees"
-    },
     {
       "id": "00b892d801d2dfcf9111f97f9e254d0c",
       "date": "2026-04-15",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "85e7cf845b93a6dc05328d1153c46348",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Allenton United FC U15 Ladies Bees",
+      "away_team": "Priory Celtic F.C. U15 Girls",
+      "home_score": 14,
+      "away_score": 4,
+      "venue": "",
+      "division": "U15 Div 2",
+      "home_away": "away",
+      "opponent": "Allenton United FC U15 Ladies Bees",
+      "goals_for": 4,
+      "goals_against": 14
+    },
     {
       "id": "0588a5dcf0f89daa2475e04b7ef5f028",
       "date": "2026-03-22",

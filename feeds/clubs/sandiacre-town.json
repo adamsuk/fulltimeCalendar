@@ -1,20 +1,7 @@
 {
   "club": "Sandiacre Town",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "50195c2b88984f94569ba4fa6a6d72e3",
-      "date": "2026-04-12",
-      "time": "09:45",
-      "home_team": "Sandiacre Town Youth U15 Girls Sparkle",
-      "away_team": "Willow Wanderers F.C. Youth U15 Amazons",
-      "venue": "DRAYCOTT RECREATION GROUND",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sandiacre Town Youth U15 Girls Sparkle",
-      "home_away": "home",
-      "opponent": "Willow Wanderers F.C. Youth U15 Amazons"
-    },
     {
       "id": "88a0bc82534092e2eb8677bafb3eb373",
       "date": "2026-04-12",
@@ -27,45 +14,6 @@
       "team": "Sandiacre Town Youth U12 Panthers Girls",
       "home_away": "away",
       "opponent": "Keyworth United F.C. U12 Warriors"
-    },
-    {
-      "id": "5bf15ac8b28e2beb1cb44a178e1d0292",
-      "date": "2026-04-12",
-      "time": "10:30",
-      "home_team": "Willow Wanderers F.C. Youth U15 Amazons",
-      "away_team": "Sandiacre Town Youth U15 Girls Sparkle",
-      "venue": "SANDIACRE FRIESLAND SPORTS CENTRE",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sandiacre Town Youth U15 Girls Sparkle",
-      "home_away": "away",
-      "opponent": "Willow Wanderers F.C. Youth U15 Amazons"
-    },
-    {
-      "id": "59989372b51ed21de5180aacb8c5e454",
-      "date": "2026-04-12",
-      "time": "11:30",
-      "home_team": "Sandiacre Town Youth U13 Royals",
-      "away_team": "Arnold Town FC U13 Girls",
-      "venue": "SANDIACRE FRIESLAND SPORTS CENTRE",
-      "division": "U13 Div 2 11 v 11",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sandiacre Town Youth U13 Royals",
-      "home_away": "home",
-      "opponent": "Arnold Town FC U13 Girls"
-    },
-    {
-      "id": "b33fb09f580f08f2f4dc5681e6e79f9b",
-      "date": "2026-04-12",
-      "time": "13:00",
-      "home_team": "Mansfield Town F.C. Girls U13",
-      "away_team": "Sandiacre Town Youth U13 Diamonds",
-      "venue": "MANSFIELD TOWN FC (ONE CALL STADIUM)",
-      "division": "U13 Div 1 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sandiacre Town Youth U13 Diamonds",
-      "home_away": "away",
-      "opponent": "Mansfield Town F.C. Girls U13"
     },
     {
       "id": "f769d26b41a88c4034507c01f68949b1",
@@ -328,19 +276,6 @@
       "opponent": "Hucknall & Linby Harriers FC U12"
     },
     {
-      "id": "aec7e6cddd02f11df21dc56aab2fa84c",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Keyworth United F.C. U13 Girls",
-      "away_team": "Sandiacre Town Youth U13 Diamonds",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "U13 Div 1 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sandiacre Town Youth U13 Diamonds",
-      "home_away": "away",
-      "opponent": "Keyworth United F.C. U13 Girls"
-    },
-    {
       "id": "b17c9cff5935ce03ab687f871b26f667",
       "date": "2026-04-19",
       "time": "10:00",
@@ -365,6 +300,19 @@
       "team": "Sandiacre Town Cyclones U12",
       "home_away": "away",
       "opponent": "Beeston Park Rangers U12"
+    },
+    {
+      "id": "aec7e6cddd02f11df21dc56aab2fa84c",
+      "date": "2026-04-19",
+      "time": "11:30",
+      "home_team": "Keyworth United F.C. U13 Girls",
+      "away_team": "Sandiacre Town Youth U13 Diamonds",
+      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
+      "division": "U13 Div 1 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sandiacre Town Youth U13 Diamonds",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U13 Girls"
     },
     {
       "id": "d741e50cf4a846e38f065381a7dbe799",
@@ -797,6 +745,74 @@
     }
   ],
   "results": [
+    {
+      "id": "b33fb09f580f08f2f4dc5681e6e79f9b",
+      "date": "2026-04-12",
+      "time": "13:00",
+      "home_team": "Mansfield Town F.C. Girls U13",
+      "away_team": "Sandiacre Town Youth U13 Diamonds",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Div 1 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sandiacre Town Youth U13 Diamonds",
+      "home_away": "away",
+      "opponent": "Mansfield Town F.C. Girls U13",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
+      "id": "59989372b51ed21de5180aacb8c5e454",
+      "date": "2026-04-12",
+      "time": "11:30",
+      "home_team": "Sandiacre Town Youth U13 Royals",
+      "away_team": "Arnold Town FC U13 Girls",
+      "home_score": 0,
+      "away_score": 6,
+      "venue": "",
+      "division": "U13 Div 2 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sandiacre Town Youth U13 Royals",
+      "home_away": "home",
+      "opponent": "Arnold Town FC U13 Girls",
+      "goals_for": 0,
+      "goals_against": 6
+    },
+    {
+      "id": "5bf15ac8b28e2beb1cb44a178e1d0292",
+      "date": "2026-04-12",
+      "time": "10:30",
+      "home_team": "Willow Wanderers F.C. Youth U15 Amazons",
+      "away_team": "Sandiacre Town Youth U15 Girls Sparkle",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U15 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sandiacre Town Youth U15 Girls Sparkle",
+      "home_away": "away",
+      "opponent": "Willow Wanderers F.C. Youth U15 Amazons",
+      "goals_for": 0,
+      "goals_against": 3
+    },
+    {
+      "id": "50195c2b88984f94569ba4fa6a6d72e3",
+      "date": "2026-04-12",
+      "time": "09:45",
+      "home_team": "Sandiacre Town Youth U15 Girls Sparkle",
+      "away_team": "Willow Wanderers F.C. Youth U15 Amazons",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U15 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sandiacre Town Youth U15 Girls Sparkle",
+      "home_away": "home",
+      "opponent": "Willow Wanderers F.C. Youth U15 Amazons",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "b7b0e291a2b9392a5cce4f1014b9b7ea",
       "date": "2026-04-11",

@@ -1,6 +1,6 @@
 {
   "club": "Southwell City",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
     {
       "id": "e5d78556f73c8beb876ad4111db2e5c0",
@@ -29,19 +29,6 @@
       "opponent": "Ruddington Village FC"
     },
     {
-      "id": "c50a2bcfde01a447da5aef2a08df2c51",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Priory Celtic F.C. U10 Girls",
-      "away_team": "Southwell City FC U10 Girls",
-      "venue": "THE KIMBERLEY SCHOOL",
-      "division": "U10 Development Green",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Southwell City FC U10 Girls",
-      "home_away": "away",
-      "opponent": "Priory Celtic F.C. U10 Girls"
-    },
-    {
       "id": "ea8e3fe0f97307f5ab0e8fd13eb5b878",
       "date": "2026-04-12",
       "time": "10:00",
@@ -55,32 +42,6 @@
       "opponent": "Sherwood Colliery F.C. Ladies U11"
     },
     {
-      "id": "ff48b6b6ff533839dd16b0f3ae2db96c",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Southwell City FC U15 Girls",
-      "away_team": "Barlborough Juniors U15 Lionesses",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Southwell City FC U15 Girls",
-      "home_away": "home",
-      "opponent": "Barlborough Juniors U15 Lionesses"
-    },
-    {
-      "id": "7febce6353211838984e73e19f2ea3b1",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Southwell City FC U18 Girls",
-      "away_team": "Pilsley Community U17 Ladies",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "U18 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Southwell City FC U18 Girls",
-      "home_away": "home",
-      "opponent": "Pilsley Community U17 Ladies"
-    },
-    {
       "id": "ddd18a1016615568a6dfe4568fea7a7c",
       "date": "2026-04-12",
       "time": "10:30",
@@ -92,32 +53,6 @@
       "team": "Southwell City Devils U8",
       "home_away": "away",
       "opponent": "AJ Sport Gold U8"
-    },
-    {
-      "id": "48b3b0fb1aa3129a67422015d0c9221b",
-      "date": "2026-04-12",
-      "time": "11:30",
-      "home_team": "Priory Celtic F.C. U13 Girls",
-      "away_team": "Southwell City FC U13 All Whites",
-      "venue": "THE KIMBERLEY SCHOOL",
-      "division": "U13 Div 1 11 v 11",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Southwell City FC U13 All Whites",
-      "home_away": "away",
-      "opponent": "Priory Celtic F.C. U13 Girls"
-    },
-    {
-      "id": "fcd812f5989a8d1c5bc74065f7b7cfa8",
-      "date": "2026-04-12",
-      "time": "14:00",
-      "home_team": "Southwell City FC Ladies",
-      "away_team": "Underwood Villa FC Youth Ladies",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "Seniors Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Southwell City FC Ladies",
-      "home_away": "home",
-      "opponent": "Underwood Villa FC Youth Ladies"
     },
     {
       "id": "ae509fa9e0a83245c0a5744a64bc5fdf",
@@ -432,17 +367,17 @@
       "opponent": "WH&BFC Wildcats"
     },
     {
-      "id": "51326ea90e99c4383f669994a6755aa6",
+      "id": "c3641e039cbee79bb2e62ec5a8fedd2f",
       "date": "2026-04-19",
       "time": "10:00",
-      "home_team": "Matlock Town Junior U12 Girls Gladiators",
+      "home_team": "Phoenix Inham F.C. U12 Sparkles",
       "away_team": "Southwell City FC U12 Swans",
-      "venue": "CAVENDISH FIELDS SPORTS ASSOCIATION",
-      "division": "U12 Div 4",
+      "venue": "INHAM NOOK RECREATION GROUND",
+      "division": "U12 Div 4 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Southwell City FC U12 Swans",
       "home_away": "away",
-      "opponent": "Matlock Town Junior U12 Girls Gladiators"
+      "opponent": "Phoenix Inham F.C. U12 Sparkles"
     },
     {
       "id": "4021af4bdbd02fb79b3d7642c9734acb",
@@ -1108,6 +1043,19 @@
       "opponent": "Shardlow St. James U13 Jets Girls"
     },
     {
+      "id": "f2d8c145509610cf0a0bdde31002302a",
+      "date": "2026-05-31",
+      "time": "10:00",
+      "home_team": "Matlock Town Junior U12 Girls Gladiators",
+      "away_team": "Southwell City FC U12 Swans",
+      "venue": "CAVENDISH FIELDS SPORTS ASSOCIATION",
+      "division": "U12 Div 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Southwell City FC U12 Swans",
+      "home_away": "away",
+      "opponent": "Matlock Town Junior U12 Girls Gladiators"
+    },
+    {
       "id": "7f386fc7fcabb12afaf609f763489455",
       "date": "2026-05-31",
       "time": "10:00",
@@ -1122,6 +1070,108 @@
     }
   ],
   "results": [
+    {
+      "id": "fcd812f5989a8d1c5bc74065f7b7cfa8",
+      "date": "2026-04-12",
+      "time": "14:00",
+      "home_team": "Southwell City FC Ladies",
+      "away_team": "Underwood Villa FC Youth Ladies",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Southwell City FC Ladies",
+      "home_away": "home",
+      "opponent": "Underwood Villa FC Youth Ladies",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
+      "id": "48b3b0fb1aa3129a67422015d0c9221b",
+      "date": "2026-04-12",
+      "time": "11:30",
+      "home_team": "Priory Celtic F.C. U13 Girls",
+      "away_team": "Southwell City FC U13 All Whites",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Div 1 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Southwell City FC U13 All Whites",
+      "home_away": "away",
+      "opponent": "Priory Celtic F.C. U13 Girls",
+      "goals_for": 3,
+      "goals_against": 0
+    },
+    {
+      "id": "c50a2bcfde01a447da5aef2a08df2c51",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Priory Celtic F.C. U10 Girls",
+      "away_team": "Southwell City FC U10 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Development Green",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Southwell City FC U10 Girls",
+      "home_away": "away",
+      "opponent": "Priory Celtic F.C. U10 Girls",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "b3b3b967626bacaa9a095f6fd654a0a1",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Lowdham Colts F.C. Youth U12 Girls",
+      "away_team": "Southwell City FC U12 Swans",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Div 4 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Southwell City FC U12 Swans",
+      "home_away": "away",
+      "opponent": "Lowdham Colts F.C. Youth U12 Girls",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "ff48b6b6ff533839dd16b0f3ae2db96c",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Southwell City FC U15 Girls",
+      "away_team": "Barlborough Juniors U15 Lionesses",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Southwell City FC U15 Girls",
+      "home_away": "home",
+      "opponent": "Barlborough Juniors U15 Lionesses",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
+      "id": "7febce6353211838984e73e19f2ea3b1",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Southwell City FC U18 Girls",
+      "away_team": "Pilsley Community U17 Ladies",
+      "home_score": 1,
+      "away_score": 15,
+      "venue": "",
+      "division": "U18 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Southwell City FC U18 Girls",
+      "home_away": "home",
+      "opponent": "Pilsley Community U17 Ladies",
+      "goals_for": 1,
+      "goals_against": 15
+    },
     {
       "id": "480ba318d75da25ae516e2c405800b9e",
       "date": "2026-04-11",

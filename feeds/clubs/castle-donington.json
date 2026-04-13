@@ -1,59 +1,7 @@
 {
   "club": "Castle Donington",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "0a8f804078aa422286e09b2eef126273",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Vale FC U7",
-      "away_team": "Castle Donington Jets U7",
-      "venue": "CROXTON SPORTS AND SOCIAL CLUB NG32 1QP",
-      "division": "U7 Sun Spring White",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Castle Donington Jets U7",
-      "home_away": "away",
-      "opponent": "Vale FC U7"
-    },
-    {
-      "id": "a45442407928603f91009a2116473e24",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Castle Donington Lions U14",
-      "away_team": "Sports Gateway Spitfire U14",
-      "venue": "Spital Park DE74 2NQ",
-      "division": "U14 Sun YEL Shield",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Castle Donington Lions U14",
-      "home_away": "home",
-      "opponent": "Sports Gateway Spitfire U14"
-    },
-    {
-      "id": "1ccd605703a1969a1f720e7fa8618f64",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Castle Donington Rockets U7",
-      "away_team": "Stapleford Town Saxons U7",
-      "venue": "Spital Park DE74 2NQ",
-      "division": "U7 Sun Spring Purple",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Castle Donington Rockets U7",
-      "home_away": "home",
-      "opponent": "Stapleford Town Saxons U7"
-    },
-    {
-      "id": "565518acc0fbe1da7da992c3287e9f38",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Castle Donington U8 Diamonds",
-      "away_team": "Football Express U8 Football Express",
-      "venue": "Castle Donington U8 Diamonds",
-      "division": "U8 Development",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Castle Donington U8 Diamonds",
-      "home_away": "home",
-      "opponent": "Football Express U8 Football Express"
-    },
     {
       "id": "85a6894f715d78695a24fa6b92ee0151",
       "date": "2026-04-15",
@@ -68,19 +16,6 @@
       "opponent": "Kirkby Garibaldi Reds U11"
     },
     {
-      "id": "ca1a4ac4f7b68a0f400dca42217ff665",
-      "date": "2026-04-18",
-      "time": "09:00",
-      "home_team": "DLFC Vipers U8",
-      "away_team": "Castle Donington Rex's U8",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U8 Sat Spring 8",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Castle Donington Rex's U8",
-      "home_away": "away",
-      "opponent": "DLFC Vipers U8"
-    },
-    {
       "id": "a22d1946e6272720265ca3f22dc46b61",
       "date": "2026-04-18",
       "time": "10:00",
@@ -92,6 +27,19 @@
       "team": "Castle Donington Raptors U8",
       "home_away": "home",
       "opponent": "Coalville Town Ravens U8"
+    },
+    {
+      "id": "c94a09eff8f7f21f4ede7f869b306049",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "WBYFC Dynamos Stripes U8",
+      "away_team": "Castle Donington Rex's U8",
+      "venue": "Alford Road, NG2 6HP",
+      "division": "U8 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Castle Donington Rex's U8",
+      "home_away": "away",
+      "opponent": "WBYFC Dynamos Stripes U8"
     },
     {
       "id": "6e7a9faa967d8dab469c0ca81f3c91f4",
@@ -248,6 +196,19 @@
       "team": "Castle Donington Tigers U12",
       "home_away": "away",
       "opponent": "Riverside FC Real U12"
+    },
+    {
+      "id": "443b8e16f005fecb4ec872e785ef89fc",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Castle Donington Lions U14",
+      "away_team": "Attenborough Colts Green U14",
+      "venue": "Spital Park DE74 2NQ",
+      "division": "U14 Sun YEL Shield",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Castle Donington Lions U14",
+      "home_away": "home",
+      "opponent": "Attenborough Colts Green U14"
     },
     {
       "id": "b53c89d1681dc2338e159a2524c21f84",
@@ -420,6 +381,74 @@
     }
   ],
   "results": [
+    {
+      "id": "0a8f804078aa422286e09b2eef126273",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Vale FC U7",
+      "away_team": "Castle Donington Jets U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring White",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Castle Donington Jets U7",
+      "home_away": "away",
+      "opponent": "Vale FC U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "a45442407928603f91009a2116473e24",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Castle Donington Lions U14",
+      "away_team": "Sports Gateway Spitfire U14",
+      "home_score": 8,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sun YEL Shield",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Castle Donington Lions U14",
+      "home_away": "home",
+      "opponent": "Sports Gateway Spitfire U14",
+      "goals_for": 8,
+      "goals_against": 1
+    },
+    {
+      "id": "1ccd605703a1969a1f720e7fa8618f64",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Castle Donington Rockets U7",
+      "away_team": "Stapleford Town Saxons U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring Purple",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Castle Donington Rockets U7",
+      "home_away": "home",
+      "opponent": "Stapleford Town Saxons U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "565518acc0fbe1da7da992c3287e9f38",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Castle Donington U8 Diamonds",
+      "away_team": "Football Express U8 Football Express",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Castle Donington U8 Diamonds",
+      "home_away": "home",
+      "opponent": "Football Express U8 Football Express",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "1a4ad3f992b8fdd126a0b671946c1f08",
       "date": "2026-04-11",

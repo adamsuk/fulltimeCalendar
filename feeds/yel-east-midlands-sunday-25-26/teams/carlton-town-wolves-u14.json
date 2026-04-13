@@ -1,19 +1,8 @@
 {
   "team": "Carlton Town Wolves U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "1b0ef0238ee1cb8186df15286713372b",
-      "date": "2026-04-12",
-      "time": "11:00",
-      "home_team": "Carlton Town Wolves U14",
-      "away_team": "PMG Excel U14",
-      "venue": "Magenta Way NG14 5HH",
-      "division": "U14 Sun YEL Shield",
-      "home_away": "home",
-      "opponent": "PMG Excel U14"
-    },
     {
       "id": "50ef40d2caf69d102796c2816381f8bb",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "1b0ef0238ee1cb8186df15286713372b",
+      "date": "2026-04-12",
+      "time": "11:00",
+      "home_team": "Carlton Town Wolves U14",
+      "away_team": "PMG Excel U14",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U14 Sun YEL Shield",
+      "home_away": "home",
+      "opponent": "PMG Excel U14",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "56c9a557b8875715dc516f5845bbb18c",
       "date": "2026-03-15",

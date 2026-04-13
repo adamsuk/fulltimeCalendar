@@ -1,19 +1,8 @@
 {
   "team": "Willow Wanderers F.C. Youth U13 Orcas",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "f5dff237b9c32e20d08b6a1444cc39e0",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Robin Hood Colts FC Youth U13",
-      "away_team": "Willow Wanderers F.C. Youth U13 Orcas",
-      "venue": "SHERWOOD FIELDS (ROBIN HOOD COLTS FC)",
-      "division": "U13 Div 2 11 v 11",
-      "home_away": "away",
-      "opponent": "Robin Hood Colts FC Youth U13"
-    },
     {
       "id": "1f9613fa247cdda01f7023025e865464",
       "date": "2026-04-19",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f5dff237b9c32e20d08b6a1444cc39e0",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Robin Hood Colts FC Youth U13",
+      "away_team": "Willow Wanderers F.C. Youth U13 Orcas",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Div 2 11 v 11",
+      "home_away": "away",
+      "opponent": "Robin Hood Colts FC Youth U13",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "a5ab8dad71e2b50329cfcd74e71a9bb2",
       "date": "2026-03-22",

@@ -1,33 +1,7 @@
 {
   "club": "Hasland Community",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "4d7d845769ed5696698b2b19d398b68b",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Bottesford U11 Girls",
-      "away_team": "Hasland Community U11 Girls",
-      "venue": "BOTTESFORD FC",
-      "division": "U11 Development Red",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Hasland Community U11 Girls",
-      "home_away": "away",
-      "opponent": "Bottesford U11 Girls"
-    },
-    {
-      "id": "5d22b133fcf96662a163e94f4b91e0dd",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Hasland Community U14 Girls Sunday",
-      "away_team": "Sherwood Colliery F.C. Ladies U14",
-      "venue": "Hasland Community U14 Girls Sunday",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Hasland Community U14 Girls Sunday",
-      "home_away": "home",
-      "opponent": "Sherwood Colliery F.C. Ladies U14"
-    },
     {
       "id": "0c4c6abaeef056ef96f5f9001ef1c8a5",
       "date": "2026-04-19",
@@ -134,6 +108,40 @@
     }
   ],
   "results": [
+    {
+      "id": "4d7d845769ed5696698b2b19d398b68b",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Bottesford U11 Girls",
+      "away_team": "Hasland Community U11 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Development Red",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hasland Community U11 Girls",
+      "home_away": "away",
+      "opponent": "Bottesford U11 Girls",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "5d22b133fcf96662a163e94f4b91e0dd",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Hasland Community U14 Girls Sunday",
+      "away_team": "Sherwood Colliery F.C. Ladies U14",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hasland Community U14 Girls Sunday",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery F.C. Ladies U14",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "90ea229042aa1eb18967418b0d92baf4",
       "date": "2026-03-29",

@@ -1,30 +1,8 @@
 {
   "team": "Stapleford Town FC U13 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "2ecb2bb83f532c67aed7e7f62dffac34",
-      "date": "2026-04-12",
-      "time": "14:00",
-      "home_team": "Hilton Harriers U13 Girls",
-      "away_team": "Stapleford Town FC U13 Girls",
-      "venue": "THE MEASE PAVILION - HILTON HARRIERS FC",
-      "division": "U13 Div 1 9 v 9",
-      "home_away": "away",
-      "opponent": "Hilton Harriers U13 Girls"
-    },
-    {
-      "id": "358da77d09c22e6d9cb4706c50aaa77e",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Stapleford Town FC U13 Girls",
-      "away_team": "Calverton Miners Welfare FC U13",
-      "venue": "STAPLEFORD COMMUNITY PAVILION",
-      "division": "U13 Div 1 9 v 9",
-      "home_away": "home",
-      "opponent": "Calverton Miners Welfare FC U13"
-    },
     {
       "id": "c0d62bb71b24addfbf00394c116a5452",
       "date": "2026-04-19",
@@ -90,9 +68,35 @@
       "division": "U13 Div 1 9 v 9",
       "home_away": "home",
       "opponent": "West Bridgford Colts U13 Lions"
+    },
+    {
+      "id": "d0b643c9f49e88e4a3043096375172f7",
+      "date": "2026-05-31",
+      "time": "10:00",
+      "home_team": "Stapleford Town FC U13 Girls",
+      "away_team": "Calverton Miners Welfare FC U13",
+      "venue": "STAPLEFORD COMMUNITY PAVILION",
+      "division": "U13 Div 1 9 v 9",
+      "home_away": "home",
+      "opponent": "Calverton Miners Welfare FC U13"
     }
   ],
   "results": [
+    {
+      "id": "2ecb2bb83f532c67aed7e7f62dffac34",
+      "date": "2026-04-12",
+      "time": "14:00",
+      "home_team": "Hilton Harriers U13 Girls",
+      "away_team": "Stapleford Town FC U13 Girls",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Div 1 9 v 9",
+      "home_away": "away",
+      "opponent": "Hilton Harriers U13 Girls",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "fe0498c915760c86a84b85f865404124",
       "date": "2026-03-22",

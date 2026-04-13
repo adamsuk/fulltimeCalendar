@@ -1,19 +1,8 @@
 {
   "team": "Mapperley All Stars Yellow U7",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "64ae14cd5fbab8ce5e6bee15ebffeefc",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Aspire FC U7",
-      "away_team": "Mapperley All Stars Yellow U7",
-      "venue": "Nottingham Trent University NG11 8NS",
-      "division": "U7 Sun Spring Blue",
-      "home_away": "away",
-      "opponent": "Aspire FC U7"
-    },
     {
       "id": "fca975da801f16cd0a3cdab72413a9fb",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "64ae14cd5fbab8ce5e6bee15ebffeefc",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Aspire FC U7",
+      "away_team": "Mapperley All Stars Yellow U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring Blue",
+      "home_away": "away",
+      "opponent": "Aspire FC U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "8d6b505a2dea6f7dcef1cbc2dad21eff",
       "date": "2026-03-29",

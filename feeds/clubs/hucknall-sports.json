@@ -1,33 +1,7 @@
 {
   "club": "Hucknall Sports",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "ca3714a0d4d7adc031a3d81712632248",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Hucknall Sports Red U8",
-      "away_team": "Barrowby FC Green U8",
-      "venue": "Goosedale Sport Club NG6 8UJ",
-      "division": "U8 Sun Spring 3 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Hucknall Sports Red U8",
-      "home_away": "home",
-      "opponent": "Barrowby FC Green U8"
-    },
-    {
-      "id": "17e201c4e08201adc3bcdb240550362a",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Hucknall Sports White U13",
-      "away_team": "Quarrydale United United U13",
-      "venue": "Engine Rooms NG15 6EP",
-      "division": "U13 Sun Spring Div 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Hucknall Sports White U13",
-      "home_away": "home",
-      "opponent": "Quarrydale United United U13"
-    },
     {
       "id": "68b0d34f24745c048ec074cf94c9b529",
       "date": "2026-04-12",
@@ -40,19 +14,6 @@
       "team": "Hucknall Sports White U8",
       "home_away": "away",
       "opponent": "Mansfield Athletic U8"
-    },
-    {
-      "id": "f3f2f1d305a1150f106a716d6c25fc58",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Shirebrook Rangers & Juniors U9 Girls",
-      "away_team": "Hucknall Sports F.C. Youth U9 Wildcats",
-      "venue": "Shirebrook Rangers & Juniors U9 Girls",
-      "division": "U9 Development",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Hucknall Sports F.C. Youth U9 Wildcats",
-      "home_away": "away",
-      "opponent": "Shirebrook Rangers & Juniors U9 Girls"
     },
     {
       "id": "12bf819358ae108e8cea19b5ce2478b5",
@@ -771,6 +732,57 @@
     }
   ],
   "results": [
+    {
+      "id": "ca3714a0d4d7adc031a3d81712632248",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Hucknall Sports Red U8",
+      "away_team": "Barrowby FC Green U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sun Spring 3 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Hucknall Sports Red U8",
+      "home_away": "home",
+      "opponent": "Barrowby FC Green U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "17e201c4e08201adc3bcdb240550362a",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Hucknall Sports White U13",
+      "away_team": "Quarrydale United United U13",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sun Spring Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Hucknall Sports White U13",
+      "home_away": "home",
+      "opponent": "Quarrydale United United U13",
+      "goals_for": 5,
+      "goals_against": 3
+    },
+    {
+      "id": "f3f2f1d305a1150f106a716d6c25fc58",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers & Juniors U9 Girls",
+      "away_team": "Hucknall Sports F.C. Youth U9 Wildcats",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall Sports F.C. Youth U9 Wildcats",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers & Juniors U9 Girls",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "ba65f33020005df5fb4737285f8b3155",
       "date": "2026-04-11",

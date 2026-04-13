@@ -1,19 +1,8 @@
 {
   "team": "Cotgrave FC Ladies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "f586c5499ca6d67de6b388ddfdd93424",
-      "date": "2026-04-12",
-      "time": "14:00",
-      "home_team": "Meden Vale Colts FC Ladies",
-      "away_team": "Cotgrave FC Ladies",
-      "venue": "ELKESLEY ROAD GROUND",
-      "division": "Senior Div 3 Phase 2",
-      "home_away": "away",
-      "opponent": "Meden Vale Colts FC Ladies"
-    },
     {
       "id": "b003c8b9487c741dd03c6103fdc51a77",
       "date": "2026-04-19",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f586c5499ca6d67de6b388ddfdd93424",
+      "date": "2026-04-12",
+      "time": "14:00",
+      "home_team": "Meden Vale Colts FC Ladies",
+      "away_team": "Cotgrave FC Ladies",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "Senior Div 3 Phase 2",
+      "home_away": "away",
+      "opponent": "Meden Vale Colts FC Ladies",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "87dfc98c0727078a1d975bb07beceab6",
       "date": "2026-03-29",

@@ -1,19 +1,8 @@
 {
   "team": "Radcliffe Olympic FC Ladies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "afa6d2f6f4006884c4e38444023caef3",
-      "date": "2026-04-12",
-      "time": "10:30",
-      "home_team": "Radcliffe Olympic FC Ladies",
-      "away_team": "Lowdham Colts FC Ladies",
-      "venue": "BINGHAM ROAD PLAYING FIELDS",
-      "division": "Seniors Div 1",
-      "home_away": "home",
-      "opponent": "Lowdham Colts FC Ladies"
-    },
     {
       "id": "6c76c7228e1752698b690d6caef85a09",
       "date": "2026-04-19",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "afa6d2f6f4006884c4e38444023caef3",
+      "date": "2026-04-12",
+      "time": "10:30",
+      "home_team": "Radcliffe Olympic FC Ladies",
+      "away_team": "Lowdham Colts FC Ladies",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "Seniors Div 1",
+      "home_away": "home",
+      "opponent": "Lowdham Colts FC Ladies",
+      "goals_for": 5,
+      "goals_against": 2
+    },
     {
       "id": "ee3f4aa988e055cbe71d03fb8cde836b",
       "date": "2026-03-22",

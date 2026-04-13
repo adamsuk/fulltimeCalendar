@@ -1,19 +1,8 @@
 {
   "team": "Hucknall Town FC Women",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "b31a1913aaac4c4abc539fd33691894f",
-      "date": "2026-04-12",
-      "time": "14:00",
-      "home_team": "Hucknall Town FC Women",
-      "away_team": "Mansfield Town Ladies FC Development",
-      "venue": "HUCKNALL TOWN FOOTBALL CLUB",
-      "division": "Seniors Div 1",
-      "home_away": "home",
-      "opponent": "Mansfield Town Ladies FC Development"
-    },
     {
       "id": "180bbd727c3b5f24e3c92b0299176bf7",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b31a1913aaac4c4abc539fd33691894f",
+      "date": "2026-04-12",
+      "time": "14:00",
+      "home_team": "Hucknall Town FC Women",
+      "away_team": "Mansfield Town Ladies FC Development",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "Seniors Div 1",
+      "home_away": "home",
+      "opponent": "Mansfield Town Ladies FC Development",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "eee5a35d39b0b6c274106a5e7b47c930",
       "date": "2026-03-29",

@@ -1,6 +1,6 @@
 {
   "club": "Beeston FC",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
     {
       "id": "a9583835ee6b72ee9b3c3b88939aba4b",
@@ -14,58 +14,6 @@
       "team": "Beeston F.C. U14 Girls",
       "home_away": "home",
       "opponent": "Bottesford U14 Girls"
-    },
-    {
-      "id": "51fc448ade38eabff0412ac5a5dd4590",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Beeston FC U12",
-      "away_team": "Pegasus FC U12",
-      "venue": "Trent Vale Sports Ground NG9 1ND",
-      "division": "U12 Sun Spring Div 7",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Beeston FC U12",
-      "home_away": "home",
-      "opponent": "Pegasus FC U12"
-    },
-    {
-      "id": "b48e2ada03cccfa9a0feb7585d8eadae",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Beeston F.C. U14 Girls",
-      "away_team": "Keyworth United F.C. U14 Thunder",
-      "venue": "TRENT VALE SPORTS ASSOCIATION",
-      "division": "U14 Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Beeston F.C. U14 Girls",
-      "home_away": "home",
-      "opponent": "Keyworth United F.C. U14 Thunder"
-    },
-    {
-      "id": "7ef844d7d6ee86abd66d58bd3ef68b21",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Beeston F.C. U15 Girls Sun",
-      "away_team": "Arnold Eagles F.C. Girls U15 Avengers",
-      "venue": "TRENT VALE SPORTS ASSOCIATION",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Beeston F.C. U15 Girls Sun",
-      "home_away": "home",
-      "opponent": "Arnold Eagles F.C. Girls U15 Avengers"
-    },
-    {
-      "id": "5810dc872352bb9de4f390e591c68689",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Heanor Town Juniors U16 Tornados",
-      "away_team": "Beeston F.C. U16 Girls",
-      "venue": "ALDERCAR RECREATION GROUND",
-      "division": "U16 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Beeston F.C. U16 Girls",
-      "home_away": "away",
-      "opponent": "Heanor Town Juniors U16 Tornados"
     },
     {
       "id": "b70db2d88d35ad16d439c63f6db35653",
@@ -196,19 +144,6 @@
       "team": "Beeston F.C. U15 Girls Sun",
       "home_away": "away",
       "opponent": "Holy Spirit Celtic FC U15"
-    },
-    {
-      "id": "b13fddbb6064d7cee8f19986afb22eca",
-      "date": "2026-04-19",
-      "time": "10:30",
-      "home_team": "Market Warsop F.C. Youth U14 Lionesses",
-      "away_team": "Beeston F.C. U14 Girls",
-      "venue": "THE JOHN FRETWELL SPORTING COMPLEX",
-      "division": "U14 Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Beeston F.C. U14 Girls",
-      "home_away": "away",
-      "opponent": "Market Warsop F.C. Youth U14 Lionesses"
     },
     {
       "id": "5ebbb2f12e1e6aed2b38791579186e46",
@@ -471,17 +406,17 @@
       "opponent": "West Bridgford Reserves"
     },
     {
-      "id": "9a5c58197972675c540d953de3a4ce9f",
+      "id": "269a7122ab1837765a02b1b26145680c",
       "date": "2026-05-03",
       "time": "10:00",
-      "home_team": "Beeston F.C. U14 Girls",
-      "away_team": "Stanton Ilkeston U14",
-      "venue": "TRENT VALE SPORTS ASSOCIATION",
+      "home_team": "Market Warsop F.C. Youth U14 Lionesses",
+      "away_team": "Beeston F.C. U14 Girls",
+      "venue": "THE JOHN FRETWELL SPORTING COMPLEX",
       "division": "U14 Div 1",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Beeston F.C. U14 Girls",
-      "home_away": "home",
-      "opponent": "Stanton Ilkeston U14"
+      "home_away": "away",
+      "opponent": "Market Warsop F.C. Youth U14 Lionesses"
     },
     {
       "id": "527c9dc1a4ebc583db11c0f69c9ecce8",
@@ -573,9 +508,90 @@
       "team": "Beeston FC Women",
       "home_away": "home",
       "opponent": "Ravenshead Reds FC"
+    },
+    {
+      "id": "bfc4040c25f5875c6beb5a907ae916ca",
+      "date": "2026-05-17",
+      "time": "10:00",
+      "home_team": "Beeston F.C. U14 Girls",
+      "away_team": "Stanton Ilkeston U14",
+      "venue": "TRENT VALE SPORTS ASSOCIATION",
+      "division": "U14 Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Beeston F.C. U14 Girls",
+      "home_away": "home",
+      "opponent": "Stanton Ilkeston U14"
     }
   ],
   "results": [
+    {
+      "id": "51fc448ade38eabff0412ac5a5dd4590",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Beeston FC U12",
+      "away_team": "Pegasus FC U12",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sun Spring Div 7",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Beeston FC U12",
+      "home_away": "home",
+      "opponent": "Pegasus FC U12",
+      "goals_for": 4,
+      "goals_against": 0
+    },
+    {
+      "id": "b48e2ada03cccfa9a0feb7585d8eadae",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Beeston F.C. U14 Girls",
+      "away_team": "Keyworth United F.C. U14 Thunder",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Beeston F.C. U14 Girls",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U14 Thunder",
+      "goals_for": 4,
+      "goals_against": 0
+    },
+    {
+      "id": "7ef844d7d6ee86abd66d58bd3ef68b21",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Beeston F.C. U15 Girls Sun",
+      "away_team": "Arnold Eagles F.C. Girls U15 Avengers",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Beeston F.C. U15 Girls Sun",
+      "home_away": "home",
+      "opponent": "Arnold Eagles F.C. Girls U15 Avengers",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
+      "id": "5810dc872352bb9de4f390e591c68689",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Heanor Town Juniors U16 Tornados",
+      "away_team": "Beeston F.C. U16 Girls",
+      "home_score": 7,
+      "away_score": 0,
+      "venue": "",
+      "division": "U16 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Beeston F.C. U16 Girls",
+      "home_away": "away",
+      "opponent": "Heanor Town Juniors U16 Tornados",
+      "goals_for": 0,
+      "goals_against": 7
+    },
     {
       "id": "480ba318d75da25ae516e2c405800b9e",
       "date": "2026-04-11",

@@ -1,19 +1,8 @@
 {
   "team": "West Bridgford Colts U14 Pacific",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "533b60b4e6368d0aabe27b6f4b18bf30",
-      "date": "2026-04-12",
-      "time": "12:15",
-      "home_team": "West Bridgford Colts U14 Pacific",
-      "away_team": "Hucknall & Linby Harriers FC U14",
-      "venue": "GRESHAM SPORTS PARK",
-      "division": "U14 Div 2",
-      "home_away": "home",
-      "opponent": "Hucknall & Linby Harriers FC U14"
-    },
     {
       "id": "cc72bf14111bad8526254d61a2a6a7cd",
       "date": "2026-04-19",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "533b60b4e6368d0aabe27b6f4b18bf30",
+      "date": "2026-04-12",
+      "time": "12:15",
+      "home_team": "West Bridgford Colts U14 Pacific",
+      "away_team": "Hucknall & Linby Harriers FC U14",
+      "home_score": 1,
+      "away_score": 7,
+      "venue": "",
+      "division": "U14 Div 2",
+      "home_away": "home",
+      "opponent": "Hucknall & Linby Harriers FC U14",
+      "goals_for": 1,
+      "goals_against": 7
+    },
     {
       "id": "88be64f4427ff291769bcf394e368272",
       "date": "2026-03-22",

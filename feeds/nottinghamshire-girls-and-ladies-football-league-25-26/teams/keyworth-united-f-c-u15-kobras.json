@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United F.C. U15 Kobras",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "c89708ab2b51581c03c80c7a10d4328c",
-      "date": "2026-04-12",
-      "time": "10:30",
-      "home_team": "Bottesford U15 Girls",
-      "away_team": "Keyworth United F.C. U15 Kobras",
-      "venue": "BOTTESFORD FC",
-      "division": "U15 Div 2",
-      "home_away": "away",
-      "opponent": "Bottesford U15 Girls"
-    },
     {
       "id": "d6705eaa0b0bd03715c0ba654e625872",
       "date": "2026-04-15",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c89708ab2b51581c03c80c7a10d4328c",
+      "date": "2026-04-12",
+      "time": "10:30",
+      "home_team": "Bottesford U15 Girls",
+      "away_team": "Keyworth United F.C. U15 Kobras",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "U15 Div 2",
+      "home_away": "away",
+      "opponent": "Bottesford U15 Girls",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "b14df204ba6af4f191bb9c513bdc7202",
       "date": "2026-03-22",

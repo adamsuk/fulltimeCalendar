@@ -1,29 +1,18 @@
 {
   "team": "Mansfield Town F.C. Girls U13",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
     {
-      "id": "b33fb09f580f08f2f4dc5681e6e79f9b",
-      "date": "2026-04-12",
-      "time": "13:00",
-      "home_team": "Mansfield Town F.C. Girls U13",
-      "away_team": "Sandiacre Town Youth U13 Diamonds",
-      "venue": "MANSFIELD TOWN FC (ONE CALL STADIUM)",
+      "id": "75556ba9ca577caaa143b09e58a80a0a",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Hilton Harriers U13 Girls",
+      "away_team": "Mansfield Town F.C. Girls U13",
+      "venue": "THE MEASE PAVILION - HILTON HARRIERS FC",
       "division": "U13 Div 1 9 v 9",
-      "home_away": "home",
-      "opponent": "Sandiacre Town Youth U13 Diamonds"
-    },
-    {
-      "id": "8605c6d6aea90bf1ee8964b3f9b97d40",
-      "date": "2026-04-26",
-      "time": "13:00",
-      "home_team": "Mansfield Town F.C. Girls U13",
-      "away_team": "Keyworth United F.C. U13 Girls",
-      "venue": "MANSFIELD TOWN FC (ONE CALL STADIUM)",
-      "division": "U13 Div 1 9 v 9",
-      "home_away": "home",
-      "opponent": "Keyworth United F.C. U13 Girls"
+      "home_away": "away",
+      "opponent": "Hilton Harriers U13 Girls"
     },
     {
       "id": "17a2015bf61e2e4db44ae57d2bc71df4",
@@ -35,6 +24,17 @@
       "division": "U13 (9v9) League Cup 1",
       "home_away": "home",
       "opponent": "Hilton Harriers U13 Girls"
+    },
+    {
+      "id": "cd2de9b222ae912c9b6e2853557fdf33",
+      "date": "2026-05-01",
+      "time": "13:00",
+      "home_team": "Mansfield Town F.C. Girls U13",
+      "away_team": "Keyworth United F.C. U13 Girls",
+      "venue": "MANSFIELD TOWN FC (ONE CALL STADIUM)",
+      "division": "U13 Div 1 9 v 9",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U13 Girls"
     },
     {
       "id": "f323267cd1630d070404a8d5cc168546",
@@ -57,20 +57,24 @@
       "division": "U13 Div 1 9 v 9",
       "home_away": "home",
       "opponent": "Calverton Miners Welfare FC U13"
-    },
-    {
-      "id": "f650e8da0889a69dbd1a3c268cd524d7",
-      "date": "2026-05-24",
-      "time": "10:00",
-      "home_team": "Hilton Harriers U13 Girls",
-      "away_team": "Mansfield Town F.C. Girls U13",
-      "venue": "THE MEASE PAVILION - HILTON HARRIERS FC",
-      "division": "U13 Div 1 9 v 9",
-      "home_away": "away",
-      "opponent": "Hilton Harriers U13 Girls"
     }
   ],
   "results": [
+    {
+      "id": "b33fb09f580f08f2f4dc5681e6e79f9b",
+      "date": "2026-04-12",
+      "time": "13:00",
+      "home_team": "Mansfield Town F.C. Girls U13",
+      "away_team": "Sandiacre Town Youth U13 Diamonds",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Div 1 9 v 9",
+      "home_away": "home",
+      "opponent": "Sandiacre Town Youth U13 Diamonds",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "1ed829ec56a0e121c815f078d480b645",
       "date": "2026-03-22",

@@ -1,19 +1,8 @@
 {
   "team": "Mansfield Town F.C. Girls U14",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "92bd1c23b03055458f51f85b51e3a6a2",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Stanton Ilkeston U14",
-      "away_team": "Mansfield Town F.C. Girls U14",
-      "venue": "RON BROOKS PLAYING FIELD",
-      "division": "U14 Div 1",
-      "home_away": "away",
-      "opponent": "Stanton Ilkeston U14"
-    },
     {
       "id": "6e3159b0adaeea77de232cd4c50ccdbd",
       "date": "2026-04-19",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "92bd1c23b03055458f51f85b51e3a6a2",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Stanton Ilkeston U14",
+      "away_team": "Mansfield Town F.C. Girls U14",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Div 1",
+      "home_away": "away",
+      "opponent": "Stanton Ilkeston U14",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "8c9f957a52a6e72161f2d925365b4ffd",
       "date": "2026-03-15",

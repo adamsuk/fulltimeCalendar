@@ -1,30 +1,8 @@
 {
   "team": "Willow Wanderers F.C. Youth U15 Amazons",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "50195c2b88984f94569ba4fa6a6d72e3",
-      "date": "2026-04-12",
-      "time": "09:45",
-      "home_team": "Sandiacre Town Youth U15 Girls Sparkle",
-      "away_team": "Willow Wanderers F.C. Youth U15 Amazons",
-      "venue": "DRAYCOTT RECREATION GROUND",
-      "division": "U15 Div 2",
-      "home_away": "away",
-      "opponent": "Sandiacre Town Youth U15 Girls Sparkle"
-    },
-    {
-      "id": "5bf15ac8b28e2beb1cb44a178e1d0292",
-      "date": "2026-04-12",
-      "time": "10:30",
-      "home_team": "Willow Wanderers F.C. Youth U15 Amazons",
-      "away_team": "Sandiacre Town Youth U15 Girls Sparkle",
-      "venue": "SANDIACRE FRIESLAND SPORTS CENTRE",
-      "division": "U15 Div 2",
-      "home_away": "home",
-      "opponent": "Sandiacre Town Youth U15 Girls Sparkle"
-    },
     {
       "id": "68e3b7bf19b9bfbe48f382028311d075",
       "date": "2026-04-19",
@@ -126,6 +104,36 @@
     }
   ],
   "results": [
+    {
+      "id": "5bf15ac8b28e2beb1cb44a178e1d0292",
+      "date": "2026-04-12",
+      "time": "10:30",
+      "home_team": "Willow Wanderers F.C. Youth U15 Amazons",
+      "away_team": "Sandiacre Town Youth U15 Girls Sparkle",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U15 Div 2",
+      "home_away": "home",
+      "opponent": "Sandiacre Town Youth U15 Girls Sparkle",
+      "goals_for": 3,
+      "goals_against": 0
+    },
+    {
+      "id": "50195c2b88984f94569ba4fa6a6d72e3",
+      "date": "2026-04-12",
+      "time": "09:45",
+      "home_team": "Sandiacre Town Youth U15 Girls Sparkle",
+      "away_team": "Willow Wanderers F.C. Youth U15 Amazons",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U15 Div 2",
+      "home_away": "away",
+      "opponent": "Sandiacre Town Youth U15 Girls Sparkle",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "35cced0b1b1438adcd0875a208c82ea7",
       "date": "2026-03-15",

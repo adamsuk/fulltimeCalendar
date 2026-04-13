@@ -1,6 +1,6 @@
 {
   "club": "Ilkeston Town",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
     {
       "id": "940c4d131eb576b39f70d6cc694b3823",
@@ -14,19 +14,6 @@
       "team": "Ilkeston Town Juniors U15 Robins",
       "home_away": "home",
       "opponent": "Gainsborough Trinity Community FC U15"
-    },
-    {
-      "id": "0f8a9838aad21cfed38642ebe56e32d3",
-      "date": "2026-04-12",
-      "time": "11:00",
-      "home_team": "DLFC Red U14",
-      "away_team": "Ilkeston Town Bears U14",
-      "venue": "Mellish Sports Centre NG6 9FH",
-      "division": "U14 Sun Spring Premier Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ilkeston Town Bears U14",
-      "home_away": "away",
-      "opponent": "DLFC Red U14"
     },
     {
       "id": "511836173bbfdc9bb7e61c5080e27fd3",
@@ -94,17 +81,17 @@
       "opponent": "Sandiacre Town Blue U7"
     },
     {
-      "id": "fbabdafd37aab88eaf4227105635e216",
+      "id": "af2d04ca7acdb51df2f37738e8094ffe",
       "date": "2026-04-18",
       "time": "10:00",
-      "home_team": "Toton Tornados Thunder U8",
+      "home_team": "Sherwood Colliery Avengers U8",
       "away_team": "Ilkeston Town United U8",
-      "venue": "Manor Farm Recreation Ground NG9 6EL",
-      "division": "U8 Sat Spring 6 Blue",
+      "venue": "Debdale Park & Sports Ground NG19 7NS",
+      "division": "U8 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Ilkeston Town United U8",
       "home_away": "away",
-      "opponent": "Toton Tornados Thunder U8"
+      "opponent": "Sherwood Colliery Avengers U8"
     },
     {
       "id": "c8adb79c9b6e96f4f18904e88b289775",
@@ -667,6 +654,23 @@
     }
   ],
   "results": [
+    {
+      "id": "0f8a9838aad21cfed38642ebe56e32d3",
+      "date": "2026-04-12",
+      "time": "11:00",
+      "home_team": "DLFC Red U14",
+      "away_team": "Ilkeston Town Bears U14",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U14 Sun Spring Premier Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ilkeston Town Bears U14",
+      "home_away": "away",
+      "opponent": "DLFC Red U14",
+      "goals_for": 5,
+      "goals_against": 0
+    },
     {
       "id": "4bc6ec27148c340c2a47a9b8e571452f",
       "date": "2026-04-11",

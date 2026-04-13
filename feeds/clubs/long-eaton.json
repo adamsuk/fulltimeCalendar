@@ -1,20 +1,7 @@
 {
   "club": "Long Eaton",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "cbb964bca27666e6c634d3621ab7e07c",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Long Eaton United Atalanta U8",
-      "away_team": "Eastwood CFC Eagles U8",
-      "venue": "Grange Park NG10 2EG",
-      "division": "U8 Sun Spring 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Long Eaton United Atalanta U8",
-      "home_away": "home",
-      "opponent": "Eastwood CFC Eagles U8"
-    },
     {
       "id": "923b1eb03341cb34af3bf8fd81f1ee70",
       "date": "2026-04-12",
@@ -105,6 +92,19 @@
       "team": "Long Eaton United Navy U12",
       "home_away": "home",
       "opponent": "Littleover Dazzlers U12"
+    },
+    {
+      "id": "16c310957e080e74893b7e71008f9904",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Long Eaton United Nero U9",
+      "away_team": "DLFC Blue U9",
+      "venue": "Grange Park NG10 2EF",
+      "division": "U9 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Eaton United Nero U9",
+      "home_away": "home",
+      "opponent": "DLFC Blue U9"
     },
     {
       "id": "b2c189f87e0338cc7cdbc25652cfbb8b",
@@ -248,19 +248,6 @@
       "team": "Long Eaton United Invaders U10",
       "home_away": "home",
       "opponent": "Ruddington Village Black U10"
-    },
-    {
-      "id": "16c310957e080e74893b7e71008f9904",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Long Eaton United Nero U9",
-      "away_team": "DLFC Blue U9",
-      "venue": "Grange Park NG10 2EF",
-      "division": "U9 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Long Eaton United Nero U9",
-      "home_away": "home",
-      "opponent": "DLFC Blue U9"
     },
     {
       "id": "0c361f8148c18d20fb6aa9998326a253",
@@ -732,6 +719,23 @@
     }
   ],
   "results": [
+    {
+      "id": "cbb964bca27666e6c634d3621ab7e07c",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Long Eaton United Atalanta U8",
+      "away_team": "Eastwood CFC Eagles U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sun Spring 2 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Long Eaton United Atalanta U8",
+      "home_away": "home",
+      "opponent": "Eastwood CFC Eagles U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "401acc78378d46dbf52c5bf6f60c5fbd",
       "date": "2026-04-11",

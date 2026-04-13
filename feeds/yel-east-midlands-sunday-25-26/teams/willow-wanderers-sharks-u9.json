@@ -1,19 +1,8 @@
 {
   "team": "Willow Wanderers Sharks U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "7a1547181e530df6e6242ae35b2a7682",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Willow Wanderers Sharks U9",
-      "away_team": "Gedling Southbank Jaguars U9",
-      "venue": "Carlton le Willows School NG4 4AA",
-      "division": "U9 Sun Spring Div 5 Blue",
-      "home_away": "home",
-      "opponent": "Gedling Southbank Jaguars U9"
-    },
     {
       "id": "eadc6be938124f202d4fe81e3daf3283",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7a1547181e530df6e6242ae35b2a7682",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Willow Wanderers Sharks U9",
+      "away_team": "Gedling Southbank Jaguars U9",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U9 Sun Spring Div 5 Blue",
+      "home_away": "home",
+      "opponent": "Gedling Southbank Jaguars U9",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "c1b3208de976977cbc879d944f3f1998",
       "date": "2026-03-29",

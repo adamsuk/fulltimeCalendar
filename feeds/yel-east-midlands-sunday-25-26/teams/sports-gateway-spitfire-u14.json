@@ -1,19 +1,8 @@
 {
   "team": "Sports Gateway Spitfire U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "a45442407928603f91009a2116473e24",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Castle Donington Lions U14",
-      "away_team": "Sports Gateway Spitfire U14",
-      "venue": "Spital Park DE74 2NQ",
-      "division": "U14 Sun YEL Shield",
-      "home_away": "away",
-      "opponent": "Castle Donington Lions U14"
-    },
     {
       "id": "49105a45d9ce5b25f34afb009092d5f9",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a45442407928603f91009a2116473e24",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Castle Donington Lions U14",
+      "away_team": "Sports Gateway Spitfire U14",
+      "home_score": 8,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sun YEL Shield",
+      "home_away": "away",
+      "opponent": "Castle Donington Lions U14",
+      "goals_for": 1,
+      "goals_against": 8
+    },
     {
       "id": "934d3944ed20c425a01888805a08417d",
       "date": "2026-03-29",

@@ -1,19 +1,8 @@
 {
   "team": "Bagthorpe Athletic F.C. Youth U14 girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "44f568cabbc91a75de4188e13709d0bb",
-      "date": "2026-04-12",
-      "time": "09:30",
-      "home_team": "Priory Celtic F.C. U14 Lionesses",
-      "away_team": "Bagthorpe Athletic F.C. Youth U14 girls",
-      "venue": "THE KIMBERLEY SCHOOL",
-      "division": "U14 Div 2",
-      "home_away": "away",
-      "opponent": "Priory Celtic F.C. U14 Lionesses"
-    },
     {
       "id": "3191b5a68a4d9890931473960f03c563",
       "date": "2026-04-19",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "44f568cabbc91a75de4188e13709d0bb",
+      "date": "2026-04-12",
+      "time": "09:30",
+      "home_team": "Priory Celtic F.C. U14 Lionesses",
+      "away_team": "Bagthorpe Athletic F.C. Youth U14 girls",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Div 2",
+      "home_away": "away",
+      "opponent": "Priory Celtic F.C. U14 Lionesses",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "490736f6f72f62a5c65ec85ffa905d72",
       "date": "2026-03-22",

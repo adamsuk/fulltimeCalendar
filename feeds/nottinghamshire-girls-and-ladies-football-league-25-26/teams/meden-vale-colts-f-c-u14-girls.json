@@ -1,19 +1,8 @@
 {
   "team": "Meden Vale Colts F.C. U14 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "38228d8ba0a481efb42c9c6d91da2de3",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Meden Vale Colts F.C. U14 Girls",
-      "away_team": "Newark Town FC U14 Nesbitts",
-      "venue": "ELKESLEY ROAD GROUND",
-      "division": "U14 Div 4",
-      "home_away": "home",
-      "opponent": "Newark Town FC U14 Nesbitts"
-    },
     {
       "id": "f5bddad19cd50ee39b0ffcddb33aec2c",
       "date": "2026-04-19",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "38228d8ba0a481efb42c9c6d91da2de3",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Meden Vale Colts F.C. U14 Girls",
+      "away_team": "Newark Town FC U14 Nesbitts",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Div 4",
+      "home_away": "home",
+      "opponent": "Newark Town FC U14 Nesbitts",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "28db8db87064c72322432ac575893ac4",
       "date": "2026-03-22",

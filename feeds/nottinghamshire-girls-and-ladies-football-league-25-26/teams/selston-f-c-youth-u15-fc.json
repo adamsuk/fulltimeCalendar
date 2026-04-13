@@ -1,19 +1,8 @@
 {
   "team": "Selston F.C. Youth U15 FC",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "c3acf66e1db855bfaa46b99fa3a6c176",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Selston F.C. Youth U15 FC",
-      "away_team": "Burton Joyce F.C. Girls U15 Green",
-      "venue": "Selston F.C. Youth Selston FC U14 Girls",
-      "division": "U15 Div 3",
-      "home_away": "home",
-      "opponent": "Burton Joyce F.C. Girls U15 Green"
-    },
     {
       "id": "478663cafef300d8a4905a4b64852f96",
       "date": "2026-04-19",
@@ -57,20 +46,39 @@
       "division": "U15 Div 3",
       "home_away": "home",
       "opponent": "Retford FC Juniors U15 GIRLS"
-    },
-    {
-      "id": "028d289de609771e2a2399a2560049a0",
-      "date": "2026-05-24",
-      "time": "10:00",
-      "home_team": "Burton Joyce F.C. Girls U15 Green",
-      "away_team": "Selston F.C. Youth U15 FC",
-      "venue": "POPLARS SPORTS GROUND",
-      "division": "U15 Div 3",
-      "home_away": "away",
-      "opponent": "Burton Joyce F.C. Girls U15 Green"
     }
   ],
   "results": [
+    {
+      "id": "ab5046552615fa2fbafa05c4345ff023",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Burton Joyce F.C. Girls U15 Green",
+      "away_team": "Selston F.C. Youth U15 FC",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U15 Div 3",
+      "home_away": "away",
+      "opponent": "Burton Joyce F.C. Girls U15 Green",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
+      "id": "c3acf66e1db855bfaa46b99fa3a6c176",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Selston F.C. Youth U15 FC",
+      "away_team": "Burton Joyce F.C. Girls U15 Green",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U15 Div 3",
+      "home_away": "home",
+      "opponent": "Burton Joyce F.C. Girls U15 Green",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "1f9f71d245df3ebf38b0e4764b5740ab",
       "date": "2026-03-08",

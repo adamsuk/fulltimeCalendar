@@ -1,6 +1,6 @@
 {
   "club": "Ruddington Village",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
     {
       "id": "728393015694333a48360ad5452c500b",
@@ -14,32 +14,6 @@
       "team": "Ruddington Village FC",
       "home_away": "away",
       "opponent": "Southwell City Reserves"
-    },
-    {
-      "id": "0897d6f9391aa129ec7367d781d91603",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "WBYFC Courage Red U8",
-      "away_team": "Ruddington Village U8",
-      "venue": "Alford Road, NG2 6HP",
-      "division": "U8 Sun Spring 3 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ruddington Village U8",
-      "home_away": "away",
-      "opponent": "WBYFC Courage Red U8"
-    },
-    {
-      "id": "7c927c7f90d43856b96d2cf5837d843c",
-      "date": "2026-04-12",
-      "time": "10:30",
-      "home_team": "Attenborough Colts Spartans U14",
-      "away_team": "Ruddington Village Black U14",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U14 Sun Spring Div 1 Gold",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ruddington Village Black U14",
-      "home_away": "away",
-      "opponent": "Attenborough Colts Spartans U14"
     },
     {
       "id": "5eabed92536cd8c749cd6a21ba249358",
@@ -589,6 +563,40 @@
     }
   ],
   "results": [
+    {
+      "id": "7c927c7f90d43856b96d2cf5837d843c",
+      "date": "2026-04-12",
+      "time": "10:30",
+      "home_team": "Attenborough Colts Spartans U14",
+      "away_team": "Ruddington Village Black U14",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sun Spring Div 1 Gold",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ruddington Village Black U14",
+      "home_away": "away",
+      "opponent": "Attenborough Colts Spartans U14",
+      "goals_for": 4,
+      "goals_against": 1
+    },
+    {
+      "id": "0897d6f9391aa129ec7367d781d91603",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "WBYFC Courage Red U8",
+      "away_team": "Ruddington Village U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sun Spring 3 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ruddington Village U8",
+      "home_away": "away",
+      "opponent": "WBYFC Courage Red U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "c6fb61ec2dd4924825f91e170c577ca3",
       "date": "2026-04-11",

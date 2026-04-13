@@ -1,23 +1,12 @@
 {
   "team": "West Bridgford Colts U15 Lionesses",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "c447e743f7d07bdc9943f178fca1ed35",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Arnold Eagles F.C. Girls U15 Fire",
-      "away_team": "West Bridgford Colts U15 Lionesses",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "U15 Div 1",
-      "home_away": "away",
-      "opponent": "Arnold Eagles F.C. Girls U15 Fire"
-    },
     {
       "id": "02b83d1381576cd674ff2f7f7f70f10d",
       "date": "2026-04-19",
-      "time": "10:00",
+      "time": "10:30",
       "home_team": "West Bridgford Colts U15 Lionesses",
       "away_team": "Arnold Eagles F.C. Girls U15 Fire",
       "venue": "UNIVERSITY OF NOTTINGHAM (RIVERSIDE SPORTS COMPLEX)",
@@ -39,6 +28,21 @@
   ],
   "results": [
     {
+      "id": "c447e743f7d07bdc9943f178fca1ed35",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Arnold Eagles F.C. Girls U15 Fire",
+      "away_team": "West Bridgford Colts U15 Lionesses",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U15 Div 1",
+      "home_away": "away",
+      "opponent": "Arnold Eagles F.C. Girls U15 Fire",
+      "goals_for": 0,
+      "goals_against": 3
+    },
+    {
       "id": "81b2fed1caf8b4e7299c7ba288fa6b11",
       "date": "2026-03-29",
       "time": "10:00",
@@ -56,7 +60,7 @@
     {
       "id": "3031ad616006f53831a2478d78ebbe0d",
       "date": "2026-03-15",
-      "time": "10:00",
+      "time": "10:30",
       "home_team": "West Bridgford Colts U15 Lionesses",
       "away_team": "Gainsborough Trinity Community FC U15",
       "home_score": 1,

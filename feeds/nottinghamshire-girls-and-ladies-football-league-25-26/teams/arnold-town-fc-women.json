@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town FC Women",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "71382fdf24b1dd442d387d5358f57c0c",
-      "date": "2026-04-12",
-      "time": "14:00",
-      "home_team": "Retford FC Ladies",
-      "away_team": "Arnold Town FC Women",
-      "venue": "RETFORD FC (THE RAIL)",
-      "division": "Seniors Div 2",
-      "home_away": "away",
-      "opponent": "Retford FC Ladies"
-    },
     {
       "id": "68a3383d06f1dc48152fa3b4f7b5df38",
       "date": "2026-04-19",
@@ -93,6 +82,21 @@
     }
   ],
   "results": [
+    {
+      "id": "71382fdf24b1dd442d387d5358f57c0c",
+      "date": "2026-04-12",
+      "time": "14:00",
+      "home_team": "Retford FC Ladies",
+      "away_team": "Arnold Town FC Women",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "home_away": "away",
+      "opponent": "Retford FC Ladies",
+      "goals_for": 0,
+      "goals_against": 6
+    },
     {
       "id": "d49532bc4274cffc37bbcb521fbdd60b",
       "date": "2026-03-22",

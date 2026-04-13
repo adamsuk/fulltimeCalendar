@@ -1,19 +1,8 @@
 {
   "team": "Blidworth Bengals F.C. U12",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "0f08add11e52137a44af9c509bf93584",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Blidworth Bengals F.C. U12",
-      "away_team": "West Bridgford Colts U12 Lightning",
-      "venue": "BILSTHORPE SPORTS GROUND",
-      "division": "U12 Div 3 P2",
-      "home_away": "home",
-      "opponent": "West Bridgford Colts U12 Lightning"
-    },
     {
       "id": "c8d55669cbcb8b7ff95f30b0b382dd37",
       "date": "2026-04-19",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0f08add11e52137a44af9c509bf93584",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Blidworth Bengals F.C. U12",
+      "away_team": "West Bridgford Colts U12 Lightning",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 3 P2",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U12 Lightning",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "3617cf42aa21b69b3305b21bd10d98f7",
       "date": "2026-03-22",

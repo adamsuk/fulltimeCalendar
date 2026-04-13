@@ -1,19 +1,8 @@
 {
   "team": "Southwell City FC U15 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "ff48b6b6ff533839dd16b0f3ae2db96c",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Southwell City FC U15 Girls",
-      "away_team": "Barlborough Juniors U15 Lionesses",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "U15 Div 3",
-      "home_away": "home",
-      "opponent": "Barlborough Juniors U15 Lionesses"
-    },
     {
       "id": "b86811f1b30780f6a048755a8759e0d8",
       "date": "2026-04-26",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ff48b6b6ff533839dd16b0f3ae2db96c",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Southwell City FC U15 Girls",
+      "away_team": "Barlborough Juniors U15 Lionesses",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U15 Div 3",
+      "home_away": "home",
+      "opponent": "Barlborough Juniors U15 Lionesses",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "1ea7dcf218925506127fd8108ab9a79a",
       "date": "2026-03-22",

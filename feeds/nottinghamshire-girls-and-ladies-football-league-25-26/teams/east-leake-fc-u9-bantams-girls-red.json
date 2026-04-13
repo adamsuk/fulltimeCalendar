@@ -1,7 +1,7 @@
 {
   "team": "East Leake FC U9 Bantams Girls Red",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
     {
       "id": "29aff3c032b72a5f35c9472f58ae512d",
@@ -13,17 +13,6 @@
       "division": "U9 Development",
       "home_away": "away",
       "opponent": "West Bridgford Colts U9 Stars"
-    },
-    {
-      "id": "71becbb19008ca05b13ed5100e599d23",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "East Leake FC U9 Bantams Girls Red",
-      "away_team": "West Bridgford Colts U9 Meteor",
-      "venue": "EAST LEAKE PLAYING FIELDS",
-      "division": "U9  Development Yellow",
-      "home_away": "home",
-      "opponent": "West Bridgford Colts U9 Meteor"
     },
     {
       "id": "a91dc4372f6c994279a42ea77aa8d5ef",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "71becbb19008ca05b13ed5100e599d23",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "East Leake FC U9 Bantams Girls Red",
+      "away_team": "West Bridgford Colts U9 Meteor",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9  Development Yellow",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U9 Meteor",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "eb5ee70a5de3e2c6928ef9334e724ded",
       "date": "2026-03-22",

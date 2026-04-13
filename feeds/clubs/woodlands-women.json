@@ -1,6 +1,6 @@
 {
   "club": "Woodlands Women",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
     {
       "id": "33c4a10d6931b4a29921b62d6588be05",
@@ -14,45 +14,6 @@
       "team": "Woodlands Women U16 Greensocks",
       "home_away": "away",
       "opponent": "Burton Joyce F.C. Girls U16"
-    },
-    {
-      "id": "386469e554d2c98a625b619c23c99b38",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Woodlands Women U15",
-      "away_team": "Sherwood Colliery F.C. Ladies U15",
-      "venue": "ALLESTREE WOODLANDS SCHOOL",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Woodlands Women U15",
-      "home_away": "home",
-      "opponent": "Sherwood Colliery F.C. Ladies U15"
-    },
-    {
-      "id": "772ea5710943d05556fc88760e137c91",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Woodlands Women U16 Goldsocks",
-      "away_team": "Brodsworth Welfare AFC- Warriors U16",
-      "venue": "ALLESTREE WOODLANDS SCHOOL",
-      "division": "U16 Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Woodlands Women U16 Goldsocks",
-      "home_away": "home",
-      "opponent": "Brodsworth Welfare AFC- Warriors U16"
-    },
-    {
-      "id": "213c957395843a2779868c5a524f610e",
-      "date": "2026-04-12",
-      "time": "10:30",
-      "home_team": "Woodlands Women U16 Greensocks",
-      "away_team": "Nottingham F.C. Youth U16 Diamonds",
-      "venue": "Woodlands Women U15 Greensocks",
-      "division": "U16 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Woodlands Women U16 Greensocks",
-      "home_away": "home",
-      "opponent": "Nottingham F.C. Youth U16 Diamonds"
     },
     {
       "id": "dda9b03ad1c1a0682d5834a2484fd0f3",
@@ -212,6 +173,40 @@
     }
   ],
   "results": [
+    {
+      "id": "213c957395843a2779868c5a524f610e",
+      "date": "2026-04-12",
+      "time": "10:30",
+      "home_team": "Woodlands Women U16 Greensocks",
+      "away_team": "Nottingham F.C. Youth U16 Diamonds",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U16 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Woodlands Women U16 Greensocks",
+      "home_away": "home",
+      "opponent": "Nottingham F.C. Youth U16 Diamonds",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
+      "id": "772ea5710943d05556fc88760e137c91",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Woodlands Women U16 Goldsocks",
+      "away_team": "Brodsworth Welfare AFC- Warriors U16",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U16 Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Woodlands Women U16 Goldsocks",
+      "home_away": "home",
+      "opponent": "Brodsworth Welfare AFC- Warriors U16",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "0588a5dcf0f89daa2475e04b7ef5f028",
       "date": "2026-03-22",

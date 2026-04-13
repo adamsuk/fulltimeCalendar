@@ -1,19 +1,8 @@
 {
   "team": "Nottingham Trent Uni FC Womens Pink",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "89c5ade368389da550be59dd3e69ec40",
-      "date": "2026-04-12",
-      "time": "14:30",
-      "home_team": "Arnold Eagles FC Development",
-      "away_team": "Nottingham Trent Uni FC Womens Pink",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "Seniors Div 1",
-      "home_away": "away",
-      "opponent": "Arnold Eagles FC Development"
-    },
     {
       "id": "8e7dc461f399fc57582db950e0fa730a",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "89c5ade368389da550be59dd3e69ec40",
+      "date": "2026-04-12",
+      "time": "14:30",
+      "home_team": "Arnold Eagles FC Development",
+      "away_team": "Nottingham Trent Uni FC Womens Pink",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "Seniors Div 1",
+      "home_away": "away",
+      "opponent": "Arnold Eagles FC Development",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "11b108383c89c782e586f13dbab17815",
       "date": "2026-03-22",

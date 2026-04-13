@@ -1,6 +1,6 @@
 {
   "club": "Sherwood Colliery",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
     {
       "id": "ea8e3fe0f97307f5ab0e8fd13eb5b878",
@@ -16,58 +16,6 @@
       "opponent": "Southwell City FC U11 Girls"
     },
     {
-      "id": "077fb164193e63372ec2f0b2cbd83600",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Quarrydale United FC U12",
-      "away_team": "Sherwood Colliery F.C. Ladies U12 Black",
-      "venue": "Quarrydale United FC U12 Quarrydale Unit",
-      "division": "U12 Div 5 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sherwood Colliery F.C. Ladies U12 Black",
-      "home_away": "away",
-      "opponent": "Quarrydale United FC U12"
-    },
-    {
-      "id": "5d22b133fcf96662a163e94f4b91e0dd",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Hasland Community U14 Girls Sunday",
-      "away_team": "Sherwood Colliery F.C. Ladies U14",
-      "venue": "Hasland Community U14 Girls Sunday",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sherwood Colliery F.C. Ladies U14",
-      "home_away": "away",
-      "opponent": "Hasland Community U14 Girls Sunday"
-    },
-    {
-      "id": "386469e554d2c98a625b619c23c99b38",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Woodlands Women U15",
-      "away_team": "Sherwood Colliery F.C. Ladies U15",
-      "venue": "ALLESTREE WOODLANDS SCHOOL",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sherwood Colliery F.C. Ladies U15",
-      "home_away": "away",
-      "opponent": "Woodlands Women U15"
-    },
-    {
-      "id": "c0aeb3942ef6536925246f24ce9a8f3a",
-      "date": "2026-04-12",
-      "time": "11:15",
-      "home_team": "Sherwood Colliery F.C. Ladies U12 Blue",
-      "away_team": "Keyworth United F.C. U12 Vipers",
-      "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
-      "division": "U12 Div 2 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sherwood Colliery F.C. Ladies U12 Blue",
-      "home_away": "home",
-      "opponent": "Keyworth United F.C. U12 Vipers"
-    },
-    {
       "id": "d1265e59daea39068b13dccbe0f164a8",
       "date": "2026-04-18",
       "time": "09:45",
@@ -81,17 +29,17 @@
       "opponent": "Manor FC U9"
     },
     {
-      "id": "eaf17bed6758ec3f9de2820a216fbdfa",
+      "id": "af2d04ca7acdb51df2f37738e8094ffe",
       "date": "2026-04-18",
       "time": "10:00",
       "home_team": "Sherwood Colliery Avengers U8",
-      "away_team": "Arnold Town Yellow U8",
+      "away_team": "Ilkeston Town United U8",
       "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U8 Sat Spring 6 Red",
+      "division": "U8 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Sherwood Colliery Avengers U8",
       "home_away": "home",
-      "opponent": "Arnold Town Yellow U8"
+      "opponent": "Ilkeston Town United U8"
     },
     {
       "id": "c7d6f24c9cc04104971619afc644aaa1",
@@ -797,6 +745,57 @@
     }
   ],
   "results": [
+    {
+      "id": "c0aeb3942ef6536925246f24ce9a8f3a",
+      "date": "2026-04-12",
+      "time": "11:15",
+      "home_team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "away_team": "Keyworth United F.C. U12 Vipers",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U12 Vipers",
+      "goals_for": 2,
+      "goals_against": 4
+    },
+    {
+      "id": "077fb164193e63372ec2f0b2cbd83600",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Quarrydale United FC U12",
+      "away_team": "Sherwood Colliery F.C. Ladies U12 Black",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 5 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood Colliery F.C. Ladies U12 Black",
+      "home_away": "away",
+      "opponent": "Quarrydale United FC U12",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
+      "id": "5d22b133fcf96662a163e94f4b91e0dd",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Hasland Community U14 Girls Sunday",
+      "away_team": "Sherwood Colliery F.C. Ladies U14",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood Colliery F.C. Ladies U14",
+      "home_away": "away",
+      "opponent": "Hasland Community U14 Girls Sunday",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "70f2c20a9842dc7513a762215c808dba",
       "date": "2026-04-11",

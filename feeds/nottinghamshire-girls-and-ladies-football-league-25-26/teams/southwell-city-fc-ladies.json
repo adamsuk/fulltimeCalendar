@@ -1,19 +1,8 @@
 {
   "team": "Southwell City FC Ladies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "fcd812f5989a8d1c5bc74065f7b7cfa8",
-      "date": "2026-04-12",
-      "time": "14:00",
-      "home_team": "Southwell City FC Ladies",
-      "away_team": "Underwood Villa FC Youth Ladies",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "Seniors Div 2",
-      "home_away": "home",
-      "opponent": "Underwood Villa FC Youth Ladies"
-    },
     {
       "id": "321b66af4af03b9012f8f1444e54b00d",
       "date": "2026-04-19",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "fcd812f5989a8d1c5bc74065f7b7cfa8",
+      "date": "2026-04-12",
+      "time": "14:00",
+      "home_team": "Southwell City FC Ladies",
+      "away_team": "Underwood Villa FC Youth Ladies",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "home_away": "home",
+      "opponent": "Underwood Villa FC Youth Ladies",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "290c98353c4772459e6423455a9fd701",
       "date": "2026-03-29",

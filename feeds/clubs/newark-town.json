@@ -1,6 +1,6 @@
 {
   "club": "Newark Town",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
     {
       "id": "aa2b459b2ef1439eb56b1321ce99fb07",
@@ -42,32 +42,6 @@
       "opponent": "Meden Vale Colts FC Ladies"
     },
     {
-      "id": "a4337321ca49f9a392f7fbe994785799",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Newark Town FC U12 Girls",
-      "away_team": "Hucknall & Linby Harriers FC U12 Jets",
-      "venue": "DEVON PARK",
-      "division": "U12 Div 3 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Newark Town FC U12 Girls",
-      "home_away": "home",
-      "opponent": "Hucknall & Linby Harriers FC U12 Jets"
-    },
-    {
-      "id": "38228d8ba0a481efb42c9c6d91da2de3",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Meden Vale Colts F.C. U14 Girls",
-      "away_team": "Newark Town FC U14 Nesbitts",
-      "venue": "ELKESLEY ROAD GROUND",
-      "division": "U14 Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Newark Town FC U14 Nesbitts",
-      "home_away": "away",
-      "opponent": "Meden Vale Colts F.C. U14 Girls"
-    },
-    {
       "id": "7fdf2e9283240fd51c6438e1411f09ea",
       "date": "2026-04-12",
       "time": "10:00",
@@ -79,19 +53,6 @@
       "team": "Newark Town FC U15 Girls",
       "home_away": "home",
       "opponent": "Matlock Town Juniors U15 Girls"
-    },
-    {
-      "id": "0fcc366245f6c26c305ba892b9ea18b1",
-      "date": "2026-04-12",
-      "time": "14:00",
-      "home_team": "Newark Town FC Ladies Development",
-      "away_team": "Lowdham Colts FC Development",
-      "venue": "DEVON PARK",
-      "division": "Senior Div 3 Phase 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Newark Town FC Ladies Development",
-      "home_away": "home",
-      "opponent": "Lowdham Colts FC Development"
     },
     {
       "id": "ae5c0f0c4d64a5b9477d4f3a559dcf78",
@@ -118,6 +79,19 @@
       "team": "Newark Town Cavaliers U11",
       "home_away": "away",
       "opponent": "Ernehale Colts U11"
+    },
+    {
+      "id": "a14804d57f7088d67996d343dc6601e5",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Newark Town Cavaliers U12",
+      "away_team": "Priory Celtic White U12",
+      "venue": "Devon Park NG24 4QN",
+      "division": "U12 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Newark Town Cavaliers U12",
+      "home_away": "home",
+      "opponent": "Priory Celtic White U12"
     },
     {
       "id": "64024e94edae4411de78ccfcb9d72874",
@@ -159,17 +133,17 @@
       "opponent": "Newark Brazil Santos U10"
     },
     {
-      "id": "fad9d3a528c9e2a4fd6ee04d6da2d698",
+      "id": "e81f8f9ed095492f274bdaa7bfa831ea",
       "date": "2026-04-18",
       "time": "10:00",
-      "home_team": "Silva FC Carlton Yellow U8",
+      "home_team": "Muskham Cougars U8",
       "away_team": "Newark Town Titans U8",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U8 Sat Spring 6 Red",
+      "venue": "Muskham Playing Fields NG23 6HL",
+      "division": "U8 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Newark Town Titans U8",
       "home_away": "away",
-      "opponent": "Silva FC Carlton Yellow U8"
+      "opponent": "Muskham Cougars U8"
     },
     {
       "id": "141a2524f4ce2405487d870ac597fbf6",
@@ -209,19 +183,6 @@
       "team": "Newark Town Saxons U11",
       "home_away": "away",
       "opponent": "DLFC Blue U11"
-    },
-    {
-      "id": "a14804d57f7088d67996d343dc6601e5",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Newark Town Cavaliers U12",
-      "away_team": "Priory Celtic White U12",
-      "venue": "Devon Park NG24 4QN",
-      "division": "U12 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Newark Town Cavaliers U12",
-      "home_away": "home",
-      "opponent": "Priory Celtic White U12"
     },
     {
       "id": "bbca7511b4ac6010d4d8ea8779c8dfd3",
@@ -797,6 +758,57 @@
     }
   ],
   "results": [
+    {
+      "id": "0fcc366245f6c26c305ba892b9ea18b1",
+      "date": "2026-04-12",
+      "time": "14:00",
+      "home_team": "Newark Town FC Ladies Development",
+      "away_team": "Lowdham Colts FC Development",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "Senior Div 3 Phase 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Newark Town FC Ladies Development",
+      "home_away": "home",
+      "opponent": "Lowdham Colts FC Development",
+      "goals_for": 4,
+      "goals_against": 2
+    },
+    {
+      "id": "a4337321ca49f9a392f7fbe994785799",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Newark Town FC U12 Girls",
+      "away_team": "Hucknall & Linby Harriers FC U12 Jets",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Div 3 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Newark Town FC U12 Girls",
+      "home_away": "home",
+      "opponent": "Hucknall & Linby Harriers FC U12 Jets",
+      "goals_for": 0,
+      "goals_against": 4
+    },
+    {
+      "id": "38228d8ba0a481efb42c9c6d91da2de3",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Meden Vale Colts F.C. U14 Girls",
+      "away_team": "Newark Town FC U14 Nesbitts",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Div 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Newark Town FC U14 Nesbitts",
+      "home_away": "away",
+      "opponent": "Meden Vale Colts F.C. U14 Girls",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "bad9997426928059ab5b6749f549e5b6",
       "date": "2026-04-11",

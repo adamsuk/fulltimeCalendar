@@ -1,20 +1,7 @@
 {
   "club": "Heanor Town",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "5810dc872352bb9de4f390e591c68689",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Heanor Town Juniors U16 Tornados",
-      "away_team": "Beeston F.C. U16 Girls",
-      "venue": "ALDERCAR RECREATION GROUND",
-      "division": "U16 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Heanor Town Juniors U16 Tornados",
-      "home_away": "home",
-      "opponent": "Beeston F.C. U16 Girls"
-    },
     {
       "id": "db243854ce168cbe1bbf039d0669e54c",
       "date": "2026-04-14",
@@ -107,6 +94,19 @@
       "opponent": "Star Strike Tigers U8"
     },
     {
+      "id": "b05d9add3669d354b8f6618deaa4aac6",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Heanor Town Panthers U12",
+      "away_team": "Keyworth United Blue U12",
+      "venue": "Riddings Park  DE55 4EW",
+      "division": "U12 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Heanor Town Panthers U12",
+      "home_away": "home",
+      "opponent": "Keyworth United Blue U12"
+    },
+    {
       "id": "c13c60f0a3f14d12e9514e22da39cba3",
       "date": "2026-04-18",
       "time": "10:00",
@@ -144,19 +144,6 @@
       "team": "Heanor Town Avengers U9",
       "home_away": "away",
       "opponent": "Phoenix Inham Knights U9"
-    },
-    {
-      "id": "b05d9add3669d354b8f6618deaa4aac6",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Heanor Town Panthers U12",
-      "away_team": "Keyworth United Blue U12",
-      "venue": "Riddings Park  DE55 4EW",
-      "division": "U12 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Heanor Town Panthers U12",
-      "home_away": "home",
-      "opponent": "Keyworth United Blue U12"
     },
     {
       "id": "780784e7daa7f12cdb6b164ab961e42b",
@@ -459,6 +446,23 @@
     }
   ],
   "results": [
+    {
+      "id": "5810dc872352bb9de4f390e591c68689",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Heanor Town Juniors U16 Tornados",
+      "away_team": "Beeston F.C. U16 Girls",
+      "home_score": 7,
+      "away_score": 0,
+      "venue": "",
+      "division": "U16 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Heanor Town Juniors U16 Tornados",
+      "home_away": "home",
+      "opponent": "Beeston F.C. U16 Girls",
+      "goals_for": 7,
+      "goals_against": 0
+    },
     {
       "id": "4b03a5e4104560694c5d6f56872c39c7",
       "date": "2026-04-11",

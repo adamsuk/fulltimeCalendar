@@ -1,20 +1,7 @@
 {
   "club": "Silva FC",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "51fbf8a1b99e6f8b9a6863ce3960c18e",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Star Strike Tigers U7",
-      "away_team": "Silva FC Rushcliffe Panthers U7",
-      "venue": "Robin Hood Road NG5 8NP",
-      "division": "U7 Sun Spring Purple",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Silva FC Rushcliffe Panthers U7",
-      "home_away": "away",
-      "opponent": "Star Strike Tigers U7"
-    },
     {
       "id": "b057bb993d23975faa77d90895ed88d7",
       "date": "2026-04-12",
@@ -27,45 +14,6 @@
       "team": "Silva FC Rushcliffe Vipers U8",
       "home_away": "home",
       "opponent": "Aspire FC U8"
-    },
-    {
-      "id": "4a3cb8ad61b2376b6fecba1a2aabbfc9",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Moorgreen Colts F.C. Youth U13",
-      "away_team": "Silva FC U13 Rushcliffe Pink",
-      "venue": "Moorgreen Colts F.C. Youth U13",
-      "division": "U13 Div 3 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Silva FC U13 Rushcliffe Pink",
-      "home_away": "away",
-      "opponent": "Moorgreen Colts F.C. Youth U13"
-    },
-    {
-      "id": "6d03d404a56673b718d0d6248503620d",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Silva FC U8 Rushcliffe Violet",
-      "away_team": "West Bridgford Colts U8 Black",
-      "venue": "RUSHCLIFFE SPENCER ACADEMY",
-      "division": "U8 Development",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Silva FC U8 Rushcliffe Violet",
-      "home_away": "home",
-      "opponent": "West Bridgford Colts U8 Black"
-    },
-    {
-      "id": "3db00df3de5be948ec0d002d4375c46a",
-      "date": "2026-04-12",
-      "time": "12:00",
-      "home_team": "Gedling Southbank White U13",
-      "away_team": "Silva FC Southglade Grey U13",
-      "venue": "Redhill Leisure Centre NG5 8GX",
-      "division": "U13 Sun Spring Div 4 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Silva FC Southglade Grey U13",
-      "home_away": "away",
-      "opponent": "Gedling Southbank White U13"
     },
     {
       "id": "378cb2cd69560fdb9e3d456864e67db9",
@@ -237,17 +185,17 @@
       "opponent": "Newark Brazil Corinthians U10"
     },
     {
-      "id": "fad9d3a528c9e2a4fd6ee04d6da2d698",
+      "id": "62991ba6eeb5f031a7b53308cfa2da76",
       "date": "2026-04-18",
       "time": "10:00",
       "home_team": "Silva FC Carlton Yellow U8",
-      "away_team": "Newark Town Titans U8",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U8 Sat Spring 6 Red",
+      "away_team": "Radcliffe Olympic Pumas U8",
+      "venue": "Carlton Forum NG4 3SH",
+      "division": "U8 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Silva FC Carlton Yellow U8",
       "home_away": "home",
-      "opponent": "Newark Town Titans U8"
+      "opponent": "Radcliffe Olympic Pumas U8"
     },
     {
       "id": "af38f370e3f159449d0b845021685ac6",
@@ -653,19 +601,6 @@
       "opponent": "Ilkeston Town Ajax U10"
     },
     {
-      "id": "8ed3e7601295b9addf572270fbc38663",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Arnold Eagles F.C. Girls U13 Harriers",
-      "away_team": "Silva FC U13 Rushcliffe Pink",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "U13 Div 3 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Silva FC U13 Rushcliffe Pink",
-      "home_away": "away",
-      "opponent": "Arnold Eagles F.C. Girls U13 Harriers"
-    },
-    {
       "id": "6ace8996ce67d38b8d13ef385489d1d2",
       "date": "2026-04-19",
       "time": "11:00",
@@ -822,6 +757,19 @@
       "opponent": "Hucknall Sports Red U13"
     },
     {
+      "id": "8ed3e7601295b9addf572270fbc38663",
+      "date": "2026-04-19",
+      "time": "12:00",
+      "home_team": "Arnold Eagles F.C. Girls U13 Harriers",
+      "away_team": "Silva FC U13 Rushcliffe Pink",
+      "venue": "CALVERTON MINERS WELFARE TRUST",
+      "division": "U13 Div 3 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Silva FC U13 Rushcliffe Pink",
+      "home_away": "away",
+      "opponent": "Arnold Eagles F.C. Girls U13 Harriers"
+    },
+    {
       "id": "96b90a13974cdcdae5a9110b27de6482",
       "date": "2026-04-21",
       "time": "18:00",
@@ -833,6 +781,19 @@
       "team": "Silva FC Rushcliffe Red U11",
       "home_away": "home",
       "opponent": "Market Warsop Mavericks U11"
+    },
+    {
+      "id": "3c395006faad298453be4f3cf815a458",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Ollerton Town U14",
+      "away_team": "Silva FC Southglade Pink U14",
+      "venue": "WALESBY LANE NG22 9UT",
+      "division": "U14 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Silva FC Southglade Pink U14",
+      "home_away": "away",
+      "opponent": "Ollerton Town U14"
     },
     {
       "id": "4d1af04a52fd49ea2eee51d3f3559037",
@@ -1513,21 +1474,89 @@
   ],
   "results": [
     {
+      "id": "3db00df3de5be948ec0d002d4375c46a",
+      "date": "2026-04-12",
+      "time": "12:00",
+      "home_team": "Gedling Southbank White U13",
+      "away_team": "Silva FC Southglade Grey U13",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sun Spring Div 4 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Silva FC Southglade Grey U13",
+      "home_away": "away",
+      "opponent": "Gedling Southbank White U13",
+      "goals_for": 3,
+      "goals_against": 3
+    },
+    {
+      "id": "51fbf8a1b99e6f8b9a6863ce3960c18e",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Star Strike Tigers U7",
+      "away_team": "Silva FC Rushcliffe Panthers U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring Purple",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Silva FC Rushcliffe Panthers U7",
+      "home_away": "away",
+      "opponent": "Star Strike Tigers U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "4a3cb8ad61b2376b6fecba1a2aabbfc9",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Moorgreen Colts F.C. Youth U13",
+      "away_team": "Silva FC U13 Rushcliffe Pink",
+      "home_score": 4,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Div 3 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Silva FC U13 Rushcliffe Pink",
+      "home_away": "away",
+      "opponent": "Moorgreen Colts F.C. Youth U13",
+      "goals_for": 4,
+      "goals_against": 4
+    },
+    {
+      "id": "6d03d404a56673b718d0d6248503620d",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Silva FC U8 Rushcliffe Violet",
+      "away_team": "West Bridgford Colts U8 Black",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Silva FC U8 Rushcliffe Violet",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U8 Black",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "558a1c8b7a759d3e48b1a240e24fbec2",
       "date": "2026-04-11",
       "time": "10:30",
       "home_team": "Bingham Town Red U14",
       "away_team": "Silva FC Southglade Pink U14",
-      "home_score": 2,
-      "away_score": 1,
+      "home_score": 1,
+      "away_score": 2,
       "venue": "",
       "division": "U14 Sat YEL Inter Cup",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Silva FC Southglade Pink U14",
       "home_away": "away",
       "opponent": "Bingham Town Red U14",
-      "goals_for": 1,
-      "goals_against": 2
+      "goals_for": 2,
+      "goals_against": 1
     },
     {
       "id": "927ee805a9b966e70ed2895a8ca546c1",

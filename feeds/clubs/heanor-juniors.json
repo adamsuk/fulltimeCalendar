@@ -1,33 +1,7 @@
 {
   "club": "Heanor Juniors",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "25d742601d2320febfcce77f03d3a992",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Heanor Juniors Cobras U8",
-      "away_team": "Wollaton H/B Tigers U8",
-      "venue": "Charles Hill DE75 7RN",
-      "division": "U8 Sun Spring 4 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Heanor Juniors Cobras U8",
-      "home_away": "home",
-      "opponent": "Wollaton H/B Tigers U8"
-    },
-    {
-      "id": "21d7436669942bc8504bfb55759ffa42",
-      "date": "2026-04-12",
-      "time": "11:00",
-      "home_team": "DLFC Purple U8",
-      "away_team": "Heanor Juniors Rhinos U8",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U8 Sun Spring 4 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Heanor Juniors Rhinos U8",
-      "home_away": "away",
-      "opponent": "DLFC Purple U8"
-    },
     {
       "id": "507e4262c3cddd7dcd7b4d2331e2f6bf",
       "date": "2026-04-14",
@@ -316,6 +290,40 @@
     }
   ],
   "results": [
+    {
+      "id": "21d7436669942bc8504bfb55759ffa42",
+      "date": "2026-04-12",
+      "time": "11:00",
+      "home_team": "DLFC Purple U8",
+      "away_team": "Heanor Juniors Rhinos U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sun Spring 4 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Heanor Juniors Rhinos U8",
+      "home_away": "away",
+      "opponent": "DLFC Purple U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "25d742601d2320febfcce77f03d3a992",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Heanor Juniors Cobras U8",
+      "away_team": "Wollaton H/B Tigers U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sun Spring 4 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Heanor Juniors Cobras U8",
+      "home_away": "home",
+      "opponent": "Wollaton H/B Tigers U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "9771104063e4d842e6360b4369831036",
       "date": "2026-04-11",

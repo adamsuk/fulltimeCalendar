@@ -1,33 +1,7 @@
 {
   "club": "Cotgrave FC",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "ed7108f8ab6e371c9c1f0487f76810e0",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Cotgrave FC U12 Girls",
-      "away_team": "Mansfield Town F.C. Girls U12",
-      "venue": "ARTHUR RIDLEY SPORTS GROUND",
-      "division": "U12 Div 1 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Cotgrave FC U12 Girls",
-      "home_away": "home",
-      "opponent": "Mansfield Town F.C. Girls U12"
-    },
-    {
-      "id": "6538ce0e0f3e927c2a931d46b4ab9869",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Cotgrave FC U9 White",
-      "away_team": "Market Warsop F.C. Youth U9 Wildcats",
-      "venue": "COTGRAVE WELFARE CLUB",
-      "division": "U9 Development",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Cotgrave FC U9 White",
-      "home_away": "home",
-      "opponent": "Market Warsop F.C. Youth U9 Wildcats"
-    },
     {
       "id": "505bc6741a5b0c9ad1be18a244865fa4",
       "date": "2026-04-12",
@@ -40,32 +14,6 @@
       "team": "Cotgrave FC Blue U9",
       "home_away": "home",
       "opponent": "Breaston Park Green U9"
-    },
-    {
-      "id": "d196d6e1d5574fbb15cc31c6a27b01e0",
-      "date": "2026-04-12",
-      "time": "12:00",
-      "home_team": "Cotgrave FC U14 White",
-      "away_team": "Arnold Eagles F.C. Girls U14 Storm",
-      "venue": "COTGRAVE WELFARE CLUB",
-      "division": "U14 Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Cotgrave FC U14 White",
-      "home_away": "home",
-      "opponent": "Arnold Eagles F.C. Girls U14 Storm"
-    },
-    {
-      "id": "f586c5499ca6d67de6b388ddfdd93424",
-      "date": "2026-04-12",
-      "time": "14:00",
-      "home_team": "Meden Vale Colts FC Ladies",
-      "away_team": "Cotgrave FC Ladies",
-      "venue": "ELKESLEY ROAD GROUND",
-      "division": "Senior Div 3 Phase 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Cotgrave FC Ladies",
-      "home_away": "away",
-      "opponent": "Meden Vale Colts FC Ladies"
     },
     {
       "id": "3c8a22ee655417c23f0ef0bd0691639c",
@@ -239,7 +187,7 @@
     {
       "id": "01ad836d29a1821e49b97a483dee5a11",
       "date": "2026-04-18",
-      "time": "11:00",
+      "time": "12:30",
       "home_team": "Stapleford Town Blue U14",
       "away_team": "Cotgrave FC Blue U14",
       "venue": "Hickings Lane NG9 8PG",
@@ -705,19 +653,6 @@
       "opponent": "Hasland Community U11 Girls"
     },
     {
-      "id": "5d591aa731d4e2855acd601e35dad679",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Cotgrave FC U14 White",
-      "away_team": "Phoenix Inham FC U14 Fireflies",
-      "venue": "COTGRAVE LEISURE CENTRE",
-      "division": "U14 Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Cotgrave FC U14 White",
-      "home_away": "home",
-      "opponent": "Phoenix Inham FC U14 Fireflies"
-    },
-    {
       "id": "d1080865e99bcb235566792f3eb9c95b",
       "date": "2026-04-26",
       "time": "10:10",
@@ -794,6 +729,19 @@
       "team": "Cotgrave FC White U12",
       "home_away": "home",
       "opponent": "Stapleford Town Saxons U12"
+    },
+    {
+      "id": "5d591aa731d4e2855acd601e35dad679",
+      "date": "2026-04-26",
+      "time": "12:00",
+      "home_team": "Cotgrave FC U14 White",
+      "away_team": "Phoenix Inham FC U14 Fireflies",
+      "venue": "COTGRAVE LEISURE CENTRE",
+      "division": "U14 Div 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Cotgrave FC U14 White",
+      "home_away": "home",
+      "opponent": "Phoenix Inham FC U14 Fireflies"
     },
     {
       "id": "c791772aacccfb3cc05e6507e5657bfd",
@@ -888,6 +836,74 @@
     }
   ],
   "results": [
+    {
+      "id": "f586c5499ca6d67de6b388ddfdd93424",
+      "date": "2026-04-12",
+      "time": "14:00",
+      "home_team": "Meden Vale Colts FC Ladies",
+      "away_team": "Cotgrave FC Ladies",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "Senior Div 3 Phase 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Cotgrave FC Ladies",
+      "home_away": "away",
+      "opponent": "Meden Vale Colts FC Ladies",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
+      "id": "d196d6e1d5574fbb15cc31c6a27b01e0",
+      "date": "2026-04-12",
+      "time": "12:00",
+      "home_team": "Cotgrave FC U14 White",
+      "away_team": "Arnold Eagles F.C. Girls U14 Storm",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Div 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Cotgrave FC U14 White",
+      "home_away": "home",
+      "opponent": "Arnold Eagles F.C. Girls U14 Storm",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
+      "id": "ed7108f8ab6e371c9c1f0487f76810e0",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Cotgrave FC U12 Girls",
+      "away_team": "Mansfield Town F.C. Girls U12",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U12 Div 1 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Cotgrave FC U12 Girls",
+      "home_away": "home",
+      "opponent": "Mansfield Town F.C. Girls U12",
+      "goals_for": 0,
+      "goals_against": 5
+    },
+    {
+      "id": "6538ce0e0f3e927c2a931d46b4ab9869",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Cotgrave FC U9 White",
+      "away_team": "Market Warsop F.C. Youth U9 Wildcats",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Cotgrave FC U9 White",
+      "home_away": "home",
+      "opponent": "Market Warsop F.C. Youth U9 Wildcats",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "947b30aba76f04adac4c8539644daa6f",
       "date": "2026-04-11",

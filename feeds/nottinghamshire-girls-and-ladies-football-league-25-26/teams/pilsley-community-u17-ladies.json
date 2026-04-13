@@ -1,19 +1,8 @@
 {
   "team": "Pilsley Community U17 Ladies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "7febce6353211838984e73e19f2ea3b1",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Southwell City FC U18 Girls",
-      "away_team": "Pilsley Community U17 Ladies",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "U18 Div 2",
-      "home_away": "away",
-      "opponent": "Southwell City FC U18 Girls"
-    },
     {
       "id": "7397c773bcc2052d50b4a2be1ee25fca",
       "date": "2026-04-19",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7febce6353211838984e73e19f2ea3b1",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Southwell City FC U18 Girls",
+      "away_team": "Pilsley Community U17 Ladies",
+      "home_score": 1,
+      "away_score": 15,
+      "venue": "",
+      "division": "U18 Div 2",
+      "home_away": "away",
+      "opponent": "Southwell City FC U18 Girls",
+      "goals_for": 15,
+      "goals_against": 1
+    },
     {
       "id": "d87b58a7db928322922684d53555bc7d",
       "date": "2026-03-22",

@@ -1,19 +1,8 @@
 {
   "team": "Arnold Eagles F.C. Girls U14 Storm",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "d196d6e1d5574fbb15cc31c6a27b01e0",
-      "date": "2026-04-12",
-      "time": "12:00",
-      "home_team": "Cotgrave FC U14 White",
-      "away_team": "Arnold Eagles F.C. Girls U14 Storm",
-      "venue": "COTGRAVE WELFARE CLUB",
-      "division": "U14 Div 4",
-      "home_away": "away",
-      "opponent": "Cotgrave FC U14 White"
-    },
     {
       "id": "96416c3796df6c60495d56c0e10db8fe",
       "date": "2026-04-26",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d196d6e1d5574fbb15cc31c6a27b01e0",
+      "date": "2026-04-12",
+      "time": "12:00",
+      "home_team": "Cotgrave FC U14 White",
+      "away_team": "Arnold Eagles F.C. Girls U14 Storm",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Div 4",
+      "home_away": "away",
+      "opponent": "Cotgrave FC U14 White",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "8e59691e5d8528dad76b30cf00b9e269",
       "date": "2026-03-29",

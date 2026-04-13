@@ -1,19 +1,8 @@
 {
   "team": "Eastwood & Kimberley FC",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "4f9102690c872ddf6d051a77378c5b43",
-      "date": "2026-04-12",
-      "time": "14:00",
-      "home_team": "Eastwood & Kimberley FC",
-      "away_team": "Shirebrook Rangers Women",
-      "venue": "JACKSDALE MINERS WELFARE SPORTS GROUND",
-      "division": "Seniors Div 2",
-      "home_away": "home",
-      "opponent": "Shirebrook Rangers Women"
-    },
     {
       "id": "af4f23b2697d58e2ab370113426f2330",
       "date": "2026-04-15",
@@ -104,6 +93,21 @@
     }
   ],
   "results": [
+    {
+      "id": "4f9102690c872ddf6d051a77378c5b43",
+      "date": "2026-04-12",
+      "time": "14:00",
+      "home_team": "Eastwood & Kimberley FC",
+      "away_team": "Shirebrook Rangers Women",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "home_away": "home",
+      "opponent": "Shirebrook Rangers Women",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "5c444c8990fa00da10ae1a3a080274b6",
       "date": "2026-03-29",

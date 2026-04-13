@@ -1,33 +1,7 @@
 {
   "club": "Mapperley All",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "26d4099b4c54c53bff30d00234daf38a",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Mapperley All Stars Blue U8",
-      "away_team": "DLFC Green U8",
-      "venue": "Colwick Recreation Ground NG4 2DW",
-      "division": "U8 Sun Spring 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Mapperley All Stars Blue U8",
-      "home_away": "home",
-      "opponent": "DLFC Green U8"
-    },
-    {
-      "id": "64ae14cd5fbab8ce5e6bee15ebffeefc",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Aspire FC U7",
-      "away_team": "Mapperley All Stars Yellow U7",
-      "venue": "Nottingham Trent University NG11 8NS",
-      "division": "U7 Sun Spring Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Mapperley All Stars Yellow U7",
-      "home_away": "away",
-      "opponent": "Aspire FC U7"
-    },
     {
       "id": "ce54765d13b396a06a5d0d122fbccdb9",
       "date": "2026-04-12",
@@ -47,7 +21,7 @@
       "time": "18:00",
       "home_team": "Stanton Ilkeston Stallions U13",
       "away_team": "Mapperley All Stars Blue U13",
-      "venue": "Gallows Inn Playing Fields DE7 5BB",
+      "venue": "Windsor Crescent DE7 4HD",
       "division": "U13 Sat YEL Foundation Shield",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Mapperley All Stars Blue U13",
@@ -420,6 +394,40 @@
     }
   ],
   "results": [
+    {
+      "id": "26d4099b4c54c53bff30d00234daf38a",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Mapperley All Stars Blue U8",
+      "away_team": "DLFC Green U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sun Spring 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Mapperley All Stars Blue U8",
+      "home_away": "home",
+      "opponent": "DLFC Green U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "64ae14cd5fbab8ce5e6bee15ebffeefc",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Aspire FC U7",
+      "away_team": "Mapperley All Stars Yellow U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Mapperley All Stars Yellow U7",
+      "home_away": "away",
+      "opponent": "Aspire FC U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "8d6b505a2dea6f7dcef1cbc2dad21eff",
       "date": "2026-03-29",

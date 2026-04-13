@@ -1,19 +1,8 @@
 {
   "team": "Nottingham FC Green U8",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "0fdb927f22d2b299689eb4a6b5e47b27",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Nottingham FC Green U8",
-      "away_team": "Gonerby FC Yellow U8",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U8 Sun Spring 4 Blue",
-      "home_away": "home",
-      "opponent": "Gonerby FC Yellow U8"
-    },
     {
       "id": "d32f71d1ddbb0db9e28e410285f9db2d",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0fdb927f22d2b299689eb4a6b5e47b27",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Nottingham FC Green U8",
+      "away_team": "Gonerby FC Yellow U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sun Spring 4 Blue",
+      "home_away": "home",
+      "opponent": "Gonerby FC Yellow U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "ad12aa50fca778c1c6e66bbc67aebb70",
       "date": "2026-03-22",

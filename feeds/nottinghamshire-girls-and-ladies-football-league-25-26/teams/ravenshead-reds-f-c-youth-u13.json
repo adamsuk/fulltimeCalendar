@@ -1,19 +1,8 @@
 {
   "team": "Ravenshead Reds F.C. Youth U13",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "583e81da834223ae55e667ded3739a1c",
-      "date": "2026-04-12",
-      "time": "11:30",
-      "home_team": "Meden Vale Colts F.C. U13 Girls",
-      "away_team": "Ravenshead Reds F.C. Youth U13",
-      "venue": "CARR LANE PARK",
-      "division": "U13 Div 3 9 v 9",
-      "home_away": "away",
-      "opponent": "Meden Vale Colts F.C. U13 Girls"
-    },
     {
       "id": "5c6d043c5fa1c49a1b8482d9f1458754",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "583e81da834223ae55e667ded3739a1c",
+      "date": "2026-04-12",
+      "time": "11:30",
+      "home_team": "Meden Vale Colts F.C. U13 Girls",
+      "away_team": "Ravenshead Reds F.C. Youth U13",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Div 3 9 v 9",
+      "home_away": "away",
+      "opponent": "Meden Vale Colts F.C. U13 Girls",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "b8dac26fbe588a8201559684be58c863",
       "date": "2026-03-22",

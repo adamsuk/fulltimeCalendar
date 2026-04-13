@@ -1,23 +1,12 @@
 {
   "team": "Priory Celtic F.C. U13 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "48b3b0fb1aa3129a67422015d0c9221b",
-      "date": "2026-04-12",
-      "time": "11:30",
-      "home_team": "Priory Celtic F.C. U13 Girls",
-      "away_team": "Southwell City FC U13 All Whites",
-      "venue": "THE KIMBERLEY SCHOOL",
-      "division": "U13 Div 1 11 v 11",
-      "home_away": "home",
-      "opponent": "Southwell City FC U13 All Whites"
-    },
     {
       "id": "d82dfe6a40b1865e70c9f74af4e44d51",
       "date": "2026-04-19",
-      "time": "11:30",
+      "time": "09:30",
       "home_team": "Priory Celtic F.C. U13 Girls",
       "away_team": "Shardlow St. James U13 Jets Girls",
       "venue": "THE KIMBERLEY SCHOOL",
@@ -39,19 +28,34 @@
   ],
   "results": [
     {
+      "id": "48b3b0fb1aa3129a67422015d0c9221b",
+      "date": "2026-04-12",
+      "time": "11:30",
+      "home_team": "Priory Celtic F.C. U13 Girls",
+      "away_team": "Southwell City FC U13 All Whites",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Div 1 11 v 11",
+      "home_away": "home",
+      "opponent": "Southwell City FC U13 All Whites",
+      "goals_for": 0,
+      "goals_against": 3
+    },
+    {
       "id": "071f191bbb9a651f59491f1d91316408",
       "date": "2026-03-22",
       "time": "10:00",
       "home_team": "Shardlow St. James U13 Jets Girls",
       "away_team": "Priory Celtic F.C. U13 Girls",
-      "home_score": 5,
-      "away_score": 1,
+      "home_score": 1,
+      "away_score": 5,
       "venue": "",
       "division": "U13 Div 1 11 v 11",
       "home_away": "away",
       "opponent": "Shardlow St. James U13 Jets Girls",
-      "goals_for": 1,
-      "goals_against": 5
+      "goals_for": 5,
+      "goals_against": 1
     },
     {
       "id": "1e07eb9332f1394203e96462901d616b",

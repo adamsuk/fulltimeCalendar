@@ -1,19 +1,8 @@
 {
   "team": "Langwith Whitestar U12 United",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "ff96075207f105811c5bd650f7d0480b",
-      "date": "2026-04-12",
-      "time": "11:30",
-      "home_team": "Langwith Whitestar U12 United",
-      "away_team": "Ollerton Town Community FC U12 Girls",
-      "venue": "Langwith Whitestar U12 United",
-      "division": "U12 Div 2 P2",
-      "home_away": "home",
-      "opponent": "Ollerton Town Community FC U12 Girls"
-    },
     {
       "id": "dcb71320af461c651f6dd2d6d165b776",
       "date": "2026-04-19",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ff96075207f105811c5bd650f7d0480b",
+      "date": "2026-04-12",
+      "time": "11:30",
+      "home_team": "Langwith Whitestar U12 United",
+      "away_team": "Ollerton Town Community FC U12 Girls",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Div 2 P2",
+      "home_away": "home",
+      "opponent": "Ollerton Town Community FC U12 Girls",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "02df4fd87bb8e8d436f6d0d1928ac28b",
       "date": "2026-03-29",

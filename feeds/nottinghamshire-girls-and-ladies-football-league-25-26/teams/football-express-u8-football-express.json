@@ -1,19 +1,8 @@
 {
   "team": "Football Express U8 Football Express",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "565518acc0fbe1da7da992c3287e9f38",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Castle Donington U8 Diamonds",
-      "away_team": "Football Express U8 Football Express",
-      "venue": "Castle Donington U8 Diamonds",
-      "division": "U8 Development",
-      "home_away": "away",
-      "opponent": "Castle Donington U8 Diamonds"
-    },
     {
       "id": "9bfff6e5c98040f02200816cf2ba8793",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "565518acc0fbe1da7da992c3287e9f38",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Castle Donington U8 Diamonds",
+      "away_team": "Football Express U8 Football Express",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Development",
+      "home_away": "away",
+      "opponent": "Castle Donington U8 Diamonds",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "7c86035841aa0c57f7dbd26b29cbcb8b",
       "date": "2026-03-22",

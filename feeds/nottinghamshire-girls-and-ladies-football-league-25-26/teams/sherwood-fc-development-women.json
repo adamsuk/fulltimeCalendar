@@ -1,19 +1,8 @@
 {
   "team": "Sherwood FC Development Women",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "f069f1bbd71741d677bd03f2dc2b2086",
-      "date": "2026-04-12",
-      "time": "10:30",
-      "home_team": "Sherwood FC Development Women",
-      "away_team": "Gedling Southbank FC Ladies",
-      "venue": "MELBOURNE PARK",
-      "division": "Seniors Div 2",
-      "home_away": "home",
-      "opponent": "Gedling Southbank FC Ladies"
-    },
     {
       "id": "68a3383d06f1dc48152fa3b4f7b5df38",
       "date": "2026-04-19",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f069f1bbd71741d677bd03f2dc2b2086",
+      "date": "2026-04-12",
+      "time": "10:30",
+      "home_team": "Sherwood FC Development Women",
+      "away_team": "Gedling Southbank FC Ladies",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "home_away": "home",
+      "opponent": "Gedling Southbank FC Ladies",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "7987307290f0ddb509416a1fa30437fe",
       "date": "2026-03-22",

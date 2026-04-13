@@ -1,19 +1,8 @@
 {
   "team": "Ruddington Village Black U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "7c927c7f90d43856b96d2cf5837d843c",
-      "date": "2026-04-12",
-      "time": "10:30",
-      "home_team": "Attenborough Colts Spartans U14",
-      "away_team": "Ruddington Village Black U14",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U14 Sun Spring Div 1 Gold",
-      "home_away": "away",
-      "opponent": "Attenborough Colts Spartans U14"
-    },
     {
       "id": "f7bd20ab9e83e03a0a59325621ff2f38",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7c927c7f90d43856b96d2cf5837d843c",
+      "date": "2026-04-12",
+      "time": "10:30",
+      "home_team": "Attenborough Colts Spartans U14",
+      "away_team": "Ruddington Village Black U14",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sun Spring Div 1 Gold",
+      "home_away": "away",
+      "opponent": "Attenborough Colts Spartans U14",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "a6635cab8418aaf5ac53867c200982ad",
       "date": "2026-03-22",

@@ -1,20 +1,7 @@
 {
   "club": "Broxtowe United FC Youth U18 Ladies",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "4ef21cc17bb779aaac945e4c4de8fce7",
-      "date": "2026-04-12",
-      "time": "10:30",
-      "home_team": "Broxtowe United F.C. Youth U18 Ladies",
-      "away_team": "Gedling Southbank FC U17 Red Devils",
-      "venue": "WEIRFIELDS RECREATION GROUND",
-      "division": "U18 Div 2 Phase 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Broxtowe United F.C. Youth U18 Ladies",
-      "home_away": "home",
-      "opponent": "Gedling Southbank FC U17 Red Devils"
-    },
     {
       "id": "a2b80a808c9ce3bba101e60fd4c235ab",
       "date": "2026-04-19",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "4ef21cc17bb779aaac945e4c4de8fce7",
+      "date": "2026-04-12",
+      "time": "10:30",
+      "home_team": "Broxtowe United F.C. Youth U18 Ladies",
+      "away_team": "Gedling Southbank FC U17 Red Devils",
+      "home_score": 2,
+      "away_score": 7,
+      "venue": "",
+      "division": "U18 Div 2 Phase 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Broxtowe United F.C. Youth U18 Ladies",
+      "home_away": "home",
+      "opponent": "Gedling Southbank FC U17 Red Devils",
+      "goals_for": 2,
+      "goals_against": 7
+    },
     {
       "id": "67ac3c93be408cb3e5a5cfd1c685ea8c",
       "date": "2026-03-22",

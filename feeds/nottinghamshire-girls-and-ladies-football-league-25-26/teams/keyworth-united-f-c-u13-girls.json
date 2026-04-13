@@ -1,23 +1,12 @@
 {
   "team": "Keyworth United F.C. U13 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "57599c78aee38dde957fe78a6c9d0e2b",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Keyworth United F.C. U13 Girls",
-      "away_team": "West Bridgford Colts U13 Lions",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "U13 Div 1 9 v 9",
-      "home_away": "home",
-      "opponent": "West Bridgford Colts U13 Lions"
-    },
     {
       "id": "aec7e6cddd02f11df21dc56aab2fa84c",
       "date": "2026-04-19",
-      "time": "10:00",
+      "time": "11:30",
       "home_team": "Keyworth United F.C. U13 Girls",
       "away_team": "Sandiacre Town Youth U13 Diamonds",
       "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
@@ -37,8 +26,8 @@
       "opponent": "Stapleford Town FC U13 Girls"
     },
     {
-      "id": "8605c6d6aea90bf1ee8964b3f9b97d40",
-      "date": "2026-04-26",
+      "id": "cd2de9b222ae912c9b6e2853557fdf33",
+      "date": "2026-05-01",
       "time": "13:00",
       "home_team": "Mansfield Town F.C. Girls U13",
       "away_team": "Keyworth United F.C. U13 Girls",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "57599c78aee38dde957fe78a6c9d0e2b",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Keyworth United F.C. U13 Girls",
+      "away_team": "West Bridgford Colts U13 Lions",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Div 1 9 v 9",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U13 Lions",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "ebcd5d60390e5db802d0bc4468726ad4",
       "date": "2026-03-22",

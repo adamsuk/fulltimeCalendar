@@ -1,19 +1,8 @@
 {
   "team": "Priory Celtic F.C. U16 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "91c753c33960f6f25a2759a920e64f88",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic FC U16 Girls",
-      "away_team": "Priory Celtic F.C. U16 Girls",
-      "venue": "BINGHAM ROAD PLAYING FIELDS",
-      "division": "U16 Div 2",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic FC U16 Girls"
-    },
     {
       "id": "c581b41f4e46360a45d3146cbea2e2c9",
       "date": "2026-04-19",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "91c753c33960f6f25a2759a920e64f88",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic FC U16 Girls",
+      "away_team": "Priory Celtic F.C. U16 Girls",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U16 Div 2",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC U16 Girls",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "c70895ff968fb64e07feecb6eff054ce",
       "date": "2026-03-22",

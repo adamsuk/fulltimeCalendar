@@ -1,19 +1,8 @@
 {
   "team": "Silva FC Southglade Grey U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "3db00df3de5be948ec0d002d4375c46a",
-      "date": "2026-04-12",
-      "time": "12:00",
-      "home_team": "Gedling Southbank White U13",
-      "away_team": "Silva FC Southglade Grey U13",
-      "venue": "Redhill Leisure Centre NG5 8GX",
-      "division": "U13 Sun Spring Div 4 Blue",
-      "home_away": "away",
-      "opponent": "Gedling Southbank White U13"
-    },
     {
       "id": "04e2d7d769bade49af4acd65e28572cc",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "3db00df3de5be948ec0d002d4375c46a",
+      "date": "2026-04-12",
+      "time": "12:00",
+      "home_team": "Gedling Southbank White U13",
+      "away_team": "Silva FC Southglade Grey U13",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sun Spring Div 4 Blue",
+      "home_away": "away",
+      "opponent": "Gedling Southbank White U13",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "4b1eeaa90c45576ea00c286433a95ae8",
       "date": "2026-03-22",

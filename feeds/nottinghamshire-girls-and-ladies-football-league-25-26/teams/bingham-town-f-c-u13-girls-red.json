@@ -1,19 +1,8 @@
 {
   "team": "Bingham Town F.C. U13 Girls Red",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "a3f1c2a25140eb6110b4019ab40cf937",
-      "date": "2026-04-12",
-      "time": "11:30",
-      "home_team": "Bingham Town F.C. U13 Girls Red",
-      "away_team": "Basford United F.C. U13 Girls",
-      "venue": "BUTT FIELD SPORTS CLUB",
-      "division": "U13 Div 3 9 v 9",
-      "home_away": "home",
-      "opponent": "Basford United F.C. U13 Girls"
-    },
     {
       "id": "a978d0ee03fee8186239466ad952d247",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a3f1c2a25140eb6110b4019ab40cf937",
+      "date": "2026-04-12",
+      "time": "11:30",
+      "home_team": "Bingham Town F.C. U13 Girls Red",
+      "away_team": "Basford United F.C. U13 Girls",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U13 Div 3 9 v 9",
+      "home_away": "home",
+      "opponent": "Basford United F.C. U13 Girls",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "6cc5bca41c82e9bd275689a1f50278ac",
       "date": "2026-03-22",

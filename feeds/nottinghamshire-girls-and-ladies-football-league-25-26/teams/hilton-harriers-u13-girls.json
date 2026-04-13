@@ -1,18 +1,18 @@
 {
   "team": "Hilton Harriers U13 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
     {
-      "id": "2ecb2bb83f532c67aed7e7f62dffac34",
-      "date": "2026-04-12",
-      "time": "14:00",
+      "id": "75556ba9ca577caaa143b09e58a80a0a",
+      "date": "2026-04-19",
+      "time": "10:00",
       "home_team": "Hilton Harriers U13 Girls",
-      "away_team": "Stapleford Town FC U13 Girls",
+      "away_team": "Mansfield Town F.C. Girls U13",
       "venue": "THE MEASE PAVILION - HILTON HARRIERS FC",
       "division": "U13 Div 1 9 v 9",
       "home_away": "home",
-      "opponent": "Stapleford Town FC U13 Girls"
+      "opponent": "Mansfield Town F.C. Girls U13"
     },
     {
       "id": "98a728f161959bfc635d9547d685d668",
@@ -57,20 +57,24 @@
       "division": "U13 Div 1 9 v 9",
       "home_away": "away",
       "opponent": "Mansfield Town F.C. Girls U13"
-    },
-    {
-      "id": "f650e8da0889a69dbd1a3c268cd524d7",
-      "date": "2026-05-24",
-      "time": "10:00",
-      "home_team": "Hilton Harriers U13 Girls",
-      "away_team": "Mansfield Town F.C. Girls U13",
-      "venue": "THE MEASE PAVILION - HILTON HARRIERS FC",
-      "division": "U13 Div 1 9 v 9",
-      "home_away": "home",
-      "opponent": "Mansfield Town F.C. Girls U13"
     }
   ],
   "results": [
+    {
+      "id": "2ecb2bb83f532c67aed7e7f62dffac34",
+      "date": "2026-04-12",
+      "time": "14:00",
+      "home_team": "Hilton Harriers U13 Girls",
+      "away_team": "Stapleford Town FC U13 Girls",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Div 1 9 v 9",
+      "home_away": "home",
+      "opponent": "Stapleford Town FC U13 Girls",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "3b6ab547bccb1a9642e61c57ce255042",
       "date": "2026-03-15",

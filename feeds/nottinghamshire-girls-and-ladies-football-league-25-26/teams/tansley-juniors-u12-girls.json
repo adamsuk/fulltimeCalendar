@@ -1,19 +1,8 @@
 {
   "team": "Tansley Juniors U12 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "ce56b21e7c2c2ff2e4bb786e3b39e77f",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Clipstone Welfare Colts F.C. Youth U12",
-      "away_team": "Tansley Juniors U12 Girls",
-      "venue": "CLIPSTONE MINERS WELFARE (THE LIDO GROUND)",
-      "division": "U12 Div 5 P2",
-      "home_away": "away",
-      "opponent": "Clipstone Welfare Colts F.C. Youth U12"
-    },
     {
       "id": "919e098027722c595554150173f6ec30",
       "date": "2026-04-19",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ce56b21e7c2c2ff2e4bb786e3b39e77f",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Clipstone Welfare Colts F.C. Youth U12",
+      "away_team": "Tansley Juniors U12 Girls",
+      "home_score": 12,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Div 5 P2",
+      "home_away": "away",
+      "opponent": "Clipstone Welfare Colts F.C. Youth U12",
+      "goals_for": 0,
+      "goals_against": 12
+    },
     {
       "id": "931c482462dbde5a744ec63b5f22b4bc",
       "date": "2026-03-08",

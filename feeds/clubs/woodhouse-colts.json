@@ -1,20 +1,7 @@
 {
   "club": "Woodhouse Colts",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "1a8b16c6f22046dc100b6ff9e413b04b",
-      "date": "2026-04-12",
-      "time": "11:30",
-      "home_team": "Woodhouse Colts F.C. U13 Athena",
-      "away_team": "Arnold Eagles F.C. Girls U13 Kites",
-      "venue": "FOREST TOWN ARENA",
-      "division": "U13 Div 2 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Woodhouse Colts F.C. U13 Athena",
-      "home_away": "home",
-      "opponent": "Arnold Eagles F.C. Girls U13 Kites"
-    },
     {
       "id": "a35f32ec09e740d8a727fa1617831378",
       "date": "2026-04-18",
@@ -144,6 +131,19 @@
       "team": "Woodhouse Colts Rhinos U12",
       "home_away": "home",
       "opponent": "Newton & Blackwell U12"
+    },
+    {
+      "id": "abe09d37aa37f70b501668fb84191776",
+      "date": "2026-04-19",
+      "time": "10:30",
+      "home_team": "West Bridgford Colts U13 Tigers",
+      "away_team": "Woodhouse Colts F.C. U13 Athena",
+      "venue": "REGATTA WAY SPORTS GROUND",
+      "division": "U13 Div 2 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Woodhouse Colts F.C. U13 Athena",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U13 Tigers"
     },
     {
       "id": "f9f9ba3a059ddd1f63406bd7b68adb87",
@@ -313,22 +313,26 @@
       "team": "Woodhouse Colts Yellow U12",
       "home_away": "away",
       "opponent": "ASFC U12"
-    },
-    {
-      "id": "496c57fd52bcdecddddebcd536f98469",
-      "date": "2026-05-03",
-      "time": "10:30",
-      "home_team": "West Bridgford Colts U13 Tigers",
-      "away_team": "Woodhouse Colts F.C. U13 Athena",
-      "venue": "REGATTA WAY SPORTS GROUND",
-      "division": "U13 Div 2 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Woodhouse Colts F.C. U13 Athena",
-      "home_away": "away",
-      "opponent": "West Bridgford Colts U13 Tigers"
     }
   ],
   "results": [
+    {
+      "id": "1a8b16c6f22046dc100b6ff9e413b04b",
+      "date": "2026-04-12",
+      "time": "11:30",
+      "home_team": "Woodhouse Colts F.C. U13 Athena",
+      "away_team": "Arnold Eagles F.C. Girls U13 Kites",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Div 2 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Woodhouse Colts F.C. U13 Athena",
+      "home_away": "home",
+      "opponent": "Arnold Eagles F.C. Girls U13 Kites",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "725d20e6b03225a04f9c5f3995e48135",
       "date": "2026-04-11",

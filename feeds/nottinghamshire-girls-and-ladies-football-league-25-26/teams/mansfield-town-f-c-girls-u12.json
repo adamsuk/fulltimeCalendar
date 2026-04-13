@@ -1,23 +1,12 @@
 {
   "team": "Mansfield Town F.C. Girls U12",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "ed7108f8ab6e371c9c1f0487f76810e0",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Cotgrave FC U12 Girls",
-      "away_team": "Mansfield Town F.C. Girls U12",
-      "venue": "ARTHUR RIDLEY SPORTS GROUND",
-      "division": "U12 Div 1 P2",
-      "home_away": "away",
-      "opponent": "Cotgrave FC U12 Girls"
-    },
     {
       "id": "e62a3229ac49158f9a1c452e50b8c669",
       "date": "2026-04-19",
-      "time": "10:00",
+      "time": "11:30",
       "home_team": "Arnold Eagles F.C. Girls U12 FC",
       "away_team": "Mansfield Town F.C. Girls U12",
       "venue": "CALVERTON MINERS WELFARE TRUST",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ed7108f8ab6e371c9c1f0487f76810e0",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Cotgrave FC U12 Girls",
+      "away_team": "Mansfield Town F.C. Girls U12",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U12 Div 1 P2",
+      "home_away": "away",
+      "opponent": "Cotgrave FC U12 Girls",
+      "goals_for": 5,
+      "goals_against": 0
+    },
     {
       "id": "a0bef6d5ab1742f73b20e7bfb724ea70",
       "date": "2026-03-22",

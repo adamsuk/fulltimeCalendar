@@ -1,20 +1,7 @@
 {
   "club": "Canoville FC",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "1deeeed72e42251ed779f26d2a1d7a92",
-      "date": "2026-04-12",
-      "time": "09:30",
-      "home_team": "Radcliffe Olympic FC U13 Ravens",
-      "away_team": "Canoville FC U13 FC Bulldogs",
-      "venue": "BINGHAM ROAD PLAYING FIELDS",
-      "division": "U13 Div 1 11 v 11",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Canoville FC U13 FC Bulldogs",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic FC U13 Ravens"
-    },
     {
       "id": "b5fcc52bc42847394b1a2cec2062ad6c",
       "date": "2026-04-18",
@@ -134,6 +121,23 @@
     }
   ],
   "results": [
+    {
+      "id": "1deeeed72e42251ed779f26d2a1d7a92",
+      "date": "2026-04-12",
+      "time": "09:30",
+      "home_team": "Radcliffe Olympic FC U13 Ravens",
+      "away_team": "Canoville FC U13 FC Bulldogs",
+      "home_score": 1,
+      "away_score": 8,
+      "venue": "",
+      "division": "U13 Div 1 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Canoville FC U13 FC Bulldogs",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC U13 Ravens",
+      "goals_for": 8,
+      "goals_against": 1
+    },
     {
       "id": "3cf1c16292f2a968c91df3483f0bd8e5",
       "date": "2026-04-11",

@@ -1,6 +1,6 @@
 {
   "club": "Clipstone Welfare",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
     {
       "id": "4aeb9b46959fec64d6b8987e877b88e3",
@@ -14,19 +14,6 @@
       "team": "Clipstone Welfare Colts F.C. Youth U12",
       "home_away": "away",
       "opponent": "Phoenix Inham F.C. U12 Sparkles"
-    },
-    {
-      "id": "ce56b21e7c2c2ff2e4bb786e3b39e77f",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Clipstone Welfare Colts F.C. Youth U12",
-      "away_team": "Tansley Juniors U12 Girls",
-      "venue": "CLIPSTONE MINERS WELFARE (THE LIDO GROUND)",
-      "division": "U12 Div 5 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Clipstone Welfare Colts F.C. Youth U12",
-      "home_away": "home",
-      "opponent": "Tansley Juniors U12 Girls"
     },
     {
       "id": "bb3571f1696d37b0f3481d798f60fbda",
@@ -82,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "ce56b21e7c2c2ff2e4bb786e3b39e77f",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Clipstone Welfare Colts F.C. Youth U12",
+      "away_team": "Tansley Juniors U12 Girls",
+      "home_score": 12,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Div 5 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clipstone Welfare Colts F.C. Youth U12",
+      "home_away": "home",
+      "opponent": "Tansley Juniors U12 Girls",
+      "goals_for": 12,
+      "goals_against": 0
+    },
     {
       "id": "143a2f08c16cebae697c5f937ab62005",
       "date": "2026-03-22",

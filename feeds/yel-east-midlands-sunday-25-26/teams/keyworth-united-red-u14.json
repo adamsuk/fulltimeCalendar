@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United Red U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "b4ed8caf05d49475bbe661d13503784c",
-      "date": "2026-04-12",
-      "time": "10:30",
-      "home_team": "ATFA Brinsley Warriors U14",
-      "away_team": "Keyworth United Red U14",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U14 Sun Spring Div 5",
-      "home_away": "away",
-      "opponent": "ATFA Brinsley Warriors U14"
-    },
     {
       "id": "d8d3cee7817f1422ab858149e17eb832",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b4ed8caf05d49475bbe661d13503784c",
+      "date": "2026-04-12",
+      "time": "10:30",
+      "home_team": "ATFA Brinsley Warriors U14",
+      "away_team": "Keyworth United Red U14",
+      "home_score": 0,
+      "away_score": 10,
+      "venue": "",
+      "division": "U14 Sun Spring Div 5",
+      "home_away": "away",
+      "opponent": "ATFA Brinsley Warriors U14",
+      "goals_for": 10,
+      "goals_against": 0
+    },
     {
       "id": "c760019e1caab5286e08805cc21f6177",
       "date": "2026-03-22",

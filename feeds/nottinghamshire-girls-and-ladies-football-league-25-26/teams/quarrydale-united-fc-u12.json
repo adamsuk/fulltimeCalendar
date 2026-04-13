@@ -1,19 +1,8 @@
 {
   "team": "Quarrydale United FC U12",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "077fb164193e63372ec2f0b2cbd83600",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Quarrydale United FC U12",
-      "away_team": "Sherwood Colliery F.C. Ladies U12 Black",
-      "venue": "Quarrydale United FC U12 Quarrydale Unit",
-      "division": "U12 Div 5 P2",
-      "home_away": "home",
-      "opponent": "Sherwood Colliery F.C. Ladies U12 Black"
-    },
     {
       "id": "bb3571f1696d37b0f3481d798f60fbda",
       "date": "2026-04-19",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "077fb164193e63372ec2f0b2cbd83600",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Quarrydale United FC U12",
+      "away_team": "Sherwood Colliery F.C. Ladies U12 Black",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 5 P2",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery F.C. Ladies U12 Black",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "fbcb0f659567acd7c1b037630d88a553",
       "date": "2026-03-08",

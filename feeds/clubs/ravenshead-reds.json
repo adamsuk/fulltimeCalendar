@@ -1,33 +1,7 @@
 {
   "club": "Ravenshead Reds",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "4392633f0c793de2a317e1bbb4079356",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Ravenshead Reds Red Arrows U7",
-      "away_team": "Selston FC U7",
-      "venue": "Ravenshead leisure Centre NG15 9AG",
-      "division": "U7 Sun Spring Green",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ravenshead Reds Red Arrows U7",
-      "home_away": "home",
-      "opponent": "Selston FC U7"
-    },
-    {
-      "id": "16cfbdab779c1aeee995cb99e433a008",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Ravenshead Reds F.C. Youth U9",
-      "away_team": "Hucknall & Linby Harriers FC U9",
-      "venue": "Ravenshead Reds F.C. Youth U9 (SUN )GIRL",
-      "division": "U9 Development",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ravenshead Reds F.C. Youth U9",
-      "home_away": "home",
-      "opponent": "Hucknall & Linby Harriers FC U9"
-    },
     {
       "id": "22a153c2abbf9955f3c064cc27494143",
       "date": "2026-04-12",
@@ -40,32 +14,6 @@
       "team": "Ravenshead Reds FC",
       "home_away": "home",
       "opponent": "Stapleford Town FC Ladies"
-    },
-    {
-      "id": "583e81da834223ae55e667ded3739a1c",
-      "date": "2026-04-12",
-      "time": "11:30",
-      "home_team": "Meden Vale Colts F.C. U13 Girls",
-      "away_team": "Ravenshead Reds F.C. Youth U13",
-      "venue": "CARR LANE PARK",
-      "division": "U13 Div 3 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ravenshead Reds F.C. Youth U13",
-      "home_away": "away",
-      "opponent": "Meden Vale Colts F.C. U13 Girls"
-    },
-    {
-      "id": "c8ba237f6d74442b12a9c114fdb935f7",
-      "date": "2026-04-12",
-      "time": "11:30",
-      "home_team": "Ravenshead Reds F.C. Youth U14",
-      "away_team": "Riverside Junior U14 Rubies",
-      "venue": "THE SUMMIT CENTRE",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ravenshead Reds F.C. Youth U14",
-      "home_away": "home",
-      "opponent": "Riverside Junior U14 Rubies"
     },
     {
       "id": "ec6ee5ba4fef06a72e9f6cdefc1dba9e",
@@ -222,6 +170,19 @@
       "team": "Ravenshead Reds U9",
       "home_away": "away",
       "opponent": "Lowdham FC U9"
+    },
+    {
+      "id": "ac8aee7b8f18ccf8a6c5910394489f81",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Ravenshead Reds F.C. Youth U12",
+      "away_team": "Matlock Town Junior U12 Girls Gladiators",
+      "venue": "Ravenshead Reds F.C. Youth U12 (SUN) GIR",
+      "division": "U12 Div 5 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ravenshead Reds F.C. Youth U12",
+      "home_away": "home",
+      "opponent": "Matlock Town Junior U12 Girls Gladiators"
     },
     {
       "id": "ff2300b3610d358904db1161de6224f7",
@@ -628,6 +589,74 @@
     }
   ],
   "results": [
+    {
+      "id": "583e81da834223ae55e667ded3739a1c",
+      "date": "2026-04-12",
+      "time": "11:30",
+      "home_team": "Meden Vale Colts F.C. U13 Girls",
+      "away_team": "Ravenshead Reds F.C. Youth U13",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Div 3 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ravenshead Reds F.C. Youth U13",
+      "home_away": "away",
+      "opponent": "Meden Vale Colts F.C. U13 Girls",
+      "goals_for": 0,
+      "goals_against": 2
+    },
+    {
+      "id": "c8ba237f6d74442b12a9c114fdb935f7",
+      "date": "2026-04-12",
+      "time": "11:30",
+      "home_team": "Ravenshead Reds F.C. Youth U14",
+      "away_team": "Riverside Junior U14 Rubies",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ravenshead Reds F.C. Youth U14",
+      "home_away": "home",
+      "opponent": "Riverside Junior U14 Rubies",
+      "goals_for": 0,
+      "goals_against": 4
+    },
+    {
+      "id": "4392633f0c793de2a317e1bbb4079356",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Ravenshead Reds Red Arrows U7",
+      "away_team": "Selston FC U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring Green",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ravenshead Reds Red Arrows U7",
+      "home_away": "home",
+      "opponent": "Selston FC U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "16cfbdab779c1aeee995cb99e433a008",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Ravenshead Reds F.C. Youth U9",
+      "away_team": "Hucknall & Linby Harriers FC U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ravenshead Reds F.C. Youth U9",
+      "home_away": "home",
+      "opponent": "Hucknall & Linby Harriers FC U9",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "2d1fbcad4b2d658848b6860b85bee1fb",
       "date": "2026-04-11",

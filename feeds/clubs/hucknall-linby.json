@@ -1,6 +1,6 @@
 {
   "club": "Hucknall & Linby",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
     {
       "id": "7102956156fa8e2bb4104bfe24b25f0d",
@@ -14,58 +14,6 @@
       "team": "Hucknall & Linby Harriers FC U12",
       "home_away": "home",
       "opponent": "Burton Joyce F.C. Girls U12 Olympians"
-    },
-    {
-      "id": "a4337321ca49f9a392f7fbe994785799",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Newark Town FC U12 Girls",
-      "away_team": "Hucknall & Linby Harriers FC U12 Jets",
-      "venue": "DEVON PARK",
-      "division": "U12 Div 3 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Hucknall & Linby Harriers FC U12 Jets",
-      "home_away": "away",
-      "opponent": "Newark Town FC U12 Girls"
-    },
-    {
-      "id": "e8814218a132500be3e45f80c4dc48d4",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Hucknall & Linby Harriers FC U15",
-      "away_team": "Keyworth United F.C. U15 Predators",
-      "venue": "HOLGATE ACADEMY",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Hucknall & Linby Harriers FC U15",
-      "home_away": "home",
-      "opponent": "Keyworth United F.C. U15 Predators"
-    },
-    {
-      "id": "16cfbdab779c1aeee995cb99e433a008",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Ravenshead Reds F.C. Youth U9",
-      "away_team": "Hucknall & Linby Harriers FC U9",
-      "venue": "Ravenshead Reds F.C. Youth U9 (SUN )GIRL",
-      "division": "U9 Development",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Hucknall & Linby Harriers FC U9",
-      "home_away": "away",
-      "opponent": "Ravenshead Reds F.C. Youth U9"
-    },
-    {
-      "id": "533b60b4e6368d0aabe27b6f4b18bf30",
-      "date": "2026-04-12",
-      "time": "12:15",
-      "home_team": "West Bridgford Colts U14 Pacific",
-      "away_team": "Hucknall & Linby Harriers FC U14",
-      "venue": "GRESHAM SPORTS PARK",
-      "division": "U14 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Hucknall & Linby Harriers FC U14",
-      "home_away": "away",
-      "opponent": "West Bridgford Colts U14 Pacific"
     },
     {
       "id": "5fdc9d45151f01a52710bf89d829b11f",
@@ -94,19 +42,6 @@
       "opponent": "Sandiacre Town Youth U12 Panthers Girls"
     },
     {
-      "id": "bd1bc99fa89e93934fb00498ca4f6d81",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Bingham Town F.C. U12 Girls Red",
-      "away_team": "Hucknall & Linby Harriers FC U12 Jets",
-      "venue": "BUTT FIELD SPORTS CLUB",
-      "division": "U12 Div 3 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Hucknall & Linby Harriers FC U12 Jets",
-      "home_away": "away",
-      "opponent": "Bingham Town F.C. U12 Girls Red"
-    },
-    {
       "id": "7937b7c34c3a88a4e2a3411c861300c5",
       "date": "2026-04-19",
       "time": "10:00",
@@ -118,6 +53,19 @@
       "team": "Hucknall & Linby Harriers FC U13",
       "home_away": "home",
       "opponent": "Robin Hood Colts FC Youth U13"
+    },
+    {
+      "id": "bd1bc99fa89e93934fb00498ca4f6d81",
+      "date": "2026-04-19",
+      "time": "11:30",
+      "home_team": "Bingham Town F.C. U12 Girls Red",
+      "away_team": "Hucknall & Linby Harriers FC U12 Jets",
+      "venue": "BUTT FIELD SPORTS CLUB",
+      "division": "U12 Div 3 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall & Linby Harriers FC U12 Jets",
+      "home_away": "away",
+      "opponent": "Bingham Town F.C. U12 Girls Red"
     },
     {
       "id": "67815c80d9988f2d471c025298971436",
@@ -342,6 +290,74 @@
     }
   ],
   "results": [
+    {
+      "id": "533b60b4e6368d0aabe27b6f4b18bf30",
+      "date": "2026-04-12",
+      "time": "12:15",
+      "home_team": "West Bridgford Colts U14 Pacific",
+      "away_team": "Hucknall & Linby Harriers FC U14",
+      "home_score": 1,
+      "away_score": 7,
+      "venue": "",
+      "division": "U14 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall & Linby Harriers FC U14",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U14 Pacific",
+      "goals_for": 7,
+      "goals_against": 1
+    },
+    {
+      "id": "a4337321ca49f9a392f7fbe994785799",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Newark Town FC U12 Girls",
+      "away_team": "Hucknall & Linby Harriers FC U12 Jets",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Div 3 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall & Linby Harriers FC U12 Jets",
+      "home_away": "away",
+      "opponent": "Newark Town FC U12 Girls",
+      "goals_for": 4,
+      "goals_against": 0
+    },
+    {
+      "id": "e8814218a132500be3e45f80c4dc48d4",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Hucknall & Linby Harriers FC U15",
+      "away_team": "Keyworth United F.C. U15 Predators",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall & Linby Harriers FC U15",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U15 Predators",
+      "goals_for": 5,
+      "goals_against": 0
+    },
+    {
+      "id": "16cfbdab779c1aeee995cb99e433a008",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Ravenshead Reds F.C. Youth U9",
+      "away_team": "Hucknall & Linby Harriers FC U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall & Linby Harriers FC U9",
+      "home_away": "away",
+      "opponent": "Ravenshead Reds F.C. Youth U9",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "2de7760df0dc696cb4e9ca739ae6a71f",
       "date": "2026-04-05",

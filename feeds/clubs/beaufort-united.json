@@ -1,20 +1,7 @@
 {
   "club": "Beaufort United",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "bc745e4b9a7b4aab0f02d1213ed8384d",
-      "date": "2026-04-12",
-      "time": "11:00",
-      "home_team": "Basford CFC Gold U8",
-      "away_team": "Beaufort United Reds U8",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U8 Sun Spring 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Beaufort United Reds U8",
-      "home_away": "away",
-      "opponent": "Basford CFC Gold U8"
-    },
     {
       "id": "cfc0545aba994f90ac3e83e689b7bea6",
       "date": "2026-04-14",
@@ -407,6 +394,23 @@
     }
   ],
   "results": [
+    {
+      "id": "bc745e4b9a7b4aab0f02d1213ed8384d",
+      "date": "2026-04-12",
+      "time": "11:00",
+      "home_team": "Basford CFC Gold U8",
+      "away_team": "Beaufort United Reds U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sun Spring 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Beaufort United Reds U8",
+      "home_away": "away",
+      "opponent": "Basford CFC Gold U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "71aaa53f8e517496c8094e0354d68b1e",
       "date": "2026-04-11",

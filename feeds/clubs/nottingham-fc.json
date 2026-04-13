@@ -1,20 +1,7 @@
 {
   "club": "Nottingham FC",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "0fdb927f22d2b299689eb4a6b5e47b27",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Nottingham FC Green U8",
-      "away_team": "Gonerby FC Yellow U8",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U8 Sun Spring 4 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Nottingham FC Green U8",
-      "home_away": "home",
-      "opponent": "Gonerby FC Yellow U8"
-    },
     {
       "id": "8051408102ccf9973fdcdfc43aaf2c82",
       "date": "2026-04-12",
@@ -27,19 +14,6 @@
       "team": "Nottingham F.C. Youth U14 Girls",
       "home_away": "away",
       "opponent": "Matlock Town Juniors U14 Spartans Girls"
-    },
-    {
-      "id": "213c957395843a2779868c5a524f610e",
-      "date": "2026-04-12",
-      "time": "10:30",
-      "home_team": "Woodlands Women U16 Greensocks",
-      "away_team": "Nottingham F.C. Youth U16 Diamonds",
-      "venue": "Woodlands Women U15 Greensocks",
-      "division": "U16 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Nottingham F.C. Youth U16 Diamonds",
-      "home_away": "away",
-      "opponent": "Woodlands Women U16 Greensocks"
     },
     {
       "id": "21761a8744c70738f64167ddd1615a03",
@@ -60,7 +34,7 @@
       "time": "18:00",
       "home_team": "Lowdham FC Garibaldi U12",
       "away_team": "Nottingham FC Green U12",
-      "venue": "Gunthorpe Playing Fields NG14 7EW",
+      "venue": "Epperstone Village Hall NG14 6AY",
       "division": "U12 Sat YEL Shield",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Nottingham FC Green U12",
@@ -315,6 +289,19 @@
       "opponent": "Hasland Community U14 Girls Sunday"
     },
     {
+      "id": "415088ca6dbf75a992002efbd69d6faf",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Nottingham F.C. Youth U16 Piranhas",
+      "away_team": "Brodsworth Welfare AFC- Warriors U16",
+      "venue": "BRODSWORTH MINERS WELFARE",
+      "division": "U16 Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Nottingham F.C. Youth U16 Piranhas",
+      "home_away": "home",
+      "opponent": "Brodsworth Welfare AFC- Warriors U16"
+    },
+    {
       "id": "cdbc7241da98ecb48097758441178c37",
       "date": "2026-04-19",
       "time": "12:00",
@@ -562,19 +549,6 @@
       "opponent": "Brodsworth Welfare AFC- Warriors U16"
     },
     {
-      "id": "3d35b805874a6ef13d261bcf5f143af4",
-      "date": "2026-04-26",
-      "time": "10:45",
-      "home_team": "Nottingham F.C. Youth U16 Piranhas",
-      "away_team": "Brodsworth Welfare AFC- Warriors U16",
-      "venue": "BRODSWORTH MINERS WELFARE",
-      "division": "U16 Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Nottingham F.C. Youth U16 Piranhas",
-      "home_away": "home",
-      "opponent": "Brodsworth Welfare AFC- Warriors U16"
-    },
-    {
       "id": "6b03bdae9fb2703d12f894a2dbba872e",
       "date": "2026-04-26",
       "time": "11:00",
@@ -732,6 +706,40 @@
     }
   ],
   "results": [
+    {
+      "id": "213c957395843a2779868c5a524f610e",
+      "date": "2026-04-12",
+      "time": "10:30",
+      "home_team": "Woodlands Women U16 Greensocks",
+      "away_team": "Nottingham F.C. Youth U16 Diamonds",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U16 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Nottingham F.C. Youth U16 Diamonds",
+      "home_away": "away",
+      "opponent": "Woodlands Women U16 Greensocks",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "0fdb927f22d2b299689eb4a6b5e47b27",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Nottingham FC Green U8",
+      "away_team": "Gonerby FC Yellow U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sun Spring 4 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Nottingham FC Green U8",
+      "home_away": "home",
+      "opponent": "Gonerby FC Yellow U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "c9f928b6dc64919dc5bd2e63d57e97da",
       "date": "2026-04-11",

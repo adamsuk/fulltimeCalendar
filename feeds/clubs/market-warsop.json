@@ -1,6 +1,6 @@
 {
   "club": "Market Warsop",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
     {
       "id": "235ff85e9dc174400d25db8f8bf4468c",
@@ -14,32 +14,6 @@
       "team": "Market Warsop Lions U8",
       "home_away": "home",
       "opponent": "DLFC Red U8"
-    },
-    {
-      "id": "87d866b2bb4f4fa9fd624b8ceaa72584",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Moorgreen Colts 1985 U7",
-      "away_team": "Market Warsop Mini Mavs U7",
-      "venue": "Birnham Pk A610 Estwd/Kim Bypss NG16 2DE",
-      "division": "U7 Sun Spring Green",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Market Warsop Mini Mavs U7",
-      "home_away": "away",
-      "opponent": "Moorgreen Colts 1985 U7"
-    },
-    {
-      "id": "6538ce0e0f3e927c2a931d46b4ab9869",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Cotgrave FC U9 White",
-      "away_team": "Market Warsop F.C. Youth U9 Wildcats",
-      "venue": "COTGRAVE WELFARE CLUB",
-      "division": "U9 Development",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Market Warsop F.C. Youth U9 Wildcats",
-      "home_away": "away",
-      "opponent": "Cotgrave FC U9 White"
     },
     {
       "id": "23d81d3a80e53d5653246b5a96eef398",
@@ -185,17 +159,17 @@
       "opponent": "Quarrydale United U10"
     },
     {
-      "id": "b13fddbb6064d7cee8f19986afb22eca",
+      "id": "7ad09b4e281ab2b113e90987aadda1c3",
       "date": "2026-04-19",
       "time": "10:30",
       "home_team": "Market Warsop F.C. Youth U14 Lionesses",
-      "away_team": "Beeston F.C. U14 Girls",
+      "away_team": "Keyworth United F.C. U14 Thunder",
       "venue": "THE JOHN FRETWELL SPORTING COMPLEX",
       "division": "U14 Div 1",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Market Warsop F.C. Youth U14 Lionesses",
       "home_away": "home",
-      "opponent": "Beeston F.C. U14 Girls"
+      "opponent": "Keyworth United F.C. U14 Thunder"
     },
     {
       "id": "c16dbdc92e4bf165d570aa3544313512",
@@ -419,20 +393,54 @@
       "opponent": "Blidworth Bengals U11"
     },
     {
-      "id": "36e0cd186d3cf86c9469b09e2a2fe188",
+      "id": "269a7122ab1837765a02b1b26145680c",
       "date": "2026-05-03",
-      "time": "10:30",
+      "time": "10:00",
       "home_team": "Market Warsop F.C. Youth U14 Lionesses",
-      "away_team": "Keyworth United F.C. U14 Thunder",
+      "away_team": "Beeston F.C. U14 Girls",
       "venue": "THE JOHN FRETWELL SPORTING COMPLEX",
       "division": "U14 Div 1",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Market Warsop F.C. Youth U14 Lionesses",
       "home_away": "home",
-      "opponent": "Keyworth United F.C. U14 Thunder"
+      "opponent": "Beeston F.C. U14 Girls"
     }
   ],
   "results": [
+    {
+      "id": "87d866b2bb4f4fa9fd624b8ceaa72584",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Moorgreen Colts 1985 U7",
+      "away_team": "Market Warsop Mini Mavs U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring Green",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Market Warsop Mini Mavs U7",
+      "home_away": "away",
+      "opponent": "Moorgreen Colts 1985 U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "6538ce0e0f3e927c2a931d46b4ab9869",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Cotgrave FC U9 White",
+      "away_team": "Market Warsop F.C. Youth U9 Wildcats",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Market Warsop F.C. Youth U9 Wildcats",
+      "home_away": "away",
+      "opponent": "Cotgrave FC U9 White",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "d71195bc734cbb09aef66ade29753ec6",
       "date": "2026-04-11",

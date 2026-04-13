@@ -1,20 +1,7 @@
 {
   "club": "Teversal FC",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "67c63624166a9d4de0f9f57399c8c0ac",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Teversal FC U13",
-      "away_team": "Castle Don Hawks U13",
-      "venue": "Peartree Lane NG17 3JP",
-      "division": "U13 Sun Spring Div 6",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Teversal FC U13",
-      "home_away": "home",
-      "opponent": "Castle Don Hawks U13"
-    },
     {
       "id": "2a94faf881daa32c27680337865a1107",
       "date": "2026-04-18",
@@ -173,6 +160,23 @@
     }
   ],
   "results": [
+    {
+      "id": "67c63624166a9d4de0f9f57399c8c0ac",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Teversal FC U13",
+      "away_team": "Castle Don Hawks U13",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sun Spring Div 6",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Teversal FC U13",
+      "home_away": "home",
+      "opponent": "Castle Don Hawks U13",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "182312cd066a27f4c5bf6d42447f2bb6",
       "date": "2026-03-28",

@@ -1,20 +1,7 @@
 {
   "club": "Outwoods U15 Falcons",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "47b563a49b3293eb1c9ba3b5b2c4d6f1",
-      "date": "2026-04-12",
-      "time": "14:30",
-      "home_team": "Mansfield Town F.C. Girls U15",
-      "away_team": "Outwoods U15 Falcons",
-      "venue": "RH ACADEMY",
-      "division": "U15 Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Outwoods U15 Falcons",
-      "home_away": "away",
-      "opponent": "Mansfield Town F.C. Girls U15"
-    },
     {
       "id": "53bc843dad2d9151a28c9fb840887012",
       "date": "2026-04-19",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "47b563a49b3293eb1c9ba3b5b2c4d6f1",
+      "date": "2026-04-12",
+      "time": "14:30",
+      "home_team": "Mansfield Town F.C. Girls U15",
+      "away_team": "Outwoods U15 Falcons",
+      "home_score": 1,
+      "away_score": 7,
+      "venue": "",
+      "division": "U15 Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Outwoods U15 Falcons",
+      "home_away": "away",
+      "opponent": "Mansfield Town F.C. Girls U15",
+      "goals_for": 7,
+      "goals_against": 1
+    },
     {
       "id": "dc6e0e4dcac2ae5d0b5fbd526fa16dd1",
       "date": "2026-03-22",

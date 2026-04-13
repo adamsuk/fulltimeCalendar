@@ -1,19 +1,8 @@
 {
   "team": "Hucknall & Linby Harriers FC U15",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "e8814218a132500be3e45f80c4dc48d4",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Hucknall & Linby Harriers FC U15",
-      "away_team": "Keyworth United F.C. U15 Predators",
-      "venue": "HOLGATE ACADEMY",
-      "division": "U15 Div 3",
-      "home_away": "home",
-      "opponent": "Keyworth United F.C. U15 Predators"
-    },
     {
       "id": "05bc8c160903fad89e25f194eeb7984e",
       "date": "2026-04-26",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e8814218a132500be3e45f80c4dc48d4",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Hucknall & Linby Harriers FC U15",
+      "away_team": "Keyworth United F.C. U15 Predators",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "U15 Div 3",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U15 Predators",
+      "goals_for": 5,
+      "goals_against": 0
+    },
     {
       "id": "7c812bcff0c88e6c3de6538f67ce65df",
       "date": "2026-03-22",

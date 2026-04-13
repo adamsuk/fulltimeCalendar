@@ -1,23 +1,12 @@
 {
   "team": "Hucknall & Linby Harriers FC U12 Jets",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "a4337321ca49f9a392f7fbe994785799",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Newark Town FC U12 Girls",
-      "away_team": "Hucknall & Linby Harriers FC U12 Jets",
-      "venue": "DEVON PARK",
-      "division": "U12 Div 3 P2",
-      "home_away": "away",
-      "opponent": "Newark Town FC U12 Girls"
-    },
     {
       "id": "bd1bc99fa89e93934fb00498ca4f6d81",
       "date": "2026-04-19",
-      "time": "10:00",
+      "time": "11:30",
       "home_team": "Bingham Town F.C. U12 Girls Red",
       "away_team": "Hucknall & Linby Harriers FC U12 Jets",
       "venue": "BUTT FIELD SPORTS CLUB",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a4337321ca49f9a392f7fbe994785799",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Newark Town FC U12 Girls",
+      "away_team": "Hucknall & Linby Harriers FC U12 Jets",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Div 3 P2",
+      "home_away": "away",
+      "opponent": "Newark Town FC U12 Girls",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "faa7c45afc5e67ce65022a7df2fe338d",
       "date": "2026-03-22",

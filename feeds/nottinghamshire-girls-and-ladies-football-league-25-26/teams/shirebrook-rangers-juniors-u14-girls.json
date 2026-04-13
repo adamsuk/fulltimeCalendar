@@ -1,19 +1,8 @@
 {
   "team": "Shirebrook Rangers & Juniors U14 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "efa83e0957ccfc59e5b311871b7b7fe2",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
-      "away_team": "Shirebrook Rangers & Juniors U14 Girls",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "U14 Div 3",
-      "home_away": "away",
-      "opponent": "Arnold Eagles F.C. Girls U14 Hurricanes"
-    },
     {
       "id": "5d277a31ecebc1b9bafa5bd36dd48d39",
       "date": "2026-04-19",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "efa83e0957ccfc59e5b311871b7b7fe2",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
+      "away_team": "Shirebrook Rangers & Juniors U14 Girls",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Div 3",
+      "home_away": "away",
+      "opponent": "Arnold Eagles F.C. Girls U14 Hurricanes",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "8c3a0f7a4c12ada74dd72068d0cd3c8a",
       "date": "2026-03-22",

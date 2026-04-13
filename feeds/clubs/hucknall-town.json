@@ -1,20 +1,7 @@
 {
   "club": "Hucknall Town",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "a85893eee13819801b4b3843a143d40d",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Hucknall Town Warriors Red U8",
-      "away_team": "Carlton Town Blue U8",
-      "venue": "Holgate Acdmy (Bottom Ent) NG15 6HB",
-      "division": "U8 Sun Spring 5 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Hucknall Town Warriors Red U8",
-      "home_away": "home",
-      "opponent": "Carlton Town Blue U8"
-    },
     {
       "id": "1ad3a66df9e2c39a11451d62ae9098a3",
       "date": "2026-04-12",
@@ -27,19 +14,6 @@
       "team": "Hucknall Town Warriors Y/W U8",
       "home_away": "away",
       "opponent": "G3A FC Miami U8"
-    },
-    {
-      "id": "b31a1913aaac4c4abc539fd33691894f",
-      "date": "2026-04-12",
-      "time": "14:00",
-      "home_team": "Hucknall Town FC Women",
-      "away_team": "Mansfield Town Ladies FC Development",
-      "venue": "HUCKNALL TOWN FOOTBALL CLUB",
-      "division": "Seniors Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Hucknall Town FC Women",
-      "home_away": "home",
-      "opponent": "Mansfield Town Ladies FC Development"
     },
     {
       "id": "92a463a1d0f17291eb8eacf3fb534fb3",
@@ -407,6 +381,40 @@
     }
   ],
   "results": [
+    {
+      "id": "b31a1913aaac4c4abc539fd33691894f",
+      "date": "2026-04-12",
+      "time": "14:00",
+      "home_team": "Hucknall Town FC Women",
+      "away_team": "Mansfield Town Ladies FC Development",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "Seniors Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall Town FC Women",
+      "home_away": "home",
+      "opponent": "Mansfield Town Ladies FC Development",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "a85893eee13819801b4b3843a143d40d",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Hucknall Town Warriors Red U8",
+      "away_team": "Carlton Town Blue U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sun Spring 5 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Hucknall Town Warriors Red U8",
+      "home_away": "home",
+      "opponent": "Carlton Town Blue U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "ea07c0b359816e01702a57d0d95f677b",
       "date": "2026-04-11",

@@ -1,19 +1,8 @@
 {
   "team": "Hemington Hammers All Stars U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "1553aed0fe00ad62d194a99c7f7b5aca",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Hemington Hammers All Stars U10",
-      "away_team": "Mansfield Town Grassroots U10",
-      "venue": "Hemington lane DE74 2RF",
-      "division": "U10 Sun Spring Div 1 Gold",
-      "home_away": "home",
-      "opponent": "Mansfield Town Grassroots U10"
-    },
     {
       "id": "1fd3f7142641df3940bd477f17feea0c",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "1553aed0fe00ad62d194a99c7f7b5aca",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Hemington Hammers All Stars U10",
+      "away_team": "Mansfield Town Grassroots U10",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sun Spring Div 1 Gold",
+      "home_away": "home",
+      "opponent": "Mansfield Town Grassroots U10",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "e77f22cb03ed993d459e9474c1dd7666",
       "date": "2026-03-22",

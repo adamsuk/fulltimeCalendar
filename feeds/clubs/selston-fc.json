@@ -1,33 +1,7 @@
 {
   "club": "Selston FC",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "4392633f0c793de2a317e1bbb4079356",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Ravenshead Reds Red Arrows U7",
-      "away_team": "Selston FC U7",
-      "venue": "Ravenshead leisure Centre NG15 9AG",
-      "division": "U7 Sun Spring Green",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Selston FC U7",
-      "home_away": "away",
-      "opponent": "Ravenshead Reds Red Arrows U7"
-    },
-    {
-      "id": "c3acf66e1db855bfaa46b99fa3a6c176",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Selston F.C. Youth U15 FC",
-      "away_team": "Burton Joyce F.C. Girls U15 Green",
-      "venue": "Selston F.C. Youth Selston FC U14 Girls",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Selston F.C. Youth U15 FC",
-      "home_away": "home",
-      "opponent": "Burton Joyce F.C. Girls U15 Green"
-    },
     {
       "id": "14256a387f60f49600cae94ce9b8ef89",
       "date": "2026-04-18",
@@ -313,22 +287,60 @@
       "team": "Selston F.C. Youth U15 FC",
       "home_away": "home",
       "opponent": "Retford FC Juniors U15 GIRLS"
+    }
+  ],
+  "results": [
+    {
+      "id": "4392633f0c793de2a317e1bbb4079356",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Ravenshead Reds Red Arrows U7",
+      "away_team": "Selston FC U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring Green",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Selston FC U7",
+      "home_away": "away",
+      "opponent": "Ravenshead Reds Red Arrows U7",
+      "goals_for": null,
+      "goals_against": null
     },
     {
-      "id": "028d289de609771e2a2399a2560049a0",
-      "date": "2026-05-24",
+      "id": "ab5046552615fa2fbafa05c4345ff023",
+      "date": "2026-04-12",
       "time": "10:00",
       "home_team": "Burton Joyce F.C. Girls U15 Green",
       "away_team": "Selston F.C. Youth U15 FC",
-      "venue": "POPLARS SPORTS GROUND",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
       "division": "U15 Div 3",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Selston F.C. Youth U15 FC",
       "home_away": "away",
-      "opponent": "Burton Joyce F.C. Girls U15 Green"
-    }
-  ],
-  "results": [
+      "opponent": "Burton Joyce F.C. Girls U15 Green",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
+      "id": "c3acf66e1db855bfaa46b99fa3a6c176",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Selston F.C. Youth U15 FC",
+      "away_team": "Burton Joyce F.C. Girls U15 Green",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Selston F.C. Youth U15 FC",
+      "home_away": "home",
+      "opponent": "Burton Joyce F.C. Girls U15 Green",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "ae8fe5dd27cdb7fd42bb6e84c3f2a0a7",
       "date": "2026-04-11",

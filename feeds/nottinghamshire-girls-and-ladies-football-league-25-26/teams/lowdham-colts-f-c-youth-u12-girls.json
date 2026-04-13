@@ -1,9 +1,36 @@
 {
   "team": "Lowdham Colts F.C. Youth U12 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
-  "fixtures": [],
+  "generated": "2026-04-13T07:47:30Z",
+  "fixtures": [
+    {
+      "id": "0d0687c8166ad2a07503cd847b72f96d",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Priory Celtic F.C. U12 Girls",
+      "away_team": "Lowdham Colts F.C. Youth U12 Girls",
+      "venue": "THE KIMBERLEY SCHOOL",
+      "division": "U12 Div 4 P2",
+      "home_away": "away",
+      "opponent": "Priory Celtic F.C. U12 Girls"
+    }
+  ],
   "results": [
+    {
+      "id": "b3b3b967626bacaa9a095f6fd654a0a1",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Lowdham Colts F.C. Youth U12 Girls",
+      "away_team": "Southwell City FC U12 Swans",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Div 4 P2",
+      "home_away": "home",
+      "opponent": "Southwell City FC U12 Swans",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "32e15e1b81be93eb281ec400611aa091",
       "date": "2026-03-29",
@@ -13,7 +40,7 @@
       "home_score": 1,
       "away_score": 3,
       "venue": "",
-      "division": "Other Fixtures",
+      "division": "U12 Div 4 P2",
       "home_away": "away",
       "opponent": "Muskham Cougars F.C. Youth U12",
       "goals_for": 3,
@@ -43,7 +70,7 @@
       "home_score": 3,
       "away_score": 2,
       "venue": "",
-      "division": "Other Fixtures",
+      "division": "U12 Div 4 P2",
       "home_away": "home",
       "opponent": "Eastwood CFC U12 Girls",
       "goals_for": 3,

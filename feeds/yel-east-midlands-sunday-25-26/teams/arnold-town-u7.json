@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town U7",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "aa384024fc51b3a40a821655e63094fb",
-      "date": "2026-04-12",
-      "time": "12:30",
-      "home_team": "Arnold Town U7",
-      "away_team": "Meden Vale Colts Green U7",
-      "venue": "Eagle Valley NG5 8PS",
-      "division": "U7 Sun Spring Orange",
-      "home_away": "home",
-      "opponent": "Meden Vale Colts Green U7"
-    },
     {
       "id": "027d3fdddf93bf24967ac5353a7ba30c",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "aa384024fc51b3a40a821655e63094fb",
+      "date": "2026-04-12",
+      "time": "12:30",
+      "home_team": "Arnold Town U7",
+      "away_team": "Meden Vale Colts Green U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring Orange",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts Green U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "cb64303768fb283a2c2050ed70316765",
       "date": "2026-03-22",

@@ -1,33 +1,7 @@
 {
   "club": "Matlock Town",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "0c176e322ac6e41b5d1981c5c1483bb1",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Priory Celtic F.C. U12 Girls",
-      "away_team": "Matlock Town Junior U12 Girls Gladiators",
-      "venue": "THE KIMBERLEY SCHOOL",
-      "division": "U12 Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Matlock Town Junior U12 Girls Gladiators",
-      "home_away": "away",
-      "opponent": "Priory Celtic F.C. U12 Girls"
-    },
-    {
-      "id": "517561c657a51fb8679eb52e9c39da8d",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Notts County F.C. Girls U13",
-      "away_team": "Matlock Town Juniors U14 's Gladiators",
-      "venue": "SOUTHGLADE LEISURE CENTRE",
-      "division": "U14 Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Matlock Town Juniors U14 's Gladiators",
-      "home_away": "away",
-      "opponent": "Notts County F.C. Girls U13"
-    },
     {
       "id": "8051408102ccf9973fdcdfc43aaf2c82",
       "date": "2026-04-12",
@@ -68,17 +42,30 @@
       "opponent": "G3A FC Ajax U11"
     },
     {
-      "id": "51326ea90e99c4383f669994a6755aa6",
+      "id": "ac8aee7b8f18ccf8a6c5910394489f81",
       "date": "2026-04-19",
       "time": "10:00",
-      "home_team": "Matlock Town Junior U12 Girls Gladiators",
-      "away_team": "Southwell City FC U12 Swans",
-      "venue": "CAVENDISH FIELDS SPORTS ASSOCIATION",
-      "division": "U12 Div 4",
+      "home_team": "Ravenshead Reds F.C. Youth U12",
+      "away_team": "Matlock Town Junior U12 Girls Gladiators",
+      "venue": "Ravenshead Reds F.C. Youth U12 (SUN) GIR",
+      "division": "U12 Div 5 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Matlock Town Junior U12 Girls Gladiators",
-      "home_away": "home",
-      "opponent": "Southwell City FC U12 Swans"
+      "home_away": "away",
+      "opponent": "Ravenshead Reds F.C. Youth U12"
+    },
+    {
+      "id": "78cc523281a6b27efd3d4fa6c5dd2eac",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Stanton Ilkeston U14",
+      "away_team": "Matlock Town Juniors U14 's Gladiators",
+      "venue": "RON BROOKS PLAYING FIELD",
+      "division": "U14 Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Matlock Town Juniors U14 's Gladiators",
+      "home_away": "away",
+      "opponent": "Stanton Ilkeston U14"
     },
     {
       "id": "b23745dacab9a18354c33d0de548d624",
@@ -185,19 +172,6 @@
       "opponent": "West Bridgford Colts U15 Lionesses"
     },
     {
-      "id": "06ff050aaa3004dd7868cd1a675ba4d3",
-      "date": "2026-04-28",
-      "time": "10:00",
-      "home_team": "Stanton Ilkeston U14",
-      "away_team": "Matlock Town Juniors U14 's Gladiators",
-      "venue": "RON BROOKS PLAYING FIELD",
-      "division": "U14 Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Matlock Town Juniors U14 's Gladiators",
-      "home_away": "away",
-      "opponent": "Stanton Ilkeston U14"
-    },
-    {
       "id": "3b3dfed04ff40b4dce38c7316ec4a1c1",
       "date": "2026-05-03",
       "time": "10:00",
@@ -274,9 +248,56 @@
       "team": "Matlock Town Juniors U14 Spartans Girls",
       "home_away": "away",
       "opponent": "Sherwood Colliery F.C. Ladies U14"
+    },
+    {
+      "id": "f2d8c145509610cf0a0bdde31002302a",
+      "date": "2026-05-31",
+      "time": "10:00",
+      "home_team": "Matlock Town Junior U12 Girls Gladiators",
+      "away_team": "Southwell City FC U12 Swans",
+      "venue": "CAVENDISH FIELDS SPORTS ASSOCIATION",
+      "division": "U12 Div 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Matlock Town Junior U12 Girls Gladiators",
+      "home_away": "home",
+      "opponent": "Southwell City FC U12 Swans"
     }
   ],
   "results": [
+    {
+      "id": "0c176e322ac6e41b5d1981c5c1483bb1",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Priory Celtic F.C. U12 Girls",
+      "away_team": "Matlock Town Junior U12 Girls Gladiators",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Matlock Town Junior U12 Girls Gladiators",
+      "home_away": "away",
+      "opponent": "Priory Celtic F.C. U12 Girls",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "517561c657a51fb8679eb52e9c39da8d",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Notts County F.C. Girls U13",
+      "away_team": "Matlock Town Juniors U14 's Gladiators",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Matlock Town Juniors U14 's Gladiators",
+      "home_away": "away",
+      "opponent": "Notts County F.C. Girls U13",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "eebf537b3f5a53a6b07b21aa80bcdca9",
       "date": "2026-03-22",

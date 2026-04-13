@@ -1,20 +1,7 @@
 {
   "club": "Ollerton Town",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "ff96075207f105811c5bd650f7d0480b",
-      "date": "2026-04-12",
-      "time": "11:30",
-      "home_team": "Langwith Whitestar U12 United",
-      "away_team": "Ollerton Town Community FC U12 Girls",
-      "venue": "Langwith Whitestar U12 United",
-      "division": "U12 Div 2 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ollerton Town Community FC U12 Girls",
-      "home_away": "away",
-      "opponent": "Langwith Whitestar U12 United"
-    },
     {
       "id": "b560a67c7c1f51aacf1b0d4e56eacb57",
       "date": "2026-04-18",
@@ -94,17 +81,17 @@
       "opponent": "Ravenshead Reds U12"
     },
     {
-      "id": "1022ab1e1574a61386d424018701b0f9",
+      "id": "3c395006faad298453be4f3cf815a458",
       "date": "2026-04-21",
       "time": "18:00",
       "home_team": "Ollerton Town U14",
-      "away_team": "Bingham Town Red U14",
+      "away_team": "Silva FC Southglade Pink U14",
       "venue": "WALESBY LANE NG22 9UT",
       "division": "U14 Sat YEL Inter Cup",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Ollerton Town U14",
       "home_away": "home",
-      "opponent": "Bingham Town Red U14"
+      "opponent": "Silva FC Southglade Pink U14"
     },
     {
       "id": "228bf65a50009a93a3e58bb5166c505a",
@@ -238,6 +225,23 @@
     }
   ],
   "results": [
+    {
+      "id": "ff96075207f105811c5bd650f7d0480b",
+      "date": "2026-04-12",
+      "time": "11:30",
+      "home_team": "Langwith Whitestar U12 United",
+      "away_team": "Ollerton Town Community FC U12 Girls",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ollerton Town Community FC U12 Girls",
+      "home_away": "away",
+      "opponent": "Langwith Whitestar U12 United",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "1a4ad3f992b8fdd126a0b671946c1f08",
       "date": "2026-04-11",

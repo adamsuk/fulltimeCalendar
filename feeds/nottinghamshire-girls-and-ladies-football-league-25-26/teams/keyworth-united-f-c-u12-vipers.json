@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United F.C. U12 Vipers",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "c0aeb3942ef6536925246f24ce9a8f3a",
-      "date": "2026-04-12",
-      "time": "11:15",
-      "home_team": "Sherwood Colliery F.C. Ladies U12 Blue",
-      "away_team": "Keyworth United F.C. U12 Vipers",
-      "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
-      "division": "U12 Div 2 P2",
-      "home_away": "away",
-      "opponent": "Sherwood Colliery F.C. Ladies U12 Blue"
-    },
     {
       "id": "5cd7f4793a9bf14f7bb45703d5c22ef1",
       "date": "2026-04-19",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c0aeb3942ef6536925246f24ce9a8f3a",
+      "date": "2026-04-12",
+      "time": "11:15",
+      "home_team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "away_team": "Keyworth United F.C. U12 Vipers",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Div 2 P2",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "0b2b315fba33f5a913f00aef5292efe9",
       "date": "2026-03-22",

@@ -1,33 +1,7 @@
 {
   "club": "Retford FC",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "456d6d97dcbeaa802624a00478a7f8a5",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Holy Spirit Celtic FC U15",
-      "away_team": "Retford FC Juniors U15 GIRLS",
-      "venue": "THE BECKET SCHOOL",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Retford FC Juniors U15 GIRLS",
-      "home_away": "away",
-      "opponent": "Holy Spirit Celtic FC U15"
-    },
-    {
-      "id": "71382fdf24b1dd442d387d5358f57c0c",
-      "date": "2026-04-12",
-      "time": "14:00",
-      "home_team": "Retford FC Ladies",
-      "away_team": "Arnold Town FC Women",
-      "venue": "RETFORD FC (THE RAIL)",
-      "division": "Seniors Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Retford FC Ladies",
-      "home_away": "home",
-      "opponent": "Arnold Town FC Women"
-    },
     {
       "id": "2c90e56109c88987cf6f2758e4b0c0df",
       "date": "2026-04-19",
@@ -186,6 +160,40 @@
     }
   ],
   "results": [
+    {
+      "id": "71382fdf24b1dd442d387d5358f57c0c",
+      "date": "2026-04-12",
+      "time": "14:00",
+      "home_team": "Retford FC Ladies",
+      "away_team": "Arnold Town FC Women",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Retford FC Ladies",
+      "home_away": "home",
+      "opponent": "Arnold Town FC Women",
+      "goals_for": 6,
+      "goals_against": 0
+    },
+    {
+      "id": "456d6d97dcbeaa802624a00478a7f8a5",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Holy Spirit Celtic FC U15",
+      "away_team": "Retford FC Juniors U15 GIRLS",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Retford FC Juniors U15 GIRLS",
+      "home_away": "away",
+      "opponent": "Holy Spirit Celtic FC U15",
+      "goals_for": 5,
+      "goals_against": 0
+    },
     {
       "id": "290c98353c4772459e6423455a9fd701",
       "date": "2026-03-29",

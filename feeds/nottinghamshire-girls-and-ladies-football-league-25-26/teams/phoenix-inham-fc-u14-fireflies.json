@@ -1,19 +1,8 @@
 {
   "team": "Phoenix Inham FC U14 Fireflies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-12T07:03:02Z",
+  "generated": "2026-04-13T07:47:30Z",
   "fixtures": [
-    {
-      "id": "c3737e83862fe5acaeff4f84239b6a3d",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Phoenix Inham FC U14 Fireflies",
-      "away_team": "Keyworth United F.C. U14 Raptors",
-      "venue": "INHAM NOOK RECREATION GROUND",
-      "division": "U14 Div 4",
-      "home_away": "home",
-      "opponent": "Keyworth United F.C. U14 Raptors"
-    },
     {
       "id": "a9396e33cd6dfbbff0668c8feaf034fe",
       "date": "2026-04-19",
@@ -28,7 +17,7 @@
     {
       "id": "5d591aa731d4e2855acd601e35dad679",
       "date": "2026-04-26",
-      "time": "10:00",
+      "time": "12:00",
       "home_team": "Cotgrave FC U14 White",
       "away_team": "Phoenix Inham FC U14 Fireflies",
       "venue": "COTGRAVE LEISURE CENTRE",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c3737e83862fe5acaeff4f84239b6a3d",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Phoenix Inham FC U14 Fireflies",
+      "away_team": "Keyworth United F.C. U14 Raptors",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U14 Div 4",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U14 Raptors",
+      "goals_for": 0,
+      "goals_against": 5
+    },
     {
       "id": "c79bfcad4054a8c069b60290f413c692",
       "date": "2026-03-15",
