@@ -1,6 +1,6 @@
 {
   "club": "Selston FC",
-  "generated": "2026-04-13T07:47:30Z",
+  "generated": "2026-04-14T07:17:26Z",
   "fixtures": [
     {
       "id": "14256a387f60f49600cae94ce9b8ef89",
@@ -42,19 +42,6 @@
       "opponent": "Wollaton H & B Knights U13"
     },
     {
-      "id": "8ee7af3edbc8510c0e4bf14666811f69",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Gedling Southbank Whites U10",
-      "away_team": "Selston FC Black U10",
-      "venue": "Redhill Leisure Centre NG5 8GX",
-      "division": "U10 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Selston FC Black U10",
-      "home_away": "away",
-      "opponent": "Gedling Southbank Whites U10"
-    },
-    {
       "id": "f2d6e01e181f9dfb92f6a898eaf7352c",
       "date": "2026-04-19",
       "time": "10:00",
@@ -66,6 +53,19 @@
       "team": "Selston FC U12",
       "home_away": "home",
       "opponent": "Notts Olympic FC U12"
+    },
+    {
+      "id": "9e176df1f608468f8313402f30b5e80c",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Selston FC U7",
+      "away_team": "Arnold Town U7",
+      "venue": "Selston Parish NG16 6EE",
+      "division": "U7 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Selston FC U7",
+      "home_away": "home",
+      "opponent": "Arnold Town U7"
     },
     {
       "id": "cab66f25c2885808c657473a0d6edd36",
@@ -94,6 +94,19 @@
       "opponent": "Stapleford Town FC U15 Girls"
     },
     {
+      "id": "4d5ba94d045663b449afb38f89de6b06",
+      "date": "2026-04-19",
+      "time": "10:30",
+      "home_team": "Selston FC Black U10",
+      "away_team": "Gedling Southbank Whites U10",
+      "venue": "Selston Parish NG16 6EE",
+      "division": "U10 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Selston FC Black U10",
+      "home_away": "home",
+      "opponent": "Gedling Southbank Whites U10"
+    },
+    {
       "id": "7ba8fa91f1f6bb3db10f01922f0215c0",
       "date": "2026-04-19",
       "time": "11:00",
@@ -107,19 +120,6 @@
       "opponent": "Silva FC Rushcliffe Spirit U11"
     },
     {
-      "id": "331a9ec67106f1c43fb2fe0fe312a5b7",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Quarrydale United U9",
-      "away_team": "Selston FC Black U9",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U9 Sat Spring Div 8 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Selston FC Black U9",
-      "home_away": "away",
-      "opponent": "Quarrydale United U9"
-    },
-    {
       "id": "e6a80993c30d96204ec3a0056b2615b9",
       "date": "2026-04-22",
       "time": "18:00",
@@ -131,6 +131,19 @@
       "team": "Selston F.C. Youth U15 FC",
       "home_away": "away",
       "opponent": "Holy Spirit Celtic FC U15"
+    },
+    {
+      "id": "a19ee68824f3a5729a4a527292338c1d",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Quarrydale United U9",
+      "away_team": "Selston FC Black U9",
+      "venue": "Bentinck Miners Welfare NG17 8GS",
+      "division": "U9 Sat Spring Div 8 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Selston FC Black U9",
+      "home_away": "away",
+      "opponent": "Quarrydale United U9"
     },
     {
       "id": "afcac9960082e9269ab79ca4b39cc6ce",
@@ -331,7 +344,7 @@
       "home_team": "Selston F.C. Youth U15 FC",
       "away_team": "Burton Joyce F.C. Girls U15 Green",
       "home_score": 1,
-      "away_score": 1,
+      "away_score": 0,
       "venue": "",
       "division": "U15 Div 3",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
@@ -339,7 +352,7 @@
       "home_away": "home",
       "opponent": "Burton Joyce F.C. Girls U15 Green",
       "goals_for": 1,
-      "goals_against": 1
+      "goals_against": 0
     },
     {
       "id": "ae8fe5dd27cdb7fd42bb6e84c3f2a0a7",

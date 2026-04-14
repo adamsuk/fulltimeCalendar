@@ -1,46 +1,7 @@
 {
   "club": "DLFC",
-  "generated": "2026-04-13T07:47:30Z",
+  "generated": "2026-04-14T07:17:26Z",
   "fixtures": [
-    {
-      "id": "63e34480befed28816296e3a74fc3778",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Inspire Nottingham FC Black U8",
-      "away_team": "DLFC Gold U8",
-      "venue": "Powerleague Nottingham Arnold NG5 6NZ",
-      "division": "U8 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Gold U8",
-      "home_away": "away",
-      "opponent": "Inspire Nottingham FC Black U8"
-    },
-    {
-      "id": "235ff85e9dc174400d25db8f8bf4468c",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Market Warsop Lions U8",
-      "away_team": "DLFC Red U8",
-      "venue": "John Fretwell Centre NG19 8LL",
-      "division": "U8 Sun Spring 5 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Red U8",
-      "home_away": "away",
-      "opponent": "Market Warsop Lions U8"
-    },
-    {
-      "id": "3c3d1217157afeff3f74260368291817",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "DLFC Tangerine U7",
-      "away_team": "WBYFC Feyanoord Red U7",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U7 Sun Spring Yellow",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Tangerine U7",
-      "home_away": "home",
-      "opponent": "WBYFC Feyanoord Red U7"
-    },
     {
       "id": "50c9da7c1735f60b77a4197863da6fde",
       "date": "2026-04-14",
@@ -276,19 +237,6 @@
       "opponent": "Heanor Junior Raptors U7"
     },
     {
-      "id": "b3b08610885f1e656e8dc16b799cd852",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Keyworth United Blue U10",
-      "away_team": "DLFC Emerald U10",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U10 Sat Spring Div 2 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Emerald U10",
-      "home_away": "away",
-      "opponent": "Keyworth United Blue U10"
-    },
-    {
       "id": "c0629aa39f5ad9eb4456430edbd20c9a",
       "date": "2026-04-18",
       "time": "10:00",
@@ -339,19 +287,6 @@
       "team": "DLFC Purple U7",
       "home_away": "home",
       "opponent": "Long Eaton United Blue U7"
-    },
-    {
-      "id": "9e31ebc5cff1b60084aa86b20332f0a0",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "WBYFC Union U9",
-      "away_team": "DLFC Purple U9",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U9 Sat Spring Div 9 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Purple U9",
-      "home_away": "away",
-      "opponent": "WBYFC Union U9"
     },
     {
       "id": "69c3023c855c85719f431dc0331b4265",
@@ -445,6 +380,32 @@
       "opponent": "DLFC Green U11"
     },
     {
+      "id": "9e31ebc5cff1b60084aa86b20332f0a0",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "WBYFC Union U9",
+      "away_team": "DLFC Purple U9",
+      "venue": "Regatta Way NG2 5AT",
+      "division": "U9 Sat Spring Div 9 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Purple U9",
+      "home_away": "away",
+      "opponent": "WBYFC Union U9"
+    },
+    {
+      "id": "b3b08610885f1e656e8dc16b799cd852",
+      "date": "2026-04-18",
+      "time": "11:30",
+      "home_team": "Keyworth United Blue U10",
+      "away_team": "DLFC Emerald U10",
+      "venue": "Platt Lane NG12 5GE",
+      "division": "U10 Sat Spring Div 2 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Emerald U10",
+      "home_away": "away",
+      "opponent": "Keyworth United Blue U10"
+    },
+    {
       "id": "32611944a719709bebaaf1b5cf4051b5",
       "date": "2026-04-18",
       "time": "11:30",
@@ -523,6 +484,19 @@
       "opponent": "Basford CFC Barca U9"
     },
     {
+      "id": "40560d314aaf9a68b6089e3d1c3e16a6",
+      "date": "2026-04-19",
+      "time": "09:30",
+      "home_team": "DLFC Orange U7",
+      "away_team": "Moorgreen Colts 1985 U7",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U7 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "DLFC Orange U7",
+      "home_away": "home",
+      "opponent": "Moorgreen Colts 1985 U7"
+    },
+    {
       "id": "d846438c2f6e345f177d36bc0f35f895",
       "date": "2026-04-19",
       "time": "09:30",
@@ -547,6 +521,19 @@
       "team": "DLFC Barca U7",
       "home_away": "away",
       "opponent": "Silva FC Carlton Gold U7"
+    },
+    {
+      "id": "8235d48b02c8c3b2470e7f12c9002ef2",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Gotham Rangers U11",
+      "away_team": "DLFC Black U11",
+      "venue": "Gotham Recreation NG11 0HE",
+      "division": "U11 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "DLFC Black U11",
+      "home_away": "away",
+      "opponent": "Gotham Rangers U11"
     },
     {
       "id": "bcaf35ec7bccfb6fa8dde052e35f2257",
@@ -586,6 +573,19 @@
       "team": "DLFC Gold U10",
       "home_away": "away",
       "opponent": "Eastwood CFC Aces U10"
+    },
+    {
+      "id": "e6e9754ee3a29e2bea08720dcd0ba437",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "DJFC U13",
+      "away_team": "DLFC Orange U13",
+      "venue": "Mellish Sports Centre NG6 9FH",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "DLFC Orange U13",
+      "home_away": "away",
+      "opponent": "DJFC U13"
     },
     {
       "id": "83fd26cb2c4933479a2578efe0e8c8f8",
@@ -757,32 +757,6 @@
       "opponent": "Notts County Women U12 ^"
     },
     {
-      "id": "e6e9754ee3a29e2bea08720dcd0ba437",
-      "date": "2026-04-19",
-      "time": "12:00",
-      "home_team": "DJFC U13",
-      "away_team": "DLFC Orange U13",
-      "venue": "Joseph Whitaker School NG21 0AG",
-      "division": "U13 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Orange U13",
-      "home_away": "away",
-      "opponent": "DJFC U13"
-    },
-    {
-      "id": "afde26528df054dc09bbc8a3d02cf4b9",
-      "date": "2026-04-19",
-      "time": "12:30",
-      "home_team": "DLFC Black U11",
-      "away_team": "Gotham Rangers U11",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U11 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Black U11",
-      "home_away": "home",
-      "opponent": "Gotham Rangers U11"
-    },
-    {
       "id": "de81843c5d0cce5d5cc9bf5965a84e05",
       "date": "2026-04-19",
       "time": "12:30",
@@ -848,19 +822,6 @@
       "opponent": "Underwood Villa Tigres U9"
     },
     {
-      "id": "a8544b2aa53c86fe0fa52a4904171865",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "DLFC Purple U9",
-      "away_team": "NG United U9",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U9 Sat Spring Div 9 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Purple U9",
-      "home_away": "home",
-      "opponent": "NG United U9"
-    },
-    {
       "id": "ab21d06577502438730530cb7b141170",
       "date": "2026-04-21",
       "time": "18:30",
@@ -898,6 +859,19 @@
       "team": "DLFC SFK U13",
       "home_away": "away",
       "opponent": "Mansfield Athletic U13"
+    },
+    {
+      "id": "b007aece8bf7a7f4773d32bc35c0078d",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "DLFC Purple U9",
+      "away_team": "NG United U9",
+      "venue": "Mellish Sports Centre  NG6 9FH",
+      "division": "U9 Sat Spring Div 9 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Purple U9",
+      "home_away": "home",
+      "opponent": "NG United U9"
     },
     {
       "id": "b82236d90451db4f5c37a101f717a3e8",
@@ -1814,6 +1788,23 @@
       "team": "DLFC Red U7",
       "home_away": "away",
       "opponent": "Radcliffe Olympic Tigers U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "3c3d1217157afeff3f74260368291817",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "DLFC Tangerine U7",
+      "away_team": "WBYFC Feyanoord Red U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring Yellow",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "DLFC Tangerine U7",
+      "home_away": "home",
+      "opponent": "WBYFC Feyanoord Red U7",
       "goals_for": null,
       "goals_against": null
     },

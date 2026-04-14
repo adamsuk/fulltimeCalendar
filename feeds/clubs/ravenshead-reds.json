@@ -1,6 +1,6 @@
 {
   "club": "Ravenshead Reds",
-  "generated": "2026-04-13T07:47:30Z",
+  "generated": "2026-04-14T07:17:26Z",
   "fixtures": [
     {
       "id": "22a153c2abbf9955f3c064cc27494143",
@@ -239,7 +239,7 @@
     {
       "id": "4b305333cbf865274111cc4eebd95197",
       "date": "2026-04-19",
-      "time": "12:30",
+      "time": "13:00",
       "home_team": "Riverside Junior U14 Rubies",
       "away_team": "Ravenshead Reds F.C. Youth U14",
       "venue": "RH ACADEMY",
@@ -274,6 +274,19 @@
       "team": "Ravenshead Reds Outlaws U11",
       "home_away": "away",
       "opponent": "Sports Gateway Blue U11"
+    },
+    {
+      "id": "4f3c1fc7b7fa6c299890caaa067c2c8a",
+      "date": "2026-04-22",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers & Juniors U14 Girls",
+      "away_team": "Ravenshead Reds F.C. Youth U14",
+      "venue": "SHIREBROOK ACADEMY",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ravenshead Reds F.C. Youth U14",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers & Juniors U14 Girls"
     },
     {
       "id": "803ae1c8860a4a84eb9b14f7a9b71aa9",
@@ -406,19 +419,6 @@
       "opponent": "Shirebrook Rangers U12"
     },
     {
-      "id": "7721d2c0d65bc0505955cfaad214f58c",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Shirebrook Rangers & Juniors U14 Girls",
-      "away_team": "Ravenshead Reds F.C. Youth U14",
-      "venue": "SHIREBROOK ACADEMY",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ravenshead Reds F.C. Youth U14",
-      "home_away": "away",
-      "opponent": "Shirebrook Rangers & Juniors U14 Girls"
-    },
-    {
       "id": "28fc28f2fda022b62ea7b7585e6cced3",
       "date": "2026-04-26",
       "time": "10:15",
@@ -460,7 +460,7 @@
     {
       "id": "df0b6a4a6a00350c8b4a545b65f149e8",
       "date": "2026-04-26",
-      "time": "16:00",
+      "time": "16:30",
       "home_team": "Ravenshead Reds F.C. Youth U18",
       "away_team": "West Bridgford Colts U18 Rangers Girls",
       "venue": "RH ACADEMY",
@@ -495,19 +495,6 @@
       "team": "Ravenshead Reds U10",
       "home_away": "home",
       "opponent": "Keyworth United Black U10"
-    },
-    {
-      "id": "48260797e0b7ccac8bb73b51d1d372f3",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Riverside Junior U14 Rubies",
-      "away_team": "Ravenshead Reds F.C. Youth U14",
-      "venue": "THE LONG EATON SCHOOL",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ravenshead Reds F.C. Youth U14",
-      "home_away": "away",
-      "opponent": "Riverside Junior U14 Rubies"
     },
     {
       "id": "5fa910217e561532f1538b0db3ad1b43",
@@ -549,17 +536,17 @@
       "opponent": "Clipstone Welfare Colts F.C. Youth U12"
     },
     {
-      "id": "14f7e31f94727b75650a044c02110c29",
+      "id": "84bcad126dacc68c5c6d3b59bca8f455",
       "date": "2026-05-17",
       "time": "10:00",
-      "home_team": "Hasland Community U14 Girls Sunday",
+      "home_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
       "away_team": "Ravenshead Reds F.C. Youth U14",
-      "venue": "Hasland Community U14 Girls Sunday",
+      "venue": "CALVERTON MINERS WELFARE TRUST",
       "division": "U14 Div 3",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Ravenshead Reds F.C. Youth U14",
       "home_away": "away",
-      "opponent": "Hasland Community U14 Girls Sunday"
+      "opponent": "Arnold Eagles F.C. Girls U14 Hurricanes"
     },
     {
       "id": "801ed962ed7e7c72d2f2993fa4958835",
@@ -575,17 +562,30 @@
       "opponent": "Tansley Juniors U12 Girls"
     },
     {
-      "id": "e7405484c6058c729354b005e59b479e",
+      "id": "9120eb74d2f5be1ca50525d169b4e70f",
       "date": "2026-05-24",
       "time": "10:00",
-      "home_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
+      "home_team": "Hasland Community U14 Girls Sunday",
       "away_team": "Ravenshead Reds F.C. Youth U14",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
+      "venue": "Hasland Community U14 Girls Sunday",
       "division": "U14 Div 3",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Ravenshead Reds F.C. Youth U14",
       "home_away": "away",
-      "opponent": "Arnold Eagles F.C. Girls U14 Hurricanes"
+      "opponent": "Hasland Community U14 Girls Sunday"
+    },
+    {
+      "id": "a29ee9f795a76fa75a734acd98ac0586",
+      "date": "2026-05-31",
+      "time": "10:00",
+      "home_team": "Riverside Junior U14 Rubies",
+      "away_team": "Ravenshead Reds F.C. Youth U14",
+      "venue": "THE LONG EATON SCHOOL",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ravenshead Reds F.C. Youth U14",
+      "home_away": "away",
+      "opponent": "Riverside Junior U14 Rubies"
     }
   ],
   "results": [

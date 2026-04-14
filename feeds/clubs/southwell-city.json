@@ -1,6 +1,6 @@
 {
   "club": "Southwell City",
-  "generated": "2026-04-13T07:47:30Z",
+  "generated": "2026-04-14T07:17:26Z",
   "fixtures": [
     {
       "id": "e5d78556f73c8beb876ad4111db2e5c0",
@@ -40,32 +40,6 @@
       "team": "Southwell City FC U11 Girls",
       "home_away": "home",
       "opponent": "Sherwood Colliery F.C. Ladies U11"
-    },
-    {
-      "id": "ddd18a1016615568a6dfe4568fea7a7c",
-      "date": "2026-04-12",
-      "time": "10:30",
-      "home_team": "AJ Sport Gold U8",
-      "away_team": "Southwell City Devils U8",
-      "venue": "Beeston Fields Recreation Ground NG9 2QE",
-      "division": "U8 Sun Spring 1",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Southwell City Devils U8",
-      "home_away": "away",
-      "opponent": "AJ Sport Gold U8"
-    },
-    {
-      "id": "ae509fa9e0a83245c0a5744a64bc5fdf",
-      "date": "2026-04-13",
-      "time": "18:30",
-      "home_team": "Moorgreen Colts Blue U13",
-      "away_team": "Southwell City Falcons U13",
-      "venue": "Birnham Pk A610 Estwd/Kim Bypss NG16 2DE",
-      "division": "U13 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Southwell City Falcons U13",
-      "home_away": "away",
-      "opponent": "Moorgreen Colts Blue U13"
     },
     {
       "id": "32a48c7aa0ae6efb006e781ca4cb828a",
@@ -341,6 +315,19 @@
       "opponent": "Mapperley All Stars Blue U8"
     },
     {
+      "id": "a071fb5c9a58dab700da322770fa5795",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Southwell City Devils U8",
+      "away_team": "Basford CFC Gold U8",
+      "venue": "Southwell City FC NG25 0JP",
+      "division": "U8 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Southwell City Devils U8",
+      "home_away": "home",
+      "opponent": "Basford CFC Gold U8"
+    },
+    {
       "id": "4017202eab8e703cd95a5353df8015c4",
       "date": "2026-04-19",
       "time": "10:00",
@@ -393,6 +380,19 @@
       "opponent": "Clifton All Whites U13"
     },
     {
+      "id": "a2b80a808c9ce3bba101e60fd4c235ab",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Southwell City FC U18 Girls",
+      "away_team": "Broxtowe United F.C. Youth U18 Ladies",
+      "venue": "CENTENARY SPORTS GROUND",
+      "division": "U18 Div 2 Phase 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Southwell City FC U18 Girls",
+      "home_away": "home",
+      "opponent": "Broxtowe United F.C. Youth U18 Ladies"
+    },
+    {
       "id": "6bdda7babba96d7c198b257472d28dd7",
       "date": "2026-04-19",
       "time": "11:00",
@@ -404,19 +404,6 @@
       "team": "Southwell City Falcons U13",
       "home_away": "away",
       "opponent": "Spondon Dynamos Blades U13"
-    },
-    {
-      "id": "a2b80a808c9ce3bba101e60fd4c235ab",
-      "date": "2026-04-19",
-      "time": "12:00",
-      "home_team": "Southwell City FC U18 Girls",
-      "away_team": "Broxtowe United F.C. Youth U18 Ladies",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "U18 Div 2 Phase 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Southwell City FC U18 Girls",
-      "home_away": "home",
-      "opponent": "Broxtowe United F.C. Youth U18 Ladies"
     },
     {
       "id": "321b66af4af03b9012f8f1444e54b00d",
@@ -822,19 +809,6 @@
       "opponent": "Underwood Villa FC Youth Ladies"
     },
     {
-      "id": "1ab1ea1f301bce0102ad583351f10bc4",
-      "date": "2026-04-26",
-      "time": "14:00",
-      "home_team": "Southwell City FC U12 Swans",
-      "away_team": "Eastwood CFC U12 Girls",
-      "venue": "RH ACADEMY",
-      "division": "U12 Cup 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Southwell City FC U12 Swans",
-      "home_away": "home",
-      "opponent": "Eastwood CFC U12 Girls"
-    },
-    {
       "id": "b183357f799f17ad37a9c2c2d4707513",
       "date": "2026-04-26",
       "time": "14:00",
@@ -846,6 +820,19 @@
       "team": "Southwell City FC U15 Girls",
       "home_away": "away",
       "opponent": "Barlborough Juniors U15 Lionesses"
+    },
+    {
+      "id": "1ab1ea1f301bce0102ad583351f10bc4",
+      "date": "2026-04-26",
+      "time": "14:30",
+      "home_team": "Southwell City FC U12 Swans",
+      "away_team": "Eastwood CFC U12 Girls",
+      "venue": "RH ACADEMY",
+      "division": "U12 Cup 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Southwell City FC U12 Swans",
+      "home_away": "home",
+      "opponent": "Eastwood CFC U12 Girls"
     },
     {
       "id": "a9c3000ddaee045007c915ea739721c1",
@@ -1071,6 +1058,23 @@
   ],
   "results": [
     {
+      "id": "ae509fa9e0a83245c0a5744a64bc5fdf",
+      "date": "2026-04-13",
+      "time": "18:30",
+      "home_team": "Moorgreen Colts Blue U13",
+      "away_team": "Southwell City Falcons U13",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sun Spring Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Southwell City Falcons U13",
+      "home_away": "away",
+      "opponent": "Moorgreen Colts Blue U13",
+      "goals_for": 1,
+      "goals_against": 5
+    },
+    {
       "id": "fcd812f5989a8d1c5bc74065f7b7cfa8",
       "date": "2026-04-12",
       "time": "14:00",
@@ -1103,6 +1107,23 @@
       "opponent": "Priory Celtic F.C. U13 Girls",
       "goals_for": 3,
       "goals_against": 0
+    },
+    {
+      "id": "ddd18a1016615568a6dfe4568fea7a7c",
+      "date": "2026-04-12",
+      "time": "10:30",
+      "home_team": "AJ Sport Gold U8",
+      "away_team": "Southwell City Devils U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sun Spring 1",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Southwell City Devils U8",
+      "home_away": "away",
+      "opponent": "AJ Sport Gold U8",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "c50a2bcfde01a447da5aef2a08df2c51",

@@ -1,6 +1,6 @@
 {
   "club": "Keyworth United",
-  "generated": "2026-04-13T07:47:30Z",
+  "generated": "2026-04-14T07:17:26Z",
   "fixtures": [
     {
       "id": "67bc4be566a984541f88c71aa3c3fc04",
@@ -146,6 +146,19 @@
       "opponent": "East Leake Bantams Red U13"
     },
     {
+      "id": "7ab571f380d9b93c3d6dccfa9ef3c00f",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Keyworth United Green U7",
+      "away_team": "WBYFC Bruges White U7",
+      "venue": "Platt Lane NG12 5GE",
+      "division": "U7 Sat Spring 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Keyworth United Green U7",
+      "home_away": "home",
+      "opponent": "WBYFC Bruges White U7"
+    },
+    {
       "id": "359a5a2a3f9eab14ac02a8011e8caacf",
       "date": "2026-04-18",
       "time": "09:30",
@@ -170,19 +183,6 @@
       "team": "Keyworth United Black U7",
       "home_away": "home",
       "opponent": "DLFC Emerald U7"
-    },
-    {
-      "id": "b3b08610885f1e656e8dc16b799cd852",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Keyworth United Blue U10",
-      "away_team": "DLFC Emerald U10",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U10 Sat Spring Div 2 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Keyworth United Blue U10",
-      "home_away": "home",
-      "opponent": "DLFC Emerald U10"
     },
     {
       "id": "b05d9add3669d354b8f6618deaa4aac6",
@@ -222,19 +222,6 @@
       "team": "Keyworth United Green U10",
       "home_away": "away",
       "opponent": "Bottesford Yellow U10"
-    },
-    {
-      "id": "7ab571f380d9b93c3d6dccfa9ef3c00f",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Keyworth United Green U7",
-      "away_team": "WBYFC Bruges White U7",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U7 Sat Spring 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Keyworth United Green U7",
-      "home_away": "home",
-      "opponent": "WBYFC Bruges White U7"
     },
     {
       "id": "3358c143cb8415807347b484ab1b310c",
@@ -320,7 +307,7 @@
       "time": "10:00",
       "home_team": "Keyworth United White U9",
       "away_team": "Bottesford Blue U9",
-      "venue": "Nottingham Rd, Bottesford  NG13 0AP",
+      "venue": "Platt Lane NG12 5GE",
       "division": "U9 Sat Spring Div 8 Blue",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Keyworth United White U9",
@@ -510,6 +497,19 @@
       "opponent": "Sherwood FC Red U11"
     },
     {
+      "id": "b3b08610885f1e656e8dc16b799cd852",
+      "date": "2026-04-18",
+      "time": "11:30",
+      "home_team": "Keyworth United Blue U10",
+      "away_team": "DLFC Emerald U10",
+      "venue": "Platt Lane NG12 5GE",
+      "division": "U10 Sat Spring Div 2 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Keyworth United Blue U10",
+      "home_away": "home",
+      "opponent": "DLFC Emerald U10"
+    },
+    {
       "id": "6149b001bf05ab03a166ca5ad47fbe05",
       "date": "2026-04-18",
       "time": "15:00",
@@ -601,32 +601,6 @@
       "opponent": "Burton Joyce F.C. Girls U12 Olympians"
     },
     {
-      "id": "5cd7f4793a9bf14f7bb45703d5c22ef1",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Keyworth United F.C. U12 Vipers",
-      "away_team": "Radcliffe Olympic FC U12 Girls Eagles",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "U12 Div 2 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Keyworth United F.C. U12 Vipers",
-      "home_away": "home",
-      "opponent": "Radcliffe Olympic FC U12 Girls Eagles"
-    },
-    {
-      "id": "5625868c33ade676dcfe899c4f55ff91",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Keyworth United F.C. U13 Rockets",
-      "away_team": "Asfordby Amateurs LG&I U13 Diamonds",
-      "venue": "THE SOUTH WOLDS ACADEMY & SIXTH FORM",
-      "division": "U13 Div 2 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Keyworth United F.C. U13 Rockets",
-      "home_away": "home",
-      "opponent": "Asfordby Amateurs LG&I U13 Diamonds"
-    },
-    {
       "id": "aca25d02fed70b68d9ac0ca7e89df20b",
       "date": "2026-04-19",
       "time": "10:00",
@@ -638,19 +612,6 @@
       "team": "Keyworth United F.C. U16 Emeralds",
       "home_away": "away",
       "opponent": "Woodlands Women U16 Greensocks"
-    },
-    {
-      "id": "8e7dc461f399fc57582db950e0fa730a",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Nottingham Trent Uni FC Womens Pink",
-      "away_team": "Keyworth United FC First",
-      "venue": "CLIFTON SPORTS HUB",
-      "division": "Seniors Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Keyworth United FC First",
-      "home_away": "away",
-      "opponent": "Nottingham Trent Uni FC Womens Pink"
     },
     {
       "id": "7ad09b4e281ab2b113e90987aadda1c3",
@@ -703,6 +664,32 @@
       "team": "Keyworth United F.C. U13 Girls",
       "home_away": "home",
       "opponent": "Sandiacre Town Youth U13 Diamonds"
+    },
+    {
+      "id": "5cd7f4793a9bf14f7bb45703d5c22ef1",
+      "date": "2026-04-19",
+      "time": "12:00",
+      "home_team": "Keyworth United F.C. U12 Vipers",
+      "away_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Keyworth United F.C. U12 Vipers",
+      "home_away": "home",
+      "opponent": "Radcliffe Olympic FC U12 Girls Eagles"
+    },
+    {
+      "id": "8e7dc461f399fc57582db950e0fa730a",
+      "date": "2026-04-19",
+      "time": "13:00",
+      "home_team": "Nottingham Trent Uni FC Womens Pink",
+      "away_team": "Keyworth United FC First",
+      "venue": "CLIFTON SPORTS HUB",
+      "division": "Seniors Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Keyworth United FC First",
+      "home_away": "away",
+      "opponent": "Nottingham Trent Uni FC Womens Pink"
     },
     {
       "id": "6e8a27a9d0ecb3af93366465830f2779",
@@ -1043,19 +1030,6 @@
       "opponent": "Blidworth Bengals U8"
     },
     {
-      "id": "b3f626dc53ede848b820aa4cb3ac93b5",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic Blue U9",
-      "away_team": "Keyworth United White U9",
-      "venue": "Radcliffe-on-Trent Cricket Club NG12 2DU",
-      "division": "U9 Sat Spring Div 8 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Keyworth United White U9",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic Blue U9"
-    },
-    {
       "id": "c50e1e9e3b91a899adad7e29751b0d37",
       "date": "2026-04-25",
       "time": "10:45",
@@ -1145,6 +1119,19 @@
       "team": "Keyworth United White U14",
       "home_away": "away",
       "opponent": "Beaufort United Black U14"
+    },
+    {
+      "id": "b3f626dc53ede848b820aa4cb3ac93b5",
+      "date": "2026-04-25",
+      "time": "11:30",
+      "home_team": "Radcliffe Olympic Blue U9",
+      "away_team": "Keyworth United White U9",
+      "venue": "Platt Lane NG12 5GE",
+      "division": "U9 Sat Spring Div 8 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Keyworth United White U9",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic Blue U9"
     },
     {
       "id": "4a3667d81ca986f102099ebd849df976",
@@ -1264,17 +1251,17 @@
       "opponent": "Arnold Eagles F.C. Girls U12 FC"
     },
     {
-      "id": "e6020b60f1f83a2629a87c86b279236d",
+      "id": "0cbce120900edb075794bbbe1f29fad4",
       "date": "2026-04-26",
       "time": "10:00",
-      "home_team": "Keyworth United F.C. U14 Thunder",
-      "away_team": "Stanton Ilkeston U14",
+      "home_team": "Keyworth United F.C. U13 Rockets",
+      "away_team": "Asfordby Amateurs LG&I U13 Diamonds",
       "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "U14 Div 1",
+      "division": "U13 Div 2 9 v 9",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Keyworth United F.C. U14 Thunder",
+      "team": "Keyworth United F.C. U13 Rockets",
       "home_away": "home",
-      "opponent": "Stanton Ilkeston U14"
+      "opponent": "Asfordby Amateurs LG&I U13 Diamonds"
     },
     {
       "id": "d1f80d13795d583435d345f9653345d8",
@@ -1303,9 +1290,22 @@
       "opponent": "DLFC Orange U14"
     },
     {
+      "id": "e6020b60f1f83a2629a87c86b279236d",
+      "date": "2026-04-26",
+      "time": "11:30",
+      "home_team": "Keyworth United F.C. U14 Thunder",
+      "away_team": "Stanton Ilkeston U14",
+      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
+      "division": "U14 Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Keyworth United F.C. U14 Thunder",
+      "home_away": "home",
+      "opponent": "Stanton Ilkeston U14"
+    },
+    {
       "id": "cf56b3049290c3e5a85f79c531794cc2",
       "date": "2026-04-26",
-      "time": "11:00",
+      "time": "12:00",
       "home_team": "Keyworth United Warriors U14",
       "away_team": "Bestwood Colliery U14",
       "venue": "Platt Lane NG12 5GE",
@@ -1318,7 +1318,7 @@
     {
       "id": "d79511c731ef6bcee38891366697eb83",
       "date": "2026-04-26",
-      "time": "12:00",
+      "time": "12:30",
       "home_team": "Keyworth United F.C. U12 Vipers",
       "away_team": "Radcliffe Olympic FC U12 Girls Eagles",
       "venue": "RH ACADEMY",
@@ -1327,19 +1327,6 @@
       "team": "Keyworth United F.C. U12 Vipers",
       "home_away": "home",
       "opponent": "Radcliffe Olympic FC U12 Girls Eagles"
-    },
-    {
-      "id": "2862e61299c034539693a3bba6858e31",
-      "date": "2026-04-26",
-      "time": "12:30",
-      "home_team": "Keyworth United F.C. U14 Raptors",
-      "away_team": "Newark Town FC U14 Nesbitts",
-      "venue": "RH ACADEMY",
-      "division": "U14 Div 4 League Cup",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Keyworth United F.C. U14 Raptors",
-      "home_away": "home",
-      "opponent": "Newark Town FC U14 Nesbitts"
     },
     {
       "id": "116631e76d62976997f58c9f33cb9a1e",
@@ -1353,6 +1340,19 @@
       "team": "Keyworth United F.C. U15 Predators",
       "home_away": "home",
       "opponent": "Burton Joyce F.C. Girls U15 Green"
+    },
+    {
+      "id": "2862e61299c034539693a3bba6858e31",
+      "date": "2026-04-26",
+      "time": "13:00",
+      "home_team": "Keyworth United F.C. U14 Raptors",
+      "away_team": "Newark Town FC U14 Nesbitts",
+      "venue": "RH ACADEMY",
+      "division": "U14 Div 4 League Cup",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Keyworth United F.C. U14 Raptors",
+      "home_away": "home",
+      "opponent": "Newark Town FC U14 Nesbitts"
     },
     {
       "id": "3a826de1fc60bebac59f2ea286ba3532",
@@ -1431,19 +1431,6 @@
       "team": "Keyworth United F.C. U15 Predators",
       "home_away": "home",
       "opponent": "Holy Spirit Celtic FC U15"
-    },
-    {
-      "id": "e95bf87952e91d2154468c3d5a9864ab",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Keyworth United F.C. U12 Shooting Stars",
-      "away_team": "Ollerton Town Community FC U12 Girls",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "U12 Div 2 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Keyworth United F.C. U12 Shooting Stars",
-      "home_away": "home",
-      "opponent": "Ollerton Town Community FC U12 Girls"
     },
     {
       "id": "d7df231aa7a05f6abcd1316826191a31",
@@ -1535,6 +1522,19 @@
       "team": "Keyworth United FC Development",
       "home_away": "home",
       "opponent": "Beeston FC Women"
+    },
+    {
+      "id": "e95bf87952e91d2154468c3d5a9864ab",
+      "date": "2026-05-03",
+      "time": "11:15",
+      "home_team": "Keyworth United F.C. U12 Shooting Stars",
+      "away_team": "Ollerton Town Community FC U12 Girls",
+      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Keyworth United F.C. U12 Shooting Stars",
+      "home_away": "home",
+      "opponent": "Ollerton Town Community FC U12 Girls"
     },
     {
       "id": "37a534d28e7771d8ad646022a2d8b5d2",

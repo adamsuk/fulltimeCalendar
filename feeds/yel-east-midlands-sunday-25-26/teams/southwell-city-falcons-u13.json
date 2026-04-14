@@ -1,19 +1,8 @@
 {
   "team": "Southwell City Falcons U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-13T07:47:30Z",
+  "generated": "2026-04-14T07:17:26Z",
   "fixtures": [
-    {
-      "id": "ae509fa9e0a83245c0a5744a64bc5fdf",
-      "date": "2026-04-13",
-      "time": "18:30",
-      "home_team": "Moorgreen Colts Blue U13",
-      "away_team": "Southwell City Falcons U13",
-      "venue": "Birnham Pk A610 Estwd/Kim Bypss NG16 2DE",
-      "division": "U13 Sun Spring Div 1 Silver",
-      "home_away": "away",
-      "opponent": "Moorgreen Colts Blue U13"
-    },
     {
       "id": "6bdda7babba96d7c198b257472d28dd7",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ae509fa9e0a83245c0a5744a64bc5fdf",
+      "date": "2026-04-13",
+      "time": "18:30",
+      "home_team": "Moorgreen Colts Blue U13",
+      "away_team": "Southwell City Falcons U13",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sun Spring Div 1 Silver",
+      "home_away": "away",
+      "opponent": "Moorgreen Colts Blue U13",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "0c62b3449450fad92cac43453b1b2e94",
       "date": "2026-03-22",

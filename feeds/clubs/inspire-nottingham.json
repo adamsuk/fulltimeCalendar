@@ -1,32 +1,19 @@
 {
   "club": "Inspire Nottingham",
-  "generated": "2026-04-13T07:47:30Z",
+  "generated": "2026-04-14T07:17:26Z",
   "fixtures": [
     {
-      "id": "923b1eb03341cb34af3bf8fd81f1ee70",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Inspire Nottingham Black U7",
-      "away_team": "Long Eaton United Red U7",
-      "venue": "Powerleague Nottingham Arnold NG5 6NZ",
-      "division": "U7 Sun Spring Orange",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Inspire Nottingham Black U7",
-      "home_away": "home",
-      "opponent": "Long Eaton United Red U7"
-    },
-    {
-      "id": "63e34480befed28816296e3a74fc3778",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Inspire Nottingham FC Black U8",
-      "away_team": "DLFC Gold U8",
-      "venue": "Powerleague Nottingham Arnold NG5 6NZ",
-      "division": "U8 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Inspire Nottingham FC Black U8",
-      "home_away": "home",
-      "opponent": "DLFC Gold U8"
+      "id": "d4262fdd00fbbbaf000642233c175357",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "WBYFC Corinthians U9",
+      "away_team": "Inspire Nottingham U9",
+      "venue": "Regatta Way NG2 5AT",
+      "division": "U9 Sat Spring Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Inspire Nottingham U9",
+      "home_away": "away",
+      "opponent": "WBYFC Corinthians U9"
     },
     {
       "id": "29dbf377a13ab6d473b19d7a8fa19612",
@@ -66,19 +53,6 @@
       "team": "Inspire Nottingham Red U8",
       "home_away": "away",
       "opponent": "Stapleford Town Jaguars U8"
-    },
-    {
-      "id": "d4262fdd00fbbbaf000642233c175357",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "WBYFC Corinthians U9",
-      "away_team": "Inspire Nottingham U9",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U9 Sat Spring Div 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Inspire Nottingham U9",
-      "home_away": "away",
-      "opponent": "WBYFC Corinthians U9"
     },
     {
       "id": "6fdaf70ea1efee280e43527627baeb3c",
@@ -159,19 +133,6 @@
       "opponent": "RHP Colts U13"
     },
     {
-      "id": "5d16c24d5bfd7ca2568820bf1eb0c74c",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Clifton AW Yellow U7",
-      "away_team": "Inspire Nottingham Black U7",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U7 Sun Spring Orange",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Inspire Nottingham Black U7",
-      "home_away": "away",
-      "opponent": "Clifton AW Yellow U7"
-    },
-    {
       "id": "cfa9d7d7ed325fedab8ab17419593367",
       "date": "2026-04-26",
       "time": "10:00",
@@ -196,6 +157,19 @@
       "team": "Inspire Nottingham White U8",
       "home_away": "home",
       "opponent": "Gedling Southbank Lions U8"
+    },
+    {
+      "id": "5d16c24d5bfd7ca2568820bf1eb0c74c",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "Clifton AW Yellow U7",
+      "away_team": "Inspire Nottingham Black U7",
+      "venue": "Norman Archer Memorial Ground NG11 9AZ",
+      "division": "U7 Sun Spring Orange",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Inspire Nottingham Black U7",
+      "home_away": "away",
+      "opponent": "Clifton AW Yellow U7"
     },
     {
       "id": "3d02768a2fc877c1488822e241087166",
@@ -225,6 +199,23 @@
     }
   ],
   "results": [
+    {
+      "id": "923b1eb03341cb34af3bf8fd81f1ee70",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Inspire Nottingham Black U7",
+      "away_team": "Long Eaton United Red U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring Orange",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Inspire Nottingham Black U7",
+      "home_away": "home",
+      "opponent": "Long Eaton United Red U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "777200b36410af3dc1bb8802f0812044",
       "date": "2026-04-12",

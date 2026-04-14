@@ -1,20 +1,7 @@
 {
   "club": "Long Eaton",
-  "generated": "2026-04-13T07:47:30Z",
+  "generated": "2026-04-14T07:17:26Z",
   "fixtures": [
-    {
-      "id": "923b1eb03341cb34af3bf8fd81f1ee70",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Inspire Nottingham Black U7",
-      "away_team": "Long Eaton United Red U7",
-      "venue": "Powerleague Nottingham Arnold NG5 6NZ",
-      "division": "U7 Sun Spring Orange",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Long Eaton United Red U7",
-      "home_away": "away",
-      "opponent": "Inspire Nottingham Black U7"
-    },
     {
       "id": "43d1142a0ab291f0594cfbc265f220f4",
       "date": "2026-04-14",
@@ -198,17 +185,17 @@
       "opponent": "Basford CFC Storm U11"
     },
     {
-      "id": "3d60560088235971c4196146db31198d",
+      "id": "baa5238d8a85a05b74f0ec5d8aa69a85",
       "date": "2026-04-18",
       "time": "10:00",
       "home_team": "Long Eaton United Yellow U7",
-      "away_team": "Breaston Park Green U7",
+      "away_team": "Club FDNA United U7",
       "venue": "Grange Park NG10 2EF",
-      "division": "U7 Sat Spring 3 Red",
+      "division": "U7 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Long Eaton United Yellow U7",
       "home_away": "home",
-      "opponent": "Breaston Park Green U7"
+      "opponent": "Club FDNA United U7"
     },
     {
       "id": "cd316321e9b28831c7d26ec7bf47c929",
@@ -302,6 +289,19 @@
       "opponent": "Cotgrave FC U12 Girls"
     },
     {
+      "id": "a20cb5cfb198e17d8eef32fc8c98f877",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Sherwood FC Red U8",
+      "away_team": "Long Eaton United Atalanta U8",
+      "venue": "Forest Sports Zone NG7 6LD",
+      "division": "U8 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Long Eaton United Atalanta U8",
+      "home_away": "away",
+      "opponent": "Sherwood FC Red U8"
+    },
+    {
       "id": "3fa7900c8f8eb35207f4a9b966231216",
       "date": "2026-04-19",
       "time": "10:00",
@@ -313,6 +313,19 @@
       "team": "Long Eaton United Atalanta U8",
       "home_away": "away",
       "opponent": "Tibshelf FC Black U8"
+    },
+    {
+      "id": "3e280227d97d3fa0fb1b0b23dc75e3d3",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Stapleford Town Saxons U11",
+      "away_team": "Long Eaton United Red U11",
+      "venue": "Hickings Lane NG9 8PG",
+      "division": "U11 Sun Spring Div 4 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Long Eaton United Red U11",
+      "home_away": "away",
+      "opponent": "Stapleford Town Saxons U11"
     },
     {
       "id": "7a6d1a986b54f920931ce4d87ab83cf9",
@@ -339,32 +352,6 @@
       "team": "Long Eaton United Black U13",
       "home_away": "away",
       "opponent": "Keyworth United Yellow U13"
-    },
-    {
-      "id": "3e280227d97d3fa0fb1b0b23dc75e3d3",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Stapleford Town Saxons U11",
-      "away_team": "Long Eaton United Red U11",
-      "venue": "Hickings Lane NG9 8PG",
-      "division": "U11 Sun Spring Div 4 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Long Eaton United Red U11",
-      "home_away": "away",
-      "opponent": "Stapleford Town Saxons U11"
-    },
-    {
-      "id": "4f12302e96147fabe31e968cc67d6715",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Long Eaton United Red U13",
-      "away_team": "Hucknall Sports White U13",
-      "venue": "Grange Park NG10 2EG",
-      "division": "U13 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Long Eaton United Red U13",
-      "home_away": "home",
-      "opponent": "Hucknall Sports White U13"
     },
     {
       "id": "a36ba92de9e73361777f6964e04739ae",
@@ -707,7 +694,7 @@
     {
       "id": "645a9427c9028d72bdc8d138993f2819",
       "date": "2026-04-26",
-      "time": "16:00",
+      "time": "16:30",
       "home_team": "Brodsworth Welfare AFC- Warriors U16",
       "away_team": "Long Eaton United U16 Girls",
       "venue": "RH ACADEMY",
@@ -733,6 +720,23 @@
       "team": "Long Eaton United Atalanta U8",
       "home_away": "home",
       "opponent": "Eastwood CFC Eagles U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "923b1eb03341cb34af3bf8fd81f1ee70",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Inspire Nottingham Black U7",
+      "away_team": "Long Eaton United Red U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring Orange",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Long Eaton United Red U7",
+      "home_away": "away",
+      "opponent": "Inspire Nottingham Black U7",
       "goals_for": null,
       "goals_against": null
     },

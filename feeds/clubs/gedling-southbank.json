@@ -1,6 +1,6 @@
 {
   "club": "Gedling Southbank",
-  "generated": "2026-04-13T07:47:30Z",
+  "generated": "2026-04-14T07:17:26Z",
   "fixtures": [
     {
       "id": "a3b06b7f6324de7da9a2916b941506d7",
@@ -107,17 +107,17 @@
       "opponent": "Silva FC Brunts U9"
     },
     {
-      "id": "b35b8f19ca151cde33df8ee1f7b4474b",
+      "id": "a31225a6f403d4a91b2f0b3347469568",
       "date": "2026-04-18",
       "time": "10:00",
       "home_team": "Gedling Southbank White U7",
-      "away_team": "Hucknall Sports Red U7",
+      "away_team": "Hucknall Town Warriors U7",
       "venue": "Redhill Leisure Centre NG5 8GX",
-      "division": "U7 Sat Spring 2 Red",
+      "division": "U7 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Gedling Southbank White U7",
       "home_away": "home",
-      "opponent": "Hucknall Sports Red U7"
+      "opponent": "Hucknall Town Warriors U7"
     },
     {
       "id": "8e747063797a6640cb0e772448effb1a",
@@ -131,19 +131,6 @@
       "team": "Gedling Southbank Wolves U11",
       "home_away": "away",
       "opponent": "Nottingham Second Chance U11"
-    },
-    {
-      "id": "96fbe0bc1d22e8b9030f231f77ecbadc",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Phoenix Inham Firebirds U12",
-      "away_team": "Gedling Southbank Athletic U12",
-      "venue": "Inham Nook Recreation Ground NG9 4GQ",
-      "division": "U12 Sat Spring Div 7 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Gedling Southbank Athletic U12",
-      "home_away": "away",
-      "opponent": "Phoenix Inham Firebirds U12"
     },
     {
       "id": "a259d8f757181a5a433f10812dbf5a6a",
@@ -185,19 +172,6 @@
       "opponent": "Collingham FC Cougars U10"
     },
     {
-      "id": "7c077fc01cefd12d5f968b38b5a8a8ce",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "AJ Sport Black U9",
-      "away_team": "Gedling Southbank Jaguars U9",
-      "venue": "Beeston Fields Recreation Ground NG9 2QE",
-      "division": "U9 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Gedling Southbank Jaguars U9",
-      "home_away": "away",
-      "opponent": "AJ Sport Black U9"
-    },
-    {
       "id": "df01356acf6ced50678b588461c04e07",
       "date": "2026-04-19",
       "time": "10:00",
@@ -229,7 +203,7 @@
       "time": "10:00",
       "home_team": "Gedling Southbank Titans U10",
       "away_team": "East Leake Bantams Black U10",
-      "venue": "Arnold Hill Academy NG5 6NZ",
+      "venue": "Redhill Leisure Centre NG5 8GX",
       "division": "U10 Sun Spring Div 5 Blue",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Gedling Southbank Titans U10",
@@ -250,19 +224,6 @@
       "opponent": "Castle Donington Panthers U11"
     },
     {
-      "id": "8ee7af3edbc8510c0e4bf14666811f69",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Gedling Southbank Whites U10",
-      "away_team": "Selston FC Black U10",
-      "venue": "Redhill Leisure Centre NG5 8GX",
-      "division": "U10 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Gedling Southbank Whites U10",
-      "home_away": "home",
-      "opponent": "Selston FC Black U10"
-    },
-    {
       "id": "45491d38fc11559f004e20f69ae6de41",
       "date": "2026-04-19",
       "time": "10:00",
@@ -274,6 +235,19 @@
       "team": "Gedling Southbank FC U12 Hunters",
       "home_away": "home",
       "opponent": "Bingham Town F.C. U12 Girls Blue"
+    },
+    {
+      "id": "eac2ec9a5494110e08615ac5a379da91",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Gedling Southbank FC U12 Hunters",
+      "away_team": "Priory Celtic F.C. U12 Girls",
+      "venue": "SOUTHGLADE LEISURE CENTRE",
+      "division": "U12 Div 4 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Gedling Southbank FC U12 Hunters",
+      "home_away": "home",
+      "opponent": "Priory Celtic F.C. U12 Girls"
     },
     {
       "id": "b23745dacab9a18354c33d0de548d624",
@@ -300,6 +274,19 @@
       "team": "Gedling Southbank FC U16 Dynamos",
       "home_away": "away",
       "opponent": "Arnold Eagles F.C. Girls U16 Buzzards"
+    },
+    {
+      "id": "4d5ba94d045663b449afb38f89de6b06",
+      "date": "2026-04-19",
+      "time": "10:30",
+      "home_team": "Selston FC Black U10",
+      "away_team": "Gedling Southbank Whites U10",
+      "venue": "Selston Parish NG16 6EE",
+      "division": "U10 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank Whites U10",
+      "home_away": "away",
+      "opponent": "Selston FC Black U10"
     },
     {
       "id": "0faecd3cce004b3b588fc3af8412fad3",
@@ -580,25 +567,12 @@
       "time": "10:00",
       "home_team": "Gedling Southbank Titans U10",
       "away_team": "Barrowby FC Green U10",
-      "venue": "Arnold Hill Academy NG5 6NZ",
+      "venue": "Redhill Leisure Centre NG5 8GX",
       "division": "U10 Sun Spring Div 5 Blue",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Gedling Southbank Titans U10",
       "home_away": "home",
       "opponent": "Barrowby FC Green U10"
-    },
-    {
-      "id": "f23cdf82f1bb609885043c86ebd64512",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Gedling Southbank Titans U11",
-      "away_team": "Ropsley Colts U11",
-      "venue": "Richard Herrod Centre  Ng41RL",
-      "division": "U11 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Gedling Southbank Titans U11",
-      "home_away": "home",
-      "opponent": "Ropsley Colts U11"
     },
     {
       "id": "c38883054f9cee13f523fe5a5dda3f9d",
@@ -653,19 +627,6 @@
       "opponent": "Hasland Community U14 Girls Sunday"
     },
     {
-      "id": "6ddd3e47e008c47cca322f275902bf8b",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Hasland Community U14 Girls Sunday",
-      "away_team": "Gedling Southbank FC U14 Reds",
-      "venue": "Hasland Community U14 Girls Sunday",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Gedling Southbank FC U14 Reds",
-      "home_away": "away",
-      "opponent": "Hasland Community U14 Girls Sunday"
-    },
-    {
       "id": "687652115f0f66f491a2fbca9d19319d",
       "date": "2026-04-26",
       "time": "10:00",
@@ -692,6 +653,19 @@
       "opponent": "Priory Celtic Phoenix U13"
     },
     {
+      "id": "86b41233bb27b7386b812866b3c42a20",
+      "date": "2026-04-28",
+      "time": "11:00",
+      "home_team": "Phoenix Inham Firebirds U12",
+      "away_team": "Gedling Southbank Athletic U12",
+      "venue": "Inham Nook Recreation Ground NG9 4GQ",
+      "division": "U12 Sat Spring Div 7 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank Athletic U12",
+      "home_away": "away",
+      "opponent": "Phoenix Inham Firebirds U12"
+    },
+    {
       "id": "7b3fc30c0f46003bd04fc21895c99e16",
       "date": "2026-04-29",
       "time": "18:00",
@@ -703,6 +677,19 @@
       "team": "Gedling Southbank Titans U11",
       "home_away": "away",
       "opponent": "Ruddington Village Black U11"
+    },
+    {
+      "id": "81d1ba3a17b671cbf5a60032fe094389",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Gedling Southbank FC U14 Warriors",
+      "away_team": "Nottingham F.C. Youth U14 Girls",
+      "venue": "THE TREVOR CARTER PAVILION",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Gedling Southbank FC U14 Warriors",
+      "home_away": "home",
+      "opponent": "Nottingham F.C. Youth U14 Girls"
     },
     {
       "id": "a31baca9793ff9b9db4e66b94ac8cd64",
@@ -729,6 +716,19 @@
       "team": "Gedling Southbank FC Ladies",
       "home_away": "home",
       "opponent": "Shirebrook Rangers Women"
+    },
+    {
+      "id": "d0fda5e7b6cb1700bce5b5d9b2298d2f",
+      "date": "2026-05-06",
+      "time": "18:30",
+      "home_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
+      "away_team": "Gedling Southbank FC U14 Reds",
+      "venue": "CALVERTON MINERS WELFARE TRUST",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Gedling Southbank FC U14 Reds",
+      "home_away": "away",
+      "opponent": "Arnold Eagles F.C. Girls U14 Hurricanes"
     },
     {
       "id": "71e48f88abe7dd7e46a02f6b2994aa0e",
@@ -770,30 +770,17 @@
       "opponent": "Eastwood & Kimberley FC"
     },
     {
-      "id": "f29cd3c3b67c6f1b9fb5bc7b065865d5",
+      "id": "e5ef4c1c5013d48375bfd5d4e526e7a6",
       "date": "2026-05-17",
       "time": "10:00",
-      "home_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
+      "home_team": "Hasland Community U14 Girls Sunday",
       "away_team": "Gedling Southbank FC U14 Reds",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
+      "venue": "Hasland Community U14 Girls Sunday",
       "division": "U14 Div 3",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Gedling Southbank FC U14 Reds",
       "home_away": "away",
-      "opponent": "Arnold Eagles F.C. Girls U14 Hurricanes"
-    },
-    {
-      "id": "305ec0a785843cb8e1ec9d0dc65b3cea",
-      "date": "2026-05-17",
-      "time": "11:00",
-      "home_team": "Gedling Southbank FC U14 Warriors",
-      "away_team": "Nottingham F.C. Youth U14 Girls",
-      "venue": "THE TREVOR CARTER PAVILION",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Gedling Southbank FC U14 Warriors",
-      "home_away": "home",
-      "opponent": "Nottingham F.C. Youth U14 Girls"
+      "opponent": "Hasland Community U14 Girls Sunday"
     },
     {
       "id": "2f0f21aff73b8ef9d0aa4377a21ff2d2",

@@ -1,20 +1,7 @@
 {
   "club": "Moorgreen Colts",
-  "generated": "2026-04-13T07:47:30Z",
+  "generated": "2026-04-14T07:17:26Z",
   "fixtures": [
-    {
-      "id": "ae509fa9e0a83245c0a5744a64bc5fdf",
-      "date": "2026-04-13",
-      "time": "18:30",
-      "home_team": "Moorgreen Colts Blue U13",
-      "away_team": "Southwell City Falcons U13",
-      "venue": "Birnham Pk A610 Estwd/Kim Bypss NG16 2DE",
-      "division": "U13 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Moorgreen Colts Blue U13",
-      "home_away": "home",
-      "opponent": "Southwell City Falcons U13"
-    },
     {
       "id": "db243854ce168cbe1bbf039d0669e54c",
       "date": "2026-04-14",
@@ -55,17 +42,17 @@
       "opponent": "Loughborough Eml Foxes U13"
     },
     {
-      "id": "cb54aa925c60f32c79e7e0adf5a86b55",
+      "id": "0cb5868cc31cc0db8473461880c529a6",
       "date": "2026-04-18",
       "time": "10:00",
       "home_team": "Moorgreen Colts U7",
-      "away_team": "Club FDNA United U7",
+      "away_team": "Cotgrave FC Claret U7",
       "venue": "Birnam Park  NG16 2DE",
-      "division": "U7 Sat Spring 2 Red",
+      "division": "U7 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Moorgreen Colts U7",
       "home_away": "home",
-      "opponent": "Club FDNA United U7"
+      "opponent": "Cotgrave FC Claret U7"
     },
     {
       "id": "8ce63daf7214c53f461843251a894d70",
@@ -131,6 +118,19 @@
       "team": "Moorgreen Colts White U11",
       "home_away": "away",
       "opponent": "Long Eaton United Orange U11"
+    },
+    {
+      "id": "40560d314aaf9a68b6089e3d1c3e16a6",
+      "date": "2026-04-19",
+      "time": "09:30",
+      "home_team": "DLFC Orange U7",
+      "away_team": "Moorgreen Colts 1985 U7",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U7 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Moorgreen Colts 1985 U7",
+      "home_away": "away",
+      "opponent": "DLFC Orange U7"
     },
     {
       "id": "9a824cd92f9c7183134d9a5f3e86830c",
@@ -472,6 +472,23 @@
     }
   ],
   "results": [
+    {
+      "id": "ae509fa9e0a83245c0a5744a64bc5fdf",
+      "date": "2026-04-13",
+      "time": "18:30",
+      "home_team": "Moorgreen Colts Blue U13",
+      "away_team": "Southwell City Falcons U13",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sun Spring Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Moorgreen Colts Blue U13",
+      "home_away": "home",
+      "opponent": "Southwell City Falcons U13",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "87d866b2bb4f4fa9fd624b8ceaa72584",
       "date": "2026-04-12",

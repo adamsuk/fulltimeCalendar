@@ -8,11 +8,20 @@ X-WR-CALDESC:Fixtures for Basford CFC Gold U8 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:50c3438f4e2edd46d71ae6fa6cb02ce5@yel-calendar
-DTSTAMP:20260413T074745Z
+DTSTAMP:20260414T071757Z
 DTSTART;TZID=Europe/London:20260419T100000
 DTEND;TZID=Europe/London:20260419T110000
 SUMMARY:⚽ Basford CFC Gold U8 vs Beaufort United Reds U8 (Away)
 DESCRIPTION:Division: U8 Sunday\nBeaufort United Reds U8 v Basford CFC Gold U8\nKO: 10:00
 LOCATION:Polly Bowls NG17 4HN
+END:VEVENT
+BEGIN:VEVENT
+UID:a071fb5c9a58dab700da322770fa5795@yel-calendar
+DTSTAMP:20260414T071757Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T110000
+SUMMARY:⚽ Basford CFC Gold U8 vs Southwell City Devils U8 (Away)
+DESCRIPTION:Division: U8 Sunday\nSouthwell City Devils U8 v Basford CFC Gold U8\nKO: 10:00
+LOCATION:Southwell City FC NG25 0JP
 END:VEVENT
 END:VCALENDAR
