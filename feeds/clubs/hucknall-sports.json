@@ -1,20 +1,7 @@
 {
   "club": "Hucknall Sports",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "12bf819358ae108e8cea19b5ce2478b5",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Stanton Ilkeston Mustangs U14",
-      "away_team": "Hucknall Sports Red U14",
-      "venue": "Ron Brooks Pavilion DE7 4LD",
-      "division": "U14 Sat YEL Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Hucknall Sports Red U14",
-      "home_away": "away",
-      "opponent": "Stanton Ilkeston Mustangs U14"
-    },
     {
       "id": "ca7459f02d1eeb95cc2a4c0beb0b02e8",
       "date": "2026-04-15",
@@ -248,19 +235,6 @@
       "team": "Hucknall Sports Red U8",
       "home_away": "away",
       "opponent": "Club FDNA Marseille U8"
-    },
-    {
-      "id": "478b48b7c36dc108585400ec66ee335f",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Willow Wanderers Arrows U8",
-      "away_team": "Hucknall Sports Red U8",
-      "venue": "Carlton le Willows School NG4 4AA",
-      "division": "U8 Sun Spring 3 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Hucknall Sports Red U8",
-      "home_away": "away",
-      "opponent": "Willow Wanderers Arrows U8"
     },
     {
       "id": "730aafd02c2d9a64036e4706503377dc",
@@ -536,6 +510,19 @@
       "opponent": "Radcliffe Olympic Red U13"
     },
     {
+      "id": "4c908443bd16cef6a431488d5762f5cd",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Hucknall Sports Red U14",
+      "away_team": "RHP Colts White U14",
+      "venue": "Goosedale Sports Club NG6 8UJ",
+      "division": "U14 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hucknall Sports Red U14",
+      "home_away": "home",
+      "opponent": "RHP Colts White U14"
+    },
+    {
       "id": "ead36796e5a1ac5435876d9352cfb041",
       "date": "2026-04-26",
       "time": "09:30",
@@ -706,6 +693,23 @@
     }
   ],
   "results": [
+    {
+      "id": "12bf819358ae108e8cea19b5ce2478b5",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Stanton Ilkeston Mustangs U14",
+      "away_team": "Hucknall Sports Red U14",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hucknall Sports Red U14",
+      "home_away": "away",
+      "opponent": "Stanton Ilkeston Mustangs U14",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "ca3714a0d4d7adc031a3d81712632248",
       "date": "2026-04-12",

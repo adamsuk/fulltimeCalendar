@@ -8,7 +8,7 @@ X-WR-CALDESC:Fixtures for Woodthorpe Cty Rowdies U13 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:c5f741633682906c1ada1491b64c2a3a@yel-calendar
-DTSTAMP:20260414T071818Z
+DTSTAMP:20260415T071803Z
 DTSTART;TZID=Europe/London:20260418T110000
 DTEND;TZID=Europe/London:20260418T120000
 SUMMARY:⚽ Woodthorpe Cty Rowdies U13 vs Mapperley All Stars Blue U13 (Home)
@@ -16,8 +16,17 @@ DESCRIPTION:Division: U13 Saturday\nWoodthorpe Cty Rowdies U13 v Mapperley All S
 LOCATION:Arnold Hill School NG5 6NZ
 END:VEVENT
 BEGIN:VEVENT
+UID:f1561d4ce152bb7ab63e996a190474da@yel-calendar
+DTSTAMP:20260415T071803Z
+DTSTART;TZID=Europe/London:20260421T180000
+DTEND;TZID=Europe/London:20260421T190000
+SUMMARY:⚽ Woodthorpe Cty Rowdies U13 vs Muskham Cougars U13 (Away)
+DESCRIPTION:Division: U13 Sat YEL Foundation Shield\nMuskham Cougars U13 v Woodthorpe Cty Rowdies U13\nKO: 18:00
+LOCATION:Beckitts Field NG23 6BZ
+END:VEVENT
+BEGIN:VEVENT
 UID:0ac6da11b48bed988cecadee24f28780@yel-calendar
-DTSTAMP:20260414T071818Z
+DTSTAMP:20260415T071803Z
 DTSTART;TZID=Europe/London:20260425T110000
 DTEND;TZID=Europe/London:20260425T120000
 SUMMARY:⚽ Woodthorpe Cty Rowdies U13 vs Spirit Celtic Green U13 (Home)

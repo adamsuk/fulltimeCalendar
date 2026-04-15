@@ -1,20 +1,7 @@
 {
   "club": "RHP Colts",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "1641a19357c7522e60cce648725aabcf",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "RHP Colts Green U14",
-      "away_team": "WBYFC United 14",
-      "venue": "Newark Leisure Centre NG24 4DH",
-      "division": "U14 Sat YEL Inter Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "RHP Colts Green U14",
-      "home_away": "home",
-      "opponent": "WBYFC United 14"
-    },
     {
       "id": "3b44192e94d3272a94cf445ede7c5a99",
       "date": "2026-04-18",
@@ -159,6 +146,19 @@
       "opponent": "Inspire Nottingham FC Red U13"
     },
     {
+      "id": "4c908443bd16cef6a431488d5762f5cd",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Hucknall Sports Red U14",
+      "away_team": "RHP Colts White U14",
+      "venue": "Goosedale Sports Club NG6 8UJ",
+      "division": "U14 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "RHP Colts White U14",
+      "home_away": "away",
+      "opponent": "Hucknall Sports Red U14"
+    },
+    {
       "id": "e79c4fe099e39d5f0b2c6abc7594d3f0",
       "date": "2026-04-26",
       "time": "10:00",
@@ -173,6 +173,23 @@
     }
   ],
   "results": [
+    {
+      "id": "1641a19357c7522e60cce648725aabcf",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "RHP Colts Green U14",
+      "away_team": "WBYFC United 14",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "RHP Colts Green U14",
+      "home_away": "home",
+      "opponent": "WBYFC United 14",
+      "goals_for": 6,
+      "goals_against": 1
+    },
     {
       "id": "0aa78b867a73c0c9cd97e263198612a3",
       "date": "2026-04-11",

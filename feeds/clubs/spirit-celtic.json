@@ -1,20 +1,7 @@
 {
   "club": "Spirit Celtic",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "df0d01154da168d7aebbbf063dae1f5e",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Radcliffe Olympic Outlaws U14",
-      "away_team": "Spirit Celtic White U14",
-      "venue": "Bingham Road NG12 2GP",
-      "division": "U14 Sat Spring Div 7",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Spirit Celtic White U14",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic Outlaws U14"
-    },
     {
       "id": "b64d6638916e36f0426d05af74efa1bd",
       "date": "2026-04-18",
@@ -368,6 +355,23 @@
     }
   ],
   "results": [
+    {
+      "id": "df0d01154da168d7aebbbf063dae1f5e",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Radcliffe Olympic Outlaws U14",
+      "away_team": "Spirit Celtic White U14",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sat Spring Div 7",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Spirit Celtic White U14",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic Outlaws U14",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "3ae42269423a0a14565a59f6f5ce06cc",
       "date": "2026-04-11",

@@ -1,19 +1,8 @@
 {
   "team": "Moorgreen Colts White U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "db243854ce168cbe1bbf039d0669e54c",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Moorgreen Colts White U11",
-      "away_team": "Heanor Town Phoenix U11",
-      "venue": "Birnam Park  NG16 2DE",
-      "division": "U11 Sat Spring Div 4 Blue",
-      "home_away": "home",
-      "opponent": "Heanor Town Phoenix U11"
-    },
     {
       "id": "d616944093a8bdcef929b80014041daf",
       "date": "2026-04-18",
@@ -39,7 +28,7 @@
     {
       "id": "3a65107e8a87c8eeebe402e85bb0e9a9",
       "date": "2026-04-25",
-      "time": "11:00",
+      "time": "12:00",
       "home_team": "Moorgreen Colts White U11",
       "away_team": "Newark Town Titans U11",
       "venue": "Birnam Park  NG16 2DE",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "db243854ce168cbe1bbf039d0669e54c",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Moorgreen Colts White U11",
+      "away_team": "Heanor Town Phoenix U11",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat Spring Div 4 Blue",
+      "home_away": "home",
+      "opponent": "Heanor Town Phoenix U11",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "8684fbaef85e9d43d5887a405fbf7f88",
       "date": "2026-03-21",

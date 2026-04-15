@@ -1,20 +1,7 @@
 {
   "club": "Silva FC",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "378cb2cd69560fdb9e3d456864e67db9",
-      "date": "2026-04-14",
-      "time": "18:30",
-      "home_team": "Cotgrave FC Claret U11",
-      "away_team": "Silva FC Carlton Black U11",
-      "venue": "Ridley Sports Ground  NG12 3HA",
-      "division": "U11 Sat YEL Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Silva FC Carlton Black U11",
-      "home_away": "away",
-      "opponent": "Cotgrave FC Claret U11"
-    },
     {
       "id": "c1de98894870d078dfd90594a9231375",
       "date": "2026-04-15",
@@ -510,6 +497,19 @@
       "opponent": "Clifton AW Purple U7"
     },
     {
+      "id": "0f12ea1b9a2ce95ce15a885ac3df77c3",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Priory Celtic Green U9",
+      "away_team": "Silva FC Rushcliffe Gold U9",
+      "venue": "Rushcliffe School NG2 7BZ",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Silva FC Rushcliffe Gold U9",
+      "home_away": "away",
+      "opponent": "Priory Celtic Green U9"
+    },
+    {
       "id": "6786b51aebc6fe91e79c9108c8133e60",
       "date": "2026-04-19",
       "time": "10:00",
@@ -534,19 +534,6 @@
       "team": "Silva FC Rushcliffe Panthers U7",
       "home_away": "home",
       "opponent": "West Hallam Titans U7"
-    },
-    {
-      "id": "16a1d668d27a89f9eb2a1e9900113b66",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Silva FC Rushcliffe Panthers U7",
-      "away_team": "Castle Donington Rockets U7",
-      "venue": "Rushcliffe School NG2 7BZ",
-      "division": "U7 Sun Spring Purple",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Silva FC Rushcliffe Panthers U7",
-      "home_away": "home",
-      "opponent": "Castle Donington Rockets U7"
     },
     {
       "id": "3af76de5e82435f0de5b56013aa3e18a",
@@ -690,19 +677,6 @@
       "team": "Silva FC Sherwood U13",
       "home_away": "away",
       "opponent": "Basford United FC Yellow U13"
-    },
-    {
-      "id": "0f12ea1b9a2ce95ce15a885ac3df77c3",
-      "date": "2026-04-19",
-      "time": "11:30",
-      "home_team": "Priory Celtic Green U9",
-      "away_team": "Silva FC Rushcliffe Gold U9",
-      "venue": "Kimberley Leisure Centre NG16 2NJ",
-      "division": "U9 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Silva FC Rushcliffe Gold U9",
-      "home_away": "away",
-      "opponent": "Priory Celtic Green U9"
     },
     {
       "id": "04e2d7d769bade49af4acd65e28572cc",
@@ -1434,6 +1408,23 @@
     }
   ],
   "results": [
+    {
+      "id": "378cb2cd69560fdb9e3d456864e67db9",
+      "date": "2026-04-14",
+      "time": "18:30",
+      "home_team": "Cotgrave FC Claret U11",
+      "away_team": "Silva FC Carlton Black U11",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Silva FC Carlton Black U11",
+      "home_away": "away",
+      "opponent": "Cotgrave FC Claret U11",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "3db00df3de5be948ec0d002d4375c46a",
       "date": "2026-04-12",

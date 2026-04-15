@@ -1,19 +1,8 @@
 {
   "team": "Priory Celtic White U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "86fedb750ddbbfbef52173718e2f853f",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Priory Celtic White U14",
-      "away_team": "Loughborough Eml Hawks U14",
-      "venue": "Charnwood College, Loughborough LE11 4SQ",
-      "division": "U14 Sat Spring Div 4 Blue",
-      "home_away": "home",
-      "opponent": "Loughborough Eml Hawks U14"
-    },
     {
       "id": "67e8b8ef9a3626db642c6e4683bc3f3b",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "86fedb750ddbbfbef52173718e2f853f",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Priory Celtic White U14",
+      "away_team": "Loughborough Eml Hawks U14",
+      "home_score": 8,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Sat Spring Div 4 Blue",
+      "home_away": "home",
+      "opponent": "Loughborough Eml Hawks U14",
+      "goals_for": 8,
+      "goals_against": 3
+    },
     {
       "id": "ec3ee7521b766cb84a99a985b5832bfb",
       "date": "2026-04-11",

@@ -1,6 +1,6 @@
 {
   "club": "Keyworth United",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
     {
       "id": "67bc4be566a984541f88c71aa3c3fc04",
@@ -66,45 +66,6 @@
       "team": "Keyworth United FC First",
       "home_away": "away",
       "opponent": "Calverton Miners Welfare FC"
-    },
-    {
-      "id": "92518eae7c6d3fe51af687c45028ecbf",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Phoenix Inham Rockets U11",
-      "away_team": "Keyworth United Black U11",
-      "venue": "Inham Nook Recreation Ground NG9 4GQ",
-      "division": "U11 Sat Spring Div 6 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Keyworth United Black U11",
-      "home_away": "away",
-      "opponent": "Phoenix Inham Rockets U11"
-    },
-    {
-      "id": "c135573e1ef72553e4dcaf788052afbf",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Keyworth United Red U12",
-      "away_team": "Keyworth United Blue U12",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U12 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Keyworth United Blue U12",
-      "home_away": "away",
-      "opponent": "Keyworth United Red U12"
-    },
-    {
-      "id": "c135573e1ef72553e4dcaf788052afbf",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Keyworth United Red U12",
-      "away_team": "Keyworth United Blue U12",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U12 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Keyworth United Red U12",
-      "home_away": "home",
-      "opponent": "Keyworth United Blue U12"
     },
     {
       "id": "d6705eaa0b0bd03715c0ba654e625872",
@@ -289,6 +250,19 @@
       "opponent": "Nottingham FC Green U12"
     },
     {
+      "id": "2cf441b9283447d5abe3bdbe450cc663",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Keyworth United White U14",
+      "away_team": "Riverside FC Tides U14",
+      "venue": "Platt Lane NG12 5GE",
+      "division": "U14 Sat Spring Div 6 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Keyworth United White U14",
+      "home_away": "home",
+      "opponent": "Riverside FC Tides U14"
+    },
+    {
       "id": "5de1787b2435516ccc2821221f78a6b0",
       "date": "2026-04-18",
       "time": "10:00",
@@ -471,19 +445,6 @@
       "opponent": "Loughborough Eml Blues U13"
     },
     {
-      "id": "2cf441b9283447d5abe3bdbe450cc663",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Keyworth United White U14",
-      "away_team": "Riverside FC Tides U14",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U14 Sat Spring Div 6 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Keyworth United White U14",
-      "home_away": "home",
-      "opponent": "Riverside FC Tides U14"
-    },
-    {
       "id": "f24c7a482456c0f0e60967fd7518bd9d",
       "date": "2026-04-18",
       "time": "11:30",
@@ -588,6 +549,19 @@
       "opponent": "Pelican Colts U10"
     },
     {
+      "id": "65fab8fa9a4b08d72f3184a360ac9cbe",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Keyworth United Yellow U13",
+      "away_team": "Long Eaton United Black U13",
+      "venue": "Platt Lane NG12 5GE",
+      "division": "U13 Sun Spring Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Keyworth United Yellow U13",
+      "home_away": "home",
+      "opponent": "Long Eaton United Black U13"
+    },
+    {
       "id": "934f6cad04a2eb6ed1a56343238a8ca8",
       "date": "2026-04-19",
       "time": "10:00",
@@ -638,19 +612,6 @@
       "team": "Keyworth United Red U14",
       "home_away": "away",
       "opponent": "Gonerby U14"
-    },
-    {
-      "id": "65fab8fa9a4b08d72f3184a360ac9cbe",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Keyworth United Yellow U13",
-      "away_team": "Long Eaton United Black U13",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U13 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Keyworth United Yellow U13",
-      "home_away": "home",
-      "opponent": "Long Eaton United Black U13"
     },
     {
       "id": "aec7e6cddd02f11df21dc56aab2fa84c",
@@ -1746,6 +1707,57 @@
     }
   ],
   "results": [
+    {
+      "id": "92518eae7c6d3fe51af687c45028ecbf",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Phoenix Inham Rockets U11",
+      "away_team": "Keyworth United Black U11",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 6 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Keyworth United Black U11",
+      "home_away": "away",
+      "opponent": "Phoenix Inham Rockets U11",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
+      "id": "c135573e1ef72553e4dcaf788052afbf",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Keyworth United Red U12",
+      "away_team": "Keyworth United Blue U12",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Keyworth United Blue U12",
+      "home_away": "away",
+      "opponent": "Keyworth United Red U12",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "c135573e1ef72553e4dcaf788052afbf",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Keyworth United Red U12",
+      "away_team": "Keyworth United Blue U12",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Keyworth United Red U12",
+      "home_away": "home",
+      "opponent": "Keyworth United Blue U12",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "c0aeb3942ef6536925246f24ce9a8f3a",
       "date": "2026-04-12",

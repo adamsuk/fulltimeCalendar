@@ -1,19 +1,8 @@
 {
   "team": "Mapperley All Stars Yellow U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "28cc7f7b8e974def8b9cc3fb98a9b45a",
-      "date": "2026-04-14",
-      "time": "18:30",
-      "home_team": "Mapperley All Stars Yellow U13",
-      "away_team": "Annesley AFC U13",
-      "venue": "Lambley Lane NG4 4PA",
-      "division": "U13 Sat YEL Challenge Trophy",
-      "home_away": "home",
-      "opponent": "Annesley AFC U13"
-    },
     {
       "id": "3b009800e9d9a0d6c63925bed9f876dc",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "28cc7f7b8e974def8b9cc3fb98a9b45a",
+      "date": "2026-04-14",
+      "time": "18:30",
+      "home_team": "Mapperley All Stars Yellow U13",
+      "away_team": "Annesley AFC U13",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "",
+      "division": "U13 Sat YEL Challenge Trophy",
+      "home_away": "home",
+      "opponent": "Annesley AFC U13",
+      "goals_for": 2,
+      "goals_against": 6
+    },
     {
       "id": "688b3c1bf070fb3dc03b295c772b492c",
       "date": "2026-03-21",

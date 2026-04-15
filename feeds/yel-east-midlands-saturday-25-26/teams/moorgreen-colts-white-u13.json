@@ -1,19 +1,8 @@
 {
   "team": "Moorgreen Colts White U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "03766f707e55aec86c26c50f89b2e54b",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Mansfield Hos Mills Blue U13",
-      "away_team": "Moorgreen Colts White U13",
-      "venue": "The Fieldings  NG17 2TF",
-      "division": "U13 Sat YEL Inter Cup",
-      "home_away": "away",
-      "opponent": "Mansfield Hos Mills Blue U13"
-    },
     {
       "id": "c192039cabb64649f8e23787cb2d0a9c",
       "date": "2026-04-18",
@@ -24,6 +13,17 @@
       "division": "U13 Sat Spring Div 4 Blue",
       "home_away": "away",
       "opponent": "Loughborough Eml Foxes U13"
+    },
+    {
+      "id": "8d292fe588b9e12d955b971eec01b483",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Moorgreen Colts White U13",
+      "away_team": "East Leake Bantams Orange U13",
+      "venue": "Birnam Park  NG16 2DE",
+      "division": "U13 Sat YEL Inter Cup",
+      "home_away": "home",
+      "opponent": "East Leake Bantams Orange U13"
     },
     {
       "id": "456aff3877cf6f4c909841b3d87a151b",
@@ -38,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "03766f707e55aec86c26c50f89b2e54b",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Mansfield Hos Mills Blue U13",
+      "away_team": "Moorgreen Colts White U13",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U13 Sat YEL Inter Cup",
+      "home_away": "away",
+      "opponent": "Mansfield Hos Mills Blue U13",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "fcb482c6fa3959eb5d8787cebf1401b7",
       "date": "2026-03-21",

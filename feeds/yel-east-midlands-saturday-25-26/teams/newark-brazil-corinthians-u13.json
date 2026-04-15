@@ -1,19 +1,8 @@
 {
   "team": "Newark Brazil Corinthians U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "b07f1da5a6e84983e0af164ec2fdac85",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Newark Brazil Corinthians U13",
-      "away_team": "Collingham FC Lions U13",
-      "venue": "Magnus School Sports Centre NG24 4BZ",
-      "division": "U13 Sat YEL Challenge Trophy",
-      "home_away": "home",
-      "opponent": "Collingham FC Lions U13"
-    },
     {
       "id": "3b009800e9d9a0d6c63925bed9f876dc",
       "date": "2026-04-18",
@@ -35,9 +24,35 @@
       "division": "U13 Saturday",
       "home_away": "away",
       "opponent": "Clifton All Whites Blue U13"
+    },
+    {
+      "id": "ac04913793ee8e9db8673eab3df99ff6",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Arnold Town Blue U13",
+      "away_team": "Newark Brazil Corinthians U13",
+      "venue": "Eagle Valley NG5 8PS",
+      "division": "U13 Sat YEL Challenge Trophy",
+      "home_away": "away",
+      "opponent": "Arnold Town Blue U13"
     }
   ],
   "results": [
+    {
+      "id": "b07f1da5a6e84983e0af164ec2fdac85",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Newark Brazil Corinthians U13",
+      "away_team": "Collingham FC Lions U13",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat YEL Challenge Trophy",
+      "home_away": "home",
+      "opponent": "Collingham FC Lions U13",
+      "goals_for": 6,
+      "goals_against": 1
+    },
     {
       "id": "aa582fd73b3eed716855e1230065b6cc",
       "date": "2026-03-28",

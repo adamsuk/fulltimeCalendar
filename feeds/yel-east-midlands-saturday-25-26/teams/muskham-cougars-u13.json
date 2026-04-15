@@ -1,29 +1,29 @@
 {
   "team": "Muskham Cougars U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "379937228b9dd6cc3df539260b72ca9b",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Southwell City Troopers U13",
-      "away_team": "Muskham Cougars U13",
-      "venue": "Centenary Ground Brinkley NG25 0TU",
-      "division": "U13 Sat YEL Foundation Shield",
-      "home_away": "away",
-      "opponent": "Southwell City Troopers U13"
-    },
     {
       "id": "49ae5bc800f460bba2c6b3729ee981a6",
       "date": "2026-04-18",
-      "time": "11:00",
+      "time": "09:30",
       "home_team": "Muskham Cougars U13",
       "away_team": "Newark Brazil Santos U13",
       "venue": "Muskham Playing Fields NG23 6HL",
       "division": "U13 Sat Spring Div 6 Red",
       "home_away": "home",
       "opponent": "Newark Brazil Santos U13"
+    },
+    {
+      "id": "f1561d4ce152bb7ab63e996a190474da",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Muskham Cougars U13",
+      "away_team": "Woodthorpe Cty Rowdies U13",
+      "venue": "Beckitts Field NG23 6BZ",
+      "division": "U13 Sat YEL Foundation Shield",
+      "home_away": "home",
+      "opponent": "Woodthorpe Cty Rowdies U13"
     },
     {
       "id": "2608ca7b870ab6c7bd8aa5dd9a99c25e",
@@ -38,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "379937228b9dd6cc3df539260b72ca9b",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Southwell City Troopers U13",
+      "away_team": "Muskham Cougars U13",
+      "home_score": 0,
+      "away_score": 8,
+      "venue": "",
+      "division": "U13 Sat YEL Foundation Shield",
+      "home_away": "away",
+      "opponent": "Southwell City Troopers U13",
+      "goals_for": 8,
+      "goals_against": 0
+    },
     {
       "id": "8424126d13779c35fee5efb06a8e0a40",
       "date": "2026-03-14",

@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Blackhawks U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "77ce657043666a9788446e0506a709e2",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "WBYFC Blackhawks U14",
-      "away_team": "WBYFC Scorpions U14",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U14 Sat Spring Div 6 Blue",
-      "home_away": "home",
-      "opponent": "WBYFC Scorpions U14"
-    },
     {
       "id": "f6181872aa296373349098047466ac46",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "77ce657043666a9788446e0506a709e2",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "WBYFC Blackhawks U14",
+      "away_team": "WBYFC Scorpions U14",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "",
+      "division": "U14 Sat Spring Div 6 Blue",
+      "home_away": "home",
+      "opponent": "WBYFC Scorpions U14",
+      "goals_for": 1,
+      "goals_against": 6
+    },
     {
       "id": "33c5cb082bae2aed82aacb852ea14cac",
       "date": "2026-03-21",

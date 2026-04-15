@@ -1,6 +1,6 @@
 {
   "club": "Pelican Colts",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
     {
       "id": "30ca6cb54aa4519f419c8085c7a771ce",
@@ -14,19 +14,6 @@
       "team": "Pelican Colts FC Ladies",
       "home_away": "home",
       "opponent": "Lowdham Colts FC Development"
-    },
-    {
-      "id": "54c5746099a77ab171cf9671595c940e",
-      "date": "2026-04-16",
-      "time": "18:30",
-      "home_team": "Pelican Colts U11",
-      "away_team": "Carlton Town Yellow U11",
-      "venue": "Dave Eastwood Sports Ground NG7 2SA",
-      "division": "U11 Sun Spring Div 6 Gold",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Pelican Colts U11",
-      "home_away": "home",
-      "opponent": "Carlton Town Yellow U11"
     },
     {
       "id": "06296cfe42075eb0e50dc6826a99806b",
@@ -316,6 +303,23 @@
     }
   ],
   "results": [
+    {
+      "id": "783f44a600db8f20b57f75e09997f343",
+      "date": "2026-04-14",
+      "time": "18:30",
+      "home_team": "Pelican Colts U11",
+      "away_team": "Carlton Town Yellow U11",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sun Spring Div 6 Gold",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Pelican Colts U11",
+      "home_away": "home",
+      "opponent": "Carlton Town Yellow U11",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "d72a5b5bdf37b267273f4f8f9cbb9516",
       "date": "2026-04-12",

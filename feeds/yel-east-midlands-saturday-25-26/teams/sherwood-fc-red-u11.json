@@ -1,19 +1,8 @@
 {
   "team": "Sherwood FC Red U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "a40f95ba5bf7bae158a86a61e55dd54a",
-      "date": "2026-04-14",
-      "time": "18:30",
-      "home_team": "Clifton All Whites Scarlet U11",
-      "away_team": "Sherwood FC Red U11",
-      "venue": "Farnborough Academy NG11 8JW",
-      "division": "U11 Sat YEL Challenge Trophy",
-      "home_away": "away",
-      "opponent": "Clifton All Whites Scarlet U11"
-    },
     {
       "id": "f24c7a482456c0f0e60967fd7518bd9d",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a40f95ba5bf7bae158a86a61e55dd54a",
+      "date": "2026-04-14",
+      "time": "18:30",
+      "home_team": "Clifton All Whites Scarlet U11",
+      "away_team": "Sherwood FC Red U11",
+      "home_score": 2,
+      "away_score": 7,
+      "venue": "",
+      "division": "U11 Sat YEL Challenge Trophy",
+      "home_away": "away",
+      "opponent": "Clifton All Whites Scarlet U11",
+      "goals_for": 7,
+      "goals_against": 2
+    },
     {
       "id": "c9f928b6dc64919dc5bd2e63d57e97da",
       "date": "2026-04-11",

@@ -1,46 +1,7 @@
 {
   "club": "Clifton All",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "ae36f7805ae1bde8559cb628d5bd6f1e",
-      "date": "2026-03-28",
-      "time": "15:00",
-      "home_team": "Gedling Southbank FC",
-      "away_team": "Clifton All Whites Reserves",
-      "venue": "THE TREVOR CARTER PAVILION",
-      "division": "NSL Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Clifton All Whites Reserves",
-      "home_away": "away",
-      "opponent": "Gedling Southbank FC"
-    },
-    {
-      "id": "6e2ac7e2668eec1d76e16a90e1b985a8",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Clifton All Whites White U14",
-      "away_team": "Marlborough Rovers U14",
-      "venue": "Farnborough Academy NG11 8JW",
-      "division": "U14 Sat YEL Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Clifton All Whites White U14",
-      "home_away": "home",
-      "opponent": "Marlborough Rovers U14"
-    },
-    {
-      "id": "a40f95ba5bf7bae158a86a61e55dd54a",
-      "date": "2026-04-14",
-      "time": "18:30",
-      "home_team": "Clifton All Whites Scarlet U11",
-      "away_team": "Sherwood FC Red U11",
-      "venue": "Farnborough Academy NG11 8JW",
-      "division": "U11 Sat YEL Challenge Trophy",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Clifton All Whites Scarlet U11",
-      "home_away": "home",
-      "opponent": "Sherwood FC Red U11"
-    },
     {
       "id": "50a4db071dfd6a021ae501aab4c0e0d0",
       "date": "2026-04-18",
@@ -563,6 +524,40 @@
     }
   ],
   "results": [
+    {
+      "id": "a40f95ba5bf7bae158a86a61e55dd54a",
+      "date": "2026-04-14",
+      "time": "18:30",
+      "home_team": "Clifton All Whites Scarlet U11",
+      "away_team": "Sherwood FC Red U11",
+      "home_score": 2,
+      "away_score": 7,
+      "venue": "",
+      "division": "U11 Sat YEL Challenge Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Clifton All Whites Scarlet U11",
+      "home_away": "home",
+      "opponent": "Sherwood FC Red U11",
+      "goals_for": 2,
+      "goals_against": 7
+    },
+    {
+      "id": "6e2ac7e2668eec1d76e16a90e1b985a8",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Clifton All Whites White U14",
+      "away_team": "Marlborough Rovers U14",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sat YEL Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Clifton All Whites White U14",
+      "home_away": "home",
+      "opponent": "Marlborough Rovers U14",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "1258b4027126b5d290b7ec97a54d4018",
       "date": "2026-04-11",

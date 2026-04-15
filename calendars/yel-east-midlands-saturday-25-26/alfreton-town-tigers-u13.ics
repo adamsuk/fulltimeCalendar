@@ -7,17 +7,8 @@ X-WR-CALNAME:Alfreton Town Tigers U13
 X-WR-CALDESC:Fixtures for Alfreton Town Tigers U13 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:23d81d3a80e53d5653246b5a96eef398@yel-calendar
-DTSTAMP:20260414T071818Z
-DTSTART;TZID=Europe/London:20260414T180000
-DTEND;TZID=Europe/London:20260414T190000
-SUMMARY:⚽ Alfreton Town Tigers U13 vs Market Warsop Colts U13 (Away)
-DESCRIPTION:Division: U13 Sat YEL Shield\nMarket Warsop Colts U13 v Alfreton Town Tigers U13\nKO: 18:00
-LOCATION:John Fretwell Centre NG19 8LL
-END:VEVENT
-BEGIN:VEVENT
 UID:459a090b63c63847e5dc62f7097eef69@yel-calendar
-DTSTAMP:20260414T071818Z
+DTSTAMP:20260415T071803Z
 DTSTART;TZID=Europe/London:20260418T103000
 DTEND;TZID=Europe/London:20260418T110000
 SUMMARY:⚽ Alfreton Town Tigers U13 vs WBYFC Spartans U13 (Away)
@@ -26,11 +17,20 @@ LOCATION:Riverside Complex NG7 2SA
 END:VEVENT
 BEGIN:VEVENT
 UID:d902a268c5f8196e2b61cd253fb36c20@yel-calendar
-DTSTAMP:20260414T071818Z
+DTSTAMP:20260415T071803Z
 DTSTART;TZID=Europe/London:20260425T110000
 DTEND;TZID=Europe/London:20260425T120000
 SUMMARY:⚽ Alfreton Town Tigers U13 vs Mickleover Jnrs Porto U13 (Away)
 DESCRIPTION:Division: U13 Saturday\nMickleover Jnrs Porto U13 v Alfreton Town Tigers U13\nKO: 11:00
 LOCATION:Varsity Grange Football Complex DE3 9EB
+END:VEVENT
+BEGIN:VEVENT
+UID:469c3eb0f2b43ca69cd5696a499897e9@yel-calendar
+DTSTAMP:20260415T071803Z
+DTSTART;TZID=Europe/London:20260502T110000
+DTEND;TZID=Europe/London:20260502T120000
+SUMMARY:⚽ Alfreton Town Tigers U13 vs Sandiacre Town Sharks U13 (Home)
+DESCRIPTION:Division: U13 Sat YEL Shield\nAlfreton Town Tigers U13 v Sandiacre Town Sharks U13\nKO: 11:00
+LOCATION:David Neiper Academy School DE55 7JA
 END:VEVENT
 END:VCALENDAR

@@ -1,19 +1,8 @@
 {
   "team": "Beeston FC U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "b70db2d88d35ad16d439c63f6db35653",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Beeston FC U14",
-      "away_team": "Attenborough Colts Blue U14",
-      "venue": "Trent Vale Sports Ground  NG9 1ND",
-      "division": "U14 Sat YEL Inter Cup",
-      "home_away": "home",
-      "opponent": "Attenborough Colts Blue U14"
-    },
     {
       "id": "771e9ee6452ba58a01255f65fc4df3c4",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b70db2d88d35ad16d439c63f6db35653",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Beeston FC U14",
+      "away_team": "Attenborough Colts Blue U14",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sat YEL Inter Cup",
+      "home_away": "home",
+      "opponent": "Attenborough Colts Blue U14",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "eb8db77aa3e9bfae944dce01774a8b6b",
       "date": "2026-04-11",

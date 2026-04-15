@@ -1,19 +1,8 @@
 {
   "team": "Collingham FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "6fb74d9ca9112c1d4e58affcc262961a",
-      "date": "2026-04-14",
-      "time": "19:45",
-      "home_team": "Collingham FC",
-      "away_team": "Awsworth Villa FC",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "NSL Senior Cup",
-      "home_away": "home",
-      "opponent": "Awsworth Villa FC"
-    },
     {
       "id": "79e318b387d2b639b0ce59f923b31496",
       "date": "2026-04-18",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6fb74d9ca9112c1d4e58affcc262961a",
+      "date": "2026-04-14",
+      "time": "19:45",
+      "home_team": "Collingham FC",
+      "away_team": "Awsworth Villa FC",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "NSL Senior Cup",
+      "home_away": "home",
+      "opponent": "Awsworth Villa FC",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "0dffaf17bf0f3bb4f3a27cdc728a655f",
       "date": "2026-04-11",

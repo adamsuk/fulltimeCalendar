@@ -1,19 +1,8 @@
 {
   "team": "Nottingham FC Onyx U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "00e70ed8013826ff50ea74e6da1fbc63",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Nottingham FC Onyx U11",
-      "away_team": "WBYFC Bohemians U11",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U11 Sat Spring Premier Division",
-      "home_away": "home",
-      "opponent": "WBYFC Bohemians U11"
-    },
     {
       "id": "81de4db96052918260f3cc790e35fea8",
       "date": "2026-04-18",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "00e70ed8013826ff50ea74e6da1fbc63",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Nottingham FC Onyx U11",
+      "away_team": "WBYFC Bohemians U11",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Premier Division",
+      "home_away": "home",
+      "opponent": "WBYFC Bohemians U11",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "6b2b413e25cea4e117cb94fe3148a33e",
       "date": "2026-03-21",

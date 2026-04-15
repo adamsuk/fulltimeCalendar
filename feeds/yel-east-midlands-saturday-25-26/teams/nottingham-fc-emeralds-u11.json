@@ -1,19 +1,8 @@
 {
   "team": "Nottingham FC Emeralds U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "57e6ebd8805e257ab246ec96f3d8931d",
-      "date": "2026-04-14",
-      "time": "18:30",
-      "home_team": "Nottingham FC Emeralds U11",
-      "away_team": "Wollaton H & B Dragons U11",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U11 Sat Spring Div 5 Blue",
-      "home_away": "home",
-      "opponent": "Wollaton H & B Dragons U11"
-    },
     {
       "id": "b732e808d61a54abaf897a8329d97d2a",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "57e6ebd8805e257ab246ec96f3d8931d",
+      "date": "2026-04-14",
+      "time": "18:30",
+      "home_team": "Nottingham FC Emeralds U11",
+      "away_team": "Wollaton H & B Dragons U11",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "",
+      "division": "U11 Sat Spring Div 5 Blue",
+      "home_away": "home",
+      "opponent": "Wollaton H & B Dragons U11",
+      "goals_for": 3,
+      "goals_against": 4
+    },
     {
       "id": "c9f928b6dc64919dc5bd2e63d57e97da",
       "date": "2026-04-11",

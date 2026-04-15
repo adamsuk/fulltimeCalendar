@@ -1,19 +1,8 @@
 {
   "team": "Radcliffe Olympic Blue U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "d3e1bc65603334f9d767e6e56b8ec408",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Radcliffe Olympic Blue U12",
-      "away_team": "Long Bennington FC U12",
-      "venue": "Bingham Road NG12 2GP",
-      "division": "U12 Sat Spring Div 7 Red",
-      "home_away": "home",
-      "opponent": "Long Bennington FC U12"
-    },
     {
       "id": "a4410695e53c53b14af9203a8a0816bb",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d3e1bc65603334f9d767e6e56b8ec408",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Radcliffe Olympic Blue U12",
+      "away_team": "Long Bennington FC U12",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 7 Red",
+      "home_away": "home",
+      "opponent": "Long Bennington FC U12",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "e4a97691b648fc4d0f2d2fba0d17a63e",
       "date": "2026-03-28",

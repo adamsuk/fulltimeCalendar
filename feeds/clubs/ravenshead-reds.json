@@ -1,6 +1,6 @@
 {
   "club": "Ravenshead Reds",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
     {
       "id": "22a153c2abbf9955f3c064cc27494143",
@@ -14,19 +14,6 @@
       "team": "Ravenshead Reds FC",
       "home_away": "home",
       "opponent": "Stapleford Town FC Ladies"
-    },
-    {
-      "id": "ec6ee5ba4fef06a72e9f6cdefc1dba9e",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Ravenshead Reds U10",
-      "away_team": "NG United U10",
-      "venue": "Ravenshead leisure Centre NG15 9AG",
-      "division": "U10 Sun Spring Div 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ravenshead Reds U10",
-      "home_away": "home",
-      "opponent": "NG United U10"
     },
     {
       "id": "f2724d2096042255080095b676ae5462",
@@ -589,6 +576,23 @@
     }
   ],
   "results": [
+    {
+      "id": "ec6ee5ba4fef06a72e9f6cdefc1dba9e",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Ravenshead Reds U10",
+      "away_team": "NG United U10",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U10 Sun Spring Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ravenshead Reds U10",
+      "home_away": "home",
+      "opponent": "NG United U10",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "583e81da834223ae55e667ded3739a1c",
       "date": "2026-04-12",

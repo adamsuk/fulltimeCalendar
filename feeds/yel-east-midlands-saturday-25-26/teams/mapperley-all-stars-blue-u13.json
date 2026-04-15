@@ -1,19 +1,8 @@
 {
   "team": "Mapperley All Stars Blue U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "ec584ec2f272e83978266af2856f4229",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Stanton Ilkeston Stallions U13",
-      "away_team": "Mapperley All Stars Blue U13",
-      "venue": "Windsor Crescent DE7 4HD",
-      "division": "U13 Sat YEL Foundation Shield",
-      "home_away": "away",
-      "opponent": "Stanton Ilkeston Stallions U13"
-    },
     {
       "id": "c5f741633682906c1ada1491b64c2a3a",
       "date": "2026-04-18",
@@ -24,6 +13,17 @@
       "division": "U13 Saturday",
       "home_away": "away",
       "opponent": "Woodthorpe Cty Rowdies U13"
+    },
+    {
+      "id": "881baa138198a381b938ef627036ef57",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "G3A FC Zenit U13",
+      "away_team": "Mapperley All Stars Blue U13",
+      "venue": "Manor Park Sports Complex NG19 8JX",
+      "division": "U13 Sat YEL Foundation Shield",
+      "home_away": "away",
+      "opponent": "G3A FC Zenit U13"
     },
     {
       "id": "17590a0a645467b0fc03d55176f70a51",
@@ -38,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ec584ec2f272e83978266af2856f4229",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Stanton Ilkeston Stallions U13",
+      "away_team": "Mapperley All Stars Blue U13",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat YEL Foundation Shield",
+      "home_away": "away",
+      "opponent": "Stanton Ilkeston Stallions U13",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "cf4900eeedad83f182e7741dc1ef7828",
       "date": "2026-03-21",

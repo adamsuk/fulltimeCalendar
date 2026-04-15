@@ -1,19 +1,8 @@
 {
   "team": "Mickleover Country Park U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "ce2be44d53132fb668964bc49e59f2a1",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Basford United Madrid U13",
-      "away_team": "Mickleover Country Park U13",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U13 Sat YEL Inter Cup",
-      "home_away": "away",
-      "opponent": "Basford United Madrid U13"
-    },
     {
       "id": "d8f095c886834fcd6d48b8247feaf1bd",
       "date": "2026-04-18",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ce2be44d53132fb668964bc49e59f2a1",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Basford United Madrid U13",
+      "away_team": "Mickleover Country Park U13",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat YEL Inter Cup",
+      "home_away": "away",
+      "opponent": "Basford United Madrid U13",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "ff342390b4955de98a0f678f5b32ee94",
       "date": "2026-03-28",

@@ -1,19 +1,8 @@
 {
   "team": "Hucknall Town Warriors U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "92a463a1d0f17291eb8eacf3fb534fb3",
-      "date": "2026-04-14",
-      "time": "18:30",
-      "home_team": "Hucknall Town Warriors U10",
-      "away_team": "Rainworth Juniors U10",
-      "venue": "Hucknall Town FC NG15 6DW",
-      "division": "U10 Sat Spring Div 5 Red",
-      "home_away": "home",
-      "opponent": "Rainworth Juniors U10"
-    },
     {
       "id": "c7b5334fb962cd30e68283858cb11ff3",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "92a463a1d0f17291eb8eacf3fb534fb3",
+      "date": "2026-04-14",
+      "time": "18:30",
+      "home_team": "Hucknall Town Warriors U10",
+      "away_team": "Rainworth Juniors U10",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sat Spring Div 5 Red",
+      "home_away": "home",
+      "opponent": "Rainworth Juniors U10",
+      "goals_for": 5,
+      "goals_against": 3
+    },
     {
       "id": "19af72cc9053d3159aa858a7e15a52e7",
       "date": "2026-03-28",

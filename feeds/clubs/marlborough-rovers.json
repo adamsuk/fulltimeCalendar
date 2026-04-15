@@ -1,20 +1,7 @@
 {
   "club": "Marlborough Rovers",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "6e2ac7e2668eec1d76e16a90e1b985a8",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Clifton All Whites White U14",
-      "away_team": "Marlborough Rovers U14",
-      "venue": "Farnborough Academy NG11 8JW",
-      "division": "U14 Sat YEL Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Marlborough Rovers U14",
-      "home_away": "away",
-      "opponent": "Clifton All Whites White U14"
-    },
     {
       "id": "da11d0f82fbc919bb7a58aafd1d8c4ba",
       "date": "2026-04-18",
@@ -53,9 +40,39 @@
       "team": "Marlborough Rovers U14",
       "home_away": "home",
       "opponent": "Heanor Juniors Badgers U14"
+    },
+    {
+      "id": "9943653c33c83cf6c9bb2d07542f5bdb",
+      "date": "2026-05-02",
+      "time": "11:00",
+      "home_team": "Basford United Ambers U14",
+      "away_team": "Marlborough Rovers U14",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U14 Sat YEL Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Marlborough Rovers U14",
+      "home_away": "away",
+      "opponent": "Basford United Ambers U14"
     }
   ],
   "results": [
+    {
+      "id": "6e2ac7e2668eec1d76e16a90e1b985a8",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Clifton All Whites White U14",
+      "away_team": "Marlborough Rovers U14",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sat YEL Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Marlborough Rovers U14",
+      "home_away": "away",
+      "opponent": "Clifton All Whites White U14",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "32974fd01664dade6da27bda091a9a5b",
       "date": "2026-03-21",

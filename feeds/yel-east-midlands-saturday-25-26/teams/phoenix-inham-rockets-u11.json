@@ -1,19 +1,8 @@
 {
   "team": "Phoenix Inham Rockets U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "92518eae7c6d3fe51af687c45028ecbf",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Phoenix Inham Rockets U11",
-      "away_team": "Keyworth United Black U11",
-      "venue": "Inham Nook Recreation Ground NG9 4GQ",
-      "division": "U11 Sat Spring Div 6 Blue",
-      "home_away": "home",
-      "opponent": "Keyworth United Black U11"
-    },
     {
       "id": "37050888fff10362c1976e26adb6ad7b",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "92518eae7c6d3fe51af687c45028ecbf",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Phoenix Inham Rockets U11",
+      "away_team": "Keyworth United Black U11",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 6 Blue",
+      "home_away": "home",
+      "opponent": "Keyworth United Black U11",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "a3cbd7d6690353f2195c354012c2e49a",
       "date": "2026-03-28",

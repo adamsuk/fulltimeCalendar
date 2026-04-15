@@ -1,20 +1,7 @@
 {
   "club": "AC United",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "69de3170f43c78ce846c5775b3dd3893",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Long Bennington FC U11",
-      "away_team": "AC United U11",
-      "venue": "QE2 Playing Field NG23 5HD",
-      "division": "U11 Sat Spring Div 6 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "AC United U11",
-      "home_away": "away",
-      "opponent": "Long Bennington FC U11"
-    },
     {
       "id": "6dda735f8066a2592a079f1f21b148e0",
       "date": "2026-04-18",
@@ -147,6 +134,23 @@
     }
   ],
   "results": [
+    {
+      "id": "69de3170f43c78ce846c5775b3dd3893",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Long Bennington FC U11",
+      "away_team": "AC United U11",
+      "home_score": 7,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "AC United U11",
+      "home_away": "away",
+      "opponent": "Long Bennington FC U11",
+      "goals_for": 1,
+      "goals_against": 7
+    },
     {
       "id": "fe4e9d74977acb2ac86fb18b1ab1acd0",
       "date": "2026-04-11",

@@ -1,19 +1,8 @@
 {
   "team": "Stanton Ilkeston Stallions U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "ec584ec2f272e83978266af2856f4229",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Stanton Ilkeston Stallions U13",
-      "away_team": "Mapperley All Stars Blue U13",
-      "venue": "Windsor Crescent DE7 4HD",
-      "division": "U13 Sat YEL Foundation Shield",
-      "home_away": "home",
-      "opponent": "Mapperley All Stars Blue U13"
-    },
     {
       "id": "8894a165ca788eb0d5e0d38b9fadcdb8",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ec584ec2f272e83978266af2856f4229",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Stanton Ilkeston Stallions U13",
+      "away_team": "Mapperley All Stars Blue U13",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat YEL Foundation Shield",
+      "home_away": "home",
+      "opponent": "Mapperley All Stars Blue U13",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "523c8a625ea5fbe2dcfd7364863c5766",
       "date": "2026-03-28",

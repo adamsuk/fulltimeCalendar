@@ -1,6 +1,6 @@
 {
   "club": "Cotgrave FC",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
     {
       "id": "505bc6741a5b0c9ad1be18a244865fa4",
@@ -14,32 +14,6 @@
       "team": "Cotgrave FC Blue U9",
       "home_away": "home",
       "opponent": "Breaston Park Green U9"
-    },
-    {
-      "id": "3c8a22ee655417c23f0ef0bd0691639c",
-      "date": "2026-04-14",
-      "time": "18:30",
-      "home_team": "Sporting Markfield U14",
-      "away_team": "Cotgrave FC Blue U14",
-      "venue": "Jubilee Playing Fields  LE67 9PX",
-      "division": "U14 Sat Spring Premier Division",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Cotgrave FC Blue U14",
-      "home_away": "away",
-      "opponent": "Sporting Markfield U14"
-    },
-    {
-      "id": "378cb2cd69560fdb9e3d456864e67db9",
-      "date": "2026-04-14",
-      "time": "18:30",
-      "home_team": "Cotgrave FC Claret U11",
-      "away_team": "Silva FC Carlton Black U11",
-      "venue": "Ridley Sports Ground  NG12 3HA",
-      "division": "U11 Sat YEL Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Cotgrave FC Claret U11",
-      "home_away": "home",
-      "opponent": "Silva FC Carlton Black U11"
     },
     {
       "id": "c2a1837da6869cbff01bcfb2c8bc1d7f",
@@ -237,6 +211,19 @@
       "opponent": "West Hallam Roses U10"
     },
     {
+      "id": "ebd11c3213d346e34d648378dfba9133",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Cotgrave FC Blue U12",
+      "away_team": "Gedling FC Tigers U12 *",
+      "venue": "Ridley Sports Ground NG12 3HA",
+      "division": "U12 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Cotgrave FC Blue U12",
+      "home_away": "home",
+      "opponent": "Gedling FC Tigers U12 *"
+    },
+    {
       "id": "74688ca495af132007a3711f12b91c49",
       "date": "2026-04-19",
       "time": "10:00",
@@ -302,19 +289,6 @@
       "opponent": "Meden Vale Colts F.C. U14 Girls"
     },
     {
-      "id": "a91dc4372f6c994279a42ea77aa8d5ef",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "East Leake FC U9 Bantams Girls Red",
-      "away_team": "Cotgrave FC U9 White",
-      "venue": "EAST LEAKE PLAYING FIELDS",
-      "division": "U9  Development Yellow",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Cotgrave FC U9 White",
-      "home_away": "away",
-      "opponent": "East Leake FC U9 Bantams Girls Red"
-    },
-    {
       "id": "01505957871af2586acc426e0cd17ef4",
       "date": "2026-04-19",
       "time": "10:00",
@@ -328,32 +302,6 @@
       "opponent": "West Bridgford Colts U9 Nova"
     },
     {
-      "id": "ebd11c3213d346e34d648378dfba9133",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Cotgrave FC Blue U12",
-      "away_team": "Gedling FC Tigers U12 *",
-      "venue": "Ridley Sports Ground NG12 3HA",
-      "division": "U12 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Cotgrave FC Blue U12",
-      "home_away": "home",
-      "opponent": "Gedling FC Tigers U12 *"
-    },
-    {
-      "id": "8d9215aab75752a9f4b45ffb8847eee1",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Melbourne Dynamo Rangers U12",
-      "away_team": "Cotgrave FC White U12",
-      "venue": "Ticknall Cricket Club DE73 7JG",
-      "division": "U12 Sun Spring Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Cotgrave FC White U12",
-      "home_away": "away",
-      "opponent": "Melbourne Dynamo Rangers U12"
-    },
-    {
       "id": "c7e248deb705b15a77e3715c9124b77f",
       "date": "2026-04-19",
       "time": "11:30",
@@ -365,6 +313,19 @@
       "team": "Cotgrave FC Green U10",
       "home_away": "home",
       "opponent": "Kirkby Colts U10"
+    },
+    {
+      "id": "8d9215aab75752a9f4b45ffb8847eee1",
+      "date": "2026-04-19",
+      "time": "11:30",
+      "home_team": "Melbourne Dynamo Rangers U12",
+      "away_team": "Cotgrave FC White U12",
+      "venue": "Ridley Sports Ground NG12 3HA",
+      "division": "U12 Sun Spring Div 2 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Cotgrave FC White U12",
+      "home_away": "away",
+      "opponent": "Melbourne Dynamo Rangers U12"
     },
     {
       "id": "266c944d7900b18c19ec62aa70bd6fb4",
@@ -408,7 +369,7 @@
     {
       "id": "03db302abaf99444c515803db2e6e233",
       "date": "2026-04-21",
-      "time": "15:00",
+      "time": "19:30",
       "home_team": "Cotgrave FC",
       "away_team": "Arnold Town FC",
       "venue": "COTGRAVE WELFARE CLUB #1",
@@ -562,6 +523,19 @@
       "opponent": "Silva FC Rushcliffe Reds U13"
     },
     {
+      "id": "9bcc546255aef170316da6d20fca2abb",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Cotgrave FC Claret U11",
+      "away_team": "Clay Cross Town Bulldogs U11",
+      "venue": "Ridley Sports Ground  NG12 3HA",
+      "division": "U11 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Cotgrave FC Claret U11",
+      "home_away": "home",
+      "opponent": "Clay Cross Town Bulldogs U11"
+    },
+    {
       "id": "78fd74faf7dc4f1981f1271d2b4eacbf",
       "date": "2026-04-25",
       "time": "11:00",
@@ -638,6 +612,19 @@
       "team": "Cotgrave FC U11 Girls",
       "home_away": "away",
       "opponent": "Hasland Community U11 Girls"
+    },
+    {
+      "id": "9f16104c6655671d53766c0c97d4ea9c",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "East Leake FC U9 Bantams Girls Red",
+      "away_team": "Cotgrave FC U9 White",
+      "venue": "EAST LEAKE PLAYING FIELDS",
+      "division": "U9  Development Yellow",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Cotgrave FC U9 White",
+      "home_away": "away",
+      "opponent": "East Leake FC U9 Bantams Girls Red"
     },
     {
       "id": "d1080865e99bcb235566792f3eb9c95b",
@@ -796,6 +783,19 @@
       "opponent": "Grantham Town White U9"
     },
     {
+      "id": "6af3f1c50f73b803e65d264718bfcc6e",
+      "date": "2026-05-09",
+      "time": "15:00",
+      "home_team": "Awsworth Villa FC",
+      "away_team": "Cotgrave FC",
+      "venue": "HUCKNALL TOWN FOOTBALL CLUB",
+      "division": "NSL Senior Cup",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "away",
+      "opponent": "Awsworth Villa FC"
+    },
+    {
       "id": "96adf9cc029d91c948b808b7633e4b93",
       "date": "2026-05-10",
       "time": "10:30",
@@ -823,6 +823,40 @@
     }
   ],
   "results": [
+    {
+      "id": "3c8a22ee655417c23f0ef0bd0691639c",
+      "date": "2026-04-14",
+      "time": "18:30",
+      "home_team": "Sporting Markfield U14",
+      "away_team": "Cotgrave FC Blue U14",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Cotgrave FC Blue U14",
+      "home_away": "away",
+      "opponent": "Sporting Markfield U14",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
+      "id": "378cb2cd69560fdb9e3d456864e67db9",
+      "date": "2026-04-14",
+      "time": "18:30",
+      "home_team": "Cotgrave FC Claret U11",
+      "away_team": "Silva FC Carlton Black U11",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Cotgrave FC Claret U11",
+      "home_away": "home",
+      "opponent": "Silva FC Carlton Black U11",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "f586c5499ca6d67de6b388ddfdd93424",
       "date": "2026-04-12",

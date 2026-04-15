@@ -1,6 +1,6 @@
 {
   "club": "AJ Sport",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
     {
       "id": "6cf2b543cd315c5e29610b0673c1a237",
@@ -14,19 +14,6 @@
       "team": "AJ Sport F.C. Reserves",
       "home_away": "home",
       "opponent": "Pass Move Grin Reserves"
-    },
-    {
-      "id": "5044988cb423f415865bdb7f507ea7cb",
-      "date": "2026-04-14",
-      "time": "18:30",
-      "home_team": "AJ Sport F.C. Reserves",
-      "away_team": "Attenborough FC",
-      "venue": "LEYTON CRESCENT RECREATION GROUND",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "AJ Sport F.C. Reserves",
-      "home_away": "home",
-      "opponent": "Attenborough FC"
     },
     {
       "id": "c99ab3c756ddae47e3712ce20d2f74c5",
@@ -170,19 +157,6 @@
       "team": "AJ Sport Black U7",
       "home_away": "home",
       "opponent": "Castle Donington Rockets U7"
-    },
-    {
-      "id": "abffeda21d9f6deda6abacf2e23ad548",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "AJ Sport Black U7",
-      "away_team": "Vale FC U7",
-      "venue": "Beeston Fields Recreation Ground NG9 2QE",
-      "division": "U7 Sun Spring White",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "AJ Sport Black U7",
-      "home_away": "home",
-      "opponent": "Vale FC U7"
     },
     {
       "id": "fca975da801f16cd0a3cdab72413a9fb",
@@ -524,6 +498,23 @@
     }
   ],
   "results": [
+    {
+      "id": "5044988cb423f415865bdb7f507ea7cb",
+      "date": "2026-04-14",
+      "time": "18:30",
+      "home_team": "AJ Sport F.C. Reserves",
+      "away_team": "Attenborough FC",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "AJ Sport F.C. Reserves",
+      "home_away": "home",
+      "opponent": "Attenborough FC",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "ddd18a1016615568a6dfe4568fea7a7c",
       "date": "2026-04-12",

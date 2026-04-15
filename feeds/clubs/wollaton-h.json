@@ -1,33 +1,7 @@
 {
   "club": "Wollaton H",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "57e6ebd8805e257ab246ec96f3d8931d",
-      "date": "2026-04-14",
-      "time": "18:30",
-      "home_team": "Nottingham FC Emeralds U11",
-      "away_team": "Wollaton H & B Dragons U11",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U11 Sat Spring Div 5 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Wollaton H & B Dragons U11",
-      "home_away": "away",
-      "opponent": "Nottingham FC Emeralds U11"
-    },
-    {
-      "id": "0364229dc9883443fb4d73f73cc75191",
-      "date": "2026-04-14",
-      "time": "18:30",
-      "home_team": "Heanor Town Panthers U12",
-      "away_team": "Wollaton H & B Yellow U12",
-      "venue": "Riddings Park  DE55 4EW",
-      "division": "U12 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Wollaton H & B Yellow U12",
-      "home_away": "away",
-      "opponent": "Heanor Town Panthers U12"
-    },
     {
       "id": "771e9ee6452ba58a01255f65fc4df3c4",
       "date": "2026-04-18",
@@ -420,6 +394,40 @@
     }
   ],
   "results": [
+    {
+      "id": "57e6ebd8805e257ab246ec96f3d8931d",
+      "date": "2026-04-14",
+      "time": "18:30",
+      "home_team": "Nottingham FC Emeralds U11",
+      "away_team": "Wollaton H & B Dragons U11",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "",
+      "division": "U11 Sat Spring Div 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Wollaton H & B Dragons U11",
+      "home_away": "away",
+      "opponent": "Nottingham FC Emeralds U11",
+      "goals_for": 4,
+      "goals_against": 3
+    },
+    {
+      "id": "0364229dc9883443fb4d73f73cc75191",
+      "date": "2026-04-14",
+      "time": "18:30",
+      "home_team": "Heanor Town Panthers U12",
+      "away_team": "Wollaton H & B Yellow U12",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Wollaton H & B Yellow U12",
+      "home_away": "away",
+      "opponent": "Heanor Town Panthers U12",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "2882852108344505346e1db927ea467f",
       "date": "2026-04-11",

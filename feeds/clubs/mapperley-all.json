@@ -1,33 +1,7 @@
 {
   "club": "Mapperley All",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "ec584ec2f272e83978266af2856f4229",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Stanton Ilkeston Stallions U13",
-      "away_team": "Mapperley All Stars Blue U13",
-      "venue": "Windsor Crescent DE7 4HD",
-      "division": "U13 Sat YEL Foundation Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Mapperley All Stars Blue U13",
-      "home_away": "away",
-      "opponent": "Stanton Ilkeston Stallions U13"
-    },
-    {
-      "id": "28cc7f7b8e974def8b9cc3fb98a9b45a",
-      "date": "2026-04-14",
-      "time": "18:30",
-      "home_team": "Mapperley All Stars Yellow U13",
-      "away_team": "Annesley AFC U13",
-      "venue": "Lambley Lane NG4 4PA",
-      "division": "U13 Sat YEL Challenge Trophy",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Mapperley All Stars Yellow U13",
-      "home_away": "home",
-      "opponent": "Annesley AFC U13"
-    },
     {
       "id": "6242932ed5537fe12b72876c0990c44a",
       "date": "2026-04-18",
@@ -146,19 +120,6 @@
       "opponent": "Beaufort United Reds U8"
     },
     {
-      "id": "2766853fca79b5c4d9aaa097d83c1353",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Southwell City Devils U8",
-      "away_team": "Mapperley All Stars Blue U8",
-      "venue": "Southwell City FC NG25 0JP",
-      "division": "U8 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Mapperley All Stars Blue U8",
-      "home_away": "away",
-      "opponent": "Southwell City Devils U8"
-    },
-    {
       "id": "3d1701988abbe297ba000556ab9316d1",
       "date": "2026-04-19",
       "time": "10:00",
@@ -196,6 +157,19 @@
       "team": "Mapperley All Stars Yellow U8",
       "home_away": "home",
       "opponent": "Carlton Town Yellow U8"
+    },
+    {
+      "id": "881baa138198a381b938ef627036ef57",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "G3A FC Zenit U13",
+      "away_team": "Mapperley All Stars Blue U13",
+      "venue": "Manor Park Sports Complex NG19 8JX",
+      "division": "U13 Sat YEL Foundation Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mapperley All Stars Blue U13",
+      "home_away": "away",
+      "opponent": "G3A FC Zenit U13"
     },
     {
       "id": "8385a52bcd76eae1874563c14efd3824",
@@ -394,6 +368,40 @@
     }
   ],
   "results": [
+    {
+      "id": "28cc7f7b8e974def8b9cc3fb98a9b45a",
+      "date": "2026-04-14",
+      "time": "18:30",
+      "home_team": "Mapperley All Stars Yellow U13",
+      "away_team": "Annesley AFC U13",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "",
+      "division": "U13 Sat YEL Challenge Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mapperley All Stars Yellow U13",
+      "home_away": "home",
+      "opponent": "Annesley AFC U13",
+      "goals_for": 2,
+      "goals_against": 6
+    },
+    {
+      "id": "ec584ec2f272e83978266af2856f4229",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Stanton Ilkeston Stallions U13",
+      "away_team": "Mapperley All Stars Blue U13",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat YEL Foundation Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mapperley All Stars Blue U13",
+      "home_away": "away",
+      "opponent": "Stanton Ilkeston Stallions U13",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "26d4099b4c54c53bff30d00234daf38a",
       "date": "2026-04-12",

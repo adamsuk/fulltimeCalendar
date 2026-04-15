@@ -1,20 +1,7 @@
 {
   "club": "Borrowash Youth",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "a0745d59e864b7cc551f76c5f6acaf8f",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Bagthorpe Athletic U11",
-      "away_team": "Borrowash Youth Rams U11",
-      "venue": "Dixies Arms Park NG16 5HF",
-      "division": "U11 Sat Spring Div 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Borrowash Youth Rams U11",
-      "home_away": "away",
-      "opponent": "Bagthorpe Athletic U11"
-    },
     {
       "id": "b9e243e3b1e7242d8458ba98a3dec63a",
       "date": "2026-04-18",
@@ -81,16 +68,16 @@
       "opponent": "Stanton Ilkeston Phoenix U11"
     },
     {
-      "id": "a3aedcbb72257ff2ee243d73f2f7ad93",
+      "id": "df58372713118d80dc05df69dd9142c9",
       "date": "2026-04-19",
       "time": "11:00",
-      "home_team": "Borrowash Youth Lions U11",
-      "away_team": "Castle Donington Tigers U11",
+      "home_team": "Castle Donington Tigers U11",
+      "away_team": "Borrowash Youth Lions U11",
       "venue": "Spital Park DE74 2NQ",
       "division": "U11 Sun Spring Div 6 Silver",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Borrowash Youth Lions U11",
-      "home_away": "home",
+      "home_away": "away",
       "opponent": "Castle Donington Tigers U11"
     },
     {
@@ -212,6 +199,23 @@
     }
   ],
   "results": [
+    {
+      "id": "a0745d59e864b7cc551f76c5f6acaf8f",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Bagthorpe Athletic U11",
+      "away_team": "Borrowash Youth Rams U11",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Borrowash Youth Rams U11",
+      "home_away": "away",
+      "opponent": "Bagthorpe Athletic U11",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "db1818b41ac97d6c7d29e4f0728bf1d0",
       "date": "2026-04-12",

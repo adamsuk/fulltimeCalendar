@@ -1,33 +1,7 @@
 {
   "club": "Moorgreen Colts",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "db243854ce168cbe1bbf039d0669e54c",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Moorgreen Colts White U11",
-      "away_team": "Heanor Town Phoenix U11",
-      "venue": "Birnam Park  NG16 2DE",
-      "division": "U11 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Moorgreen Colts White U11",
-      "home_away": "home",
-      "opponent": "Heanor Town Phoenix U11"
-    },
-    {
-      "id": "03766f707e55aec86c26c50f89b2e54b",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Mansfield Hos Mills Blue U13",
-      "away_team": "Moorgreen Colts White U13",
-      "venue": "The Fieldings  NG17 2TF",
-      "division": "U13 Sat YEL Inter Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Moorgreen Colts White U13",
-      "home_away": "away",
-      "opponent": "Mansfield Hos Mills Blue U13"
-    },
     {
       "id": "c192039cabb64649f8e23787cb2d0a9c",
       "date": "2026-04-18",
@@ -159,19 +133,6 @@
       "opponent": "Pelican Colts Blue U13"
     },
     {
-      "id": "cab66f25c2885808c657473a0d6edd36",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Selston FC U7",
-      "away_team": "Moorgreen Colts 1985 U7",
-      "venue": "Selston Parish NG16 6EE",
-      "division": "U7 Sun Spring Green",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Moorgreen Colts 1985 U7",
-      "home_away": "away",
-      "opponent": "Selston FC U7"
-    },
-    {
       "id": "b8dc77d2d51518108fc229fa6c326dbc",
       "date": "2026-04-19",
       "time": "10:00",
@@ -235,6 +196,19 @@
       "team": "Moorgreen Colts White U11",
       "home_away": "away",
       "opponent": "Priory Celtic Hoops U11"
+    },
+    {
+      "id": "8d292fe588b9e12d955b971eec01b483",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Moorgreen Colts White U13",
+      "away_team": "East Leake Bantams Orange U13",
+      "venue": "Birnam Park  NG16 2DE",
+      "division": "U13 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Moorgreen Colts White U13",
+      "home_away": "home",
+      "opponent": "East Leake Bantams Orange U13"
     },
     {
       "id": "6b42078e5c6289b62692c0f643cf7ebb",
@@ -302,19 +276,6 @@
       "opponent": "Keyworth United Green U12"
     },
     {
-      "id": "3a65107e8a87c8eeebe402e85bb0e9a9",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Moorgreen Colts White U11",
-      "away_team": "Newark Town Titans U11",
-      "venue": "Birnam Park  NG16 2DE",
-      "division": "U11 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Moorgreen Colts White U11",
-      "home_away": "home",
-      "opponent": "Newark Town Titans U11"
-    },
-    {
       "id": "456aff3877cf6f4c909841b3d87a151b",
       "date": "2026-04-25",
       "time": "11:00",
@@ -339,6 +300,19 @@
       "team": "Moorgreen Colts U9",
       "home_away": "away",
       "opponent": "Priory Celtic Hoops U9"
+    },
+    {
+      "id": "3a65107e8a87c8eeebe402e85bb0e9a9",
+      "date": "2026-04-25",
+      "time": "12:00",
+      "home_team": "Moorgreen Colts White U11",
+      "away_team": "Newark Town Titans U11",
+      "venue": "Birnam Park  NG16 2DE",
+      "division": "U11 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Moorgreen Colts White U11",
+      "home_away": "home",
+      "opponent": "Newark Town Titans U11"
     },
     {
       "id": "3bac992ccec9b04eb274af414e536f1e",
@@ -472,6 +446,40 @@
     }
   ],
   "results": [
+    {
+      "id": "db243854ce168cbe1bbf039d0669e54c",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Moorgreen Colts White U11",
+      "away_team": "Heanor Town Phoenix U11",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Moorgreen Colts White U11",
+      "home_away": "home",
+      "opponent": "Heanor Town Phoenix U11",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "03766f707e55aec86c26c50f89b2e54b",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Mansfield Hos Mills Blue U13",
+      "away_team": "Moorgreen Colts White U13",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U13 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Moorgreen Colts White U13",
+      "home_away": "away",
+      "opponent": "Mansfield Hos Mills Blue U13",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "ae509fa9e0a83245c0a5744a64bc5fdf",
       "date": "2026-04-13",

@@ -1,20 +1,7 @@
 {
   "club": "Willow Wand Wolverines",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "507e4262c3cddd7dcd7b4d2331e2f6bf",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Heanor Juniors Spartans U12",
-      "away_team": "Willow Wand Wolverines U12",
-      "venue": "Riddings Park  DE55 4EW",
-      "division": "U12 Sat YEL Challenge Trophy",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Willow Wand Wolverines U12",
-      "home_away": "away",
-      "opponent": "Heanor Juniors Spartans U12"
-    },
     {
       "id": "47066c0f0819113f2babccef7abd2695",
       "date": "2026-04-18",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "507e4262c3cddd7dcd7b4d2331e2f6bf",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Heanor Juniors Spartans U12",
+      "away_team": "Willow Wand Wolverines U12",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat YEL Challenge Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Willow Wand Wolverines U12",
+      "home_away": "away",
+      "opponent": "Heanor Juniors Spartans U12",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "0d86ecf67727c32823839c6c89ccb594",
       "date": "2026-03-21",

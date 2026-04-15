@@ -1,6 +1,6 @@
 {
   "club": "Long Bennington",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
     {
       "id": "23cf20a7a89140c30daa41864742e111",
@@ -14,32 +14,6 @@
       "team": "Long Bennington FC U18 Girls",
       "home_away": "home",
       "opponent": "Sleetmoor United FC U18 Girls"
-    },
-    {
-      "id": "69de3170f43c78ce846c5775b3dd3893",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Long Bennington FC U11",
-      "away_team": "AC United U11",
-      "venue": "QE2 Playing Field NG23 5HD",
-      "division": "U11 Sat Spring Div 6 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Long Bennington FC U11",
-      "home_away": "home",
-      "opponent": "AC United U11"
-    },
-    {
-      "id": "d3e1bc65603334f9d767e6e56b8ec408",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Radcliffe Olympic Blue U12",
-      "away_team": "Long Bennington FC U12",
-      "venue": "Bingham Road NG12 2GP",
-      "division": "U12 Sat Spring Div 7 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Long Bennington FC U12",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic Blue U12"
     },
     {
       "id": "d722b4c1b682b054aabb842f6af23bbd",
@@ -290,6 +264,40 @@
     }
   ],
   "results": [
+    {
+      "id": "69de3170f43c78ce846c5775b3dd3893",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Long Bennington FC U11",
+      "away_team": "AC United U11",
+      "home_score": 7,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Bennington FC U11",
+      "home_away": "home",
+      "opponent": "AC United U11",
+      "goals_for": 7,
+      "goals_against": 1
+    },
+    {
+      "id": "d3e1bc65603334f9d767e6e56b8ec408",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Radcliffe Olympic Blue U12",
+      "away_team": "Long Bennington FC U12",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Bennington FC U12",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic Blue U12",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "6418d15068beb3426f969161d3410596",
       "date": "2026-04-11",

@@ -1,19 +1,8 @@
 {
   "team": "Phoenix Inham Inferno U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "d9bf80ef8da5f4ecb45dc6ab1888e774",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Phoenix Inham Inferno U14",
-      "away_team": "Loughborough Eml Falcons U14",
-      "venue": "Inham Nook Recreation Ground NG9 4GQ",
-      "division": "U14 Sat YEL Trophy (Revised)",
-      "home_away": "home",
-      "opponent": "Loughborough Eml Falcons U14"
-    },
     {
       "id": "15620af1e5226172ead47670a917cd90",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d9bf80ef8da5f4ecb45dc6ab1888e774",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Phoenix Inham Inferno U14",
+      "away_team": "Loughborough Eml Falcons U14",
+      "home_score": 4,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sat YEL Trophy (Revised)",
+      "home_away": "home",
+      "opponent": "Loughborough Eml Falcons U14",
+      "goals_for": 4,
+      "goals_against": 4
+    },
     {
       "id": "8c2172079ffda73ff56bd77e6318a2a1",
       "date": "2026-03-14",

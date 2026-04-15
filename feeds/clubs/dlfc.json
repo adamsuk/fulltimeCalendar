@@ -1,33 +1,7 @@
 {
   "club": "DLFC",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "50c9da7c1735f60b77a4197863da6fde",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "DLFC Green U11",
-      "away_team": "DLFC Blue U11",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U11 Sat Spring Div 8",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Blue U11",
-      "home_away": "away",
-      "opponent": "DLFC Green U11"
-    },
-    {
-      "id": "50c9da7c1735f60b77a4197863da6fde",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "DLFC Green U11",
-      "away_team": "DLFC Blue U11",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U11 Sat Spring Div 8",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Green U11",
-      "home_away": "home",
-      "opponent": "DLFC Blue U11"
-    },
     {
       "id": "6cb4bb410b708f42f485267dfad5700f",
       "date": "2026-04-16",
@@ -495,19 +469,6 @@
       "team": "DLFC Orange U7",
       "home_away": "home",
       "opponent": "Moorgreen Colts 1985 U7"
-    },
-    {
-      "id": "d846438c2f6e345f177d36bc0f35f895",
-      "date": "2026-04-19",
-      "time": "09:30",
-      "home_team": "DLFC Orange U7",
-      "away_team": "West Hallam Titans U7",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U7 Sun Spring Purple",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Orange U7",
-      "home_away": "home",
-      "opponent": "West Hallam Titans U7"
     },
     {
       "id": "ce885f5680a012cd2e2f90f41094aa8a",
@@ -1472,19 +1433,6 @@
       "opponent": "Radcliffe Olympic U11"
     },
     {
-      "id": "a89296c4ddfdf9c87249c0b5f72731fb",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Sandiacre Town Cyclones U12",
-      "away_team": "DLFC Black U12",
-      "venue": "Friesland School NG10 5AF",
-      "division": "U12 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Black U12",
-      "home_away": "away",
-      "opponent": "Sandiacre Town Cyclones U12"
-    },
-    {
       "id": "9c8da2dc4f134d1765c2746da41e2d14",
       "date": "2026-04-26",
       "time": "11:00",
@@ -1602,6 +1550,19 @@
       "opponent": "Ollerton Town U12"
     },
     {
+      "id": "a89296c4ddfdf9c87249c0b5f72731fb",
+      "date": "2026-04-26",
+      "time": "11:30",
+      "home_team": "Sandiacre Town Cyclones U12",
+      "away_team": "DLFC Black U12",
+      "venue": "Friesland School NG10 5AF",
+      "division": "U12 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "DLFC Black U12",
+      "home_away": "away",
+      "opponent": "Sandiacre Town Cyclones U12"
+    },
+    {
       "id": "96b56e1a938884ffbd1cd4b318003dc0",
       "date": "2026-05-09",
       "time": "10:15",
@@ -1655,6 +1616,40 @@
     }
   ],
   "results": [
+    {
+      "id": "50c9da7c1735f60b77a4197863da6fde",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "DLFC Green U11",
+      "away_team": "DLFC Blue U11",
+      "home_score": 8,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat Spring Div 8",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Blue U11",
+      "home_away": "away",
+      "opponent": "DLFC Green U11",
+      "goals_for": 2,
+      "goals_against": 8
+    },
+    {
+      "id": "50c9da7c1735f60b77a4197863da6fde",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "DLFC Green U11",
+      "away_team": "DLFC Blue U11",
+      "home_score": 8,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat Spring Div 8",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Green U11",
+      "home_away": "home",
+      "opponent": "DLFC Blue U11",
+      "goals_for": 8,
+      "goals_against": 2
+    },
     {
       "id": "11b9785ae3e9d7eeeaf9265ed7462d05",
       "date": "2026-04-12",

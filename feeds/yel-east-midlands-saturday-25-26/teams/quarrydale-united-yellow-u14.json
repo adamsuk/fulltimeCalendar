@@ -1,19 +1,8 @@
 {
   "team": "Quarrydale United Yellow U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "15ac3225f52d94877774f1d99b9da282",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Quarrydale United Yellow U14",
-      "away_team": "Lowdham FC Red U14",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "u14 Sat Spring Div 1 Silver",
-      "home_away": "home",
-      "opponent": "Lowdham FC Red U14"
-    },
     {
       "id": "4a69fdca7bd0116ec3cfa0c4f863cd4a",
       "date": "2026-04-18",
@@ -24,6 +13,17 @@
       "division": "u14 Sat Spring Div 1 Silver",
       "home_away": "home",
       "opponent": "Hilton Harriers Bears U14"
+    },
+    {
+      "id": "7a9f8fe42a9b2868f40df4dd6dc57904",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Quarrydale United Yellow U14",
+      "away_team": "Loughborough Eml Falcons U14",
+      "venue": "Bentinck Miners Welfare NG17 8GS",
+      "division": "U14 Sat YEL Trophy (Revised)",
+      "home_away": "home",
+      "opponent": "Loughborough Eml Falcons U14"
     },
     {
       "id": "7f2888b22746c300f0bf9cc426e51821",
@@ -38,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "15ac3225f52d94877774f1d99b9da282",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Quarrydale United Yellow U14",
+      "away_team": "Lowdham FC Red U14",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "u14 Sat Spring Div 1 Silver",
+      "home_away": "home",
+      "opponent": "Lowdham FC Red U14",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "4cfb19b1a50858d26214477583c2ed11",
       "date": "2026-04-11",

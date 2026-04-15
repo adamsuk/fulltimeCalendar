@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town Blue U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "a51b3eb25d2b9aec677d0e58760b26a9",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Arnold Town Blue U13",
-      "away_team": "St Anns & Sneinton U13",
-      "venue": "Eagle Valley NG5 8PS",
-      "division": "U13 Sat YEL Challenge Trophy",
-      "home_away": "home",
-      "opponent": "St Anns & Sneinton U13"
-    },
     {
       "id": "7c2dd82232f979a7fc906616ebd126e9",
       "date": "2026-04-18",
@@ -35,9 +24,35 @@
       "division": "U13 Saturday",
       "home_away": "home",
       "opponent": "Newhall FC Jaguars U13"
+    },
+    {
+      "id": "ac04913793ee8e9db8673eab3df99ff6",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Arnold Town Blue U13",
+      "away_team": "Newark Brazil Corinthians U13",
+      "venue": "Eagle Valley NG5 8PS",
+      "division": "U13 Sat YEL Challenge Trophy",
+      "home_away": "home",
+      "opponent": "Newark Brazil Corinthians U13"
     }
   ],
   "results": [
+    {
+      "id": "a51b3eb25d2b9aec677d0e58760b26a9",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Arnold Town Blue U13",
+      "away_team": "St Anns & Sneinton U13",
+      "home_score": 7,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sat YEL Challenge Trophy",
+      "home_away": "home",
+      "opponent": "St Anns & Sneinton U13",
+      "goals_for": 7,
+      "goals_against": 4
+    },
     {
       "id": "0530a9669cc7ac78e50bb4d135c37525",
       "date": "2026-03-28",

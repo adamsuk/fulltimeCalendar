@@ -1,46 +1,7 @@
 {
   "club": "Long Eaton",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "43d1142a0ab291f0594cfbc265f220f4",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "PMG Engage U11",
-      "away_team": "Long Eaton United Purple U11",
-      "venue": "Bulwell Hall Park NG6 8LF",
-      "division": "U11 Sat YEL Inter Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Long Eaton United Purple U11",
-      "home_away": "away",
-      "opponent": "PMG Engage U11"
-    },
-    {
-      "id": "fdd81207512f9ec5f1278af2dcb3b8c1",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Mickleover RBL Giants U11",
-      "away_team": "Long Eaton United White U11",
-      "venue": "Rolls Royce Leisure DE24 9HY",
-      "division": "U11 Sat YEL Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Long Eaton United White U11",
-      "home_away": "away",
-      "opponent": "Mickleover RBL Giants U11"
-    },
-    {
-      "id": "2c028a521ced3063fec516eda16727a4",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "PMG Excel U13",
-      "away_team": "Long Eaton United White U13",
-      "venue": "Bulwell Hall Park NG6 8LF",
-      "division": "U13 Sat YEL Trophy",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Long Eaton United White U13",
-      "home_away": "away",
-      "opponent": "PMG Excel U13"
-    },
     {
       "id": "64dec021ea3f68366160619dfb487319",
       "date": "2026-04-16",
@@ -302,17 +263,17 @@
       "opponent": "Sherwood FC Red U8"
     },
     {
-      "id": "3fa7900c8f8eb35207f4a9b966231216",
+      "id": "65fab8fa9a4b08d72f3184a360ac9cbe",
       "date": "2026-04-19",
       "time": "10:00",
-      "home_team": "Tibshelf FC Black U8",
-      "away_team": "Long Eaton United Atalanta U8",
-      "venue": "Tibshelf Sports Ground DE55 5QE",
-      "division": "U8 Sunday",
+      "home_team": "Keyworth United Yellow U13",
+      "away_team": "Long Eaton United Black U13",
+      "venue": "Platt Lane NG12 5GE",
+      "division": "U13 Sun Spring Div 1 Silver",
       "league": "YEL East Midlands Sunday 25/26",
-      "team": "Long Eaton United Atalanta U8",
+      "team": "Long Eaton United Black U13",
       "home_away": "away",
-      "opponent": "Tibshelf FC Black U8"
+      "opponent": "Keyworth United Yellow U13"
     },
     {
       "id": "3e280227d97d3fa0fb1b0b23dc75e3d3",
@@ -341,19 +302,6 @@
       "opponent": "Clifton AW Yellow U7"
     },
     {
-      "id": "65fab8fa9a4b08d72f3184a360ac9cbe",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Keyworth United Yellow U13",
-      "away_team": "Long Eaton United Black U13",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U13 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Long Eaton United Black U13",
-      "home_away": "away",
-      "opponent": "Keyworth United Yellow U13"
-    },
-    {
       "id": "a36ba92de9e73361777f6964e04739ae",
       "date": "2026-04-21",
       "time": "18:00",
@@ -365,6 +313,19 @@
       "team": "Long Eaton United Purple U11",
       "home_away": "home",
       "opponent": "Nottingham FC Emeralds U11"
+    },
+    {
+      "id": "c60f42066a9889020c6cfca3a15ebb8b",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Hilton Harriers Cobras U13",
+      "away_team": "Long Eaton United White U13",
+      "venue": "The Mease Pavilion DE65 5LS",
+      "division": "U13 Sat YEL Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Eaton United White U13",
+      "home_away": "away",
+      "opponent": "Hilton Harriers Cobras U13"
     },
     {
       "id": "a1d680f7486852e37935432b5f4c9c6c",
@@ -562,6 +523,19 @@
       "opponent": "Hucknall Sports Red U12"
     },
     {
+      "id": "a634d907603746522c1f30e8ea654d03",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Long Eaton United Purple U11",
+      "away_team": "Hucknall Town Warriors U11",
+      "venue": "Grange Park NG10 2EF",
+      "division": "U11 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Eaton United Purple U11",
+      "home_away": "home",
+      "opponent": "Hucknall Town Warriors U11"
+    },
+    {
       "id": "0a6cdc5d9820ff0e1e31c9872bc7929b",
       "date": "2026-04-25",
       "time": "11:00",
@@ -706,6 +680,57 @@
     }
   ],
   "results": [
+    {
+      "id": "43d1142a0ab291f0594cfbc265f220f4",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "PMG Engage U11",
+      "away_team": "Long Eaton United Purple U11",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Eaton United Purple U11",
+      "home_away": "away",
+      "opponent": "PMG Engage U11",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
+      "id": "fdd81207512f9ec5f1278af2dcb3b8c1",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Mickleover RBL Giants U11",
+      "away_team": "Long Eaton United White U11",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat YEL Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Eaton United White U11",
+      "home_away": "away",
+      "opponent": "Mickleover RBL Giants U11",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "2c028a521ced3063fec516eda16727a4",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "PMG Excel U13",
+      "away_team": "Long Eaton United White U13",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "",
+      "division": "U13 Sat YEL Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Eaton United White U13",
+      "home_away": "away",
+      "opponent": "PMG Excel U13",
+      "goals_for": 6,
+      "goals_against": 2
+    },
     {
       "id": "cbb964bca27666e6c634d3621ab7e07c",
       "date": "2026-04-12",

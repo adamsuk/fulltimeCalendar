@@ -1,46 +1,7 @@
 {
   "club": "Collingham FC",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "60e4749a0efea129c9fec404c9e45e5e",
-      "date": "2026-03-18",
-      "time": "19:45",
-      "home_team": "West Bridgford Development",
-      "away_team": "Collingham FC Development",
-      "venue": "GRESHAM SPORTS PARK #1",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Collingham FC Development",
-      "home_away": "away",
-      "opponent": "West Bridgford Development"
-    },
-    {
-      "id": "b07f1da5a6e84983e0af164ec2fdac85",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Newark Brazil Corinthians U13",
-      "away_team": "Collingham FC Lions U13",
-      "venue": "Magnus School Sports Centre NG24 4BZ",
-      "division": "U13 Sat YEL Challenge Trophy",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Collingham FC Lions U13",
-      "home_away": "away",
-      "opponent": "Newark Brazil Corinthians U13"
-    },
-    {
-      "id": "6fb74d9ca9112c1d4e58affcc262961a",
-      "date": "2026-04-14",
-      "time": "19:45",
-      "home_team": "Collingham FC",
-      "away_team": "Awsworth Villa FC",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "NSL Senior Cup",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Collingham FC",
-      "home_away": "home",
-      "opponent": "Awsworth Villa FC"
-    },
     {
       "id": "b485730f309d362212546772880832c7",
       "date": "2026-04-16",
@@ -66,19 +27,6 @@
       "team": "Collingham FC Cougars U11",
       "home_away": "away",
       "opponent": "Arnold Town Yellow U11"
-    },
-    {
-      "id": "68703bcff415d383d2c43a83b1b2cfda",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Sherwood FC Yellow U12",
-      "away_team": "Collingham FC Cougars U12",
-      "venue": "Forest Sports Zone NG7 6LD",
-      "division": "U12 Sat Spring Div 5 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Collingham FC Cougars U12",
-      "home_away": "away",
-      "opponent": "Sherwood FC Yellow U12"
     },
     {
       "id": "71abc07a640cbe54678fa22ebad9782d",
@@ -211,6 +159,19 @@
       "opponent": "AFC Warriors Development"
     },
     {
+      "id": "68703bcff415d383d2c43a83b1b2cfda",
+      "date": "2026-04-18",
+      "time": "10:30",
+      "home_team": "Sherwood FC Yellow U12",
+      "away_team": "Collingham FC Cougars U12",
+      "venue": "Collingham FC  NG23 7RA",
+      "division": "U12 Sat Spring Div 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Collingham FC Cougars U12",
+      "home_away": "away",
+      "opponent": "Sherwood FC Yellow U12"
+    },
+    {
       "id": "454c43ab2f0a0ded6843066687c68fcc",
       "date": "2026-04-18",
       "time": "11:00",
@@ -300,6 +261,19 @@
       "team": "Collingham FC Tigers U14",
       "home_away": "away",
       "opponent": "Beaufort United White U14"
+    },
+    {
+      "id": "87e7e3abbd34a18b404e9b0f26168080",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Meden Vale Colts Red U14",
+      "away_team": "Collingham FC Lions U14",
+      "venue": "Manor Sport & Recreation Cntre  NG19 8JY",
+      "division": "U14 Sat YEL Trophy (Revised)",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Collingham FC Lions U14",
+      "home_away": "away",
+      "opponent": "Meden Vale Colts Red U14"
     },
     {
       "id": "5149d20191340949084f359a7fad1d66",
@@ -614,29 +588,29 @@
       "opponent": "Selston F.C. First"
     },
     {
-      "id": "7a197573cfda0fef2fb5696f296ec47d",
-      "date": "2026-05-02",
-      "time": "10:30",
-      "home_team": "Cotgrave Development",
-      "away_team": "Collingham FC Development",
-      "venue": "COTGRAVE WELFARE CLUB #1",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Collingham FC Development",
-      "home_away": "away",
-      "opponent": "Cotgrave Development"
-    },
-    {
       "id": "88005a260ef3d6ee5e7588f924ee26d7",
       "date": "2026-05-02",
-      "time": "11:40",
+      "time": "10:30",
       "home_team": "Collingham FC Development",
       "away_team": "Cotgrave Development",
-      "venue": "COTGRAVE WELFARE CLUB #1",
+      "venue": "COLLINGHAM FOOTBALL CLUB",
       "division": "Development Spring Division One",
       "league": "Euro Soccer Nottinghamshire Senior League 25/26",
       "team": "Collingham FC Development",
       "home_away": "home",
+      "opponent": "Cotgrave Development"
+    },
+    {
+      "id": "7a197573cfda0fef2fb5696f296ec47d",
+      "date": "2026-05-02",
+      "time": "11:40",
+      "home_team": "Cotgrave Development",
+      "away_team": "Collingham FC Development",
+      "venue": "COLLINGHAM FOOTBALL CLUB",
+      "division": "Development Spring Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Collingham FC Development",
+      "home_away": "away",
       "opponent": "Cotgrave Development"
     },
     {
@@ -745,6 +719,40 @@
     }
   ],
   "results": [
+    {
+      "id": "6fb74d9ca9112c1d4e58affcc262961a",
+      "date": "2026-04-14",
+      "time": "19:45",
+      "home_team": "Collingham FC",
+      "away_team": "Awsworth Villa FC",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "NSL Senior Cup",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Collingham FC",
+      "home_away": "home",
+      "opponent": "Awsworth Villa FC",
+      "goals_for": 2,
+      "goals_against": 4
+    },
+    {
+      "id": "b07f1da5a6e84983e0af164ec2fdac85",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Newark Brazil Corinthians U13",
+      "away_team": "Collingham FC Lions U13",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat YEL Challenge Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Collingham FC Lions U13",
+      "home_away": "away",
+      "opponent": "Newark Brazil Corinthians U13",
+      "goals_for": 1,
+      "goals_against": 6
+    },
     {
       "id": "0dffaf17bf0f3bb4f3a27cdc728a655f",
       "date": "2026-04-11",

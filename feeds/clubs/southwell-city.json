@@ -1,6 +1,6 @@
 {
   "club": "Southwell City",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
     {
       "id": "e5d78556f73c8beb876ad4111db2e5c0",
@@ -53,32 +53,6 @@
       "team": "Southwell City Lions U11",
       "home_away": "away",
       "opponent": "Mountsorrel Juniors U11"
-    },
-    {
-      "id": "e5c5943307bb2cb5305cfe09f42fc422",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Southwell City Panthers U11",
-      "away_team": "Winthorpe & Cod T Black U11",
-      "venue": "Southwell City FC  NG25 0JP",
-      "division": "U11 Sat Spring Div 6 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Southwell City Panthers U11",
-      "home_away": "home",
-      "opponent": "Winthorpe & Cod T Black U11"
-    },
-    {
-      "id": "379937228b9dd6cc3df539260b72ca9b",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Southwell City Troopers U13",
-      "away_team": "Muskham Cougars U13",
-      "venue": "Centenary Ground Brinkley NG25 0TU",
-      "division": "U13 Sat YEL Foundation Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Southwell City Troopers U13",
-      "home_away": "home",
-      "opponent": "Muskham Cougars U13"
     },
     {
       "id": "8bc8749d6cf30738ddf8008c04f78259",
@@ -300,19 +274,6 @@
       "team": "Southwell City Development",
       "home_away": "away",
       "opponent": "Collingham Reserves"
-    },
-    {
-      "id": "2766853fca79b5c4d9aaa097d83c1353",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Southwell City Devils U8",
-      "away_team": "Mapperley All Stars Blue U8",
-      "venue": "Southwell City FC NG25 0JP",
-      "division": "U8 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Southwell City Devils U8",
-      "home_away": "home",
-      "opponent": "Mapperley All Stars Blue U8"
     },
     {
       "id": "a071fb5c9a58dab700da322770fa5795",
@@ -554,7 +515,7 @@
       "time": "10:00",
       "home_team": "Southwell City Wolverines U11",
       "away_team": "Southwell City Tigers U11",
-      "venue": "Suthers School NG24 3NH",
+      "venue": "Southwell City FC  NG25 0JP",
       "division": "U11 Sat Spring Div 3 Blue",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Southwell City Tigers U11",
@@ -567,7 +528,7 @@
       "time": "10:00",
       "home_team": "Southwell City Wolverines U11",
       "away_team": "Southwell City Tigers U11",
-      "venue": "Suthers School NG24 3NH",
+      "venue": "Southwell City FC  NG25 0JP",
       "division": "U11 Sat Spring Div 3 Blue",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Southwell City Wolverines U11",
@@ -1057,6 +1018,40 @@
     }
   ],
   "results": [
+    {
+      "id": "e5c5943307bb2cb5305cfe09f42fc422",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Southwell City Panthers U11",
+      "away_team": "Winthorpe & Cod T Black U11",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Southwell City Panthers U11",
+      "home_away": "home",
+      "opponent": "Winthorpe & Cod T Black U11",
+      "goals_for": 4,
+      "goals_against": 3
+    },
+    {
+      "id": "379937228b9dd6cc3df539260b72ca9b",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Southwell City Troopers U13",
+      "away_team": "Muskham Cougars U13",
+      "home_score": 0,
+      "away_score": 8,
+      "venue": "",
+      "division": "U13 Sat YEL Foundation Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Southwell City Troopers U13",
+      "home_away": "home",
+      "opponent": "Muskham Cougars U13",
+      "goals_for": 0,
+      "goals_against": 8
+    },
     {
       "id": "ae509fa9e0a83245c0a5744a64bc5fdf",
       "date": "2026-04-13",

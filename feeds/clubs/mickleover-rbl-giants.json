@@ -1,20 +1,7 @@
 {
   "club": "Mickleover RBL Giants",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "fdd81207512f9ec5f1278af2dcb3b8c1",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Mickleover RBL Giants U11",
-      "away_team": "Long Eaton United White U11",
-      "venue": "Rolls Royce Leisure DE24 9HY",
-      "division": "U11 Sat YEL Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Mickleover RBL Giants U11",
-      "home_away": "home",
-      "opponent": "Long Eaton United White U11"
-    },
     {
       "id": "2a8b7eee4357c79cfb96712fc4b59584",
       "date": "2026-04-18",
@@ -27,6 +14,19 @@
       "team": "Mickleover RBL Giants U11",
       "home_away": "away",
       "opponent": "Ravenshead Reds Vikings U11"
+    },
+    {
+      "id": "daabe746380f6dbb40bc028c90aad240",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Sherwood Colliery U11",
+      "away_team": "Mickleover RBL Giants U11",
+      "venue": "Debdale Park & Sports Ground NG19 7NS",
+      "division": "U11 Sat YEL Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mickleover RBL Giants U11",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery U11"
     },
     {
       "id": "d8233a37a690261ef8dde417f065fbc5",
@@ -43,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "fdd81207512f9ec5f1278af2dcb3b8c1",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Mickleover RBL Giants U11",
+      "away_team": "Long Eaton United White U11",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat YEL Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mickleover RBL Giants U11",
+      "home_away": "home",
+      "opponent": "Long Eaton United White U11",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "29bb8f95d10bcdda2cbc67f0daa8c9d2",
       "date": "2026-03-28",

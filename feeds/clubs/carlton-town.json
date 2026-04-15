@@ -1,6 +1,6 @@
 {
   "club": "Carlton Town",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
     {
       "id": "cfc0545aba994f90ac3e83e689b7bea6",
@@ -14,19 +14,6 @@
       "team": "Carlton Town Yellow U14",
       "home_away": "away",
       "opponent": "Beaufort United Black U14"
-    },
-    {
-      "id": "54c5746099a77ab171cf9671595c940e",
-      "date": "2026-04-16",
-      "time": "18:30",
-      "home_team": "Pelican Colts U11",
-      "away_team": "Carlton Town Yellow U11",
-      "venue": "Dave Eastwood Sports Ground NG7 2SA",
-      "division": "U11 Sun Spring Div 6 Gold",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Carlton Town Yellow U11",
-      "home_away": "away",
-      "opponent": "Pelican Colts U11"
     },
     {
       "id": "2c5a5363fbcc9eac801a38c4750b9b45",
@@ -187,7 +174,7 @@
     {
       "id": "2e97d6f11e56f4b510b487696a44417c",
       "date": "2026-04-19",
-      "time": "11:00",
+      "time": "10:30",
       "home_team": "Carlton Town Blue U12",
       "away_team": "Basford United Lions U12",
       "venue": "Magenta Way NG14 5HH",
@@ -433,6 +420,23 @@
     }
   ],
   "results": [
+    {
+      "id": "783f44a600db8f20b57f75e09997f343",
+      "date": "2026-04-14",
+      "time": "18:30",
+      "home_team": "Pelican Colts U11",
+      "away_team": "Carlton Town Yellow U11",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sun Spring Div 6 Gold",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Carlton Town Yellow U11",
+      "home_away": "away",
+      "opponent": "Pelican Colts U11",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "1b0ef0238ee1cb8186df15286713372b",
       "date": "2026-04-12",

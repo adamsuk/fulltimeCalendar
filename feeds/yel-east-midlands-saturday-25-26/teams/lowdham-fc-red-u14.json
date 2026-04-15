@@ -1,19 +1,8 @@
 {
   "team": "Lowdham FC Red U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "15ac3225f52d94877774f1d99b9da282",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Quarrydale United Yellow U14",
-      "away_team": "Lowdham FC Red U14",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "u14 Sat Spring Div 1 Silver",
-      "home_away": "away",
-      "opponent": "Quarrydale United Yellow U14"
-    },
     {
       "id": "bb3cc198e6493d4434d8858470b07ac7",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "15ac3225f52d94877774f1d99b9da282",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Quarrydale United Yellow U14",
+      "away_team": "Lowdham FC Red U14",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "u14 Sat Spring Div 1 Silver",
+      "home_away": "away",
+      "opponent": "Quarrydale United Yellow U14",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "abaede4a28d5d84bd6f50c2f36861f6a",
       "date": "2026-03-14",

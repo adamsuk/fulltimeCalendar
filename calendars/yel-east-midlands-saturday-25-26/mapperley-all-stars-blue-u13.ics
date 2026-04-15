@@ -7,17 +7,8 @@ X-WR-CALNAME:Mapperley All Stars Blue U13
 X-WR-CALDESC:Fixtures for Mapperley All Stars Blue U13 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:ec584ec2f272e83978266af2856f4229@yel-calendar
-DTSTAMP:20260414T071818Z
-DTSTART;TZID=Europe/London:20260414T180000
-DTEND;TZID=Europe/London:20260414T190000
-SUMMARY:⚽ Mapperley All Stars Blue U13 vs Stanton Ilkeston Stallions U13 (Away)
-DESCRIPTION:Division: U13 Sat YEL Foundation Shield\nStanton Ilkeston Stallions U13 v Mapperley All Stars Blue U13\nKO: 18:00
-LOCATION:Windsor Crescent DE7 4HD
-END:VEVENT
-BEGIN:VEVENT
 UID:c5f741633682906c1ada1491b64c2a3a@yel-calendar
-DTSTAMP:20260414T071818Z
+DTSTAMP:20260415T071803Z
 DTSTART;TZID=Europe/London:20260418T110000
 DTEND;TZID=Europe/London:20260418T120000
 SUMMARY:⚽ Mapperley All Stars Blue U13 vs Woodthorpe Cty Rowdies U13 (Away)
@@ -25,8 +16,17 @@ DESCRIPTION:Division: U13 Saturday\nWoodthorpe Cty Rowdies U13 v Mapperley All S
 LOCATION:Arnold Hill School NG5 6NZ
 END:VEVENT
 BEGIN:VEVENT
+UID:881baa138198a381b938ef627036ef57@yel-calendar
+DTSTAMP:20260415T071803Z
+DTSTART;TZID=Europe/London:20260421T183000
+DTEND;TZID=Europe/London:20260421T190000
+SUMMARY:⚽ Mapperley All Stars Blue U13 vs G3A FC Zenit U13 (Away)
+DESCRIPTION:Division: U13 Sat YEL Foundation Shield\nG3A FC Zenit U13 v Mapperley All Stars Blue U13\nKO: 18:30
+LOCATION:Manor Park Sports Complex NG19 8JX
+END:VEVENT
+BEGIN:VEVENT
 UID:17590a0a645467b0fc03d55176f70a51@yel-calendar
-DTSTAMP:20260414T071818Z
+DTSTAMP:20260415T071803Z
 DTSTART;TZID=Europe/London:20260425T110000
 DTEND;TZID=Europe/London:20260425T120000
 SUMMARY:⚽ Mapperley All Stars Blue U13 vs Southwell City Troopers U13 (Home)

@@ -1,19 +1,8 @@
 {
   "team": "Meden Vale Colts Red U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "a532c5d0a96e58fb3f21e9e39888a524",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Meden Vale Colts Red U14",
-      "away_team": "Sutton Trinity U14 Yellow",
-      "venue": "Manor Sport & Recreation Cntre  NG19 8JY",
-      "division": "U14 Sat YEL Trophy (Revised)",
-      "home_away": "home",
-      "opponent": "Sutton Trinity U14 Yellow"
-    },
     {
       "id": "317f49e35c57a9bba220e7bebe3bf9b7",
       "date": "2026-04-18",
@@ -24,6 +13,17 @@
       "division": "u14 Sat Spring Div 1 Gold",
       "home_away": "home",
       "opponent": "Heather St Johns U14"
+    },
+    {
+      "id": "87e7e3abbd34a18b404e9b0f26168080",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Meden Vale Colts Red U14",
+      "away_team": "Collingham FC Lions U14",
+      "venue": "Manor Sport & Recreation Cntre  NG19 8JY",
+      "division": "U14 Sat YEL Trophy (Revised)",
+      "home_away": "home",
+      "opponent": "Collingham FC Lions U14"
     },
     {
       "id": "5d7d157fd8feecb00e555eca29cfaba3",
@@ -38,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a532c5d0a96e58fb3f21e9e39888a524",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Meden Vale Colts Red U14",
+      "away_team": "Sutton Trinity U14 Yellow",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Sat YEL Trophy (Revised)",
+      "home_away": "home",
+      "opponent": "Sutton Trinity U14 Yellow",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "4af3f6a2f774a543f16cca6851b6fcf3",
       "date": "2026-03-21",

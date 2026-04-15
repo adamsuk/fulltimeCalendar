@@ -1,19 +1,8 @@
 {
   "team": "Meden Vale Colts Green U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "6f8ad4eb6f0d0ce8e4b7a74272bb7456",
-      "date": "2026-04-14",
-      "time": "18:15",
-      "home_team": "G3A PSG U11",
-      "away_team": "Meden Vale Colts Green U11",
-      "venue": "Elkesley Road NG20 9PS",
-      "division": "U11 Sat Spring Div 4 Red",
-      "home_away": "away",
-      "opponent": "G3A PSG U11"
-    },
     {
       "id": "b3525fcc1e9d9cac05f38277aa336e4f",
       "date": "2026-04-18",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6f8ad4eb6f0d0ce8e4b7a74272bb7456",
+      "date": "2026-04-14",
+      "time": "18:15",
+      "home_team": "G3A PSG U11",
+      "away_team": "Meden Vale Colts Green U11",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U11 Sat Spring Div 4 Red",
+      "home_away": "away",
+      "opponent": "G3A PSG U11",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "f045fce996260ffe7832e57fa70a737e",
       "date": "2026-03-28",

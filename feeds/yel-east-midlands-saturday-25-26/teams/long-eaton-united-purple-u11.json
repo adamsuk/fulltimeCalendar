@@ -1,19 +1,8 @@
 {
   "team": "Long Eaton United Purple U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "43d1142a0ab291f0594cfbc265f220f4",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "PMG Engage U11",
-      "away_team": "Long Eaton United Purple U11",
-      "venue": "Bulwell Hall Park NG6 8LF",
-      "division": "U11 Sat YEL Inter Cup",
-      "home_away": "away",
-      "opponent": "PMG Engage U11"
-    },
     {
       "id": "0c361f8148c18d20fb6aa9998326a253",
       "date": "2026-04-18",
@@ -46,9 +35,35 @@
       "division": "U11 Saturday",
       "home_away": "away",
       "opponent": "Quarrydale United U11"
+    },
+    {
+      "id": "a634d907603746522c1f30e8ea654d03",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Long Eaton United Purple U11",
+      "away_team": "Hucknall Town Warriors U11",
+      "venue": "Grange Park NG10 2EF",
+      "division": "U11 Sat YEL Inter Cup",
+      "home_away": "home",
+      "opponent": "Hucknall Town Warriors U11"
     }
   ],
   "results": [
+    {
+      "id": "43d1142a0ab291f0594cfbc265f220f4",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "PMG Engage U11",
+      "away_team": "Long Eaton United Purple U11",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat YEL Inter Cup",
+      "home_away": "away",
+      "opponent": "PMG Engage U11",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "401acc78378d46dbf52c5bf6f60c5fbd",
       "date": "2026-04-11",

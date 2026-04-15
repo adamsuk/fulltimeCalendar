@@ -1,20 +1,7 @@
 {
   "club": "Attenborough Colts",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "b70db2d88d35ad16d439c63f6db35653",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Beeston FC U14",
-      "away_team": "Attenborough Colts Blue U14",
-      "venue": "Trent Vale Sports Ground  NG9 1ND",
-      "division": "U14 Sat YEL Inter Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Attenborough Colts Blue U14",
-      "home_away": "away",
-      "opponent": "Beeston FC U14"
-    },
     {
       "id": "df21b1f1d7433ad3ee14fe841ca65435",
       "date": "2026-04-16",
@@ -248,6 +235,19 @@
       "team": "Attenborough Colts Yellow U9",
       "home_away": "away",
       "opponent": "Ilkeston Town Titans U9"
+    },
+    {
+      "id": "c2f3f6bbe09243aefc43481fe62862a6",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Mountsorrel Juniors U14",
+      "away_team": "Attenborough Colts Blue U14",
+      "venue": "THE CEDARS ACADEMY LE4 4GH",
+      "division": "U14 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Attenborough Colts Blue U14",
+      "home_away": "away",
+      "opponent": "Mountsorrel Juniors U14"
     },
     {
       "id": "9900f86e6609ed19d2626fc68f67e4bc",
@@ -537,6 +537,23 @@
     }
   ],
   "results": [
+    {
+      "id": "b70db2d88d35ad16d439c63f6db35653",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Beeston FC U14",
+      "away_team": "Attenborough Colts Blue U14",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Attenborough Colts Blue U14",
+      "home_away": "away",
+      "opponent": "Beeston FC U14",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "7c927c7f90d43856b96d2cf5837d843c",
       "date": "2026-04-12",

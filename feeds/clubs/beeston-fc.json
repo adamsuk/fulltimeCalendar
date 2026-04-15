@@ -1,33 +1,7 @@
 {
   "club": "Beeston FC",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "a9583835ee6b72ee9b3c3b88939aba4b",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Beeston F.C. U14 Girls",
-      "away_team": "Bottesford U14 Girls",
-      "venue": "TRENT VALE SPORTS ASSOCIATION",
-      "division": "U14 Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Beeston F.C. U14 Girls",
-      "home_away": "home",
-      "opponent": "Bottesford U14 Girls"
-    },
-    {
-      "id": "b70db2d88d35ad16d439c63f6db35653",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Beeston FC U14",
-      "away_team": "Attenborough Colts Blue U14",
-      "venue": "Trent Vale Sports Ground  NG9 1ND",
-      "division": "U14 Sat YEL Inter Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Beeston FC U14",
-      "home_away": "home",
-      "opponent": "Attenborough Colts Blue U14"
-    },
     {
       "id": "b1277173fb83cae9ae0911c9bf2191d6",
       "date": "2026-04-15",
@@ -94,6 +68,32 @@
       "opponent": "West Bridgford Colts U10 Sky"
     },
     {
+      "id": "5ebbb2f12e1e6aed2b38791579186e46",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Beeston FC Black U13",
+      "away_team": "Beeston FC Orange U13",
+      "venue": "Trent Vale Sports Ground NG9 1ND",
+      "division": "U13 Sun Spring Div 4 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Beeston FC Black U13",
+      "home_away": "home",
+      "opponent": "Beeston FC Orange U13"
+    },
+    {
+      "id": "5ebbb2f12e1e6aed2b38791579186e46",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Beeston FC Black U13",
+      "away_team": "Beeston FC Orange U13",
+      "venue": "Trent Vale Sports Ground NG9 1ND",
+      "division": "U13 Sun Spring Div 4 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Beeston FC Orange U13",
+      "home_away": "away",
+      "opponent": "Beeston FC Black U13"
+    },
+    {
       "id": "78da2d03ee36efb9a28f3dd8ef518e81",
       "date": "2026-04-19",
       "time": "10:00",
@@ -144,32 +144,6 @@
       "team": "Beeston F.C. U15 Girls Sun",
       "home_away": "away",
       "opponent": "Holy Spirit Celtic FC U15"
-    },
-    {
-      "id": "5ebbb2f12e1e6aed2b38791579186e46",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Beeston FC Black U13",
-      "away_team": "Beeston FC Orange U13",
-      "venue": "Trent Vale Sports Ground NG9 1ND",
-      "division": "U13 Sun Spring Div 4 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Beeston FC Black U13",
-      "home_away": "home",
-      "opponent": "Beeston FC Orange U13"
-    },
-    {
-      "id": "5ebbb2f12e1e6aed2b38791579186e46",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Beeston FC Black U13",
-      "away_team": "Beeston FC Orange U13",
-      "venue": "Trent Vale Sports Ground NG9 1ND",
-      "division": "U13 Sun Spring Div 4 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Beeston FC Orange U13",
-      "home_away": "away",
-      "opponent": "Beeston FC Black U13"
     },
     {
       "id": "511e86271a4994dcfa802f938ef412f6",
@@ -524,6 +498,23 @@
     }
   ],
   "results": [
+    {
+      "id": "b70db2d88d35ad16d439c63f6db35653",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Beeston FC U14",
+      "away_team": "Attenborough Colts Blue U14",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Beeston FC U14",
+      "home_away": "home",
+      "opponent": "Attenborough Colts Blue U14",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "51fc448ade38eabff0412ac5a5dd4590",
       "date": "2026-04-12",

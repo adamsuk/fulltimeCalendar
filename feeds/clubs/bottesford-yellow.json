@@ -1,20 +1,7 @@
 {
   "club": "Bottesford Yellow",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "2a23da4c08a36fe864ac0e2fddbaa173",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Bottesford Yellow U11",
-      "away_team": "Newark Brazil Santos U11",
-      "venue": "Nottingham Rd, Bottesford  NG13 0AP",
-      "division": "U11 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Bottesford Yellow U11",
-      "home_away": "home",
-      "opponent": "Newark Brazil Santos U11"
-    },
     {
       "id": "b5cfd0834aae6f867e0c2237f68782d9",
       "date": "2026-04-18",
@@ -212,6 +199,23 @@
     }
   ],
   "results": [
+    {
+      "id": "2a23da4c08a36fe864ac0e2fddbaa173",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Bottesford Yellow U11",
+      "away_team": "Newark Brazil Santos U11",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Bottesford Yellow U11",
+      "home_away": "home",
+      "opponent": "Newark Brazil Santos U11",
+      "goals_for": 5,
+      "goals_against": 3
+    },
     {
       "id": "bc8193b6ac34eae6d640cf5e6cd6efdf",
       "date": "2026-04-11",

@@ -1,19 +1,8 @@
 {
   "team": "Nottingham FC U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "a47dd7dffb293680d04036697a8cef6f",
-      "date": "2026-04-14",
-      "time": "18:00",
-      "home_team": "Nottingham FC U14",
-      "away_team": "Sports Gtway Hurricanes U14",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U14 Sat YEL Inter Cup",
-      "home_away": "home",
-      "opponent": "Sports Gtway Hurricanes U14"
-    },
     {
       "id": "6df583849f981de6175799fa758a7969",
       "date": "2026-04-18",
@@ -24,6 +13,17 @@
       "division": "U14 Sat Spring Div 4 Blue",
       "home_away": "home",
       "opponent": "Stanton Ilkeston Mustangs U14"
+    },
+    {
+      "id": "d585d0101a17311d436c8ec2c6a5873c",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Star Strike Tigers Black U14",
+      "away_team": "Nottingham FC U14",
+      "venue": "Southglade Leisure Centre  NG5 5GU",
+      "division": "U14 Sat YEL Inter Cup",
+      "home_away": "away",
+      "opponent": "Star Strike Tigers Black U14"
     },
     {
       "id": "a9964cabfa5afaa042cfa73a425c2389",
@@ -38,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a47dd7dffb293680d04036697a8cef6f",
+      "date": "2026-04-14",
+      "time": "18:00",
+      "home_team": "Nottingham FC U14",
+      "away_team": "Sports Gtway Hurricanes U14",
+      "home_score": 5,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sat YEL Inter Cup",
+      "home_away": "home",
+      "opponent": "Sports Gtway Hurricanes U14",
+      "goals_for": 5,
+      "goals_against": 4
+    },
     {
       "id": "2e30098665eb2d5616c42c99835a9f36",
       "date": "2026-03-28",

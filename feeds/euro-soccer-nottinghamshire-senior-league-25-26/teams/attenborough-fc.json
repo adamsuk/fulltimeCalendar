@@ -1,19 +1,8 @@
 {
   "team": "Attenborough FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-14T07:17:26Z",
+  "generated": "2026-04-15T07:17:21Z",
   "fixtures": [
-    {
-      "id": "5044988cb423f415865bdb7f507ea7cb",
-      "date": "2026-04-14",
-      "time": "18:30",
-      "home_team": "AJ Sport F.C. Reserves",
-      "away_team": "Attenborough FC",
-      "venue": "LEYTON CRESCENT RECREATION GROUND",
-      "division": "NSL Division Three",
-      "home_away": "away",
-      "opponent": "AJ Sport F.C. Reserves"
-    },
     {
       "id": "6a14427a124f3f185080a5f3526389a9",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5044988cb423f415865bdb7f507ea7cb",
+      "date": "2026-04-14",
+      "time": "18:30",
+      "home_team": "AJ Sport F.C. Reserves",
+      "away_team": "Attenborough FC",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "away",
+      "opponent": "AJ Sport F.C. Reserves",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "b73421a723e2112a6dd871950c659eae",
       "date": "2026-04-11",
