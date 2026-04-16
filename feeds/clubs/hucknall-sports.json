@@ -1,20 +1,7 @@
 {
   "club": "Hucknall Sports",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "ca7459f02d1eeb95cc2a4c0beb0b02e8",
-      "date": "2026-04-15",
-      "time": "18:00",
-      "home_team": "Hucknall Sports White U10",
-      "away_team": "Quarrydale United Rangers U10",
-      "venue": "Engine Rooms NG15 6EP",
-      "division": "U10 Sat Spring Div 6 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Hucknall Sports White U10",
-      "home_away": "home",
-      "opponent": "Quarrydale United Rangers U10"
-    },
     {
       "id": "6cb4bb410b708f42f485267dfad5700f",
       "date": "2026-04-16",
@@ -44,7 +31,7 @@
     {
       "id": "d8aff9614e2019b1e95d312b9ec0716a",
       "date": "2026-04-18",
-      "time": "10:00",
+      "time": "09:15",
       "home_team": "Woodthorpe Com Revolution U10",
       "away_team": "Hucknall Sports Black U10",
       "venue": "Calverton Miners Welfare NG14 6NR",
@@ -113,7 +100,7 @@
       "home_team": "Hucknall Sports Red U14",
       "away_team": "RHP Colts White U14",
       "venue": "Engine Rooms NG15 6EP",
-      "division": "u14 Sat Spring Div 3 Red",
+      "division": "U14 Sat YEL Shield",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Hucknall Sports Red U14",
       "home_away": "home",
@@ -196,6 +183,19 @@
       "team": "Hucknall Sports Red U13",
       "home_away": "home",
       "opponent": "Pelican Colts Red U13"
+    },
+    {
+      "id": "ea577086f5399bf699baafb32a26f5d4",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Hucknall Sports Red U14",
+      "away_team": "RHP Colts White U14",
+      "venue": "Engine Rooms NG15 6EP",
+      "division": "u14 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hucknall Sports Red U14",
+      "home_away": "home",
+      "opponent": "RHP Colts White U14"
     },
     {
       "id": "e21436df84d4efc96932d94cf927baf4",
@@ -510,19 +510,6 @@
       "opponent": "Radcliffe Olympic Red U13"
     },
     {
-      "id": "4c908443bd16cef6a431488d5762f5cd",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Hucknall Sports Red U14",
-      "away_team": "RHP Colts White U14",
-      "venue": "Goosedale Sports Club NG6 8UJ",
-      "division": "U14 Sat YEL Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Hucknall Sports Red U14",
-      "home_away": "home",
-      "opponent": "RHP Colts White U14"
-    },
-    {
       "id": "ead36796e5a1ac5435876d9352cfb041",
       "date": "2026-04-26",
       "time": "09:30",
@@ -693,6 +680,23 @@
     }
   ],
   "results": [
+    {
+      "id": "ca7459f02d1eeb95cc2a4c0beb0b02e8",
+      "date": "2026-04-15",
+      "time": "18:00",
+      "home_team": "Hucknall Sports White U10",
+      "away_team": "Quarrydale United Rangers U10",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hucknall Sports White U10",
+      "home_away": "home",
+      "opponent": "Quarrydale United Rangers U10",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "12bf819358ae108e8cea19b5ce2478b5",
       "date": "2026-04-14",

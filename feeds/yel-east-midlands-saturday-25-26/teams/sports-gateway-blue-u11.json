@@ -1,19 +1,8 @@
 {
   "team": "Sports Gateway Blue U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "dce32d1b2c57696501be412a6459bc1f",
-      "date": "2026-04-15",
-      "time": "18:00",
-      "home_team": "Sports Gateway Blue U11",
-      "away_team": "Hucknall Town Warriors U11",
-      "venue": "Papplewick Green NG15 8HZ",
-      "division": "U11 Sat Spring Div 5 Red",
-      "home_away": "home",
-      "opponent": "Hucknall Town Warriors U11"
-    },
     {
       "id": "b3f1673145786a024725511679478a38",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "dce32d1b2c57696501be412a6459bc1f",
+      "date": "2026-04-15",
+      "time": "18:00",
+      "home_team": "Sports Gateway Blue U11",
+      "away_team": "Hucknall Town Warriors U11",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 5 Red",
+      "home_away": "home",
+      "opponent": "Hucknall Town Warriors U11",
+      "goals_for": 5,
+      "goals_against": 3
+    },
     {
       "id": "60200a7ad1f281b00685fcd558d2da09",
       "date": "2026-03-28",

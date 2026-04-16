@@ -1,33 +1,7 @@
 {
   "club": "Beaufort United",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "cfc0545aba994f90ac3e83e689b7bea6",
-      "date": "2026-04-14",
-      "time": "18:30",
-      "home_team": "Beaufort United Black U14",
-      "away_team": "Carlton Town Yellow U14",
-      "venue": "Unwin Road  NG17 4HT",
-      "division": "U14 Sat Spring Div 6 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Beaufort United Black U14",
-      "home_away": "home",
-      "opponent": "Carlton Town Yellow U14"
-    },
-    {
-      "id": "503c1d8fb0d6a4ec70f7809192362159",
-      "date": "2026-04-15",
-      "time": "18:30",
-      "home_team": "Alfreton Town Lions U9",
-      "away_team": "Beaufort United White U9",
-      "venue": "David Nieper Academy DE55 7JA",
-      "division": "U9 Sun Spring Div 4 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Beaufort United White U9",
-      "home_away": "away",
-      "opponent": "Alfreton Town Lions U9"
-    },
     {
       "id": "4675a1e8a2a2fa41268b0645c51b8239",
       "date": "2026-04-15",
@@ -394,6 +368,23 @@
     }
   ],
   "results": [
+    {
+      "id": "503c1d8fb0d6a4ec70f7809192362159",
+      "date": "2026-04-15",
+      "time": "18:30",
+      "home_team": "Alfreton Town Lions U9",
+      "away_team": "Beaufort United White U9",
+      "home_score": 8,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sun Spring Div 4 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Beaufort United White U9",
+      "home_away": "away",
+      "opponent": "Alfreton Town Lions U9",
+      "goals_for": 1,
+      "goals_against": 8
+    },
     {
       "id": "bc745e4b9a7b4aab0f02d1213ed8384d",
       "date": "2026-04-12",

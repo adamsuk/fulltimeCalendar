@@ -1,19 +1,8 @@
 {
   "team": "Bestwood Colliery U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "037b98a536639d0d7b4671031be88d05",
-      "date": "2026-04-15",
-      "time": "18:30",
-      "home_team": "Bestwood Colliery U14",
-      "away_team": "Selston U14",
-      "venue": "High Main Drive NG6 8YX",
-      "division": "U14 Sun Spring Premier Division",
-      "home_away": "home",
-      "opponent": "Selston U14"
-    },
     {
       "id": "1c7ce4bb69b985ff92c4130df470021d",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "037b98a536639d0d7b4671031be88d05",
+      "date": "2026-04-15",
+      "time": "18:30",
+      "home_team": "Bestwood Colliery U14",
+      "away_team": "Selston U14",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sun Spring Premier Division",
+      "home_away": "home",
+      "opponent": "Selston U14",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "872318dca2080e08ef3aefcd63106845",
       "date": "2026-03-22",

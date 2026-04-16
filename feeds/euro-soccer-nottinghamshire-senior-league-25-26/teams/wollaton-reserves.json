@@ -1,19 +1,8 @@
 {
   "team": "Wollaton Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "bae48e2701b91abd2056c7f3d3311a3a",
-      "date": "2026-04-15",
-      "time": "18:30",
-      "home_team": "Wollaton Reserves",
-      "away_team": "AFC Parabellum",
-      "venue": "WOLLATON SPORTS ASSOCIATION GROUND",
-      "division": "NSL Division Two",
-      "home_away": "home",
-      "opponent": "AFC Parabellum"
-    },
     {
       "id": "5a4d6a6c708dfc951a36789c23ac9216",
       "date": "2026-04-29",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "bae48e2701b91abd2056c7f3d3311a3a",
+      "date": "2026-04-15",
+      "time": "18:30",
+      "home_team": "Wollaton Reserves",
+      "away_team": "AFC Parabellum",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Two",
+      "home_away": "home",
+      "opponent": "AFC Parabellum",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "ef6c520150d27138acbd78417662cf4c",
       "date": "2026-04-08",

@@ -1,6 +1,6 @@
 {
   "club": "Alfreton Town",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
     {
       "id": "7bb659e191c799c7c2b4c41921a41c9f",
@@ -14,19 +14,6 @@
       "team": "Alfreton Town Juniors U10 Lionesses",
       "home_away": "home",
       "opponent": "Bottesford U10 Girls"
-    },
-    {
-      "id": "503c1d8fb0d6a4ec70f7809192362159",
-      "date": "2026-04-15",
-      "time": "18:30",
-      "home_team": "Alfreton Town Lions U9",
-      "away_team": "Beaufort United White U9",
-      "venue": "David Nieper Academy DE55 7JA",
-      "division": "U9 Sun Spring Div 4 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Alfreton Town Lions U9",
-      "home_away": "home",
-      "opponent": "Beaufort United White U9"
     },
     {
       "id": "64dec021ea3f68366160619dfb487319",
@@ -185,6 +172,19 @@
       "opponent": "DLFC Orange U11"
     },
     {
+      "id": "0837f5b2e74330d887124856402defa2",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Alfreton Town Tigers U13",
+      "away_team": "Sandiacre Town Sharks U13",
+      "venue": "David Neiper Academy School DE55 7JA",
+      "division": "U13 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Alfreton Town Tigers U13",
+      "home_away": "home",
+      "opponent": "Sandiacre Town Sharks U13"
+    },
+    {
       "id": "817391e7b51d4d48da7e919fb7acc502",
       "date": "2026-04-25",
       "time": "11:00",
@@ -209,19 +209,6 @@
       "team": "Alfreton Town Jnrs Goats U12",
       "home_away": "away",
       "opponent": "Gedling FC Tigers U12 *"
-    },
-    {
-      "id": "d902a268c5f8196e2b61cd253fb36c20",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Mickleover Jnrs Porto U13",
-      "away_team": "Alfreton Town Tigers U13",
-      "venue": "Varsity Grange Football Complex DE3 9EB",
-      "division": "U13 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Alfreton Town Tigers U13",
-      "home_away": "away",
-      "opponent": "Mickleover Jnrs Porto U13"
     },
     {
       "id": "0a6f49580773e56101e41fe51c9dc68b",
@@ -287,22 +274,26 @@
       "team": "Alfreton Town Scorpions U11",
       "home_away": "home",
       "opponent": "Shirebrook Rangers Red U11"
-    },
-    {
-      "id": "469c3eb0f2b43ca69cd5696a499897e9",
-      "date": "2026-05-02",
-      "time": "11:00",
-      "home_team": "Alfreton Town Tigers U13",
-      "away_team": "Sandiacre Town Sharks U13",
-      "venue": "David Neiper Academy School DE55 7JA",
-      "division": "U13 Sat YEL Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Alfreton Town Tigers U13",
-      "home_away": "home",
-      "opponent": "Sandiacre Town Sharks U13"
     }
   ],
   "results": [
+    {
+      "id": "503c1d8fb0d6a4ec70f7809192362159",
+      "date": "2026-04-15",
+      "time": "18:30",
+      "home_team": "Alfreton Town Lions U9",
+      "away_team": "Beaufort United White U9",
+      "home_score": 8,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sun Spring Div 4 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Alfreton Town Lions U9",
+      "home_away": "home",
+      "opponent": "Beaufort United White U9",
+      "goals_for": 8,
+      "goals_against": 1
+    },
     {
       "id": "23d81d3a80e53d5653246b5a96eef398",
       "date": "2026-04-14",

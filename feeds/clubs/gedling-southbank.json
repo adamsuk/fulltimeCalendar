@@ -1,46 +1,7 @@
 {
   "club": "Gedling Southbank",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "7ba389f8601ce4c9141c2d9d085ba7bc",
-      "date": "2026-04-15",
-      "time": "18:00",
-      "home_team": "Lowdham FC Green U13",
-      "away_team": "Gedling Southbank White U13",
-      "venue": "Caythorpe Cricket Club NG14 7EB",
-      "division": "U13 Sun YEL Inter Cup",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Gedling Southbank White U13",
-      "home_away": "away",
-      "opponent": "Lowdham FC Green U13"
-    },
-    {
-      "id": "af4f23b2697d58e2ab370113426f2330",
-      "date": "2026-04-15",
-      "time": "18:30",
-      "home_team": "Gedling Southbank FC Ladies",
-      "away_team": "Eastwood & Kimberley FC",
-      "venue": "RICHARD HERROD CENTRE",
-      "division": "Seniors Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Gedling Southbank FC Ladies",
-      "home_away": "home",
-      "opponent": "Eastwood & Kimberley FC"
-    },
-    {
-      "id": "76aa25c46b2e649949b922ceac328a4c",
-      "date": "2026-04-15",
-      "time": "18:30",
-      "home_team": "Gedling Southbank FC U14 Reds",
-      "away_team": "Nottingham F.C. Youth U14 Girls",
-      "venue": "THE TREVOR CARTER PAVILION",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Gedling Southbank FC U14 Reds",
-      "home_away": "home",
-      "opponent": "Nottingham F.C. Youth U14 Girls"
-    },
     {
       "id": "45222f810881b022be7fc4fb74985efb",
       "date": "2026-04-18",
@@ -365,6 +326,19 @@
       "team": "Gedling Southbank Titans U11",
       "home_away": "away",
       "opponent": "Codnor Sports Juniors U11"
+    },
+    {
+      "id": "f77b3615f3662c2bc33def80cb8cc290",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Gedling Southbank White U13",
+      "away_team": "Beeston FC Black U13",
+      "venue": "Arnold Hill Academy NG5 6NZ",
+      "division": "U13 Sun YEL Inter Cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank White U13",
+      "home_away": "home",
+      "opponent": "Beeston FC Black U13"
     },
     {
       "id": "f24ce20f3cb13de417156755f95cf2f3",
@@ -784,6 +758,57 @@
     }
   ],
   "results": [
+    {
+      "id": "af4f23b2697d58e2ab370113426f2330",
+      "date": "2026-04-15",
+      "time": "18:30",
+      "home_team": "Gedling Southbank FC Ladies",
+      "away_team": "Eastwood & Kimberley FC",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Gedling Southbank FC Ladies",
+      "home_away": "home",
+      "opponent": "Eastwood & Kimberley FC",
+      "goals_for": 1,
+      "goals_against": 0
+    },
+    {
+      "id": "76aa25c46b2e649949b922ceac328a4c",
+      "date": "2026-04-15",
+      "time": "18:30",
+      "home_team": "Gedling Southbank FC U14 Reds",
+      "away_team": "Nottingham F.C. Youth U14 Girls",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Gedling Southbank FC U14 Reds",
+      "home_away": "home",
+      "opponent": "Nottingham F.C. Youth U14 Girls",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
+      "id": "7ba389f8601ce4c9141c2d9d085ba7bc",
+      "date": "2026-04-15",
+      "time": "18:00",
+      "home_team": "Lowdham FC Green U13",
+      "away_team": "Gedling Southbank White U13",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sun YEL Inter Cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank White U13",
+      "home_away": "away",
+      "opponent": "Lowdham FC Green U13",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "3db00df3de5be948ec0d002d4375c46a",
       "date": "2026-04-12",

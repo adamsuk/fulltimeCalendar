@@ -1,6 +1,6 @@
 {
   "club": "Nottingham FC",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
     {
       "id": "8051408102ccf9973fdcdfc43aaf2c82",
@@ -14,19 +14,6 @@
       "team": "Nottingham F.C. Youth U14 Girls",
       "home_away": "away",
       "opponent": "Matlock Town Juniors U14 Spartans Girls"
-    },
-    {
-      "id": "76aa25c46b2e649949b922ceac328a4c",
-      "date": "2026-04-15",
-      "time": "18:30",
-      "home_team": "Gedling Southbank FC U14 Reds",
-      "away_team": "Nottingham F.C. Youth U14 Girls",
-      "venue": "THE TREVOR CARTER PAVILION",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Nottingham F.C. Youth U14 Girls",
-      "home_away": "away",
-      "opponent": "Gedling Southbank FC U14 Reds"
     },
     {
       "id": "daff3f3dfb8702cee3decb5486f9496c",
@@ -263,8 +250,21 @@
       "opponent": "Long Eaton United Purple U11"
     },
     {
-      "id": "d585d0101a17311d436c8ec2c6a5873c",
+      "id": "dff9f0cfff11e4482183ad3d52eced7a",
       "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "Nottingham FC Green U12",
+      "away_team": "Stapleford Town Saxons U12",
+      "venue": "Melbourne Park NG8 5HL",
+      "division": "U12 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Green U12",
+      "home_away": "home",
+      "opponent": "Stapleford Town Saxons U12"
+    },
+    {
+      "id": "be297e5abe45f180bf0a41d5b39f5f0c",
+      "date": "2026-04-22",
       "time": "18:00",
       "home_team": "Star Strike Tigers Black U14",
       "away_team": "Nottingham FC U14",
@@ -404,19 +404,6 @@
       "team": "Nottingham FC Green U12",
       "home_away": "away",
       "opponent": "Loughborough Eml Beacons U12"
-    },
-    {
-      "id": "24d32712c9948412352d02ec0ee3539f",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Nottingham FC Green U12",
-      "away_team": "Stapleford Town Saxons U12",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U12 Sat YEL Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Nottingham FC Green U12",
-      "home_away": "home",
-      "opponent": "Stapleford Town Saxons U12"
     },
     {
       "id": "d0f24228d47abf5a0312f1583c07f0f8",
@@ -667,6 +654,23 @@
     }
   ],
   "results": [
+    {
+      "id": "76aa25c46b2e649949b922ceac328a4c",
+      "date": "2026-04-15",
+      "time": "18:30",
+      "home_team": "Gedling Southbank FC U14 Reds",
+      "away_team": "Nottingham F.C. Youth U14 Girls",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Nottingham F.C. Youth U14 Girls",
+      "home_away": "away",
+      "opponent": "Gedling Southbank FC U14 Reds",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "57e6ebd8805e257ab246ec96f3d8931d",
       "date": "2026-04-14",

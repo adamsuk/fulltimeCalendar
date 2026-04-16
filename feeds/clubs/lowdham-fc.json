@@ -1,20 +1,7 @@
 {
   "club": "Lowdham FC",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "7ba389f8601ce4c9141c2d9d085ba7bc",
-      "date": "2026-04-15",
-      "time": "18:00",
-      "home_team": "Lowdham FC Green U13",
-      "away_team": "Gedling Southbank White U13",
-      "venue": "Caythorpe Cricket Club NG14 7EB",
-      "division": "U13 Sun YEL Inter Cup",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Lowdham FC Green U13",
-      "home_away": "home",
-      "opponent": "Gedling Southbank White U13"
-    },
     {
       "id": "e0c6090c6e911f45409ff88c4bf1779c",
       "date": "2026-04-18",
@@ -29,6 +16,19 @@
       "opponent": "WBYFC Bohemians U11"
     },
     {
+      "id": "0e1b772747c364542d074c8ae0980ebf",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Keyworth United Red U11",
+      "away_team": "Lowdham FC Black U11",
+      "venue": "Platt Lane NG12 5GE",
+      "division": "U11 Sat Spring Div 7 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Lowdham FC Black U11",
+      "home_away": "away",
+      "opponent": "Keyworth United Red U11"
+    },
+    {
       "id": "f43919f32e032111c21a1cc831c25fe0",
       "date": "2026-04-18",
       "time": "10:00",
@@ -40,19 +40,6 @@
       "team": "Lowdham FC Black U10",
       "home_away": "home",
       "opponent": "DJFC U10"
-    },
-    {
-      "id": "0e1b772747c364542d074c8ae0980ebf",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Keyworth United Red U11",
-      "away_team": "Lowdham FC Black U11",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U11 Sat Spring Div 7 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Lowdham FC Black U11",
-      "home_away": "away",
-      "opponent": "Keyworth United Red U11"
     },
     {
       "id": "ed1661ec5b841ca6c54b2db3776decb3",
@@ -99,7 +86,7 @@
       "time": "10:00",
       "home_team": "Lowdham FC Red U9",
       "away_team": "Spirit Celtic Tigers U9",
-      "venue": "Caythorpe Cricket Club NG14 7EB",
+      "venue": "Gunthorpe Village Hall NG14 7EL",
       "division": "U9 Sat Spring Div 6 Blue",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Lowdham FC Red U9",
@@ -472,6 +459,23 @@
     }
   ],
   "results": [
+    {
+      "id": "7ba389f8601ce4c9141c2d9d085ba7bc",
+      "date": "2026-04-15",
+      "time": "18:00",
+      "home_team": "Lowdham FC Green U13",
+      "away_team": "Gedling Southbank White U13",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sun YEL Inter Cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Lowdham FC Green U13",
+      "home_away": "home",
+      "opponent": "Gedling Southbank White U13",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "52d0b4cc702f8d85e9e56684e654987d",
       "date": "2026-04-14",

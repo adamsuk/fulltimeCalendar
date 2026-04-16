@@ -1,20 +1,7 @@
 {
   "club": "Gonerby Yellow",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "8eda4ad8002ef5ba219bd2c462dbcda4",
-      "date": "2026-04-15",
-      "time": "18:00",
-      "home_team": "Gonerby Yellow U11",
-      "away_team": "Ravenshead FC U11",
-      "venue": "Grantham Meres Leisure Centre NG31 7XQ",
-      "division": "U11 Sun Spring Div 4 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Gonerby Yellow U11",
-      "home_away": "home",
-      "opponent": "Ravenshead FC U11"
-    },
     {
       "id": "e9f06b2cfa7c7ef4e09c8ec7c4d5971e",
       "date": "2026-04-18",
@@ -134,6 +121,23 @@
     }
   ],
   "results": [
+    {
+      "id": "8eda4ad8002ef5ba219bd2c462dbcda4",
+      "date": "2026-04-15",
+      "time": "18:00",
+      "home_team": "Gonerby Yellow U11",
+      "away_team": "Ravenshead FC U11",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sun Spring Div 4 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gonerby Yellow U11",
+      "home_away": "home",
+      "opponent": "Ravenshead FC U11",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "a47dbc5089efc9505bf35bf3e7d94f45",
       "date": "2026-03-29",

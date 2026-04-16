@@ -1,19 +1,8 @@
 {
   "team": "Wollaton FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "06295defff3e8b9d51daa48c197df237",
-      "date": "2026-04-14",
-      "time": "18:30",
-      "home_team": "Wollaton FC",
-      "away_team": "Notts Olympic FC",
-      "venue": "WOLLATON SPORTS ASSOCIATION GROUND",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "home",
-      "opponent": "Notts Olympic FC"
-    },
     {
       "id": "2dd6b8d8b51e8d7f4b060bdb7b3dc224",
       "date": "2026-04-18",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "06295defff3e8b9d51daa48c197df237",
+      "date": "2026-04-14",
+      "time": "18:30",
+      "home_team": "Wollaton FC",
+      "away_team": "Notts Olympic FC",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "home",
+      "opponent": "Notts Olympic FC",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "947b30aba76f04adac4c8539644daa6f",
       "date": "2026-04-11",

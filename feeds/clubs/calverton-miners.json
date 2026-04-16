@@ -1,6 +1,6 @@
 {
   "club": "Calverton Miners",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
     {
       "id": "aeff0b7aaa3e07f584218c506c17dfdd",
@@ -27,19 +27,6 @@
       "team": "Calverton Miners Welfare FC",
       "home_away": "home",
       "opponent": "Keyworth United FC First"
-    },
-    {
-      "id": "e0a6679a87931cefe193ba5fdd56837e",
-      "date": "2026-04-15",
-      "time": "20:00",
-      "home_team": "Calverton Miners Welfare FC",
-      "away_team": "Pass Move Grin Excel FC",
-      "venue": "Hollinwood Lane Main Pitch",
-      "division": "NSL Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Calverton Miners Welfare FC",
-      "home_away": "home",
-      "opponent": "Pass Move Grin Excel FC"
     },
     {
       "id": "e6e1c0158cebd7facaef33ad578ee6ba",
@@ -316,6 +303,23 @@
     }
   ],
   "results": [
+    {
+      "id": "e0a6679a87931cefe193ba5fdd56837e",
+      "date": "2026-04-15",
+      "time": "20:00",
+      "home_team": "Calverton Miners Welfare FC",
+      "away_team": "Pass Move Grin Excel FC",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Calverton Miners Welfare FC",
+      "home_away": "home",
+      "opponent": "Pass Move Grin Excel FC",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "e082998e40ae29338323273e20242cc1",
       "date": "2026-04-11",

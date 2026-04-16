@@ -1,20 +1,7 @@
 {
   "club": "Riverside Junior",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "94f60b2c2f8d23dbcd09bc172d965c19",
-      "date": "2026-04-15",
-      "time": "18:30",
-      "home_team": "Priory Celtic F.C. U14 Girls",
-      "away_team": "Riverside Junior U14 Rubies",
-      "venue": "THE KIMBERLEY SCHOOL",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Riverside Junior U14 Rubies",
-      "home_away": "away",
-      "opponent": "Priory Celtic F.C. U14 Girls"
-    },
     {
       "id": "8e2fd8ca363ee112f5a6914e49488865",
       "date": "2026-04-18",
@@ -83,7 +70,7 @@
     {
       "id": "9024c8c2aa3772d51df9c2a8cb81780b",
       "date": "2026-04-25",
-      "time": "09:45",
+      "time": "10:00",
       "home_team": "DLFC Purple U9",
       "away_team": "Riverside Junior Titans U9",
       "venue": "Greenwich Avenue NG6 0LD",
@@ -212,6 +199,23 @@
     }
   ],
   "results": [
+    {
+      "id": "94f60b2c2f8d23dbcd09bc172d965c19",
+      "date": "2026-04-15",
+      "time": "18:30",
+      "home_team": "Priory Celtic F.C. U14 Girls",
+      "away_team": "Riverside Junior U14 Rubies",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Riverside Junior U14 Rubies",
+      "home_away": "away",
+      "opponent": "Priory Celtic F.C. U14 Girls",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "c8ba237f6d74442b12a9c114fdb935f7",
       "date": "2026-04-12",

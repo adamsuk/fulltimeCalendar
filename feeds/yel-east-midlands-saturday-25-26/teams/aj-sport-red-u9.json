@@ -1,19 +1,8 @@
 {
   "team": "AJ Sport Red U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "c99ab3c756ddae47e3712ce20d2f74c5",
-      "date": "2026-04-15",
-      "time": "18:00",
-      "home_team": "AJ Sport Red U9",
-      "away_team": "PMG Engage U9",
-      "venue": "Leyton Cres Recreation Ground NG9 1PS",
-      "division": "U9 Sat Spring Div 4 Blue",
-      "home_away": "home",
-      "opponent": "PMG Engage U9"
-    },
     {
       "id": "cadb7addf89b9f7c948f4a16902f54ff",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c99ab3c756ddae47e3712ce20d2f74c5",
+      "date": "2026-04-15",
+      "time": "18:00",
+      "home_team": "AJ Sport Red U9",
+      "away_team": "PMG Engage U9",
+      "home_score": 7,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sat Spring Div 4 Blue",
+      "home_away": "home",
+      "opponent": "PMG Engage U9",
+      "goals_for": 7,
+      "goals_against": 0
+    },
     {
       "id": "38b582574795cb94b10013cd29049919",
       "date": "2026-03-28",

@@ -1,20 +1,7 @@
 {
   "club": "Edwalton Cavaliers",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "5eabed92536cd8c749cd6a21ba249358",
-      "date": "2026-04-13",
-      "time": "18:30",
-      "home_team": "Ruddington Village U12",
-      "away_team": "Edwalton Cavaliers White U12",
-      "venue": "Jubilee Fields NG11 6NX",
-      "division": "U12 Sat YEL Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Edwalton Cavaliers White U12",
-      "home_away": "away",
-      "opponent": "Ruddington Village U12"
-    },
     {
       "id": "5d13ef80d8f3455c4f69c285ffb2c922",
       "date": "2026-04-18",
@@ -133,19 +120,6 @@
       "opponent": "Carlton Town Blue U14"
     },
     {
-      "id": "12dbc62ba826dcf4295228dba40ca7c5",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Willington FC Rams CM U11",
-      "away_team": "Edwalton Cavaliers Blue U11",
-      "venue": "Twyford Road DE65 6PP",
-      "division": "U11 Sat Spring Div 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Edwalton Cavaliers Blue U11",
-      "home_away": "away",
-      "opponent": "Willington FC Rams CM U11"
-    },
-    {
       "id": "25fb1ecd016ff5cc0e3c0824665ecbec",
       "date": "2026-04-21",
       "time": "18:00",
@@ -157,6 +131,19 @@
       "team": "Edwalton Cavaliers White U11",
       "home_away": "home",
       "opponent": "Pegasus FC U11"
+    },
+    {
+      "id": "4fcacdb325acf9b4f057ea4835850ed8",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "Willington FC Rams CM U11",
+      "away_team": "Edwalton Cavaliers Blue U11",
+      "venue": "Twyford Road DE65 6PP",
+      "division": "U11 Sat Spring Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Edwalton Cavaliers Blue U11",
+      "home_away": "away",
+      "opponent": "Willington FC Rams CM U11"
     },
     {
       "id": "d9bacae44eac6038abf1421c45873d54",
@@ -224,17 +211,17 @@
       "opponent": "Bingham Town Blue U9"
     },
     {
-      "id": "484307e1058e4f0d31fc832a3e25301c",
+      "id": "3ba79a44ebdcb4847ca8c088b1654681",
       "date": "2026-04-25",
       "time": "11:00",
       "home_team": "Edwalton Cavaliers Blue U11",
-      "away_team": "Bingham Town Red U11",
+      "away_team": "Heanor Juniors Rams U11",
       "venue": "Rushcliffe School  NG2 7BW",
       "division": "U11 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Edwalton Cavaliers Blue U11",
       "home_away": "home",
-      "opponent": "Bingham Town Red U11"
+      "opponent": "Heanor Juniors Rams U11"
     },
     {
       "id": "c0a41101207b39aedcce153ab37dcfe8",
@@ -261,6 +248,19 @@
       "team": "Edwalton Cavaliers White U12",
       "home_away": "away",
       "opponent": "Northgate Olympic FC U12"
+    },
+    {
+      "id": "cfcdef638ddb69d0e3757a922d4eed2c",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Edwalton Cavaliers White U12",
+      "away_team": "Etwall FC U12",
+      "venue": "Nottingham Football Centre NG2 7BW",
+      "division": "U12 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Edwalton Cavaliers White U12",
+      "home_away": "home",
+      "opponent": "Etwall FC U12"
     },
     {
       "id": "26fe23e04de4d38c011756150c063db3",
@@ -342,6 +342,23 @@
     }
   ],
   "results": [
+    {
+      "id": "5eabed92536cd8c749cd6a21ba249358",
+      "date": "2026-04-13",
+      "time": "18:30",
+      "home_team": "Ruddington Village U12",
+      "away_team": "Edwalton Cavaliers White U12",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Edwalton Cavaliers White U12",
+      "home_away": "away",
+      "opponent": "Ruddington Village U12",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "abb45ac3e19ba25b1bc3934271b5ddea",
       "date": "2026-04-11",

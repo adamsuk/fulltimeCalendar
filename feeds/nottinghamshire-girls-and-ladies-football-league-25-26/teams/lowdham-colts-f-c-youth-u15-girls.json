@@ -1,19 +1,8 @@
 {
   "team": "Lowdham Colts F.C. Youth U15 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "d6705eaa0b0bd03715c0ba654e625872",
-      "date": "2026-04-15",
-      "time": "18:00",
-      "home_team": "Lowdham Colts F.C. Youth U15 Girls",
-      "away_team": "Keyworth United F.C. U15 Kobras",
-      "venue": "GUNTHORPE PLAYING FIELD",
-      "division": "U15 Div 2",
-      "home_away": "home",
-      "opponent": "Keyworth United F.C. U15 Kobras"
-    },
     {
       "id": "73255dfe4dc667e417a3f9d01a5063d2",
       "date": "2026-04-19",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d6705eaa0b0bd03715c0ba654e625872",
+      "date": "2026-04-15",
+      "time": "18:00",
+      "home_team": "Lowdham Colts F.C. Youth U15 Girls",
+      "away_team": "Keyworth United F.C. U15 Kobras",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U15 Div 2",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U15 Kobras",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "f48a5405e9dee16201aab445b19468e7",
       "date": "2026-04-12",

@@ -1,19 +1,8 @@
 {
   "team": "Quarrydale United Rangers U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "ca7459f02d1eeb95cc2a4c0beb0b02e8",
-      "date": "2026-04-15",
-      "time": "18:00",
-      "home_team": "Hucknall Sports White U10",
-      "away_team": "Quarrydale United Rangers U10",
-      "venue": "Engine Rooms NG15 6EP",
-      "division": "U10 Sat Spring Div 6 Red",
-      "home_away": "away",
-      "opponent": "Hucknall Sports White U10"
-    },
     {
       "id": "822c44e82666d090e0676fb404d2c2d0",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ca7459f02d1eeb95cc2a4c0beb0b02e8",
+      "date": "2026-04-15",
+      "time": "18:00",
+      "home_team": "Hucknall Sports White U10",
+      "away_team": "Quarrydale United Rangers U10",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 6 Red",
+      "home_away": "away",
+      "opponent": "Hucknall Sports White U10",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "701bff9c212a0da810071b4812b22140",
       "date": "2026-03-28",

@@ -1,7 +1,20 @@
 {
   "club": "G3A FC",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
+    {
+      "id": "9b79c135ae61668c1c3133a7d4a9670c",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Southwell City Troopers U13",
+      "away_team": "G3A FC Zenit U13",
+      "venue": "Centenary Ground Brinkley NG25 0TU",
+      "division": "U13 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "G3A FC Zenit U13",
+      "home_away": "away",
+      "opponent": "Southwell City Troopers U13"
+    },
     {
       "id": "6dda735f8066a2592a079f1f21b148e0",
       "date": "2026-04-18",
@@ -53,19 +66,6 @@
       "team": "G3A FC Rangers U12",
       "home_away": "away",
       "opponent": "Mansfield Town Grassroots Y/W U12"
-    },
-    {
-      "id": "9b79c135ae61668c1c3133a7d4a9670c",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Southwell City Troopers U13",
-      "away_team": "G3A FC Zenit U13",
-      "venue": "Centenary Ground Brinkley NG25 0TU",
-      "division": "U13 Sat Spring Div 7 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "G3A FC Zenit U13",
-      "home_away": "away",
-      "opponent": "Southwell City Troopers U13"
     },
     {
       "id": "0d6b6e1b08641ac493a8d36b5142e12f",
@@ -159,6 +159,19 @@
       "opponent": "Mapperley All Stars Blue U13"
     },
     {
+      "id": "7575614995a2178244736afd3420d8bb",
+      "date": "2026-04-25",
+      "time": "09:00",
+      "home_team": "DLFC White U8",
+      "away_team": "G3A FC PSV U8",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U8 Sat Spring 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "G3A FC PSV U8",
+      "home_away": "away",
+      "opponent": "DLFC White U8"
+    },
+    {
       "id": "2ec105f0bba474c07c1a5166c5c506b9",
       "date": "2026-04-25",
       "time": "10:00",
@@ -170,19 +183,6 @@
       "team": "G3A FC Leverkusen U10",
       "home_away": "away",
       "opponent": "Newark Town Cavaliers U10"
-    },
-    {
-      "id": "7575614995a2178244736afd3420d8bb",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "DLFC White U8",
-      "away_team": "G3A FC PSV U8",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U8 Sat Spring 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "G3A FC PSV U8",
-      "home_away": "away",
-      "opponent": "DLFC White U8"
     },
     {
       "id": "527616c40c7c5e777da0b51e07073be2",
@@ -237,6 +237,19 @@
       "opponent": "AFC Warriors Spartans U13"
     },
     {
+      "id": "8b08b8487e97aa65aaca587566564d0f",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "DLFC Red U11",
+      "away_team": "G3A FC Ajax U11",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U11 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "G3A FC Ajax U11",
+      "home_away": "away",
+      "opponent": "DLFC Red U11"
+    },
+    {
       "id": "916540bac30c83d9f44807502a802705",
       "date": "2026-04-26",
       "time": "10:00",
@@ -248,32 +261,6 @@
       "team": "G3A FC Leipzig U10",
       "home_away": "home",
       "opponent": "Shirebrook Soldiers Warriors U10"
-    },
-    {
-      "id": "32e32b792f3af60bc1d440e95846b52d",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "DLFC Purple U8",
-      "away_team": "G3A FC Miami U8",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U8 Sun Spring 4 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "G3A FC Miami U8",
-      "home_away": "away",
-      "opponent": "DLFC Purple U8"
-    },
-    {
-      "id": "8b08b8487e97aa65aaca587566564d0f",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "DLFC Red U11",
-      "away_team": "G3A FC Ajax U11",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U11 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "G3A FC Ajax U11",
-      "home_away": "away",
-      "opponent": "DLFC Red U11"
     },
     {
       "id": "a9e5527dea15fb57680080f648f89861",
@@ -313,6 +300,19 @@
       "team": "G3A FC Inter U12",
       "home_away": "home",
       "opponent": "Dunkirk U12"
+    },
+    {
+      "id": "32e32b792f3af60bc1d440e95846b52d",
+      "date": "2026-04-26",
+      "time": "12:00",
+      "home_team": "DLFC Purple U8",
+      "away_team": "G3A FC Miami U8",
+      "venue": "Bestwood Road Sports Club NG6 8AU",
+      "division": "U8 Sun Spring 4 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "G3A FC Miami U8",
+      "home_away": "away",
+      "opponent": "DLFC Purple U8"
     }
   ],
   "results": [

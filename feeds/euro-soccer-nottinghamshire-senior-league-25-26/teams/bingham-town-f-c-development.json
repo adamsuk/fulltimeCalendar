@@ -1,19 +1,8 @@
 {
   "team": "Bingham Town F.C. Development",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "c12e74d4c39916cb478c5587fcde9f34",
-      "date": "2026-04-15",
-      "time": "19:45",
-      "home_team": "Cotgrave Development",
-      "away_team": "Bingham Town F.C. Development",
-      "venue": "COTGRAVE WELFARE CLUB #1",
-      "division": "Development Spring Division One",
-      "home_away": "away",
-      "opponent": "Cotgrave Development"
-    },
     {
       "id": "76c75c7dd4baa82816f6193d45f82f6a",
       "date": "2026-04-18",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c12e74d4c39916cb478c5587fcde9f34",
+      "date": "2026-04-15",
+      "time": "19:45",
+      "home_team": "Cotgrave Development",
+      "away_team": "Bingham Town F.C. Development",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "away",
+      "opponent": "Cotgrave Development",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "96af958c1e8f34b85beae02def810d31",
       "date": "2026-04-11",

@@ -1,6 +1,6 @@
 {
   "club": "Sandiacre Town",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
     {
       "id": "88a0bc82534092e2eb8677bafb3eb373",
@@ -14,19 +14,6 @@
       "team": "Sandiacre Town Youth U12 Panthers Girls",
       "home_away": "away",
       "opponent": "Keyworth United F.C. U12 Warriors"
-    },
-    {
-      "id": "791d58048ddcf6583f26e88013e7bc41",
-      "date": "2026-04-15",
-      "time": "18:00",
-      "home_team": "Hilton Harriers U15 Girls Sunday",
-      "away_team": "Sandiacre Town Youth U15 Girls Sparkle",
-      "venue": "THE MEASE PAVILION - HILTON HARRIERS FC",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sandiacre Town Youth U15 Girls Sparkle",
-      "home_away": "away",
-      "opponent": "Hilton Harriers U15 Girls Sunday"
     },
     {
       "id": "4bd44162a095ee6cacfd09359b920d0b",
@@ -174,7 +161,7 @@
     {
       "id": "ce44795cf93bc72b1fff2806ada6b976",
       "date": "2026-04-18",
-      "time": "11:00",
+      "time": "11:15",
       "home_team": "Sandiacre Town Spartans U12",
       "away_team": "DJFC U12",
       "venue": "Friesland School NG10 5AF",
@@ -406,6 +393,19 @@
       "opponent": "WBYFC Dynamos Red U8"
     },
     {
+      "id": "0837f5b2e74330d887124856402defa2",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Alfreton Town Tigers U13",
+      "away_team": "Sandiacre Town Sharks U13",
+      "venue": "David Neiper Academy School DE55 7JA",
+      "division": "U13 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sandiacre Town Sharks U13",
+      "home_away": "away",
+      "opponent": "Alfreton Town Tigers U13"
+    },
+    {
       "id": "8a1c0a70b313260171e3405a4ad42725",
       "date": "2026-04-25",
       "time": "10:00",
@@ -443,19 +443,6 @@
       "team": "Sandiacre Town Scorpions U12",
       "home_away": "home",
       "opponent": "Pinxton United U13 Girls"
-    },
-    {
-      "id": "4b68a2f5f514d795e8df187eb97e261c",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Sandiacre Town Sharks U13",
-      "away_team": "Willow Wanderers Wolves U13",
-      "venue": "Friesland School NG10 5AF",
-      "division": "U13 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sandiacre Town Sharks U13",
-      "home_away": "home",
-      "opponent": "Willow Wanderers Wolves U13"
     },
     {
       "id": "98a728f161959bfc635d9547d685d668",
@@ -510,19 +497,6 @@
       "opponent": "Willow Wanderers F.C. Youth U13 Orcas"
     },
     {
-      "id": "feaccb08f2a62694652963e36e711701",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Basford United Lions U12",
-      "away_team": "Sandiacre Town Hurricanes U12",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U12 Sun YEL Shield",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Sandiacre Town Hurricanes U12",
-      "home_away": "away",
-      "opponent": "Basford United Lions U12"
-    },
-    {
       "id": "3e5a9f48700c86e40a46a85b833897f0",
       "date": "2026-04-26",
       "time": "11:00",
@@ -575,6 +549,19 @@
       "opponent": "Bottesford U15 Girls"
     },
     {
+      "id": "feaccb08f2a62694652963e36e711701",
+      "date": "2026-04-26",
+      "time": "12:15",
+      "home_team": "Basford United Lions U12",
+      "away_team": "Sandiacre Town Hurricanes U12",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U12 Sun YEL Shield",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sandiacre Town Hurricanes U12",
+      "home_away": "away",
+      "opponent": "Basford United Lions U12"
+    },
+    {
       "id": "bb76e029d4cebd9440b48ec803adb957",
       "date": "2026-04-28",
       "time": "18:00",
@@ -586,19 +573,6 @@
       "team": "Sandiacre Town Rockets U14",
       "home_away": "home",
       "opponent": "Phoenix Inham Inferno U14"
-    },
-    {
-      "id": "469c3eb0f2b43ca69cd5696a499897e9",
-      "date": "2026-05-02",
-      "time": "11:00",
-      "home_team": "Alfreton Town Tigers U13",
-      "away_team": "Sandiacre Town Sharks U13",
-      "venue": "David Neiper Academy School DE55 7JA",
-      "division": "U13 Sat YEL Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sandiacre Town Sharks U13",
-      "home_away": "away",
-      "opponent": "Alfreton Town Tigers U13"
     },
     {
       "id": "ac81fa4ef8090c6b9b9fdb4f8f45e630",
@@ -732,6 +706,23 @@
     }
   ],
   "results": [
+    {
+      "id": "791d58048ddcf6583f26e88013e7bc41",
+      "date": "2026-04-15",
+      "time": "18:00",
+      "home_team": "Hilton Harriers U15 Girls Sunday",
+      "away_team": "Sandiacre Town Youth U15 Girls Sparkle",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U15 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sandiacre Town Youth U15 Girls Sparkle",
+      "home_away": "away",
+      "opponent": "Hilton Harriers U15 Girls Sunday",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "f769d26b41a88c4034507c01f68949b1",
       "date": "2026-04-14",

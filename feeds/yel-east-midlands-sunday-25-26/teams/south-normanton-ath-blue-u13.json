@@ -1,19 +1,8 @@
 {
   "team": "South Normanton Ath Blue U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "76dfb18f01da224a647b21f7d22fcf5a",
-      "date": "2026-04-15",
-      "time": "18:30",
-      "home_team": "Riverside FC Panthers U13",
-      "away_team": "South Normanton Ath Blue U13",
-      "venue": "West Park Long Eaton NG10 4AA",
-      "division": "U13 Sun Spring Div 6",
-      "home_away": "away",
-      "opponent": "Riverside FC Panthers U13"
-    },
     {
       "id": "8b4c6e1b3fd6ce9232166b087b1e3713",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "76dfb18f01da224a647b21f7d22fcf5a",
+      "date": "2026-04-15",
+      "time": "18:30",
+      "home_team": "Riverside FC Panthers U13",
+      "away_team": "South Normanton Ath Blue U13",
+      "home_score": 12,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sun Spring Div 6",
+      "home_away": "away",
+      "opponent": "Riverside FC Panthers U13",
+      "goals_for": 0,
+      "goals_against": 12
+    },
     {
       "id": "143a2f08c16cebae697c5f937ab62005",
       "date": "2026-03-22",

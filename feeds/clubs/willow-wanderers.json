@@ -1,20 +1,7 @@
 {
   "club": "Willow Wanderers",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "5f74cc8dcf03c0ff9a6a2fd0843938b2",
-      "date": "2026-04-15",
-      "time": "18:30",
-      "home_team": "Heanor Town Hurricanes U11",
-      "away_team": "Willow Wanderers Harriers U11",
-      "venue": "Carlton le Willows School NG4 4AA",
-      "division": "U11 Sun Spring Div 6 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Willow Wanderers Harriers U11",
-      "home_away": "away",
-      "opponent": "Heanor Town Hurricanes U11"
-    },
     {
       "id": "234c02106da54de07646d10b76b401dd",
       "date": "2026-04-18",
@@ -183,19 +170,6 @@
       "team": "Willow Wanderers Hornets U10",
       "home_away": "home",
       "opponent": "Clifton All Whites Blue U10"
-    },
-    {
-      "id": "4b68a2f5f514d795e8df187eb97e261c",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Sandiacre Town Sharks U13",
-      "away_team": "Willow Wanderers Wolves U13",
-      "venue": "Friesland School NG10 5AF",
-      "division": "U13 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Willow Wanderers Wolves U13",
-      "home_away": "away",
-      "opponent": "Sandiacre Town Sharks U13"
     },
     {
       "id": "8ede0f65902857f617e4d7993d1f969e",
@@ -420,6 +394,23 @@
     }
   ],
   "results": [
+    {
+      "id": "5f74cc8dcf03c0ff9a6a2fd0843938b2",
+      "date": "2026-04-15",
+      "time": "18:30",
+      "home_team": "Heanor Town Hurricanes U11",
+      "away_team": "Willow Wanderers Harriers U11",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U11 Sun Spring Div 6 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Willow Wanderers Harriers U11",
+      "home_away": "away",
+      "opponent": "Heanor Town Hurricanes U11",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "5bf15ac8b28e2beb1cb44a178e1d0292",
       "date": "2026-04-12",

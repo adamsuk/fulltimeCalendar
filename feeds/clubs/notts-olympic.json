@@ -1,6 +1,6 @@
 {
   "club": "Notts Olympic",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
     {
       "id": "082583a9f18d4f91a7ce49b0197eb07c",
@@ -14,19 +14,6 @@
       "team": "Notts Olympic Reserves",
       "home_away": "home",
       "opponent": "Arnold Town Reserves"
-    },
-    {
-      "id": "06295defff3e8b9d51daa48c197df237",
-      "date": "2026-04-14",
-      "time": "18:30",
-      "home_team": "Wollaton FC",
-      "away_team": "Notts Olympic FC",
-      "venue": "WOLLATON SPORTS ASSOCIATION GROUND",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Notts Olympic FC",
-      "home_away": "away",
-      "opponent": "Wollaton FC"
     },
     {
       "id": "511836173bbfdc9bb7e61c5080e27fd3",
@@ -277,6 +264,23 @@
     }
   ],
   "results": [
+    {
+      "id": "06295defff3e8b9d51daa48c197df237",
+      "date": "2026-04-14",
+      "time": "18:30",
+      "home_team": "Wollaton FC",
+      "away_team": "Notts Olympic FC",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Notts Olympic FC",
+      "home_away": "away",
+      "opponent": "Wollaton FC",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "076cd796712a936ea706731423e86452",
       "date": "2026-04-11",

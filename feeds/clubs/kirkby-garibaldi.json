@@ -1,20 +1,7 @@
 {
   "club": "Kirkby Garibaldi",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "85a6894f715d78695a24fa6b92ee0151",
-      "date": "2026-04-15",
-      "time": "18:30",
-      "home_team": "Castle Donington Panthers U11",
-      "away_team": "Kirkby Garibaldi Reds U11",
-      "venue": "Spital Park DE74 2NQ",
-      "division": "U11 Sun Spring Div 3",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Kirkby Garibaldi Reds U11",
-      "home_away": "away",
-      "opponent": "Castle Donington Panthers U11"
-    },
     {
       "id": "8f5a18886811408b3f0b4b26915fd652",
       "date": "2026-04-18",
@@ -70,7 +57,7 @@
     {
       "id": "ca0678c772361ee7025a3a2e2c9d362c",
       "date": "2026-04-26",
-      "time": "11:00",
+      "time": "10:00",
       "home_team": "Kirkby Garibaldi Reds U11",
       "away_team": "Silva FC Carlton Lions U11",
       "venue": "Calladine Park NG17 1NJ",
@@ -82,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "85a6894f715d78695a24fa6b92ee0151",
+      "date": "2026-04-15",
+      "time": "18:30",
+      "home_team": "Castle Donington Panthers U11",
+      "away_team": "Kirkby Garibaldi Reds U11",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "",
+      "division": "U11 Sun Spring Div 3",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Kirkby Garibaldi Reds U11",
+      "home_away": "away",
+      "opponent": "Castle Donington Panthers U11",
+      "goals_for": 6,
+      "goals_against": 2
+    },
     {
       "id": "8e2d84803cef006f335abb72090a0603",
       "date": "2026-04-12",

@@ -1,20 +1,7 @@
 {
   "club": "PMG Excel",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "c1de98894870d078dfd90594a9231375",
-      "date": "2026-04-15",
-      "time": "18:15",
-      "home_team": "Silva FC Rushcliffe Whites U12",
-      "away_team": "PMG Excel U12",
-      "venue": "Bulwell Hall Park NG6 8LF",
-      "division": "U12 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "PMG Excel U12",
-      "home_away": "away",
-      "opponent": "Silva FC Rushcliffe Whites U12"
-    },
     {
       "id": "1051920d497c5c675e18124a092c9275",
       "date": "2026-04-16",
@@ -303,6 +290,23 @@
     }
   ],
   "results": [
+    {
+      "id": "c1de98894870d078dfd90594a9231375",
+      "date": "2026-04-15",
+      "time": "18:15",
+      "home_team": "Silva FC Rushcliffe Whites U12",
+      "away_team": "PMG Excel U12",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sun Spring Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "PMG Excel U12",
+      "home_away": "away",
+      "opponent": "Silva FC Rushcliffe Whites U12",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "2c028a521ced3063fec516eda16727a4",
       "date": "2026-04-14",

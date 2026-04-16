@@ -1,6 +1,6 @@
 {
   "club": "Pegasus FC",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
     {
       "id": "fc8098c162e51af805d9f0ad00a5c2dd",
@@ -14,19 +14,6 @@
       "team": "Pegasus FC",
       "home_away": "home",
       "opponent": "Newark Town FC U23's"
-    },
-    {
-      "id": "9257d20ae724a438781cfaf0ac44255a",
-      "date": "2026-04-15",
-      "time": "19:45",
-      "home_team": "Linby Colliery Welfare Development",
-      "away_team": "Pegasus FC",
-      "venue": "LINBY COLLIERY WELFARE FC",
-      "division": "Development Spring Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Pegasus FC",
-      "home_away": "away",
-      "opponent": "Linby Colliery Welfare Development"
     },
     {
       "id": "b188a65f92fd779c8da420d6f326cb6c",
@@ -213,7 +200,7 @@
     {
       "id": "29f9d0c2147348551a3dc79f72d872d2",
       "date": "2026-04-26",
-      "time": "11:00",
+      "time": "12:30",
       "home_team": "DLFC SFK U13",
       "away_team": "Pegasus FC U13",
       "venue": "Greenwich Avenue NG6 0LD",
@@ -264,6 +251,23 @@
     }
   ],
   "results": [
+    {
+      "id": "9257d20ae724a438781cfaf0ac44255a",
+      "date": "2026-04-15",
+      "time": "19:45",
+      "home_team": "Linby Colliery Welfare Development",
+      "away_team": "Pegasus FC",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Pegasus FC",
+      "home_away": "away",
+      "opponent": "Linby Colliery Welfare Development",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "51fc448ade38eabff0412ac5a5dd4590",
       "date": "2026-04-12",

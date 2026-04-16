@@ -1,6 +1,6 @@
 {
   "club": "AJ Sport",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
     {
       "id": "6cf2b543cd315c5e29610b0673c1a237",
@@ -14,19 +14,6 @@
       "team": "AJ Sport F.C. Reserves",
       "home_away": "home",
       "opponent": "Pass Move Grin Reserves"
-    },
-    {
-      "id": "c99ab3c756ddae47e3712ce20d2f74c5",
-      "date": "2026-04-15",
-      "time": "18:00",
-      "home_team": "AJ Sport Red U9",
-      "away_team": "PMG Engage U9",
-      "venue": "Leyton Cres Recreation Ground NG9 1PS",
-      "division": "U9 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "AJ Sport Red U9",
-      "home_away": "home",
-      "opponent": "PMG Engage U9"
     },
     {
       "id": "2412adfb513eb29e4acf4de02a660e33",
@@ -196,6 +183,19 @@
       "team": "AJ Sport White U9",
       "home_away": "away",
       "opponent": "Attenborough Colts Blue U9"
+    },
+    {
+      "id": "d67059be8c465ca7815e6d99d7190239",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "AJ Sport FC U13",
+      "away_team": "Mickleover Country Park U13",
+      "venue": "Central Ave NG9 2QT",
+      "division": "U13 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "AJ Sport FC U13",
+      "home_away": "home",
+      "opponent": "Mickleover Country Park U13"
     },
     {
       "id": "610e5077d1d7207953207e5bc3a8fe0b",
@@ -432,19 +432,6 @@
       "opponent": "Ilkeston Town Roma U12"
     },
     {
-      "id": "be71a39e501e42bb5872da25e46cc4f8",
-      "date": "2026-04-28",
-      "time": "18:00",
-      "home_team": "AJ Sport FC U13",
-      "away_team": "Mickleover Country Park U13",
-      "venue": "Central Ave NG9 2QT",
-      "division": "U13 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "AJ Sport FC U13",
-      "home_away": "home",
-      "opponent": "Mickleover Country Park U13"
-    },
-    {
       "id": "b665c47d966f3af6343ca7383d40b1c6",
       "date": "2026-04-28",
       "time": "18:30",
@@ -498,6 +485,23 @@
     }
   ],
   "results": [
+    {
+      "id": "c99ab3c756ddae47e3712ce20d2f74c5",
+      "date": "2026-04-15",
+      "time": "18:00",
+      "home_team": "AJ Sport Red U9",
+      "away_team": "PMG Engage U9",
+      "home_score": 7,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "AJ Sport Red U9",
+      "home_away": "home",
+      "opponent": "PMG Engage U9",
+      "goals_for": 7,
+      "goals_against": 0
+    },
     {
       "id": "5044988cb423f415865bdb7f507ea7cb",
       "date": "2026-04-14",

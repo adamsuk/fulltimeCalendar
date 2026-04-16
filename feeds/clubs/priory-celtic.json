@@ -1,6 +1,6 @@
 {
   "club": "Priory Celtic",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
     {
       "id": "00b892d801d2dfcf9111f97f9e254d0c",
@@ -14,19 +14,6 @@
       "team": "Priory Celtic F.C. U15 Girls",
       "home_away": "home",
       "opponent": "Bingham Town F.C. U15 Girls"
-    },
-    {
-      "id": "94f60b2c2f8d23dbcd09bc172d965c19",
-      "date": "2026-04-15",
-      "time": "18:30",
-      "home_team": "Priory Celtic F.C. U14 Girls",
-      "away_team": "Riverside Junior U14 Rubies",
-      "venue": "THE KIMBERLEY SCHOOL",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Priory Celtic F.C. U14 Girls",
-      "home_away": "home",
-      "opponent": "Riverside Junior U14 Rubies"
     },
     {
       "id": "747e7cacfca73086964eb4522d8e8a5c",
@@ -471,19 +458,6 @@
       "opponent": "East Leake Bantams Red U9"
     },
     {
-      "id": "cf0b851a8d6a902440d0f8ed51f38ff6",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Holbrook Sports U10",
-      "away_team": "Priory Celtic 1967 U10",
-      "venue": "Kirk Hallam Community Academy DE7 4HH",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Priory Celtic 1967 U10",
-      "home_away": "away",
-      "opponent": "Holbrook Sports U10"
-    },
-    {
       "id": "89a22940aa1670233d0c4fe335996944",
       "date": "2026-04-25",
       "time": "10:00",
@@ -562,19 +536,6 @@
       "opponent": "Quarrydale United U13"
     },
     {
-      "id": "dd2cd401a41475c7fd1cc08f13531288",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "DLFC Grey U11",
-      "away_team": "Priory Celtic Phoenix U11",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U11 Sat Spring Div 7 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Priory Celtic Phoenix U11",
-      "home_away": "away",
-      "opponent": "DLFC Grey U11"
-    },
-    {
       "id": "79f1aa32319087b55225838787e2822b",
       "date": "2026-04-25",
       "time": "10:00",
@@ -640,6 +601,32 @@
       "opponent": "Long Eaton United Athletico U8"
     },
     {
+      "id": "cf0b851a8d6a902440d0f8ed51f38ff6",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Holbrook Sports U10",
+      "away_team": "Priory Celtic 1967 U10",
+      "venue": "Kirk Hallam Community Academy DE7 4HH",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Priory Celtic 1967 U10",
+      "home_away": "away",
+      "opponent": "Holbrook Sports U10"
+    },
+    {
+      "id": "dd2cd401a41475c7fd1cc08f13531288",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "DLFC Grey U11",
+      "away_team": "Priory Celtic Phoenix U11",
+      "venue": "Mellish Sports Centre  NG6 9FH",
+      "division": "U11 Sat Spring Div 7 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Priory Celtic Phoenix U11",
+      "home_away": "away",
+      "opponent": "DLFC Grey U11"
+    },
+    {
       "id": "a0acd224e3a5f88b49d65236b29ec02a",
       "date": "2026-04-25",
       "time": "11:00",
@@ -666,6 +653,19 @@
       "opponent": "Moorgreen Colts U9"
     },
     {
+      "id": "51da892e70006729b8bba035eb962fc2",
+      "date": "2026-04-26",
+      "time": "09:30",
+      "home_team": "DLFC Gold U10",
+      "away_team": "Priory Celtic 1967 U10",
+      "venue": "Mellish Sports Centre NG6 9FH",
+      "division": "U10 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Priory Celtic 1967 U10",
+      "home_away": "away",
+      "opponent": "DLFC Gold U10"
+    },
+    {
       "id": "4d1fb1f51edc53707395cef52e1bde53",
       "date": "2026-04-26",
       "time": "09:30",
@@ -677,19 +677,6 @@
       "team": "Priory Celtic F.C. U14 Girls",
       "home_away": "home",
       "opponent": "Arnold Eagles F.C. Girls U14 Hurricanes"
-    },
-    {
-      "id": "51da892e70006729b8bba035eb962fc2",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "DLFC Gold U10",
-      "away_team": "Priory Celtic 1967 U10",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U10 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Priory Celtic 1967 U10",
-      "home_away": "away",
-      "opponent": "DLFC Gold U10"
     },
     {
       "id": "a661d5738c2a916678c5ec8c44beca0a",
@@ -1057,6 +1044,23 @@
     }
   ],
   "results": [
+    {
+      "id": "94f60b2c2f8d23dbcd09bc172d965c19",
+      "date": "2026-04-15",
+      "time": "18:30",
+      "home_team": "Priory Celtic F.C. U14 Girls",
+      "away_team": "Riverside Junior U14 Rubies",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Girls",
+      "home_away": "home",
+      "opponent": "Riverside Junior U14 Rubies",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "86fedb750ddbbfbef52173718e2f853f",
       "date": "2026-04-14",

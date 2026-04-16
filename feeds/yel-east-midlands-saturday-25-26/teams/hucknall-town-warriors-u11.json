@@ -1,19 +1,8 @@
 {
   "team": "Hucknall Town Warriors U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "dce32d1b2c57696501be412a6459bc1f",
-      "date": "2026-04-15",
-      "time": "18:00",
-      "home_team": "Sports Gateway Blue U11",
-      "away_team": "Hucknall Town Warriors U11",
-      "venue": "Papplewick Green NG15 8HZ",
-      "division": "U11 Sat Spring Div 5 Red",
-      "home_away": "away",
-      "opponent": "Sports Gateway Blue U11"
-    },
     {
       "id": "3509764139084a6540560e615c9ddbf5",
       "date": "2026-04-18",
@@ -24,17 +13,6 @@
       "division": "U11 Saturday",
       "home_away": "home",
       "opponent": "Sherwood FC Yellow U11"
-    },
-    {
-      "id": "4f80c6736828025dea89314ae469b5c6",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Stanton Ilkeston Galacticos U11",
-      "away_team": "Hucknall Town Warriors U11",
-      "venue": "Ron Brooks Pavilion DE7 4LD",
-      "division": "U11 Saturday",
-      "home_away": "away",
-      "opponent": "Stanton Ilkeston Galacticos U11"
     },
     {
       "id": "a634d907603746522c1f30e8ea654d03",
@@ -49,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "dce32d1b2c57696501be412a6459bc1f",
+      "date": "2026-04-15",
+      "time": "18:00",
+      "home_team": "Sports Gateway Blue U11",
+      "away_team": "Hucknall Town Warriors U11",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 5 Red",
+      "home_away": "away",
+      "opponent": "Sports Gateway Blue U11",
+      "goals_for": 3,
+      "goals_against": 5
+    },
     {
       "id": "5e145ce2f00ad8ee2d20ea6b3916af32",
       "date": "2026-03-21",

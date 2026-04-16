@@ -1,6 +1,6 @@
 {
   "club": "Lowdham Colts",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
     {
       "id": "30ca6cb54aa4519f419c8085c7a771ce",
@@ -14,19 +14,6 @@
       "team": "Lowdham Colts FC Development",
       "home_away": "away",
       "opponent": "Pelican Colts FC Ladies"
-    },
-    {
-      "id": "d6705eaa0b0bd03715c0ba654e625872",
-      "date": "2026-04-15",
-      "time": "18:00",
-      "home_team": "Lowdham Colts F.C. Youth U15 Girls",
-      "away_team": "Keyworth United F.C. U15 Kobras",
-      "venue": "GUNTHORPE PLAYING FIELD",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Lowdham Colts F.C. Youth U15 Girls",
-      "home_away": "home",
-      "opponent": "Keyworth United F.C. U15 Kobras"
     },
     {
       "id": "0d0687c8166ad2a07503cd847b72f96d",
@@ -133,6 +120,19 @@
       "opponent": "Meden Vale Colts FC Ladies"
     },
     {
+      "id": "e7bb6cd7a5b617626faa529af388d8e9",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Lowdham Colts FC Development",
+      "away_team": "East Leake FC Ladies",
+      "venue": "GUNTHORPE PLAYING FIELD",
+      "division": "Senior Div 3 Phase 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Lowdham Colts FC Development",
+      "home_away": "home",
+      "opponent": "East Leake FC Ladies"
+    },
+    {
       "id": "c3078d5e637f8b8dcabec6f035733803",
       "date": "2026-05-10",
       "time": "10:30",
@@ -144,19 +144,6 @@
       "team": "Lowdham Colts F.C. Youth U15 Girls",
       "home_away": "home",
       "opponent": "Hilton Harriers U15 Girls Sunday"
-    },
-    {
-      "id": "e7bb6cd7a5b617626faa529af388d8e9",
-      "date": "2026-05-10",
-      "time": "10:30",
-      "home_team": "Lowdham Colts FC Development",
-      "away_team": "East Leake FC Ladies",
-      "venue": "GUNTHORPE PLAYING FIELD",
-      "division": "Senior Div 3 Phase 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Lowdham Colts FC Development",
-      "home_away": "home",
-      "opponent": "East Leake FC Ladies"
     },
     {
       "id": "cfdfa56f7587cc887ce48c5198a5b3e3",
@@ -212,6 +199,23 @@
     }
   ],
   "results": [
+    {
+      "id": "d6705eaa0b0bd03715c0ba654e625872",
+      "date": "2026-04-15",
+      "time": "18:00",
+      "home_team": "Lowdham Colts F.C. Youth U15 Girls",
+      "away_team": "Keyworth United F.C. U15 Kobras",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U15 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Lowdham Colts F.C. Youth U15 Girls",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U15 Kobras",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "0fcc366245f6c26c305ba892b9ea18b1",
       "date": "2026-04-12",

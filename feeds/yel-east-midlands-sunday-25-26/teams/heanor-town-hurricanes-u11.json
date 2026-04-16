@@ -1,19 +1,8 @@
 {
   "team": "Heanor Town Hurricanes U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "5f74cc8dcf03c0ff9a6a2fd0843938b2",
-      "date": "2026-04-15",
-      "time": "18:30",
-      "home_team": "Heanor Town Hurricanes U11",
-      "away_team": "Willow Wanderers Harriers U11",
-      "venue": "Carlton le Willows School NG4 4AA",
-      "division": "U11 Sun Spring Div 6 Silver",
-      "home_away": "home",
-      "opponent": "Willow Wanderers Harriers U11"
-    },
     {
       "id": "f94dbce449e9ff4427b99725af4348e3",
       "date": "2026-04-19",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5f74cc8dcf03c0ff9a6a2fd0843938b2",
+      "date": "2026-04-15",
+      "time": "18:30",
+      "home_team": "Heanor Town Hurricanes U11",
+      "away_team": "Willow Wanderers Harriers U11",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U11 Sun Spring Div 6 Silver",
+      "home_away": "home",
+      "opponent": "Willow Wanderers Harriers U11",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "0ad6c5f4225f456dc432a8fdd87e02e3",
       "date": "2026-03-22",

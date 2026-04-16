@@ -1,19 +1,8 @@
 {
   "team": "Ruddington Village U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "5eabed92536cd8c749cd6a21ba249358",
-      "date": "2026-04-13",
-      "time": "18:30",
-      "home_team": "Ruddington Village U12",
-      "away_team": "Edwalton Cavaliers White U12",
-      "venue": "Jubilee Fields NG11 6NX",
-      "division": "U12 Sat YEL Shield",
-      "home_away": "home",
-      "opponent": "Edwalton Cavaliers White U12"
-    },
     {
       "id": "a3ba25b2f6f2760ec624e4e26b7209ff",
       "date": "2026-04-18",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5eabed92536cd8c749cd6a21ba249358",
+      "date": "2026-04-13",
+      "time": "18:30",
+      "home_team": "Ruddington Village U12",
+      "away_team": "Edwalton Cavaliers White U12",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat YEL Shield",
+      "home_away": "home",
+      "opponent": "Edwalton Cavaliers White U12",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "df1f0fe12a21b58b2cdd10169b1e7e35",
       "date": "2026-03-21",

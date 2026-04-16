@@ -1,20 +1,7 @@
 {
   "club": "Hucknall Town",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
-    {
-      "id": "dce32d1b2c57696501be412a6459bc1f",
-      "date": "2026-04-15",
-      "time": "18:00",
-      "home_team": "Sports Gateway Blue U11",
-      "away_team": "Hucknall Town Warriors U11",
-      "venue": "Papplewick Green NG15 8HZ",
-      "division": "U11 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Hucknall Town Warriors U11",
-      "home_away": "away",
-      "opponent": "Sports Gateway Blue U11"
-    },
     {
       "id": "8ce63daf7214c53f461843251a894d70",
       "date": "2026-04-18",
@@ -224,19 +211,6 @@
       "opponent": "Long Eaton United Blue U7"
     },
     {
-      "id": "4f80c6736828025dea89314ae469b5c6",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Stanton Ilkeston Galacticos U11",
-      "away_team": "Hucknall Town Warriors U11",
-      "venue": "Ron Brooks Pavilion DE7 4LD",
-      "division": "U11 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Hucknall Town Warriors U11",
-      "home_away": "away",
-      "opponent": "Stanton Ilkeston Galacticos U11"
-    },
-    {
       "id": "a634d907603746522c1f30e8ea654d03",
       "date": "2026-04-25",
       "time": "11:00",
@@ -261,19 +235,6 @@
       "team": "Hucknall Town Reserves",
       "home_away": "home",
       "opponent": "East Leake Robins FC"
-    },
-    {
-      "id": "8172ce49d7bed51b99104bbe732b4d1f",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "DLFC Red U8",
-      "away_team": "Hucknall Town Warriors Red U8",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U8 Sun Spring 5 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Hucknall Town Warriors Red U8",
-      "home_away": "away",
-      "opponent": "DLFC Red U8"
     },
     {
       "id": "3e119b0f606e693f026bebbc4886fbe0",
@@ -328,6 +289,19 @@
       "opponent": "Lowdham Colts FC Ladies"
     },
     {
+      "id": "8172ce49d7bed51b99104bbe732b4d1f",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "DLFC Red U8",
+      "away_team": "Hucknall Town Warriors Red U8",
+      "venue": "Bestwood Road Sports Club NG6 8AU",
+      "division": "U8 Sun Spring 5 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Hucknall Town Warriors Red U8",
+      "home_away": "away",
+      "opponent": "DLFC Red U8"
+    },
+    {
       "id": "7bfea646e030ffc78b47648a70a48dd4",
       "date": "2026-04-26",
       "time": "11:00",
@@ -368,6 +342,23 @@
     }
   ],
   "results": [
+    {
+      "id": "dce32d1b2c57696501be412a6459bc1f",
+      "date": "2026-04-15",
+      "time": "18:00",
+      "home_team": "Sports Gateway Blue U11",
+      "away_team": "Hucknall Town Warriors U11",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hucknall Town Warriors U11",
+      "home_away": "away",
+      "opponent": "Sports Gateway Blue U11",
+      "goals_for": 3,
+      "goals_against": 5
+    },
     {
       "id": "92a463a1d0f17291eb8eacf3fb534fb3",
       "date": "2026-04-14",

@@ -1,6 +1,6 @@
 {
   "club": "East Leake",
-  "generated": "2026-04-15T07:17:21Z",
+  "generated": "2026-04-16T07:18:38Z",
   "fixtures": [
     {
       "id": "29aff3c032b72a5f35c9472f58ae512d",
@@ -14,19 +14,6 @@
       "team": "East Leake FC U9 Bantams Girls Red",
       "home_away": "away",
       "opponent": "West Bridgford Colts U9 Stars"
-    },
-    {
-      "id": "b08dba3bf2b5dad3b4f378e7a9a88483",
-      "date": "2026-04-15",
-      "time": "18:30",
-      "home_team": "Awsworth Villa Reserves",
-      "away_team": "East Leake Robins Reserves",
-      "venue": "SHILO PARK ZINDA GROUND",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "East Leake Robins Reserves",
-      "home_away": "away",
-      "opponent": "Awsworth Villa Reserves"
     },
     {
       "id": "16a4a5a286d127cd4bb537f9ea3ee960",
@@ -393,6 +380,19 @@
       "opponent": "Hucknall Town Reserves"
     },
     {
+      "id": "743026e530583d2e41a938809e7f0e3f",
+      "date": "2026-04-26",
+      "time": "09:00",
+      "home_team": "DLFC Tangerine U7",
+      "away_team": "East Leake Bantams Black U7",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U7 Sun Spring Yellow",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "East Leake Bantams Black U7",
+      "home_away": "away",
+      "opponent": "DLFC Tangerine U7"
+    },
+    {
       "id": "60e076772df5da41056f4bcb1ed2faca",
       "date": "2026-04-26",
       "time": "10:00",
@@ -404,19 +404,6 @@
       "team": "East Leake Bantams Black U10",
       "home_away": "home",
       "opponent": "Attenborough Colts Yellow U10"
-    },
-    {
-      "id": "743026e530583d2e41a938809e7f0e3f",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "DLFC Tangerine U7",
-      "away_team": "East Leake Bantams Black U7",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U7 Sun Spring Yellow",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "East Leake Bantams Black U7",
-      "home_away": "away",
-      "opponent": "DLFC Tangerine U7"
     },
     {
       "id": "dc7590ae1d9ef7a6318ee33e761ba3f7",
@@ -668,7 +655,7 @@
     {
       "id": "e7bb6cd7a5b617626faa529af388d8e9",
       "date": "2026-05-10",
-      "time": "10:30",
+      "time": "10:00",
       "home_team": "Lowdham Colts FC Development",
       "away_team": "East Leake FC Ladies",
       "venue": "GUNTHORPE PLAYING FIELD",
@@ -680,6 +667,23 @@
     }
   ],
   "results": [
+    {
+      "id": "b08dba3bf2b5dad3b4f378e7a9a88483",
+      "date": "2026-04-15",
+      "time": "18:30",
+      "home_team": "Awsworth Villa Reserves",
+      "away_team": "East Leake Robins Reserves",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "East Leake Robins Reserves",
+      "home_away": "away",
+      "opponent": "Awsworth Villa Reserves",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "a6996991b75806478133f41a3a49a343",
       "date": "2026-04-12",
