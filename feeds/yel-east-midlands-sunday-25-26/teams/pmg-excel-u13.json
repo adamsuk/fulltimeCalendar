@@ -1,19 +1,8 @@
 {
   "team": "PMG Excel U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-16T07:18:38Z",
+  "generated": "2026-04-17T07:18:48Z",
   "fixtures": [
-    {
-      "id": "1051920d497c5c675e18124a092c9275",
-      "date": "2026-04-16",
-      "time": "18:00",
-      "home_team": "PMG Excel U13",
-      "away_team": "Nottingham FC Green U13",
-      "venue": "Bulwell Hall Park NG6 8LF",
-      "division": "U13 Sun Spring Div 1 Gold",
-      "home_away": "home",
-      "opponent": "Nottingham FC Green U13"
-    },
     {
       "id": "370d6a416cae8129966e2f5edf9b538a",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "1051920d497c5c675e18124a092c9275",
+      "date": "2026-04-16",
+      "time": "18:00",
+      "home_team": "PMG Excel U13",
+      "away_team": "Nottingham FC Green U13",
+      "home_score": 1,
+      "away_score": 10,
+      "venue": "",
+      "division": "U13 Sun Spring Div 1 Gold",
+      "home_away": "home",
+      "opponent": "Nottingham FC Green U13",
+      "goals_for": 1,
+      "goals_against": 10
+    },
     {
       "id": "f85b292f8993c6f13567f9ccb0f04355",
       "date": "2026-03-22",

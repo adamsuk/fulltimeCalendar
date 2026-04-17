@@ -1,6 +1,6 @@
 {
   "club": "Notts Olympic",
-  "generated": "2026-04-16T07:18:38Z",
+  "generated": "2026-04-17T07:18:48Z",
   "fixtures": [
     {
       "id": "082583a9f18d4f91a7ce49b0197eb07c",
@@ -14,19 +14,6 @@
       "team": "Notts Olympic Reserves",
       "home_away": "home",
       "opponent": "Arnold Town Reserves"
-    },
-    {
-      "id": "511836173bbfdc9bb7e61c5080e27fd3",
-      "date": "2026-04-16",
-      "time": "18:00",
-      "home_team": "Notts Olympic FC U14",
-      "away_team": "Ilkeston Town Reds U14",
-      "venue": "Birchover Park Community Centre NG8 4BW",
-      "division": "U14 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Notts Olympic FC U14",
-      "home_away": "home",
-      "opponent": "Ilkeston Town Reds U14"
     },
     {
       "id": "a03bd63be602917751f8d0e42b229959",
@@ -224,17 +211,17 @@
       "opponent": "Bingham Town FC"
     },
     {
-      "id": "ae570909c8186a6fbb6929a4b2ab3c0c",
-      "date": "2026-05-02",
-      "time": "15:00",
-      "home_team": "Notts Olympic FC",
-      "away_team": "Keyworth United FC",
-      "venue": "RADFORD FOOTBALL CLUB",
+      "id": "c9d09575c2f7069286a704c010f9d19a",
+      "date": "2026-04-30",
+      "time": "19:45",
+      "home_team": "Collingham FC",
+      "away_team": "Notts Olympic FC",
+      "venue": "COLLINGHAM FOOTBALL CLUB",
       "division": "Euro Soccer Premier Division",
       "league": "Euro Soccer Nottinghamshire Senior League 25/26",
       "team": "Notts Olympic FC",
-      "home_away": "home",
-      "opponent": "Keyworth United FC"
+      "home_away": "away",
+      "opponent": "Collingham FC"
     },
     {
       "id": "b4aeff6b9b1383b2983cb1b25baf608b",
@@ -250,20 +237,37 @@
       "opponent": "Beeston Reserves"
     },
     {
-      "id": "980194f06cab6b4ecf0937ee66540da5",
+      "id": "44c2c3e09df6ff291815ddc0d2284bde",
       "date": "2026-05-05",
-      "time": "19:45",
-      "home_team": "Collingham FC",
-      "away_team": "Notts Olympic FC",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
+      "time": "19:30",
+      "home_team": "Notts Olympic FC",
+      "away_team": "Keyworth United FC",
+      "venue": "RADFORD FOOTBALL CLUB",
       "division": "Euro Soccer Premier Division",
       "league": "Euro Soccer Nottinghamshire Senior League 25/26",
       "team": "Notts Olympic FC",
-      "home_away": "away",
-      "opponent": "Collingham FC"
+      "home_away": "home",
+      "opponent": "Keyworth United FC"
     }
   ],
   "results": [
+    {
+      "id": "511836173bbfdc9bb7e61c5080e27fd3",
+      "date": "2026-04-16",
+      "time": "18:00",
+      "home_team": "Notts Olympic FC U14",
+      "away_team": "Ilkeston Town Reds U14",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sun Spring Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Notts Olympic FC U14",
+      "home_away": "home",
+      "opponent": "Ilkeston Town Reds U14",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "06295defff3e8b9d51daa48c197df237",
       "date": "2026-04-14",

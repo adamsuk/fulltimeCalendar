@@ -1,6 +1,6 @@
 {
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-16T07:18:38Z",
+  "generated": "2026-04-17T07:18:48Z",
   "fixtures": [
     {
       "id": "3c2f4d185182fa444977a45747ad1f51",
@@ -73,15 +73,6 @@
       "away_team": "AFC Warriors Development",
       "venue": "Unwin Road",
       "division": "Development Spring Division One"
-    },
-    {
-      "id": "b485730f309d362212546772880832c7",
-      "date": "2026-04-16",
-      "time": "19:45",
-      "home_team": "Collingham FC Development",
-      "away_team": "Quorn FC Methodists",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "NSL Development Cup"
     },
     {
       "id": "618f885bd9158fe830d56270ec92114d",
@@ -539,7 +530,7 @@
       "time": "10:30",
       "home_team": "Arnold Town FC Development",
       "away_team": "Collingham FC Development",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
+      "venue": "EAGLE VALLEY #1",
       "division": "Development Spring Division One"
     },
     {
@@ -567,6 +558,15 @@
       "home_team": "Calverton Miners Welfare U23",
       "away_team": "Quorn FC Methodists",
       "venue": "Hollinwood Lane 2",
+      "division": "Development Spring Division One"
+    },
+    {
+      "id": "d63d73c24b3f0311b9ee614e079241de",
+      "date": "2026-04-25",
+      "time": "11:40",
+      "home_team": "Collingham FC Development",
+      "away_team": "Arnold Town FC Development",
+      "venue": "EAGLE VALLEY #1",
       "division": "Development Spring Division One"
     },
     {
@@ -752,29 +752,11 @@
     {
       "id": "6efdf577b171fb3c9ae630de9456541e",
       "date": "2026-04-28",
-      "time": "18:30",
+      "time": "18:45",
       "home_team": "Awsworth Villa FC",
       "away_team": "Arnold Town FC",
       "venue": "SHILO PARK ZINDA GROUND",
       "division": "Euro Soccer Premier Division"
-    },
-    {
-      "id": "2016ee3f2a8ade65962b50b4f7324045",
-      "date": "2026-04-28",
-      "time": "18:30",
-      "home_team": "Ruddington Village FC",
-      "away_team": "FC Cavaliers",
-      "venue": "ELMS PARK",
-      "division": "Euro Soccer Premier Division"
-    },
-    {
-      "id": "cc7fd06a7dc5bbbbb6c2d721e79fee31",
-      "date": "2026-04-28",
-      "time": "18:30",
-      "home_team": "AJ Sport F.C. Reserves",
-      "away_team": "Phoenix Athletic FC",
-      "venue": "LEYTON CRESCENT RECREATION GROUND",
-      "division": "NSL Division Three"
     },
     {
       "id": "385a4f5e2e4a826ce232b5c87ac5dbda",
@@ -784,6 +766,24 @@
       "away_team": "Wollaton FC",
       "venue": "STAG RECREATION GROUND",
       "division": "Euro Soccer Premier Division"
+    },
+    {
+      "id": "2016ee3f2a8ade65962b50b4f7324045",
+      "date": "2026-04-28",
+      "time": "18:45",
+      "home_team": "Ruddington Village FC",
+      "away_team": "FC Cavaliers",
+      "venue": "ELMS PARK",
+      "division": "Euro Soccer Premier Division"
+    },
+    {
+      "id": "cc7fd06a7dc5bbbbb6c2d721e79fee31",
+      "date": "2026-04-28",
+      "time": "18:45",
+      "home_team": "AJ Sport F.C. Reserves",
+      "away_team": "Phoenix Athletic FC",
+      "venue": "LEYTON CRESCENT RECREATION GROUND",
+      "division": "NSL Division Three"
     },
     {
       "id": "dbdeb26074082fc150d2002aa84c72ea",
@@ -804,6 +804,15 @@
       "division": "Euro Soccer Premier Division"
     },
     {
+      "id": "4ccec59c8b2dd8d36198b0db23f01473",
+      "date": "2026-04-28",
+      "time": "19:30",
+      "home_team": "Harrowby United Reserves",
+      "away_team": "City United FC",
+      "venue": "FRUEHAUF STADIUM",
+      "division": "NSL Division Three"
+    },
+    {
       "id": "2025936f30759699be8c847340d1346c",
       "date": "2026-04-28",
       "time": "19:30",
@@ -811,15 +820,6 @@
       "away_team": "Collingham FC",
       "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
       "division": "Saturday Senior Trophy"
-    },
-    {
-      "id": "4ccec59c8b2dd8d36198b0db23f01473",
-      "date": "2026-04-28",
-      "time": "19:45",
-      "home_team": "Harrowby United Reserves",
-      "away_team": "City United FC",
-      "venue": "FRUEHAUF STADIUM",
-      "division": "NSL Division Three"
     },
     {
       "id": "5a4d6a6c708dfc951a36789c23ac9216",
@@ -874,6 +874,15 @@
       "away_team": "Walesby F.C. U23s",
       "venue": "LINBY COLLIERY WELFARE FC",
       "division": "Development Spring Division Two"
+    },
+    {
+      "id": "c9d09575c2f7069286a704c010f9d19a",
+      "date": "2026-04-30",
+      "time": "19:45",
+      "home_team": "Collingham FC",
+      "away_team": "Notts Olympic FC",
+      "venue": "COLLINGHAM FOOTBALL CLUB",
+      "division": "Euro Soccer Premier Division"
     },
     {
       "id": "50017d644f1c9e82ea63fa86a1d9232c",
@@ -984,6 +993,15 @@
       "division": "Euro Soccer Premier Division"
     },
     {
+      "id": "3b33fc547d01ebc77e161f1509820f2d",
+      "date": "2026-05-02",
+      "time": "15:00",
+      "home_team": "Dunkirk AFC",
+      "away_team": "Keyworth United FC",
+      "venue": "RON STEEL SPORTS GROUND #1",
+      "division": "Euro Soccer Premier Division"
+    },
+    {
       "id": "3719d062aa15ea46083e3268812bd4e3",
       "date": "2026-05-02",
       "time": "15:00",
@@ -999,15 +1017,6 @@
       "home_team": "Kimberley Miners Welfare Reserves",
       "away_team": "Collingham FC",
       "venue": "STAG RECREATION GROUND",
-      "division": "Euro Soccer Premier Division"
-    },
-    {
-      "id": "ae570909c8186a6fbb6929a4b2ab3c0c",
-      "date": "2026-05-02",
-      "time": "15:00",
-      "home_team": "Notts Olympic FC",
-      "away_team": "Keyworth United FC",
-      "venue": "RADFORD FOOTBALL CLUB",
       "division": "Euro Soccer Premier Division"
     },
     {
@@ -1128,21 +1137,12 @@
       "division": "NSL Division Three"
     },
     {
-      "id": "37a534d28e7771d8ad646022a2d8b5d2",
+      "id": "44c2c3e09df6ff291815ddc0d2284bde",
       "date": "2026-05-05",
       "time": "19:30",
-      "home_team": "Dunkirk AFC",
+      "home_team": "Notts Olympic FC",
       "away_team": "Keyworth United FC",
-      "venue": "RON STEEL SPORTS GROUND #1",
-      "division": "Euro Soccer Premier Division"
-    },
-    {
-      "id": "980194f06cab6b4ecf0937ee66540da5",
-      "date": "2026-05-05",
-      "time": "19:45",
-      "home_team": "Collingham FC",
-      "away_team": "Notts Olympic FC",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
+      "venue": "RADFORD FOOTBALL CLUB",
       "division": "Euro Soccer Premier Division"
     },
     {
@@ -1171,15 +1171,6 @@
       "away_team": "Pegasus FC",
       "venue": "STAPLEFORD COMMUNITY PAVILION",
       "division": "Development Spring Division Two"
-    },
-    {
-      "id": "852f70dc9dc1baef8065fd422daab0cd",
-      "date": "2026-05-07",
-      "time": "19:45",
-      "home_team": "Collingham FC Development",
-      "away_team": "Arnold Town FC Development",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "Development Spring Division One"
     },
     {
       "id": "8ede9cb2d4daf7664dfffb2fe50c98ee",
@@ -1225,6 +1216,15 @@
       "away_team": "Burton Joyce F.C. U23",
       "venue": "STAPLEFORD COMMUNITY PAVILION",
       "division": "Development Spring Division Two"
+    },
+    {
+      "id": "803ea0adc140d5720288ed1fc1b91cd5",
+      "date": "2026-05-09",
+      "time": "10:30",
+      "home_team": "AFC Warriors Development",
+      "away_team": "Quorn FC Methodists",
+      "venue": "HUCKNALL TOWN FOOTBALL CLUB",
+      "division": "NSL Development Cup"
     },
     {
       "id": "6af3f1c50f73b803e65d264718bfcc6e",

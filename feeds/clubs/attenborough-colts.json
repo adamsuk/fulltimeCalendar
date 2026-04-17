@@ -1,20 +1,7 @@
 {
   "club": "Attenborough Colts",
-  "generated": "2026-04-16T07:18:38Z",
+  "generated": "2026-04-17T07:18:48Z",
   "fixtures": [
-    {
-      "id": "df21b1f1d7433ad3ee14fe841ca65435",
-      "date": "2026-04-16",
-      "time": "18:00",
-      "home_team": "Attenborough Colts Yellow U9",
-      "away_team": "Breaston Park Green U9",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U9 Sun Spring Div 4 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Attenborough Colts Yellow U9",
-      "home_away": "home",
-      "opponent": "Breaston Park Green U9"
-    },
     {
       "id": "81b906c536385b1fde357d30e3c2bf30",
       "date": "2026-04-18",
@@ -380,17 +367,17 @@
       "opponent": "Wollaton H&B Gold U10"
     },
     {
-      "id": "cbb52764a8f409ca1fff2a6b4a145548",
+      "id": "d731d267f1f0fe23c7a67d7cfbccc035",
       "date": "2026-04-26",
       "time": "10:00",
-      "home_team": "West Hallam Pumas U8",
+      "home_team": "WBYFC Spirit Red U8",
       "away_team": "Attenborough Colts Green U8",
-      "venue": "Beech Lane DE7 6JY",
-      "division": "U8 Sun Spring 5 Blue",
+      "venue": "Alford Road, NG2 6HP",
+      "division": "U8 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Attenborough Colts Green U8",
       "home_away": "away",
-      "opponent": "West Hallam Pumas U8"
+      "opponent": "WBYFC Spirit Red U8"
     },
     {
       "id": "60e076772df5da41056f4bcb1ed2faca",
@@ -419,17 +406,17 @@
       "opponent": "Silva FC Southglade Purple U14"
     },
     {
-      "id": "dc7590ae1d9ef7a6318ee33e761ba3f7",
+      "id": "a4626ad5feca64904b34663e491d05fc",
       "date": "2026-04-26",
       "time": "10:00",
       "home_team": "Attenborough Colts Yellow U8",
-      "away_team": "East Leake Bantams Black U8",
+      "away_team": "Priory Celtic Hoops U8",
       "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U8 Sun Spring 3 Blue",
+      "division": "U8 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Attenborough Colts Yellow U8",
       "home_away": "home",
-      "opponent": "East Leake Bantams Black U8"
+      "opponent": "Priory Celtic Hoops U8"
     },
     {
       "id": "de8798bb37979c1da424dc9ac39f0c9c",
@@ -537,6 +524,23 @@
     }
   ],
   "results": [
+    {
+      "id": "df21b1f1d7433ad3ee14fe841ca65435",
+      "date": "2026-04-16",
+      "time": "18:00",
+      "home_team": "Attenborough Colts Yellow U9",
+      "away_team": "Breaston Park Green U9",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sun Spring Div 4 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Attenborough Colts Yellow U9",
+      "home_away": "home",
+      "opponent": "Breaston Park Green U9",
+      "goals_for": 0,
+      "goals_against": 0
+    },
     {
       "id": "b70db2d88d35ad16d439c63f6db35653",
       "date": "2026-04-14",

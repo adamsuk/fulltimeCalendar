@@ -1,6 +1,6 @@
 {
   "club": "Ilkeston Town",
-  "generated": "2026-04-16T07:18:38Z",
+  "generated": "2026-04-17T07:18:48Z",
   "fixtures": [
     {
       "id": "940c4d131eb576b39f70d6cc694b3823",
@@ -14,19 +14,6 @@
       "team": "Ilkeston Town Juniors U15 Robins",
       "home_away": "home",
       "opponent": "Gainsborough Trinity Community FC U15"
-    },
-    {
-      "id": "511836173bbfdc9bb7e61c5080e27fd3",
-      "date": "2026-04-16",
-      "time": "18:00",
-      "home_team": "Notts Olympic FC U14",
-      "away_team": "Ilkeston Town Reds U14",
-      "venue": "Birchover Park Community Centre NG8 4BW",
-      "division": "U14 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ilkeston Town Reds U14",
-      "home_away": "away",
-      "opponent": "Notts Olympic FC U14"
     },
     {
       "id": "b2c189f87e0338cc7cdbc25652cfbb8b",
@@ -406,17 +393,17 @@
       "opponent": "Stapleford Town Saxons U7"
     },
     {
-      "id": "e3fd5d6214a59089fd1ffa46e7b6bf1c",
+      "id": "b5452e6f881afe95a528293fcfd3ca71",
       "date": "2026-04-25",
       "time": "10:00",
       "home_team": "Ilkeston Town United U8",
-      "away_team": "Cotgrave FC U8 Girls ^",
-      "venue": "New Manor Ground DE7 8JF",
-      "division": "U8 Sat Spring 6 Blue",
+      "away_team": "A.C. United U8",
+      "venue": "Booths Playing Fields, Ilkeston DE7 8JF",
+      "division": "U8 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Ilkeston Town United U8",
       "home_away": "home",
-      "opponent": "Cotgrave FC U8 Girls ^"
+      "opponent": "A.C. United U8"
     },
     {
       "id": "8a3ea63e69eb24d2d716e382b676d4b2",
@@ -469,19 +456,6 @@
       "team": "Ilkeston Town Robins U14",
       "home_away": "home",
       "opponent": "Blidworth Bengals Black U14"
-    },
-    {
-      "id": "17fe4e62f195011d585c2da50f7e0c2f",
-      "date": "2026-04-26",
-      "time": "09:00",
-      "home_team": "Radcliffe Olympic Jaguars U8",
-      "away_team": "Ilkeston Town Zurich U8",
-      "venue": "South Nottinghamshire Academy NG12 2FQ",
-      "division": "U8 Sun Spring 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ilkeston Town Zurich U8",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic Jaguars U8"
     },
     {
       "id": "fd315034590c3ec718032dccc66533ea",
@@ -547,6 +521,19 @@
       "team": "Ilkeston Town Wolfpack U11",
       "home_away": "home",
       "opponent": "Berry Hill United U11"
+    },
+    {
+      "id": "510b5599fd0a441b8dfe547f576fa004",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers U8",
+      "away_team": "Ilkeston Town Zurich U8",
+      "venue": "Shirebrook Academy NG20 8QF",
+      "division": "U8 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ilkeston Town Zurich U8",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers U8"
     },
     {
       "id": "d4c1c1fbad8effd879b35aec6a78adb1",
@@ -654,6 +641,23 @@
     }
   ],
   "results": [
+    {
+      "id": "511836173bbfdc9bb7e61c5080e27fd3",
+      "date": "2026-04-16",
+      "time": "18:00",
+      "home_team": "Notts Olympic FC U14",
+      "away_team": "Ilkeston Town Reds U14",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sun Spring Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ilkeston Town Reds U14",
+      "home_away": "away",
+      "opponent": "Notts Olympic FC U14",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "0f8a9838aad21cfed38642ebe56e32d3",
       "date": "2026-04-12",

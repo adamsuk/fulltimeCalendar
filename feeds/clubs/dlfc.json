@@ -1,20 +1,7 @@
 {
   "club": "DLFC",
-  "generated": "2026-04-16T07:18:38Z",
+  "generated": "2026-04-17T07:18:48Z",
   "fixtures": [
-    {
-      "id": "6cb4bb410b708f42f485267dfad5700f",
-      "date": "2026-04-16",
-      "time": "17:30",
-      "home_team": "DLFC Green U9",
-      "away_team": "Hucknall Sports Black U9",
-      "venue": "Engine Rooms NG15 6EP",
-      "division": "U9 Sun Spring Div 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Green U9",
-      "home_away": "home",
-      "opponent": "Hucknall Sports Black U9"
-    },
     {
       "id": "5ad3163c6de84e435b2654c236aedd48",
       "date": "2026-04-18",
@@ -313,19 +300,6 @@
       "team": "DLFC Blue U12",
       "home_away": "away",
       "opponent": "Bottesford Blue U12"
-    },
-    {
-      "id": "ca67a57d565a84f8feb9a07c4000e496",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Keyworth United Green U14",
-      "away_team": "DLFC Blue U14",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U14 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Blue U14",
-      "home_away": "away",
-      "opponent": "Keyworth United Green U14"
     },
     {
       "id": "242ea5a6fd4658540d581789551e2a3e",
@@ -684,7 +658,7 @@
       "time": "11:00",
       "home_team": "WBYFC Flyers U12",
       "away_team": "DLFC Purple U12",
-      "venue": "Regatta Way NG2 5AT",
+      "venue": "Mellish Sports Centre NG6 9FH",
       "division": "U12 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "DLFC Purple U12",
@@ -926,17 +900,17 @@
       "opponent": "Eastwood Athletic All Stars U10"
     },
     {
-      "id": "989bcfee5b8db1dba02d63295a697831",
+      "id": "34458f14546673a77f9f8e68954b2e5b",
       "date": "2026-04-25",
       "time": "10:00",
-      "home_team": "Club FDNA Forest U7",
+      "home_team": "Hucknall Sports Red U7",
       "away_team": "DLFC Black U7",
-      "venue": "Bilborough College NG8 4DQ",
-      "division": "U7 Sat Spring 1",
+      "venue": "Engine Rooms NG15 6EP",
+      "division": "U7 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "DLFC Black U7",
       "home_away": "away",
-      "opponent": "Club FDNA Forest U7"
+      "opponent": "Hucknall Sports Red U7"
     },
     {
       "id": "42d3c54d7fe6b2ea1d744385f82fca9a",
@@ -950,19 +924,6 @@
       "team": "DLFC Blue U14",
       "home_away": "home",
       "opponent": "Walesby FC White U14"
-    },
-    {
-      "id": "a416517329d45e4fd2ad4e455bea185d",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Borrowash Youth Lynx U7",
-      "away_team": "DLFC Blue U7",
-      "venue": "Derwent Meadow DE72 3NN",
-      "division": "U7 Sat Spring 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Blue U7",
-      "home_away": "away",
-      "opponent": "Borrowash Youth Lynx U7"
     },
     {
       "id": "f75b44b32ec7cff2c7a58f7d20a2b0ba",
@@ -1043,6 +1004,19 @@
       "opponent": "Gedling Southbank Wolves U11"
     },
     {
+      "id": "8a2e96728afce1d3b95e44e830748435",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "DLFC Purple U7",
+      "away_team": "Sandiacre Town Blue U7",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Purple U7",
+      "home_away": "home",
+      "opponent": "Sandiacre Town Blue U7"
+    },
+    {
       "id": "9024c8c2aa3772d51df9c2a8cb81780b",
       "date": "2026-04-25",
       "time": "10:00",
@@ -1082,30 +1056,30 @@
       "opponent": "Inspire Nottingham U9"
     },
     {
-      "id": "7b3628ddd1c74bc178eaa7c85aae28b4",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Heanor Town Hot Dogs U8",
-      "away_team": "DLFC Ruby U8",
-      "venue": "Lockton Avenue Playing Fields DE75 7EY",
-      "division": "U8 Sat Spring 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Ruby U8",
-      "home_away": "away",
-      "opponent": "Heanor Town Hot Dogs U8"
-    },
-    {
-      "id": "f26d4c653f631eaee3f76f4e0d26de95",
+      "id": "ebcc4ef19fc01242e46060de64081cb5",
       "date": "2026-04-25",
       "time": "10:00",
       "home_team": "Meden Vale Colts Gold U8",
-      "away_team": "DLFC Yellow U8",
+      "away_team": "DLFC Ruby U8",
       "venue": "Elkesley Road NG20 9PS",
-      "division": "U8 Sat Spring 4 Red",
+      "division": "U8 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Ruby U8",
+      "home_away": "away",
+      "opponent": "Meden Vale Colts Gold U8"
+    },
+    {
+      "id": "bd0eb33631a834585ab1f27d30de96c5",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Heanor Town Hot Dogs U8",
+      "away_team": "DLFC Yellow U8",
+      "venue": "Lockton Avenue Playing Fields DE75 7EY",
+      "division": "U8 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "DLFC Yellow U8",
       "home_away": "away",
-      "opponent": "Meden Vale Colts Gold U8"
+      "opponent": "Heanor Town Hot Dogs U8"
     },
     {
       "id": "d8e5fdbf8be56a6ed5578f4c53d36d6e",
@@ -1171,19 +1145,6 @@
       "team": "DLFC Grey U11",
       "home_away": "home",
       "opponent": "Priory Celtic Phoenix U11"
-    },
-    {
-      "id": "b01891ceaa158a8dc1ce8655ea28e15f",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "DLFC Purple U7",
-      "away_team": "Breaston Park Green U7",
-      "venue": "Bestwood Road Sports Club NG6 8UA",
-      "division": "U7 Sat Spring 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Purple U7",
-      "home_away": "home",
-      "opponent": "Breaston Park Green U7"
     },
     {
       "id": "91927d49e660110d375e9f86cd64104a",
@@ -1316,17 +1277,17 @@
       "opponent": "Canoville Cobras U9"
     },
     {
-      "id": "f3c723c4db9310116d4579962ed04c52",
+      "id": "82338f8d4fb18cc9cd45e5c10f80e76c",
       "date": "2026-04-26",
       "time": "10:00",
-      "home_team": "WBYFC Spirit Red U8",
+      "home_team": "West Hallam Pumas U8",
       "away_team": "DLFC Blue U8",
-      "venue": "Alford Road, NG2 6HP",
-      "division": "U8 Sun Spring 5 Red",
+      "venue": "Beech Lane DE7 6JY",
+      "division": "U8 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "DLFC Blue U8",
       "home_away": "away",
-      "opponent": "WBYFC Spirit Red U8"
+      "opponent": "West Hallam Pumas U8"
     },
     {
       "id": "5e8281f8d85c6e202d189cba04f65e1c",
@@ -1381,17 +1342,30 @@
       "opponent": "Keyworth United Red U14"
     },
     {
-      "id": "c73990078c7a9de06e95112415387c75",
+      "id": "e0f023c917a4974f50ff6f4e86f5d8bd",
       "date": "2026-04-26",
       "time": "10:00",
-      "home_team": "East Leake Bantams Orange U7",
+      "home_team": "Market Warsop Mini Mavs U7",
       "away_team": "DLFC Orange U7",
-      "venue": "Costock Road LE12 6LY",
-      "division": "U7 Sun Spring Purple",
+      "venue": "John Fretwell Centre NG19 8LL",
+      "division": "U7 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "DLFC Orange U7",
       "home_away": "away",
-      "opponent": "East Leake Bantams Orange U7"
+      "opponent": "Market Warsop Mini Mavs U7"
+    },
+    {
+      "id": "371ffd29a060e3991b3815cfe05a5688",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Willow Wanderers Arrows U8",
+      "away_team": "DLFC Purple U8",
+      "venue": "Carlton le Willows School NG4 4AA",
+      "division": "U8 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "DLFC Purple U8",
+      "home_away": "away",
+      "opponent": "Willow Wanderers Arrows U8"
     },
     {
       "id": "8b08b8487e97aa65aaca587566564d0f",
@@ -1459,19 +1433,6 @@
       "opponent": "Hucknall Sports Red U13"
     },
     {
-      "id": "7d51544051d77882144d80d6fc75fd1c",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Silva FC Carlton U14",
-      "away_team": "DLFC Red U14",
-      "venue": "Carlton Football Centre (3G) NG4 3SH",
-      "division": "U14 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Red U14",
-      "home_away": "away",
-      "opponent": "Silva FC Carlton U14"
-    },
-    {
       "id": "8172ce49d7bed51b99104bbe732b4d1f",
       "date": "2026-04-26",
       "time": "11:00",
@@ -1524,17 +1485,17 @@
       "opponent": "Hemington Hammers Hawks U12"
     },
     {
-      "id": "32e32b792f3af60bc1d440e95846b52d",
+      "id": "7d51544051d77882144d80d6fc75fd1c",
       "date": "2026-04-26",
-      "time": "12:00",
-      "home_team": "DLFC Purple U8",
-      "away_team": "G3A FC Miami U8",
-      "venue": "Bestwood Road Sports Club NG6 8AU",
-      "division": "U8 Sun Spring 4 Red",
+      "time": "12:15",
+      "home_team": "Silva FC Carlton U14",
+      "away_team": "DLFC Red U14",
+      "venue": "Carlton Football Centre (3G) NG4 3SH",
+      "division": "U14 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Purple U8",
-      "home_away": "home",
-      "opponent": "G3A FC Miami U8"
+      "team": "DLFC Red U14",
+      "home_away": "away",
+      "opponent": "Silva FC Carlton U14"
     },
     {
       "id": "9c8da2dc4f134d1765c2746da41e2d14",
@@ -1616,6 +1577,23 @@
     }
   ],
   "results": [
+    {
+      "id": "6cb4bb410b708f42f485267dfad5700f",
+      "date": "2026-04-16",
+      "time": "17:30",
+      "home_team": "DLFC Green U9",
+      "away_team": "Hucknall Sports Black U9",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sun Spring Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "DLFC Green U9",
+      "home_away": "home",
+      "opponent": "Hucknall Sports Black U9",
+      "goals_for": 5,
+      "goals_against": 3
+    },
     {
       "id": "50c9da7c1735f60b77a4197863da6fde",
       "date": "2026-04-14",

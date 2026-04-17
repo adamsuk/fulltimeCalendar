@@ -8,7 +8,7 @@ X-WR-CALDESC:Fixtures for East Leake Bantams Orange U14 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:dea9889be2eca2b04d678a66fb03d755@yel-calendar
-DTSTAMP:20260416T071859Z
+DTSTAMP:20260417T071905Z
 DTSTART;TZID=Europe/London:20260419T100000
 DTEND;TZID=Europe/London:20260419T110000
 SUMMARY:⚽ East Leake Bantams Orange U14 vs Heanor Town Sambas U14 (Away)
@@ -16,8 +16,17 @@ DESCRIPTION:Division: U14 Sun Spring Div 2 Blue\nHeanor Town Sambas U14 v East L
 LOCATION:Riddings Park DE55 4EW
 END:VEVENT
 BEGIN:VEVENT
+UID:0fd52a2c547a1ab686d41c5cca99d420@yel-calendar
+DTSTAMP:20260417T071905Z
+DTSTART;TZID=Europe/London:20260423T180000
+DTEND;TZID=Europe/London:20260423T190000
+SUMMARY:⚽ East Leake Bantams Orange U14 vs Phoenix Inham Blaze U14 (Home)
+DESCRIPTION:Division: U14 Sun YEL Trophy\nEast Leake Bantams Orange U14 v Phoenix Inham Blaze U14\nKO: 18:00
+LOCATION:Costock Road LE12 6LY
+END:VEVENT
+BEGIN:VEVENT
 UID:d953c326265ec54b7438bc53890ad8cd@yel-calendar
-DTSTAMP:20260416T071859Z
+DTSTAMP:20260417T071905Z
 DTSTART;TZID=Europe/London:20260426T111500
 DTEND;TZID=Europe/London:20260426T120000
 SUMMARY:⚽ East Leake Bantams Orange U14 vs Priory Celtic 1967 U14 (Home)

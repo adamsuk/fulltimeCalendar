@@ -1,19 +1,8 @@
 {
   "team": "Notts Olympic FC U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-16T07:18:38Z",
+  "generated": "2026-04-17T07:18:48Z",
   "fixtures": [
-    {
-      "id": "511836173bbfdc9bb7e61c5080e27fd3",
-      "date": "2026-04-16",
-      "time": "18:00",
-      "home_team": "Notts Olympic FC U14",
-      "away_team": "Ilkeston Town Reds U14",
-      "venue": "Birchover Park Community Centre NG8 4BW",
-      "division": "U14 Sun Spring Div 1 Silver",
-      "home_away": "home",
-      "opponent": "Ilkeston Town Reds U14"
-    },
     {
       "id": "61373e86822848124e612ab078ddff46",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "511836173bbfdc9bb7e61c5080e27fd3",
+      "date": "2026-04-16",
+      "time": "18:00",
+      "home_team": "Notts Olympic FC U14",
+      "away_team": "Ilkeston Town Reds U14",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sun Spring Div 1 Silver",
+      "home_away": "home",
+      "opponent": "Ilkeston Town Reds U14",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "707f4808c4b5beea8f01a85363461e3c",
       "date": "2026-03-08",

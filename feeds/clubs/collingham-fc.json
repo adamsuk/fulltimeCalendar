@@ -1,20 +1,7 @@
 {
   "club": "Collingham FC",
-  "generated": "2026-04-16T07:18:38Z",
+  "generated": "2026-04-17T07:18:48Z",
   "fixtures": [
-    {
-      "id": "b485730f309d362212546772880832c7",
-      "date": "2026-04-16",
-      "time": "19:45",
-      "home_team": "Collingham FC Development",
-      "away_team": "Quorn FC Methodists",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "NSL Development Cup",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Collingham FC Development",
-      "home_away": "home",
-      "opponent": "Quorn FC Methodists"
-    },
     {
       "id": "ee9f817cce8b58dd94130e5f08eb3571",
       "date": "2026-04-18",
@@ -432,17 +419,17 @@
       "opponent": "Muskham Cougars Rockets U7"
     },
     {
-      "id": "22be9215c649e19f8167e1f1f316932a",
+      "id": "c75524153cd7d84c154e63b0f2e52b64",
       "date": "2026-04-25",
       "time": "10:00",
-      "home_team": "ATFA Brinsley Eagles U8",
+      "home_team": "Silva FC Carlton Miami U8",
       "away_team": "Collingham FC Lions U8",
-      "venue": "Brinsley Parish Council NG163HB",
-      "division": "U8 Sat Spring 2 Red",
+      "venue": "Carlton Football Centre (3G) NG4 3SH",
+      "division": "U8 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Collingham FC Lions U8",
       "home_away": "away",
-      "opponent": "ATFA Brinsley Eagles U8"
+      "opponent": "Silva FC Carlton Miami U8"
     },
     {
       "id": "93d994530af9b9c4ac2ba1146a121bf4",
@@ -476,7 +463,7 @@
       "time": "10:30",
       "home_team": "Arnold Town FC Development",
       "away_team": "Collingham FC Development",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
+      "venue": "EAGLE VALLEY #1",
       "division": "Development Spring Division One",
       "league": "Euro Soccer Nottinghamshire Senior League 25/26",
       "team": "Collingham FC Development",
@@ -508,6 +495,19 @@
       "team": "Collingham FC Lions U10",
       "home_away": "home",
       "opponent": "Bottesford Yellow U10"
+    },
+    {
+      "id": "d63d73c24b3f0311b9ee614e079241de",
+      "date": "2026-04-25",
+      "time": "11:40",
+      "home_team": "Collingham FC Development",
+      "away_team": "Arnold Town FC Development",
+      "venue": "EAGLE VALLEY #1",
+      "division": "Development Spring Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Collingham FC Development",
+      "home_away": "home",
+      "opponent": "Arnold Town FC Development"
     },
     {
       "id": "4eb8a71358730da8d586c15b0a05e5bb",
@@ -588,6 +588,19 @@
       "opponent": "Selston F.C. First"
     },
     {
+      "id": "c9d09575c2f7069286a704c010f9d19a",
+      "date": "2026-04-30",
+      "time": "19:45",
+      "home_team": "Collingham FC",
+      "away_team": "Notts Olympic FC",
+      "venue": "COLLINGHAM FOOTBALL CLUB",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Collingham FC",
+      "home_away": "home",
+      "opponent": "Notts Olympic FC"
+    },
+    {
       "id": "88005a260ef3d6ee5e7588f924ee26d7",
       "date": "2026-05-02",
       "time": "10:30",
@@ -627,19 +640,6 @@
       "opponent": "Kimberley Miners Welfare Reserves"
     },
     {
-      "id": "980194f06cab6b4ecf0937ee66540da5",
-      "date": "2026-05-05",
-      "time": "19:45",
-      "home_team": "Collingham FC",
-      "away_team": "Notts Olympic FC",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Collingham FC",
-      "home_away": "home",
-      "opponent": "Notts Olympic FC"
-    },
-    {
       "id": "70a0708cd2a0b65346cd28f697ea9c76",
       "date": "2026-05-05",
       "time": "19:45",
@@ -651,19 +651,6 @@
       "team": "Collingham FC Development",
       "home_away": "home",
       "opponent": "West Bridgford Development"
-    },
-    {
-      "id": "852f70dc9dc1baef8065fd422daab0cd",
-      "date": "2026-05-07",
-      "time": "19:45",
-      "home_team": "Collingham FC Development",
-      "away_team": "Arnold Town FC Development",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Collingham FC Development",
-      "home_away": "home",
-      "opponent": "Arnold Town FC Development"
     },
     {
       "id": "efb889fe04225625ce42fbdc8da079db",
@@ -719,6 +706,23 @@
     }
   ],
   "results": [
+    {
+      "id": "b485730f309d362212546772880832c7",
+      "date": "2026-04-16",
+      "time": "19:45",
+      "home_team": "Collingham FC Development",
+      "away_team": "Quorn FC Methodists",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "NSL Development Cup",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Collingham FC Development",
+      "home_away": "home",
+      "opponent": "Quorn FC Methodists",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "6fb74d9ca9112c1d4e58affcc262961a",
       "date": "2026-04-14",

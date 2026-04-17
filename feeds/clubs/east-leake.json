@@ -1,6 +1,6 @@
 {
   "club": "East Leake",
-  "generated": "2026-04-16T07:18:38Z",
+  "generated": "2026-04-17T07:18:48Z",
   "fixtures": [
     {
       "id": "29aff3c032b72a5f35c9472f58ae512d",
@@ -40,19 +40,6 @@
       "team": "East Leake Bantams Orange U13",
       "home_away": "away",
       "opponent": "Mickleover Jnrs Porto U13"
-    },
-    {
-      "id": "3eb774e98becd0666a79f5fde935e02b",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "East Leake Bantams Red U14",
-      "away_team": "Bingham Town Red U14",
-      "venue": "Costock Road LE12 6LY",
-      "division": "U14 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "East Leake Bantams Red U14",
-      "home_away": "home",
-      "opponent": "Bingham Town Red U14"
     },
     {
       "id": "0fd05bcaa79520fcb28b2c1843c07563",
@@ -304,7 +291,7 @@
     {
       "id": "8d292fe588b9e12d955b971eec01b483",
       "date": "2026-04-21",
-      "time": "18:00",
+      "time": "18:30",
       "home_team": "Moorgreen Colts White U13",
       "away_team": "East Leake Bantams Orange U13",
       "venue": "Birnam Park  NG16 2DE",
@@ -326,6 +313,19 @@
       "team": "East Leake Robins Reserves",
       "home_away": "home",
       "opponent": "City United FC"
+    },
+    {
+      "id": "0fd52a2c547a1ab686d41c5cca99d420",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "East Leake Bantams Orange U14",
+      "away_team": "Phoenix Inham Blaze U14",
+      "venue": "Costock Road LE12 6LY",
+      "division": "U14 Sun YEL Trophy",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "East Leake Bantams Orange U14",
+      "home_away": "home",
+      "opponent": "Phoenix Inham Blaze U14"
     },
     {
       "id": "f81548ae22d841dc56735c48224596b2",
@@ -393,6 +393,19 @@
       "opponent": "DLFC Tangerine U7"
     },
     {
+      "id": "e238c061c4997397b341731f6dc5daed",
+      "date": "2026-04-26",
+      "time": "09:00",
+      "home_team": "Radcliffe Olympic Jaguars U8",
+      "away_team": "East Leake Bantams Black U8",
+      "venue": "Radcliffe on Trent Cricket Club NG12 2DU",
+      "division": "U8 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "East Leake Bantams Black U8",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic Jaguars U8"
+    },
+    {
       "id": "60e076772df5da41056f4bcb1ed2faca",
       "date": "2026-04-26",
       "time": "10:00",
@@ -404,19 +417,6 @@
       "team": "East Leake Bantams Black U10",
       "home_away": "home",
       "opponent": "Attenborough Colts Yellow U10"
-    },
-    {
-      "id": "dc7590ae1d9ef7a6318ee33e761ba3f7",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Attenborough Colts Yellow U8",
-      "away_team": "East Leake Bantams Black U8",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U8 Sun Spring 3 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "East Leake Bantams Black U8",
-      "home_away": "away",
-      "opponent": "Attenborough Colts Yellow U8"
     },
     {
       "id": "b9973fab046bf9a07be05270f0e33337",
@@ -445,17 +445,17 @@
       "opponent": "Spirit Celtic White U11"
     },
     {
-      "id": "c73990078c7a9de06e95112415387c75",
+      "id": "71a58b2ce799ac811b371440f8ff6ed3",
       "date": "2026-04-26",
       "time": "10:00",
-      "home_team": "East Leake Bantams Orange U7",
-      "away_team": "DLFC Orange U7",
-      "venue": "Costock Road LE12 6LY",
-      "division": "U7 Sun Spring Purple",
+      "home_team": "Castle Donington Jets U7",
+      "away_team": "East Leake Bantams Orange U7",
+      "venue": "Spital Park DE74 2NQ",
+      "division": "U7 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "East Leake Bantams Orange U7",
-      "home_away": "home",
-      "opponent": "DLFC Orange U7"
+      "home_away": "away",
+      "opponent": "Castle Donington Jets U7"
     },
     {
       "id": "d5110226fccc34b3baf37e07e4bd7306",

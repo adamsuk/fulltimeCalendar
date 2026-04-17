@@ -1,19 +1,8 @@
 {
   "team": "Silva FC Rushcliffe Gold U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-16T07:18:38Z",
+  "generated": "2026-04-17T07:18:48Z",
   "fixtures": [
-    {
-      "id": "ffc72e0c732e876c1daca5379a9e6c7b",
-      "date": "2026-04-16",
-      "time": "18:00",
-      "home_team": "Silva FC Rushcliffe Gold U9",
-      "away_team": "WBYFC Lyon U9",
-      "venue": "Gresham Sports Pitch NG2 7YF",
-      "division": "U9 Sun Spring Div 5 Blue",
-      "home_away": "home",
-      "opponent": "WBYFC Lyon U9"
-    },
     {
       "id": "0f12ea1b9a2ce95ce15a885ac3df77c3",
       "date": "2026-04-19",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ffc72e0c732e876c1daca5379a9e6c7b",
+      "date": "2026-04-16",
+      "time": "18:00",
+      "home_team": "Silva FC Rushcliffe Gold U9",
+      "away_team": "WBYFC Lyon U9",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sun Spring Div 5 Blue",
+      "home_away": "home",
+      "opponent": "WBYFC Lyon U9",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "b6a95ce57251e013d26a29dd948b3e50",
       "date": "2026-03-22",

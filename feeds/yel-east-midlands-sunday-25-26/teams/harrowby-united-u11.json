@@ -1,19 +1,8 @@
 {
   "team": "Harrowby United U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-16T07:18:38Z",
+  "generated": "2026-04-17T07:18:48Z",
   "fixtures": [
-    {
-      "id": "f2724d2096042255080095b676ae5462",
-      "date": "2026-04-16",
-      "time": "18:00",
-      "home_team": "Ravenshead Reds U11",
-      "away_team": "Harrowby United U11",
-      "venue": "Ravenshead leisure Centre NG15 9AG",
-      "division": "U11 Sun Spring Div 1",
-      "home_away": "away",
-      "opponent": "Ravenshead Reds U11"
-    },
     {
       "id": "67b4d19c174ee1cb2ab2e691e1a9209a",
       "date": "2026-04-19",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f2724d2096042255080095b676ae5462",
+      "date": "2026-04-16",
+      "time": "18:00",
+      "home_team": "Ravenshead Reds U11",
+      "away_team": "Harrowby United U11",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sun Spring Div 1",
+      "home_away": "away",
+      "opponent": "Ravenshead Reds U11",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "c8baa7d21260199d35ba8c62c399040f",
       "date": "2026-03-22",

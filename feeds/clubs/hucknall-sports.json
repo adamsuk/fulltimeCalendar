@@ -1,33 +1,7 @@
 {
   "club": "Hucknall Sports",
-  "generated": "2026-04-16T07:18:38Z",
+  "generated": "2026-04-17T07:18:48Z",
   "fixtures": [
-    {
-      "id": "6cb4bb410b708f42f485267dfad5700f",
-      "date": "2026-04-16",
-      "time": "17:30",
-      "home_team": "DLFC Green U9",
-      "away_team": "Hucknall Sports Black U9",
-      "venue": "Engine Rooms NG15 6EP",
-      "division": "U9 Sun Spring Div 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Hucknall Sports Black U9",
-      "home_away": "away",
-      "opponent": "DLFC Green U9"
-    },
-    {
-      "id": "4a126c7e1a6e82341a168a90bc7ce038",
-      "date": "2026-04-16",
-      "time": "18:00",
-      "home_team": "Kirkby Colts U13",
-      "away_team": "Hucknall Sports Black U13",
-      "venue": "Mansfield Road NG17 3EE",
-      "division": "U13 Sun Spring Div 4 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Hucknall Sports Black U13",
-      "home_away": "away",
-      "opponent": "Kirkby Colts U13"
-    },
     {
       "id": "d8aff9614e2019b1e95d312b9ec0716a",
       "date": "2026-04-18",
@@ -53,19 +27,6 @@
       "team": "Hucknall Sports Black U12",
       "home_away": "away",
       "opponent": "Etwall FC U12"
-    },
-    {
-      "id": "6242932ed5537fe12b72876c0990c44a",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Hucknall Sports Red U10",
-      "away_team": "Mapperley All Stars Blue U10",
-      "venue": "Engine Rooms NG15 6EP",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Hucknall Sports Red U10",
-      "home_away": "home",
-      "opponent": "Mapperley All Stars Blue U10"
     },
     {
       "id": "86ed03db56c4ec5edb3023c6912a4b48",
@@ -307,7 +268,7 @@
       "time": "18:00",
       "home_team": "Hucknall Sports Red U14",
       "away_team": "Radcliffe Olympic Rockets U14",
-      "venue": "Engine Rooms NG15 6EP",
+      "venue": "Goosedale Sports Club NG6 8UJ",
       "division": "u14 Sat Spring Div 3 Red",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Hucknall Sports Red U14",
@@ -380,17 +341,17 @@
       "opponent": "Mapperley All Stars United U14"
     },
     {
-      "id": "f33d4b166498f209650bf4ad66839abc",
+      "id": "34458f14546673a77f9f8e68954b2e5b",
       "date": "2026-04-25",
       "time": "10:00",
       "home_team": "Hucknall Sports Red U7",
-      "away_team": "Club FDNA United U7",
+      "away_team": "DLFC Black U7",
       "venue": "Engine Rooms NG15 6EP",
-      "division": "U7 Sat Spring 2 Red",
+      "division": "U7 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Hucknall Sports Red U7",
       "home_away": "home",
-      "opponent": "Club FDNA United U7"
+      "opponent": "DLFC Black U7"
     },
     {
       "id": "af649eec7a444cd634a8191c898e5ad0",
@@ -437,7 +398,7 @@
       "time": "10:00",
       "home_team": "Hucknall Sports White U12",
       "away_team": "Heanor Town Panthers U12",
-      "venue": "Engine Rooms NG15 6EP",
+      "venue": "Goosedale Sports Club NG6 8UJ",
       "division": "U12 Sat Spring Div 5 Red",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Hucknall Sports White U12",
@@ -547,6 +508,19 @@
       "team": "Hucknall Sports Blue U10",
       "home_away": "home",
       "opponent": "WBYFC Sporting U10"
+    },
+    {
+      "id": "746b5d16484f7ea218ba13914f4a4084",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Beaufort United Reds U8",
+      "away_team": "Hucknall Sports Red U8",
+      "venue": "Polly Bowls NG17 4HN",
+      "division": "U8 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Hucknall Sports Red U8",
+      "home_away": "away",
+      "opponent": "Beaufort United Reds U8"
     },
     {
       "id": "74d448280ae057e07682600bfb6da008",
@@ -680,6 +654,40 @@
     }
   ],
   "results": [
+    {
+      "id": "4a126c7e1a6e82341a168a90bc7ce038",
+      "date": "2026-04-16",
+      "time": "18:00",
+      "home_team": "Kirkby Colts U13",
+      "away_team": "Hucknall Sports Black U13",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sun Spring Div 4 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Hucknall Sports Black U13",
+      "home_away": "away",
+      "opponent": "Kirkby Colts U13",
+      "goals_for": 0,
+      "goals_against": 6
+    },
+    {
+      "id": "6cb4bb410b708f42f485267dfad5700f",
+      "date": "2026-04-16",
+      "time": "17:30",
+      "home_team": "DLFC Green U9",
+      "away_team": "Hucknall Sports Black U9",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sun Spring Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Hucknall Sports Black U9",
+      "home_away": "away",
+      "opponent": "DLFC Green U9",
+      "goals_for": 3,
+      "goals_against": 5
+    },
     {
       "id": "ca7459f02d1eeb95cc2a4c0beb0b02e8",
       "date": "2026-04-15",

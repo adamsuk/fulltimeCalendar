@@ -1,6 +1,6 @@
 {
   "club": "Priory Celtic",
-  "generated": "2026-04-16T07:18:38Z",
+  "generated": "2026-04-17T07:18:48Z",
   "fixtures": [
     {
       "id": "00b892d801d2dfcf9111f97f9e254d0c",
@@ -183,19 +183,6 @@
       "team": "Priory Celtic Phoenix U11",
       "home_away": "home",
       "opponent": "WBYFC Mustangs U11"
-    },
-    {
-      "id": "67e8b8ef9a3626db642c6e4683bc3f3b",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Priory Celtic White U14",
-      "away_team": "Newark Town Titans U14",
-      "venue": "Kimberley Leisure Centre NG16 2NJ GP1",
-      "division": "U14 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Priory Celtic White U14",
-      "home_away": "home",
-      "opponent": "Newark Town Titans U14"
     },
     {
       "id": "0aacdaf0ef5bc8c1c9766288d9487a0c",
@@ -484,19 +471,6 @@
       "opponent": "Heanor Town Flames U13"
     },
     {
-      "id": "be7576020f439fa4445d3a0d8f5043f8",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Keyworth United White U7",
-      "away_team": "Priory Celtic Green U7",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U7 Sat Spring 6",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Priory Celtic Green U7",
-      "home_away": "away",
-      "opponent": "Keyworth United White U7"
-    },
-    {
       "id": "669e185d716bd315978c8ca609c43db0",
       "date": "2026-04-25",
       "time": "10:00",
@@ -588,17 +562,30 @@
       "opponent": "Wollaton H & B Green U14"
     },
     {
-      "id": "a1d680f7486852e37935432b5f4c9c6c",
+      "id": "96ff9f4a730d5c575b8af512d400a321",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Priory Celtic White U7",
+      "away_team": "Wollaton H/B Cobras U7",
+      "venue": "Kimberley Leisure Centre NG16 2NJ GP1",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Priory Celtic White U7",
+      "home_away": "home",
+      "opponent": "Wollaton H/B Cobras U7"
+    },
+    {
+      "id": "f21149e4379c094be3169ff47c5cf81d",
       "date": "2026-04-25",
       "time": "10:00",
       "home_team": "Priory Celtic White U8",
-      "away_team": "Long Eaton United Athletico U8",
+      "away_team": "Long Eaton United Rayo U8",
       "venue": "Kimberley Leisure Centre NG16 2NJ 3G 5v5 Pitch (A)",
-      "division": "U8 Sat Spring 2 Blue",
+      "division": "U8 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Priory Celtic White U8",
       "home_away": "home",
-      "opponent": "Long Eaton United Athletico U8"
+      "opponent": "Long Eaton United Rayo U8"
     },
     {
       "id": "cf0b851a8d6a902440d0f8ed51f38ff6",
@@ -614,6 +601,19 @@
       "opponent": "Holbrook Sports U10"
     },
     {
+      "id": "10ee7c07a01a50df1627efd1d5c75e70",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Toton Tornados Storm U7",
+      "away_team": "Priory Celtic Green U7",
+      "venue": "Manor Farm Recreation Ground NG9 6EL",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Priory Celtic Green U7",
+      "home_away": "away",
+      "opponent": "Toton Tornados Storm U7"
+    },
+    {
       "id": "dd2cd401a41475c7fd1cc08f13531288",
       "date": "2026-04-25",
       "time": "11:00",
@@ -625,19 +625,6 @@
       "team": "Priory Celtic Phoenix U11",
       "home_away": "away",
       "opponent": "DLFC Grey U11"
-    },
-    {
-      "id": "a0acd224e3a5f88b49d65236b29ec02a",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Priory Celtic White U7",
-      "away_team": "Long Bennington FC U7",
-      "venue": "Kimberley Leisure Centre NG16 2NJ GP1",
-      "division": "U7 Sat Spring 6",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Priory Celtic White U7",
-      "home_away": "home",
-      "opponent": "Long Bennington FC U7"
     },
     {
       "id": "24fb65027bc5c7506709bd08471ba232",
@@ -718,6 +705,19 @@
       "opponent": "WBYFC Atlantis U13"
     },
     {
+      "id": "a4626ad5feca64904b34663e491d05fc",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Attenborough Colts Yellow U8",
+      "away_team": "Priory Celtic Hoops U8",
+      "venue": "Chilwell Olympia NG9 5HR",
+      "division": "U8 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Priory Celtic Hoops U8",
+      "home_away": "away",
+      "opponent": "Attenborough Colts Yellow U8"
+    },
+    {
       "id": "147df30721d0926ad2264da22f04d2b7",
       "date": "2026-04-26",
       "time": "10:00",
@@ -772,7 +772,7 @@
     {
       "id": "b01986f0e6ff6958b714feafe60c1e58",
       "date": "2026-04-26",
-      "time": "11:00",
+      "time": "10:45",
       "home_team": "Silva FC Carlton Blue U13",
       "away_team": "Priory Celtic 1967 U13",
       "venue": "Carlton Football Centre (3G) NG4 3SH",
@@ -781,19 +781,6 @@
       "team": "Priory Celtic 1967 U13",
       "home_away": "away",
       "opponent": "Silva FC Carlton Blue U13"
-    },
-    {
-      "id": "575855de82ef3b1e578b578afe001289",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Silva FC Rushcliffe Spirit U11",
-      "away_team": "Priory Celtic Green U11",
-      "venue": "Rushcliffe School NG2 7BZ",
-      "division": "U11 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Priory Celtic Green U11",
-      "home_away": "away",
-      "opponent": "Silva FC Rushcliffe Spirit U11"
     },
     {
       "id": "d953c326265ec54b7438bc53890ad8cd",
@@ -833,6 +820,19 @@
       "team": "Priory Celtic FC Ladies First Team",
       "home_away": "home",
       "opponent": "Sherwood FC Development Women"
+    },
+    {
+      "id": "575855de82ef3b1e578b578afe001289",
+      "date": "2026-04-26",
+      "time": "12:00",
+      "home_team": "Silva FC Rushcliffe Spirit U11",
+      "away_team": "Priory Celtic Green U11",
+      "venue": "Rushcliffe School NG2 7BZ",
+      "division": "U11 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Priory Celtic Green U11",
+      "home_away": "away",
+      "opponent": "Silva FC Rushcliffe Spirit U11"
     },
     {
       "id": "97678de5caf9af01e56dd74b74cf3bed",

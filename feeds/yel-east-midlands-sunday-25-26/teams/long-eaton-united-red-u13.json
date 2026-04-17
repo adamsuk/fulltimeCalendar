@@ -1,19 +1,8 @@
 {
   "team": "Long Eaton United Red U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-16T07:18:38Z",
+  "generated": "2026-04-17T07:18:48Z",
   "fixtures": [
-    {
-      "id": "64dec021ea3f68366160619dfb487319",
-      "date": "2026-04-16",
-      "time": "18:30",
-      "home_team": "Long Eaton United Red U13",
-      "away_team": "Alfreton Town All Stars U13",
-      "venue": "Grange Park NG10 2EG",
-      "division": "U13 Sun Spring Div 3",
-      "home_away": "home",
-      "opponent": "Alfreton Town All Stars U13"
-    },
     {
       "id": "19798f225190b9447534f005b1e3e820",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "64dec021ea3f68366160619dfb487319",
+      "date": "2026-04-16",
+      "time": "18:30",
+      "home_team": "Long Eaton United Red U13",
+      "away_team": "Alfreton Town All Stars U13",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sun Spring Div 3",
+      "home_away": "home",
+      "opponent": "Alfreton Town All Stars U13",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "fcf525c25814d7a292c41ef9380a98ae",
       "date": "2026-03-22",

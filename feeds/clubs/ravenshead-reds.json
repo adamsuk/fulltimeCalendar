@@ -1,6 +1,6 @@
 {
   "club": "Ravenshead Reds",
-  "generated": "2026-04-16T07:18:38Z",
+  "generated": "2026-04-17T07:18:48Z",
   "fixtures": [
     {
       "id": "22a153c2abbf9955f3c064cc27494143",
@@ -14,32 +14,6 @@
       "team": "Ravenshead Reds FC",
       "home_away": "home",
       "opponent": "Stapleford Town FC Ladies"
-    },
-    {
-      "id": "f2724d2096042255080095b676ae5462",
-      "date": "2026-04-16",
-      "time": "18:00",
-      "home_team": "Ravenshead Reds U11",
-      "away_team": "Harrowby United U11",
-      "venue": "Ravenshead leisure Centre NG15 9AG",
-      "division": "U11 Sun Spring Div 1",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ravenshead Reds U11",
-      "home_away": "home",
-      "opponent": "Harrowby United U11"
-    },
-    {
-      "id": "c4649fc258af6241be13434fb6514d03",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Ravenshead Reds U10",
-      "away_team": "Silva FC Rushcliffe Sapphire U10",
-      "venue": "Ravenshead Leisure Centre NG15 9AG",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ravenshead Reds U10",
-      "home_away": "home",
-      "opponent": "Silva FC Rushcliffe Sapphire U10"
     },
     {
       "id": "2a8b7eee4357c79cfb96712fc4b59584",
@@ -576,6 +550,23 @@
     }
   ],
   "results": [
+    {
+      "id": "f2724d2096042255080095b676ae5462",
+      "date": "2026-04-16",
+      "time": "18:00",
+      "home_team": "Ravenshead Reds U11",
+      "away_team": "Harrowby United U11",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sun Spring Div 1",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ravenshead Reds U11",
+      "home_away": "home",
+      "opponent": "Harrowby United U11",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "ec6ee5ba4fef06a72e9f6cdefc1dba9e",
       "date": "2026-04-14",
