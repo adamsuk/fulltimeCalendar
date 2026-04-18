@@ -1,19 +1,8 @@
 {
   "team": "East Leake Bantams Red U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-17T07:18:48Z",
+  "generated": "2026-04-18T06:58:01Z",
   "fixtures": [
-    {
-      "id": "16a4a5a286d127cd4bb537f9ea3ee960",
-      "date": "2026-04-17",
-      "time": "20:00",
-      "home_team": "Keyworth United Yellow U13",
-      "away_team": "East Leake Bantams Red U13",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U13 Sun YEL Shield",
-      "home_away": "away",
-      "opponent": "Keyworth United Yellow U13"
-    },
     {
       "id": "01a818d7bff633658adc3b4781fa2f29",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "16a4a5a286d127cd4bb537f9ea3ee960",
+      "date": "2026-04-17",
+      "time": "20:00",
+      "home_team": "Keyworth United Yellow U13",
+      "away_team": "East Leake Bantams Red U13",
+      "home_score": 7,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sun YEL Shield",
+      "home_away": "away",
+      "opponent": "Keyworth United Yellow U13",
+      "goals_for": 0,
+      "goals_against": 7
+    },
     {
       "id": "e1e7ea40fbcd5ec5d63242d798c4ed22",
       "date": "2026-03-22",

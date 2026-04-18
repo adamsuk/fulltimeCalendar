@@ -1,6 +1,6 @@
 {
   "club": "Bingham Town",
-  "generated": "2026-04-17T07:18:48Z",
+  "generated": "2026-04-18T06:58:01Z",
   "fixtures": [
     {
       "id": "00b892d801d2dfcf9111f97f9e254d0c",
@@ -14,19 +14,6 @@
       "team": "Bingham Town F.C. U15 Girls",
       "home_away": "away",
       "opponent": "Priory Celtic F.C. U15 Girls"
-    },
-    {
-      "id": "618f885bd9158fe830d56270ec92114d",
-      "date": "2026-04-17",
-      "time": "19:30",
-      "home_team": "Dunkirk AFC",
-      "away_team": "Bingham Town FC",
-      "venue": "RON STEEL SPORTS GROUND #1",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Bingham Town FC",
-      "home_away": "away",
-      "opponent": "Dunkirk AFC"
     },
     {
       "id": "2f9391f7e03ee3c8dfe42056d0699bd6",
@@ -966,6 +953,23 @@
     }
   ],
   "results": [
+    {
+      "id": "618f885bd9158fe830d56270ec92114d",
+      "date": "2026-04-17",
+      "time": "19:30",
+      "home_team": "Dunkirk AFC",
+      "away_team": "Bingham Town FC",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Bingham Town FC",
+      "home_away": "away",
+      "opponent": "Dunkirk AFC",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "c12e74d4c39916cb478c5587fcde9f34",
       "date": "2026-04-15",

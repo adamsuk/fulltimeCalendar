@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-17T07:18:48Z",
+  "generated": "2026-04-18T06:58:01Z",
   "fixtures": [
-    {
-      "id": "9113125705c0f52333f5738ebd541b4a",
-      "date": "2026-04-17",
-      "time": "19:45",
-      "home_team": "Bilborough TRD FC",
-      "away_team": "Keyworth United Reserves",
-      "venue": "CORONATION PARK",
-      "division": "NSL Division One",
-      "home_away": "away",
-      "opponent": "Bilborough TRD FC"
-    },
     {
       "id": "825299f390c05f557df92374979f51fe",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "9113125705c0f52333f5738ebd541b4a",
+      "date": "2026-04-17",
+      "time": "19:45",
+      "home_team": "Bilborough TRD FC",
+      "away_team": "Keyworth United Reserves",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "NSL Division One",
+      "home_away": "away",
+      "opponent": "Bilborough TRD FC",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "3edc06d0290ba2de0bca4a56e96f268c",
       "date": "2026-04-11",

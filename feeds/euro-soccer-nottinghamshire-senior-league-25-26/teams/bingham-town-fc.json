@@ -1,19 +1,8 @@
 {
   "team": "Bingham Town FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-17T07:18:48Z",
+  "generated": "2026-04-18T06:58:01Z",
   "fixtures": [
-    {
-      "id": "618f885bd9158fe830d56270ec92114d",
-      "date": "2026-04-17",
-      "time": "19:30",
-      "home_team": "Dunkirk AFC",
-      "away_team": "Bingham Town FC",
-      "venue": "RON STEEL SPORTS GROUND #1",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Dunkirk AFC"
-    },
     {
       "id": "d6962ddf4f08b5d54c11378d699b12c2",
       "date": "2026-04-25",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "618f885bd9158fe830d56270ec92114d",
+      "date": "2026-04-17",
+      "time": "19:30",
+      "home_team": "Dunkirk AFC",
+      "away_team": "Bingham Town FC",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Dunkirk AFC",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "5c95019f357c527b0e653983ddaa306d",
       "date": "2026-04-11",

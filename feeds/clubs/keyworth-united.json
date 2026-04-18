@@ -1,6 +1,6 @@
 {
   "club": "Keyworth United",
-  "generated": "2026-04-17T07:18:48Z",
+  "generated": "2026-04-18T06:58:01Z",
   "fixtures": [
     {
       "id": "67bc4be566a984541f88c71aa3c3fc04",
@@ -66,32 +66,6 @@
       "team": "Keyworth United FC First",
       "home_away": "away",
       "opponent": "Calverton Miners Welfare FC"
-    },
-    {
-      "id": "9113125705c0f52333f5738ebd541b4a",
-      "date": "2026-04-17",
-      "time": "19:45",
-      "home_team": "Bilborough TRD FC",
-      "away_team": "Keyworth United Reserves",
-      "venue": "CORONATION PARK",
-      "division": "NSL Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Keyworth United Reserves",
-      "home_away": "away",
-      "opponent": "Bilborough TRD FC"
-    },
-    {
-      "id": "16a4a5a286d127cd4bb537f9ea3ee960",
-      "date": "2026-04-17",
-      "time": "20:00",
-      "home_team": "Keyworth United Yellow U13",
-      "away_team": "East Leake Bantams Red U13",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U13 Sun YEL Shield",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Keyworth United Yellow U13",
-      "home_away": "home",
-      "opponent": "East Leake Bantams Red U13"
     },
     {
       "id": "7ab571f380d9b93c3d6dccfa9ef3c00f",
@@ -1355,19 +1329,6 @@
       "opponent": "Dunkirk AFC"
     },
     {
-      "id": "78734593b898f681eb70882c57a6b73b",
-      "date": "2026-05-03",
-      "time": "09:30",
-      "home_team": "Keyworth United F.C. U15 Predators",
-      "away_team": "Holy Spirit Celtic FC U15",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Keyworth United F.C. U15 Predators",
-      "home_away": "home",
-      "opponent": "Holy Spirit Celtic FC U15"
-    },
-    {
       "id": "d7df231aa7a05f6abcd1316826191a31",
       "date": "2026-05-03",
       "time": "10:00",
@@ -1470,6 +1431,19 @@
       "team": "Keyworth United F.C. U12 Shooting Stars",
       "home_away": "home",
       "opponent": "Ollerton Town Community FC U12 Girls"
+    },
+    {
+      "id": "78734593b898f681eb70882c57a6b73b",
+      "date": "2026-05-03",
+      "time": "13:00",
+      "home_team": "Keyworth United F.C. U15 Predators",
+      "away_team": "Holy Spirit Celtic FC U15",
+      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Keyworth United F.C. U15 Predators",
+      "home_away": "home",
+      "opponent": "Holy Spirit Celtic FC U15"
     },
     {
       "id": "44c2c3e09df6ff291815ddc0d2284bde",
@@ -1681,6 +1655,40 @@
     }
   ],
   "results": [
+    {
+      "id": "16a4a5a286d127cd4bb537f9ea3ee960",
+      "date": "2026-04-17",
+      "time": "20:00",
+      "home_team": "Keyworth United Yellow U13",
+      "away_team": "East Leake Bantams Red U13",
+      "home_score": 7,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sun YEL Shield",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Keyworth United Yellow U13",
+      "home_away": "home",
+      "opponent": "East Leake Bantams Red U13",
+      "goals_for": 7,
+      "goals_against": 0
+    },
+    {
+      "id": "9113125705c0f52333f5738ebd541b4a",
+      "date": "2026-04-17",
+      "time": "19:45",
+      "home_team": "Bilborough TRD FC",
+      "away_team": "Keyworth United Reserves",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "NSL Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Keyworth United Reserves",
+      "home_away": "away",
+      "opponent": "Bilborough TRD FC",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "d6705eaa0b0bd03715c0ba654e625872",
       "date": "2026-04-15",

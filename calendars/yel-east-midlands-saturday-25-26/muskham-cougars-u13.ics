@@ -8,7 +8,7 @@ X-WR-CALDESC:Fixtures for Muskham Cougars U13 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:49ae5bc800f460bba2c6b3729ee981a6@yel-calendar
-DTSTAMP:20260417T071928Z
+DTSTAMP:20260418T065837Z
 DTSTART;TZID=Europe/London:20260418T093000
 DTEND;TZID=Europe/London:20260418T100000
 SUMMARY:⚽ Muskham Cougars U13 vs Newark Brazil Santos U13 (Home)
@@ -16,21 +16,21 @@ DESCRIPTION:Division: U13 Sat Spring Div 6 Red\nMuskham Cougars U13 v Newark Bra
 LOCATION:Muskham Playing Fields NG23 6HL
 END:VEVENT
 BEGIN:VEVENT
-UID:f1561d4ce152bb7ab63e996a190474da@yel-calendar
-DTSTAMP:20260417T071928Z
-DTSTART;TZID=Europe/London:20260421T180000
-DTEND;TZID=Europe/London:20260421T190000
-SUMMARY:⚽ Muskham Cougars U13 vs Woodthorpe Cty Rowdies U13 (Home)
-DESCRIPTION:Division: U13 Sat YEL Foundation Shield\nMuskham Cougars U13 v Woodthorpe Cty Rowdies U13\nKO: 18:00
-LOCATION:Beckitts Field NG23 6BZ
-END:VEVENT
-BEGIN:VEVENT
 UID:2608ca7b870ab6c7bd8aa5dd9a99c25e@yel-calendar
-DTSTAMP:20260417T071928Z
+DTSTAMP:20260418T065837Z
 DTSTART;TZID=Europe/London:20260425T110000
 DTEND;TZID=Europe/London:20260425T120000
 SUMMARY:⚽ Muskham Cougars U13 vs Newark Town Cavaliers U13 (Home)
 DESCRIPTION:Division: U13 Saturday\nMuskham Cougars U13 v Newark Town Cavaliers U13\nKO: 11:00
 LOCATION:Beckitts Field NG23 6BZ
+END:VEVENT
+BEGIN:VEVENT
+UID:de8e95390a130b72fb959b461c5ea16b@yel-calendar
+DTSTAMP:20260418T065837Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T120000
+SUMMARY:⚽ Muskham Cougars U13 vs Ilkeston Town Dragons U13 (Away)
+DESCRIPTION:Division: U13 Sat YEL Foundation Shield\nIlkeston Town Dragons U13 v Muskham Cougars U13\nKO: 11:00
+LOCATION:Booths Playing Fields, Ilkeston DE7 8JF
 END:VEVENT
 END:VCALENDAR

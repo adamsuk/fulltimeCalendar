@@ -1,6 +1,6 @@
 {
   "club": "East Leake",
-  "generated": "2026-04-17T07:18:48Z",
+  "generated": "2026-04-18T06:58:01Z",
   "fixtures": [
     {
       "id": "29aff3c032b72a5f35c9472f58ae512d",
@@ -14,19 +14,6 @@
       "team": "East Leake FC U9 Bantams Girls Red",
       "home_away": "away",
       "opponent": "West Bridgford Colts U9 Stars"
-    },
-    {
-      "id": "16a4a5a286d127cd4bb537f9ea3ee960",
-      "date": "2026-04-17",
-      "time": "20:00",
-      "home_team": "Keyworth United Yellow U13",
-      "away_team": "East Leake Bantams Red U13",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U13 Sun YEL Shield",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "East Leake Bantams Red U13",
-      "home_away": "away",
-      "opponent": "Keyworth United Yellow U13"
     },
     {
       "id": "76b7921bffa106ed71a858c147823434",
@@ -667,6 +654,23 @@
     }
   ],
   "results": [
+    {
+      "id": "16a4a5a286d127cd4bb537f9ea3ee960",
+      "date": "2026-04-17",
+      "time": "20:00",
+      "home_team": "Keyworth United Yellow U13",
+      "away_team": "East Leake Bantams Red U13",
+      "home_score": 7,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sun YEL Shield",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "East Leake Bantams Red U13",
+      "home_away": "away",
+      "opponent": "Keyworth United Yellow U13",
+      "goals_for": 0,
+      "goals_against": 7
+    },
     {
       "id": "b08dba3bf2b5dad3b4f378e7a9a88483",
       "date": "2026-04-15",
@@ -2791,23 +2795,6 @@
       "opponent": "Mapperley All Stars Yellow U8",
       "goals_for": null,
       "goals_against": null
-    },
-    {
-      "id": "660db366b29b758bfcb7ffc5fdff51e4",
-      "date": "2026-02-15",
-      "time": "11:00",
-      "home_team": "Riverside Junior Blue U14",
-      "away_team": "East Leake Bantams Orange U14",
-      "home_score": 4,
-      "away_score": 2,
-      "venue": "",
-      "division": "U14 Sun Spring Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "East Leake Bantams Orange U14",
-      "home_away": "away",
-      "opponent": "Riverside Junior Blue U14",
-      "goals_for": 2,
-      "goals_against": 4
     },
     {
       "id": "5e9429209a41e3f5d98eef68ed8639d2",
