@@ -1,20 +1,7 @@
 {
   "club": "Newton & Blackwell",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "b4a92a561cef44252a031f8bd2539b56",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Alfreton Town Eagles U11",
-      "away_team": "Newton & Blackwell Storm U11",
-      "venue": "David Neiper Academy School DE55 7JA",
-      "division": "U11 Sat Spring Div 7 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Newton & Blackwell Storm U11",
-      "home_away": "away",
-      "opponent": "Alfreton Town Eagles U11"
-    },
     {
       "id": "dfbcedeb9fbef834f2d344de7f710835",
       "date": "2026-04-19",
@@ -82,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "b4a92a561cef44252a031f8bd2539b56",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Alfreton Town Eagles U11",
+      "away_team": "Newton & Blackwell Storm U11",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Newton & Blackwell Storm U11",
+      "home_away": "away",
+      "opponent": "Alfreton Town Eagles U11",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "daff3f3dfb8702cee3decb5486f9496c",
       "date": "2026-04-16",

@@ -1,33 +1,7 @@
 {
   "club": "Inspire Nottingham",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "d4262fdd00fbbbaf000642233c175357",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "WBYFC Corinthians U9",
-      "away_team": "Inspire Nottingham U9",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U9 Sat Spring Div 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Inspire Nottingham U9",
-      "home_away": "away",
-      "opponent": "WBYFC Corinthians U9"
-    },
-    {
-      "id": "262a574b93a648fa4bfe28f988e3b279",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Market Warsop Stags U13",
-      "away_team": "Inspire Nottingham FC Red U13",
-      "venue": "John Fretwell Centre NG19 8LL",
-      "division": "U13 Sat Spring Div 1",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Inspire Nottingham FC Red U13",
-      "home_away": "away",
-      "opponent": "Market Warsop Stags U13"
-    },
     {
       "id": "6fdaf70ea1efee280e43527627baeb3c",
       "date": "2026-04-19",
@@ -191,6 +165,23 @@
       "goals_against": null
     },
     {
+      "id": "262a574b93a648fa4bfe28f988e3b279",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Market Warsop Stags U13",
+      "away_team": "Inspire Nottingham FC Red U13",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Spring Div 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Inspire Nottingham FC Red U13",
+      "home_away": "away",
+      "opponent": "Market Warsop Stags U13",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
       "id": "3a391108b5866200dd4d41fb5e570dd1",
       "date": "2026-04-18",
       "time": "10:00",
@@ -206,6 +197,23 @@
       "opponent": "Stapleford Town Jaguars U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "d4262fdd00fbbbaf000642233c175357",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "WBYFC Corinthians U9",
+      "away_team": "Inspire Nottingham U9",
+      "home_score": 7,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Inspire Nottingham U9",
+      "home_away": "away",
+      "opponent": "WBYFC Corinthians U9",
+      "goals_for": 2,
+      "goals_against": 7
     },
     {
       "id": "923b1eb03341cb34af3bf8fd81f1ee70",

@@ -1,19 +1,8 @@
 {
   "team": "RHP Colts Green U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "31be4fc80400517d0163ccb07752ad9e",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Bottesford Yellow U12",
-      "away_team": "RHP Colts Green U12",
-      "venue": "Nottingham Rd, Bottesford  NG13 0AP",
-      "division": "U12 Saturday",
-      "home_away": "away",
-      "opponent": "Bottesford Yellow U12"
-    },
     {
       "id": "790d35b04f098ae5c6f9b8a633680647",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "31be4fc80400517d0163ccb07752ad9e",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Bottesford Yellow U12",
+      "away_team": "RHP Colts Green U12",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Saturday",
+      "home_away": "away",
+      "opponent": "Bottesford Yellow U12",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "bfe620371d0e004255b14321495c62bf",
       "date": "2026-03-21",

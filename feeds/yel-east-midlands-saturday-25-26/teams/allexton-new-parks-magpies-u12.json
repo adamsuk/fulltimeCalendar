@@ -1,19 +1,8 @@
 {
   "team": "Allexton & New Parks Magpies U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "33339110d8491c6c746a479b4adcabfe",
-      "date": "2026-04-18",
-      "time": "12:30",
-      "home_team": "Silva FC Carlton U12",
-      "away_team": "Allexton & New Parks Magpies U12",
-      "venue": "Carlton Forum NG4 3SH",
-      "division": "U12 Saturday",
-      "home_away": "away",
-      "opponent": "Silva FC Carlton U12"
-    },
     {
       "id": "cc92980e6bf69e7146a38b0b0d3598b8",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "33339110d8491c6c746a479b4adcabfe",
+      "date": "2026-04-18",
+      "time": "12:30",
+      "home_team": "Silva FC Carlton U12",
+      "away_team": "Allexton & New Parks Magpies U12",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Saturday",
+      "home_away": "away",
+      "opponent": "Silva FC Carlton U12",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "52a49b6772ffa09aad11678b3a3aa53d",
       "date": "2026-03-28",

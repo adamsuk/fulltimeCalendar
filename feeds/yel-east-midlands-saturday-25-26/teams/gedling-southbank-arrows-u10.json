@@ -1,19 +1,8 @@
 {
   "team": "Gedling Southbank Arrows U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "45222f810881b022be7fc4fb74985efb",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Bottesford Blue U10",
-      "away_team": "Gedling Southbank Arrows U10",
-      "venue": "Nottingham Rd, Bottesford  NG13 0AP",
-      "division": "U10 Sat Spring Div 7 Blue",
-      "home_away": "away",
-      "opponent": "Bottesford Blue U10"
-    },
     {
       "id": "f24ce20f3cb13de417156755f95cf2f3",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "45222f810881b022be7fc4fb74985efb",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Bottesford Blue U10",
+      "away_team": "Gedling Southbank Arrows U10",
+      "home_score": 4,
+      "away_score": 4,
+      "venue": "",
+      "division": "U10 Sat Spring Div 7 Blue",
+      "home_away": "away",
+      "opponent": "Bottesford Blue U10",
+      "goals_for": 4,
+      "goals_against": 4
+    },
     {
       "id": "8c1efb5726f2e37c427eff0b9c6a47aa",
       "date": "2026-03-28",

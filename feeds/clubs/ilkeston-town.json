@@ -1,6 +1,6 @@
 {
   "club": "Ilkeston Town",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
     {
       "id": "940c4d131eb576b39f70d6cc694b3823",
@@ -14,19 +14,6 @@
       "team": "Ilkeston Town Juniors U15 Robins",
       "home_away": "home",
       "opponent": "Gainsborough Trinity Community FC U15"
-    },
-    {
-      "id": "774ab13f84ac3ed4ae7c0c5c6d73156d",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "WBYFC Celtics U13",
-      "away_team": "Ilkeston Town Dragons U13",
-      "venue": "The Nottingham Emmanuel School NG2 7YF",
-      "division": "U13 Sat Spring Div 7 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ilkeston Town Dragons U13",
-      "home_away": "away",
-      "opponent": "WBYFC Celtics U13"
     },
     {
       "id": "af2d04ca7acdb51df2f37738e8094ffe",
@@ -53,58 +40,6 @@
       "team": "Ilkeston Town Valens U11",
       "home_away": "home",
       "opponent": "Southwell City Tigers U11"
-    },
-    {
-      "id": "91d9930f961a342300a24a62486a9b81",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Ilkeston Town White Star U14",
-      "away_team": "WBYFC Giants U14",
-      "venue": "Booths Playing Fields, Ilkeston DE7 8JF",
-      "division": "U14 Sat YEL Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ilkeston Town White Star U14",
-      "home_away": "home",
-      "opponent": "WBYFC Giants U14"
-    },
-    {
-      "id": "bb3cc198e6493d4434d8858470b07ac7",
-      "date": "2026-04-18",
-      "time": "10:30",
-      "home_team": "Lowdham FC Red U14",
-      "away_team": "Ilkeston Town Robins U14",
-      "venue": "Calverton Village Hall NG14 6SA",
-      "division": "u14 Sat Spring Div 1 Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ilkeston Town Robins U14",
-      "home_away": "away",
-      "opponent": "Lowdham FC Red U14"
-    },
-    {
-      "id": "7a956707c59f295a692f4b1bf7ab6130",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Arnold Town Blue U9",
-      "away_team": "Ilkeston Town Gladiators U9",
-      "venue": "Eagle Valley NG5 8PS",
-      "division": "U9 Sat Spring Div 8 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ilkeston Town Gladiators U9",
-      "home_away": "away",
-      "opponent": "Arnold Town Blue U9"
-    },
-    {
-      "id": "780784e7daa7f12cdb6b164ab961e42b",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Heanor Town Phoenix U11",
-      "away_team": "Ilkeston Town Milan U11",
-      "venue": "Riddings Park  DE55 4EW",
-      "division": "U11 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ilkeston Town Milan U11",
-      "home_away": "away",
-      "opponent": "Heanor Town Phoenix U11"
     },
     {
       "id": "b12a91ab9704a28f3339e0ef7b9cc0cd",
@@ -603,6 +538,57 @@
   ],
   "results": [
     {
+      "id": "7a956707c59f295a692f4b1bf7ab6130",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Arnold Town Blue U9",
+      "away_team": "Ilkeston Town Gladiators U9",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat Spring Div 8 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ilkeston Town Gladiators U9",
+      "home_away": "away",
+      "opponent": "Arnold Town Blue U9",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
+      "id": "780784e7daa7f12cdb6b164ab961e42b",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Heanor Town Phoenix U11",
+      "away_team": "Ilkeston Town Milan U11",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ilkeston Town Milan U11",
+      "home_away": "away",
+      "opponent": "Heanor Town Phoenix U11",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
+      "id": "bb3cc198e6493d4434d8858470b07ac7",
+      "date": "2026-04-18",
+      "time": "10:30",
+      "home_team": "Lowdham FC Red U14",
+      "away_team": "Ilkeston Town Robins U14",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "u14 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ilkeston Town Robins U14",
+      "home_away": "away",
+      "opponent": "Lowdham FC Red U14",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
       "id": "b2c189f87e0338cc7cdbc25652cfbb8b",
       "date": "2026-04-18",
       "time": "10:00",
@@ -618,6 +604,23 @@
       "opponent": "Long Eaton United Athletico U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "774ab13f84ac3ed4ae7c0c5c6d73156d",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "WBYFC Celtics U13",
+      "away_team": "Ilkeston Town Dragons U13",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sat Spring Div 7 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ilkeston Town Dragons U13",
+      "home_away": "away",
+      "opponent": "WBYFC Celtics U13",
+      "goals_for": 0,
+      "goals_against": 0
     },
     {
       "id": "1d8e5c104d7e68e59b64e4bc1e5fb759",
@@ -652,6 +655,23 @@
       "opponent": "Sandiacre Town Blue U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "91d9930f961a342300a24a62486a9b81",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Ilkeston Town White Star U14",
+      "away_team": "WBYFC Giants U14",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sat YEL Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ilkeston Town White Star U14",
+      "home_away": "home",
+      "opponent": "WBYFC Giants U14",
+      "goals_for": 2,
+      "goals_against": 1
     },
     {
       "id": "511836173bbfdc9bb7e61c5080e27fd3",

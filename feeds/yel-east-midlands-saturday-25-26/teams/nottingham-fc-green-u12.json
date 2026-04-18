@@ -1,19 +1,8 @@
 {
   "team": "Nottingham FC Green U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "c92b97d4908e229eb9cdf60fc95c5b40",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Nottingham FC Green U12",
-      "away_team": "Keyworth United White U12",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U12 Sat Spring Div 3 Green",
-      "home_away": "home",
-      "opponent": "Keyworth United White U12"
-    },
     {
       "id": "dff9f0cfff11e4482183ad3d52eced7a",
       "date": "2026-04-21",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c92b97d4908e229eb9cdf60fc95c5b40",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Nottingham FC Green U12",
+      "away_team": "Keyworth United White U12",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sat Spring Div 3 Green",
+      "home_away": "home",
+      "opponent": "Keyworth United White U12",
+      "goals_for": 6,
+      "goals_against": 0
+    },
     {
       "id": "52d0b4cc702f8d85e9e56684e654987d",
       "date": "2026-04-14",

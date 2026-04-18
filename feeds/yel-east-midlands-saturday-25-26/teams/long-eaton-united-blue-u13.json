@@ -1,19 +1,8 @@
 {
   "team": "Long Eaton United Blue U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "cdb6de6c8201bdef145f00556dc7de76",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Mickleover Jnrs Benfica U13",
-      "away_team": "Long Eaton United Blue U13",
-      "venue": "Varsity Grange Football Complex DE3 9EB",
-      "division": "U13 Saturday",
-      "home_away": "away",
-      "opponent": "Mickleover Jnrs Benfica U13"
-    },
     {
       "id": "053ce6e4c5de019ba548d6569e649125",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "cdb6de6c8201bdef145f00556dc7de76",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Mickleover Jnrs Benfica U13",
+      "away_team": "Long Eaton United Blue U13",
+      "home_score": 3,
+      "away_score": 5,
+      "venue": "",
+      "division": "U13 Saturday",
+      "home_away": "away",
+      "opponent": "Mickleover Jnrs Benfica U13",
+      "goals_for": 5,
+      "goals_against": 3
+    },
     {
       "id": "b5d478b881f99cb7005ad1558be9742d",
       "date": "2026-03-21",

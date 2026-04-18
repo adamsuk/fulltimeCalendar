@@ -1,19 +1,8 @@
 {
   "team": "Pelican Colts Red U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "de78fcafb136bc8c6b8ec4fd80c9ebdd",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Hucknall Sports Red U13",
-      "away_team": "Pelican Colts Red U13",
-      "venue": "Engine Rooms NG15 6EP",
-      "division": "U13 Sat Spring Div 5 Red",
-      "home_away": "away",
-      "opponent": "Hucknall Sports Red U13"
-    },
     {
       "id": "5f3663c9b53d9160d289b4622569b324",
       "date": "2026-04-21",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "de78fcafb136bc8c6b8ec4fd80c9ebdd",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Hucknall Sports Red U13",
+      "away_team": "Pelican Colts Red U13",
+      "home_score": 0,
+      "away_score": 8,
+      "venue": "",
+      "division": "U13 Sat Spring Div 5 Red",
+      "home_away": "away",
+      "opponent": "Hucknall Sports Red U13",
+      "goals_for": 8,
+      "goals_against": 0
+    },
     {
       "id": "0864096b183644205df4a876fc1af1ac",
       "date": "2026-03-21",

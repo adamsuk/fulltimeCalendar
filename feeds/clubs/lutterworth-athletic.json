@@ -1,20 +1,7 @@
 {
   "club": "Lutterworth Athletic",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "dbed18ceaa0c45a2d586285309367092",
-      "date": "2026-04-18",
-      "time": "09:45",
-      "home_team": "Stapleford Town Admirals U11",
-      "away_team": "Lutterworth Athletic Hurricane U11",
-      "venue": "Hickings Lane NG9 8PG",
-      "division": "U11 Sat Spring Div 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Lutterworth Athletic Hurricane U11",
-      "home_away": "away",
-      "opponent": "Stapleford Town Admirals U11"
-    },
     {
       "id": "128b7c78e8c3d139c8de5e37d2c8d116",
       "date": "2026-04-25",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "dbed18ceaa0c45a2d586285309367092",
+      "date": "2026-04-18",
+      "time": "09:45",
+      "home_team": "Stapleford Town Admirals U11",
+      "away_team": "Lutterworth Athletic Hurricane U11",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "",
+      "division": "U11 Sat Spring Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Lutterworth Athletic Hurricane U11",
+      "home_away": "away",
+      "opponent": "Stapleford Town Admirals U11",
+      "goals_for": 0,
+      "goals_against": 6
+    },
     {
       "id": "91bd85a84cd736b982325f5c2174563a",
       "date": "2026-03-21",

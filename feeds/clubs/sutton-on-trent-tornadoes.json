@@ -1,20 +1,7 @@
 {
   "club": "Sutton-on-Trent Tornadoes",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "392b1dafa3976d79af1a7bd9402fb485",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Bingham Town Blue U11",
-      "away_team": "Sutton-on-Trent Tornadoes U11",
-      "venue": "Butt Field NG13 8GG",
-      "division": "U11 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sutton-on-Trent Tornadoes U11",
-      "home_away": "away",
-      "opponent": "Bingham Town Blue U11"
-    },
     {
       "id": "864fddb5a73abd05830950d5cd5aca4d",
       "date": "2026-04-25",
@@ -57,6 +44,23 @@
       "team": "Sutton-on-Trent Tornadoes U10",
       "home_away": "home",
       "opponent": "Bulwell Forest U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "392b1dafa3976d79af1a7bd9402fb485",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Bingham Town Blue U11",
+      "away_team": "Sutton-on-Trent Tornadoes U11",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sutton-on-Trent Tornadoes U11",
+      "home_away": "away",
+      "opponent": "Bingham Town Blue U11",
       "goals_for": null,
       "goals_against": null
     },

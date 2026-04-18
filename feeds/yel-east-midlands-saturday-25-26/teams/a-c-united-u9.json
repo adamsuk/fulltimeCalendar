@@ -1,19 +1,8 @@
 {
   "team": "A.C. United U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "1485d73236b1827a3670e06c3e30f295",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Edwalton Cavaliers Blue U9",
-      "away_team": "A.C. United U9",
-      "venue": "Nottingham Football Centre NG2 7BW",
-      "division": "U9 Saturday",
-      "home_away": "away",
-      "opponent": "Edwalton Cavaliers Blue U9"
-    },
     {
       "id": "5f3a4b97b01fdf98df958a938bf4f5fa",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "1485d73236b1827a3670e06c3e30f295",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Edwalton Cavaliers Blue U9",
+      "away_team": "A.C. United U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Saturday",
+      "home_away": "away",
+      "opponent": "Edwalton Cavaliers Blue U9",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "92cdb6a8f75329c1d31d5ed1d301cac8",
       "date": "2026-03-28",

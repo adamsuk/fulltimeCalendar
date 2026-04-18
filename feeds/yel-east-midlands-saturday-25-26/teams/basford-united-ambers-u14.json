@@ -1,19 +1,8 @@
 {
   "team": "Basford United Ambers U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "fc2755fdc8262b7b521cecfb178da23d",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Basford United Ambers U14",
-      "away_team": "Ashby United Mavericks U14",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U14 Saturday",
-      "home_away": "home",
-      "opponent": "Ashby United Mavericks U14"
-    },
     {
       "id": "815e72b3b059d3068ab290300c3b5790",
       "date": "2026-04-25",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "fc2755fdc8262b7b521cecfb178da23d",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Basford United Ambers U14",
+      "away_team": "Ashby United Mavericks U14",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Saturday",
+      "home_away": "home",
+      "opponent": "Ashby United Mavericks U14",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "c5962429cf350cc91d36ca758f23e2b8",
       "date": "2026-03-28",

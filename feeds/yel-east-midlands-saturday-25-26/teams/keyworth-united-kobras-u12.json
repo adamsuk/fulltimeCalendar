@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United Kobras U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "47066c0f0819113f2babccef7abd2695",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Willow Wand Wolverines U12",
-      "away_team": "Keyworth United Kobras U12",
-      "venue": "Carlton le Willows School NG4 4AA",
-      "division": "U12 Sat Spring Div 7 Gold",
-      "home_away": "away",
-      "opponent": "Willow Wand Wolverines U12"
-    },
     {
       "id": "5873c692d616ef3e097e11bf626663c4",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "47066c0f0819113f2babccef7abd2695",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Willow Wand Wolverines U12",
+      "away_team": "Keyworth United Kobras U12",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 7 Gold",
+      "home_away": "away",
+      "opponent": "Willow Wand Wolverines U12",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "742f53fd3f752c37dc3f5bea52702ea3",
       "date": "2026-03-28",

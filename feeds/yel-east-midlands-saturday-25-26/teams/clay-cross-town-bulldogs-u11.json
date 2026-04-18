@@ -1,19 +1,8 @@
 {
   "team": "Clay Cross Town Bulldogs U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "279c486a4a55efa64f6325303df025ba",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Stapleford Town Warriors U11",
-      "away_team": "Clay Cross Town Bulldogs U11",
-      "venue": "Hickings Lane NG9 8PG",
-      "division": "U11 Sat Spring Div 3 Red",
-      "home_away": "away",
-      "opponent": "Stapleford Town Warriors U11"
-    },
     {
       "id": "9bcc546255aef170316da6d20fca2abb",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "279c486a4a55efa64f6325303df025ba",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Stapleford Town Warriors U11",
+      "away_team": "Clay Cross Town Bulldogs U11",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 3 Red",
+      "home_away": "away",
+      "opponent": "Stapleford Town Warriors U11",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "54b81431abeff49ce616bf7ab889f984",
       "date": "2026-03-28",

@@ -1,19 +1,8 @@
 {
   "team": "Lowdham FC Garibaldi U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "ba6921f44b7e9ba5a0d622fe3f9dd7d2",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Edwalton Cavaliers White U12",
-      "away_team": "Lowdham FC Garibaldi U12",
-      "venue": "Nottingham Football Centre NG2 7BW",
-      "division": "U12 Saturday",
-      "home_away": "away",
-      "opponent": "Edwalton Cavaliers White U12"
-    },
     {
       "id": "1ea01fa74079ac5a38ddb558e2bedc02",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ba6921f44b7e9ba5a0d622fe3f9dd7d2",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Edwalton Cavaliers White U12",
+      "away_team": "Lowdham FC Garibaldi U12",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Saturday",
+      "home_away": "away",
+      "opponent": "Edwalton Cavaliers White U12",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "52d0b4cc702f8d85e9e56684e654987d",
       "date": "2026-04-14",

@@ -1,46 +1,7 @@
 {
   "club": "Muskham Cougars",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "49ae5bc800f460bba2c6b3729ee981a6",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "Muskham Cougars U13",
-      "away_team": "Newark Brazil Santos U13",
-      "venue": "Muskham Playing Fields NG23 6HL",
-      "division": "U13 Sat Spring Div 6 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Muskham Cougars U13",
-      "home_away": "home",
-      "opponent": "Newark Brazil Santos U13"
-    },
-    {
-      "id": "e81f8f9ed095492f274bdaa7bfa831ea",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Muskham Cougars U8",
-      "away_team": "Newark Town Titans U8",
-      "venue": "Muskham Playing Fields NG23 6HL",
-      "division": "U8 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Muskham Cougars U8",
-      "home_away": "home",
-      "opponent": "Newark Town Titans U8"
-    },
-    {
-      "id": "a2eb9b69dd64a4cd8ef038a03f71591f",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Muskham Cougars U12",
-      "away_team": "WBYFC Thunderbolts U12",
-      "venue": "Beckitts Field NG23 6BZ",
-      "division": "U12 Sat Spring Div 8",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Muskham Cougars U12",
-      "home_away": "home",
-      "opponent": "WBYFC Thunderbolts U12"
-    },
     {
       "id": "5cf21505f6dac47ce52a9b29350948c9",
       "date": "2026-04-19",
@@ -174,6 +135,23 @@
   ],
   "results": [
     {
+      "id": "a2eb9b69dd64a4cd8ef038a03f71591f",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Muskham Cougars U12",
+      "away_team": "WBYFC Thunderbolts U12",
+      "home_score": 3,
+      "away_score": 6,
+      "venue": "",
+      "division": "U12 Sat Spring Div 8",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Muskham Cougars U12",
+      "home_away": "home",
+      "opponent": "WBYFC Thunderbolts U12",
+      "goals_for": 3,
+      "goals_against": 6
+    },
+    {
       "id": "bc8478979aaf3918e57d1810046b2bef",
       "date": "2026-04-18",
       "time": "10:00",
@@ -225,6 +203,23 @@
       "goals_against": 2
     },
     {
+      "id": "e81f8f9ed095492f274bdaa7bfa831ea",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Muskham Cougars U8",
+      "away_team": "Newark Town Titans U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Muskham Cougars U8",
+      "home_away": "home",
+      "opponent": "Newark Town Titans U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "d9c7050cd24fd2c4cc3867266dc81147",
       "date": "2026-04-18",
       "time": "10:00",
@@ -239,6 +234,23 @@
       "home_away": "home",
       "opponent": "Mapperley All Stars Yellow U9",
       "goals_for": 5,
+      "goals_against": 2
+    },
+    {
+      "id": "49ae5bc800f460bba2c6b3729ee981a6",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Muskham Cougars U13",
+      "away_team": "Newark Brazil Santos U13",
+      "home_score": 9,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Muskham Cougars U13",
+      "home_away": "home",
+      "opponent": "Newark Brazil Santos U13",
+      "goals_for": 9,
       "goals_against": 2
     },
     {

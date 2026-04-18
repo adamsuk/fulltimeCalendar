@@ -1,19 +1,8 @@
 {
   "team": "Bilborough Town U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "f5fbf2fea2e27dccf6065e2f0403489c",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Bilborough Town U9",
-      "away_team": "Cotgrave FC Claret U9",
-      "venue": "Brocklewood School NG8 3AJ",
-      "division": "U9 Sat Spring Div 9 Silver",
-      "home_away": "home",
-      "opponent": "Cotgrave FC Claret U9"
-    },
     {
       "id": "e48ce890c493516440cfdc61e8a4ecd6",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f5fbf2fea2e27dccf6065e2f0403489c",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Bilborough Town U9",
+      "away_team": "Cotgrave FC Claret U9",
+      "home_score": 4,
+      "away_score": 7,
+      "venue": "",
+      "division": "U9 Sat Spring Div 9 Silver",
+      "home_away": "home",
+      "opponent": "Cotgrave FC Claret U9",
+      "goals_for": 4,
+      "goals_against": 7
+    },
     {
       "id": "8fd824e6fe5794f61f7aa4bd8375bec5",
       "date": "2026-03-28",

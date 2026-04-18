@@ -1,19 +1,8 @@
 {
   "team": "Bingham Town White U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "41dcff2eb2bfb817c5275e3415adf30c",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Southwell City Flames U12",
-      "away_team": "Bingham Town White U12",
-      "venue": "Southwell City FC  NG25 0JP",
-      "division": "U12 Sat Spring Div 6 Blue",
-      "home_away": "away",
-      "opponent": "Southwell City Flames U12"
-    },
     {
       "id": "4ef3946664c9f1817aeb31d66802d508",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "41dcff2eb2bfb817c5275e3415adf30c",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Southwell City Flames U12",
+      "away_team": "Bingham Town White U12",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sat Spring Div 6 Blue",
+      "home_away": "away",
+      "opponent": "Southwell City Flames U12",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "f7736dfed6bcc943ccb79a2f08b85d45",
       "date": "2026-04-11",

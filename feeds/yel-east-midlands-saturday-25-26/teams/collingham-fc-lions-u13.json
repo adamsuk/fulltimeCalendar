@@ -1,19 +1,8 @@
 {
   "team": "Collingham FC Lions U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "c513d82fd2b36793da5068dd3e257fc5",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Collingham FC Lions U13",
-      "away_team": "Blidworth Bengals Orange U13",
-      "venue": "SOUTH CLIFTON SPORTS FIELD NG23 7AF",
-      "division": "U13 Sat Spring Div 6 Red",
-      "home_away": "home",
-      "opponent": "Blidworth Bengals Orange U13"
-    },
     {
       "id": "949edbd1b24045b6c8378e2b38325ad9",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c513d82fd2b36793da5068dd3e257fc5",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Collingham FC Lions U13",
+      "away_team": "Blidworth Bengals Orange U13",
+      "home_score": 6,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sat Spring Div 6 Red",
+      "home_away": "home",
+      "opponent": "Blidworth Bengals Orange U13",
+      "goals_for": 6,
+      "goals_against": 4
+    },
     {
       "id": "b07f1da5a6e84983e0af164ec2fdac85",
       "date": "2026-04-14",

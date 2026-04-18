@@ -1,19 +1,8 @@
 {
   "team": "Toton Tornados U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "440e5ea84b08ca467e9efdc513558a86",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Toton Tornados U14",
-      "away_team": "Eastwood Ath Dynamos U14",
-      "venue": "Manor Farm Recreation Ground NG9 6EL",
-      "division": "U14 Saturday",
-      "home_away": "home",
-      "opponent": "Eastwood Ath Dynamos U14"
-    },
     {
       "id": "22988fc428c627012331fac6796bb550",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "440e5ea84b08ca467e9efdc513558a86",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Toton Tornados U14",
+      "away_team": "Eastwood Ath Dynamos U14",
+      "home_score": 1,
+      "away_score": 7,
+      "venue": "",
+      "division": "U14 Saturday",
+      "home_away": "home",
+      "opponent": "Eastwood Ath Dynamos U14",
+      "goals_for": 1,
+      "goals_against": 7
+    },
     {
       "id": "5b200a8b0cdc642364e4fde37388bd7b",
       "date": "2026-03-28",

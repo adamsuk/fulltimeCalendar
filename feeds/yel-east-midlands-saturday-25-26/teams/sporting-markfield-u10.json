@@ -1,19 +1,8 @@
 {
   "team": "Sporting Markfield U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "a98ef4ec3eebba2d1de2fe76a69338f3",
-      "date": "2026-04-18",
-      "time": "11:30",
-      "home_team": "Sporting Markfield U10",
-      "away_team": "Sherwood Colliery Outlaws U10",
-      "venue": "South Charnwood High School LE67 9TB",
-      "division": "U10 Saturday",
-      "home_away": "home",
-      "opponent": "Sherwood Colliery Outlaws U10"
-    },
     {
       "id": "8d531ea4d05a41cb4b5d40a6239322ed",
       "date": "2026-04-25",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a98ef4ec3eebba2d1de2fe76a69338f3",
+      "date": "2026-04-18",
+      "time": "11:30",
+      "home_team": "Sporting Markfield U10",
+      "away_team": "Sherwood Colliery Outlaws U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery Outlaws U10",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "fef23811a65333c805b9380a1a2177ba",
       "date": "2026-03-28",

@@ -1,19 +1,8 @@
 {
   "team": "Eastwood Ath Red Devils U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "56cccc3a9086914111fe305ac9c9600c",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Eastwood Ath Red Devils U12",
-      "away_team": "Star Strike Tigers U12",
-      "venue": "Hall Park NG16 3AR",
-      "division": "U12 Sat Spring Div 7 Gold",
-      "home_away": "home",
-      "opponent": "Star Strike Tigers U12"
-    },
     {
       "id": "305a52608441c58e89dba7a7ec617506",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "56cccc3a9086914111fe305ac9c9600c",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Eastwood Ath Red Devils U12",
+      "away_team": "Star Strike Tigers U12",
+      "home_score": 2,
+      "away_score": 7,
+      "venue": "",
+      "division": "U12 Sat Spring Div 7 Gold",
+      "home_away": "home",
+      "opponent": "Star Strike Tigers U12",
+      "goals_for": 2,
+      "goals_against": 7
+    },
     {
       "id": "742f53fd3f752c37dc3f5bea52702ea3",
       "date": "2026-03-28",

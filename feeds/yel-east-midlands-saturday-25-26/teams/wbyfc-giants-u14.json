@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Giants U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "91d9930f961a342300a24a62486a9b81",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Ilkeston Town White Star U14",
-      "away_team": "WBYFC Giants U14",
-      "venue": "Booths Playing Fields, Ilkeston DE7 8JF",
-      "division": "U14 Sat YEL Cup",
-      "home_away": "away",
-      "opponent": "Ilkeston Town White Star U14"
-    },
     {
       "id": "3ee8457c56dd5ef94c48ea0066de4ad2",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "91d9930f961a342300a24a62486a9b81",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Ilkeston Town White Star U14",
+      "away_team": "WBYFC Giants U14",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sat YEL Cup",
+      "home_away": "away",
+      "opponent": "Ilkeston Town White Star U14",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "4af3f6a2f774a543f16cca6851b6fcf3",
       "date": "2026-03-21",

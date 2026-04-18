@@ -1,20 +1,7 @@
 {
   "club": "Willow Wand Wolverines",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "47066c0f0819113f2babccef7abd2695",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Willow Wand Wolverines U12",
-      "away_team": "Keyworth United Kobras U12",
-      "venue": "Carlton le Willows School NG4 4AA",
-      "division": "U12 Sat Spring Div 7 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Willow Wand Wolverines U12",
-      "home_away": "home",
-      "opponent": "Keyworth United Kobras U12"
-    },
     {
       "id": "f44f7bbab56fd206067d43a806ee5d50",
       "date": "2026-04-25",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "47066c0f0819113f2babccef7abd2695",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Willow Wand Wolverines U12",
+      "away_team": "Keyworth United Kobras U12",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 7 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Willow Wand Wolverines U12",
+      "home_away": "home",
+      "opponent": "Keyworth United Kobras U12",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "507e4262c3cddd7dcd7b4d2331e2f6bf",
       "date": "2026-04-14",

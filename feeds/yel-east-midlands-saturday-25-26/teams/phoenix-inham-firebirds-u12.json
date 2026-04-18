@@ -1,19 +1,8 @@
 {
   "team": "Phoenix Inham Firebirds U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "9ac9f3e9017442e3384941a263f342e4",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Phoenix Inham Firebirds U12",
-      "away_team": "Sneinton Town U12",
-      "venue": "Inham Nook Recreation Ground NG9 4GQ",
-      "division": "U12 Sat YEL Foundation Shield",
-      "home_away": "home",
-      "opponent": "Sneinton Town U12"
-    },
     {
       "id": "8a1c0a70b313260171e3405a4ad42725",
       "date": "2026-04-25",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "9ac9f3e9017442e3384941a263f342e4",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Phoenix Inham Firebirds U12",
+      "away_team": "Sneinton Town U12",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Sat YEL Foundation Shield",
+      "home_away": "home",
+      "opponent": "Sneinton Town U12",
+      "goals_for": 3,
+      "goals_against": 4
+    },
     {
       "id": "91e7926da3d9eb1c72dde127e12520e0",
       "date": "2026-03-21",

@@ -1,19 +1,8 @@
 {
   "team": "Radcliffe Olympic Blue U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "86ed03db56c4ec5edb3023c6912a4b48",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Hucknall Sports Red U11",
-      "away_team": "Radcliffe Olympic Blue U11",
-      "venue": "Goosedale Sports Club NG6 8UJ",
-      "division": "U11 Sat Spring Div 8",
-      "home_away": "away",
-      "opponent": "Hucknall Sports Red U11"
-    },
     {
       "id": "a90eb19de0addefffb24b2f6f426c608",
       "date": "2026-04-21",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "86ed03db56c4ec5edb3023c6912a4b48",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Hucknall Sports Red U11",
+      "away_team": "Radcliffe Olympic Blue U11",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 8",
+      "home_away": "away",
+      "opponent": "Hucknall Sports Red U11",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "b9acbdda74ea57ac1c62e9a11f1591b6",
       "date": "2026-03-28",

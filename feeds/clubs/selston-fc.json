@@ -1,20 +1,7 @@
 {
   "club": "Selston FC",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "2d33f916bf879b6aeb0e1e7cb09adf96",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Selston FC Black U9",
-      "away_team": "DLFC Grey U9",
-      "venue": "Selston Parish Hall  NG16 6EE",
-      "division": "U9 Sat Spring Div 8 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Selston FC Black U9",
-      "home_away": "home",
-      "opponent": "DLFC Grey U9"
-    },
     {
       "id": "f2d6e01e181f9dfb92f6a898eaf7352c",
       "date": "2026-04-19",
@@ -271,7 +258,7 @@
       "home_team": "Selston FC U13",
       "away_team": "Wollaton H & B Knights U13",
       "home_score": 1,
-      "away_score": 0,
+      "away_score": 1,
       "venue": "",
       "division": "U13 Sat Spring Div 6 Blue",
       "league": "YEL East Midlands Saturday 25/26",
@@ -279,6 +266,23 @@
       "home_away": "home",
       "opponent": "Wollaton H & B Knights U13",
       "goals_for": 1,
+      "goals_against": 1
+    },
+    {
+      "id": "2d33f916bf879b6aeb0e1e7cb09adf96",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Selston FC Black U9",
+      "away_team": "DLFC Grey U9",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sat Spring Div 8 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Selston FC Black U9",
+      "home_away": "home",
+      "opponent": "DLFC Grey U9",
+      "goals_for": 6,
       "goals_against": 0
     },
     {

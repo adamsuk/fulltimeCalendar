@@ -1,19 +1,8 @@
 {
   "team": "Stanton Ilkeston Galacticos U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "43c89e144aa30b342e8be7c111eb5153",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Stanton Ilkeston Galacticos U11",
-      "away_team": "Dunkirk U11",
-      "venue": "Ron Brooks Pavilion DE7 4LD",
-      "division": "U11 Sat Spring Div 5 Blue",
-      "home_away": "home",
-      "opponent": "Dunkirk U11"
-    },
     {
       "id": "638743873db562ac241df6a7b8eb59c4",
       "date": "2026-04-21",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "43c89e144aa30b342e8be7c111eb5153",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Stanton Ilkeston Galacticos U11",
+      "away_team": "Dunkirk U11",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U11 Sat Spring Div 5 Blue",
+      "home_away": "home",
+      "opponent": "Dunkirk U11",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "401acc78378d46dbf52c5bf6f60c5fbd",
       "date": "2026-04-11",

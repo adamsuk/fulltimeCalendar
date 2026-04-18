@@ -1,19 +1,8 @@
 {
   "team": "A.C. United U8",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "6dda735f8066a2592a079f1f21b148e0",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "G3A FC Santos U8",
-      "away_team": "A.C. United U8",
-      "venue": "Brunts Academy NG18 2AT",
-      "division": "U8 Sat Spring 5 Green",
-      "home_away": "away",
-      "opponent": "G3A FC Santos U8"
-    },
     {
       "id": "b5452e6f881afe95a528293fcfd3ca71",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6dda735f8066a2592a079f1f21b148e0",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "G3A FC Santos U8",
+      "away_team": "A.C. United U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 5 Green",
+      "home_away": "away",
+      "opponent": "G3A FC Santos U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "6b7f25aabe3c2a23ff5e6ef86c290649",
       "date": "2026-04-11",

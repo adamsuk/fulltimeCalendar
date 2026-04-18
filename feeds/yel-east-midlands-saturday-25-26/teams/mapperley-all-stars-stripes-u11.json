@@ -1,19 +1,8 @@
 {
   "team": "Mapperley All Stars Stripes U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "7c54050f22f1961359b04ba0fc51db96",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Mapperley All Stars Stripes U11",
-      "away_team": "Edwalton Cavaliers Red U11",
-      "venue": "Colwick Recreation Ground NG4 2DW",
-      "division": "U11 Sat Spring Div 6 Blue",
-      "home_away": "home",
-      "opponent": "Edwalton Cavaliers Red U11"
-    },
     {
       "id": "46c0905c192bf44a855b8131e90d0bf1",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7c54050f22f1961359b04ba0fc51db96",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Mapperley All Stars Stripes U11",
+      "away_team": "Edwalton Cavaliers Red U11",
+      "home_score": 9,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 6 Blue",
+      "home_away": "home",
+      "opponent": "Edwalton Cavaliers Red U11",
+      "goals_for": 9,
+      "goals_against": 1
+    },
     {
       "id": "01f1ed9e7199d071c17a0b31de4e51b0",
       "date": "2026-03-21",

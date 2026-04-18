@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United Black U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "245b66842eb6a2fbfc0fc471aae8906c",
-      "date": "2026-04-18",
-      "time": "10:45",
-      "home_team": "Keyworth United Black U12",
-      "away_team": "Blidworth Bengals Black U12",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U12 Sat Spring Div 5 Blue",
-      "home_away": "home",
-      "opponent": "Blidworth Bengals Black U12"
-    },
     {
       "id": "c50e1e9e3b91a899adad7e29751b0d37",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "245b66842eb6a2fbfc0fc471aae8906c",
+      "date": "2026-04-18",
+      "time": "10:45",
+      "home_team": "Keyworth United Black U12",
+      "away_team": "Blidworth Bengals Black U12",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sat Spring Div 5 Blue",
+      "home_away": "home",
+      "opponent": "Blidworth Bengals Black U12",
+      "goals_for": 4,
+      "goals_against": 3
+    },
     {
       "id": "6d9d7ee640bd2ffe1bb1256a1a1a416d",
       "date": "2026-03-28",

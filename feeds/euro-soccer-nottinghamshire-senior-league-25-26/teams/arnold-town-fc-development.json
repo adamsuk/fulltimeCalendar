@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town FC Development",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "2f37df879c39f2bc564f59d8b1fcf1c4",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Quorn FC Methodists",
-      "away_team": "Arnold Town FC Development",
-      "venue": "FARLEY WAY STADIUM",
-      "division": "Development Spring Division One",
-      "home_away": "away",
-      "opponent": "Quorn FC Methodists"
-    },
     {
       "id": "bf50d56f342b53036d067788f4d3778b",
       "date": "2026-04-23",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2f37df879c39f2bc564f59d8b1fcf1c4",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Quorn FC Methodists",
+      "away_team": "Arnold Town FC Development",
+      "home_score": 22,
+      "away_score": 0,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "away",
+      "opponent": "Quorn FC Methodists",
+      "goals_for": 0,
+      "goals_against": 22
+    },
     {
       "id": "5c0279a3b66a610ef3e21b93c27ca934",
       "date": "2026-04-04",

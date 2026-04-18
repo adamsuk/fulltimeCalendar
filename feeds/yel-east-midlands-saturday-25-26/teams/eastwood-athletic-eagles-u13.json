@@ -1,19 +1,8 @@
 {
   "team": "Eastwood Athletic Eagles U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "d8f095c886834fcd6d48b8247feaf1bd",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Mickleover Country Park U13",
-      "away_team": "Eastwood Athletic Eagles U13",
-      "venue": "Mickleover Country Park DE3 0UJ",
-      "division": "U13 Sat Spring Div 4 Blue",
-      "home_away": "away",
-      "opponent": "Mickleover Country Park U13"
-    },
     {
       "id": "d19c3d09caf79492602051fb70b805ee",
       "date": "2026-04-21",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d8f095c886834fcd6d48b8247feaf1bd",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Mickleover Country Park U13",
+      "away_team": "Eastwood Athletic Eagles U13",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sat Spring Div 4 Blue",
+      "home_away": "away",
+      "opponent": "Mickleover Country Park U13",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "1258b4027126b5d290b7ec97a54d4018",
       "date": "2026-04-11",

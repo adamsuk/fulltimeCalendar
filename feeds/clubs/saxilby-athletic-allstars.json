@@ -1,20 +1,7 @@
 {
   "club": "Saxilby Athletic Allstars",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "2477109998eb7f7b188f46351c9fb1fc",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Saxilby Athletic Allstars U13",
-      "away_team": "PFA U13",
-      "venue": "William Street LN1 2LP",
-      "division": "U13 Sat Spring Div 5 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Saxilby Athletic Allstars U13",
-      "home_away": "home",
-      "opponent": "PFA U13"
-    },
     {
       "id": "d22af38b44292bc9a6ce36618145912f",
       "date": "2026-04-25",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "2477109998eb7f7b188f46351c9fb1fc",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Saxilby Athletic Allstars U13",
+      "away_team": "PFA U13",
+      "home_score": 5,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sat Spring Div 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Saxilby Athletic Allstars U13",
+      "home_away": "home",
+      "opponent": "PFA U13",
+      "goals_for": 5,
+      "goals_against": 4
+    },
     {
       "id": "688b3c1bf070fb3dc03b295c772b492c",
       "date": "2026-03-21",

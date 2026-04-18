@@ -1,33 +1,7 @@
 {
   "club": "Notts County",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "967f730f935249b0110318c9855d66fa",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Grantham Town U12",
-      "away_team": "Notts County Women U12 ^",
-      "venue": "GRANTHAM MERES LEISURE CENTRE NG31 7XQ",
-      "division": "U12 Sat Spring Div 5 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Notts County Women U12 ^",
-      "home_away": "away",
-      "opponent": "Grantham Town U12"
-    },
-    {
-      "id": "3f378ca56b6614c5ac38e36ca75621ae",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Notts County Women U9 ^",
-      "away_team": "Quarrydale United U9",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U9 Sat Spring Div 8 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Notts County Women U9 ^",
-      "home_away": "home",
-      "opponent": "Quarrydale United U9"
-    },
     {
       "id": "bbcbd76d9b7b105925457f22d85541b8",
       "date": "2026-04-19",
@@ -251,6 +225,40 @@
     }
   ],
   "results": [
+    {
+      "id": "967f730f935249b0110318c9855d66fa",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Grantham Town U12",
+      "away_team": "Notts County Women U12 ^",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sat Spring Div 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Notts County Women U12 ^",
+      "home_away": "away",
+      "opponent": "Grantham Town U12",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "3f378ca56b6614c5ac38e36ca75621ae",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Notts County Women U9 ^",
+      "away_team": "Quarrydale United U9",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat Spring Div 8 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Notts County Women U9 ^",
+      "home_away": "home",
+      "opponent": "Quarrydale United U9",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "da9a0c7461fdc1f1b5ef09ef198e02ed",
       "date": "2026-04-18",

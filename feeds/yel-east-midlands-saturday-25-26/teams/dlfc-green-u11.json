@@ -1,19 +1,8 @@
 {
   "team": "DLFC Green U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "242ea5a6fd4658540d581789551e2a3e",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "DLFC Orange U11",
-      "away_team": "DLFC Green U11",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U11 Sat YEL Foundation Shield",
-      "home_away": "away",
-      "opponent": "DLFC Orange U11"
-    },
     {
       "id": "a90eb19de0addefffb24b2f6f426c608",
       "date": "2026-04-21",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "242ea5a6fd4658540d581789551e2a3e",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "DLFC Orange U11",
+      "away_team": "DLFC Green U11",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat YEL Foundation Shield",
+      "home_away": "away",
+      "opponent": "DLFC Orange U11",
+      "goals_for": 3,
+      "goals_against": 5
+    },
     {
       "id": "50c9da7c1735f60b77a4197863da6fde",
       "date": "2026-04-14",

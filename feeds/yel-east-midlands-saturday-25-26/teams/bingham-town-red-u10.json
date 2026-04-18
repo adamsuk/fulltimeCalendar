@@ -1,19 +1,8 @@
 {
   "team": "Bingham Town Red U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "ae5c0f0c4d64a5b9477d4f3a559dcf78",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Bingham Town Red U10",
-      "away_team": "Newark Town Cavaliers U10",
-      "venue": "Butt Field NG13 8GG",
-      "division": "U10 Sat Spring Div 8 Red",
-      "home_away": "home",
-      "opponent": "Newark Town Cavaliers U10"
-    },
     {
       "id": "14943268f6f8efa0d77d7408e2efba29",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ae5c0f0c4d64a5b9477d4f3a559dcf78",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Bingham Town Red U10",
+      "away_team": "Newark Town Cavaliers U10",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U10 Sat Spring Div 8 Red",
+      "home_away": "home",
+      "opponent": "Newark Town Cavaliers U10",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "7333d1bc98cbf9b93270ab0f50250469",
       "date": "2026-03-28",

@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Atletico U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "170e1a7da19981472a5b4027f7e87fc2",
-      "date": "2026-04-18",
-      "time": "11:30",
-      "home_team": "WBYFC Atletico U10",
-      "away_team": "Clifton All Whites Blue U10",
-      "venue": "Gresham Park  NG2 7YF",
-      "division": "U10 Sat Spring Div 7 Green",
-      "home_away": "home",
-      "opponent": "Clifton All Whites Blue U10"
-    },
     {
       "id": "7ed3c3575e29318ef9580ed62572e4e0",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "170e1a7da19981472a5b4027f7e87fc2",
+      "date": "2026-04-18",
+      "time": "11:30",
+      "home_team": "WBYFC Atletico U10",
+      "away_team": "Clifton All Whites Blue U10",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 7 Green",
+      "home_away": "home",
+      "opponent": "Clifton All Whites Blue U10",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "3831169d3d2a34abdac94163909ad254",
       "date": "2026-03-21",

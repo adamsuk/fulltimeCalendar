@@ -1,6 +1,6 @@
 {
   "club": "Calverton Miners",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
     {
       "id": "aeff0b7aaa3e07f584218c506c17dfdd",
@@ -27,45 +27,6 @@
       "team": "Calverton Miners Welfare FC",
       "home_away": "home",
       "opponent": "Keyworth United FC First"
-    },
-    {
-      "id": "e6e1c0158cebd7facaef33ad578ee6ba",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Calverton Miners Welfare U10",
-      "away_team": "Southwell City Ultras U10",
-      "venue": "Kinton Park NG14 6NR",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Calverton Miners Welfare U10",
-      "home_away": "home",
-      "opponent": "Southwell City Ultras U10"
-    },
-    {
-      "id": "76c75c7dd4baa82816f6193d45f82f6a",
-      "date": "2026-04-18",
-      "time": "10:30",
-      "home_team": "Bingham Town F.C. Development",
-      "away_team": "Calverton Miners Welfare U23",
-      "venue": "Butt Field",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Calverton Miners Welfare U23",
-      "home_away": "away",
-      "opponent": "Bingham Town F.C. Development"
-    },
-    {
-      "id": "41de8027ccc770ac55dc0d1ccfc314de",
-      "date": "2026-04-18",
-      "time": "11:40",
-      "home_team": "Calverton Miners Welfare U23",
-      "away_team": "Bingham Town F.C. Development",
-      "venue": "Butt Field",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Calverton Miners Welfare U23",
-      "home_away": "home",
-      "opponent": "Bingham Town F.C. Development"
     },
     {
       "id": "6a14427a124f3f185080a5f3526389a9",
@@ -303,6 +264,57 @@
     }
   ],
   "results": [
+    {
+      "id": "41de8027ccc770ac55dc0d1ccfc314de",
+      "date": "2026-04-18",
+      "time": "11:40",
+      "home_team": "Calverton Miners Welfare U23",
+      "away_team": "Bingham Town F.C. Development",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Calverton Miners Welfare U23",
+      "home_away": "home",
+      "opponent": "Bingham Town F.C. Development",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
+      "id": "76c75c7dd4baa82816f6193d45f82f6a",
+      "date": "2026-04-18",
+      "time": "10:30",
+      "home_team": "Bingham Town F.C. Development",
+      "away_team": "Calverton Miners Welfare U23",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Calverton Miners Welfare U23",
+      "home_away": "away",
+      "opponent": "Bingham Town F.C. Development",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
+      "id": "e6e1c0158cebd7facaef33ad578ee6ba",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Calverton Miners Welfare U10",
+      "away_team": "Southwell City Ultras U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Calverton Miners Welfare U10",
+      "home_away": "home",
+      "opponent": "Southwell City Ultras U10",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "e0a6679a87931cefe193ba5fdd56837e",
       "date": "2026-04-15",

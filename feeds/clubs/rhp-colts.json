@@ -1,33 +1,7 @@
 {
   "club": "RHP Colts",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "31be4fc80400517d0163ccb07752ad9e",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Bottesford Yellow U12",
-      "away_team": "RHP Colts Green U12",
-      "venue": "Nottingham Rd, Bottesford  NG13 0AP",
-      "division": "U12 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "RHP Colts Green U12",
-      "home_away": "away",
-      "opponent": "Bottesford Yellow U12"
-    },
-    {
-      "id": "614e2a5652b36853c362d3f503e13515",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "RHP Colts Green U14",
-      "away_team": "Bingham Town Blue U14",
-      "venue": "Newark Leisure Centre NG24 4DH",
-      "division": "U14 Sat Spring Div 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "RHP Colts Green U14",
-      "home_away": "home",
-      "opponent": "Bingham Town Blue U14"
-    },
     {
       "id": "ea577086f5399bf699baafb32a26f5d4",
       "date": "2026-04-18",
@@ -148,6 +122,40 @@
   ],
   "results": [
     {
+      "id": "31be4fc80400517d0163ccb07752ad9e",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Bottesford Yellow U12",
+      "away_team": "RHP Colts Green U12",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "RHP Colts Green U12",
+      "home_away": "away",
+      "opponent": "Bottesford Yellow U12",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
+      "id": "614e2a5652b36853c362d3f503e13515",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "RHP Colts Green U14",
+      "away_team": "Bingham Town Blue U14",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sat Spring Div 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "RHP Colts Green U14",
+      "home_away": "home",
+      "opponent": "Bingham Town Blue U14",
+      "goals_for": 3,
+      "goals_against": 4
+    },
+    {
       "id": "3b44192e94d3272a94cf445ede7c5a99",
       "date": "2026-04-18",
       "time": "10:00",
@@ -170,7 +178,7 @@
       "time": "10:00",
       "home_team": "Hucknall Sports Red U14",
       "away_team": "RHP Colts White U14",
-      "home_score": 1,
+      "home_score": 0,
       "away_score": 2,
       "venue": "",
       "division": "U14 Sat YEL Shield",
@@ -179,7 +187,7 @@
       "home_away": "away",
       "opponent": "Hucknall Sports Red U14",
       "goals_for": 2,
-      "goals_against": 1
+      "goals_against": 0
     },
     {
       "id": "1641a19357c7522e60cce648725aabcf",

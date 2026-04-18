@@ -7,21 +7,21 @@ X-WR-CALNAME:Shirebrook Rangers U11
 X-WR-CALDESC:Fixtures for Shirebrook Rangers U11 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:b732e808d61a54abaf897a8329d97d2a@yel-calendar
-DTSTAMP:20260418T101153Z
-DTSTART;TZID=Europe/London:20260418T100000
-DTEND;TZID=Europe/London:20260418T110000
-SUMMARY:⚽ Shirebrook Rangers U11 vs Nottingham FC Emeralds U11 (Home)
-DESCRIPTION:Division: U11 Sat YEL Inter Cup\nShirebrook Rangers U11 v Nottingham FC Emeralds U11\nKO: 10:00
-LOCATION:Shirebrook Academy  NG20 8QF
-END:VEVENT
-BEGIN:VEVENT
 UID:15222fad3bebb2051b73232a2725fde4@yel-calendar
-DTSTAMP:20260418T101153Z
+DTSTAMP:20260418T130049Z
 DTSTART;TZID=Europe/London:20260425T110000
 DTEND;TZID=Europe/London:20260425T120000
 SUMMARY:⚽ Shirebrook Rangers U11 vs Nottingham FC Emeralds U11 (Away)
 DESCRIPTION:Division: U11 Saturday\nNottingham FC Emeralds U11 v Shirebrook Rangers U11\nKO: 11:00
 LOCATION:Melbourne Park NG8 5HL
+END:VEVENT
+BEGIN:VEVENT
+UID:89c451755a3c7c83568be2ea56402933@yel-calendar
+DTSTAMP:20260418T130049Z
+DTSTART;TZID=Europe/London:20260425T110000
+DTEND;TZID=Europe/London:20260425T120000
+SUMMARY:⚽ Shirebrook Rangers U11 vs Newark Brazil Santos U11 (Home)
+DESCRIPTION:Division: U11 Sat YEL Inter Cup\nShirebrook Rangers U11 v Newark Brazil Santos U11\nKO: 11:00
+LOCATION:Shirebrook Academy  NG20 8QF
 END:VEVENT
 END:VCALENDAR

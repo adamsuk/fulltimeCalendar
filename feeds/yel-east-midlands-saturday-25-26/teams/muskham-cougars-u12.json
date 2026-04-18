@@ -1,19 +1,8 @@
 {
   "team": "Muskham Cougars U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "a2eb9b69dd64a4cd8ef038a03f71591f",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Muskham Cougars U12",
-      "away_team": "WBYFC Thunderbolts U12",
-      "venue": "Beckitts Field NG23 6BZ",
-      "division": "U12 Sat Spring Div 8",
-      "home_away": "home",
-      "opponent": "WBYFC Thunderbolts U12"
-    },
     {
       "id": "b2f2d826ec977687b04b1a0ee3b8d87d",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a2eb9b69dd64a4cd8ef038a03f71591f",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Muskham Cougars U12",
+      "away_team": "WBYFC Thunderbolts U12",
+      "home_score": 3,
+      "away_score": 6,
+      "venue": "",
+      "division": "U12 Sat Spring Div 8",
+      "home_away": "home",
+      "opponent": "WBYFC Thunderbolts U12",
+      "goals_for": 3,
+      "goals_against": 6
+    },
     {
       "id": "3669c2202d75614e9965fe491aa7b159",
       "date": "2026-03-21",

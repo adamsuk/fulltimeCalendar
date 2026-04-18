@@ -1,19 +1,8 @@
 {
   "team": "Wollaton H & B Dragons U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "ddb6b5b814d1c3dd9792aa451a4e1164",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "PMG Engage U11",
-      "away_team": "Wollaton H & B Dragons U11",
-      "venue": "Bulwell Hall Park NG6 8LF",
-      "division": "U11 Sat Spring Div 5 Blue",
-      "home_away": "away",
-      "opponent": "PMG Engage U11"
-    },
     {
       "id": "af7cc949f93cd280a38f507d20fe9498",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ddb6b5b814d1c3dd9792aa451a4e1164",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "PMG Engage U11",
+      "away_team": "Wollaton H & B Dragons U11",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 5 Blue",
+      "home_away": "away",
+      "opponent": "PMG Engage U11",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "57e6ebd8805e257ab246ec96f3d8931d",
       "date": "2026-04-14",

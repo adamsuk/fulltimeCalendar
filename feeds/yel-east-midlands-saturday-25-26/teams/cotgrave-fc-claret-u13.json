@@ -1,19 +1,8 @@
 {
   "team": "Cotgrave FC Claret U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "8f48b85e6f2039afa19f8871aef19bc2",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Priory Celtic Green U13",
-      "away_team": "Cotgrave FC Claret U13",
-      "venue": "Kimberley Leisure Centre NG16 2NJ GP1",
-      "division": "U13 Saturday",
-      "home_away": "away",
-      "opponent": "Priory Celtic Green U13"
-    },
     {
       "id": "2a4f5d14b09d3a8e6d7d101b808bbee7",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8f48b85e6f2039afa19f8871aef19bc2",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Priory Celtic Green U13",
+      "away_team": "Cotgrave FC Claret U13",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Saturday",
+      "home_away": "away",
+      "opponent": "Priory Celtic Green U13",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "0cdaaaa8fbfca06584d7a4aede4dadd3",
       "date": "2026-03-21",

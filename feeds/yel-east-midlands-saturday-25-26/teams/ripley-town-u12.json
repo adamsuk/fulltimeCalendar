@@ -1,19 +1,8 @@
 {
   "team": "Ripley Town U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "fdf04379d97fd18ad720e2cbe9685c20",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Ripley Town U12",
-      "away_team": "Sandiacre Town Scorpions U12",
-      "venue": "Greenwich Park DE5 3AY",
-      "division": "U12 Saturday",
-      "home_away": "home",
-      "opponent": "Sandiacre Town Scorpions U12"
-    },
     {
       "id": "c45d23482b4a5b5055f78d7c88068cab",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "fdf04379d97fd18ad720e2cbe9685c20",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Ripley Town U12",
+      "away_team": "Sandiacre Town Scorpions U12",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "",
+      "division": "U12 Saturday",
+      "home_away": "home",
+      "opponent": "Sandiacre Town Scorpions U12",
+      "goals_for": 2,
+      "goals_against": 6
+    },
     {
       "id": "b43b6f0a8286f528aa78c55c3b9ac898",
       "date": "2026-03-21",

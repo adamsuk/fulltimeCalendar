@@ -1,19 +1,8 @@
 {
   "team": "DJFC U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "ce44795cf93bc72b1fff2806ada6b976",
-      "date": "2026-04-18",
-      "time": "11:15",
-      "home_team": "Sandiacre Town Spartans U12",
-      "away_team": "DJFC U12",
-      "venue": "Friesland School NG10 5AF",
-      "division": "U12 Sat YEL Challenge Trophy",
-      "home_away": "away",
-      "opponent": "Sandiacre Town Spartans U12"
-    },
     {
       "id": "a65ebfee9b71e04af1b92e08df6dfb94",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ce44795cf93bc72b1fff2806ada6b976",
+      "date": "2026-04-18",
+      "time": "11:15",
+      "home_team": "Sandiacre Town Spartans U12",
+      "away_team": "DJFC U12",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat YEL Challenge Trophy",
+      "home_away": "away",
+      "opponent": "Sandiacre Town Spartans U12",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "0a3fcadf3607e70fd2b1f91d5af3e9df",
       "date": "2026-03-21",

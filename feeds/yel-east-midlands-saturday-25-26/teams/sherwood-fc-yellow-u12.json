@@ -1,19 +1,8 @@
 {
   "team": "Sherwood FC Yellow U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "68703bcff415d383d2c43a83b1b2cfda",
-      "date": "2026-04-18",
-      "time": "10:30",
-      "home_team": "Sherwood FC Yellow U12",
-      "away_team": "Collingham FC Cougars U12",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U12 Sat Spring Div 5 Blue",
-      "home_away": "home",
-      "opponent": "Collingham FC Cougars U12"
-    },
     {
       "id": "2551d93ff8af299ae18d2dcf8b14809f",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "68703bcff415d383d2c43a83b1b2cfda",
+      "date": "2026-04-18",
+      "time": "10:30",
+      "home_team": "Sherwood FC Yellow U12",
+      "away_team": "Collingham FC Cougars U12",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U12 Sat Spring Div 5 Blue",
+      "home_away": "home",
+      "opponent": "Collingham FC Cougars U12",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "962576ab225ad7cf2a4a1c987cad9e3c",
       "date": "2026-03-28",

@@ -1,20 +1,7 @@
 {
   "club": "Marlborough Rovers",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "da11d0f82fbc919bb7a58aafd1d8c4ba",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Marlborough Rovers U14",
-      "away_team": "Somersall Rangers Thunder U14",
-      "venue": "Measham Road Recreation Ground DE12 6AA",
-      "division": "U14 Sat Spring Premier Division",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Marlborough Rovers U14",
-      "home_away": "home",
-      "opponent": "Somersall Rangers Thunder U14"
-    },
     {
       "id": "59b864a73d2f9c88616645721a700a9f",
       "date": "2026-04-25",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "da11d0f82fbc919bb7a58aafd1d8c4ba",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Marlborough Rovers U14",
+      "away_team": "Somersall Rangers Thunder U14",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Marlborough Rovers U14",
+      "home_away": "home",
+      "opponent": "Somersall Rangers Thunder U14",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "6e2ac7e2668eec1d76e16a90e1b985a8",
       "date": "2026-04-14",

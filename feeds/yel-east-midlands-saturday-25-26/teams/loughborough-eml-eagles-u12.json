@@ -1,19 +1,8 @@
 {
   "team": "Loughborough Eml Eagles U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "6a125ec240f0ae5e40133141e72e08f4",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Keyworth United Lightning U12",
-      "away_team": "Loughborough Eml Eagles U12",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U12 Sat YEL Foundation Shield",
-      "home_away": "away",
-      "opponent": "Keyworth United Lightning U12"
-    },
     {
       "id": "c8cb47562e4a649d0b8afc062101e719",
       "date": "2026-04-21",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6a125ec240f0ae5e40133141e72e08f4",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Keyworth United Lightning U12",
+      "away_team": "Loughborough Eml Eagles U12",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat YEL Foundation Shield",
+      "home_away": "away",
+      "opponent": "Keyworth United Lightning U12",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "f29ab0062835c9df3cbb55003f1b9567",
       "date": "2026-03-21",

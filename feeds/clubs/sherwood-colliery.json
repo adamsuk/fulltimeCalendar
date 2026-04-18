@@ -1,6 +1,6 @@
 {
   "club": "Sherwood Colliery",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
     {
       "id": "ea8e3fe0f97307f5ab0e8fd13eb5b878",
@@ -16,19 +16,6 @@
       "opponent": "Southwell City FC U11 Girls"
     },
     {
-      "id": "d1265e59daea39068b13dccbe0f164a8",
-      "date": "2026-04-18",
-      "time": "09:45",
-      "home_team": "Sherwood Colliery Black U9",
-      "away_team": "Manor FC U9",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U9 Sat Spring Div 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sherwood Colliery Black U9",
-      "home_away": "home",
-      "opponent": "Manor FC U9"
-    },
-    {
       "id": "af2d04ca7acdb51df2f37738e8094ffe",
       "date": "2026-04-18",
       "time": "10:00",
@@ -42,19 +29,6 @@
       "opponent": "Ilkeston Town United U8"
     },
     {
-      "id": "410c44d2f179cfb68db960b1e1f64034",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Sherwood Colliery Red U9",
-      "away_team": "Club FDNA Barca U9",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U9 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sherwood Colliery Red U9",
-      "home_away": "home",
-      "opponent": "Club FDNA Barca U9"
-    },
-    {
       "id": "f001ba1dde0b479223457fdd232971a0",
       "date": "2026-04-18",
       "time": "10:00",
@@ -66,45 +40,6 @@
       "team": "Sherwood Colliery U7",
       "home_away": "away",
       "opponent": "Manor FC Red U7"
-    },
-    {
-      "id": "6e5ed7a23c04182e0483997bf00ae6b0",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Sherwood Colliery Lions U12",
-      "away_team": "Hilton Harriers Fire U12",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U12 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sherwood Colliery Lions U12",
-      "home_away": "home",
-      "opponent": "Hilton Harriers Fire U12"
-    },
-    {
-      "id": "4fcbb0f5c5b4611f6be8767fcb16617b",
-      "date": "2026-04-18",
-      "time": "11:15",
-      "home_team": "Sherwood Colliery U11",
-      "away_team": "Notts Olympic FC U11",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U11 Sat Spring Div 1",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sherwood Colliery U11",
-      "home_away": "home",
-      "opponent": "Notts Olympic FC U11"
-    },
-    {
-      "id": "a98ef4ec3eebba2d1de2fe76a69338f3",
-      "date": "2026-04-18",
-      "time": "11:30",
-      "home_team": "Sporting Markfield U10",
-      "away_team": "Sherwood Colliery Outlaws U10",
-      "venue": "South Charnwood High School LE67 9TB",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sherwood Colliery Outlaws U10",
-      "home_away": "away",
-      "opponent": "Sporting Markfield U10"
     },
     {
       "id": "5e8c3cdc50278d978ad41fa412592b0c",
@@ -733,6 +668,74 @@
   ],
   "results": [
     {
+      "id": "a98ef4ec3eebba2d1de2fe76a69338f3",
+      "date": "2026-04-18",
+      "time": "11:30",
+      "home_team": "Sporting Markfield U10",
+      "away_team": "Sherwood Colliery Outlaws U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "away",
+      "opponent": "Sporting Markfield U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "4fcbb0f5c5b4611f6be8767fcb16617b",
+      "date": "2026-04-18",
+      "time": "11:15",
+      "home_team": "Sherwood Colliery U11",
+      "away_team": "Notts Olympic FC U11",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery U11",
+      "home_away": "home",
+      "opponent": "Notts Olympic FC U11",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
+      "id": "6e5ed7a23c04182e0483997bf00ae6b0",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Sherwood Colliery Lions U12",
+      "away_team": "Hilton Harriers Fire U12",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Lions U12",
+      "home_away": "home",
+      "opponent": "Hilton Harriers Fire U12",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
+      "id": "410c44d2f179cfb68db960b1e1f64034",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Sherwood Colliery Red U9",
+      "away_team": "Club FDNA Barca U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Red U9",
+      "home_away": "home",
+      "opponent": "Club FDNA Barca U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "20cc00e76666abe0caeff58007f5c395",
       "date": "2026-04-18",
       "time": "10:00",
@@ -748,6 +751,23 @@
       "opponent": "Woodhouse Colts Red U10",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "d1265e59daea39068b13dccbe0f164a8",
+      "date": "2026-04-18",
+      "time": "09:45",
+      "home_team": "Sherwood Colliery Black U9",
+      "away_team": "Manor FC U9",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Black U9",
+      "home_away": "home",
+      "opponent": "Manor FC U9",
+      "goals_for": 4,
+      "goals_against": 3
     },
     {
       "id": "c7d6f24c9cc04104971619afc644aaa1",

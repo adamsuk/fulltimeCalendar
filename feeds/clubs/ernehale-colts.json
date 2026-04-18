@@ -1,20 +1,7 @@
 {
   "club": "Ernehale Colts",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "418f41d0537e95d314d6aeaf3416c343",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Ernehale Colts U11",
-      "away_team": "Newark Town Cavaliers U11",
-      "venue": "King George V Park NG5 6TD",
-      "division": "U11 Sat Spring Div 7 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ernehale Colts U11",
-      "home_away": "home",
-      "opponent": "Newark Town Cavaliers U11"
-    },
     {
       "id": "de1e604ea34d2eb9e41bdb9cc703972d",
       "date": "2026-04-19",
@@ -173,6 +160,23 @@
     }
   ],
   "results": [
+    {
+      "id": "418f41d0537e95d314d6aeaf3416c343",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Ernehale Colts U11",
+      "away_team": "Newark Town Cavaliers U11",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 7 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ernehale Colts U11",
+      "home_away": "home",
+      "opponent": "Newark Town Cavaliers U11",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "f0e8e2752783f5ea26f0aec601e331a0",
       "date": "2026-04-15",

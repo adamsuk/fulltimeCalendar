@@ -1,19 +1,8 @@
 {
   "team": "Lowdham FC Black U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "0e1b772747c364542d074c8ae0980ebf",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "Keyworth United Red U11",
-      "away_team": "Lowdham FC Black U11",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U11 Sat Spring Div 7 Blue",
-      "home_away": "away",
-      "opponent": "Keyworth United Red U11"
-    },
     {
       "id": "d0bbece313e9031e8a09d499c67f6c58",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0e1b772747c364542d074c8ae0980ebf",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Keyworth United Red U11",
+      "away_team": "Lowdham FC Black U11",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat Spring Div 7 Blue",
+      "home_away": "away",
+      "opponent": "Keyworth United Red U11",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "d5d0f56a62855c4f9b40e3756f5f0221",
       "date": "2026-03-21",

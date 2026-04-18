@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town Blue U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "81cff1acdfe9f8b290ccb1df051b4d53",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Arnold Town Blue U12",
-      "away_team": "Silva FC Rushcliffe U12",
-      "venue": "Eagle Valley NG5 8PS",
-      "division": "U12 Saturday",
-      "home_away": "home",
-      "opponent": "Silva FC Rushcliffe U12"
-    },
     {
       "id": "19234839685dbb40c0ab54784f535f4d",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "81cff1acdfe9f8b290ccb1df051b4d53",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Arnold Town Blue U12",
+      "away_team": "Silva FC Rushcliffe U12",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Saturday",
+      "home_away": "home",
+      "opponent": "Silva FC Rushcliffe U12",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "baa2c45e51ffb7cca5a21ab6a193b28c",
       "date": "2026-03-21",

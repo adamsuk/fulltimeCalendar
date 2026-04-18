@@ -1,19 +1,8 @@
 {
   "team": "Heanor Juniors Ultras U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "a2c1e3fa533223d2bc92b353d9ffc0fc",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "WBYFC Tecnica U12",
-      "away_team": "Heanor Juniors Ultras U12",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U12 Sat Spring Premier Division",
-      "home_away": "away",
-      "opponent": "WBYFC Tecnica U12"
-    },
     {
       "id": "0235d7be27d70c53dbc45e6ba805cb3c",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a2c1e3fa533223d2bc92b353d9ffc0fc",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "WBYFC Tecnica U12",
+      "away_team": "Heanor Juniors Ultras U12",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sat Spring Premier Division",
+      "home_away": "away",
+      "opponent": "WBYFC Tecnica U12",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "81dcb476423bf8e7fdf233f67098dddb",
       "date": "2026-03-28",

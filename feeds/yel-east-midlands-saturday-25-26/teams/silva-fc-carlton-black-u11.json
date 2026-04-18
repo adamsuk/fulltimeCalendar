@@ -1,19 +1,8 @@
 {
   "team": "Silva FC Carlton Black U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "c9699b0082440a0126f24a02429fb007",
-      "date": "2026-04-18",
-      "time": "09:45",
-      "home_team": "Silva FC Carlton Black U11",
-      "away_team": "Quarrydale United U11",
-      "venue": "Carlton Forum NG4 3SH",
-      "division": "U11 Sat Spring Div 4 Red",
-      "home_away": "home",
-      "opponent": "Quarrydale United U11"
-    },
     {
       "id": "a3e6d00b09b1aab04c8a4225bdd94d7a",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c9699b0082440a0126f24a02429fb007",
+      "date": "2026-04-18",
+      "time": "09:45",
+      "home_team": "Silva FC Carlton Black U11",
+      "away_team": "Quarrydale United U11",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 4 Red",
+      "home_away": "home",
+      "opponent": "Quarrydale United U11",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "378cb2cd69560fdb9e3d456864e67db9",
       "date": "2026-04-14",

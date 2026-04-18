@@ -1,19 +1,8 @@
 {
   "team": "Ravenshead FC U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "c7b5334fb962cd30e68283858cb11ff3",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Ravenshead FC U10",
-      "away_team": "Hucknall Town Warriors U10",
-      "venue": "Ravenshead Leisure Centre NG15 9AG",
-      "division": "U10 Sat Spring Div 5 Red",
-      "home_away": "home",
-      "opponent": "Hucknall Town Warriors U10"
-    },
     {
       "id": "5cdc3d126b4fe0fe48236fe97bcde681",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c7b5334fb962cd30e68283858cb11ff3",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Ravenshead FC U10",
+      "away_team": "Hucknall Town Warriors U10",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "U10 Sat Spring Div 5 Red",
+      "home_away": "home",
+      "opponent": "Hucknall Town Warriors U10",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "26a40080e7d949fce3227ff2a19241cd",
       "date": "2026-03-28",

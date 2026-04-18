@@ -1,19 +1,8 @@
 {
   "team": "Grantham Town U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "967f730f935249b0110318c9855d66fa",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Grantham Town U12",
-      "away_team": "Notts County Women U12 ^",
-      "venue": "GRANTHAM MERES LEISURE CENTRE NG31 7XQ",
-      "division": "U12 Sat Spring Div 5 Blue",
-      "home_away": "home",
-      "opponent": "Notts County Women U12 ^"
-    },
     {
       "id": "c50e1e9e3b91a899adad7e29751b0d37",
       "date": "2026-04-25",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "967f730f935249b0110318c9855d66fa",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Grantham Town U12",
+      "away_team": "Notts County Women U12 ^",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sat Spring Div 5 Blue",
+      "home_away": "home",
+      "opponent": "Notts County Women U12 ^",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "e7207cb12e61e70492a482e297af4060",
       "date": "2026-03-14",

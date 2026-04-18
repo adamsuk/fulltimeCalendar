@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town Blue U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "7c2dd82232f979a7fc906616ebd126e9",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Sports Gateway Lions U13",
-      "away_team": "Arnold Town Blue U13",
-      "venue": "Papplewick Green NG15 8HZ",
-      "division": "U13 Sat Spring Div 6 Red",
-      "home_away": "away",
-      "opponent": "Sports Gateway Lions U13"
-    },
     {
       "id": "ac04913793ee8e9db8673eab3df99ff6",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7c2dd82232f979a7fc906616ebd126e9",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Sports Gateway Lions U13",
+      "away_team": "Arnold Town Blue U13",
+      "home_score": 0,
+      "away_score": 11,
+      "venue": "",
+      "division": "U13 Sat Spring Div 6 Red",
+      "home_away": "away",
+      "opponent": "Sports Gateway Lions U13",
+      "goals_for": 11,
+      "goals_against": 0
+    },
     {
       "id": "a51b3eb25d2b9aec677d0e58760b26a9",
       "date": "2026-04-14",

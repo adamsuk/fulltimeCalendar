@@ -1,19 +1,8 @@
 {
   "team": "Club FDNA Barca U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "410c44d2f179cfb68db960b1e1f64034",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Sherwood Colliery Red U9",
-      "away_team": "Club FDNA Barca U9",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U9 Saturday",
-      "home_away": "away",
-      "opponent": "Sherwood Colliery Red U9"
-    },
     {
       "id": "7d9db2c8bd33ae816d74dbdb4692e23a",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "410c44d2f179cfb68db960b1e1f64034",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Sherwood Colliery Red U9",
+      "away_team": "Club FDNA Barca U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Saturday",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery Red U9",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "146ca0ffe43305dc7e561017fd7b2884",
       "date": "2026-03-28",

@@ -1,19 +1,8 @@
 {
   "team": "Winthorpe & Cod T Black U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "c70d75a439270a0d346198f06bd5960a",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Winthorpe & Cod T Black U12",
-      "away_team": "Calverton MW Blue U12",
-      "venue": "Stapleford Lane NG24 2QZ",
-      "division": "U12 Sat Spring Div 2 Red",
-      "home_away": "home",
-      "opponent": "Calverton MW Blue U12"
-    },
     {
       "id": "011976de673ed7e92ad7c11f98e9f6ca",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c70d75a439270a0d346198f06bd5960a",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Winthorpe & Cod T Black U12",
+      "away_team": "Calverton MW Blue U12",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U12 Sat Spring Div 2 Red",
+      "home_away": "home",
+      "opponent": "Calverton MW Blue U12",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "4cdfcbdb758b4ec591fe6e6194c9c144",
       "date": "2026-03-21",

@@ -1,20 +1,7 @@
 {
   "club": "Annesley AFC",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "d707c2e527152b122c5639bf65fc2529",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Annesley AFC U13",
-      "away_team": "Breaston Park White U13",
-      "venue": "Titchfield Park  NG15 7LU",
-      "division": "U13 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Annesley AFC U13",
-      "home_away": "home",
-      "opponent": "Breaston Park White U13"
-    },
     {
       "id": "780660cfd7651a90d2c7c4fcb4779295",
       "date": "2026-04-19",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "d707c2e527152b122c5639bf65fc2529",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Annesley AFC U13",
+      "away_team": "Breaston Park White U13",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Annesley AFC U13",
+      "home_away": "home",
+      "opponent": "Breaston Park White U13",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "28cc7f7b8e974def8b9cc3fb98a9b45a",
       "date": "2026-04-14",

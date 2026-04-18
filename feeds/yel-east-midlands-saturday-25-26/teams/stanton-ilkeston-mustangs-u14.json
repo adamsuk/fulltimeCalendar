@@ -1,19 +1,8 @@
 {
   "team": "Stanton Ilkeston Mustangs U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "6df583849f981de6175799fa758a7969",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Nottingham FC U14",
-      "away_team": "Stanton Ilkeston Mustangs U14",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U14 Sat Spring Div 4 Blue",
-      "home_away": "away",
-      "opponent": "Nottingham FC U14"
-    },
     {
       "id": "48fa9a46716eaefe8de2cc42843f72b0",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6df583849f981de6175799fa758a7969",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Nottingham FC U14",
+      "away_team": "Stanton Ilkeston Mustangs U14",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sat Spring Div 4 Blue",
+      "home_away": "away",
+      "opponent": "Nottingham FC U14",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "12bf819358ae108e8cea19b5ce2478b5",
       "date": "2026-04-14",

@@ -1,19 +1,8 @@
 {
   "team": "Blidworth Bengals Black U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "d961c0e0288ac176b506680e171e1680",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Blidworth Bengals Black U14",
-      "away_team": "Collingham FC Lions U14",
-      "venue": "Unwin Road  NG17 4HT",
-      "division": "u14 Sat Spring Div 1 Silver",
-      "home_away": "home",
-      "opponent": "Collingham FC Lions U14"
-    },
     {
       "id": "45a3aa166292c4711a6a730f42fcac80",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d961c0e0288ac176b506680e171e1680",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Blidworth Bengals Black U14",
+      "away_team": "Collingham FC Lions U14",
+      "home_score": 0,
+      "away_score": 6,
+      "venue": "",
+      "division": "u14 Sat Spring Div 1 Silver",
+      "home_away": "home",
+      "opponent": "Collingham FC Lions U14",
+      "goals_for": 0,
+      "goals_against": 6
+    },
     {
       "id": "beb94638b23efe064d5e264f595fb933",
       "date": "2026-03-28",

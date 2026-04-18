@@ -1,20 +1,7 @@
 {
   "club": "AFC Market Bosworth",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "a4c3c6131049ab8554a56fa671aa88e7",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "AFC Market Bosworth U14",
-      "away_team": "Sandiacre Town Rockets U14",
-      "venue": "ALANS WAY SPORTS FIELD LE9 9LB",
-      "division": "u14 Sat Spring Div 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "AFC Market Bosworth U14",
-      "home_away": "home",
-      "opponent": "Sandiacre Town Rockets U14"
-    },
     {
       "id": "ba56c4248dc0b42f7270d19b7d29b0ff",
       "date": "2026-04-25",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "a4c3c6131049ab8554a56fa671aa88e7",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "AFC Market Bosworth U14",
+      "away_team": "Sandiacre Town Rockets U14",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "u14 Sat Spring Div 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "AFC Market Bosworth U14",
+      "home_away": "home",
+      "opponent": "Sandiacre Town Rockets U14",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "c1e4886bc07a23d9afcc155e1c3eb81a",
       "date": "2026-03-21",

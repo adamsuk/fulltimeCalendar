@@ -1,33 +1,7 @@
 {
   "club": "Manor FC",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "d1265e59daea39068b13dccbe0f164a8",
-      "date": "2026-04-18",
-      "time": "09:45",
-      "home_team": "Sherwood Colliery Black U9",
-      "away_team": "Manor FC U9",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U9 Sat Spring Div 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Manor FC U9",
-      "home_away": "away",
-      "opponent": "Sherwood Colliery Black U9"
-    },
-    {
-      "id": "bec821491617744eb7b134d743d55edb",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Woodhouse Colts Originals U12",
-      "away_team": "Manor FC Red U12",
-      "venue": "Queensway Park NG19 0DU",
-      "division": "U12 Sat Spring Div 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Manor FC Red U12",
-      "home_away": "away",
-      "opponent": "Woodhouse Colts Originals U12"
-    },
     {
       "id": "f001ba1dde0b479223457fdd232971a0",
       "date": "2026-04-18",
@@ -122,6 +96,23 @@
   ],
   "results": [
     {
+      "id": "bec821491617744eb7b134d743d55edb",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Woodhouse Colts Originals U12",
+      "away_team": "Manor FC Red U12",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Manor FC Red U12",
+      "home_away": "away",
+      "opponent": "Woodhouse Colts Originals U12",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
       "id": "67903abef69ffa0697ff16f6d469b772",
       "date": "2026-04-18",
       "time": "10:00",
@@ -137,6 +128,23 @@
       "opponent": "Ruddington Village Black U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "d1265e59daea39068b13dccbe0f164a8",
+      "date": "2026-04-18",
+      "time": "09:45",
+      "home_team": "Sherwood Colliery Black U9",
+      "away_team": "Manor FC U9",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Manor FC U9",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery Black U9",
+      "goals_for": 3,
+      "goals_against": 4
     },
     {
       "id": "9ee847d297b30bab467b8fd74d0f623e",

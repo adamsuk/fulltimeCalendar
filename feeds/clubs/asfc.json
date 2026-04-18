@@ -1,20 +1,7 @@
 {
   "club": "ASFC",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "d31c3b6167f94cb8b78d3a585b5496bc",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "Bagthorpe Athletic U14",
-      "away_team": "ASFC U14",
-      "venue": "Dixies Arms Park NG16 5HF",
-      "division": "U14 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "ASFC U14",
-      "home_away": "away",
-      "opponent": "Bagthorpe Athletic U14"
-    },
     {
       "id": "f551156aee79ebbb87bb601d786175e4",
       "date": "2026-04-18",
@@ -134,6 +121,23 @@
     }
   ],
   "results": [
+    {
+      "id": "d31c3b6167f94cb8b78d3a585b5496bc",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Bagthorpe Athletic U14",
+      "away_team": "ASFC U14",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "ASFC U14",
+      "home_away": "away",
+      "opponent": "Bagthorpe Athletic U14",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "c1447624c8be189523c5df5a76229ea5",
       "date": "2026-04-11",

@@ -1,6 +1,6 @@
 {
   "club": "Ravenshead Reds",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
     {
       "id": "22a153c2abbf9955f3c064cc27494143",
@@ -14,45 +14,6 @@
       "team": "Ravenshead Reds FC",
       "home_away": "home",
       "opponent": "Stapleford Town FC Ladies"
-    },
-    {
-      "id": "2a8b7eee4357c79cfb96712fc4b59584",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Ravenshead Reds Vikings U11",
-      "away_team": "Mickleover RBL Giants U11",
-      "venue": "Ravenshead Leisure Centre NG15 9AG",
-      "division": "U11 Sat Spring Div 1",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ravenshead Reds Vikings U11",
-      "home_away": "home",
-      "opponent": "Mickleover RBL Giants U11"
-    },
-    {
-      "id": "8d017f1b227d9727d613323d25efe95f",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Meden Vale Colts Red U11",
-      "away_team": "Ravenshead Reds Outlaws U11",
-      "venue": "Carr Lane NG20 0BN",
-      "division": "U11 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ravenshead Reds Outlaws U11",
-      "home_away": "away",
-      "opponent": "Meden Vale Colts Red U11"
-    },
-    {
-      "id": "8dca073a1ffb3e55129cbcb2c271a0fc",
-      "date": "2026-04-18",
-      "time": "11:30",
-      "home_team": "Ravenshead Reds U9",
-      "away_team": "Lowdham FC Blue U9",
-      "venue": "Ravenshead Leisure Centre NG15 9AG",
-      "division": "U9 Sat Spring Div 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ravenshead Reds U9",
-      "home_away": "home",
-      "opponent": "Lowdham FC Blue U9"
     },
     {
       "id": "d30d7f9324d95fb80f71cd57305e0810",
@@ -550,6 +511,57 @@
     }
   ],
   "results": [
+    {
+      "id": "8dca073a1ffb3e55129cbcb2c271a0fc",
+      "date": "2026-04-18",
+      "time": "11:30",
+      "home_team": "Ravenshead Reds U9",
+      "away_team": "Lowdham FC Blue U9",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ravenshead Reds U9",
+      "home_away": "home",
+      "opponent": "Lowdham FC Blue U9",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
+      "id": "8d017f1b227d9727d613323d25efe95f",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Meden Vale Colts Red U11",
+      "away_team": "Ravenshead Reds Outlaws U11",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ravenshead Reds Outlaws U11",
+      "home_away": "away",
+      "opponent": "Meden Vale Colts Red U11",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
+      "id": "2a8b7eee4357c79cfb96712fc4b59584",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Ravenshead Reds Vikings U11",
+      "away_team": "Mickleover RBL Giants U11",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat Spring Div 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ravenshead Reds Vikings U11",
+      "home_away": "home",
+      "opponent": "Mickleover RBL Giants U11",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "f2724d2096042255080095b676ae5462",
       "date": "2026-04-16",

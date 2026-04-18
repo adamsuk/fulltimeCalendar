@@ -1,19 +1,8 @@
 {
   "team": "Hucknall Sports White U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "681b226ca5d755895c3616808a8f829b",
-      "date": "2026-04-18",
-      "time": "10:45",
-      "home_team": "WBYFC Buffalos U12",
-      "away_team": "Hucknall Sports White U12",
-      "venue": "Gresham Park  NG2 7YF",
-      "division": "U12 Sat Spring Div 5 Red",
-      "home_away": "away",
-      "opponent": "WBYFC Buffalos U12"
-    },
     {
       "id": "4451a8c02499fc59cdec92ea7188bdff",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "681b226ca5d755895c3616808a8f829b",
+      "date": "2026-04-18",
+      "time": "10:45",
+      "home_team": "WBYFC Buffalos U12",
+      "away_team": "Hucknall Sports White U12",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sat Spring Div 5 Red",
+      "home_away": "away",
+      "opponent": "WBYFC Buffalos U12",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "8f388a5214dca6555f2432b1b9c0c1b3",
       "date": "2026-03-21",

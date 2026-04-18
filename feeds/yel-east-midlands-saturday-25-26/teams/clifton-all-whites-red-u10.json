@@ -1,19 +1,8 @@
 {
   "team": "Clifton All Whites Red U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "46311f062d38da6aa473e7f89c015eda",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Spirit Celtic White U10",
-      "away_team": "Clifton All Whites Red U10",
-      "venue": "Becket School NG2 7QY",
-      "division": "U10 Sat Spring Div 7 Green",
-      "home_away": "away",
-      "opponent": "Spirit Celtic White U10"
-    },
     {
       "id": "3284bef1e109c098e56ed3e061d3b1a3",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "46311f062d38da6aa473e7f89c015eda",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Spirit Celtic White U10",
+      "away_team": "Clifton All Whites Red U10",
+      "home_score": 8,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sat Spring Div 7 Green",
+      "home_away": "away",
+      "opponent": "Spirit Celtic White U10",
+      "goals_for": 3,
+      "goals_against": 8
+    },
     {
       "id": "72374cd6d15bf055135cb318353cf0fc",
       "date": "2026-03-21",

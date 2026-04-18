@@ -1,20 +1,7 @@
 {
   "club": "Coalville Town",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "a22d1946e6272720265ca3f22dc46b61",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Castle Donington Raptors U8",
-      "away_team": "Coalville Town Ravens U8",
-      "venue": "Spital Park DE74 2NQ",
-      "division": "U8 Sat Spring 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Coalville Town Ravens U8",
-      "home_away": "away",
-      "opponent": "Castle Donington Raptors U8"
-    },
     {
       "id": "17f176c436d8930a2fa1730d3f2bec40",
       "date": "2026-04-18",
@@ -27,19 +14,6 @@
       "team": "Coalville Town Ravens U13",
       "home_away": "home",
       "opponent": "Eastwood CFC Red U13"
-    },
-    {
-      "id": "8bdb7dd663405360518a4d664386ad48",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "PMG Excel U12",
-      "away_team": "Coalville Town Rooks U12",
-      "venue": "Bulwell Hall Park NG6 8LF",
-      "division": "U12 Sat Spring Div 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Coalville Town Rooks U12",
-      "home_away": "away",
-      "opponent": "PMG Excel U12"
     },
     {
       "id": "fccb518428df8cef030bfb2c1176635e",
@@ -160,6 +134,40 @@
     }
   ],
   "results": [
+    {
+      "id": "8bdb7dd663405360518a4d664386ad48",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "PMG Excel U12",
+      "away_team": "Coalville Town Rooks U12",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sat Spring Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Coalville Town Rooks U12",
+      "home_away": "away",
+      "opponent": "PMG Excel U12",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
+      "id": "a22d1946e6272720265ca3f22dc46b61",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Castle Donington Raptors U8",
+      "away_team": "Coalville Town Ravens U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Coalville Town Ravens U8",
+      "home_away": "away",
+      "opponent": "Castle Donington Raptors U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "da9a0c7461fdc1f1b5ef09ef198e02ed",
       "date": "2026-04-18",

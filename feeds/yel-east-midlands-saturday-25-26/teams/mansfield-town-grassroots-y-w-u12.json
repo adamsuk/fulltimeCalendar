@@ -1,19 +1,8 @@
 {
   "team": "Mansfield Town Grassroots Y/W U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "d946c667d4375315294c3fd9913a3e7a",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Mansfield Town Grassroots Y/W U12",
-      "away_team": "G3A FC Rangers U12",
-      "venue": "R&H Academy NG19 7RT",
-      "division": "U12 Sat Spring Premier Division",
-      "home_away": "home",
-      "opponent": "G3A FC Rangers U12"
-    },
     {
       "id": "afa71b11fcbf9a950260f755cd4a3338",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d946c667d4375315294c3fd9913a3e7a",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Mansfield Town Grassroots Y/W U12",
+      "away_team": "G3A FC Rangers U12",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sat Spring Premier Division",
+      "home_away": "home",
+      "opponent": "G3A FC Rangers U12",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "a34585fb72bdf9416de59f3f33286212",
       "date": "2026-03-28",

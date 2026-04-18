@@ -1,20 +1,7 @@
 {
   "club": "Gonerby Yellow",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "e9f06b2cfa7c7ef4e09c8ec7c4d5971e",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Gonerby Yellow U9",
-      "away_team": "Winthorpe & Cod T Black U9",
-      "venue": "Gonerby Recreation Ground NG31 8PP",
-      "division": "U9 Sat Spring Div 9 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Gonerby Yellow U9",
-      "home_away": "home",
-      "opponent": "Winthorpe & Cod T Black U9"
-    },
     {
       "id": "360f386e791211634fc7f1cfef85edce",
       "date": "2026-04-19",
@@ -121,6 +108,23 @@
     }
   ],
   "results": [
+    {
+      "id": "e9f06b2cfa7c7ef4e09c8ec7c4d5971e",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Gonerby Yellow U9",
+      "away_team": "Winthorpe & Cod T Black U9",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U9 Sat Spring Div 9 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gonerby Yellow U9",
+      "home_away": "home",
+      "opponent": "Winthorpe & Cod T Black U9",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "8eda4ad8002ef5ba219bd2c462dbcda4",
       "date": "2026-04-15",

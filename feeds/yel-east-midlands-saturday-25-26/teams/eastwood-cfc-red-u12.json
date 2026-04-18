@@ -1,19 +1,8 @@
 {
   "team": "Eastwood CFC Red U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "f256fb8fc80b660a6122ad5bb26da723",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Clifton All Whites Purple U12",
-      "away_team": "Eastwood CFC Red U12",
-      "venue": "Farnborough Academy NG11 8JW",
-      "division": "U12 Saturday",
-      "home_away": "away",
-      "opponent": "Clifton All Whites Purple U12"
-    },
     {
       "id": "cc92980e6bf69e7146a38b0b0d3598b8",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f256fb8fc80b660a6122ad5bb26da723",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Clifton All Whites Purple U12",
+      "away_team": "Eastwood CFC Red U12",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Saturday",
+      "home_away": "away",
+      "opponent": "Clifton All Whites Purple U12",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "81dcb476423bf8e7fdf233f67098dddb",
       "date": "2026-03-28",

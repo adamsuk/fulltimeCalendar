@@ -1,19 +1,8 @@
 {
   "team": "Spirit Celtic White U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "b64d6638916e36f0426d05af74efa1bd",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "Spirit Celtic White U14",
-      "away_team": "Star Strike Tigers Orange U14",
-      "venue": "Becket School NG2 7QY",
-      "division": "U14 Sat Spring Div 7",
-      "home_away": "home",
-      "opponent": "Star Strike Tigers Orange U14"
-    },
     {
       "id": "7d6ca736f1333eb3d305dbf932b6839c",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b64d6638916e36f0426d05af74efa1bd",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Spirit Celtic White U14",
+      "away_team": "Star Strike Tigers Orange U14",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "",
+      "division": "U14 Sat Spring Div 7",
+      "home_away": "home",
+      "opponent": "Star Strike Tigers Orange U14",
+      "goals_for": 2,
+      "goals_against": 6
+    },
     {
       "id": "df0d01154da168d7aebbbf063dae1f5e",
       "date": "2026-04-14",

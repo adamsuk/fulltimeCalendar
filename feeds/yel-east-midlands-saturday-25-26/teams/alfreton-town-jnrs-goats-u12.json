@@ -1,19 +1,8 @@
 {
   "team": "Alfreton Town Jnrs Goats U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "284e921c646c3a02e0dab44617f8fcc3",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Alfreton Town Jnrs Goats U12",
-      "away_team": "Mapperley All Stars Yellow U12",
-      "venue": "Watchorn Lane DE55 7AT",
-      "division": "U12 Sat Spring Div 1 Silver",
-      "home_away": "home",
-      "opponent": "Mapperley All Stars Yellow U12"
-    },
     {
       "id": "40fe96cbb2e51e35eea70e3fb10cca85",
       "date": "2026-04-21",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "284e921c646c3a02e0dab44617f8fcc3",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Alfreton Town Jnrs Goats U12",
+      "away_team": "Mapperley All Stars Yellow U12",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sat Spring Div 1 Silver",
+      "home_away": "home",
+      "opponent": "Mapperley All Stars Yellow U12",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "0b2b31a328330ebadc30db695ca1e60b",
       "date": "2026-03-28",

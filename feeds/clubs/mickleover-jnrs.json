@@ -1,33 +1,7 @@
 {
   "club": "Mickleover Jnrs",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "76b7921bffa106ed71a858c147823434",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Mickleover Jnrs Porto U13",
-      "away_team": "East Leake Bantams Orange U13",
-      "venue": "Varsity Grange Football Complex DE3 9EB",
-      "division": "U13 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Mickleover Jnrs Porto U13",
-      "home_away": "home",
-      "opponent": "East Leake Bantams Orange U13"
-    },
-    {
-      "id": "cdb6de6c8201bdef145f00556dc7de76",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Mickleover Jnrs Benfica U13",
-      "away_team": "Long Eaton United Blue U13",
-      "venue": "Varsity Grange Football Complex DE3 9EB",
-      "division": "U13 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Mickleover Jnrs Benfica U13",
-      "home_away": "home",
-      "opponent": "Long Eaton United Blue U13"
-    },
     {
       "id": "cdf31b169f35ca3ea6615d52b452b487",
       "date": "2026-04-20",
@@ -95,6 +69,40 @@
     }
   ],
   "results": [
+    {
+      "id": "cdb6de6c8201bdef145f00556dc7de76",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Mickleover Jnrs Benfica U13",
+      "away_team": "Long Eaton United Blue U13",
+      "home_score": 3,
+      "away_score": 5,
+      "venue": "",
+      "division": "U13 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mickleover Jnrs Benfica U13",
+      "home_away": "home",
+      "opponent": "Long Eaton United Blue U13",
+      "goals_for": 3,
+      "goals_against": 5
+    },
+    {
+      "id": "76b7921bffa106ed71a858c147823434",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Mickleover Jnrs Porto U13",
+      "away_team": "East Leake Bantams Orange U13",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mickleover Jnrs Porto U13",
+      "home_away": "home",
+      "opponent": "East Leake Bantams Orange U13",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "2b9e2ac20f8910f08cf0cbc026518fc0",
       "date": "2026-04-18",

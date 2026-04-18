@@ -1,19 +1,8 @@
 {
   "team": "Ashby United Mavericks U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "e277e43b049bcdccbc4e2bc8ccf2f9fc",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "AFC Chellaston Panthers U13",
-      "away_team": "Ashby United Mavericks U13",
-      "venue": "Chellaston Park DE73 6TQ #1",
-      "division": "U13 Sat Spring Div 6 Blue",
-      "home_away": "away",
-      "opponent": "AFC Chellaston Panthers U13"
-    },
     {
       "id": "e8b5546ec465f7bed87e6e9d6dde9a3e",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e277e43b049bcdccbc4e2bc8ccf2f9fc",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "AFC Chellaston Panthers U13",
+      "away_team": "Ashby United Mavericks U13",
+      "home_score": 6,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Spring Div 6 Blue",
+      "home_away": "away",
+      "opponent": "AFC Chellaston Panthers U13",
+      "goals_for": 2,
+      "goals_against": 6
+    },
     {
       "id": "7c2082b94219215266590ec5346430cb",
       "date": "2026-03-28",

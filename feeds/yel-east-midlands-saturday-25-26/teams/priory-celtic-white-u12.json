@@ -1,19 +1,8 @@
 {
   "team": "Priory Celtic White U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "a14804d57f7088d67996d343dc6601e5",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Newark Town Cavaliers U12",
-      "away_team": "Priory Celtic White U12",
-      "venue": "Devon Park NG24 4QN",
-      "division": "U12 Saturday",
-      "home_away": "away",
-      "opponent": "Newark Town Cavaliers U12"
-    },
     {
       "id": "d741e50cf4a846e38f065381a7dbe799",
       "date": "2026-04-21",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a14804d57f7088d67996d343dc6601e5",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Newark Town Cavaliers U12",
+      "away_team": "Priory Celtic White U12",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Saturday",
+      "home_away": "away",
+      "opponent": "Newark Town Cavaliers U12",
+      "goals_for": 0,
+      "goals_against": 0
+    },
     {
       "id": "daa4a139c6a943d32d6d0fe3cc0e2e72",
       "date": "2026-03-21",

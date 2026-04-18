@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town Yellow U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "57cbe5d856bbd081a45e3a431b45f794",
-      "date": "2026-04-18",
-      "time": "12:00",
-      "home_team": "Newark Town Titans U13",
-      "away_team": "Arnold Town Yellow U13",
-      "venue": "Devon Park NG24 4QN",
-      "division": "U13 Sat Spring Div 4 Red",
-      "home_away": "away",
-      "opponent": "Newark Town Titans U13"
-    },
     {
       "id": "46d49fefa4eedae80ee308c2edce5b97",
       "date": "2026-04-23",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "57cbe5d856bbd081a45e3a431b45f794",
+      "date": "2026-04-18",
+      "time": "12:00",
+      "home_team": "Newark Town Titans U13",
+      "away_team": "Arnold Town Yellow U13",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sat Spring Div 4 Red",
+      "home_away": "away",
+      "opponent": "Newark Town Titans U13",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "21761a8744c70738f64167ddd1615a03",
       "date": "2026-04-14",

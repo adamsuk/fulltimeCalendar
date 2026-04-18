@@ -1,19 +1,8 @@
 {
   "team": "DLFC Emerald U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "b3b08610885f1e656e8dc16b799cd852",
-      "date": "2026-04-18",
-      "time": "11:30",
-      "home_team": "Keyworth United Blue U10",
-      "away_team": "DLFC Emerald U10",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U10 Sat Spring Div 2 Gold",
-      "home_away": "away",
-      "opponent": "Keyworth United Blue U10"
-    },
     {
       "id": "f75b44b32ec7cff2c7a58f7d20a2b0ba",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b3b08610885f1e656e8dc16b799cd852",
+      "date": "2026-04-18",
+      "time": "11:30",
+      "home_team": "Keyworth United Blue U10",
+      "away_team": "DLFC Emerald U10",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sat Spring Div 2 Gold",
+      "home_away": "away",
+      "opponent": "Keyworth United Blue U10",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "feb2d7bafd5effb72aa1c57a1f03cb4c",
       "date": "2026-03-28",

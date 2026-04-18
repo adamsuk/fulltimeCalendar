@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United Red U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "0dd5a2f5a8b1d94c42bce6fd255ca3c6",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Wollaton H & B Yellow U12",
-      "away_team": "Keyworth United Red U12",
-      "venue": "The Trinity Catholic School NG8 3EZ",
-      "division": "U12 Sat Spring Div 5 Red",
-      "home_away": "away",
-      "opponent": "Wollaton H & B Yellow U12"
-    },
     {
       "id": "be81322a4dc91629df09a3f8b92b5390",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0dd5a2f5a8b1d94c42bce6fd255ca3c6",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Wollaton H & B Yellow U12",
+      "away_team": "Keyworth United Red U12",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sat Spring Div 5 Red",
+      "home_away": "away",
+      "opponent": "Wollaton H & B Yellow U12",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "c135573e1ef72553e4dcaf788052afbf",
       "date": "2026-04-14",

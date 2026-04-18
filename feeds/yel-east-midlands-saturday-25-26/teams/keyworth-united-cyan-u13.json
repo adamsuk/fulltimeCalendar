@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United Cyan U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "dc71980a8778e1f99686510bcd3e957d",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Keyworth United Cyan U13",
-      "away_team": "Nottingham FC Black U13",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U13 Sat Spring Div 4 Red",
-      "home_away": "home",
-      "opponent": "Nottingham FC Black U13"
-    },
     {
       "id": "1400295487b21451e0e6386ca8d95a0d",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "dc71980a8778e1f99686510bcd3e957d",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Keyworth United Cyan U13",
+      "away_team": "Nottingham FC Black U13",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sat Spring Div 4 Red",
+      "home_away": "home",
+      "opponent": "Nottingham FC Black U13",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "d9469055cc93636d53166478bb58f46f",
       "date": "2026-04-11",

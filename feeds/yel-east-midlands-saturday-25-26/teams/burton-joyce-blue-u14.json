@@ -1,19 +1,8 @@
 {
   "team": "Burton Joyce Blue U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "7bbabfbc2572a2cf8fd094d0bb16d0fe",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Burton Joyce Blue U14",
-      "away_team": "Mansfield Town Grassroots U14",
-      "venue": "The Poplars, Burton Joyce  NG14 5AN",
-      "division": "U14 Sat Spring Div 2 Red",
-      "home_away": "home",
-      "opponent": "Mansfield Town Grassroots U14"
-    },
     {
       "id": "5ca59def59e35f94649e7b2e731d17bb",
       "date": "2026-04-21",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7bbabfbc2572a2cf8fd094d0bb16d0fe",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Burton Joyce Blue U14",
+      "away_team": "Mansfield Town Grassroots U14",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sat Spring Div 2 Red",
+      "home_away": "home",
+      "opponent": "Mansfield Town Grassroots U14",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "44952fbaf3d05aa39bb3ee6d6cf1c83a",
       "date": "2026-03-21",

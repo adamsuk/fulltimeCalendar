@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Rossoneri U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "8dbcb8e84c535da4b7e02e3760535f33",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Loughborough Emmanuel U11",
-      "away_team": "WBYFC Rossoneri U11",
-      "venue": "Charnwood College, Loughborough LE11 4SQ",
-      "division": "U11 Sat Spring Div 6 Blue",
-      "home_away": "away",
-      "opponent": "Loughborough Emmanuel U11"
-    },
     {
       "id": "3eaa0137ed152f0880b6634d9d39b4b1",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8dbcb8e84c535da4b7e02e3760535f33",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Loughborough Emmanuel U11",
+      "away_team": "WBYFC Rossoneri U11",
+      "home_score": 10,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 6 Blue",
+      "home_away": "away",
+      "opponent": "Loughborough Emmanuel U11",
+      "goals_for": 3,
+      "goals_against": 10
+    },
     {
       "id": "76efd73d1f2d7b72d71b66c46e4b6d8f",
       "date": "2026-04-13",

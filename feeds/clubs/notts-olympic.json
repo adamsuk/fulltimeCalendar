@@ -1,6 +1,6 @@
 {
   "club": "Notts Olympic",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
     {
       "id": "082583a9f18d4f91a7ce49b0197eb07c",
@@ -27,32 +27,6 @@
       "team": "Notts Olympic U10",
       "home_away": "home",
       "opponent": "Nottingham FC U10"
-    },
-    {
-      "id": "3d2dc0cad9dfa52e521b728def0c9c08",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Bobbersmill FC U13",
-      "away_team": "Notts Olympic FC U13",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U13 Sat Spring Div 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Notts Olympic FC U13",
-      "home_away": "away",
-      "opponent": "Bobbersmill FC U13"
-    },
-    {
-      "id": "4fcbb0f5c5b4611f6be8767fcb16617b",
-      "date": "2026-04-18",
-      "time": "11:15",
-      "home_team": "Sherwood Colliery U11",
-      "away_team": "Notts Olympic FC U11",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U11 Sat Spring Div 1",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Notts Olympic FC U11",
-      "home_away": "away",
-      "opponent": "Sherwood Colliery U11"
     },
     {
       "id": "50a001275f211bc53e2f33910bb33e05",
@@ -251,6 +225,40 @@
     }
   ],
   "results": [
+    {
+      "id": "4fcbb0f5c5b4611f6be8767fcb16617b",
+      "date": "2026-04-18",
+      "time": "11:15",
+      "home_team": "Sherwood Colliery U11",
+      "away_team": "Notts Olympic FC U11",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Notts Olympic FC U11",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery U11",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
+      "id": "3d2dc0cad9dfa52e521b728def0c9c08",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Bobbersmill FC U13",
+      "away_team": "Notts Olympic FC U13",
+      "home_score": 9,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Spring Div 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Notts Olympic FC U13",
+      "home_away": "away",
+      "opponent": "Bobbersmill FC U13",
+      "goals_for": 2,
+      "goals_against": 9
+    },
     {
       "id": "511836173bbfdc9bb7e61c5080e27fd3",
       "date": "2026-04-16",

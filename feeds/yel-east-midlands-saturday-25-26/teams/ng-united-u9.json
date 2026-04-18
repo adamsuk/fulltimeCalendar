@@ -1,19 +1,8 @@
 {
   "team": "NG United U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "8e2fd8ca363ee112f5a6914e49488865",
-      "date": "2026-04-18",
-      "time": "11:15",
-      "home_team": "Riverside Junior Titans U9",
-      "away_team": "NG United U9",
-      "venue": "Melbourne Court NG10 3EE",
-      "division": "U9 Sat Spring Div 9 Red",
-      "home_away": "away",
-      "opponent": "Riverside Junior Titans U9"
-    },
     {
       "id": "b007aece8bf7a7f4773d32bc35c0078d",
       "date": "2026-04-23",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8e2fd8ca363ee112f5a6914e49488865",
+      "date": "2026-04-18",
+      "time": "11:15",
+      "home_team": "Riverside Junior Titans U9",
+      "away_team": "NG United U9",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 9 Red",
+      "home_away": "away",
+      "opponent": "Riverside Junior Titans U9",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "999f87402b61b8a3b932558484360a24",
       "date": "2026-03-28",

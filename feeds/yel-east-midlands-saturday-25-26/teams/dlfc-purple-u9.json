@@ -1,19 +1,8 @@
 {
   "team": "DLFC Purple U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "9e31ebc5cff1b60084aa86b20332f0a0",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "WBYFC Union U9",
-      "away_team": "DLFC Purple U9",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U9 Sat Spring Div 9 Red",
-      "home_away": "away",
-      "opponent": "WBYFC Union U9"
-    },
     {
       "id": "b007aece8bf7a7f4773d32bc35c0078d",
       "date": "2026-04-23",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "9e31ebc5cff1b60084aa86b20332f0a0",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "WBYFC Union U9",
+      "away_team": "DLFC Purple U9",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "",
+      "division": "U9 Sat Spring Div 9 Red",
+      "home_away": "away",
+      "opponent": "WBYFC Union U9",
+      "goals_for": 6,
+      "goals_against": 1
+    },
     {
       "id": "5a828d5fad96b2b25ca5232fb6c438c8",
       "date": "2026-03-28",

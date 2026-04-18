@@ -1,19 +1,8 @@
 {
   "team": "Wollaton H & B Yellow U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "40430674d88d10d572fbb356a48c9389",
-      "date": "2026-04-18",
-      "time": "11:15",
-      "home_team": "Sandiacre Town Warriors U10",
-      "away_team": "Wollaton H & B Yellow U10",
-      "venue": "Friesland School NG10 5AF",
-      "division": "U10 Sat Spring Div 9 Blue",
-      "home_away": "away",
-      "opponent": "Sandiacre Town Warriors U10"
-    },
     {
       "id": "f0805046004c18743bd0ab0462798b5f",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "40430674d88d10d572fbb356a48c9389",
+      "date": "2026-04-18",
+      "time": "11:15",
+      "home_team": "Sandiacre Town Warriors U10",
+      "away_team": "Wollaton H & B Yellow U10",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "",
+      "division": "U10 Sat Spring Div 9 Blue",
+      "home_away": "away",
+      "opponent": "Sandiacre Town Warriors U10",
+      "goals_for": 4,
+      "goals_against": 3
+    },
     {
       "id": "385c0dd4c8bb0d9a53dc3faf67f4d3f6",
       "date": "2026-03-28",

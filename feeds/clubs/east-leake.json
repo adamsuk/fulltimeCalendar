@@ -1,6 +1,6 @@
 {
   "club": "East Leake",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
     {
       "id": "29aff3c032b72a5f35c9472f58ae512d",
@@ -14,19 +14,6 @@
       "team": "East Leake FC U9 Bantams Girls Red",
       "home_away": "away",
       "opponent": "West Bridgford Colts U9 Stars"
-    },
-    {
-      "id": "76b7921bffa106ed71a858c147823434",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Mickleover Jnrs Porto U13",
-      "away_team": "East Leake Bantams Orange U13",
-      "venue": "Varsity Grange Football Complex DE3 9EB",
-      "division": "U13 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "East Leake Bantams Orange U13",
-      "home_away": "away",
-      "opponent": "Mickleover Jnrs Porto U13"
     },
     {
       "id": "0fd05bcaa79520fcb28b2c1843c07563",
@@ -654,6 +641,23 @@
     }
   ],
   "results": [
+    {
+      "id": "76b7921bffa106ed71a858c147823434",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Mickleover Jnrs Porto U13",
+      "away_team": "East Leake Bantams Orange U13",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "East Leake Bantams Orange U13",
+      "home_away": "away",
+      "opponent": "Mickleover Jnrs Porto U13",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "16a4a5a286d127cd4bb537f9ea3ee960",
       "date": "2026-04-17",

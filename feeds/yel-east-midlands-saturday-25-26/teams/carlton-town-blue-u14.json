@@ -1,19 +1,8 @@
 {
   "team": "Carlton Town Blue U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "3379f0ebb5817d16b4ff6eb19f6ab698",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Carlton Town Blue U14",
-      "away_team": "Edwalton Cavaliers White U14",
-      "venue": "Magenta Way NG14 5HH",
-      "division": "U14 Sat Spring Div 6 Blue",
-      "home_away": "home",
-      "opponent": "Edwalton Cavaliers White U14"
-    },
     {
       "id": "80ff00843e8fa983b46e252b6111c18f",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "3379f0ebb5817d16b4ff6eb19f6ab698",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Carlton Town Blue U14",
+      "away_team": "Edwalton Cavaliers White U14",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Sat Spring Div 6 Blue",
+      "home_away": "home",
+      "opponent": "Edwalton Cavaliers White U14",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "3a431869f8e57557ad7c2d9f40b6b56f",
       "date": "2026-03-28",

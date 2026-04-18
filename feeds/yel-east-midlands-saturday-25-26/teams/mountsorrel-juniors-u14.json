@@ -1,19 +1,8 @@
 {
   "team": "Mountsorrel Juniors U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "a8972bad2a22a0d14c5ccc319db94525",
-      "date": "2026-04-18",
-      "time": "12:00",
-      "home_team": "Mountsorrel Juniors U14",
-      "away_team": "Loughborough Eml Hawks U14",
-      "venue": "THE CEDARS ACADEMY LE4 4GH",
-      "division": "U14 Sat Spring Div 4 Blue",
-      "home_away": "home",
-      "opponent": "Loughborough Eml Hawks U14"
-    },
     {
       "id": "c2f3f6bbe09243aefc43481fe62862a6",
       "date": "2026-04-21",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a8972bad2a22a0d14c5ccc319db94525",
+      "date": "2026-04-18",
+      "time": "12:00",
+      "home_team": "Mountsorrel Juniors U14",
+      "away_team": "Loughborough Eml Hawks U14",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sat Spring Div 4 Blue",
+      "home_away": "home",
+      "opponent": "Loughborough Eml Hawks U14",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "ec3ee7521b766cb84a99a985b5832bfb",
       "date": "2026-04-11",

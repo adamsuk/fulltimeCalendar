@@ -1,6 +1,6 @@
 {
   "club": "Burton Joyce",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
     {
       "id": "7102956156fa8e2bb4104bfe24b25f0d",
@@ -29,19 +29,6 @@
       "opponent": "Beeston F.C. U15 Girls Sun"
     },
     {
-      "id": "c154245929538f7d5ddc61a37eec5502",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "Loughborough Eml Falcons U14",
-      "away_team": "Burton Joyce Red U14",
-      "venue": "Derby Road Playing Fields LE11 5FJ",
-      "division": "U14 Sat Spring Div 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Burton Joyce Red U14",
-      "home_away": "away",
-      "opponent": "Loughborough Eml Falcons U14"
-    },
-    {
       "id": "369193c259c00e50962a429ef28a06bc",
       "date": "2026-04-18",
       "time": "10:30",
@@ -53,45 +40,6 @@
       "team": "Burton Joyce F.C. U23",
       "home_away": "home",
       "opponent": "Newark Town FC U23's"
-    },
-    {
-      "id": "ef521e7beb2ccfcd1162ce946362f727",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Bilborough Town U12",
-      "away_team": "Burton Joyce Blue U12",
-      "venue": "Harvey Haddon  NG8 4PB",
-      "division": "U12 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Burton Joyce Blue U12",
-      "home_away": "away",
-      "opponent": "Bilborough Town U12"
-    },
-    {
-      "id": "7bbabfbc2572a2cf8fd094d0bb16d0fe",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Burton Joyce Blue U14",
-      "away_team": "Mansfield Town Grassroots U14",
-      "venue": "The Poplars, Burton Joyce  NG14 5AN",
-      "division": "U14 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Burton Joyce Blue U14",
-      "home_away": "home",
-      "opponent": "Mansfield Town Grassroots U14"
-    },
-    {
-      "id": "8bbbeb3c132d7353634bf70038a05474",
-      "date": "2026-04-18",
-      "time": "11:15",
-      "home_team": "Radcliffe Olympic Bears U8",
-      "away_team": "Burton Joyce U8",
-      "venue": "Radcliffe-on-Trent Cricket Club NG12 2DU",
-      "division": "U8 Sat Spring 7 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Burton Joyce U8",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic Bears U8"
     },
     {
       "id": "197f27e091b69806353fd18dee9460b3",
@@ -642,6 +590,57 @@
   ],
   "results": [
     {
+      "id": "8bbbeb3c132d7353634bf70038a05474",
+      "date": "2026-04-18",
+      "time": "11:15",
+      "home_team": "Radcliffe Olympic Bears U8",
+      "away_team": "Burton Joyce U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 7 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Burton Joyce U8",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic Bears U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "ef521e7beb2ccfcd1162ce946362f727",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Bilborough Town U12",
+      "away_team": "Burton Joyce Blue U12",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Burton Joyce Blue U12",
+      "home_away": "away",
+      "opponent": "Bilborough Town U12",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
+      "id": "7bbabfbc2572a2cf8fd094d0bb16d0fe",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Burton Joyce Blue U14",
+      "away_team": "Mansfield Town Grassroots U14",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Burton Joyce Blue U14",
+      "home_away": "home",
+      "opponent": "Mansfield Town Grassroots U14",
+      "goals_for": 1,
+      "goals_against": 4
+    },
+    {
       "id": "7a3b4b4a3f14d1c6fee21e85f29e7971",
       "date": "2026-04-18",
       "time": "10:00",
@@ -708,6 +707,23 @@
       "opponent": "Radcliffe Olympic Rangers U10",
       "goals_for": 12,
       "goals_against": 1
+    },
+    {
+      "id": "c154245929538f7d5ddc61a37eec5502",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Loughborough Eml Falcons U14",
+      "away_team": "Burton Joyce Red U14",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Sat Spring Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Burton Joyce Red U14",
+      "home_away": "away",
+      "opponent": "Loughborough Eml Falcons U14",
+      "goals_for": 0,
+      "goals_against": 3
     },
     {
       "id": "24e028702c630c2413d1f74093a0f16e",

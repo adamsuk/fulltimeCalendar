@@ -1,19 +1,8 @@
 {
   "team": "Long Eaton United Yellow U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "acca77d444e1f44b86c45b77e5cd54bb",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Long Eaton United Yellow U14",
-      "away_team": "PMG Excel U14",
-      "venue": "Grange Park NG10 2EF",
-      "division": "U14 Saturday",
-      "home_away": "home",
-      "opponent": "PMG Excel U14"
-    },
     {
       "id": "42c6f602b4e85027d551b822ee382bc3",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "acca77d444e1f44b86c45b77e5cd54bb",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Long Eaton United Yellow U14",
+      "away_team": "PMG Excel U14",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Saturday",
+      "home_away": "home",
+      "opponent": "PMG Excel U14",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "0a68a67ede13368add334da7ffbb74fc",
       "date": "2026-03-21",

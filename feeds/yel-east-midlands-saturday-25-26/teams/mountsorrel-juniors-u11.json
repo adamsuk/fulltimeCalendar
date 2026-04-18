@@ -1,7 +1,7 @@
 {
   "team": "Mountsorrel Juniors U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
     {
       "id": "32a48c7aa0ae6efb006e781ca4cb828a",
@@ -13,17 +13,6 @@
       "division": "U11 Sat Spring Div 7 Blue",
       "home_away": "home",
       "opponent": "Southwell City Lions U11"
-    },
-    {
-      "id": "e49d36e476797e89eb16eb9c8cb17a69",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Edwalton Cavaliers White U11",
-      "away_team": "Mountsorrel Juniors U11",
-      "venue": "HALSTEAD ROAD PLAYING FIELDS LE12 7JF",
-      "division": "U11 Sat Spring Div 7 Blue",
-      "home_away": "away",
-      "opponent": "Edwalton Cavaliers White U11"
     },
     {
       "id": "78410a0630cc1e0f56384f9f199e4a01",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e49d36e476797e89eb16eb9c8cb17a69",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Edwalton Cavaliers White U11",
+      "away_team": "Mountsorrel Juniors U11",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U11 Sat Spring Div 7 Blue",
+      "home_away": "away",
+      "opponent": "Edwalton Cavaliers White U11",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "dedc522478a1a7d019238fffc38dffaf",
       "date": "2026-03-14",

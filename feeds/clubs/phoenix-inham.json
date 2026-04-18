@@ -1,6 +1,6 @@
 {
   "club": "Phoenix Inham",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
     {
       "id": "4aeb9b46959fec64d6b8987e877b88e3",
@@ -16,32 +16,6 @@
       "opponent": "Clipstone Welfare Colts F.C. Youth U12"
     },
     {
-      "id": "19878906e8141a705fe0911c6d0fbe6c",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Phoenix Inham Devils U10",
-      "away_team": "Long Eaton United Royal U10",
-      "venue": "Inham Nook Recreation Ground NG9 4GQ",
-      "division": "U10 Sat Spring Div 4 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Phoenix Inham Devils U10",
-      "home_away": "home",
-      "opponent": "Long Eaton United Royal U10"
-    },
-    {
-      "id": "a00d22148077e6e9647291f4bf1813c5",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Priory Celtic White U7",
-      "away_team": "Phoenix Inham Firewings U7",
-      "venue": "Kimberley Leisure Centre NG16 2NJ GP1",
-      "division": "U7 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Phoenix Inham Firewings U7",
-      "home_away": "away",
-      "opponent": "Priory Celtic White U7"
-    },
-    {
       "id": "109851e2d1c20c6af440efb04bed77eb",
       "date": "2026-04-18",
       "time": "10:00",
@@ -55,32 +29,6 @@
       "opponent": "Wollaton H & B Valiants U13"
     },
     {
-      "id": "37050888fff10362c1976e26adb6ad7b",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Phoenix Inham Rockets U11",
-      "away_team": "Clifton All Whites Scarlet U11",
-      "venue": "Inham Nook Recreation Ground NG9 4GQ",
-      "division": "U11 Sat Spring Div 6 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Phoenix Inham Rockets U11",
-      "home_away": "home",
-      "opponent": "Clifton All Whites Scarlet U11"
-    },
-    {
-      "id": "9ac9f3e9017442e3384941a263f342e4",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Phoenix Inham Firebirds U12",
-      "away_team": "Sneinton Town U12",
-      "venue": "Inham Nook Recreation Ground NG9 4GQ",
-      "division": "U12 Sat YEL Foundation Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Phoenix Inham Firebirds U12",
-      "home_away": "home",
-      "opponent": "Sneinton Town U12"
-    },
-    {
       "id": "15620af1e5226172ead47670a917cd90",
       "date": "2026-04-18",
       "time": "11:00",
@@ -92,19 +40,6 @@
       "team": "Phoenix Inham Inferno U14",
       "home_away": "home",
       "opponent": "WBYFC Sportivo U14"
-    },
-    {
-      "id": "57ba49b3cb8978bbce4927cc8a722e25",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Phoenix Inham Knights U9",
-      "away_team": "Heanor Town Avengers U9",
-      "venue": "Inham Nook Recreation Ground NG9 4GQ",
-      "division": "U9 Sat Spring Div 6 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Phoenix Inham Knights U9",
-      "home_away": "home",
-      "opponent": "Heanor Town Avengers U9"
     },
     {
       "id": "b0d27c772e61732c856d9b33fa982186",
@@ -550,6 +485,91 @@
     }
   ],
   "results": [
+    {
+      "id": "9ac9f3e9017442e3384941a263f342e4",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Phoenix Inham Firebirds U12",
+      "away_team": "Sneinton Town U12",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Sat YEL Foundation Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Phoenix Inham Firebirds U12",
+      "home_away": "home",
+      "opponent": "Sneinton Town U12",
+      "goals_for": 3,
+      "goals_against": 4
+    },
+    {
+      "id": "57ba49b3cb8978bbce4927cc8a722e25",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Phoenix Inham Knights U9",
+      "away_team": "Heanor Town Avengers U9",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat Spring Div 6 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Phoenix Inham Knights U9",
+      "home_away": "home",
+      "opponent": "Heanor Town Avengers U9",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
+      "id": "19878906e8141a705fe0911c6d0fbe6c",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Phoenix Inham Devils U10",
+      "away_team": "Long Eaton United Royal U10",
+      "home_score": 7,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 4 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Phoenix Inham Devils U10",
+      "home_away": "home",
+      "opponent": "Long Eaton United Royal U10",
+      "goals_for": 7,
+      "goals_against": 1
+    },
+    {
+      "id": "a00d22148077e6e9647291f4bf1813c5",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Priory Celtic White U7",
+      "away_team": "Phoenix Inham Firewings U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Phoenix Inham Firewings U7",
+      "home_away": "away",
+      "opponent": "Priory Celtic White U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "37050888fff10362c1976e26adb6ad7b",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Phoenix Inham Rockets U11",
+      "away_team": "Clifton All Whites Scarlet U11",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 6 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Phoenix Inham Rockets U11",
+      "home_away": "home",
+      "opponent": "Clifton All Whites Scarlet U11",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "5f8b11691f724a00a9b8f0abc530e5df",
       "date": "2026-04-18",

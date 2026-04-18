@@ -1,33 +1,7 @@
 {
   "club": "Meden Vale",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "b3525fcc1e9d9cac05f38277aa336e4f",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Meden Vale Colts Green U11",
-      "away_team": "Silva FC Carlton Hoods U11",
-      "venue": "Carr Lane NG20 0BN",
-      "division": "U11 Sat Spring Div 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Meden Vale Colts Green U11",
-      "home_away": "home",
-      "opponent": "Silva FC Carlton Hoods U11"
-    },
-    {
-      "id": "317f49e35c57a9bba220e7bebe3bf9b7",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Meden Vale Colts Red U14",
-      "away_team": "Heather St Johns U14",
-      "venue": "Manor Sport & Recreation Cntre  NG19 8JY",
-      "division": "u14 Sat Spring Div 1 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Meden Vale Colts Red U14",
-      "home_away": "home",
-      "opponent": "Heather St Johns U14"
-    },
     {
       "id": "ccf4ebe3a16474ebc596ff35076359a1",
       "date": "2026-04-18",
@@ -40,19 +14,6 @@
       "team": "Meden Vale Colts Gold U14",
       "home_away": "away",
       "opponent": "Gedling Southbank United U14"
-    },
-    {
-      "id": "8d017f1b227d9727d613323d25efe95f",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Meden Vale Colts Red U11",
-      "away_team": "Ravenshead Reds Outlaws U11",
-      "venue": "Carr Lane NG20 0BN",
-      "division": "U11 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Meden Vale Colts Red U11",
-      "home_away": "home",
-      "opponent": "Ravenshead Reds Outlaws U11"
     },
     {
       "id": "399d8eea03004bab6718abab15852080",
@@ -486,6 +447,23 @@
   ],
   "results": [
     {
+      "id": "8d017f1b227d9727d613323d25efe95f",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Meden Vale Colts Red U11",
+      "away_team": "Ravenshead Reds Outlaws U11",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Meden Vale Colts Red U11",
+      "home_away": "home",
+      "opponent": "Ravenshead Reds Outlaws U11",
+      "goals_for": 2,
+      "goals_against": 3
+    },
+    {
       "id": "e4820c42d294671fe68c842a20043c3d",
       "date": "2026-04-18",
       "time": "10:00",
@@ -501,6 +479,40 @@
       "opponent": "Market Warsop Stags U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "b3525fcc1e9d9cac05f38277aa336e4f",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Meden Vale Colts Green U11",
+      "away_team": "Silva FC Carlton Hoods U11",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat Spring Div 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Meden Vale Colts Green U11",
+      "home_away": "home",
+      "opponent": "Silva FC Carlton Hoods U11",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
+      "id": "317f49e35c57a9bba220e7bebe3bf9b7",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Meden Vale Colts Red U14",
+      "away_team": "Heather St Johns U14",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "",
+      "division": "u14 Sat Spring Div 1 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Meden Vale Colts Red U14",
+      "home_away": "home",
+      "opponent": "Heather St Johns U14",
+      "goals_for": 0,
+      "goals_against": 0
     },
     {
       "id": "29dbf377a13ab6d473b19d7a8fa19612",

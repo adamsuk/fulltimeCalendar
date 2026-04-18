@@ -1,19 +1,8 @@
 {
   "team": "Bestwood Colliery U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "91ca745e3d1483d4317e06649756c335",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Clifton All Whites White U14",
-      "away_team": "Bestwood Colliery U14",
-      "venue": "Farnborough Academy NG11 8JW",
-      "division": "U14 Saturday",
-      "home_away": "away",
-      "opponent": "Clifton All Whites White U14"
-    },
     {
       "id": "78bd2f434c812f9eb9928c7acb186319",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "91ca745e3d1483d4317e06649756c335",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Clifton All Whites White U14",
+      "away_team": "Bestwood Colliery U14",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Saturday",
+      "home_away": "away",
+      "opponent": "Clifton All Whites White U14",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "c5962429cf350cc91d36ca758f23e2b8",
       "date": "2026-03-28",

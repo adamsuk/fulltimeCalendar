@@ -1,19 +1,8 @@
 {
   "team": "Mansfield Hos Mills Blue U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "16729dcd7994d64bdd83bb5616a48c8e",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Mansfield Hos Mills Blue U13",
-      "away_team": "Clifton All Whites Blue U13",
-      "venue": "The Fieldings  NG17 2TF",
-      "division": "U13 Sat Spring Div 5 Red",
-      "home_away": "home",
-      "opponent": "Clifton All Whites Blue U13"
-    },
     {
       "id": "228420da7c5ed62548497031de159537",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "16729dcd7994d64bdd83bb5616a48c8e",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Mansfield Hos Mills Blue U13",
+      "away_team": "Clifton All Whites Blue U13",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "",
+      "division": "U13 Sat Spring Div 5 Red",
+      "home_away": "home",
+      "opponent": "Clifton All Whites Blue U13",
+      "goals_for": 1,
+      "goals_against": 6
+    },
     {
       "id": "03766f707e55aec86c26c50f89b2e54b",
       "date": "2026-04-14",

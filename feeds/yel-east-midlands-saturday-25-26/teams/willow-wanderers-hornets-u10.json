@@ -1,19 +1,8 @@
 {
   "team": "Willow Wanderers Hornets U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "234c02106da54de07646d10b76b401dd",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Woodborough Celtic U10",
-      "away_team": "Willow Wanderers Hornets U10",
-      "venue": "LINGWOOD LANE PLAYING FIELD NG14 6DX",
-      "division": "U10 Saturday",
-      "home_away": "away",
-      "opponent": "Woodborough Celtic U10"
-    },
     {
       "id": "a4615c92dc15ce679f6ab05ae0506ab1",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "234c02106da54de07646d10b76b401dd",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Woodborough Celtic U10",
+      "away_team": "Willow Wanderers Hornets U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "home_away": "away",
+      "opponent": "Woodborough Celtic U10",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "30ade7f66a0201e5efc36744bbda4c7f",
       "date": "2026-03-28",

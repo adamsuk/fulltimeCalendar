@@ -1,33 +1,7 @@
 {
   "club": "Castle Donington",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "a22d1946e6272720265ca3f22dc46b61",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Castle Donington Raptors U8",
-      "away_team": "Coalville Town Ravens U8",
-      "venue": "Spital Park DE74 2NQ",
-      "division": "U8 Sat Spring 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Castle Donington Raptors U8",
-      "home_away": "home",
-      "opponent": "Coalville Town Ravens U8"
-    },
-    {
-      "id": "c94a09eff8f7f21f4ede7f869b306049",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "WBYFC Dynamos Stripes U8",
-      "away_team": "Castle Donington Rex's U8",
-      "venue": "Alford Road, NG2 6HP",
-      "division": "U8 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Castle Donington Rex's U8",
-      "home_away": "away",
-      "opponent": "WBYFC Dynamos Stripes U8"
-    },
     {
       "id": "6e7a9faa967d8dab469c0ca81f3c91f4",
       "date": "2026-04-19",
@@ -368,6 +342,40 @@
     }
   ],
   "results": [
+    {
+      "id": "a22d1946e6272720265ca3f22dc46b61",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Castle Donington Raptors U8",
+      "away_team": "Coalville Town Ravens U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Castle Donington Raptors U8",
+      "home_away": "home",
+      "opponent": "Coalville Town Ravens U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "c94a09eff8f7f21f4ede7f869b306049",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "WBYFC Dynamos Stripes U8",
+      "away_team": "Castle Donington Rex's U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Castle Donington Rex's U8",
+      "home_away": "away",
+      "opponent": "WBYFC Dynamos Stripes U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "85a6894f715d78695a24fa6b92ee0151",
       "date": "2026-04-15",

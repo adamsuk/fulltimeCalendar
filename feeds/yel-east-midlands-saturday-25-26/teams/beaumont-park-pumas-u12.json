@@ -1,19 +1,8 @@
 {
   "team": "Beaumont Park Pumas U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "179b3d4f8e0bf8a8f7c1265a4096fb98",
-      "date": "2026-04-18",
-      "time": "10:45",
-      "home_team": "Beaumont Park Pumas U12",
-      "away_team": "Darley Sports Lions 2 U12",
-      "venue": "Beaumont Park LE4 1DS",
-      "division": "U12 Sat Spring Div 1 Gold",
-      "home_away": "home",
-      "opponent": "Darley Sports Lions 2 U12"
-    },
     {
       "id": "e8ea6c88f4df9b22c0bbfef4ee3d5193",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "179b3d4f8e0bf8a8f7c1265a4096fb98",
+      "date": "2026-04-18",
+      "time": "10:45",
+      "home_team": "Beaumont Park Pumas U12",
+      "away_team": "Darley Sports Lions 2 U12",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Sat Spring Div 1 Gold",
+      "home_away": "home",
+      "opponent": "Darley Sports Lions 2 U12",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "f8e7fcef4de299f959c1914496858cf1",
       "date": "2026-03-28",

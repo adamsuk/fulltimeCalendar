@@ -1,19 +1,8 @@
 {
   "team": "Silva FC Southglade Pink U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "206df6bedb21e4484f77de248bb2d292",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Southwell City United U14",
-      "away_team": "Silva FC Southglade Pink U14",
-      "venue": "Centenary Ground Brinkley NG25 0TU",
-      "division": "U14 Sat Spring Div 4 Red",
-      "home_away": "away",
-      "opponent": "Southwell City United U14"
-    },
     {
       "id": "3c395006faad298453be4f3cf815a458",
       "date": "2026-04-21",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "206df6bedb21e4484f77de248bb2d292",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Southwell City United U14",
+      "away_team": "Silva FC Southglade Pink U14",
+      "home_score": 12,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sat Spring Div 4 Red",
+      "home_away": "away",
+      "opponent": "Southwell City United U14",
+      "goals_for": 2,
+      "goals_against": 12
+    },
     {
       "id": "558a1c8b7a759d3e48b1a240e24fbec2",
       "date": "2026-04-11",

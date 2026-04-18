@@ -1,33 +1,7 @@
 {
   "club": "Spondon Dynamos",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "81de4db96052918260f3cc790e35fea8",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Spondon Dynamos AS Yellow U11",
-      "away_team": "Nottingham FC Onyx U11",
-      "venue": "Spital Park DE74 2NQ",
-      "division": "U11 Sat Spring Premier Division",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Spondon Dynamos AS Yellow U11",
-      "home_away": "home",
-      "opponent": "Nottingham FC Onyx U11"
-    },
-    {
-      "id": "8809146ef90b3e6726eb15d7f8e21d15",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Spirit Celtic Green U13",
-      "away_team": "Spondon Dynamos Legends U13",
-      "venue": "Becket School NG2 7QY",
-      "division": "U13 Sat Spring Div 8",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Spondon Dynamos Legends U13",
-      "home_away": "away",
-      "opponent": "Spirit Celtic Green U13"
-    },
     {
       "id": "6bdda7babba96d7c198b257472d28dd7",
       "date": "2026-04-19",
@@ -108,6 +82,40 @@
     }
   ],
   "results": [
+    {
+      "id": "81de4db96052918260f3cc790e35fea8",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Spondon Dynamos AS Yellow U11",
+      "away_team": "Nottingham FC Onyx U11",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Spondon Dynamos AS Yellow U11",
+      "home_away": "home",
+      "opponent": "Nottingham FC Onyx U11",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
+      "id": "8809146ef90b3e6726eb15d7f8e21d15",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Spirit Celtic Green U13",
+      "away_team": "Spondon Dynamos Legends U13",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sat Spring Div 8",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Spondon Dynamos Legends U13",
+      "home_away": "away",
+      "opponent": "Spirit Celtic Green U13",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "ac76a6cdecff827629e4da06c52311cd",
       "date": "2026-04-16",

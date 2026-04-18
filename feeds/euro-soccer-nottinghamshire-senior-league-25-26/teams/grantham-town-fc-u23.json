@@ -1,19 +1,8 @@
 {
   "team": "Grantham Town FC U23",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "30d97aa45e2eb529836af5bc0963b8bf",
-      "date": "2026-04-18",
-      "time": "10:30",
-      "home_team": "Stapleford Town FC U23",
-      "away_team": "Grantham Town FC U23",
-      "venue": "STAPLEFORD COMMUNITY PAVILION",
-      "division": "Development Spring Division Two",
-      "home_away": "away",
-      "opponent": "Stapleford Town FC U23"
-    },
     {
       "id": "ef0561f9a4d8ade8ffd8561b200ef1ce",
       "date": "2026-04-25",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "30d97aa45e2eb529836af5bc0963b8bf",
+      "date": "2026-04-18",
+      "time": "10:30",
+      "home_team": "Stapleford Town FC U23",
+      "away_team": "Grantham Town FC U23",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "home_away": "away",
+      "opponent": "Stapleford Town FC U23",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "7f8f156fe801373111b1a6c2e2e30689",
       "date": "2026-04-11",

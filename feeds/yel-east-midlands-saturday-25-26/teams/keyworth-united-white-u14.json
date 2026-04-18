@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United White U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "2cf441b9283447d5abe3bdbe450cc663",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Keyworth United White U14",
-      "away_team": "Riverside FC Tides U14",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U14 Sat Spring Div 6 Blue",
-      "home_away": "home",
-      "opponent": "Riverside FC Tides U14"
-    },
     {
       "id": "97b371d19911581f2eb32fdb35e442b3",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2cf441b9283447d5abe3bdbe450cc663",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Keyworth United White U14",
+      "away_team": "Riverside FC Tides U14",
+      "home_score": 5,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sat Spring Div 6 Blue",
+      "home_away": "home",
+      "opponent": "Riverside FC Tides U14",
+      "goals_for": 5,
+      "goals_against": 4
+    },
     {
       "id": "3a431869f8e57557ad7c2d9f40b6b56f",
       "date": "2026-03-28",

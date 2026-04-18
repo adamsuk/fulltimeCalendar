@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United White U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "f99977c89224bd6ea7b1137f7025ed04",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Loughborough Eml Blues U13",
-      "away_team": "Keyworth United White U13",
-      "venue": "Charnwood College, Loughborough LE11 4SQ",
-      "division": "U13 Sat Spring Div 8",
-      "home_away": "away",
-      "opponent": "Loughborough Eml Blues U13"
-    },
     {
       "id": "6b8d7460707bf8ad51b846bde89de494",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f99977c89224bd6ea7b1137f7025ed04",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Loughborough Eml Blues U13",
+      "away_team": "Keyworth United White U13",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Spring Div 8",
+      "home_away": "away",
+      "opponent": "Loughborough Eml Blues U13",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "486f7e17dee79cf9661b6688c1444681",
       "date": "2026-03-21",

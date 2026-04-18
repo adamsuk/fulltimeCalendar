@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Corinthians U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "d4262fdd00fbbbaf000642233c175357",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "WBYFC Corinthians U9",
-      "away_team": "Inspire Nottingham U9",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U9 Sat Spring Div 2 Blue",
-      "home_away": "home",
-      "opponent": "Inspire Nottingham U9"
-    },
     {
       "id": "849730192a00330a0b48b78ae040e01d",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d4262fdd00fbbbaf000642233c175357",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "WBYFC Corinthians U9",
+      "away_team": "Inspire Nottingham U9",
+      "home_score": 7,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 2 Blue",
+      "home_away": "home",
+      "opponent": "Inspire Nottingham U9",
+      "goals_for": 7,
+      "goals_against": 2
+    },
     {
       "id": "fed0d6186e002d59d54b8b67d0214f17",
       "date": "2026-03-28",

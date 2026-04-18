@@ -1,19 +1,8 @@
 {
   "team": "Sherwood Colliery Black U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "d1265e59daea39068b13dccbe0f164a8",
-      "date": "2026-04-18",
-      "time": "09:45",
-      "home_team": "Sherwood Colliery Black U9",
-      "away_team": "Manor FC U9",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U9 Sat Spring Div 3 Red",
-      "home_away": "home",
-      "opponent": "Manor FC U9"
-    },
     {
       "id": "4eb8a71358730da8d586c15b0a05e5bb",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d1265e59daea39068b13dccbe0f164a8",
+      "date": "2026-04-18",
+      "time": "09:45",
+      "home_team": "Sherwood Colliery Black U9",
+      "away_team": "Manor FC U9",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat Spring Div 3 Red",
+      "home_away": "home",
+      "opponent": "Manor FC U9",
+      "goals_for": 4,
+      "goals_against": 3
+    },
     {
       "id": "42cf6584003505319ac00bcd091445aa",
       "date": "2026-03-28",

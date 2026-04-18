@@ -1,33 +1,7 @@
 {
   "club": "Wollaton FC",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "8de3c4554f00a52003bf065ba26866ea",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "WBYFC Dynamos Red U8",
-      "away_team": "Wollaton FC Navy U8",
-      "venue": "Alford Road, NG2 6HP",
-      "division": "U8 Sat Spring 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Wollaton FC Navy U8",
-      "home_away": "away",
-      "opponent": "WBYFC Dynamos Red U8"
-    },
-    {
-      "id": "e5f83dab4b9c9da3de6f29f0e2972f9e",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Wollaton FC U9",
-      "away_team": "Woodthorpe Com Fire U9",
-      "venue": "Wollaton Sports Association NG8 2AP",
-      "division": "U9 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Wollaton FC U9",
-      "home_away": "home",
-      "opponent": "Woodthorpe Com Fire U9"
-    },
     {
       "id": "2dd6b8d8b51e8d7f4b060bdb7b3dc224",
       "date": "2026-04-18",
@@ -109,6 +83,23 @@
   ],
   "results": [
     {
+      "id": "8de3c4554f00a52003bf065ba26866ea",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "WBYFC Dynamos Red U8",
+      "away_team": "Wollaton FC Navy U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Wollaton FC Navy U8",
+      "home_away": "away",
+      "opponent": "WBYFC Dynamos Red U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "5de1787b2435516ccc2821221f78a6b0",
       "date": "2026-04-18",
       "time": "10:00",
@@ -122,6 +113,23 @@
       "team": "Wollaton FC Sky U8",
       "home_away": "home",
       "opponent": "Keyworth United White U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "e5f83dab4b9c9da3de6f29f0e2972f9e",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Wollaton FC U9",
+      "away_team": "Woodthorpe Com Fire U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Wollaton FC U9",
+      "home_away": "home",
+      "opponent": "Woodthorpe Com Fire U9",
       "goals_for": null,
       "goals_against": null
     },

@@ -1,19 +1,8 @@
 {
   "team": "Stapleford Town Saxons U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "8f8435e1c42d4a0ad44322666b0e8f1f",
-      "date": "2026-04-18",
-      "time": "11:30",
-      "home_team": "Silva FC Rushcliffe Gold U13",
-      "away_team": "Stapleford Town Saxons U13",
-      "venue": "Rushcliffe School  NG2 7BW",
-      "division": "U13 Sat YEL Cup",
-      "home_away": "away",
-      "opponent": "Silva FC Rushcliffe Gold U13"
-    },
     {
       "id": "cea091bd786e1e0616e5f4c9e07610a3",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8f8435e1c42d4a0ad44322666b0e8f1f",
+      "date": "2026-04-18",
+      "time": "11:30",
+      "home_team": "Silva FC Rushcliffe Gold U13",
+      "away_team": "Stapleford Town Saxons U13",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat YEL Cup",
+      "home_away": "away",
+      "opponent": "Silva FC Rushcliffe Gold U13",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "ee7843c69724f8cb3bb159fe251c39d9",
       "date": "2026-03-21",

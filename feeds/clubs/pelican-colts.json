@@ -1,6 +1,6 @@
 {
   "club": "Pelican Colts",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
     {
       "id": "30ca6cb54aa4519f419c8085c7a771ce",
@@ -14,19 +14,6 @@
       "team": "Pelican Colts FC Ladies",
       "home_away": "home",
       "opponent": "Lowdham Colts FC Development"
-    },
-    {
-      "id": "de78fcafb136bc8c6b8ec4fd80c9ebdd",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Hucknall Sports Red U13",
-      "away_team": "Pelican Colts Red U13",
-      "venue": "Engine Rooms NG15 6EP",
-      "division": "U13 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Pelican Colts Red U13",
-      "home_away": "away",
-      "opponent": "Hucknall Sports Red U13"
     },
     {
       "id": "9a824cd92f9c7183134d9a5f3e86830c",
@@ -277,6 +264,23 @@
     }
   ],
   "results": [
+    {
+      "id": "de78fcafb136bc8c6b8ec4fd80c9ebdd",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Hucknall Sports Red U13",
+      "away_team": "Pelican Colts Red U13",
+      "home_score": 0,
+      "away_score": 8,
+      "venue": "",
+      "division": "U13 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Pelican Colts Red U13",
+      "home_away": "away",
+      "opponent": "Hucknall Sports Red U13",
+      "goals_for": 8,
+      "goals_against": 0
+    },
     {
       "id": "1c61375540ecdee5ab4a43df1b5a94a7",
       "date": "2026-04-18",

@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Galaxy U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "f443f53c9e0e3a3eb5e985a552446b6e",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "South Normanton Athletic U13",
-      "away_team": "WBYFC Galaxy U13",
-      "venue": "South Street Rec DE55 2DA",
-      "division": "U13 Sat Spring Div 2 Blue",
-      "home_away": "away",
-      "opponent": "South Normanton Athletic U13"
-    },
     {
       "id": "55fd5cc5e6b4c3b09ccd84b94a53644c",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f443f53c9e0e3a3eb5e985a552446b6e",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "South Normanton Athletic U13",
+      "away_team": "WBYFC Galaxy U13",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sat Spring Div 2 Blue",
+      "home_away": "away",
+      "opponent": "South Normanton Athletic U13",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "2c4a9a7b991dea572c6dc507438e84b4",
       "date": "2026-03-21",

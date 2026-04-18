@@ -1,19 +1,8 @@
 {
   "team": "DLFC Blue U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "c094fcdb0384df5b4fa61ed9cff64124",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Bottesford Blue U12",
-      "away_team": "DLFC Blue U12",
-      "venue": "Nottingham Rd, Bottesford  NG13 0AP",
-      "division": "U12 Saturday",
-      "home_away": "away",
-      "opponent": "Bottesford Blue U12"
-    },
     {
       "id": "91927d49e660110d375e9f86cd64104a",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c094fcdb0384df5b4fa61ed9cff64124",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Bottesford Blue U12",
+      "away_team": "DLFC Blue U12",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Saturday",
+      "home_away": "away",
+      "opponent": "Bottesford Blue U12",
+      "goals_for": 0,
+      "goals_against": 5
+    },
     {
       "id": "3c5cc9ab06b8b72a473ff2cb0c1a768a",
       "date": "2026-03-21",

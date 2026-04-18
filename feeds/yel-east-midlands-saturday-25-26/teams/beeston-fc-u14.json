@@ -1,19 +1,8 @@
 {
   "team": "Beeston FC U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "771e9ee6452ba58a01255f65fc4df3c4",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Wollaton H & B Green U14",
-      "away_team": "Beeston FC U14",
-      "venue": "Highfields NG7 2PS",
-      "division": "U14 Sat Spring Div 5 Blue",
-      "home_away": "away",
-      "opponent": "Wollaton H & B Green U14"
-    },
     {
       "id": "ad85fa01639ca0dbc9b59b05c67f459f",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "771e9ee6452ba58a01255f65fc4df3c4",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Wollaton H & B Green U14",
+      "away_team": "Beeston FC U14",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sat Spring Div 5 Blue",
+      "home_away": "away",
+      "opponent": "Wollaton H & B Green U14",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "b70db2d88d35ad16d439c63f6db35653",
       "date": "2026-04-14",

@@ -1,19 +1,8 @@
 {
   "team": "Hilton Harriers Adders U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "6032dbc4c4d3e41c83a7af669121e167",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Hilton Harriers Adders U13",
-      "away_team": "Wollaton H & B Oaks U13",
-      "venue": "The Mease Pavilion DE65 5LS",
-      "division": "U13 Sat Spring Div 7 Blue",
-      "home_away": "home",
-      "opponent": "Wollaton H & B Oaks U13"
-    },
     {
       "id": "b951c8b5cd8f2303d8f9e74d37e3a9a2",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6032dbc4c4d3e41c83a7af669121e167",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Hilton Harriers Adders U13",
+      "away_team": "Wollaton H & B Oaks U13",
+      "home_score": 4,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sat Spring Div 7 Blue",
+      "home_away": "home",
+      "opponent": "Wollaton H & B Oaks U13",
+      "goals_for": 4,
+      "goals_against": 4
+    },
     {
       "id": "748d2b4809b152c819eb273ee2166676",
       "date": "2026-03-21",

@@ -1,19 +1,8 @@
 {
   "team": "Collingham FC Cougars U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "2c7a9467e153fae3379dc35e46b913c8",
-      "date": "2026-04-18",
-      "time": "12:30",
-      "home_team": "Collingham FC Cougars U14",
-      "away_team": "Walesby FC White U14",
-      "venue": "SOUTH CLIFTON SPORTS FIELD NG23 7AF",
-      "division": "U14 Sat YEL Challenge Trophy",
-      "home_away": "home",
-      "opponent": "Walesby FC White U14"
-    },
     {
       "id": "26fe23e04de4d38c011756150c063db3",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2c7a9467e153fae3379dc35e46b913c8",
+      "date": "2026-04-18",
+      "time": "12:30",
+      "home_team": "Collingham FC Cougars U14",
+      "away_team": "Walesby FC White U14",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Sat YEL Challenge Trophy",
+      "home_away": "home",
+      "opponent": "Walesby FC White U14",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "9b4f5a6f21b85ca1cde22af364a98a12",
       "date": "2026-04-11",

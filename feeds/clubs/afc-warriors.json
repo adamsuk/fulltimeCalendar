@@ -1,6 +1,6 @@
 {
   "club": "AFC Warriors",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
     {
       "id": "4675a1e8a2a2fa41268b0645c51b8239",
@@ -14,45 +14,6 @@
       "team": "AFC Warriors Development",
       "home_away": "away",
       "opponent": "Beaufort United F.C. Development"
-    },
-    {
-      "id": "78f7d374068c9bf88f119fd6182a7955",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "AFC Warriors Raiders U8",
-      "away_team": "Southwell City Pumas U8",
-      "venue": "Newark Academy  NG24 3AL",
-      "division": "U8 Sat Spring 6 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "AFC Warriors Raiders U8",
-      "home_away": "home",
-      "opponent": "Southwell City Pumas U8"
-    },
-    {
-      "id": "df04db1d8c3362aa03374e89af4fb536",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "AFC Warriors Vikings U11",
-      "away_team": "Ravenshead FC U11",
-      "venue": "Newark Academy  NG24 3AL",
-      "division": "U11 Sat Spring Div 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "AFC Warriors Vikings U11",
-      "home_away": "home",
-      "opponent": "Ravenshead FC U11"
-    },
-    {
-      "id": "a5b3059fc1f0c9ce6c63efa702877db1",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Collingham FC Development",
-      "away_team": "AFC Warriors Development",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "AFC Warriors Development",
-      "home_away": "away",
-      "opponent": "Collingham FC Development"
     },
     {
       "id": "cb271a8dab0af6b423c268c80d5de2cc",
@@ -293,6 +254,57 @@
       "opponent": "Tuxford FC U9",
       "goals_for": 6,
       "goals_against": 1
+    },
+    {
+      "id": "78f7d374068c9bf88f119fd6182a7955",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "AFC Warriors Raiders U8",
+      "away_team": "Southwell City Pumas U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "AFC Warriors Raiders U8",
+      "home_away": "home",
+      "opponent": "Southwell City Pumas U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "df04db1d8c3362aa03374e89af4fb536",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "AFC Warriors Vikings U11",
+      "away_team": "Ravenshead FC U11",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U11 Sat Spring Div 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "AFC Warriors Vikings U11",
+      "home_away": "home",
+      "opponent": "Ravenshead FC U11",
+      "goals_for": 2,
+      "goals_against": 4
+    },
+    {
+      "id": "a5b3059fc1f0c9ce6c63efa702877db1",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Collingham FC Development",
+      "away_team": "AFC Warriors Development",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "AFC Warriors Development",
+      "home_away": "away",
+      "opponent": "Collingham FC Development",
+      "goals_for": 1,
+      "goals_against": 2
     },
     {
       "id": "96af958c1e8f34b85beae02def810d31",

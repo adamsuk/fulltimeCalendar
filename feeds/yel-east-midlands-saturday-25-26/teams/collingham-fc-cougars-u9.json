@@ -1,19 +1,8 @@
 {
   "team": "Collingham FC Cougars U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "836febf6bc83fabc085ea52fecf834d3",
-      "date": "2026-04-18",
-      "time": "11:15",
-      "home_team": "Collingham FC Cougars U9",
-      "away_team": "Underwood Villa Panthers U9",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U9 Sat Spring Div 3 Red",
-      "home_away": "home",
-      "opponent": "Underwood Villa Panthers U9"
-    },
     {
       "id": "8d916058faaf46aaea996fba95bdec3a",
       "date": "2026-04-25",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "836febf6bc83fabc085ea52fecf834d3",
+      "date": "2026-04-18",
+      "time": "11:15",
+      "home_team": "Collingham FC Cougars U9",
+      "away_team": "Underwood Villa Panthers U9",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sat Spring Div 3 Red",
+      "home_away": "home",
+      "opponent": "Underwood Villa Panthers U9",
+      "goals_for": 5,
+      "goals_against": 0
+    },
     {
       "id": "10bbc11f6c08a1492cbf5ccfe6a00ce9",
       "date": "2026-03-28",

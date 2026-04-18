@@ -1,19 +1,8 @@
 {
   "team": "AJ Sport Gold U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "ae7fd7a1bf7eaf4d12c26d203c6ae6e7",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "AJ Sport Gold U10",
-      "away_team": "Breaston Park U10",
-      "venue": "Beeston Fields Recreation Ground NG9 2QT",
-      "division": "U10 Sat Spring Div 5 Green",
-      "home_away": "home",
-      "opponent": "Breaston Park U10"
-    },
     {
       "id": "2bdc95e799b5965a1c5e1de79235058c",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ae7fd7a1bf7eaf4d12c26d203c6ae6e7",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "AJ Sport Gold U10",
+      "away_team": "Breaston Park U10",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U10 Sat Spring Div 5 Green",
+      "home_away": "home",
+      "opponent": "Breaston Park U10",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "cf34b6b0706ac260f8a2e637c2a0e284",
       "date": "2026-03-28",

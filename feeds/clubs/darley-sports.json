@@ -1,33 +1,7 @@
 {
   "club": "Darley Sports",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "2abbbcb41df9301428a8d6919795bd73",
-      "date": "2026-04-18",
-      "time": "10:15",
-      "home_team": "Beaumont Park Jaguars U11",
-      "away_team": "Darley Sports Corinthians U11",
-      "venue": "Derby Rugby Club DE22 1EB",
-      "division": "U11 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Darley Sports Corinthians U11",
-      "home_away": "away",
-      "opponent": "Beaumont Park Jaguars U11"
-    },
-    {
-      "id": "179b3d4f8e0bf8a8f7c1265a4096fb98",
-      "date": "2026-04-18",
-      "time": "10:45",
-      "home_team": "Beaumont Park Pumas U12",
-      "away_team": "Darley Sports Lions 2 U12",
-      "venue": "Beaumont Park LE4 1DS",
-      "division": "U12 Sat Spring Div 1 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Darley Sports Lions 2 U12",
-      "home_away": "away",
-      "opponent": "Beaumont Park Pumas U12"
-    },
     {
       "id": "4bc777e0eb3133d8fc5ed6d7d995e12f",
       "date": "2026-04-25",
@@ -69,6 +43,40 @@
     }
   ],
   "results": [
+    {
+      "id": "179b3d4f8e0bf8a8f7c1265a4096fb98",
+      "date": "2026-04-18",
+      "time": "10:45",
+      "home_team": "Beaumont Park Pumas U12",
+      "away_team": "Darley Sports Lions 2 U12",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Sat Spring Div 1 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Darley Sports Lions 2 U12",
+      "home_away": "away",
+      "opponent": "Beaumont Park Pumas U12",
+      "goals_for": 4,
+      "goals_against": 2
+    },
+    {
+      "id": "2abbbcb41df9301428a8d6919795bd73",
+      "date": "2026-04-18",
+      "time": "10:15",
+      "home_team": "Beaumont Park Jaguars U11",
+      "away_team": "Darley Sports Corinthians U11",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Darley Sports Corinthians U11",
+      "home_away": "away",
+      "opponent": "Beaumont Park Jaguars U11",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "52a49b6772ffa09aad11678b3a3aa53d",
       "date": "2026-03-28",

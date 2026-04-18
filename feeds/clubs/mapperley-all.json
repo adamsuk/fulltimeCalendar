@@ -1,46 +1,7 @@
 {
   "club": "Mapperley All",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "7c54050f22f1961359b04ba0fc51db96",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Mapperley All Stars Stripes U11",
-      "away_team": "Edwalton Cavaliers Red U11",
-      "venue": "Colwick Recreation Ground NG4 2DW",
-      "division": "U11 Sat Spring Div 6 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Mapperley All Stars Stripes U11",
-      "home_away": "home",
-      "opponent": "Edwalton Cavaliers Red U11"
-    },
-    {
-      "id": "284e921c646c3a02e0dab44617f8fcc3",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Alfreton Town Jnrs Goats U12",
-      "away_team": "Mapperley All Stars Yellow U12",
-      "venue": "Watchorn Lane DE55 7AT",
-      "division": "U12 Sat Spring Div 1 Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Mapperley All Stars Yellow U12",
-      "home_away": "away",
-      "opponent": "Alfreton Town Jnrs Goats U12"
-    },
-    {
-      "id": "3b009800e9d9a0d6c63925bed9f876dc",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Mapperley All Stars Yellow U13",
-      "away_team": "Newark Brazil Corinthians U13",
-      "venue": "Lambley Lane NG4 4PA",
-      "division": "U13 Sat Spring Div 5 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Mapperley All Stars Yellow U13",
-      "home_away": "home",
-      "opponent": "Newark Brazil Corinthians U13"
-    },
     {
       "id": "066df989d18226d4155e4c2a0eb9d953",
       "date": "2026-04-19",
@@ -317,6 +278,40 @@
   ],
   "results": [
     {
+      "id": "3b009800e9d9a0d6c63925bed9f876dc",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Mapperley All Stars Yellow U13",
+      "away_team": "Newark Brazil Corinthians U13",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sat Spring Div 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mapperley All Stars Yellow U13",
+      "home_away": "home",
+      "opponent": "Newark Brazil Corinthians U13",
+      "goals_for": 1,
+      "goals_against": 4
+    },
+    {
+      "id": "7c54050f22f1961359b04ba0fc51db96",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Mapperley All Stars Stripes U11",
+      "away_team": "Edwalton Cavaliers Red U11",
+      "home_score": 9,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 6 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mapperley All Stars Stripes U11",
+      "home_away": "home",
+      "opponent": "Edwalton Cavaliers Red U11",
+      "goals_for": 9,
+      "goals_against": 1
+    },
+    {
       "id": "8d170d7a4819f65de015b4f80af33b94",
       "date": "2026-04-18",
       "time": "10:00",
@@ -332,6 +327,23 @@
       "opponent": "Bingham Town Red U9",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "284e921c646c3a02e0dab44617f8fcc3",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Alfreton Town Jnrs Goats U12",
+      "away_team": "Mapperley All Stars Yellow U12",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mapperley All Stars Yellow U12",
+      "home_away": "away",
+      "opponent": "Alfreton Town Jnrs Goats U12",
+      "goals_for": 0,
+      "goals_against": 1
     },
     {
       "id": "d9c7050cd24fd2c4cc3867266dc81147",

@@ -1,19 +1,8 @@
 {
   "team": "AFC Chellaston Gladiators U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "24f0e4898f37155b54b9c2f472cb37a2",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "AFC Chellaston Gladiators U13",
-      "away_team": "Stanton Ilkeston Ninjas U13",
-      "venue": "Alvaston Park DE24 8QQ",
-      "division": "U13 Sat Spring Div 7 Blue",
-      "home_away": "home",
-      "opponent": "Stanton Ilkeston Ninjas U13"
-    },
     {
       "id": "09a4c04b978320886ec3ebb1eef80801",
       "date": "2026-04-21",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "24f0e4898f37155b54b9c2f472cb37a2",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "AFC Chellaston Gladiators U13",
+      "away_team": "Stanton Ilkeston Ninjas U13",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sat Spring Div 7 Blue",
+      "home_away": "home",
+      "opponent": "Stanton Ilkeston Ninjas U13",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "5b4523757fbf87ec8ca322da9f7799f6",
       "date": "2026-03-28",

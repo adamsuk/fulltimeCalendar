@@ -1,19 +1,8 @@
 {
   "team": "Sherwood Colliery Lions U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "6e5ed7a23c04182e0483997bf00ae6b0",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Sherwood Colliery Lions U12",
-      "away_team": "Hilton Harriers Fire U12",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U12 Saturday",
-      "home_away": "home",
-      "opponent": "Hilton Harriers Fire U12"
-    },
     {
       "id": "3c4e16e56b57912df50550b332e6f601",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6e5ed7a23c04182e0483997bf00ae6b0",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Sherwood Colliery Lions U12",
+      "away_team": "Hilton Harriers Fire U12",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Saturday",
+      "home_away": "home",
+      "opponent": "Hilton Harriers Fire U12",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "836e877e5b063f3876c05654b091af38",
       "date": "2026-03-28",

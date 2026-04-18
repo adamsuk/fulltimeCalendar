@@ -1,6 +1,6 @@
 {
   "club": "Beaufort United",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
     {
       "id": "4675a1e8a2a2fa41268b0645c51b8239",
@@ -27,19 +27,6 @@
       "team": "Beaufort United F.C. Development",
       "home_away": "home",
       "opponent": "Cotgrave Development"
-    },
-    {
-      "id": "05c556f66678db713912c13dbccfac34",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Arnold Town Blue U14",
-      "away_team": "Beaufort United Black U14",
-      "venue": "Eagle Valley NG5 8PS",
-      "division": "U14 Sat Spring Div 6 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Beaufort United Black U14",
-      "home_away": "away",
-      "opponent": "Arnold Town Blue U14"
     },
     {
       "id": "f49839b9faabf9780828bf4a57435dff",
@@ -342,6 +329,23 @@
     }
   ],
   "results": [
+    {
+      "id": "05c556f66678db713912c13dbccfac34",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Arnold Town Blue U14",
+      "away_team": "Beaufort United Black U14",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Beaufort United Black U14",
+      "home_away": "away",
+      "opponent": "Arnold Town Blue U14",
+      "goals_for": 1,
+      "goals_against": 6
+    },
     {
       "id": "2a94faf881daa32c27680337865a1107",
       "date": "2026-04-18",

@@ -1,19 +1,8 @@
 {
   "team": "Radcliffe Olympic Red U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "1828c31a8042aeb1910eec8dc707fb5c",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic Red U12",
-      "away_team": "Teversal FC U12",
-      "venue": "Bingham Road NG12 2GP",
-      "division": "U12 Sat Spring Div 2 Red",
-      "home_away": "home",
-      "opponent": "Teversal FC U12"
-    },
     {
       "id": "011976de673ed7e92ad7c11f98e9f6ca",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "1828c31a8042aeb1910eec8dc707fb5c",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic Red U12",
+      "away_team": "Teversal FC U12",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 2 Red",
+      "home_away": "home",
+      "opponent": "Teversal FC U12",
+      "goals_for": 6,
+      "goals_against": 1
+    },
     {
       "id": "39b1e52a77e0e93ed67dbe73296fa719",
       "date": "2026-03-21",

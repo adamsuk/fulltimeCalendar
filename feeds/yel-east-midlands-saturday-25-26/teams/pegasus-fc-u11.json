@@ -1,19 +1,8 @@
 {
   "team": "Pegasus FC U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "a80c3e350c168c786948befc00b36290",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Pegasus FC U11",
-      "away_team": "Silva FC Carlton White U11",
-      "venue": "Pasture Road Recreation Ground  NG9 8GN",
-      "division": "U11 Sat Spring Div 7 Blue",
-      "home_away": "home",
-      "opponent": "Silva FC Carlton White U11"
-    },
     {
       "id": "78410a0630cc1e0f56384f9f199e4a01",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a80c3e350c168c786948befc00b36290",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Pegasus FC U11",
+      "away_team": "Silva FC Carlton White U11",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat Spring Div 7 Blue",
+      "home_away": "home",
+      "opponent": "Silva FC Carlton White U11",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "467c5df97f0aa61039ae36d8efc8521d",
       "date": "2026-03-21",

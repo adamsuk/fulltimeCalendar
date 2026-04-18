@@ -1,6 +1,6 @@
 {
   "club": "Gonerby Blue",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
     {
       "id": "eeaa8584d4f7c56da82d0d3889e09a9c",
@@ -14,19 +14,6 @@
       "team": "Gonerby Blue U11",
       "home_away": "away",
       "opponent": "Wollaton H&B Stags U11"
-    },
-    {
-      "id": "3e0cd4b5749ed0d0983602fca7bb5d06",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Newark Brazil Corinthians U9",
-      "away_team": "Gonerby Blue U9",
-      "venue": "Claypole Playing Field NG23 5BQ",
-      "division": "U9 Sat Spring Div 9 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Gonerby Blue U9",
-      "home_away": "away",
-      "opponent": "Newark Brazil Corinthians U9"
     },
     {
       "id": "615c1856dc653f24081e055e165dc455",
@@ -134,6 +121,23 @@
     }
   ],
   "results": [
+    {
+      "id": "3e0cd4b5749ed0d0983602fca7bb5d06",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Newark Brazil Corinthians U9",
+      "away_team": "Gonerby Blue U9",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat Spring Div 9 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gonerby Blue U9",
+      "home_away": "away",
+      "opponent": "Newark Brazil Corinthians U9",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "ed892805b69aa556265e5cab9ee92111",
       "date": "2026-03-29",

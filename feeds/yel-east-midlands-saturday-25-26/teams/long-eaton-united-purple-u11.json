@@ -1,19 +1,8 @@
 {
   "team": "Long Eaton United Purple U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "0c361f8148c18d20fb6aa9998326a253",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Toton Tigers U11",
-      "away_team": "Long Eaton United Purple U11",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U11 Sat Spring Div 5 Blue",
-      "home_away": "away",
-      "opponent": "Toton Tigers U11"
-    },
     {
       "id": "a36ba92de9e73361777f6964e04739ae",
       "date": "2026-04-21",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0c361f8148c18d20fb6aa9998326a253",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Toton Tigers U11",
+      "away_team": "Long Eaton United Purple U11",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat Spring Div 5 Blue",
+      "home_away": "away",
+      "opponent": "Toton Tigers U11",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "43d1142a0ab291f0594cfbc265f220f4",
       "date": "2026-04-14",

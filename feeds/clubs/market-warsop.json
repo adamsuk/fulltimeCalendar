@@ -1,6 +1,6 @@
 {
   "club": "Market Warsop",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
     {
       "id": "12ff08f385ebfe1aa6223d044f1ddcca",
@@ -16,19 +16,6 @@
       "opponent": "Woodhouse Colts Yellow U10"
     },
     {
-      "id": "262a574b93a648fa4bfe28f988e3b279",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Market Warsop Stags U13",
-      "away_team": "Inspire Nottingham FC Red U13",
-      "venue": "John Fretwell Centre NG19 8LL",
-      "division": "U13 Sat Spring Div 1",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Market Warsop Stags U13",
-      "home_away": "home",
-      "opponent": "Inspire Nottingham FC Red U13"
-    },
-    {
       "id": "a948328d30226cd6a6d800171af6cd88",
       "date": "2026-04-18",
       "time": "10:00",
@@ -40,32 +27,6 @@
       "team": "Market Warsop Warriors U13",
       "home_away": "home",
       "opponent": "Nottingham Second Chance U13"
-    },
-    {
-      "id": "e132a025ed6fe461e0ef1ea4307c2cf3",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "PMG Excel U13",
-      "away_team": "Market Warsop Colts U13",
-      "venue": "Bulwell Hall Park NG6 8LF",
-      "division": "U13 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Market Warsop Colts U13",
-      "home_away": "away",
-      "opponent": "PMG Excel U13"
-    },
-    {
-      "id": "32611944a719709bebaaf1b5cf4051b5",
-      "date": "2026-04-18",
-      "time": "11:30",
-      "home_team": "Market Warsop Mavericks U11",
-      "away_team": "DLFC Pink U11",
-      "venue": "John Fretwell Centre NG19 8LL",
-      "division": "U11 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Market Warsop Mavericks U11",
-      "home_away": "home",
-      "opponent": "DLFC Pink U11"
     },
     {
       "id": "3f0f600583eb98a0a06e7dd47a5d3364",
@@ -368,6 +329,57 @@
     }
   ],
   "results": [
+    {
+      "id": "32611944a719709bebaaf1b5cf4051b5",
+      "date": "2026-04-18",
+      "time": "11:30",
+      "home_team": "Market Warsop Mavericks U11",
+      "away_team": "DLFC Pink U11",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Market Warsop Mavericks U11",
+      "home_away": "home",
+      "opponent": "DLFC Pink U11",
+      "goals_for": 0,
+      "goals_against": 3
+    },
+    {
+      "id": "e132a025ed6fe461e0ef1ea4307c2cf3",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "PMG Excel U13",
+      "away_team": "Market Warsop Colts U13",
+      "home_score": 5,
+      "away_score": 5,
+      "venue": "",
+      "division": "U13 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Market Warsop Colts U13",
+      "home_away": "away",
+      "opponent": "PMG Excel U13",
+      "goals_for": 5,
+      "goals_against": 5
+    },
+    {
+      "id": "262a574b93a648fa4bfe28f988e3b279",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Market Warsop Stags U13",
+      "away_team": "Inspire Nottingham FC Red U13",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Spring Div 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Market Warsop Stags U13",
+      "home_away": "home",
+      "opponent": "Inspire Nottingham FC Red U13",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "e4820c42d294671fe68c842a20043c3d",
       "date": "2026-04-18",

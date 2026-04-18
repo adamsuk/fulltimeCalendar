@@ -1,19 +1,8 @@
 {
   "team": "Spirit Celtic Red U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "ea364b35af411270b36b987351aa90df",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Spirit Celtic Red U10",
-      "away_team": "Toton Tornados Vortex U10",
-      "venue": "Becket School NG2 7QY",
-      "division": "U10 Sat Spring Div 9 Blue",
-      "home_away": "home",
-      "opponent": "Toton Tornados Vortex U10"
-    },
     {
       "id": "f699a08e2901eb2421848a641feb258c",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ea364b35af411270b36b987351aa90df",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Spirit Celtic Red U10",
+      "away_team": "Toton Tornados Vortex U10",
+      "home_score": 4,
+      "away_score": 6,
+      "venue": "",
+      "division": "U10 Sat Spring Div 9 Blue",
+      "home_away": "home",
+      "opponent": "Toton Tornados Vortex U10",
+      "goals_for": 4,
+      "goals_against": 6
+    },
     {
       "id": "dbde1247c6a70135121259d466aa58a1",
       "date": "2026-03-28",

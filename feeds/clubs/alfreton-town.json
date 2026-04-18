@@ -1,6 +1,6 @@
 {
   "club": "Alfreton Town",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
     {
       "id": "7bb659e191c799c7c2b4c41921a41c9f",
@@ -14,45 +14,6 @@
       "team": "Alfreton Town Juniors U10 Lionesses",
       "home_away": "home",
       "opponent": "Bottesford U10 Girls"
-    },
-    {
-      "id": "b4a92a561cef44252a031f8bd2539b56",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Alfreton Town Eagles U11",
-      "away_team": "Newton & Blackwell Storm U11",
-      "venue": "David Neiper Academy School DE55 7JA",
-      "division": "U11 Sat Spring Div 7 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Alfreton Town Eagles U11",
-      "home_away": "home",
-      "opponent": "Newton & Blackwell Storm U11"
-    },
-    {
-      "id": "284e921c646c3a02e0dab44617f8fcc3",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Alfreton Town Jnrs Goats U12",
-      "away_team": "Mapperley All Stars Yellow U12",
-      "venue": "Watchorn Lane DE55 7AT",
-      "division": "U12 Sat Spring Div 1 Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Alfreton Town Jnrs Goats U12",
-      "home_away": "home",
-      "opponent": "Mapperley All Stars Yellow U12"
-    },
-    {
-      "id": "459a090b63c63847e5dc62f7097eef69",
-      "date": "2026-04-18",
-      "time": "10:30",
-      "home_team": "WBYFC Spartans U13",
-      "away_team": "Alfreton Town Tigers U13",
-      "venue": "Riverside Complex NG7 2SA",
-      "division": "U13 Sat Spring Div 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Alfreton Town Tigers U13",
-      "home_away": "away",
-      "opponent": "WBYFC Spartans U13"
     },
     {
       "id": "9501ea58cd07d7b39161c413437b5c50",
@@ -264,6 +225,57 @@
     }
   ],
   "results": [
+    {
+      "id": "459a090b63c63847e5dc62f7097eef69",
+      "date": "2026-04-18",
+      "time": "10:30",
+      "home_team": "WBYFC Spartans U13",
+      "away_team": "Alfreton Town Tigers U13",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Alfreton Town Tigers U13",
+      "home_away": "away",
+      "opponent": "WBYFC Spartans U13",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
+      "id": "b4a92a561cef44252a031f8bd2539b56",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Alfreton Town Eagles U11",
+      "away_team": "Newton & Blackwell Storm U11",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Alfreton Town Eagles U11",
+      "home_away": "home",
+      "opponent": "Newton & Blackwell Storm U11",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "284e921c646c3a02e0dab44617f8fcc3",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Alfreton Town Jnrs Goats U12",
+      "away_team": "Mapperley All Stars Yellow U12",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Alfreton Town Jnrs Goats U12",
+      "home_away": "home",
+      "opponent": "Mapperley All Stars Yellow U12",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "64dec021ea3f68366160619dfb487319",
       "date": "2026-04-16",

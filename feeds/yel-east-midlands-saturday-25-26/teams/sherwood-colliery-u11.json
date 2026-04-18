@@ -1,19 +1,8 @@
 {
   "team": "Sherwood Colliery U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "4fcbb0f5c5b4611f6be8767fcb16617b",
-      "date": "2026-04-18",
-      "time": "11:15",
-      "home_team": "Sherwood Colliery U11",
-      "away_team": "Notts Olympic FC U11",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U11 Sat Spring Div 1",
-      "home_away": "home",
-      "opponent": "Notts Olympic FC U11"
-    },
     {
       "id": "daabe746380f6dbb40bc028c90aad240",
       "date": "2026-04-21",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "4fcbb0f5c5b4611f6be8767fcb16617b",
+      "date": "2026-04-18",
+      "time": "11:15",
+      "home_team": "Sherwood Colliery U11",
+      "away_team": "Notts Olympic FC U11",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 1",
+      "home_away": "home",
+      "opponent": "Notts Olympic FC U11",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "b11ffa96dc2db8e22dd55dde25f77428",
       "date": "2026-03-21",

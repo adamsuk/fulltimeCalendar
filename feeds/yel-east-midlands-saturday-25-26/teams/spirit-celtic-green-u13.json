@@ -1,19 +1,8 @@
 {
   "team": "Spirit Celtic Green U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "8809146ef90b3e6726eb15d7f8e21d15",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Spirit Celtic Green U13",
-      "away_team": "Spondon Dynamos Legends U13",
-      "venue": "Becket School NG2 7QY",
-      "division": "U13 Sat Spring Div 8",
-      "home_away": "home",
-      "opponent": "Spondon Dynamos Legends U13"
-    },
     {
       "id": "0ac6da11b48bed988cecadee24f28780",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8809146ef90b3e6726eb15d7f8e21d15",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Spirit Celtic Green U13",
+      "away_team": "Spondon Dynamos Legends U13",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sat Spring Div 8",
+      "home_away": "home",
+      "opponent": "Spondon Dynamos Legends U13",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "486f7e17dee79cf9661b6688c1444681",
       "date": "2026-03-21",

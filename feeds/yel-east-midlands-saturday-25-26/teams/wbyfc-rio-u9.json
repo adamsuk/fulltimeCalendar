@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Rio U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "0fd6d611872c547df6209197dcfefb85",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Nottingham FC Blue U9",
-      "away_team": "WBYFC Rio U9",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U9 Sat Spring Div 7 Green",
-      "home_away": "away",
-      "opponent": "Nottingham FC Blue U9"
-    },
     {
       "id": "6492d26008ece2f874737040e08691d5",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0fd6d611872c547df6209197dcfefb85",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Nottingham FC Blue U9",
+      "away_team": "WBYFC Rio U9",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat Spring Div 7 Green",
+      "home_away": "away",
+      "opponent": "Nottingham FC Blue U9",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "0f5ab8aec05e046fde532c561b5f7e68",
       "date": "2026-03-28",

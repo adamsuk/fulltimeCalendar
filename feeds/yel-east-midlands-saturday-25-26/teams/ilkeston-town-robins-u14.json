@@ -1,19 +1,8 @@
 {
   "team": "Ilkeston Town Robins U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "bb3cc198e6493d4434d8858470b07ac7",
-      "date": "2026-04-18",
-      "time": "10:30",
-      "home_team": "Lowdham FC Red U14",
-      "away_team": "Ilkeston Town Robins U14",
-      "venue": "Calverton Village Hall NG14 6SA",
-      "division": "u14 Sat Spring Div 1 Silver",
-      "home_away": "away",
-      "opponent": "Lowdham FC Red U14"
-    },
     {
       "id": "45a3aa166292c4711a6a730f42fcac80",
       "date": "2026-04-25",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "bb3cc198e6493d4434d8858470b07ac7",
+      "date": "2026-04-18",
+      "time": "10:30",
+      "home_team": "Lowdham FC Red U14",
+      "away_team": "Ilkeston Town Robins U14",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "u14 Sat Spring Div 1 Silver",
+      "home_away": "away",
+      "opponent": "Lowdham FC Red U14",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "f1d65b643bca9a32aedace7552105fac",
       "date": "2026-03-28",

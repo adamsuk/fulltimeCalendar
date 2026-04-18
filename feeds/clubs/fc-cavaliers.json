@@ -1,33 +1,7 @@
 {
   "club": "FC Cavaliers",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "39cbb0c4780bf34c974cf47f1a7f3a25",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Cotgrave FC Blue U13",
-      "away_team": "FC Cavaliers U13",
-      "venue": "Cotgrave Leisure Centre NG12 3PJ",
-      "division": "U13 Sat Spring Div 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "FC Cavaliers U13",
-      "home_away": "away",
-      "opponent": "Cotgrave FC Blue U13"
-    },
-    {
-      "id": "64d33a8e40288ea0787a50786f27eeb2",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "FC Cavaliers U14",
-      "away_team": "Eastwood CFC Aces U14",
-      "venue": "Vernon Park  NG6 0AE",
-      "division": "U14 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "FC Cavaliers U14",
-      "home_away": "home",
-      "opponent": "Eastwood CFC Aces U14"
-    },
     {
       "id": "50a001275f211bc53e2f33910bb33e05",
       "date": "2026-04-18",
@@ -202,6 +176,23 @@
       "opponent": "Kirkby Garibaldi Reds U11",
       "goals_for": 3,
       "goals_against": 2
+    },
+    {
+      "id": "39cbb0c4780bf34c974cf47f1a7f3a25",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Cotgrave FC Blue U13",
+      "away_team": "FC Cavaliers U13",
+      "home_score": 4,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "FC Cavaliers U13",
+      "home_away": "away",
+      "opponent": "Cotgrave FC Blue U13",
+      "goals_for": 4,
+      "goals_against": 4
     },
     {
       "id": "dad7cba8331aed6799b3d337cbedcfe8",

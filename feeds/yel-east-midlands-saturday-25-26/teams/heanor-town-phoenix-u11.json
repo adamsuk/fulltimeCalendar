@@ -1,19 +1,8 @@
 {
   "team": "Heanor Town Phoenix U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "780784e7daa7f12cdb6b164ab961e42b",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Heanor Town Phoenix U11",
-      "away_team": "Ilkeston Town Milan U11",
-      "venue": "Riddings Park  DE55 4EW",
-      "division": "U11 Sat Spring Div 4 Blue",
-      "home_away": "home",
-      "opponent": "Ilkeston Town Milan U11"
-    },
     {
       "id": "853afea832bd65411cabfe9853939cdf",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "780784e7daa7f12cdb6b164ab961e42b",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Heanor Town Phoenix U11",
+      "away_team": "Ilkeston Town Milan U11",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 4 Blue",
+      "home_away": "home",
+      "opponent": "Ilkeston Town Milan U11",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "db243854ce168cbe1bbf039d0669e54c",
       "date": "2026-04-14",

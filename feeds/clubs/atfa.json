@@ -1,33 +1,7 @@
 {
   "club": "ATFA",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "b848ce0b1cf41ee5879b7c91575f3e61",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "ATFA Brinsley Eagles U8",
-      "away_team": "Tibshelf FC White U8",
-      "venue": "Brinsley Parish Council NG163HB",
-      "division": "U8 Sat Spring 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "ATFA Brinsley Eagles U8",
-      "home_away": "home",
-      "opponent": "Tibshelf FC White U8"
-    },
-    {
-      "id": "00adca8a05718d08bcb69d2b9025cee6",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "ATFA Brinsley Falcons U10",
-      "away_team": "Eastwood Athletic All Stars U10",
-      "venue": "Brinsley Recreation Ground NG16 5AY",
-      "division": "U10 Sat Spring Div 7 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "ATFA Brinsley Falcons U10",
-      "home_away": "home",
-      "opponent": "Eastwood Athletic All Stars U10"
-    },
     {
       "id": "452bf79528a4bf51aed64c0f78c48217",
       "date": "2026-04-19",
@@ -228,6 +202,40 @@
       "opponent": "Wollaton H & B Rockets U12",
       "goals_for": 2,
       "goals_against": 0
+    },
+    {
+      "id": "b848ce0b1cf41ee5879b7c91575f3e61",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "ATFA Brinsley Eagles U8",
+      "away_team": "Tibshelf FC White U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "ATFA Brinsley Eagles U8",
+      "home_away": "home",
+      "opponent": "Tibshelf FC White U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "00adca8a05718d08bcb69d2b9025cee6",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "ATFA Brinsley Falcons U10",
+      "away_team": "Eastwood Athletic All Stars U10",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "ATFA Brinsley Falcons U10",
+      "home_away": "home",
+      "opponent": "Eastwood Athletic All Stars U10",
+      "goals_for": 0,
+      "goals_against": 3
     },
     {
       "id": "f2602156040fe3cdc12e1bf128db4922",

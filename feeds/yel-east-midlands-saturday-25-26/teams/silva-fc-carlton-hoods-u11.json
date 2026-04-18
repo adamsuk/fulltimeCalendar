@@ -1,19 +1,8 @@
 {
   "team": "Silva FC Carlton Hoods U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "b3525fcc1e9d9cac05f38277aa336e4f",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Meden Vale Colts Green U11",
-      "away_team": "Silva FC Carlton Hoods U11",
-      "venue": "Carr Lane NG20 0BN",
-      "division": "U11 Sat Spring Div 4 Red",
-      "home_away": "away",
-      "opponent": "Meden Vale Colts Green U11"
-    },
     {
       "id": "cfe76e6ae54b51718dd48c374412be41",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b3525fcc1e9d9cac05f38277aa336e4f",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Meden Vale Colts Green U11",
+      "away_team": "Silva FC Carlton Hoods U11",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat Spring Div 4 Red",
+      "home_away": "away",
+      "opponent": "Meden Vale Colts Green U11",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "041743318f05ebdf5a9875c3bc73d577",
       "date": "2026-03-21",

@@ -1,19 +1,8 @@
 {
   "team": "Ruddington Village U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "a3ba25b2f6f2760ec624e4e26b7209ff",
-      "date": "2026-04-18",
-      "time": "11:15",
-      "home_team": "Clifton All Whites Yellow U12",
-      "away_team": "Ruddington Village U12",
-      "venue": "Farnborough Academy NG11 8JW",
-      "division": "U12 Sat Spring Div 3 Green",
-      "home_away": "away",
-      "opponent": "Clifton All Whites Yellow U12"
-    },
     {
       "id": "78fd74faf7dc4f1981f1271d2b4eacbf",
       "date": "2026-04-25",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a3ba25b2f6f2760ec624e4e26b7209ff",
+      "date": "2026-04-18",
+      "time": "11:15",
+      "home_team": "Clifton All Whites Yellow U12",
+      "away_team": "Ruddington Village U12",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 3 Green",
+      "home_away": "away",
+      "opponent": "Clifton All Whites Yellow U12",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "5eabed92536cd8c749cd6a21ba249358",
       "date": "2026-04-13",

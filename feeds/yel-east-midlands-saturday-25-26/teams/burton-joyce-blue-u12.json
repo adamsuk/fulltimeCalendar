@@ -1,19 +1,8 @@
 {
   "team": "Burton Joyce Blue U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "ef521e7beb2ccfcd1162ce946362f727",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Bilborough Town U12",
-      "away_team": "Burton Joyce Blue U12",
-      "venue": "Harvey Haddon  NG8 4PB",
-      "division": "U12 Saturday",
-      "home_away": "away",
-      "opponent": "Bilborough Town U12"
-    },
     {
       "id": "1882a5710ed9eae0ff3c1a6b7aefa6a0",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ef521e7beb2ccfcd1162ce946362f727",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Bilborough Town U12",
+      "away_team": "Burton Joyce Blue U12",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Saturday",
+      "home_away": "away",
+      "opponent": "Bilborough Town U12",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "52b8a89d4e80f4f488fac1e98ea3209c",
       "date": "2026-03-21",

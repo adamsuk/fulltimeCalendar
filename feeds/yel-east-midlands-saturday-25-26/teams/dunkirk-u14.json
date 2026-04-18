@@ -1,19 +1,8 @@
 {
   "team": "Dunkirk U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "c0a26045a02979081c519ea35d0bb1d6",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Dunkirk U14",
-      "away_team": "AJ Sport FC U14",
-      "venue": "Ron Steel Sports Ground  NG7 2SA",
-      "division": "u14 Sat Spring Div 1 Silver",
-      "home_away": "home",
-      "opponent": "AJ Sport FC U14"
-    },
     {
       "id": "5ca59def59e35f94649e7b2e731d17bb",
       "date": "2026-04-21",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c0a26045a02979081c519ea35d0bb1d6",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Dunkirk U14",
+      "away_team": "AJ Sport FC U14",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "u14 Sat Spring Div 1 Silver",
+      "home_away": "home",
+      "opponent": "AJ Sport FC U14",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "f630a0d5346140683bb0d02d05afbc79",
       "date": "2026-04-14",

@@ -1,19 +1,8 @@
 {
   "team": "Woodhouse Colts Warriors U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "d722b4c1b682b054aabb842f6af23bbd",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Long Bennington FC U12",
-      "away_team": "Woodhouse Colts Warriors U12",
-      "venue": "QE2 Playing Field NG23 5HD",
-      "division": "U12 Sat Spring Div 7 Red",
-      "home_away": "away",
-      "opponent": "Long Bennington FC U12"
-    },
     {
       "id": "c45d23482b4a5b5055f78d7c88068cab",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d722b4c1b682b054aabb842f6af23bbd",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Long Bennington FC U12",
+      "away_team": "Woodhouse Colts Warriors U12",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sat Spring Div 7 Red",
+      "home_away": "away",
+      "opponent": "Long Bennington FC U12",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "0a3fcadf3607e70fd2b1f91d5af3e9df",
       "date": "2026-03-21",

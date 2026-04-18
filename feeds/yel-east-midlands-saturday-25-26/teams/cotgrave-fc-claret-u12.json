@@ -1,19 +1,8 @@
 {
   "team": "Cotgrave FC Claret U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "8387338c2896d83644c9587b6dcd6a01",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Cotgrave FC Claret U12",
-      "away_team": "WBYFC Deportivo U12",
-      "venue": "Ridley Sports Ground  NG12 3HA",
-      "division": "U12 Sat Spring Div 4",
-      "home_away": "home",
-      "opponent": "WBYFC Deportivo U12"
-    },
     {
       "id": "78fd74faf7dc4f1981f1271d2b4eacbf",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8387338c2896d83644c9587b6dcd6a01",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Cotgrave FC Claret U12",
+      "away_team": "WBYFC Deportivo U12",
+      "home_score": 0,
+      "away_score": 6,
+      "venue": "",
+      "division": "U12 Sat Spring Div 4",
+      "home_away": "home",
+      "opponent": "WBYFC Deportivo U12",
+      "goals_for": 0,
+      "goals_against": 6
+    },
     {
       "id": "9c32fe1c26dc1fe9064ad3a8d6731dcc",
       "date": "2026-03-28",

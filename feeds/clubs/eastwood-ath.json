@@ -1,33 +1,7 @@
 {
   "club": "Eastwood Ath",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "440e5ea84b08ca467e9efdc513558a86",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Toton Tornados U14",
-      "away_team": "Eastwood Ath Dynamos U14",
-      "venue": "Manor Farm Recreation Ground NG9 6EL",
-      "division": "U14 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Eastwood Ath Dynamos U14",
-      "home_away": "away",
-      "opponent": "Toton Tornados U14"
-    },
-    {
-      "id": "56cccc3a9086914111fe305ac9c9600c",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Eastwood Ath Red Devils U12",
-      "away_team": "Star Strike Tigers U12",
-      "venue": "Hall Park NG16 3AR",
-      "division": "U12 Sat Spring Div 7 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Eastwood Ath Red Devils U12",
-      "home_away": "home",
-      "opponent": "Star Strike Tigers U12"
-    },
     {
       "id": "94db3c5cbadf3882f4ec49451ee07652",
       "date": "2026-04-23",
@@ -69,6 +43,40 @@
     }
   ],
   "results": [
+    {
+      "id": "440e5ea84b08ca467e9efdc513558a86",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Toton Tornados U14",
+      "away_team": "Eastwood Ath Dynamos U14",
+      "home_score": 1,
+      "away_score": 7,
+      "venue": "",
+      "division": "U14 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Eastwood Ath Dynamos U14",
+      "home_away": "away",
+      "opponent": "Toton Tornados U14",
+      "goals_for": 7,
+      "goals_against": 1
+    },
+    {
+      "id": "56cccc3a9086914111fe305ac9c9600c",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Eastwood Ath Red Devils U12",
+      "away_team": "Star Strike Tigers U12",
+      "home_score": 2,
+      "away_score": 7,
+      "venue": "",
+      "division": "U12 Sat Spring Div 7 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Eastwood Ath Red Devils U12",
+      "home_away": "home",
+      "opponent": "Star Strike Tigers U12",
+      "goals_for": 2,
+      "goals_against": 7
+    },
     {
       "id": "742f53fd3f752c37dc3f5bea52702ea3",
       "date": "2026-03-28",

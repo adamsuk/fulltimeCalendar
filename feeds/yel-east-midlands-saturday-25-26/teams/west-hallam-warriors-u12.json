@@ -1,19 +1,8 @@
 {
   "team": "West Hallam Warriors U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "90e6bb96b177b2908ccca32982600510",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "West Hallam Warriors U12",
-      "away_team": "Hucknall Town Warriors U12",
-      "venue": "Nutbrook Cricket Club DE7 6HZ",
-      "division": "U12 Saturday",
-      "home_away": "home",
-      "opponent": "Hucknall Town Warriors U12"
-    },
     {
       "id": "f44f7bbab56fd206067d43a806ee5d50",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "90e6bb96b177b2908ccca32982600510",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "West Hallam Warriors U12",
+      "away_team": "Hucknall Town Warriors U12",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Saturday",
+      "home_away": "home",
+      "opponent": "Hucknall Town Warriors U12",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "3669c2202d75614e9965fe491aa7b159",
       "date": "2026-03-21",

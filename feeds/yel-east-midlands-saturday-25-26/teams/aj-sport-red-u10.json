@@ -1,19 +1,8 @@
 {
   "team": "AJ Sport Red U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "ee40bcaba21bd06e227a0d6614379428",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "WBYFC Juve U10",
-      "away_team": "AJ Sport Red U10",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U10 Saturday",
-      "home_away": "away",
-      "opponent": "WBYFC Juve U10"
-    },
     {
       "id": "34926b8cfd4c53529a1cad054df9868c",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ee40bcaba21bd06e227a0d6614379428",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "WBYFC Juve U10",
+      "away_team": "AJ Sport Red U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "home_away": "away",
+      "opponent": "WBYFC Juve U10",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "a28bdba82d99abb5840bcc25d0d54289",
       "date": "2026-03-28",

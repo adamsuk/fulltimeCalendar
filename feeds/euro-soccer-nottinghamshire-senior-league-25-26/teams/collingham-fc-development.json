@@ -1,19 +1,8 @@
 {
   "team": "Collingham FC Development",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "a5b3059fc1f0c9ce6c63efa702877db1",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Collingham FC Development",
-      "away_team": "AFC Warriors Development",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "Development Spring Division One",
-      "home_away": "home",
-      "opponent": "AFC Warriors Development"
-    },
     {
       "id": "b75c66b619f0af4ed7f1a3b2f1f61f5a",
       "date": "2026-04-23",
@@ -115,6 +104,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a5b3059fc1f0c9ce6c63efa702877db1",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Collingham FC Development",
+      "away_team": "AFC Warriors Development",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "home",
+      "opponent": "AFC Warriors Development",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "b485730f309d362212546772880832c7",
       "date": "2026-04-16",

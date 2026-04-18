@@ -1,19 +1,8 @@
 {
   "team": "Ravenshead Reds Outlaws U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "8d017f1b227d9727d613323d25efe95f",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Meden Vale Colts Red U11",
-      "away_team": "Ravenshead Reds Outlaws U11",
-      "venue": "Carr Lane NG20 0BN",
-      "division": "U11 Sat Spring Div 5 Red",
-      "home_away": "away",
-      "opponent": "Meden Vale Colts Red U11"
-    },
     {
       "id": "6be19606ed4d993e628d11379344a855",
       "date": "2026-04-20",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8d017f1b227d9727d613323d25efe95f",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Meden Vale Colts Red U11",
+      "away_team": "Ravenshead Reds Outlaws U11",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 5 Red",
+      "home_away": "away",
+      "opponent": "Meden Vale Colts Red U11",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "ed3afc5a6ce9ed05e250d23d1eded864",
       "date": "2026-03-28",

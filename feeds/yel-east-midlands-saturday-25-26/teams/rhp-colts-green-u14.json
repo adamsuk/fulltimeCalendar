@@ -1,19 +1,8 @@
 {
   "team": "RHP Colts Green U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "614e2a5652b36853c362d3f503e13515",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "RHP Colts Green U14",
-      "away_team": "Bingham Town Blue U14",
-      "venue": "Newark Leisure Centre NG24 4DH",
-      "division": "U14 Sat Spring Div 4 Red",
-      "home_away": "home",
-      "opponent": "Bingham Town Blue U14"
-    },
     {
       "id": "65fe403ce12956592f6cb5b9b079e96b",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "614e2a5652b36853c362d3f503e13515",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "RHP Colts Green U14",
+      "away_team": "Bingham Town Blue U14",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sat Spring Div 4 Red",
+      "home_away": "home",
+      "opponent": "Bingham Town Blue U14",
+      "goals_for": 3,
+      "goals_against": 4
+    },
     {
       "id": "1641a19357c7522e60cce648725aabcf",
       "date": "2026-04-14",

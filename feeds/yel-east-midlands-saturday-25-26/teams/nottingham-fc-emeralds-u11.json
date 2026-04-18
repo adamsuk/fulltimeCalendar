@@ -1,19 +1,8 @@
 {
   "team": "Nottingham FC Emeralds U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "b732e808d61a54abaf897a8329d97d2a",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Shirebrook Rangers U11",
-      "away_team": "Nottingham FC Emeralds U11",
-      "venue": "Shirebrook Academy  NG20 8QF",
-      "division": "U11 Sat YEL Inter Cup",
-      "home_away": "away",
-      "opponent": "Shirebrook Rangers U11"
-    },
     {
       "id": "a36ba92de9e73361777f6964e04739ae",
       "date": "2026-04-21",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b732e808d61a54abaf897a8329d97d2a",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers U11",
+      "away_team": "Nottingham FC Emeralds U11",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat YEL Inter Cup",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers U11",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "57e6ebd8805e257ab246ec96f3d8931d",
       "date": "2026-04-14",

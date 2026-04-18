@@ -1,19 +1,8 @@
 {
   "team": "Stapleford Town U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "cadb7addf89b9f7c948f4a16902f54ff",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "AJ Sport Red U9",
-      "away_team": "Stapleford Town U9",
-      "venue": "Beeston Fields Recreation Ground NG9 2QT",
-      "division": "U9 Sat Spring Div 4 Blue",
-      "home_away": "away",
-      "opponent": "AJ Sport Red U9"
-    },
     {
       "id": "7ddbd3f7060d85057791318b3f50ede4",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "cadb7addf89b9f7c948f4a16902f54ff",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "AJ Sport Red U9",
+      "away_team": "Stapleford Town U9",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat Spring Div 4 Blue",
+      "home_away": "away",
+      "opponent": "AJ Sport Red U9",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "545671bed5885481e88575d1574c4adc",
       "date": "2026-03-21",

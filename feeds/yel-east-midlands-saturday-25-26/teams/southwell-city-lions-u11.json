@@ -1,7 +1,7 @@
 {
   "team": "Southwell City Lions U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
     {
       "id": "32a48c7aa0ae6efb006e781ca4cb828a",
@@ -13,17 +13,6 @@
       "division": "U11 Sat Spring Div 7 Blue",
       "home_away": "away",
       "opponent": "Mountsorrel Juniors U11"
-    },
-    {
-      "id": "64df7bd151609ff20883e6bf26dff9ca",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Southwell City Lions U11",
-      "away_team": "Keyworth United White U11",
-      "venue": "Southwell City FC  NG25 0JP",
-      "division": "U11 Sat Spring Div 7 Blue",
-      "home_away": "home",
-      "opponent": "Keyworth United White U11"
     },
     {
       "id": "142d0915cd3951a5511687dcb1784761",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "64df7bd151609ff20883e6bf26dff9ca",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Southwell City Lions U11",
+      "away_team": "Keyworth United White U11",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 7 Blue",
+      "home_away": "home",
+      "opponent": "Keyworth United White U11",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "b886141a82042d6520039c32ea1ebe3b",
       "date": "2026-03-21",

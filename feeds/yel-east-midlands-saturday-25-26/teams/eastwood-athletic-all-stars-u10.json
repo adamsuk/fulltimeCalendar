@@ -1,19 +1,8 @@
 {
   "team": "Eastwood Athletic All Stars U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "00adca8a05718d08bcb69d2b9025cee6",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "ATFA Brinsley Falcons U10",
-      "away_team": "Eastwood Athletic All Stars U10",
-      "venue": "Brinsley Recreation Ground NG16 5AY",
-      "division": "U10 Sat Spring Div 7 Red",
-      "home_away": "away",
-      "opponent": "ATFA Brinsley Falcons U10"
-    },
     {
       "id": "f7a1e071bb6957d6ed1c6b7ed12f06d5",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "00adca8a05718d08bcb69d2b9025cee6",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "ATFA Brinsley Falcons U10",
+      "away_team": "Eastwood Athletic All Stars U10",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sat Spring Div 7 Red",
+      "home_away": "away",
+      "opponent": "ATFA Brinsley Falcons U10",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "a39f5970ddcddf816a54968f8780999a",
       "date": "2026-03-28",

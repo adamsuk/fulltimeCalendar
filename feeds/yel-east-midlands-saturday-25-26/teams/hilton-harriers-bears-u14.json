@@ -1,19 +1,8 @@
 {
   "team": "Hilton Harriers Bears U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "4a69fdca7bd0116ec3cfa0c4f863cd4a",
-      "date": "2026-04-18",
-      "time": "10:15",
-      "home_team": "Quarrydale United Yellow U14",
-      "away_team": "Hilton Harriers Bears U14",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "u14 Sat Spring Div 1 Silver",
-      "home_away": "away",
-      "opponent": "Quarrydale United Yellow U14"
-    },
     {
       "id": "610e5077d1d7207953207e5bc3a8fe0b",
       "date": "2026-04-21",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "4a69fdca7bd0116ec3cfa0c4f863cd4a",
+      "date": "2026-04-18",
+      "time": "10:15",
+      "home_team": "Quarrydale United Yellow U14",
+      "away_team": "Hilton Harriers Bears U14",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
+      "division": "u14 Sat Spring Div 1 Silver",
+      "home_away": "away",
+      "opponent": "Quarrydale United Yellow U14",
+      "goals_for": 3,
+      "goals_against": 5
+    },
     {
       "id": "47eaf1d8eba9520f006df0e57ea81149",
       "date": "2026-03-21",

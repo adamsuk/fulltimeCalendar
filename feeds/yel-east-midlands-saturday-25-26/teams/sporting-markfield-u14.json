@@ -1,19 +1,8 @@
 {
   "team": "Sporting Markfield U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "94b3fa5dea6a4a414af5e126ece2cfb5",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Sporting Markfield U14",
-      "away_team": "Heanor Juniors Badgers U14",
-      "venue": "Jubilee Playing Fields  LE67 9PX",
-      "division": "U14 Sat Spring Premier Division",
-      "home_away": "home",
-      "opponent": "Heanor Juniors Badgers U14"
-    },
     {
       "id": "815e72b3b059d3068ab290300c3b5790",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "94b3fa5dea6a4a414af5e126ece2cfb5",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Sporting Markfield U14",
+      "away_team": "Heanor Juniors Badgers U14",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Sat Spring Premier Division",
+      "home_away": "home",
+      "opponent": "Heanor Juniors Badgers U14",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "3c8a22ee655417c23f0ef0bd0691639c",
       "date": "2026-04-14",

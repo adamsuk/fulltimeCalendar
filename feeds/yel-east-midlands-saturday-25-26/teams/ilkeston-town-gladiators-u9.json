@@ -1,19 +1,8 @@
 {
   "team": "Ilkeston Town Gladiators U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "7a956707c59f295a692f4b1bf7ab6130",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Arnold Town Blue U9",
-      "away_team": "Ilkeston Town Gladiators U9",
-      "venue": "Eagle Valley NG5 8PS",
-      "division": "U9 Sat Spring Div 8 Red",
-      "home_away": "away",
-      "opponent": "Arnold Town Blue U9"
-    },
     {
       "id": "d5af707a9641919b361ab22151fb0988",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7a956707c59f295a692f4b1bf7ab6130",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Arnold Town Blue U9",
+      "away_team": "Ilkeston Town Gladiators U9",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat Spring Div 8 Red",
+      "home_away": "away",
+      "opponent": "Arnold Town Blue U9",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "16d463f40025dea443ccfa0bb7dc0b0a",
       "date": "2026-03-28",

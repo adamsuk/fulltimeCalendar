@@ -1,19 +1,8 @@
 {
   "team": "Woodborough Celtic U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T10:11:08Z",
+  "generated": "2026-04-18T13:00:10Z",
   "fixtures": [
-    {
-      "id": "4d94e460e64f90e64a2bf63809f632b4",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Woodborough Celtic U11",
-      "away_team": "G3A PSG U11",
-      "venue": "LINGWOOD LANE PLAYING FIELD NG14 6DX",
-      "division": "U11 Sat Spring Div 4 Red",
-      "home_away": "home",
-      "opponent": "G3A PSG U11"
-    },
     {
       "id": "13169a14a43cb0b21dffbe4a7ff74c44",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "4d94e460e64f90e64a2bf63809f632b4",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Woodborough Celtic U11",
+      "away_team": "G3A PSG U11",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U11 Sat Spring Div 4 Red",
+      "home_away": "home",
+      "opponent": "G3A PSG U11",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "711d85166e209dc226d0283acb95d47d",
       "date": "2026-03-21",
