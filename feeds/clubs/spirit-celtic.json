@@ -1,6 +1,6 @@
 {
   "club": "Spirit Celtic",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
     {
       "id": "b64d6638916e36f0426d05af74efa1bd",
@@ -29,19 +29,6 @@
       "opponent": "WBYFC Bruges Stripes U7"
     },
     {
-      "id": "5882ebb6c9fb0a43695c28baa68173be",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Spirit Celtic Pumas U7",
-      "away_team": "Priory Celtic Green U7",
-      "venue": "Spirit Celtic F.C. Youth U7 Pumas",
-      "division": "U7 Sat Spring 6",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Spirit Celtic Pumas U7",
-      "home_away": "home",
-      "opponent": "Priory Celtic Green U7"
-    },
-    {
       "id": "ea364b35af411270b36b987351aa90df",
       "date": "2026-04-18",
       "time": "10:00",
@@ -53,32 +40,6 @@
       "team": "Spirit Celtic Red U10",
       "home_away": "home",
       "opponent": "Toton Tornados Vortex U10"
-    },
-    {
-      "id": "3358c143cb8415807347b484ab1b310c",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Spirit Celtic Red U8",
-      "away_team": "Keyworth United Green U8",
-      "venue": "Becket School NG2 7QY",
-      "division": "U8 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Spirit Celtic Red U8",
-      "home_away": "home",
-      "opponent": "Keyworth United Green U8"
-    },
-    {
-      "id": "c058bc098825abffea6669ffe55de5d3",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Lowdham FC Red U9",
-      "away_team": "Spirit Celtic Tigers U9",
-      "venue": "Gunthorpe Village Hall NG14 7EL",
-      "division": "U9 Sat Spring Div 6 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Spirit Celtic Tigers U9",
-      "home_away": "away",
-      "opponent": "Lowdham FC Red U9"
     },
     {
       "id": "46311f062d38da6aa473e7f89c015eda",
@@ -355,6 +316,57 @@
     }
   ],
   "results": [
+    {
+      "id": "5882ebb6c9fb0a43695c28baa68173be",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Spirit Celtic Pumas U7",
+      "away_team": "Priory Celtic Green U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 6",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Spirit Celtic Pumas U7",
+      "home_away": "home",
+      "opponent": "Priory Celtic Green U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "3358c143cb8415807347b484ab1b310c",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Spirit Celtic Red U8",
+      "away_team": "Keyworth United Green U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Spirit Celtic Red U8",
+      "home_away": "home",
+      "opponent": "Keyworth United Green U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "c058bc098825abffea6669ffe55de5d3",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Lowdham FC Red U9",
+      "away_team": "Spirit Celtic Tigers U9",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 6 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Spirit Celtic Tigers U9",
+      "home_away": "away",
+      "opponent": "Lowdham FC Red U9",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "df0d01154da168d7aebbbf063dae1f5e",
       "date": "2026-04-14",

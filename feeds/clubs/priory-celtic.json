@@ -1,6 +1,6 @@
 {
   "club": "Priory Celtic",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
     {
       "id": "00b892d801d2dfcf9111f97f9e254d0c",
@@ -16,32 +16,6 @@
       "opponent": "Bingham Town F.C. U15 Girls"
     },
     {
-      "id": "747e7cacfca73086964eb4522d8e8a5c",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Woodhouse Colts United U10",
-      "away_team": "Priory Celtic 1967 U10",
-      "venue": "Forest Town Welfare NG19 0EE",
-      "division": "U10 Sat Spring Div 1",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Priory Celtic 1967 U10",
-      "home_away": "away",
-      "opponent": "Woodhouse Colts United U10"
-    },
-    {
-      "id": "6a2027828dc0ebb04e5c76c26fd36340",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Silva FC Brunts U10",
-      "away_team": "Priory Celtic Green U10",
-      "venue": "Brunts Academy NG18 2AT",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Priory Celtic Green U10",
-      "home_away": "away",
-      "opponent": "Silva FC Brunts U10"
-    },
-    {
       "id": "8f48b85e6f2039afa19f8871aef19bc2",
       "date": "2026-04-18",
       "time": "10:00",
@@ -55,19 +29,6 @@
       "opponent": "Cotgrave FC Claret U13"
     },
     {
-      "id": "5882ebb6c9fb0a43695c28baa68173be",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Spirit Celtic Pumas U7",
-      "away_team": "Priory Celtic Green U7",
-      "venue": "Spirit Celtic F.C. Youth U7 Pumas",
-      "division": "U7 Sat Spring 6",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Priory Celtic Green U7",
-      "home_away": "away",
-      "opponent": "Spirit Celtic Pumas U7"
-    },
-    {
       "id": "290b73e6c93c3161026a5c927a309549",
       "date": "2026-04-18",
       "time": "10:00",
@@ -79,19 +40,6 @@
       "team": "Priory Celtic Green U8",
       "home_away": "away",
       "opponent": "Heanor Juniors Lions U8"
-    },
-    {
-      "id": "64d23c37c9e39d57d0f36ec2a3901e99",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Cotgrave FC Blue U11",
-      "away_team": "Priory Celtic Hoops U11",
-      "venue": "Ridley Sports Ground  NG12 3HA",
-      "division": "U11 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Priory Celtic Hoops U11",
-      "home_away": "away",
-      "opponent": "Cotgrave FC Blue U11"
     },
     {
       "id": "f9516369119a37ba2127ae9bb6f9c59b",
@@ -1044,6 +992,74 @@
     }
   ],
   "results": [
+    {
+      "id": "747e7cacfca73086964eb4522d8e8a5c",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Woodhouse Colts United U10",
+      "away_team": "Priory Celtic 1967 U10",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Priory Celtic 1967 U10",
+      "home_away": "away",
+      "opponent": "Woodhouse Colts United U10",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
+      "id": "6a2027828dc0ebb04e5c76c26fd36340",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Silva FC Brunts U10",
+      "away_team": "Priory Celtic Green U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Priory Celtic Green U10",
+      "home_away": "away",
+      "opponent": "Silva FC Brunts U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "5882ebb6c9fb0a43695c28baa68173be",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Spirit Celtic Pumas U7",
+      "away_team": "Priory Celtic Green U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 6",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Priory Celtic Green U7",
+      "home_away": "away",
+      "opponent": "Spirit Celtic Pumas U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "64d23c37c9e39d57d0f36ec2a3901e99",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Cotgrave FC Blue U11",
+      "away_team": "Priory Celtic Hoops U11",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Priory Celtic Hoops U11",
+      "home_away": "away",
+      "opponent": "Cotgrave FC Blue U11",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "94f60b2c2f8d23dbcd09bc172d965c19",
       "date": "2026-04-15",

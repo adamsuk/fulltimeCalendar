@@ -1,19 +1,8 @@
 {
   "team": "Loughborough Eml Foxes U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "c192039cabb64649f8e23787cb2d0a9c",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "Loughborough Eml Foxes U13",
-      "away_team": "Moorgreen Colts White U13",
-      "venue": "Charnwood College, Loughborough LE11 4SQ",
-      "division": "U13 Sat Spring Div 4 Blue",
-      "home_away": "home",
-      "opponent": "Moorgreen Colts White U13"
-    },
     {
       "id": "d19c3d09caf79492602051fb70b805ee",
       "date": "2026-04-21",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c192039cabb64649f8e23787cb2d0a9c",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Loughborough Eml Foxes U13",
+      "away_team": "Moorgreen Colts White U13",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sat Spring Div 4 Blue",
+      "home_away": "home",
+      "opponent": "Moorgreen Colts White U13",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "35bb1bbb9101c78014779ecb27c91f65",
       "date": "2026-03-21",

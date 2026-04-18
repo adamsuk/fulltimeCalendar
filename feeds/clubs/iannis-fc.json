@@ -1,6 +1,6 @@
 {
   "club": "Iannis FC",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
     {
       "id": "59410053e3146e0b1cf0b82927d60b35",
@@ -14,19 +14,6 @@
       "team": "Iannis FC U11",
       "home_away": "home",
       "opponent": "Bottesford Blue U11"
-    },
-    {
-      "id": "7175bd0004126ae3e980087961e7d7c5",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Heanor Town Vipers U9",
-      "away_team": "Iannis FC U9",
-      "venue": "Lockton Avenue Playing Fields DE75 7EY",
-      "division": "U9 Sat Spring Div 5 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Iannis FC U9",
-      "home_away": "away",
-      "opponent": "Heanor Town Vipers U9"
     },
     {
       "id": "b40230be6a526038d275a2cd18061589",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "7175bd0004126ae3e980087961e7d7c5",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Heanor Town Vipers U9",
+      "away_team": "Iannis FC U9",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 5 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Iannis FC U9",
+      "home_away": "away",
+      "opponent": "Heanor Town Vipers U9",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "a08133a013fe333d0b24873f9f0400d8",
       "date": "2026-03-28",

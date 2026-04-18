@@ -1,20 +1,7 @@
 {
   "club": "Sherwood FC",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "0f3f07795536b492c6de506668136d0b",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Lowdham FC Red U8",
-      "away_team": "Sherwood FC Blue U8",
-      "venue": "Caythorpe Cricket Club NG14 7EB",
-      "division": "U8 Sat Spring 5 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sherwood FC Blue U8",
-      "home_away": "away",
-      "opponent": "Lowdham FC Red U8"
-    },
     {
       "id": "4c080f5a137cf1f29fb91fcbe5e15b6b",
       "date": "2026-04-18",
@@ -446,6 +433,23 @@
     }
   ],
   "results": [
+    {
+      "id": "0f3f07795536b492c6de506668136d0b",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Lowdham FC Red U8",
+      "away_team": "Sherwood FC Blue U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 5 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood FC Blue U8",
+      "home_away": "away",
+      "opponent": "Lowdham FC Red U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "a40f95ba5bf7bae158a86a61e55dd54a",
       "date": "2026-04-14",

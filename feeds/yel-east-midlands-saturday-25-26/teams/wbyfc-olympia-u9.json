@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Olympia U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "5d13ef80d8f3455c4f69c285ffb2c922",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "WBYFC Olympia U9",
-      "away_team": "Edwalton Cavaliers White U9",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U9 Sat Spring Div 7 Blue",
-      "home_away": "home",
-      "opponent": "Edwalton Cavaliers White U9"
-    },
     {
       "id": "9b85ceda665761a4355503feb19c0197",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5d13ef80d8f3455c4f69c285ffb2c922",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "WBYFC Olympia U9",
+      "away_team": "Edwalton Cavaliers White U9",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sat Spring Div 7 Blue",
+      "home_away": "home",
+      "opponent": "Edwalton Cavaliers White U9",
+      "goals_for": 5,
+      "goals_against": 0
+    },
     {
       "id": "b82ab85172793bf7e4cc356419939fc7",
       "date": "2026-04-11",

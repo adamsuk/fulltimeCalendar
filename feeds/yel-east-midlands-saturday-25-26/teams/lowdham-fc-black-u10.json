@@ -1,19 +1,8 @@
 {
   "team": "Lowdham FC Black U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "f43919f32e032111c21a1cc831c25fe0",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Lowdham FC Black U10",
-      "away_team": "DJFC U10",
-      "venue": "Lowdham Playing Fields  NG14 7AB",
-      "division": "U10 Sat Spring Div 8 Red",
-      "home_away": "home",
-      "opponent": "DJFC U10"
-    },
     {
       "id": "14943268f6f8efa0d77d7408e2efba29",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f43919f32e032111c21a1cc831c25fe0",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Lowdham FC Black U10",
+      "away_team": "DJFC U10",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sat Spring Div 8 Red",
+      "home_away": "home",
+      "opponent": "DJFC U10",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "7deb01ba9142df62e9b06ec0b499de54",
       "date": "2026-03-28",

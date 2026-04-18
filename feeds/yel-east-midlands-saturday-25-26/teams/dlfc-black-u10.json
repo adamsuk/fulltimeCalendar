@@ -1,19 +1,8 @@
 {
   "team": "DLFC Black U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "85778c5a62fce058380c19dcddfd79cb",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "DLFC Black U10",
-      "away_team": "Bobbersmill FC Warriors U10",
-      "venue": "Mellish Sports Centre  NG6 9FH",
-      "division": "U10 Sat Spring Div 7 Red",
-      "home_away": "home",
-      "opponent": "Bobbersmill FC Warriors U10"
-    },
     {
       "id": "f7a1e071bb6957d6ed1c6b7ed12f06d5",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "85778c5a62fce058380c19dcddfd79cb",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "DLFC Black U10",
+      "away_team": "Bobbersmill FC Warriors U10",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sat Spring Div 7 Red",
+      "home_away": "home",
+      "opponent": "Bobbersmill FC Warriors U10",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "9a091fd653a0f52680e73c4ce8e58f6e",
       "date": "2026-03-21",

@@ -1,19 +1,8 @@
 {
   "team": "Bagthorpe Athletic Eagles U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "7f2bb7662f350042c2a50ed99683c8f9",
-      "date": "2026-04-18",
-      "time": "09:15",
-      "home_team": "Hatton United U12",
-      "away_team": "Bagthorpe Athletic Eagles U12",
-      "venue": "Goals Arena DE14 1TD",
-      "division": "U12 Sat YEL Trophy",
-      "home_away": "away",
-      "opponent": "Hatton United U12"
-    },
     {
       "id": "03b20403f8814a4401e58f0d486f195f",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7f2bb7662f350042c2a50ed99683c8f9",
+      "date": "2026-04-18",
+      "time": "09:15",
+      "home_team": "Hatton United U12",
+      "away_team": "Bagthorpe Athletic Eagles U12",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat YEL Trophy",
+      "home_away": "away",
+      "opponent": "Hatton United U12",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "961a6b9939062323f75775c4bc796cc5",
       "date": "2026-03-21",

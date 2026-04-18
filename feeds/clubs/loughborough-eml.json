@@ -1,6 +1,6 @@
 {
   "club": "Loughborough Eml",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
     {
       "id": "c154245929538f7d5ddc61a37eec5502",
@@ -14,19 +14,6 @@
       "team": "Loughborough Eml Falcons U14",
       "home_away": "home",
       "opponent": "Burton Joyce Red U14"
-    },
-    {
-      "id": "c192039cabb64649f8e23787cb2d0a9c",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "Loughborough Eml Foxes U13",
-      "away_team": "Moorgreen Colts White U13",
-      "venue": "Charnwood College, Loughborough LE11 4SQ",
-      "division": "U13 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Loughborough Eml Foxes U13",
-      "home_away": "home",
-      "opponent": "Moorgreen Colts White U13"
     },
     {
       "id": "fbb47577dfcc8811deb073623a7913de",
@@ -264,6 +251,23 @@
     }
   ],
   "results": [
+    {
+      "id": "c192039cabb64649f8e23787cb2d0a9c",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Loughborough Eml Foxes U13",
+      "away_team": "Moorgreen Colts White U13",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Loughborough Eml Foxes U13",
+      "home_away": "home",
+      "opponent": "Moorgreen Colts White U13",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "d9bf80ef8da5f4ecb45dc6ab1888e774",
       "date": "2026-04-14",

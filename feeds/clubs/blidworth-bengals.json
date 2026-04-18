@@ -1,6 +1,6 @@
 {
   "club": "Blidworth Bengals",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
     {
       "id": "d961c0e0288ac176b506680e171e1680",
@@ -14,19 +14,6 @@
       "team": "Blidworth Bengals Black U14",
       "home_away": "home",
       "opponent": "Collingham FC Lions U14"
-    },
-    {
-      "id": "c140ff1b2da7f4625d46078d15269518",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Blidworth Bengals Orange U10",
-      "away_team": "Teversal FC Red U10",
-      "venue": "Blidworth & Bilsthorpe Bengals NG22 8QW",
-      "division": "U10 Sat Spring Div 6 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Blidworth Bengals Orange U10",
-      "home_away": "home",
-      "opponent": "Teversal FC Red U10"
     },
     {
       "id": "c513d82fd2b36793da5068dd3e257fc5",
@@ -53,19 +40,6 @@
       "team": "Blidworth Bengals U7",
       "home_away": "home",
       "opponent": "Bingham Town Blue U7"
-    },
-    {
-      "id": "51f682dbfb3190a4e8c1c4b825332226",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Shirebrook Soldiers Cobras U8",
-      "away_team": "Blidworth Bengals U8",
-      "venue": "Coronation Drive, Shirebrook NG20 8RH",
-      "division": "U8 Sat Spring 1",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Blidworth Bengals U8",
-      "home_away": "away",
-      "opponent": "Shirebrook Soldiers Cobras U8"
     },
     {
       "id": "245b66842eb6a2fbfc0fc471aae8906c",
@@ -368,6 +342,40 @@
     }
   ],
   "results": [
+    {
+      "id": "c140ff1b2da7f4625d46078d15269518",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Blidworth Bengals Orange U10",
+      "away_team": "Teversal FC Red U10",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Blidworth Bengals Orange U10",
+      "home_away": "home",
+      "opponent": "Teversal FC Red U10",
+      "goals_for": 2,
+      "goals_against": 3
+    },
+    {
+      "id": "51f682dbfb3190a4e8c1c4b825332226",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Shirebrook Soldiers Cobras U8",
+      "away_team": "Blidworth Bengals U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Blidworth Bengals U8",
+      "home_away": "away",
+      "opponent": "Shirebrook Soldiers Cobras U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "830113a1e08ce0d11ebefa515ae8c4a6",
       "date": "2026-04-16",

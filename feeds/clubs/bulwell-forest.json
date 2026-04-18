@@ -1,33 +1,7 @@
 {
   "club": "Bulwell Forest",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "14256a387f60f49600cae94ce9b8ef89",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "Selston FC Blue U9",
-      "away_team": "Bulwell Forest Navy U9",
-      "venue": "Selston Parish Hall  NG16 6EE",
-      "division": "U9 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Bulwell Forest Navy U9",
-      "home_away": "away",
-      "opponent": "Selston FC Blue U9"
-    },
-    {
-      "id": "d07839d788fcbecd7cc20f099712b225",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Sutton-on-Trent Tornadoes U10",
-      "away_team": "Bulwell Forest U10",
-      "venue": "Sutton on Trent Sports Club . NG23 6QX",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Bulwell Forest U10",
-      "home_away": "away",
-      "opponent": "Sutton-on-Trent Tornadoes U10"
-    },
     {
       "id": "000a1b43a92918972b4d50ff823edb8e",
       "date": "2026-04-19",
@@ -69,6 +43,40 @@
     }
   ],
   "results": [
+    {
+      "id": "d07839d788fcbecd7cc20f099712b225",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Sutton-on-Trent Tornadoes U10",
+      "away_team": "Bulwell Forest U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Bulwell Forest U10",
+      "home_away": "away",
+      "opponent": "Sutton-on-Trent Tornadoes U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "14256a387f60f49600cae94ce9b8ef89",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Selston FC Blue U9",
+      "away_team": "Bulwell Forest Navy U9",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Bulwell Forest Navy U9",
+      "home_away": "away",
+      "opponent": "Selston FC Blue U9",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "8f3da110101e36e5ca80a10a80b5e156",
       "date": "2026-03-29",

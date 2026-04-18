@@ -1,19 +1,8 @@
 {
   "team": "Meden Vale Reds U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "e0cdea5f8917223383cd73780651e4b0",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Meden Vale Reds U9",
-      "away_team": "Collingham FC Lions U9",
-      "venue": "Elkesley Road NG20 9PS",
-      "division": "U9 Sat Spring Div 4 Red",
-      "home_away": "home",
-      "opponent": "Collingham FC Lions U9"
-    },
     {
       "id": "ea82f13d1f9a14f6dc9239db5a3f09b6",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e0cdea5f8917223383cd73780651e4b0",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Meden Vale Reds U9",
+      "away_team": "Collingham FC Lions U9",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 4 Red",
+      "home_away": "home",
+      "opponent": "Collingham FC Lions U9",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "a770cb77e6dde6a495cc0c4cb99e4b90",
       "date": "2026-03-28",

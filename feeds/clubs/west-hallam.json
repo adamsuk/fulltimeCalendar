@@ -1,6 +1,6 @@
 {
   "club": "West Hallam",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
     {
       "id": "54a10c6d4dc78eac29a73067ac384182",
@@ -14,19 +14,6 @@
       "team": "West Hallam Eagles U13",
       "home_away": "home",
       "opponent": "Priory Celtic White U13"
-    },
-    {
-      "id": "922feeea0b40ad0659940186f239a42c",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "West Hallam Harriers U9",
-      "away_team": "Sandiacre Town Red U9",
-      "venue": "The Recreation Ground DE7 6FF",
-      "division": "U9 Sat Spring Div 7 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "West Hallam Harriers U9",
-      "home_away": "home",
-      "opponent": "Sandiacre Town Red U9"
     },
     {
       "id": "756bb1d79a34285fbe36d647556a7b49",
@@ -355,6 +342,23 @@
     }
   ],
   "results": [
+    {
+      "id": "922feeea0b40ad0659940186f239a42c",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "West Hallam Harriers U9",
+      "away_team": "Sandiacre Town Red U9",
+      "home_score": 3,
+      "away_score": 5,
+      "venue": "",
+      "division": "U9 Sat Spring Div 7 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "West Hallam Harriers U9",
+      "home_away": "home",
+      "opponent": "Sandiacre Town Red U9",
+      "goals_for": 3,
+      "goals_against": 5
+    },
     {
       "id": "6f9040d8d516636b9eb465e2aa0f7530",
       "date": "2026-04-12",

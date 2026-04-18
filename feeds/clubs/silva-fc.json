@@ -1,20 +1,7 @@
 {
   "club": "Silva FC",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "eb023a37c180b96f81118ad1fc97af09",
-      "date": "2026-04-18",
-      "time": "09:00",
-      "home_team": "DLFC White U8",
-      "away_team": "Silva FC Carlton Miami U8",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U8 Sat Spring 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Silva FC Carlton Miami U8",
-      "home_away": "away",
-      "opponent": "DLFC White U8"
-    },
     {
       "id": "c9699b0082440a0126f24a02429fb007",
       "date": "2026-04-18",
@@ -27,19 +14,6 @@
       "team": "Silva FC Carlton Black U11",
       "home_away": "home",
       "opponent": "Quarrydale United U11"
-    },
-    {
-      "id": "6a2027828dc0ebb04e5c76c26fd36340",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Silva FC Brunts U10",
-      "away_team": "Priory Celtic Green U10",
-      "venue": "Brunts Academy NG18 2AT",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Silva FC Brunts U10",
-      "home_away": "home",
-      "opponent": "Priory Celtic Green U10"
     },
     {
       "id": "1398207190a1db0d6983f84329a0ca07",
@@ -55,19 +29,6 @@
       "opponent": "Gedling Southbank Reds U9"
     },
     {
-      "id": "c5131777bf0fdaa87d3adee0743590a1",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Silva FC Carlton Grey U9",
-      "away_team": "Eastwood CFC Red U9",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U9 Sat Spring Div 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Silva FC Carlton Grey U9",
-      "home_away": "home",
-      "opponent": "Eastwood CFC Red U9"
-    },
-    {
       "id": "b3525fcc1e9d9cac05f38277aa336e4f",
       "date": "2026-04-18",
       "time": "10:00",
@@ -81,19 +42,6 @@
       "opponent": "Meden Vale Colts Green U11"
     },
     {
-      "id": "4ba3e3119a54cd630f890f6f5a1eefb3",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Moorgreen Colts U9",
-      "away_team": "Silva FC Carlton Lions U9",
-      "venue": "Birnam Park  NG16 2DE",
-      "division": "U9 Sat Spring Div 5 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Silva FC Carlton Lions U9",
-      "home_away": "away",
-      "opponent": "Moorgreen Colts U9"
-    },
-    {
       "id": "c1d37f5783b45a11fecc06dfd68e027c",
       "date": "2026-04-18",
       "time": "10:00",
@@ -105,32 +53,6 @@
       "team": "Silva FC Carlton Purple U7",
       "home_away": "away",
       "opponent": "Sandiacre Town Red U7"
-    },
-    {
-      "id": "ccd3785bbb542323264e8ff232119454",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Newark Brazil Corinthians U10",
-      "away_team": "Silva FC Carlton U10",
-      "venue": "Claypole Playing Field NG23 5BQ",
-      "division": "U10 Sat Spring Div 5 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Silva FC Carlton U10",
-      "home_away": "away",
-      "opponent": "Newark Brazil Corinthians U10"
-    },
-    {
-      "id": "62991ba6eeb5f031a7b53308cfa2da76",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Silva FC Carlton Yellow U8",
-      "away_team": "Radcliffe Olympic Pumas U8",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U8 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Silva FC Carlton Yellow U8",
-      "home_away": "home",
-      "opponent": "Radcliffe Olympic Pumas U8"
     },
     {
       "id": "af38f370e3f159449d0b845021685ac6",
@@ -1356,6 +1278,108 @@
     }
   ],
   "results": [
+    {
+      "id": "6a2027828dc0ebb04e5c76c26fd36340",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Silva FC Brunts U10",
+      "away_team": "Priory Celtic Green U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Silva FC Brunts U10",
+      "home_away": "home",
+      "opponent": "Priory Celtic Green U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "c5131777bf0fdaa87d3adee0743590a1",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Silva FC Carlton Grey U9",
+      "away_team": "Eastwood CFC Red U9",
+      "home_score": 4,
+      "away_score": 6,
+      "venue": "",
+      "division": "U9 Sat Spring Div 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Silva FC Carlton Grey U9",
+      "home_away": "home",
+      "opponent": "Eastwood CFC Red U9",
+      "goals_for": 4,
+      "goals_against": 6
+    },
+    {
+      "id": "4ba3e3119a54cd630f890f6f5a1eefb3",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Moorgreen Colts U9",
+      "away_team": "Silva FC Carlton Lions U9",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat Spring Div 5 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Silva FC Carlton Lions U9",
+      "home_away": "away",
+      "opponent": "Moorgreen Colts U9",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
+      "id": "ccd3785bbb542323264e8ff232119454",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Newark Brazil Corinthians U10",
+      "away_team": "Silva FC Carlton U10",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sat Spring Div 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Silva FC Carlton U10",
+      "home_away": "away",
+      "opponent": "Newark Brazil Corinthians U10",
+      "goals_for": 2,
+      "goals_against": 4
+    },
+    {
+      "id": "62991ba6eeb5f031a7b53308cfa2da76",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Silva FC Carlton Yellow U8",
+      "away_team": "Radcliffe Olympic Pumas U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Silva FC Carlton Yellow U8",
+      "home_away": "home",
+      "opponent": "Radcliffe Olympic Pumas U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "eb023a37c180b96f81118ad1fc97af09",
+      "date": "2026-04-18",
+      "time": "09:00",
+      "home_team": "DLFC White U8",
+      "away_team": "Silva FC Carlton Miami U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Silva FC Carlton Miami U8",
+      "home_away": "away",
+      "opponent": "DLFC White U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "98c6fe213b00d45e984db1d244a523b6",
       "date": "2026-04-16",

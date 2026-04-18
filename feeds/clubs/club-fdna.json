@@ -1,6 +1,6 @@
 {
   "club": "Club FDNA",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
     {
       "id": "410c44d2f179cfb68db960b1e1f64034",
@@ -14,19 +14,6 @@
       "team": "Club FDNA Barca U9",
       "home_away": "away",
       "opponent": "Sherwood Colliery Red U9"
-    },
-    {
-      "id": "7b17ae5f87a56c71be708701d6c02195",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Club FDNA Brasilia U10",
-      "away_team": "Long Eaton United Milan U10",
-      "venue": "Bilborough College NG8 4DQ",
-      "division": "U10 Sat Spring Premier Division",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Club FDNA Brasilia U10",
-      "home_away": "home",
-      "opponent": "Long Eaton United Milan U10"
     },
     {
       "id": "c55a78a9c13eb4254ce6c07fca997b0f",
@@ -53,32 +40,6 @@
       "team": "Club FDNA Madrid U10",
       "home_away": "home",
       "opponent": "Pegasus FC U10"
-    },
-    {
-      "id": "a35f32ec09e740d8a727fa1617831378",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Club FDNA Milan U9",
-      "away_team": "Woodhouse Colts Blue U9",
-      "venue": "Bilborough College NG8 4DQ",
-      "division": "U9 Sat Spring Div 1",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Club FDNA Milan U9",
-      "home_away": "home",
-      "opponent": "Woodhouse Colts Blue U9"
-    },
-    {
-      "id": "02060e5d0b2035b5e63ba48bf76dc213",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Clifton All Whites Blue U8",
-      "away_team": "Club FDNA Santos U8",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U8 Sat Spring 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Club FDNA Santos U8",
-      "home_away": "away",
-      "opponent": "Clifton All Whites Blue U8"
     },
     {
       "id": "baa5238d8a85a05b74f0ec5d8aa69a85",
@@ -355,6 +316,57 @@
     }
   ],
   "results": [
+    {
+      "id": "7b17ae5f87a56c71be708701d6c02195",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Club FDNA Brasilia U10",
+      "away_team": "Long Eaton United Milan U10",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Club FDNA Brasilia U10",
+      "home_away": "home",
+      "opponent": "Long Eaton United Milan U10",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
+      "id": "a35f32ec09e740d8a727fa1617831378",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Club FDNA Milan U9",
+      "away_team": "Woodhouse Colts Blue U9",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sat Spring Div 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Club FDNA Milan U9",
+      "home_away": "home",
+      "opponent": "Woodhouse Colts Blue U9",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "02060e5d0b2035b5e63ba48bf76dc213",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Clifton All Whites Blue U8",
+      "away_team": "Club FDNA Santos U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Club FDNA Santos U8",
+      "home_away": "away",
+      "opponent": "Clifton All Whites Blue U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "15957d649c644a6082f03c87f52aa3b0",
       "date": "2026-04-12",

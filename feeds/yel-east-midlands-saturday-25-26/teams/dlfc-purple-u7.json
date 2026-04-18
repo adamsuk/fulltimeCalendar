@@ -1,19 +1,8 @@
 {
   "team": "DLFC Purple U7",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "ed78f82ae525adee96299a598a57ef7b",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "DLFC Purple U7",
-      "away_team": "Long Eaton United Blue U7",
-      "venue": "Bestwood Road Sports Club NG6 8UA",
-      "division": "U7 Sat Spring 3 Red",
-      "home_away": "home",
-      "opponent": "Long Eaton United Blue U7"
-    },
     {
       "id": "8a2e96728afce1d3b95e44e830748435",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ed78f82ae525adee96299a598a57ef7b",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "DLFC Purple U7",
+      "away_team": "Long Eaton United Blue U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 3 Red",
+      "home_away": "home",
+      "opponent": "Long Eaton United Blue U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "3965e3371d9a3a325784f3782c6f831e",
       "date": "2026-03-28",

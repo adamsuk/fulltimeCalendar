@@ -1,20 +1,7 @@
 {
   "club": "Meden Vale",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "e4820c42d294671fe68c842a20043c3d",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Meden Vale Colts Gold U8",
-      "away_team": "Market Warsop Stags U8",
-      "venue": "Elkesley Road NG20 9PS",
-      "division": "U8 Sat Spring 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Meden Vale Colts Gold U8",
-      "home_away": "home",
-      "opponent": "Market Warsop Stags U8"
-    },
     {
       "id": "b3525fcc1e9d9cac05f38277aa336e4f",
       "date": "2026-04-18",
@@ -40,32 +27,6 @@
       "team": "Meden Vale Colts Red U14",
       "home_away": "home",
       "opponent": "Heather St Johns U14"
-    },
-    {
-      "id": "29dbf377a13ab6d473b19d7a8fa19612",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Inspire Nottingham Black U8",
-      "away_team": "Meden Vale Colts Red U8",
-      "venue": "Powerleague Arnold NG5 6NZ",
-      "division": "U8 Sat Spring 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Meden Vale Colts Red U8",
-      "home_away": "away",
-      "opponent": "Inspire Nottingham Black U8"
-    },
-    {
-      "id": "e0cdea5f8917223383cd73780651e4b0",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Meden Vale Reds U9",
-      "away_team": "Collingham FC Lions U9",
-      "venue": "Elkesley Road NG20 9PS",
-      "division": "U9 Sat Spring Div 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Meden Vale Reds U9",
-      "home_away": "home",
-      "opponent": "Collingham FC Lions U9"
     },
     {
       "id": "ccf4ebe3a16474ebc596ff35076359a1",
@@ -524,6 +485,57 @@
     }
   ],
   "results": [
+    {
+      "id": "e4820c42d294671fe68c842a20043c3d",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Meden Vale Colts Gold U8",
+      "away_team": "Market Warsop Stags U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Meden Vale Colts Gold U8",
+      "home_away": "home",
+      "opponent": "Market Warsop Stags U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "29dbf377a13ab6d473b19d7a8fa19612",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Inspire Nottingham Black U8",
+      "away_team": "Meden Vale Colts Red U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Meden Vale Colts Red U8",
+      "home_away": "away",
+      "opponent": "Inspire Nottingham Black U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "e0cdea5f8917223383cd73780651e4b0",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Meden Vale Reds U9",
+      "away_team": "Collingham FC Lions U9",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Meden Vale Reds U9",
+      "home_away": "home",
+      "opponent": "Collingham FC Lions U9",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "6f8ad4eb6f0d0ce8e4b7a74272bb7456",
       "date": "2026-04-14",

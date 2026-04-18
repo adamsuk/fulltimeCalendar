@@ -1,33 +1,7 @@
 {
   "club": "Cotgrave FC",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "c2a1837da6869cbff01bcfb2c8bc1d7f",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Cotgrave FC Black U10",
-      "away_team": "Winthorpe & Cod T U10",
-      "venue": "Ridley Sports Ground  NG12 3HA",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Cotgrave FC Black U10",
-      "home_away": "home",
-      "opponent": "Winthorpe & Cod T U10"
-    },
-    {
-      "id": "64d23c37c9e39d57d0f36ec2a3901e99",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Cotgrave FC Blue U11",
-      "away_team": "Priory Celtic Hoops U11",
-      "venue": "Ridley Sports Ground  NG12 3HA",
-      "division": "U11 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Cotgrave FC Blue U11",
-      "home_away": "home",
-      "opponent": "Priory Celtic Hoops U11"
-    },
     {
       "id": "39cbb0c4780bf34c974cf47f1a7f3a25",
       "date": "2026-04-18",
@@ -131,19 +105,6 @@
       "team": "Cotgrave FC Claret U9",
       "home_away": "away",
       "opponent": "Bilborough Town U9"
-    },
-    {
-      "id": "1c61375540ecdee5ab4a43df1b5a94a7",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Pelican Colts U8",
-      "away_team": "Cotgrave FC U8 Girls ^",
-      "venue": "Dave Eastwood Sports Ground NG7 2SA",
-      "division": "U8 Sat Spring 6 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Cotgrave FC U8 Girls ^",
-      "home_away": "away",
-      "opponent": "Pelican Colts U8"
     },
     {
       "id": "01ad836d29a1821e49b97a483dee5a11",
@@ -810,6 +771,57 @@
     }
   ],
   "results": [
+    {
+      "id": "c2a1837da6869cbff01bcfb2c8bc1d7f",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Cotgrave FC Black U10",
+      "away_team": "Winthorpe & Cod T U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Cotgrave FC Black U10",
+      "home_away": "home",
+      "opponent": "Winthorpe & Cod T U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "64d23c37c9e39d57d0f36ec2a3901e99",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Cotgrave FC Blue U11",
+      "away_team": "Priory Celtic Hoops U11",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Cotgrave FC Blue U11",
+      "home_away": "home",
+      "opponent": "Priory Celtic Hoops U11",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "1c61375540ecdee5ab4a43df1b5a94a7",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Pelican Colts U8",
+      "away_team": "Cotgrave FC U8 Girls ^",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 6 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Cotgrave FC U8 Girls ^",
+      "home_away": "away",
+      "opponent": "Pelican Colts U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "3c8a22ee655417c23f0ef0bd0691639c",
       "date": "2026-04-14",

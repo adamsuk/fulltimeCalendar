@@ -1,6 +1,6 @@
 {
   "club": "Basford CFC",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
     {
       "id": "84e634db8203d636b661ee8071a375f2",
@@ -14,19 +14,6 @@
       "team": "Basford CFC Iconz U9",
       "home_away": "away",
       "opponent": "DLFC Red U9"
-    },
-    {
-      "id": "e6f9a086571b9b2814813bd9ecc8c9e2",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "WBYFC Azzuri U10",
-      "away_team": "Basford CFC Blue U10",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U10 Sat Spring Div 2 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "away",
-      "opponent": "WBYFC Azzuri U10"
     },
     {
       "id": "876d7a498b10e9506e9d4d076abc33df",
@@ -173,6 +160,23 @@
     }
   ],
   "results": [
+    {
+      "id": "e6f9a086571b9b2814813bd9ecc8c9e2",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "WBYFC Azzuri U10",
+      "away_team": "Basford CFC Blue U10",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "",
+      "division": "U10 Sat Spring Div 2 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford CFC Blue U10",
+      "home_away": "away",
+      "opponent": "WBYFC Azzuri U10",
+      "goals_for": 0,
+      "goals_against": 0
+    },
     {
       "id": "bc745e4b9a7b4aab0f02d1213ed8384d",
       "date": "2026-04-12",

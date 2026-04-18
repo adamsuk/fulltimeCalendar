@@ -1,6 +1,6 @@
 {
   "club": "Ilkeston Town",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
     {
       "id": "940c4d131eb576b39f70d6cc694b3823",
@@ -16,19 +16,6 @@
       "opponent": "Gainsborough Trinity Community FC U15"
     },
     {
-      "id": "b2c189f87e0338cc7cdbc25652cfbb8b",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Ilkeston Town Basel U8",
-      "away_team": "Long Eaton United Athletico U8",
-      "venue": "New Manor Ground DE7 8JF",
-      "division": "U8 Sat Spring 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ilkeston Town Basel U8",
-      "home_away": "home",
-      "opponent": "Long Eaton United Athletico U8"
-    },
-    {
       "id": "774ab13f84ac3ed4ae7c0c5c6d73156d",
       "date": "2026-04-18",
       "time": "10:00",
@@ -40,32 +27,6 @@
       "team": "Ilkeston Town Dragons U13",
       "home_away": "away",
       "opponent": "WBYFC Celtics U13"
-    },
-    {
-      "id": "1d8e5c104d7e68e59b64e4bc1e5fb759",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Ilkeston Town PSG U10",
-      "away_team": "Holbrook Sports U10",
-      "venue": "New Manor Ground DE7 8JF",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ilkeston Town PSG U10",
-      "home_away": "home",
-      "opponent": "Holbrook Sports U10"
-    },
-    {
-      "id": "dc8771e75b4a1aa599a18c48e1ab4cb7",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Ilkeston Town Robins U7",
-      "away_team": "Sandiacre Town Blue U7",
-      "venue": "New Manor Ground DE7 8JF",
-      "division": "U7 Sat Spring 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ilkeston Town Robins U7",
-      "home_away": "home",
-      "opponent": "Sandiacre Town Blue U7"
     },
     {
       "id": "af2d04ca7acdb51df2f37738e8094ffe",
@@ -641,6 +602,57 @@
     }
   ],
   "results": [
+    {
+      "id": "b2c189f87e0338cc7cdbc25652cfbb8b",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Basel U8",
+      "away_team": "Long Eaton United Athletico U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ilkeston Town Basel U8",
+      "home_away": "home",
+      "opponent": "Long Eaton United Athletico U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "1d8e5c104d7e68e59b64e4bc1e5fb759",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Ilkeston Town PSG U10",
+      "away_team": "Holbrook Sports U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ilkeston Town PSG U10",
+      "home_away": "home",
+      "opponent": "Holbrook Sports U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "dc8771e75b4a1aa599a18c48e1ab4cb7",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Robins U7",
+      "away_team": "Sandiacre Town Blue U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ilkeston Town Robins U7",
+      "home_away": "home",
+      "opponent": "Sandiacre Town Blue U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "511836173bbfdc9bb7e61c5080e27fd3",
       "date": "2026-04-16",

@@ -1,19 +1,8 @@
 {
   "team": "Heanor Town Panthers U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "b05d9add3669d354b8f6618deaa4aac6",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Heanor Town Panthers U12",
-      "away_team": "Keyworth United Blue U12",
-      "venue": "Riddings Park  DE55 4EW",
-      "division": "U12 Sat Spring Div 5 Red",
-      "home_away": "home",
-      "opponent": "Keyworth United Blue U12"
-    },
     {
       "id": "4451a8c02499fc59cdec92ea7188bdff",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b05d9add3669d354b8f6618deaa4aac6",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Heanor Town Panthers U12",
+      "away_team": "Keyworth United Blue U12",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sat Spring Div 5 Red",
+      "home_away": "home",
+      "opponent": "Keyworth United Blue U12",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "0364229dc9883443fb4d73f73cc75191",
       "date": "2026-04-14",

@@ -1,19 +1,8 @@
 {
   "team": "Bingham Town Red U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "2f9391f7e03ee3c8dfe42056d0699bd6",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "Heanor Juniors Rams U11",
-      "away_team": "Bingham Town Red U11",
-      "venue": "Charles Hill DE75 7RN",
-      "division": "U11 Sat Spring Div 2 Red",
-      "home_away": "away",
-      "opponent": "Heanor Juniors Rams U11"
-    },
     {
       "id": "cf47b98ec72551162da2f8cbd06bac72",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2f9391f7e03ee3c8dfe42056d0699bd6",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Heanor Juniors Rams U11",
+      "away_team": "Bingham Town Red U11",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U11 Sat Spring Div 2 Red",
+      "home_away": "away",
+      "opponent": "Heanor Juniors Rams U11",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "937c1be4cb02f1bafcd214a365d46506",
       "date": "2026-03-28",

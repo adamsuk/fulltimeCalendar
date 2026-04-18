@@ -1,20 +1,7 @@
 {
   "club": "Nottingham Second",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "50448b2a1af5c15dadbdc1720a05f557",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Nottingham Second Chance U10",
-      "away_team": "Loughborough Emmanuel U10",
-      "venue": "Stockhill Fire Station Park NG6 0LP",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Nottingham Second Chance U10",
-      "home_away": "home",
-      "opponent": "Loughborough Emmanuel U10"
-    },
     {
       "id": "8e747063797a6640cb0e772448effb1a",
       "date": "2026-04-18",
@@ -82,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "50448b2a1af5c15dadbdc1720a05f557",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Nottingham Second Chance U10",
+      "away_team": "Loughborough Emmanuel U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham Second Chance U10",
+      "home_away": "home",
+      "opponent": "Loughborough Emmanuel U10",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "074e1eced87bd08174097fa33bff1eab",
       "date": "2026-04-11",

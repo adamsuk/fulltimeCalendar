@@ -1,19 +1,8 @@
 {
   "team": "Teversal FC Blue U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "2a94faf881daa32c27680337865a1107",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Beaufort United White U10",
-      "away_team": "Teversal FC Blue U10",
-      "venue": "Unwin Road  NG17 4HT",
-      "division": "U10 Sat Spring Div 3 Red",
-      "home_away": "away",
-      "opponent": "Beaufort United White U10"
-    },
     {
       "id": "31444320724cc0b396608d21d38713d8",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2a94faf881daa32c27680337865a1107",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Beaufort United White U10",
+      "away_team": "Teversal FC Blue U10",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "U10 Sat Spring Div 3 Red",
+      "home_away": "away",
+      "opponent": "Beaufort United White U10",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "182312cd066a27f4c5bf6d42447f2bb6",
       "date": "2026-03-28",

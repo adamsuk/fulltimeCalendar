@@ -1,20 +1,7 @@
 {
   "club": "Aspire FC",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "deb0a05d6a6bbd148b63acb5068d635f",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Aspire FC U9",
-      "away_team": "Grantham Town Grey U9",
-      "venue": "Nottingham Trent University NG11 8NS",
-      "division": "U9 Sat Spring Premier Division",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Aspire FC U9",
-      "home_away": "home",
-      "opponent": "Grantham Town Grey U9"
-    },
     {
       "id": "3af76de5e82435f0de5b56013aa3e18a",
       "date": "2026-04-19",
@@ -121,6 +108,23 @@
     }
   ],
   "results": [
+    {
+      "id": "deb0a05d6a6bbd148b63acb5068d635f",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Aspire FC U9",
+      "away_team": "Grantham Town Grey U9",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Aspire FC U9",
+      "home_away": "home",
+      "opponent": "Grantham Town Grey U9",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "64ae14cd5fbab8ce5e6bee15ebffeefc",
       "date": "2026-04-12",

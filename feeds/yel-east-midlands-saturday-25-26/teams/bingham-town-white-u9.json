@@ -1,19 +1,8 @@
 {
   "team": "Bingham Town White U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "7e3755ed76544082db1c74a913e54047",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Bingham Town White U9",
-      "away_team": "Radcliffe Olympic Blue U9",
-      "venue": "Butt Field NG13 8GG",
-      "division": "U9 Sat Spring Div 8 Blue",
-      "home_away": "home",
-      "opponent": "Radcliffe Olympic Blue U9"
-    },
     {
       "id": "a4ef9c561f08ee30562abf38c989e8fa",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7e3755ed76544082db1c74a913e54047",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Bingham Town White U9",
+      "away_team": "Radcliffe Olympic Blue U9",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat Spring Div 8 Blue",
+      "home_away": "home",
+      "opponent": "Radcliffe Olympic Blue U9",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "182d6ec065125937bd7bbf0059e4c831",
       "date": "2026-03-28",

@@ -1,19 +1,8 @@
 {
   "team": "Burton Joyce Green U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "fcad1f44d0f2f5242c73c01a7f24acff",
-      "date": "2026-04-18",
-      "time": "09:45",
-      "home_team": "Radcliffe Olympic Rangers U10",
-      "away_team": "Burton Joyce Green U10",
-      "venue": "Radcliffe-on-Trent Cricket Club NG12 2DU",
-      "division": "U10 Sat Spring Div 3 Blue",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic Rangers U10"
-    },
     {
       "id": "9bf2e2ea69848771e773c6dbb746f349",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "fcad1f44d0f2f5242c73c01a7f24acff",
+      "date": "2026-04-18",
+      "time": "09:45",
+      "home_team": "Radcliffe Olympic Rangers U10",
+      "away_team": "Burton Joyce Green U10",
+      "home_score": 1,
+      "away_score": 12,
+      "venue": "",
+      "division": "U10 Sat Spring Div 3 Blue",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic Rangers U10",
+      "goals_for": 12,
+      "goals_against": 1
+    },
     {
       "id": "520290b0ecc4dce9c314612a1a5b0c9c",
       "date": "2026-03-28",

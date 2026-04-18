@@ -1,19 +1,8 @@
 {
   "team": "Radcliffe Olympic Red U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "c7d6f24c9cc04104971619afc644aaa1",
-      "date": "2026-04-18",
-      "time": "09:45",
-      "home_team": "Sherwood Colliery Gold U9",
-      "away_team": "Radcliffe Olympic Red U9",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U9 Sat Spring Div 4 Red",
-      "home_away": "away",
-      "opponent": "Sherwood Colliery Gold U9"
-    },
     {
       "id": "73e9210249ef5c1d867660b8479d7ff7",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c7d6f24c9cc04104971619afc644aaa1",
+      "date": "2026-04-18",
+      "time": "09:45",
+      "home_team": "Sherwood Colliery Gold U9",
+      "away_team": "Radcliffe Olympic Red U9",
+      "home_score": 7,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat Spring Div 4 Red",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery Gold U9",
+      "goals_for": 3,
+      "goals_against": 7
+    },
     {
       "id": "2b3b495a6701315e23d25b8a5736da69",
       "date": "2026-03-28",

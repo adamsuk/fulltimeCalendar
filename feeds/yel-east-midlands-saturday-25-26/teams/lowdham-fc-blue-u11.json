@@ -1,19 +1,8 @@
 {
   "team": "Lowdham FC Blue U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "e0c6090c6e911f45409ff88c4bf1779c",
-      "date": "2026-04-18",
-      "time": "09:15",
-      "home_team": "WBYFC Bohemians U11",
-      "away_team": "Lowdham FC Blue U11",
-      "venue": "Gresham Park  NG2 7YF",
-      "division": "U11 Sat Spring Premier Division",
-      "home_away": "away",
-      "opponent": "WBYFC Bohemians U11"
-    },
     {
       "id": "30c179fa91c07574445d236f92964d93",
       "date": "2026-04-23",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e0c6090c6e911f45409ff88c4bf1779c",
+      "date": "2026-04-18",
+      "time": "09:15",
+      "home_team": "WBYFC Bohemians U11",
+      "away_team": "Lowdham FC Blue U11",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Premier Division",
+      "home_away": "away",
+      "opponent": "WBYFC Bohemians U11",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "013d243b489dedd9627e5d194a1d7b6a",
       "date": "2026-03-14",

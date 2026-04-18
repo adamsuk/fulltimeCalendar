@@ -1,33 +1,7 @@
 {
   "club": "Teversal FC",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "2a94faf881daa32c27680337865a1107",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Beaufort United White U10",
-      "away_team": "Teversal FC Blue U10",
-      "venue": "Unwin Road  NG17 4HT",
-      "division": "U10 Sat Spring Div 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Teversal FC Blue U10",
-      "home_away": "away",
-      "opponent": "Beaufort United White U10"
-    },
-    {
-      "id": "c140ff1b2da7f4625d46078d15269518",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Blidworth Bengals Orange U10",
-      "away_team": "Teversal FC Red U10",
-      "venue": "Blidworth & Bilsthorpe Bengals NG22 8QW",
-      "division": "U10 Sat Spring Div 6 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Teversal FC Red U10",
-      "home_away": "away",
-      "opponent": "Blidworth Bengals Orange U10"
-    },
     {
       "id": "1828c31a8042aeb1910eec8dc707fb5c",
       "date": "2026-04-18",
@@ -160,6 +134,40 @@
     }
   ],
   "results": [
+    {
+      "id": "2a94faf881daa32c27680337865a1107",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Beaufort United White U10",
+      "away_team": "Teversal FC Blue U10",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "U10 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Teversal FC Blue U10",
+      "home_away": "away",
+      "opponent": "Beaufort United White U10",
+      "goals_for": 4,
+      "goals_against": 0
+    },
+    {
+      "id": "c140ff1b2da7f4625d46078d15269518",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Blidworth Bengals Orange U10",
+      "away_team": "Teversal FC Red U10",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Teversal FC Red U10",
+      "home_away": "away",
+      "opponent": "Blidworth Bengals Orange U10",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "67c63624166a9d4de0f9f57399c8c0ac",
       "date": "2026-04-12",

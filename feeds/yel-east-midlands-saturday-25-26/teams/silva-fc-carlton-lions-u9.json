@@ -1,19 +1,8 @@
 {
   "team": "Silva FC Carlton Lions U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "4ba3e3119a54cd630f890f6f5a1eefb3",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Moorgreen Colts U9",
-      "away_team": "Silva FC Carlton Lions U9",
-      "venue": "Birnam Park  NG16 2DE",
-      "division": "U9 Sat Spring Div 5 Green",
-      "home_away": "away",
-      "opponent": "Moorgreen Colts U9"
-    },
     {
       "id": "5f3a4b97b01fdf98df958a938bf4f5fa",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "4ba3e3119a54cd630f890f6f5a1eefb3",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Moorgreen Colts U9",
+      "away_team": "Silva FC Carlton Lions U9",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat Spring Div 5 Green",
+      "home_away": "away",
+      "opponent": "Moorgreen Colts U9",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "fe4afd0504e931cabcfa13532a7f20fe",
       "date": "2026-03-28",

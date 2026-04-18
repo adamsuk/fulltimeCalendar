@@ -1,6 +1,6 @@
 {
   "club": "Collingham FC",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
     {
       "id": "ee9f817cce8b58dd94130e5f08eb3571",
@@ -14,19 +14,6 @@
       "team": "Collingham FC Cougars U11",
       "home_away": "away",
       "opponent": "Arnold Town Yellow U11"
-    },
-    {
-      "id": "71abc07a640cbe54678fa22ebad9782d",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Collingham FC Cougars U7",
-      "away_team": "Lowdham FC Red U7",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U7 Sat Spring 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Collingham FC Cougars U7",
-      "home_away": "home",
-      "opponent": "Lowdham FC Red U7"
     },
     {
       "id": "4b3db55f250d96fe4158d18858dc5ddc",
@@ -53,19 +40,6 @@
       "team": "Collingham FC Lions U10",
       "home_away": "away",
       "opponent": "Woodthorpe Com Celtic U10"
-    },
-    {
-      "id": "d6d15630f172bd666689c9465c76cedd",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Newark Brazil Santos U11",
-      "away_team": "Collingham FC Lions U11",
-      "venue": "Magnus School Sports Centre NG24 4BZ",
-      "division": "U11 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Collingham FC Lions U11",
-      "home_away": "away",
-      "opponent": "Newark Brazil Santos U11"
     },
     {
       "id": "c513d82fd2b36793da5068dd3e257fc5",
@@ -118,19 +92,6 @@
       "team": "Collingham FC Lions U8",
       "home_away": "home",
       "opponent": "WBYFC Crusaders Black U8"
-    },
-    {
-      "id": "e0cdea5f8917223383cd73780651e4b0",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Meden Vale Reds U9",
-      "away_team": "Collingham FC Lions U9",
-      "venue": "Elkesley Road NG20 9PS",
-      "division": "U9 Sat Spring Div 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Collingham FC Lions U9",
-      "home_away": "away",
-      "opponent": "Meden Vale Reds U9"
     },
     {
       "id": "a5b3059fc1f0c9ce6c63efa702877db1",
@@ -706,6 +667,57 @@
     }
   ],
   "results": [
+    {
+      "id": "71abc07a640cbe54678fa22ebad9782d",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Collingham FC Cougars U7",
+      "away_team": "Lowdham FC Red U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Collingham FC Cougars U7",
+      "home_away": "home",
+      "opponent": "Lowdham FC Red U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "d6d15630f172bd666689c9465c76cedd",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Newark Brazil Santos U11",
+      "away_team": "Collingham FC Lions U11",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Collingham FC Lions U11",
+      "home_away": "away",
+      "opponent": "Newark Brazil Santos U11",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
+      "id": "e0cdea5f8917223383cd73780651e4b0",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Meden Vale Reds U9",
+      "away_team": "Collingham FC Lions U9",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Collingham FC Lions U9",
+      "home_away": "away",
+      "opponent": "Meden Vale Reds U9",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "b485730f309d362212546772880832c7",
       "date": "2026-04-16",

@@ -1,6 +1,6 @@
 {
   "club": "Phoenix Inham",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
     {
       "id": "4aeb9b46959fec64d6b8987e877b88e3",
@@ -66,19 +66,6 @@
       "team": "Phoenix Inham Rockets U11",
       "home_away": "home",
       "opponent": "Clifton All Whites Scarlet U11"
-    },
-    {
-      "id": "5f8b11691f724a00a9b8f0abc530e5df",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Magna 73 Juniors U10",
-      "away_team": "Phoenix Inham War Red U10",
-      "venue": "Meadows Sports Ground LE8 5QW",
-      "division": "U10 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Phoenix Inham War Red U10",
-      "home_away": "away",
-      "opponent": "Magna 73 Juniors U10"
     },
     {
       "id": "9ac9f3e9017442e3384941a263f342e4",
@@ -563,6 +550,23 @@
     }
   ],
   "results": [
+    {
+      "id": "5f8b11691f724a00a9b8f0abc530e5df",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Magna 73 Juniors U10",
+      "away_team": "Phoenix Inham War Red U10",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "U10 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Phoenix Inham War Red U10",
+      "home_away": "away",
+      "opponent": "Magna 73 Juniors U10",
+      "goals_for": 0,
+      "goals_against": 5
+    },
     {
       "id": "830113a1e08ce0d11ebefa515ae8c4a6",
       "date": "2026-04-16",

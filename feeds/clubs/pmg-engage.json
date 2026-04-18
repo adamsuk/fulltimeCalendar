@@ -1,20 +1,7 @@
 {
   "club": "PMG Engage",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "a04d6584b00a924001aef82ea38cec25",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "PMG Engage U9",
-      "away_team": "Wollaton H & B Tigers U9",
-      "venue": "Bulwell Hall Park NG6 8LF",
-      "division": "U9 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "PMG Engage U9",
-      "home_away": "home",
-      "opponent": "Wollaton H & B Tigers U9"
-    },
     {
       "id": "ddb6b5b814d1c3dd9792aa451a4e1164",
       "date": "2026-04-18",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "a04d6584b00a924001aef82ea38cec25",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "PMG Engage U9",
+      "away_team": "Wollaton H & B Tigers U9",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "PMG Engage U9",
+      "home_away": "home",
+      "opponent": "Wollaton H & B Tigers U9",
+      "goals_for": 5,
+      "goals_against": 0
+    },
     {
       "id": "c99ab3c756ddae47e3712ce20d2f74c5",
       "date": "2026-04-15",

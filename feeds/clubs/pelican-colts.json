@@ -1,6 +1,6 @@
 {
   "club": "Pelican Colts",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
     {
       "id": "30ca6cb54aa4519f419c8085c7a771ce",
@@ -14,32 +14,6 @@
       "team": "Pelican Colts FC Ladies",
       "home_away": "home",
       "opponent": "Lowdham Colts FC Development"
-    },
-    {
-      "id": "06296cfe42075eb0e50dc6826a99806b",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "DLFC Grey U10",
-      "away_team": "Pelican Colts White U10",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U10 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Pelican Colts White U10",
-      "home_away": "away",
-      "opponent": "DLFC Grey U10"
-    },
-    {
-      "id": "1c61375540ecdee5ab4a43df1b5a94a7",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Pelican Colts U8",
-      "away_team": "Cotgrave FC U8 Girls ^",
-      "venue": "Dave Eastwood Sports Ground NG7 2SA",
-      "division": "U8 Sat Spring 6 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Pelican Colts U8",
-      "home_away": "home",
-      "opponent": "Cotgrave FC U8 Girls ^"
     },
     {
       "id": "de78fcafb136bc8c6b8ec4fd80c9ebdd",
@@ -303,6 +277,40 @@
     }
   ],
   "results": [
+    {
+      "id": "1c61375540ecdee5ab4a43df1b5a94a7",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Pelican Colts U8",
+      "away_team": "Cotgrave FC U8 Girls ^",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 6 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Pelican Colts U8",
+      "home_away": "home",
+      "opponent": "Cotgrave FC U8 Girls ^",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "06296cfe42075eb0e50dc6826a99806b",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "DLFC Grey U10",
+      "away_team": "Pelican Colts White U10",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Pelican Colts White U10",
+      "home_away": "away",
+      "opponent": "DLFC Grey U10",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "783f44a600db8f20b57f75e09997f343",
       "date": "2026-04-14",

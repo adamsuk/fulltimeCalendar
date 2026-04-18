@@ -1,6 +1,6 @@
 {
   "club": "Wollaton FC",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
     {
       "id": "8de3c4554f00a52003bf065ba26866ea",
@@ -14,19 +14,6 @@
       "team": "Wollaton FC Navy U8",
       "home_away": "away",
       "opponent": "WBYFC Dynamos Red U8"
-    },
-    {
-      "id": "5de1787b2435516ccc2821221f78a6b0",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Wollaton FC Sky U8",
-      "away_team": "Keyworth United White U8",
-      "venue": "Wollaton Sports Association NG8 2AP",
-      "division": "U8 Sat Spring 1",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Wollaton FC Sky U8",
-      "home_away": "home",
-      "opponent": "Keyworth United White U8"
     },
     {
       "id": "e5f83dab4b9c9da3de6f29f0e2972f9e",
@@ -121,6 +108,23 @@
     }
   ],
   "results": [
+    {
+      "id": "5de1787b2435516ccc2821221f78a6b0",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Wollaton FC Sky U8",
+      "away_team": "Keyworth United White U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Wollaton FC Sky U8",
+      "home_away": "home",
+      "opponent": "Keyworth United White U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "06295defff3e8b9d51daa48c197df237",
       "date": "2026-04-14",

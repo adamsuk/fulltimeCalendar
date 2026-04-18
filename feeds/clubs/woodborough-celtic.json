@@ -1,6 +1,6 @@
 {
   "club": "Woodborough Celtic",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
     {
       "id": "8d92fe1b99838e9ae7a1d01a3efaebf1",
@@ -14,45 +14,6 @@
       "team": "Woodborough Celtic Warriors U9",
       "home_away": "home",
       "opponent": "Newark Brazil Santos U9"
-    },
-    {
-      "id": "3d1dfc1a9aaf61eb00052e17c1b17c5a",
-      "date": "2026-04-18",
-      "time": "09:00",
-      "home_team": "DLFC Vipers U8",
-      "away_team": "Woodborough Celtic Wolves U8",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U8 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Woodborough Celtic Wolves U8",
-      "home_away": "away",
-      "opponent": "DLFC Vipers U8"
-    },
-    {
-      "id": "8b2000941ddc980040b63620cb5fd680",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Woodborough Celtic Green U9",
-      "away_team": "Eastwood CFC Badgers U9",
-      "venue": "LINGWOOD LANE PLAYING FIELD NG14 6DX",
-      "division": "U9 Sat Spring Premier Division",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Woodborough Celtic Green U9",
-      "home_away": "home",
-      "opponent": "Eastwood CFC Badgers U9"
-    },
-    {
-      "id": "e6d5a6a770577de9880f2e03628f8bc7",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Woodborough Celtic Rockets U8",
-      "away_team": "Grantham Town Black U8",
-      "venue": "LINGWOOD LANE PLAYING FIELD NG14 6DX",
-      "division": "U8 Sat Spring 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Woodborough Celtic Rockets U8",
-      "home_away": "home",
-      "opponent": "Grantham Town Black U8"
     },
     {
       "id": "99718ef65f427c1e42df2fa6c43f0248",
@@ -264,6 +225,57 @@
     }
   ],
   "results": [
+    {
+      "id": "8b2000941ddc980040b63620cb5fd680",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Woodborough Celtic Green U9",
+      "away_team": "Eastwood CFC Badgers U9",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Woodborough Celtic Green U9",
+      "home_away": "home",
+      "opponent": "Eastwood CFC Badgers U9",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
+      "id": "e6d5a6a770577de9880f2e03628f8bc7",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Woodborough Celtic Rockets U8",
+      "away_team": "Grantham Town Black U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Woodborough Celtic Rockets U8",
+      "home_away": "home",
+      "opponent": "Grantham Town Black U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "3d1dfc1a9aaf61eb00052e17c1b17c5a",
+      "date": "2026-04-18",
+      "time": "09:00",
+      "home_team": "DLFC Vipers U8",
+      "away_team": "Woodborough Celtic Wolves U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Woodborough Celtic Wolves U8",
+      "home_away": "away",
+      "opponent": "DLFC Vipers U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "ba57da82496bb9dda0a50cbe828fe384",
       "date": "2026-04-11",

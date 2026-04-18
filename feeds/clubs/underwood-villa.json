@@ -1,20 +1,7 @@
 {
   "club": "Underwood Villa",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "9527ce6e0efb10622eaf587f860d7478",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Underwood Villa Tigres U9",
-      "away_team": "Hucknall Sports Red U9",
-      "venue": "Bracken Park NG16 5FG",
-      "division": "U9 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Underwood Villa Tigres U9",
-      "home_away": "home",
-      "opponent": "Hucknall Sports Red U9"
-    },
     {
       "id": "cbcc931086fa69529efe15e24687faaa",
       "date": "2026-04-18",
@@ -186,6 +173,23 @@
     }
   ],
   "results": [
+    {
+      "id": "9527ce6e0efb10622eaf587f860d7478",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Underwood Villa Tigres U9",
+      "away_team": "Hucknall Sports Red U9",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Underwood Villa Tigres U9",
+      "home_away": "home",
+      "opponent": "Hucknall Sports Red U9",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "fcd812f5989a8d1c5bc74065f7b7cfa8",
       "date": "2026-04-12",

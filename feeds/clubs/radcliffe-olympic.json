@@ -1,6 +1,6 @@
 {
   "club": "Radcliffe Olympic",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
     {
       "id": "e5d78556f73c8beb876ad4111db2e5c0",
@@ -29,32 +29,6 @@
       "opponent": "Keyworth United F.C. U12 Shooting Stars"
     },
     {
-      "id": "fcad1f44d0f2f5242c73c01a7f24acff",
-      "date": "2026-04-18",
-      "time": "09:45",
-      "home_team": "Radcliffe Olympic Rangers U10",
-      "away_team": "Burton Joyce Green U10",
-      "venue": "Radcliffe-on-Trent Cricket Club NG12 2DU",
-      "division": "U10 Sat Spring Div 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Radcliffe Olympic Rangers U10",
-      "home_away": "home",
-      "opponent": "Burton Joyce Green U10"
-    },
-    {
-      "id": "c7d6f24c9cc04104971619afc644aaa1",
-      "date": "2026-04-18",
-      "time": "09:45",
-      "home_team": "Sherwood Colliery Gold U9",
-      "away_team": "Radcliffe Olympic Red U9",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U9 Sat Spring Div 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Radcliffe Olympic Red U9",
-      "home_away": "away",
-      "opponent": "Sherwood Colliery Gold U9"
-    },
-    {
       "id": "86ed03db56c4ec5edb3023c6912a4b48",
       "date": "2026-04-18",
       "time": "10:00",
@@ -68,19 +42,6 @@
       "opponent": "Hucknall Sports Red U11"
     },
     {
-      "id": "7e3755ed76544082db1c74a913e54047",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Bingham Town White U9",
-      "away_team": "Radcliffe Olympic Blue U9",
-      "venue": "Butt Field NG13 8GG",
-      "division": "U9 Sat Spring Div 8 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Radcliffe Olympic Blue U9",
-      "home_away": "away",
-      "opponent": "Bingham Town White U9"
-    },
-    {
       "id": "debcedd618e4615047ad8835f1df7d72",
       "date": "2026-04-18",
       "time": "10:00",
@@ -92,32 +53,6 @@
       "team": "Radcliffe Olympic Leopards U8",
       "home_away": "home",
       "opponent": "Carlton Town Golden U8"
-    },
-    {
-      "id": "8e3caccf567ad82d539ab1d652471b44",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Ravenshead Red Devils U8",
-      "away_team": "Radcliffe Olympic Lions U8",
-      "venue": "Ravenshead Leisure Centre NG15 9AG",
-      "division": "U8 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Radcliffe Olympic Lions U8",
-      "home_away": "away",
-      "opponent": "Ravenshead Red Devils U8"
-    },
-    {
-      "id": "62991ba6eeb5f031a7b53308cfa2da76",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Silva FC Carlton Yellow U8",
-      "away_team": "Radcliffe Olympic Pumas U8",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U8 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Radcliffe Olympic Pumas U8",
-      "home_away": "away",
-      "opponent": "Silva FC Carlton Yellow U8"
     },
     {
       "id": "1828c31a8042aeb1910eec8dc707fb5c",
@@ -144,19 +79,6 @@
       "team": "Radcliffe Olympic Rockets U14",
       "home_away": "home",
       "opponent": "Grantham Town U14"
-    },
-    {
-      "id": "1ca49bb1a95a75f923a042c7097a6b79",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Bingham Town Blue U8",
-      "away_team": "Radcliffe Olympic Tigers U8",
-      "venue": "Butt Field NG13 8GG",
-      "division": "U8 Sat Spring 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Radcliffe Olympic Tigers U8",
-      "home_away": "away",
-      "opponent": "Bingham Town Blue U8"
     },
     {
       "id": "f72e81ebcbefdaa01e6c50af5c97fe47",
@@ -901,6 +823,108 @@
     }
   ],
   "results": [
+    {
+      "id": "7e3755ed76544082db1c74a913e54047",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Bingham Town White U9",
+      "away_team": "Radcliffe Olympic Blue U9",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat Spring Div 8 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Radcliffe Olympic Blue U9",
+      "home_away": "away",
+      "opponent": "Bingham Town White U9",
+      "goals_for": 1,
+      "goals_against": 4
+    },
+    {
+      "id": "8e3caccf567ad82d539ab1d652471b44",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Ravenshead Red Devils U8",
+      "away_team": "Radcliffe Olympic Lions U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Radcliffe Olympic Lions U8",
+      "home_away": "away",
+      "opponent": "Ravenshead Red Devils U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "62991ba6eeb5f031a7b53308cfa2da76",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Silva FC Carlton Yellow U8",
+      "away_team": "Radcliffe Olympic Pumas U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Radcliffe Olympic Pumas U8",
+      "home_away": "away",
+      "opponent": "Silva FC Carlton Yellow U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "1ca49bb1a95a75f923a042c7097a6b79",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Bingham Town Blue U8",
+      "away_team": "Radcliffe Olympic Tigers U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Radcliffe Olympic Tigers U8",
+      "home_away": "away",
+      "opponent": "Bingham Town Blue U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "fcad1f44d0f2f5242c73c01a7f24acff",
+      "date": "2026-04-18",
+      "time": "09:45",
+      "home_team": "Radcliffe Olympic Rangers U10",
+      "away_team": "Burton Joyce Green U10",
+      "home_score": 1,
+      "away_score": 12,
+      "venue": "",
+      "division": "U10 Sat Spring Div 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Radcliffe Olympic Rangers U10",
+      "home_away": "home",
+      "opponent": "Burton Joyce Green U10",
+      "goals_for": 1,
+      "goals_against": 12
+    },
+    {
+      "id": "c7d6f24c9cc04104971619afc644aaa1",
+      "date": "2026-04-18",
+      "time": "09:45",
+      "home_team": "Sherwood Colliery Gold U9",
+      "away_team": "Radcliffe Olympic Red U9",
+      "home_score": 7,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat Spring Div 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Radcliffe Olympic Red U9",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery Gold U9",
+      "goals_for": 3,
+      "goals_against": 7
+    },
     {
       "id": "d3e1bc65603334f9d767e6e56b8ec408",
       "date": "2026-04-14",

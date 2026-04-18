@@ -1,19 +1,8 @@
 {
   "team": "Codnor Sports Real U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "e4bdd250b1f4a32029c54fc1027ae228",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "Heanor Town Titans U10",
-      "away_team": "Codnor Sports Real U10",
-      "venue": "Castle Donnington College DE74 2PJ",
-      "division": "U10 Sat Spring Div 4 Green",
-      "home_away": "away",
-      "opponent": "Heanor Town Titans U10"
-    },
     {
       "id": "4a92cf8598ef2fdda2b6adf38051b623",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e4bdd250b1f4a32029c54fc1027ae228",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Heanor Town Titans U10",
+      "away_team": "Codnor Sports Real U10",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 4 Green",
+      "home_away": "away",
+      "opponent": "Heanor Town Titans U10",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "2b10b066949d2d08bb0ab92949d30426",
       "date": "2026-03-28",

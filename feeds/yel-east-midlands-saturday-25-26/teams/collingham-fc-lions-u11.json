@@ -1,19 +1,8 @@
 {
   "team": "Collingham FC Lions U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "d6d15630f172bd666689c9465c76cedd",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Newark Brazil Santos U11",
-      "away_team": "Collingham FC Lions U11",
-      "venue": "Magnus School Sports Centre NG24 4BZ",
-      "division": "U11 Sat Spring Div 5 Red",
-      "home_away": "away",
-      "opponent": "Newark Brazil Santos U11"
-    },
     {
       "id": "93d994530af9b9c4ac2ba1146a121bf4",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d6d15630f172bd666689c9465c76cedd",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Newark Brazil Santos U11",
+      "away_team": "Collingham FC Lions U11",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 5 Red",
+      "home_away": "away",
+      "opponent": "Newark Brazil Santos U11",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "658ae9a7cb255ea55dfdcb304c639a37",
       "date": "2026-03-21",

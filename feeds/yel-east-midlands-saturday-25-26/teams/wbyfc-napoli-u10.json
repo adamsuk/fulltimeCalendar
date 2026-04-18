@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Napoli U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "c13c60f0a3f14d12e9514e22da39cba3",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "Heanor Town Vikings U10",
-      "away_team": "WBYFC Napoli U10",
-      "venue": "Lockton Avenue Playing Fields DE75 7EY",
-      "division": "U10 Sat Spring Div 6 Green",
-      "home_away": "away",
-      "opponent": "Heanor Town Vikings U10"
-    },
     {
       "id": "9c6e27fa292502edb736fcad72288647",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c13c60f0a3f14d12e9514e22da39cba3",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Heanor Town Vikings U10",
+      "away_team": "WBYFC Napoli U10",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U10 Sat Spring Div 6 Green",
+      "home_away": "away",
+      "opponent": "Heanor Town Vikings U10",
+      "goals_for": 5,
+      "goals_against": 2
+    },
     {
       "id": "fe8f2dd93228c467299f8c992b1fc88d",
       "date": "2026-03-28",

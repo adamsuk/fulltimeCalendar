@@ -1,19 +1,8 @@
 {
   "team": "Woodborough Celtic Green U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "8b2000941ddc980040b63620cb5fd680",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Woodborough Celtic Green U9",
-      "away_team": "Eastwood CFC Badgers U9",
-      "venue": "LINGWOOD LANE PLAYING FIELD NG14 6DX",
-      "division": "U9 Sat Spring Premier Division",
-      "home_away": "home",
-      "opponent": "Eastwood CFC Badgers U9"
-    },
     {
       "id": "077cd0ba5b8f828fa0990d980a3e3400",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8b2000941ddc980040b63620cb5fd680",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Woodborough Celtic Green U9",
+      "away_team": "Eastwood CFC Badgers U9",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat Spring Premier Division",
+      "home_away": "home",
+      "opponent": "Eastwood CFC Badgers U9",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "146ca0ffe43305dc7e561017fd7b2884",
       "date": "2026-03-28",

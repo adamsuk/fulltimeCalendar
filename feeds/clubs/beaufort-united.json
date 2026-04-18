@@ -1,6 +1,6 @@
 {
   "club": "Beaufort United",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
     {
       "id": "4675a1e8a2a2fa41268b0645c51b8239",
@@ -14,19 +14,6 @@
       "team": "Beaufort United F.C. Development",
       "home_away": "home",
       "opponent": "AFC Warriors Development"
-    },
-    {
-      "id": "2a94faf881daa32c27680337865a1107",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Beaufort United White U10",
-      "away_team": "Teversal FC Blue U10",
-      "venue": "Unwin Road  NG17 4HT",
-      "division": "U10 Sat Spring Div 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Beaufort United White U10",
-      "home_away": "home",
-      "opponent": "Teversal FC Blue U10"
     },
     {
       "id": "79d6475167647c45466880f59e64b50d",
@@ -355,6 +342,23 @@
     }
   ],
   "results": [
+    {
+      "id": "2a94faf881daa32c27680337865a1107",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Beaufort United White U10",
+      "away_team": "Teversal FC Blue U10",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "U10 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Beaufort United White U10",
+      "home_away": "home",
+      "opponent": "Teversal FC Blue U10",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "503c1d8fb0d6a4ec70f7809192362159",
       "date": "2026-04-15",

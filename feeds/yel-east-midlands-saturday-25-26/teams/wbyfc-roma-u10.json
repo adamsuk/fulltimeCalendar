@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Roma U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "405ba7a1312e6a5e8cd999283f147356",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "WBYFC Roma U10",
-      "away_team": "Wollaton H & B United U10",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U10 Sat Spring Div 8 Blue",
-      "home_away": "home",
-      "opponent": "Wollaton H & B United U10"
-    },
     {
       "id": "2cd612661b2c8998d23d9bcde47479c3",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "405ba7a1312e6a5e8cd999283f147356",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "WBYFC Roma U10",
+      "away_team": "Wollaton H & B United U10",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U10 Sat Spring Div 8 Blue",
+      "home_away": "home",
+      "opponent": "Wollaton H & B United U10",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "b4346060fb9838992f8a87a06f7ed60b",
       "date": "2026-03-28",

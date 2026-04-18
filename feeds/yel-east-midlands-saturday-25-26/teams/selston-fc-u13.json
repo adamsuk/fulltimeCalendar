@@ -1,19 +1,8 @@
 {
   "team": "Selston FC U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "591c9652a60ff31a5e390555764f5a88",
-      "date": "2026-04-18",
-      "time": "10:30",
-      "home_team": "Selston FC U13",
-      "away_team": "Wollaton H & B Knights U13",
-      "venue": "The Summit Centre  NG17 7LL",
-      "division": "U13 Sat Spring Div 6 Blue",
-      "home_away": "home",
-      "opponent": "Wollaton H & B Knights U13"
-    },
     {
       "id": "cc395edfd2712d15e6e108f6d6097c60",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "591c9652a60ff31a5e390555764f5a88",
+      "date": "2026-04-18",
+      "time": "10:30",
+      "home_team": "Selston FC U13",
+      "away_team": "Wollaton H & B Knights U13",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sat Spring Div 6 Blue",
+      "home_away": "home",
+      "opponent": "Wollaton H & B Knights U13",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "b121a2b104a502d9586c767097797ef9",
       "date": "2026-03-21",

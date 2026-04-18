@@ -1,6 +1,6 @@
 {
   "club": "Southwell City",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
     {
       "id": "e5d78556f73c8beb876ad4111db2e5c0",
@@ -55,19 +55,6 @@
       "opponent": "Mountsorrel Juniors U11"
     },
     {
-      "id": "9b79c135ae61668c1c3133a7d4a9670c",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "Southwell City Troopers U13",
-      "away_team": "G3A FC Zenit U13",
-      "venue": "Centenary Ground Brinkley NG25 0TU",
-      "division": "U13 Sat Spring Div 7 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Southwell City Troopers U13",
-      "home_away": "home",
-      "opponent": "G3A FC Zenit U13"
-    },
-    {
       "id": "8bc8749d6cf30738ddf8008c04f78259",
       "date": "2026-04-18",
       "time": "10:00",
@@ -94,19 +81,6 @@
       "opponent": "Bingham Town White U12"
     },
     {
-      "id": "5abc51a4628c8b8769c51a753a02a6f8",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Southwell City Hawks U8",
-      "away_team": "Newark Brazil Santos U8",
-      "venue": "Southwell City FC  NG25 0JP",
-      "division": "U8 Sat Spring 5 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Southwell City Hawks U8",
-      "home_away": "home",
-      "opponent": "Newark Brazil Santos U8"
-    },
-    {
       "id": "50f1820b18d564f59e1e4c28575a6cb8",
       "date": "2026-04-18",
       "time": "10:00",
@@ -131,19 +105,6 @@
       "team": "Southwell City Pumas U8",
       "home_away": "away",
       "opponent": "AFC Warriors Raiders U8"
-    },
-    {
-      "id": "4168adb503be81579c7cf21ec9e87046",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Southwell City Reds U10",
-      "away_team": "Bingham Town Blue U10",
-      "venue": "Southwell City FC  NG25 0JP",
-      "division": "U10 Sat Spring Div 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Southwell City Reds U10",
-      "home_away": "home",
-      "opponent": "Bingham Town Blue U10"
     },
     {
       "id": "c8adb79c9b6e96f4f18904e88b289775",
@@ -1005,6 +966,57 @@
     }
   ],
   "results": [
+    {
+      "id": "5abc51a4628c8b8769c51a753a02a6f8",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Southwell City Hawks U8",
+      "away_team": "Newark Brazil Santos U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 5 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Southwell City Hawks U8",
+      "home_away": "home",
+      "opponent": "Newark Brazil Santos U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "4168adb503be81579c7cf21ec9e87046",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Southwell City Reds U10",
+      "away_team": "Bingham Town Blue U10",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Southwell City Reds U10",
+      "home_away": "home",
+      "opponent": "Bingham Town Blue U10",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
+      "id": "9b79c135ae61668c1c3133a7d4a9670c",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Southwell City Troopers U13",
+      "away_team": "G3A FC Zenit U13",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Southwell City Troopers U13",
+      "home_away": "home",
+      "opponent": "G3A FC Zenit U13",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "e5c5943307bb2cb5305cfe09f42fc422",
       "date": "2026-04-14",

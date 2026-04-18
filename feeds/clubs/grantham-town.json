@@ -1,20 +1,7 @@
 {
   "club": "Grantham Town",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "e6d5a6a770577de9880f2e03628f8bc7",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Woodborough Celtic Rockets U8",
-      "away_team": "Grantham Town Black U8",
-      "venue": "LINGWOOD LANE PLAYING FIELD NG14 6DX",
-      "division": "U8 Sat Spring 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Grantham Town Black U8",
-      "home_away": "away",
-      "opponent": "Woodborough Celtic Rockets U8"
-    },
     {
       "id": "50f1820b18d564f59e1e4c28575a6cb8",
       "date": "2026-04-18",
@@ -40,19 +27,6 @@
       "team": "Grantham Town Grey U8",
       "home_away": "home",
       "opponent": "Ollerton Town Red U8"
-    },
-    {
-      "id": "deb0a05d6a6bbd148b63acb5068d635f",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Aspire FC U9",
-      "away_team": "Grantham Town Grey U9",
-      "venue": "Nottingham Trent University NG11 8NS",
-      "division": "U9 Sat Spring Premier Division",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Grantham Town Grey U9",
-      "home_away": "away",
-      "opponent": "Aspire FC U9"
     },
     {
       "id": "3218a93015311864b500e77e7906ab02",
@@ -368,6 +342,40 @@
     }
   ],
   "results": [
+    {
+      "id": "e6d5a6a770577de9880f2e03628f8bc7",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Woodborough Celtic Rockets U8",
+      "away_team": "Grantham Town Black U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Grantham Town Black U8",
+      "home_away": "away",
+      "opponent": "Woodborough Celtic Rockets U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "deb0a05d6a6bbd148b63acb5068d635f",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Aspire FC U9",
+      "away_team": "Grantham Town Grey U9",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Grantham Town Grey U9",
+      "home_away": "away",
+      "opponent": "Aspire FC U9",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "fe4e9d74977acb2ac86fb18b1ab1acd0",
       "date": "2026-04-11",

@@ -1,19 +1,8 @@
 {
   "team": "Southwell City Reds U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "4168adb503be81579c7cf21ec9e87046",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Southwell City Reds U10",
-      "away_team": "Bingham Town Blue U10",
-      "venue": "Southwell City FC  NG25 0JP",
-      "division": "U10 Sat Spring Div 3 Blue",
-      "home_away": "home",
-      "opponent": "Bingham Town Blue U10"
-    },
     {
       "id": "d6d0817bd1b4cc23931a4ed7ecc32b71",
       "date": "2026-04-22",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "4168adb503be81579c7cf21ec9e87046",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Southwell City Reds U10",
+      "away_team": "Bingham Town Blue U10",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 3 Blue",
+      "home_away": "home",
+      "opponent": "Bingham Town Blue U10",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "053873e83497efb4e0f449a728870fa7",
       "date": "2026-03-28",

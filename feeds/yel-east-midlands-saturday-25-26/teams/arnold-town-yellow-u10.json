@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town Yellow U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "c346181c3c695222b8ec6c86a5eae791",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Arnold Town Yellow U10",
-      "away_team": "Newark Brazil Rio U10",
-      "venue": "Eagle Valley NG5 8PS",
-      "division": "U10 Sat Spring Div 9 Red",
-      "home_away": "home",
-      "opponent": "Newark Brazil Rio U10"
-    },
     {
       "id": "674e594874b847fc46e9b1f34efcfa57",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c346181c3c695222b8ec6c86a5eae791",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Arnold Town Yellow U10",
+      "away_team": "Newark Brazil Rio U10",
+      "home_score": 7,
+      "away_score": 0,
+      "venue": "",
+      "division": "U10 Sat Spring Div 9 Red",
+      "home_away": "home",
+      "opponent": "Newark Brazil Rio U10",
+      "goals_for": 7,
+      "goals_against": 0
+    },
     {
       "id": "c6e048f4da5d40373b65d0d65b4ccdf9",
       "date": "2026-03-28",

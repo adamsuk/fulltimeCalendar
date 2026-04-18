@@ -1,19 +1,8 @@
 {
   "team": "Long Eaton United Milan U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "7b17ae5f87a56c71be708701d6c02195",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Club FDNA Brasilia U10",
-      "away_team": "Long Eaton United Milan U10",
-      "venue": "Bilborough College NG8 4DQ",
-      "division": "U10 Sat Spring Premier Division",
-      "home_away": "away",
-      "opponent": "Club FDNA Brasilia U10"
-    },
     {
       "id": "7adb25f44aa61fd4d54d8e64ee6b578e",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7b17ae5f87a56c71be708701d6c02195",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Club FDNA Brasilia U10",
+      "away_team": "Long Eaton United Milan U10",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Premier Division",
+      "home_away": "away",
+      "opponent": "Club FDNA Brasilia U10",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "3bd0dde731aa4cfad41b43beffd50f2c",
       "date": "2026-03-28",

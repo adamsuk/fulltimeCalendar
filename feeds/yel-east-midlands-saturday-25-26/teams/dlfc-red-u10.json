@@ -1,19 +1,8 @@
 {
   "team": "DLFC Red U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "e8cae30cd5833399dbb10d25d0e44843",
-      "date": "2026-04-18",
-      "time": "09:45",
-      "home_team": "Edwalton Cavaliers Blue U10",
-      "away_team": "DLFC Red U10",
-      "venue": "Nottingham Football Centre NG2 7BW",
-      "division": "U10 Sat Spring Div 2 Silver",
-      "home_away": "away",
-      "opponent": "Edwalton Cavaliers Blue U10"
-    },
     {
       "id": "34926b8cfd4c53529a1cad054df9868c",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e8cae30cd5833399dbb10d25d0e44843",
+      "date": "2026-04-18",
+      "time": "09:45",
+      "home_team": "Edwalton Cavaliers Blue U10",
+      "away_team": "DLFC Red U10",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sat Spring Div 2 Silver",
+      "home_away": "away",
+      "opponent": "Edwalton Cavaliers Blue U10",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "46281d3289b5392d3a0b5f66317c0871",
       "date": "2026-03-28",

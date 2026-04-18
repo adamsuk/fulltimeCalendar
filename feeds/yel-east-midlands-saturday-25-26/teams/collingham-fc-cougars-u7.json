@@ -1,19 +1,8 @@
 {
   "team": "Collingham FC Cougars U7",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "71abc07a640cbe54678fa22ebad9782d",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Collingham FC Cougars U7",
-      "away_team": "Lowdham FC Red U7",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U7 Sat Spring 4 Red",
-      "home_away": "home",
-      "opponent": "Lowdham FC Red U7"
-    },
     {
       "id": "c6fd8f2b0f2d234a8a866a3e32d12156",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "71abc07a640cbe54678fa22ebad9782d",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Collingham FC Cougars U7",
+      "away_team": "Lowdham FC Red U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 4 Red",
+      "home_away": "home",
+      "opponent": "Lowdham FC Red U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "c833fae1cf2449e12d68c169a3ed073a",
       "date": "2026-04-11",

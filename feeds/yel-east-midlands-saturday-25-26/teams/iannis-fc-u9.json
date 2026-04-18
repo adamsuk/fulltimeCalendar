@@ -1,19 +1,8 @@
 {
   "team": "Iannis FC U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "7175bd0004126ae3e980087961e7d7c5",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Heanor Town Vipers U9",
-      "away_team": "Iannis FC U9",
-      "venue": "Lockton Avenue Playing Fields DE75 7EY",
-      "division": "U9 Sat Spring Div 5 Green",
-      "home_away": "away",
-      "opponent": "Heanor Town Vipers U9"
-    },
     {
       "id": "2c96af692062ceaa0b2e91cfc0ef738f",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7175bd0004126ae3e980087961e7d7c5",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Heanor Town Vipers U9",
+      "away_team": "Iannis FC U9",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 5 Green",
+      "home_away": "away",
+      "opponent": "Heanor Town Vipers U9",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "fbaf72b1c396662adbe56fb853bd2653",
       "date": "2026-03-21",

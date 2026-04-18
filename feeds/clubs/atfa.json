@@ -1,33 +1,7 @@
 {
   "club": "ATFA",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "f2602156040fe3cdc12e1bf128db4922",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "Winthorpe & Cod T Amber U11",
-      "away_team": "ATFA Brinsley Bullets U11",
-      "venue": "Stapleford Lane NG24 2QZ",
-      "division": "U11 Sat Spring Div 8",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "ATFA Brinsley Bullets U11",
-      "home_away": "away",
-      "opponent": "Winthorpe & Cod T Amber U11"
-    },
-    {
-      "id": "0cedfc3aa6e7dfdb1e376da988dd5af0",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Wollaton H & B Rockets U12",
-      "away_team": "ATFA Brinsley Devils U12",
-      "venue": "The Trinity Catholic School NG8 3EZ",
-      "division": "U12 Sat Spring Div 6 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "ATFA Brinsley Devils U12",
-      "home_away": "away",
-      "opponent": "Wollaton H & B Rockets U12"
-    },
     {
       "id": "b848ce0b1cf41ee5879b7c91575f3e61",
       "date": "2026-04-18",
@@ -238,6 +212,40 @@
     }
   ],
   "results": [
+    {
+      "id": "0cedfc3aa6e7dfdb1e376da988dd5af0",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Wollaton H & B Rockets U12",
+      "away_team": "ATFA Brinsley Devils U12",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "ATFA Brinsley Devils U12",
+      "home_away": "away",
+      "opponent": "Wollaton H & B Rockets U12",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "f2602156040fe3cdc12e1bf128db4922",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Winthorpe & Cod T Amber U11",
+      "away_team": "ATFA Brinsley Bullets U11",
+      "home_score": 11,
+      "away_score": 0,
+      "venue": "",
+      "division": "U11 Sat Spring Div 8",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "ATFA Brinsley Bullets U11",
+      "home_away": "away",
+      "opponent": "Winthorpe & Cod T Amber U11",
+      "goals_for": 0,
+      "goals_against": 11
+    },
     {
       "id": "b4ed8caf05d49475bbe661d13503784c",
       "date": "2026-04-12",

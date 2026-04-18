@@ -1,19 +1,8 @@
 {
   "team": "Eastwood CFC Red U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "c5131777bf0fdaa87d3adee0743590a1",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Silva FC Carlton Grey U9",
-      "away_team": "Eastwood CFC Red U9",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U9 Sat Spring Div 3 Blue",
-      "home_away": "away",
-      "opponent": "Silva FC Carlton Grey U9"
-    },
     {
       "id": "0ebe1f335fd8a1b34fffa6bc1609efab",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c5131777bf0fdaa87d3adee0743590a1",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Silva FC Carlton Grey U9",
+      "away_team": "Eastwood CFC Red U9",
+      "home_score": 4,
+      "away_score": 6,
+      "venue": "",
+      "division": "U9 Sat Spring Div 3 Blue",
+      "home_away": "away",
+      "opponent": "Silva FC Carlton Grey U9",
+      "goals_for": 6,
+      "goals_against": 4
+    },
     {
       "id": "c197201d9d67b8759e3090e7359252d8",
       "date": "2026-03-28",

@@ -1,19 +1,8 @@
 {
   "team": "Hucknall Sports Red U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "ea577086f5399bf699baafb32a26f5d4",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Hucknall Sports Red U14",
-      "away_team": "RHP Colts White U14",
-      "venue": "Engine Rooms NG15 6EP",
-      "division": "U14 Sat YEL Shield",
-      "home_away": "home",
-      "opponent": "RHP Colts White U14"
-    },
     {
       "id": "ea577086f5399bf699baafb32a26f5d4",
       "date": "2026-04-18",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ea577086f5399bf699baafb32a26f5d4",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Hucknall Sports Red U14",
+      "away_team": "RHP Colts White U14",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sat YEL Shield",
+      "home_away": "home",
+      "opponent": "RHP Colts White U14",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "12bf819358ae108e8cea19b5ce2478b5",
       "date": "2026-04-14",

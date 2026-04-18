@@ -1,19 +1,8 @@
 {
   "team": "PMG Excel U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "8791150ada0ee33981bd860b975568fe",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Sandiacre Town Reds U10",
-      "away_team": "PMG Excel U10",
-      "venue": "Cloudside Junior School NG10 5DE",
-      "division": "U10 Sat Spring Div 2 Silver",
-      "home_away": "away",
-      "opponent": "Sandiacre Town Reds U10"
-    },
     {
       "id": "0e8b8d1c7b7b1e001a51ad4ace26674a",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8791150ada0ee33981bd860b975568fe",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Sandiacre Town Reds U10",
+      "away_team": "PMG Excel U10",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 2 Silver",
+      "home_away": "away",
+      "opponent": "Sandiacre Town Reds U10",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "e6b19af54e85f49861511e3f01e75dbc",
       "date": "2026-04-11",

@@ -1,6 +1,6 @@
 {
   "club": "Sandiacre Town",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
     {
       "id": "88a0bc82534092e2eb8677bafb3eb373",
@@ -14,32 +14,6 @@
       "team": "Sandiacre Town Youth U12 Panthers Girls",
       "home_away": "away",
       "opponent": "Keyworth United F.C. U12 Warriors"
-    },
-    {
-      "id": "dc8771e75b4a1aa599a18c48e1ab4cb7",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Ilkeston Town Robins U7",
-      "away_team": "Sandiacre Town Blue U7",
-      "venue": "New Manor Ground DE7 8JF",
-      "division": "U7 Sat Spring 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sandiacre Town Blue U7",
-      "home_away": "away",
-      "opponent": "Ilkeston Town Robins U7"
-    },
-    {
-      "id": "3f1191ce8a42769f6e152b4b223230c2",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Wollaton H & B Jaguars U9",
-      "away_team": "Sandiacre Town Blue U9",
-      "venue": "The Trinity Catholic School NG8 3EZ",
-      "division": "U9 Sat Spring Div 6 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sandiacre Town Blue U9",
-      "home_away": "away",
-      "opponent": "Wollaton H & B Jaguars U9"
     },
     {
       "id": "af38f370e3f159449d0b845021685ac6",
@@ -66,45 +40,6 @@
       "team": "Sandiacre Town Red U7",
       "home_away": "home",
       "opponent": "Silva FC Carlton Purple U7"
-    },
-    {
-      "id": "922feeea0b40ad0659940186f239a42c",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "West Hallam Harriers U9",
-      "away_team": "Sandiacre Town Red U9",
-      "venue": "The Recreation Ground DE7 6FF",
-      "division": "U9 Sat Spring Div 7 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sandiacre Town Red U9",
-      "home_away": "away",
-      "opponent": "West Hallam Harriers U9"
-    },
-    {
-      "id": "8791150ada0ee33981bd860b975568fe",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Sandiacre Town Reds U10",
-      "away_team": "PMG Excel U10",
-      "venue": "Cloudside Junior School NG10 5DE",
-      "division": "U10 Sat Spring Div 2 Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sandiacre Town Reds U10",
-      "home_away": "home",
-      "opponent": "PMG Excel U10"
-    },
-    {
-      "id": "3784c7a8ac1f6096fb10fb3e7ae3473f",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Sandiacre Town Saints U8",
-      "away_team": "Toton Tornados Lightening U8",
-      "venue": "St Giles Park NG10 5EL",
-      "division": "U8 Sat Spring 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sandiacre Town Saints U8",
-      "home_away": "home",
-      "opponent": "Toton Tornados Lightening U8"
     },
     {
       "id": "5dfaef36e84bb224747adbd906133596",
@@ -406,6 +341,19 @@
       "opponent": "Wollaton H & B Yellow U10"
     },
     {
+      "id": "29b4a2b6d22d8c6f4b6711d2096a7eaf",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Sandiacre Town Rockets U14",
+      "away_team": "RHP Colts White U14",
+      "venue": "Friesland School NG10 5AF",
+      "division": "U14 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sandiacre Town Rockets U14",
+      "home_away": "home",
+      "opponent": "RHP Colts White U14"
+    },
+    {
       "id": "5c4c40226a9eb9115c368633a00bdad7",
       "date": "2026-04-25",
       "time": "11:00",
@@ -680,6 +628,91 @@
     }
   ],
   "results": [
+    {
+      "id": "dc8771e75b4a1aa599a18c48e1ab4cb7",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Robins U7",
+      "away_team": "Sandiacre Town Blue U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sandiacre Town Blue U7",
+      "home_away": "away",
+      "opponent": "Ilkeston Town Robins U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "3f1191ce8a42769f6e152b4b223230c2",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Wollaton H & B Jaguars U9",
+      "away_team": "Sandiacre Town Blue U9",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat Spring Div 6 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sandiacre Town Blue U9",
+      "home_away": "away",
+      "opponent": "Wollaton H & B Jaguars U9",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
+      "id": "922feeea0b40ad0659940186f239a42c",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "West Hallam Harriers U9",
+      "away_team": "Sandiacre Town Red U9",
+      "home_score": 3,
+      "away_score": 5,
+      "venue": "",
+      "division": "U9 Sat Spring Div 7 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sandiacre Town Red U9",
+      "home_away": "away",
+      "opponent": "West Hallam Harriers U9",
+      "goals_for": 5,
+      "goals_against": 3
+    },
+    {
+      "id": "8791150ada0ee33981bd860b975568fe",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Sandiacre Town Reds U10",
+      "away_team": "PMG Excel U10",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 2 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sandiacre Town Reds U10",
+      "home_away": "home",
+      "opponent": "PMG Excel U10",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
+      "id": "3784c7a8ac1f6096fb10fb3e7ae3473f",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Sandiacre Town Saints U8",
+      "away_team": "Toton Tornados Lightening U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sandiacre Town Saints U8",
+      "home_away": "home",
+      "opponent": "Toton Tornados Lightening U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "4bd44162a095ee6cacfd09359b920d0b",
       "date": "2026-04-16",

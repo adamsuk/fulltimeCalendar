@@ -1,19 +1,8 @@
 {
   "team": "Mickleover C P Athletic U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "59726771f64a4f4c4abaa7a9d5727335",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "DLFC Grey U14",
-      "away_team": "Mickleover C P Athletic U14",
-      "venue": "Mellish Sports Centre  NG6 9FH",
-      "division": "U14 Sat Spring Div 2 Blue",
-      "home_away": "away",
-      "opponent": "DLFC Grey U14"
-    },
     {
       "id": "6e99a91717019b8eae11ced45750c6d2",
       "date": "2026-04-25",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "59726771f64a4f4c4abaa7a9d5727335",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "DLFC Grey U14",
+      "away_team": "Mickleover C P Athletic U14",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sat Spring Div 2 Blue",
+      "home_away": "away",
+      "opponent": "DLFC Grey U14",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "c1c0daf8a77c7e96f85a4b2a0168f347",
       "date": "2026-03-14",

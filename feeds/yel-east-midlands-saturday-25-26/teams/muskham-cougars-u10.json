@@ -1,19 +1,8 @@
 {
   "team": "Muskham Cougars U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "7a3b4b4a3f14d1c6fee21e85f29e7971",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Muskham Cougars U10",
-      "away_team": "Burton Joyce Blue U10",
-      "venue": "Muskham Playing Fields NG23 6HL",
-      "division": "U10 Sat Spring Div 6 Blue",
-      "home_away": "home",
-      "opponent": "Burton Joyce Blue U10"
-    },
     {
       "id": "e1769eabeb76c214f58f7b3c44b091c1",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7a3b4b4a3f14d1c6fee21e85f29e7971",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Muskham Cougars U10",
+      "away_team": "Burton Joyce Blue U10",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sat Spring Div 6 Blue",
+      "home_away": "home",
+      "opponent": "Burton Joyce Blue U10",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "a2bb29d11b8f3b04a1621815375d4e58",
       "date": "2026-03-21",

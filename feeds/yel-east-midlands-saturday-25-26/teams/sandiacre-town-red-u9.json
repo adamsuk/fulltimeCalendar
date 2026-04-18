@@ -1,19 +1,8 @@
 {
   "team": "Sandiacre Town Red U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "922feeea0b40ad0659940186f239a42c",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "West Hallam Harriers U9",
-      "away_team": "Sandiacre Town Red U9",
-      "venue": "The Recreation Ground DE7 6FF",
-      "division": "U9 Sat Spring Div 7 Green",
-      "home_away": "away",
-      "opponent": "West Hallam Harriers U9"
-    },
     {
       "id": "2dc3099e37c5b89add57a3d6eae63005",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "922feeea0b40ad0659940186f239a42c",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "West Hallam Harriers U9",
+      "away_team": "Sandiacre Town Red U9",
+      "home_score": 3,
+      "away_score": 5,
+      "venue": "",
+      "division": "U9 Sat Spring Div 7 Green",
+      "home_away": "away",
+      "opponent": "West Hallam Harriers U9",
+      "goals_for": 5,
+      "goals_against": 3
+    },
     {
       "id": "c186b84b008d0b16b6f9dcd8a29701dc",
       "date": "2026-04-11",

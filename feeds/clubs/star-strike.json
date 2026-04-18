@@ -1,6 +1,6 @@
 {
   "club": "Star Strike",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
     {
       "id": "b64d6638916e36f0426d05af74efa1bd",
@@ -53,19 +53,6 @@
       "team": "Star Strike Tigers U12",
       "home_away": "away",
       "opponent": "Eastwood Ath Red Devils U12"
-    },
-    {
-      "id": "e80871483e928f1f9685ad3ee8175ca5",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Star Strike Tigers U8",
-      "away_team": "Heanor Town Hot Dogs U8",
-      "venue": "Robin Hood Road NG5 8NP",
-      "division": "U8 Sat Spring 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Star Strike Tigers U8",
-      "home_away": "home",
-      "opponent": "Heanor Town Hot Dogs U8"
     },
     {
       "id": "f8210a5a0420d95172344f7b0e5b0d90",
@@ -199,6 +186,23 @@
     }
   ],
   "results": [
+    {
+      "id": "e80871483e928f1f9685ad3ee8175ca5",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Star Strike Tigers U8",
+      "away_team": "Heanor Town Hot Dogs U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Star Strike Tigers U8",
+      "home_away": "home",
+      "opponent": "Heanor Town Hot Dogs U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "51fbf8a1b99e6f8b9a6863ce3960c18e",
       "date": "2026-04-12",

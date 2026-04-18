@@ -1,19 +1,8 @@
 {
   "team": "Lowdham FC Red U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "c058bc098825abffea6669ffe55de5d3",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Lowdham FC Red U9",
-      "away_team": "Spirit Celtic Tigers U9",
-      "venue": "Gunthorpe Village Hall NG14 7EL",
-      "division": "U9 Sat Spring Div 6 Blue",
-      "home_away": "home",
-      "opponent": "Spirit Celtic Tigers U9"
-    },
     {
       "id": "e80b1309ff0d47afe6fb20d7a07521fb",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c058bc098825abffea6669ffe55de5d3",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Lowdham FC Red U9",
+      "away_team": "Spirit Celtic Tigers U9",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 6 Blue",
+      "home_away": "home",
+      "opponent": "Spirit Celtic Tigers U9",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "27bd1b15433a2c534f0210a3e508bea2",
       "date": "2026-03-28",

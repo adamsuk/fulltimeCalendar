@@ -1,20 +1,7 @@
 {
   "club": "Attenborough Colts",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "81b906c536385b1fde357d30e3c2bf30",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Sports Gateway Blue U12",
-      "away_team": "Attenborough Colts Blue U12",
-      "venue": "Papplewick Green NG15 8HZ",
-      "division": "U12 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Attenborough Colts Blue U12",
-      "home_away": "away",
-      "opponent": "Sports Gateway Blue U12"
-    },
     {
       "id": "877497fbe52ae2fdf1a55f8b93259dff",
       "date": "2026-04-18",
@@ -511,6 +498,23 @@
     }
   ],
   "results": [
+    {
+      "id": "81b906c536385b1fde357d30e3c2bf30",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Sports Gateway Blue U12",
+      "away_team": "Attenborough Colts Blue U12",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Attenborough Colts Blue U12",
+      "home_away": "away",
+      "opponent": "Sports Gateway Blue U12",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "df21b1f1d7433ad3ee14fe841ca65435",
       "date": "2026-04-16",

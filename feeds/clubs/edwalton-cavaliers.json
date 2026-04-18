@@ -1,33 +1,7 @@
 {
   "club": "Edwalton Cavaliers",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "5d13ef80d8f3455c4f69c285ffb2c922",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "WBYFC Olympia U9",
-      "away_team": "Edwalton Cavaliers White U9",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U9 Sat Spring Div 7 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Edwalton Cavaliers White U9",
-      "home_away": "away",
-      "opponent": "WBYFC Olympia U9"
-    },
-    {
-      "id": "e8cae30cd5833399dbb10d25d0e44843",
-      "date": "2026-04-18",
-      "time": "09:45",
-      "home_team": "Edwalton Cavaliers Blue U10",
-      "away_team": "DLFC Red U10",
-      "venue": "Nottingham Football Centre NG2 7BW",
-      "division": "U10 Sat Spring Div 2 Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Edwalton Cavaliers Blue U10",
-      "home_away": "home",
-      "opponent": "DLFC Red U10"
-    },
     {
       "id": "1485d73236b1827a3670e06c3e30f295",
       "date": "2026-04-18",
@@ -66,19 +40,6 @@
       "team": "Edwalton Cavaliers White U11",
       "home_away": "home",
       "opponent": "Mountsorrel Juniors U11"
-    },
-    {
-      "id": "b6f2d0e0f12cca468fa4ddabdc5e14d7",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Edwalton Cavaliers White U7",
-      "away_team": "Hemington Hammers Hammerheads U7",
-      "venue": "Nottingham Football Centre NG2 7BW",
-      "division": "U7 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Edwalton Cavaliers White U7",
-      "home_away": "home",
-      "opponent": "Hemington Hammers Hammerheads U7"
     },
     {
       "id": "ba6921f44b7e9ba5a0d622fe3f9dd7d2",
@@ -316,6 +277,57 @@
     }
   ],
   "results": [
+    {
+      "id": "b6f2d0e0f12cca468fa4ddabdc5e14d7",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Edwalton Cavaliers White U7",
+      "away_team": "Hemington Hammers Hammerheads U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Edwalton Cavaliers White U7",
+      "home_away": "home",
+      "opponent": "Hemington Hammers Hammerheads U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "e8cae30cd5833399dbb10d25d0e44843",
+      "date": "2026-04-18",
+      "time": "09:45",
+      "home_team": "Edwalton Cavaliers Blue U10",
+      "away_team": "DLFC Red U10",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sat Spring Div 2 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Edwalton Cavaliers Blue U10",
+      "home_away": "home",
+      "opponent": "DLFC Red U10",
+      "goals_for": 3,
+      "goals_against": 3
+    },
+    {
+      "id": "5d13ef80d8f3455c4f69c285ffb2c922",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "WBYFC Olympia U9",
+      "away_team": "Edwalton Cavaliers White U9",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sat Spring Div 7 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Edwalton Cavaliers White U9",
+      "home_away": "away",
+      "opponent": "WBYFC Olympia U9",
+      "goals_for": 0,
+      "goals_against": 5
+    },
     {
       "id": "5eabed92536cd8c749cd6a21ba249358",
       "date": "2026-04-13",

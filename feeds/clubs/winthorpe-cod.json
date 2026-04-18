@@ -1,33 +1,7 @@
 {
   "club": "Winthorpe & Cod",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "f2602156040fe3cdc12e1bf128db4922",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "Winthorpe & Cod T Amber U11",
-      "away_team": "ATFA Brinsley Bullets U11",
-      "venue": "Stapleford Lane NG24 2QZ",
-      "division": "U11 Sat Spring Div 8",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Winthorpe & Cod T Amber U11",
-      "home_away": "home",
-      "opponent": "ATFA Brinsley Bullets U11"
-    },
-    {
-      "id": "853181caf60beedc2536eb88efedb268",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "Winthorpe & Cod T Amber U9",
-      "away_team": "Shirebrook Rangers Blue U9",
-      "venue": "Stapleford Lane NG24 2QZ",
-      "division": "U9 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Winthorpe & Cod T Amber U9",
-      "home_away": "home",
-      "opponent": "Shirebrook Rangers Blue U9"
-    },
     {
       "id": "e9f06b2cfa7c7ef4e09c8ec7c4d5971e",
       "date": "2026-04-18",
@@ -40,19 +14,6 @@
       "team": "Winthorpe & Cod T Black U9",
       "home_away": "away",
       "opponent": "Gonerby Yellow U9"
-    },
-    {
-      "id": "c2a1837da6869cbff01bcfb2c8bc1d7f",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Cotgrave FC Black U10",
-      "away_team": "Winthorpe & Cod T U10",
-      "venue": "Ridley Sports Ground  NG12 3HA",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Winthorpe & Cod T U10",
-      "home_away": "away",
-      "opponent": "Cotgrave FC Black U10"
     },
     {
       "id": "c622189f384fb4a980cabc5123982269",
@@ -186,6 +147,57 @@
     }
   ],
   "results": [
+    {
+      "id": "c2a1837da6869cbff01bcfb2c8bc1d7f",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Cotgrave FC Black U10",
+      "away_team": "Winthorpe & Cod T U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Winthorpe & Cod T U10",
+      "home_away": "away",
+      "opponent": "Cotgrave FC Black U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "f2602156040fe3cdc12e1bf128db4922",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Winthorpe & Cod T Amber U11",
+      "away_team": "ATFA Brinsley Bullets U11",
+      "home_score": 11,
+      "away_score": 0,
+      "venue": "",
+      "division": "U11 Sat Spring Div 8",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Winthorpe & Cod T Amber U11",
+      "home_away": "home",
+      "opponent": "ATFA Brinsley Bullets U11",
+      "goals_for": 11,
+      "goals_against": 0
+    },
+    {
+      "id": "853181caf60beedc2536eb88efedb268",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Winthorpe & Cod T Amber U9",
+      "away_team": "Shirebrook Rangers Blue U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Winthorpe & Cod T Amber U9",
+      "home_away": "home",
+      "opponent": "Shirebrook Rangers Blue U9",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "e5c5943307bb2cb5305cfe09f42fc422",
       "date": "2026-04-14",

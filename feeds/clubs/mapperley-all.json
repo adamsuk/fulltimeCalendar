@@ -1,6 +1,6 @@
 {
   "club": "Mapperley All",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
     {
       "id": "7c54050f22f1961359b04ba0fc51db96",
@@ -16,19 +16,6 @@
       "opponent": "Edwalton Cavaliers Red U11"
     },
     {
-      "id": "8d170d7a4819f65de015b4f80af33b94",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Mapperley All Stars Stripes U9",
-      "away_team": "Bingham Town Red U9",
-      "venue": "Colwick Recreation Ground NG4 2DW",
-      "division": "U9 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Mapperley All Stars Stripes U9",
-      "home_away": "home",
-      "opponent": "Bingham Town Red U9"
-    },
-    {
       "id": "284e921c646c3a02e0dab44617f8fcc3",
       "date": "2026-04-18",
       "time": "10:00",
@@ -40,19 +27,6 @@
       "team": "Mapperley All Stars Yellow U12",
       "home_away": "away",
       "opponent": "Alfreton Town Jnrs Goats U12"
-    },
-    {
-      "id": "d9c7050cd24fd2c4cc3867266dc81147",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Muskham Cougars U9",
-      "away_team": "Mapperley All Stars Yellow U9",
-      "venue": "Muskham Playing Fields NG23 6HL",
-      "division": "U9 Sat Spring Div 6 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Mapperley All Stars Yellow U9",
-      "home_away": "away",
-      "opponent": "Muskham Cougars U9"
     },
     {
       "id": "3b009800e9d9a0d6c63925bed9f876dc",
@@ -342,6 +316,40 @@
     }
   ],
   "results": [
+    {
+      "id": "8d170d7a4819f65de015b4f80af33b94",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Mapperley All Stars Stripes U9",
+      "away_team": "Bingham Town Red U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mapperley All Stars Stripes U9",
+      "home_away": "home",
+      "opponent": "Bingham Town Red U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "d9c7050cd24fd2c4cc3867266dc81147",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Muskham Cougars U9",
+      "away_team": "Mapperley All Stars Yellow U9",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mapperley All Stars Yellow U9",
+      "home_away": "away",
+      "opponent": "Muskham Cougars U9",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "28cc7f7b8e974def8b9cc3fb98a9b45a",
       "date": "2026-04-14",

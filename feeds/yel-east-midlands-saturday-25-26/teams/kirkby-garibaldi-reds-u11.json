@@ -1,19 +1,8 @@
 {
   "team": "Kirkby Garibaldi Reds U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "8f5a18886811408b3f0b4b26915fd652",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Kirkby Garibaldi Reds U11",
-      "away_team": "FC Cavaliers U11",
-      "venue": "Calladine Park NG17 1NJ",
-      "division": "U11 Sat YEL Trophy",
-      "home_away": "home",
-      "opponent": "FC Cavaliers U11"
-    },
     {
       "id": "79f1aa32319087b55225838787e2822b",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8f5a18886811408b3f0b4b26915fd652",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Kirkby Garibaldi Reds U11",
+      "away_team": "FC Cavaliers U11",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat YEL Trophy",
+      "home_away": "home",
+      "opponent": "FC Cavaliers U11",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "6354ae69bf685d7fb54af8e048bb24db",
       "date": "2026-03-28",

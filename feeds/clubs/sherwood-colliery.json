@@ -1,6 +1,6 @@
 {
   "club": "Sherwood Colliery",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
     {
       "id": "ea8e3fe0f97307f5ab0e8fd13eb5b878",
@@ -27,19 +27,6 @@
       "team": "Sherwood Colliery Black U9",
       "home_away": "home",
       "opponent": "Manor FC U9"
-    },
-    {
-      "id": "c7d6f24c9cc04104971619afc644aaa1",
-      "date": "2026-04-18",
-      "time": "09:45",
-      "home_team": "Sherwood Colliery Gold U9",
-      "away_team": "Radcliffe Olympic Red U9",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U9 Sat Spring Div 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sherwood Colliery Gold U9",
-      "home_away": "home",
-      "opponent": "Radcliffe Olympic Red U9"
     },
     {
       "id": "af2d04ca7acdb51df2f37738e8094ffe",
@@ -79,19 +66,6 @@
       "team": "Sherwood Colliery U7",
       "home_away": "away",
       "opponent": "Manor FC Red U7"
-    },
-    {
-      "id": "20cc00e76666abe0caeff58007f5c395",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Sherwood Colliery Warriors U10",
-      "away_team": "Woodhouse Colts Red U10",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sherwood Colliery Warriors U10",
-      "home_away": "home",
-      "opponent": "Woodhouse Colts Red U10"
     },
     {
       "id": "6e5ed7a23c04182e0483997bf00ae6b0",
@@ -758,6 +732,40 @@
     }
   ],
   "results": [
+    {
+      "id": "20cc00e76666abe0caeff58007f5c395",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Sherwood Colliery Warriors U10",
+      "away_team": "Woodhouse Colts Red U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Warriors U10",
+      "home_away": "home",
+      "opponent": "Woodhouse Colts Red U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "c7d6f24c9cc04104971619afc644aaa1",
+      "date": "2026-04-18",
+      "time": "09:45",
+      "home_team": "Sherwood Colliery Gold U9",
+      "away_team": "Radcliffe Olympic Red U9",
+      "home_score": 7,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat Spring Div 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Gold U9",
+      "home_away": "home",
+      "opponent": "Radcliffe Olympic Red U9",
+      "goals_for": 7,
+      "goals_against": 3
+    },
     {
       "id": "c0aeb3942ef6536925246f24ce9a8f3a",
       "date": "2026-04-12",

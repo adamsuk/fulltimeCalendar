@@ -1,33 +1,7 @@
 {
   "club": "Eastwood CFC",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "8b2000941ddc980040b63620cb5fd680",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Woodborough Celtic Green U9",
-      "away_team": "Eastwood CFC Badgers U9",
-      "venue": "LINGWOOD LANE PLAYING FIELD NG14 6DX",
-      "division": "U9 Sat Spring Premier Division",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Eastwood CFC Badgers U9",
-      "home_away": "away",
-      "opponent": "Woodborough Celtic Green U9"
-    },
-    {
-      "id": "50a4db071dfd6a021ae501aab4c0e0d0",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Eastwood CFC Black U12",
-      "away_team": "Clifton All Whites Blue U12",
-      "venue": "Coronation Park  NG16 3HB",
-      "division": "U12 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Eastwood CFC Black U12",
-      "home_away": "home",
-      "opponent": "Clifton All Whites Blue U12"
-    },
     {
       "id": "9b836c3151a9524f8eb0d5870bdc9aad",
       "date": "2026-04-18",
@@ -40,19 +14,6 @@
       "team": "Eastwood CFC Phoenix U10",
       "home_away": "away",
       "opponent": "Wollaton H & B Hyenas U10"
-    },
-    {
-      "id": "c5131777bf0fdaa87d3adee0743590a1",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Silva FC Carlton Grey U9",
-      "away_team": "Eastwood CFC Red U9",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U9 Sat Spring Div 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Eastwood CFC Red U9",
-      "home_away": "away",
-      "opponent": "Silva FC Carlton Grey U9"
     },
     {
       "id": "64d33a8e40288ea0787a50786f27eeb2",
@@ -472,6 +433,57 @@
     }
   ],
   "results": [
+    {
+      "id": "8b2000941ddc980040b63620cb5fd680",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Woodborough Celtic Green U9",
+      "away_team": "Eastwood CFC Badgers U9",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Eastwood CFC Badgers U9",
+      "home_away": "away",
+      "opponent": "Woodborough Celtic Green U9",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
+      "id": "50a4db071dfd6a021ae501aab4c0e0d0",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Eastwood CFC Black U12",
+      "away_team": "Clifton All Whites Blue U12",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Eastwood CFC Black U12",
+      "home_away": "home",
+      "opponent": "Clifton All Whites Blue U12",
+      "goals_for": 5,
+      "goals_against": 2
+    },
+    {
+      "id": "c5131777bf0fdaa87d3adee0743590a1",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Silva FC Carlton Grey U9",
+      "away_team": "Eastwood CFC Red U9",
+      "home_score": 4,
+      "away_score": 6,
+      "venue": "",
+      "division": "U9 Sat Spring Div 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Eastwood CFC Red U9",
+      "home_away": "away",
+      "opponent": "Silva FC Carlton Grey U9",
+      "goals_for": 6,
+      "goals_against": 4
+    },
     {
       "id": "cbb964bca27666e6c634d3621ab7e07c",
       "date": "2026-04-12",

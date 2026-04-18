@@ -1,20 +1,7 @@
 {
   "club": "Moorgreen Colts",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "c192039cabb64649f8e23787cb2d0a9c",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "Loughborough Eml Foxes U13",
-      "away_team": "Moorgreen Colts White U13",
-      "venue": "Charnwood College, Loughborough LE11 4SQ",
-      "division": "U13 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Moorgreen Colts White U13",
-      "home_away": "away",
-      "opponent": "Loughborough Eml Foxes U13"
-    },
     {
       "id": "0cb5868cc31cc0db8473461880c529a6",
       "date": "2026-04-18",
@@ -40,19 +27,6 @@
       "team": "Moorgreen Colts U8",
       "home_away": "away",
       "opponent": "Hucknall Town Warr Red U8"
-    },
-    {
-      "id": "4ba3e3119a54cd630f890f6f5a1eefb3",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Moorgreen Colts U9",
-      "away_team": "Silva FC Carlton Lions U9",
-      "venue": "Birnam Park  NG16 2DE",
-      "division": "U9 Sat Spring Div 5 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Moorgreen Colts U9",
-      "home_away": "home",
-      "opponent": "Silva FC Carlton Lions U9"
     },
     {
       "id": "bdb3a3e7a30b42c3b5fd85dedc4effdb",
@@ -433,6 +407,40 @@
     }
   ],
   "results": [
+    {
+      "id": "4ba3e3119a54cd630f890f6f5a1eefb3",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Moorgreen Colts U9",
+      "away_team": "Silva FC Carlton Lions U9",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat Spring Div 5 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Moorgreen Colts U9",
+      "home_away": "home",
+      "opponent": "Silva FC Carlton Lions U9",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
+      "id": "c192039cabb64649f8e23787cb2d0a9c",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "Loughborough Eml Foxes U13",
+      "away_team": "Moorgreen Colts White U13",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Moorgreen Colts White U13",
+      "home_away": "away",
+      "opponent": "Loughborough Eml Foxes U13",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "db243854ce168cbe1bbf039d0669e54c",
       "date": "2026-04-14",

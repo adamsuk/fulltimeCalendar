@@ -1,19 +1,8 @@
 {
   "team": "Silva FC Carlton U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T06:58:01Z",
+  "generated": "2026-04-18T10:11:08Z",
   "fixtures": [
-    {
-      "id": "ccd3785bbb542323264e8ff232119454",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Newark Brazil Corinthians U10",
-      "away_team": "Silva FC Carlton U10",
-      "venue": "Claypole Playing Field NG23 5BQ",
-      "division": "U10 Sat Spring Div 5 Blue",
-      "home_away": "away",
-      "opponent": "Newark Brazil Corinthians U10"
-    },
     {
       "id": "5540c54e92423eda4d2ebc4dd9090bae",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ccd3785bbb542323264e8ff232119454",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Newark Brazil Corinthians U10",
+      "away_team": "Silva FC Carlton U10",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sat Spring Div 5 Blue",
+      "home_away": "away",
+      "opponent": "Newark Brazil Corinthians U10",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "5a4e1296f84f3062c07f56c550bea2dc",
       "date": "2026-03-28",
