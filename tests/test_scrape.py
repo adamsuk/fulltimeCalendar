@@ -207,6 +207,7 @@ class TestClubGrouping:
         counts = build_prefix_counts(names)
         club = infer_club_name("Unique FC Eagles U10", counts)
         # "Eagles" is stripped as a squad designator, leaving "Unique FC"
+        # "FC" is not stripped because it's a 2-word name (protection rule)
         assert club == "Unique FC"
 
     def test_color_suffix_grouping(self):
@@ -271,6 +272,17 @@ class TestClubGrouping:
             "Town U14 Tigers",
         ])
         assert set(result.values()) == {"Town"}, result
+
+    def test_east_leake_grouping(self):
+        """East Leake variants should all group under 'East Leake'."""
+        result = _pipeline([
+            "East Leake",
+            "East Leake Bantams",
+            "East Leake FC",
+            "East Leake FC Bantams",
+            "East Leake Robins",
+        ])
+        assert set(result.values()) == {"East Leake"}, result
 
 
 # ---------------------------------------------------------------------------
