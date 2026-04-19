@@ -296,6 +296,15 @@ class TestClubGrouping:
         ])
         assert set(result.values()) == {"Bottesford"}, result
 
+    def test_keyworth_grouping(self):
+        """Keyworth variants should all group under 'Keyworth'."""
+        result = _pipeline([
+            "Keyworth",
+            "Keyworth United",
+            "Keyworth United FC",
+        ])
+        assert set(result.values()) == {"Keyworth"}, result
+
 
 # ---------------------------------------------------------------------------
 # parse_results — venue / division field ordering
