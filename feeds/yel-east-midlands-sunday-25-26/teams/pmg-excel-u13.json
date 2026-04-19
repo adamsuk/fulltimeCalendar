@@ -1,19 +1,8 @@
 {
   "team": "PMG Excel U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T13:56:15Z",
+  "generated": "2026-04-19T15:05:15Z",
   "fixtures": [
-    {
-      "id": "370d6a416cae8129966e2f5edf9b538a",
-      "date": "2026-04-19",
-      "time": "10:30",
-      "home_team": "WBYFC Boca U13",
-      "away_team": "PMG Excel U13",
-      "venue": "Gresham Sports Pitch NG2 7YF",
-      "division": "U13 Sunday",
-      "home_away": "away",
-      "opponent": "WBYFC Boca U13"
-    },
     {
       "id": "b643f0ceea12295fb36fd2e7cecad129",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "370d6a416cae8129966e2f5edf9b538a",
+      "date": "2026-04-19",
+      "time": "10:30",
+      "home_team": "WBYFC Boca U13",
+      "away_team": "PMG Excel U13",
+      "home_score": 10,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sunday",
+      "home_away": "away",
+      "opponent": "WBYFC Boca U13",
+      "goals_for": 1,
+      "goals_against": 10
+    },
     {
       "id": "1051920d497c5c675e18124a092c9275",
       "date": "2026-04-16",

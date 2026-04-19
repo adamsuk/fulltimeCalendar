@@ -1,20 +1,7 @@
 {
   "club": "Castle Donington",
-  "generated": "2026-04-19T13:56:15Z",
+  "generated": "2026-04-19T15:05:15Z",
   "fixtures": [
-    {
-      "id": "0b397c936f7ab6e2ed9282a6cdc2165a",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "AJ Sport Black U7",
-      "away_team": "Castle Donington Rockets U7",
-      "venue": "Beeston Fields Recreation Ground NG9 2QE",
-      "division": "U7 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Castle Donington Rockets U7",
-      "home_away": "away",
-      "opponent": "AJ Sport Black U7"
-    },
     {
       "id": "6c5860f0849a9d4aba054ff46573c03b",
       "date": "2026-04-19",
@@ -248,16 +235,16 @@
       "time": "11:00",
       "home_team": "Castle Donington Tigers U12",
       "away_team": "Woodhouse Colts Red U12",
-      "home_score": 2,
-      "away_score": 0,
+      "home_score": 1,
+      "away_score": 3,
       "venue": "",
       "division": "U12 Sun Spring Div 5",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Castle Donington Tigers U12",
       "home_away": "home",
       "opponent": "Woodhouse Colts Red U12",
-      "goals_for": 2,
-      "goals_against": 0
+      "goals_for": 1,
+      "goals_against": 3
     },
     {
       "id": "16aad02fe9a7660f7a1f664a231b275b",
@@ -343,6 +330,23 @@
       "opponent": "Gedling Southbank Titans U11",
       "goals_for": 1,
       "goals_against": 2
+    },
+    {
+      "id": "0b397c936f7ab6e2ed9282a6cdc2165a",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "AJ Sport Black U7",
+      "away_team": "Castle Donington Rockets U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Castle Donington Rockets U7",
+      "home_away": "away",
+      "opponent": "AJ Sport Black U7",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "6e7a9faa967d8dab469c0ca81f3c91f4",

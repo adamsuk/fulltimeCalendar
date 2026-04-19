@@ -1,7 +1,7 @@
 {
   "team": "Lowdham Colts FC Development",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T13:56:15Z",
+  "generated": "2026-04-19T15:05:15Z",
   "fixtures": [
     {
       "id": "30ca6cb54aa4519f419c8085c7a771ce",
@@ -13,17 +13,6 @@
       "division": "Seniors Div 3",
       "home_away": "away",
       "opponent": "Pelican Colts FC Ladies"
-    },
-    {
-      "id": "b003c8b9487c741dd03c6103fdc51a77",
-      "date": "2026-04-19",
-      "time": "14:00",
-      "home_team": "Cotgrave FC Ladies",
-      "away_team": "Lowdham Colts FC Development",
-      "venue": "COTGRAVE WELFARE CLUB",
-      "division": "Senior Div 3 Phase 2",
-      "home_away": "away",
-      "opponent": "Cotgrave FC Ladies"
     },
     {
       "id": "795c529123f64a2774fb517da6aaf44e",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b003c8b9487c741dd03c6103fdc51a77",
+      "date": "2026-04-19",
+      "time": "14:00",
+      "home_team": "Cotgrave FC Ladies",
+      "away_team": "Lowdham Colts FC Development",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "Senior Div 3 Phase 2",
+      "home_away": "away",
+      "opponent": "Cotgrave FC Ladies",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "0fcc366245f6c26c305ba892b9ea18b1",
       "date": "2026-04-12",

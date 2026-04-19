@@ -1,19 +1,8 @@
 {
   "team": "Gedling Southbank FC Ladies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T13:56:15Z",
+  "generated": "2026-04-19T15:05:15Z",
   "fixtures": [
-    {
-      "id": "513a81a1292c2056ed4e8d30f80555ee",
-      "date": "2026-04-19",
-      "time": "13:30",
-      "home_team": "Underwood Villa FC Youth Ladies",
-      "away_team": "Gedling Southbank FC Ladies",
-      "venue": "BRACKEN PARK (UNDERWOOD VILLA FC)",
-      "division": "Seniors Div 2",
-      "home_away": "away",
-      "opponent": "Underwood Villa FC Youth Ladies"
-    },
     {
       "id": "4985e721e9bb07dca33ebb6300c6b1c4",
       "date": "2026-04-26",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "513a81a1292c2056ed4e8d30f80555ee",
+      "date": "2026-04-19",
+      "time": "13:30",
+      "home_team": "Underwood Villa FC Youth Ladies",
+      "away_team": "Gedling Southbank FC Ladies",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "home_away": "away",
+      "opponent": "Underwood Villa FC Youth Ladies",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "af4f23b2697d58e2ab370113426f2330",
       "date": "2026-04-15",

@@ -1,19 +1,8 @@
 {
   "team": "Southwell City FC Ladies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T13:56:15Z",
+  "generated": "2026-04-19T15:05:15Z",
   "fixtures": [
-    {
-      "id": "321b66af4af03b9012f8f1444e54b00d",
-      "date": "2026-04-19",
-      "time": "14:00",
-      "home_team": "Southwell City FC Ladies",
-      "away_team": "Eastwood & Kimberley FC",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "Seniors Div 2",
-      "home_away": "home",
-      "opponent": "Eastwood & Kimberley FC"
-    },
     {
       "id": "96352f58c724775563142052d6c60940",
       "date": "2026-04-26",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "321b66af4af03b9012f8f1444e54b00d",
+      "date": "2026-04-19",
+      "time": "14:00",
+      "home_team": "Southwell City FC Ladies",
+      "away_team": "Eastwood & Kimberley FC",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "home_away": "home",
+      "opponent": "Eastwood & Kimberley FC",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "fcd812f5989a8d1c5bc74065f7b7cfa8",
       "date": "2026-04-12",
