@@ -1,19 +1,8 @@
 {
   "team": "West Bridgford Colts U14 Pacific",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "cc72bf14111bad8526254d61a2a6a7cd",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Stanton Ilkeston U14 Sapphires",
-      "away_team": "West Bridgford Colts U14 Pacific",
-      "venue": "RON BROOKS PLAYING FIELD",
-      "division": "U14 Div 2",
-      "home_away": "away",
-      "opponent": "Stanton Ilkeston U14 Sapphires"
-    },
     {
       "id": "0d554517cc3ec60b762fa78ffd396023",
       "date": "2026-05-03",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "cc72bf14111bad8526254d61a2a6a7cd",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Stanton Ilkeston U14 Sapphires",
+      "away_team": "West Bridgford Colts U14 Pacific",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Div 2",
+      "home_away": "away",
+      "opponent": "Stanton Ilkeston U14 Sapphires",
+      "goals_for": 3,
+      "goals_against": 4
+    },
     {
       "id": "533b60b4e6368d0aabe27b6f4b18bf30",
       "date": "2026-04-12",

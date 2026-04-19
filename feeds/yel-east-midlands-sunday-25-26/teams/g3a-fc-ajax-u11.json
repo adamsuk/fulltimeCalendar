@@ -1,19 +1,8 @@
 {
   "team": "G3A FC Ajax U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "3db7fa1935fbd794fd5f88b0813adc8e",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Matlock Town Juniors U11",
-      "away_team": "G3A FC Ajax U11",
-      "venue": "Cavendish Field Sports Assoc DE4 3HE",
-      "division": "U11 Sun Spring Div 2 Red",
-      "home_away": "away",
-      "opponent": "Matlock Town Juniors U11"
-    },
     {
       "id": "8b08b8487e97aa65aaca587566564d0f",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "3db7fa1935fbd794fd5f88b0813adc8e",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Matlock Town Juniors U11",
+      "away_team": "G3A FC Ajax U11",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sun Spring Div 2 Red",
+      "home_away": "away",
+      "opponent": "Matlock Town Juniors U11",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "b3d42adbf4356b4f534e4564aac53182",
       "date": "2026-03-22",

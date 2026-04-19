@@ -1,19 +1,8 @@
 {
   "team": "Beaufort United Blue U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "e3f7673f22283dd8993248ad510ab9c3",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Riverside FC Rockets U12",
-      "away_team": "Beaufort United Blue U12",
-      "venue": "Unwin Road NG17 4HT",
-      "division": "U12 Sun Spring Div 4",
-      "home_away": "away",
-      "opponent": "Riverside FC Rockets U12"
-    },
     {
       "id": "05368c807dfa8174ce25cb85994a4d6a",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e3f7673f22283dd8993248ad510ab9c3",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Riverside FC Rockets U12",
+      "away_team": "Beaufort United Blue U12",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sun Spring Div 4",
+      "home_away": "away",
+      "opponent": "Riverside FC Rockets U12",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "609a8fdd9161cc1a6044659a6209b382",
       "date": "2026-03-22",

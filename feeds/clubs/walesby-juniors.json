@@ -1,33 +1,7 @@
 {
   "club": "Walesby Juniors",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "dcff9f9321c83418c9f9e366d4765c4c",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Langwith Whitestar U11",
-      "away_team": "Walesby Juniors United U11",
-      "venue": "Hardwick Street NG20 9DR",
-      "division": "U11 Sun Spring Div 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Walesby Juniors United U11",
-      "home_away": "away",
-      "opponent": "Langwith Whitestar U11"
-    },
-    {
-      "id": "d618c97130f3e663891cbba9a35732d5",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Walesby Juniors U14",
-      "away_team": "Breaston Park Green U14",
-      "venue": "Walesby Village Sports Ground NG22 9PF",
-      "division": "U14 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Walesby Juniors U14",
-      "home_away": "home",
-      "opponent": "Breaston Park Green U14"
-    },
     {
       "id": "fb7f2e23bffc080111771c4501208991",
       "date": "2026-04-26",
@@ -56,6 +30,40 @@
     }
   ],
   "results": [
+    {
+      "id": "d618c97130f3e663891cbba9a35732d5",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Walesby Juniors U14",
+      "away_team": "Breaston Park Green U14",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Walesby Juniors U14",
+      "home_away": "home",
+      "opponent": "Breaston Park Green U14",
+      "goals_for": 0,
+      "goals_against": 2
+    },
+    {
+      "id": "dcff9f9321c83418c9f9e366d4765c4c",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Langwith Whitestar U11",
+      "away_team": "Walesby Juniors United U11",
+      "home_score": 2,
+      "away_score": 8,
+      "venue": "",
+      "division": "U11 Sun Spring Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Walesby Juniors United U11",
+      "home_away": "away",
+      "opponent": "Langwith Whitestar U11",
+      "goals_for": 8,
+      "goals_against": 2
+    },
     {
       "id": "b5862166a3f127d9ef31724d1cc944c3",
       "date": "2026-03-22",

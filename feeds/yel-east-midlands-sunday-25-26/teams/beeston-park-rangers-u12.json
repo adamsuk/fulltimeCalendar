@@ -1,19 +1,8 @@
 {
   "team": "Beeston Park Rangers U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "ac50be0920653a86fe9afdcd7e14701a",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Beeston Park Rangers U12",
-      "away_team": "Sandiacre Town Cyclones U12",
-      "venue": "Weirfields NG9 1LX",
-      "division": "U12 Sun Spring Div 6 Gold",
-      "home_away": "home",
-      "opponent": "Sandiacre Town Cyclones U12"
-    },
     {
       "id": "22459c95c0278d7059cff4bc131214dd",
       "date": "2026-04-22",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ac50be0920653a86fe9afdcd7e14701a",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Beeston Park Rangers U12",
+      "away_team": "Sandiacre Town Cyclones U12",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sun Spring Div 6 Gold",
+      "home_away": "home",
+      "opponent": "Sandiacre Town Cyclones U12",
+      "goals_for": 6,
+      "goals_against": 0
+    },
     {
       "id": "3dc7eb48b3c34a22a632bcc79bb8891f",
       "date": "2026-03-22",

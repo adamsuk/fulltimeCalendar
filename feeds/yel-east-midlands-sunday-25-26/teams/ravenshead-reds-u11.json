@@ -1,19 +1,8 @@
 {
   "team": "Ravenshead Reds U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "ff2300b3610d358904db1161de6224f7",
-      "date": "2026-04-19",
-      "time": "10:30",
-      "home_team": "Radcliffe Olympic U11",
-      "away_team": "Ravenshead Reds U11",
-      "venue": "Bingham Road NG12 2GP",
-      "division": "U11 Sun Spring Div 1",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic U11"
-    },
     {
       "id": "0b065754bb4599ce5c4995a1fb1bdd06",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ff2300b3610d358904db1161de6224f7",
+      "date": "2026-04-19",
+      "time": "10:30",
+      "home_team": "Radcliffe Olympic U11",
+      "away_team": "Ravenshead Reds U11",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U11 Sun Spring Div 1",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic U11",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "f2724d2096042255080095b676ae5462",
       "date": "2026-04-16",

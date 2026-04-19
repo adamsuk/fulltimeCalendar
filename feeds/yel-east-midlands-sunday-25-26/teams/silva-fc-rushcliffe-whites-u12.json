@@ -1,19 +1,8 @@
 {
   "team": "Silva FC Rushcliffe Whites U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "0b78fc196d1ff0be6fa8b11b86c0a6cd",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Kirkby Colts Red U12",
-      "away_team": "Silva FC Rushcliffe Whites U12",
-      "venue": "Cowpasture La, Recreation Grnd NG17 5DW",
-      "division": "U12 Sun Spring Div 1 Silver",
-      "home_away": "away",
-      "opponent": "Kirkby Colts Red U12"
-    },
     {
       "id": "532d20f6721771d4d15cdeef256f8095",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0b78fc196d1ff0be6fa8b11b86c0a6cd",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Kirkby Colts Red U12",
+      "away_team": "Silva FC Rushcliffe Whites U12",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sun Spring Div 1 Silver",
+      "home_away": "away",
+      "opponent": "Kirkby Colts Red U12",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "c1de98894870d078dfd90594a9231375",
       "date": "2026-04-15",

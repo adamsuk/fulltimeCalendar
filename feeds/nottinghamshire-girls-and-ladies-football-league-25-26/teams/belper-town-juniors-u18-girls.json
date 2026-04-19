@@ -1,7 +1,7 @@
 {
   "team": "Belper Town Juniors U18 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
     {
       "id": "d21c143fea7e316524c479f974abf349",
@@ -13,17 +13,6 @@
       "division": "U18 Div 1 Phase 2",
       "home_away": "home",
       "opponent": "West Bridgford Colts U18 Rangers Girls"
-    },
-    {
-      "id": "7397c773bcc2052d50b4a2be1ee25fca",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Pilsley Community U17 Ladies",
-      "away_team": "Belper Town Juniors U18 Girls",
-      "venue": "PILSLEY SPORTS FIELDS",
-      "division": "U18 Div 1 Phase 2",
-      "home_away": "away",
-      "opponent": "Pilsley Community U17 Ladies"
     },
     {
       "id": "735ace8528795672bb86ef6c04e7db63",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7397c773bcc2052d50b4a2be1ee25fca",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Pilsley Community U17 Ladies",
+      "away_team": "Belper Town Juniors U18 Girls",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U18 Div 1 Phase 2",
+      "home_away": "away",
+      "opponent": "Pilsley Community U17 Ladies",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "2c4f14b063f38a4ce5094d556dac5522",
       "date": "2026-03-22",

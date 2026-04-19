@@ -1,19 +1,8 @@
 {
   "team": "Phoenix Inham F.C. U13 Starfire",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "f85263f31d0c97a962512c65cbf38b66",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic FC U13 Ravens",
-      "away_team": "Phoenix Inham F.C. U13 Starfire",
-      "venue": "BINGHAM ROAD PLAYING FIELDS",
-      "division": "U13 Div 1 11 v 11",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic FC U13 Ravens"
-    },
     {
       "id": "fa4e33179ba5d6cf825cd19a6d9d774e",
       "date": "2026-04-26",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f85263f31d0c97a962512c65cbf38b66",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic FC U13 Ravens",
+      "away_team": "Phoenix Inham F.C. U13 Starfire",
+      "home_score": 9,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Div 1 11 v 11",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC U13 Ravens",
+      "goals_for": 2,
+      "goals_against": 9
+    },
     {
       "id": "6f1d56161ad2a03ecd05fb66ef22517d",
       "date": "2026-04-12",

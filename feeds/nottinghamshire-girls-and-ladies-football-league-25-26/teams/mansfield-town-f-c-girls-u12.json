@@ -1,19 +1,8 @@
 {
   "team": "Mansfield Town F.C. Girls U12",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "e62a3229ac49158f9a1c452e50b8c669",
-      "date": "2026-04-19",
-      "time": "11:30",
-      "home_team": "Arnold Eagles F.C. Girls U12 FC",
-      "away_team": "Mansfield Town F.C. Girls U12",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "U12 Div 1 P2",
-      "home_away": "away",
-      "opponent": "Arnold Eagles F.C. Girls U12 FC"
-    },
     {
       "id": "9aac7436c7a5bc268266c6c366c5b3e7",
       "date": "2026-04-26",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e62a3229ac49158f9a1c452e50b8c669",
+      "date": "2026-04-19",
+      "time": "11:30",
+      "home_team": "Arnold Eagles F.C. Girls U12 FC",
+      "away_team": "Mansfield Town F.C. Girls U12",
+      "home_score": 0,
+      "away_score": 7,
+      "venue": "",
+      "division": "U12 Div 1 P2",
+      "home_away": "away",
+      "opponent": "Arnold Eagles F.C. Girls U12 FC",
+      "goals_for": 7,
+      "goals_against": 0
+    },
     {
       "id": "ed7108f8ab6e371c9c1f0487f76810e0",
       "date": "2026-04-12",

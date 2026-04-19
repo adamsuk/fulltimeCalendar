@@ -1,7 +1,7 @@
 {
   "team": "Calverton Miners Welfare FC",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
     {
       "id": "49454f7dc76c4e60dc9dd3d1c06440d2",
@@ -13,17 +13,6 @@
       "division": "Seniors Div 1",
       "home_away": "home",
       "opponent": "Keyworth United FC First"
-    },
-    {
-      "id": "8bb3e49a38a3e0349a7c7cac93432844",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Calverton Miners Welfare FC",
-      "away_team": "Lowdham Colts FC Ladies",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "Seniors Div 1",
-      "home_away": "home",
-      "opponent": "Lowdham Colts FC Ladies"
     },
     {
       "id": "0a6d4d20e07d50c8cee17df06bc169a3",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8bb3e49a38a3e0349a7c7cac93432844",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Calverton Miners Welfare FC",
+      "away_team": "Lowdham Colts FC Ladies",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "Seniors Div 1",
+      "home_away": "home",
+      "opponent": "Lowdham Colts FC Ladies",
+      "goals_for": 5,
+      "goals_against": 2
+    },
     {
       "id": "4b6e100f15cae0b2daa058db611f0502",
       "date": "2026-03-22",

@@ -1,19 +1,8 @@
 {
   "team": "Sporting Markfield U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "1c7ce4bb69b985ff92c4130df470021d",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Bestwood Colliery U14",
-      "away_team": "Sporting Markfield U14",
-      "venue": "High Main Drive NG6 8YX",
-      "division": "U14 Sun Spring Premier Division",
-      "home_away": "away",
-      "opponent": "Bestwood Colliery U14"
-    },
     {
       "id": "c8834834fab7284e2ef408412e0e92b6",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "1c7ce4bb69b985ff92c4130df470021d",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Bestwood Colliery U14",
+      "away_team": "Sporting Markfield U14",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sun Spring Premier Division",
+      "home_away": "away",
+      "opponent": "Bestwood Colliery U14",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "17626ee68281aae649d55a0adeda21b6",
       "date": "2026-03-22",

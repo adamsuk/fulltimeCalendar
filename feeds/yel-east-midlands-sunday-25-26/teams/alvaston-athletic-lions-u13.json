@@ -1,19 +1,8 @@
 {
   "team": "Alvaston Athletic Lions U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "ca363f7bda958d2ea314f313b7a1e522",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "G3A FC Boca U13",
-      "away_team": "Alvaston Athletic Lions U13",
-      "venue": "Brunts Academy NG18 2AT",
-      "division": "U13 Sunday",
-      "home_away": "away",
-      "opponent": "G3A FC Boca U13"
-    },
     {
       "id": "0b1f604e51151b845632f33a96cda615",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ca363f7bda958d2ea314f313b7a1e522",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "G3A FC Boca U13",
+      "away_team": "Alvaston Athletic Lions U13",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U13 Sunday",
+      "home_away": "away",
+      "opponent": "G3A FC Boca U13",
+      "goals_for": 5,
+      "goals_against": 0
+    },
     {
       "id": "1437a9a84ac071ecb22381ec56ae0b23",
       "date": "2026-03-22",

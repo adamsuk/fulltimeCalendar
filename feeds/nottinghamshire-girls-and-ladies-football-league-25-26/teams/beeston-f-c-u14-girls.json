@@ -1,19 +1,8 @@
 {
   "team": "Beeston F.C. U14 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "6e3159b0adaeea77de232cd4c50ccdbd",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Mansfield Town F.C. Girls U14",
-      "away_team": "Beeston F.C. U14 Girls",
-      "venue": "RH ACADEMY",
-      "division": "U14 Div 1 League Cup",
-      "home_away": "away",
-      "opponent": "Mansfield Town F.C. Girls U14"
-    },
     {
       "id": "69fccce072c294164f7764c5beaa4fb7",
       "date": "2026-04-26",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6e3159b0adaeea77de232cd4c50ccdbd",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Mansfield Town F.C. Girls U14",
+      "away_team": "Beeston F.C. U14 Girls",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Div 1 League Cup",
+      "home_away": "away",
+      "opponent": "Mansfield Town F.C. Girls U14",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "b48e2ada03cccfa9a0feb7585d8eadae",
       "date": "2026-04-12",

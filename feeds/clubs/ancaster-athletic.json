@@ -1,33 +1,7 @@
 {
   "club": "Ancaster Athletic",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "f94dbce449e9ff4427b99725af4348e3",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Ancaster Athletic U11",
-      "away_team": "Heanor Town Hurricanes U11",
-      "venue": "Kinton Park NG14 6NR",
-      "division": "U11 Sun Spring Div 6 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ancaster Athletic U11",
-      "home_away": "home",
-      "opponent": "Heanor Town Hurricanes U11"
-    },
-    {
-      "id": "d7aa17b05f8a9e39b41c91ef49153249",
-      "date": "2026-04-19",
-      "time": "11:30",
-      "home_team": "Ilkeston Town Roma U12",
-      "away_team": "Ancaster Athletic U12",
-      "venue": "Booths Playing Fields DE7 8JF",
-      "division": "U12 Sun Spring Div 4",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ancaster Athletic U12",
-      "home_away": "away",
-      "opponent": "Ilkeston Town Roma U12"
-    },
     {
       "id": "e30aad9ae83a16ff5e5fcca4282d7185",
       "date": "2026-04-26",
@@ -56,6 +30,40 @@
     }
   ],
   "results": [
+    {
+      "id": "d7aa17b05f8a9e39b41c91ef49153249",
+      "date": "2026-04-19",
+      "time": "11:30",
+      "home_team": "Ilkeston Town Roma U12",
+      "away_team": "Ancaster Athletic U12",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sun Spring Div 4",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ancaster Athletic U12",
+      "home_away": "away",
+      "opponent": "Ilkeston Town Roma U12",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "f94dbce449e9ff4427b99725af4348e3",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Ancaster Athletic U11",
+      "away_team": "Heanor Town Hurricanes U11",
+      "home_score": 0,
+      "away_score": 8,
+      "venue": "",
+      "division": "U11 Sun Spring Div 6 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ancaster Athletic U11",
+      "home_away": "home",
+      "opponent": "Heanor Town Hurricanes U11",
+      "goals_for": 0,
+      "goals_against": 8
+    },
     {
       "id": "03d309aa1a0390fb3ec36231ba17bd5d",
       "date": "2026-03-22",

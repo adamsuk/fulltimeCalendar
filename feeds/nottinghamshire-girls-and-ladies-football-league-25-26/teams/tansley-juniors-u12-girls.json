@@ -1,19 +1,8 @@
 {
   "team": "Tansley Juniors U12 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "919e098027722c595554150173f6ec30",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Tansley Juniors U12 Girls",
-      "away_team": "Sherwood Colliery F.C. Ladies U12 Black",
-      "venue": "THE FETE FIELD",
-      "division": "U12 Div 5 P2",
-      "home_away": "home",
-      "opponent": "Sherwood Colliery F.C. Ladies U12 Black"
-    },
     {
       "id": "8da8d4941cf61a4c475b749650ea83b2",
       "date": "2026-05-03",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "919e098027722c595554150173f6ec30",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Tansley Juniors U12 Girls",
+      "away_team": "Sherwood Colliery F.C. Ladies U12 Black",
+      "home_score": 1,
+      "away_score": 12,
+      "venue": "",
+      "division": "U12 Div 5 P2",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery F.C. Ladies U12 Black",
+      "goals_for": 1,
+      "goals_against": 12
+    },
     {
       "id": "ce56b21e7c2c2ff2e4bb786e3b39e77f",
       "date": "2026-04-12",

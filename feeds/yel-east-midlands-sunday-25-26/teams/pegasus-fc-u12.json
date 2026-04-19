@@ -1,19 +1,8 @@
 {
   "team": "Pegasus FC U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "0e88fcd74e681a52ab779c5341581e1e",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Pegasus FC U12",
-      "away_team": "Barrowby FC Green U12",
-      "venue": "Pasture Road Recreation Ground NG9 8GN",
-      "division": "U12 Sun Spring Div 7",
-      "home_away": "home",
-      "opponent": "Barrowby FC Green U12"
-    },
     {
       "id": "cdb03e86078f9dbed303d7e672cd6722",
       "date": "2026-04-26",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0e88fcd74e681a52ab779c5341581e1e",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Pegasus FC U12",
+      "away_team": "Barrowby FC Green U12",
+      "home_score": 4,
+      "away_score": 5,
+      "venue": "",
+      "division": "U12 Sun Spring Div 7",
+      "home_away": "home",
+      "opponent": "Barrowby FC Green U12",
+      "goals_for": 4,
+      "goals_against": 5
+    },
     {
       "id": "51fc448ade38eabff0412ac5a5dd4590",
       "date": "2026-04-12",

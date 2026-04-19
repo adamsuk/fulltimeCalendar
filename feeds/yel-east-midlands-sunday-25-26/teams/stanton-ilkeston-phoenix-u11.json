@@ -1,19 +1,8 @@
 {
   "team": "Stanton Ilkeston Phoenix U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "f4ee80431f26157f2045157e2be79b95",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Borrowash Youth Panthers U11",
-      "away_team": "Stanton Ilkeston Phoenix U11",
-      "venue": "Derwent Meadow DE72 3NN",
-      "division": "U11 Sun Spring Div 7",
-      "home_away": "away",
-      "opponent": "Borrowash Youth Panthers U11"
-    },
     {
       "id": "a3c94366330a0291a4855363ec1c72f8",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f4ee80431f26157f2045157e2be79b95",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Borrowash Youth Panthers U11",
+      "away_team": "Stanton Ilkeston Phoenix U11",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sun Spring Div 7",
+      "home_away": "away",
+      "opponent": "Borrowash Youth Panthers U11",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "6927714779ae9a83fa0fa2daaa8ff489",
       "date": "2026-03-22",

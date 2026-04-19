@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United Red U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "96cacabf6c401311082830c25f44b281",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Keyworth United Red U13",
-      "away_team": "Ollerton Town U13",
-      "venue": "South Wolds Academy NG12 5FF",
-      "division": "U13 Sun Spring Div 5 Gold",
-      "home_away": "home",
-      "opponent": "Ollerton Town U13"
-    },
     {
       "id": "26db1e08ff4220bb1658bd515d765bee",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "96cacabf6c401311082830c25f44b281",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Keyworth United Red U13",
+      "away_team": "Ollerton Town U13",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U13 Sun Spring Div 5 Gold",
+      "home_away": "home",
+      "opponent": "Ollerton Town U13",
+      "goals_for": 0,
+      "goals_against": 5
+    },
     {
       "id": "c4902efa2d9cc8e1aab27f9e9ee3007c",
       "date": "2026-03-29",

@@ -1,19 +1,8 @@
 {
   "team": "Kirkby Colts Red U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "aa7231f6051e2322b143b06fa3eaa703",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Market Warsop Raiders U9",
-      "away_team": "Kirkby Colts Red U9",
-      "venue": "John Fretwell Centre NG19 8LL",
-      "division": "U9 Sun Spring Div 6 Red",
-      "home_away": "away",
-      "opponent": "Market Warsop Raiders U9"
-    },
     {
       "id": "a4e7104e466f1a984f1e2236678c3ed1",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "aa7231f6051e2322b143b06fa3eaa703",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Market Warsop Raiders U9",
+      "away_team": "Kirkby Colts Red U9",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sun Spring Div 6 Red",
+      "home_away": "away",
+      "opponent": "Market Warsop Raiders U9",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "7568511cb8f697669bf6e36592a4de56",
       "date": "2026-03-22",

@@ -1,20 +1,7 @@
 {
   "club": "Gonerby FC",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "df01356acf6ced50678b588461c04e07",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Gonerby FC Yellow U8",
-      "away_team": "Gedling Southbank Lions U8",
-      "venue": "Gonerby Recreation Ground NG31 8PP",
-      "division": "U8 Sun Spring 4 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Gonerby FC Yellow U8",
-      "home_away": "home",
-      "opponent": "Gedling Southbank Lions U8"
-    },
     {
       "id": "ca876a4f5432be2f41fec9ab8fd7424a",
       "date": "2026-04-25",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "df01356acf6ced50678b588461c04e07",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Gonerby FC Yellow U8",
+      "away_team": "Gedling Southbank Lions U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sun Spring 4 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gonerby FC Yellow U8",
+      "home_away": "home",
+      "opponent": "Gedling Southbank Lions U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "0ec228249250386a6b12ee85c8d700cd",
       "date": "2026-04-18",

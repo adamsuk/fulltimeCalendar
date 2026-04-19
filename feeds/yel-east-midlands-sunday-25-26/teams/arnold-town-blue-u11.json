@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town Blue U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "8ed025ec08dbe9d419617f4dc044e131",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Tibshelf Community Spiders U11",
-      "away_team": "Arnold Town Blue U11",
-      "venue": "High Street, DE55 5PP",
-      "division": "U11 Sun Spring Div 6 Silver",
-      "home_away": "away",
-      "opponent": "Tibshelf Community Spiders U11"
-    },
     {
       "id": "5c3e1d379a3447428bc2f59c42269e10",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8ed025ec08dbe9d419617f4dc044e131",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Tibshelf Community Spiders U11",
+      "away_team": "Arnold Town Blue U11",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sun Spring Div 6 Silver",
+      "home_away": "away",
+      "opponent": "Tibshelf Community Spiders U11",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "0ad6c5f4225f456dc432a8fdd87e02e3",
       "date": "2026-03-22",

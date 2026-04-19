@@ -1,20 +1,7 @@
 {
   "club": "Chesterfield Town",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "b49b38cff04a86342092d157c4a52baf",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Chesterfield Town Blue U12",
-      "away_team": "Quarrydale United U12",
-      "venue": "Recreation ground S41 8SW",
-      "division": "U12 Sun Spring Div 5",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Chesterfield Town Blue U12",
-      "home_away": "home",
-      "opponent": "Quarrydale United U12"
-    },
     {
       "id": "fc4b05eea272d720def6e8a67524774e",
       "date": "2026-04-19",
@@ -82,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "b49b38cff04a86342092d157c4a52baf",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Chesterfield Town Blue U12",
+      "away_team": "Quarrydale United U12",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sun Spring Div 5",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Chesterfield Town Blue U12",
+      "home_away": "home",
+      "opponent": "Quarrydale United U12",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "e7aecc6eaccc23e3b44132e5e7104f54",
       "date": "2026-04-12",

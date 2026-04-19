@@ -1,19 +1,8 @@
 {
   "team": "Sherwood Colliery F.C. Ladies U12 Blue",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "75d689631ce49aa71936d14ce424727b",
-      "date": "2026-04-19",
-      "time": "12:30",
-      "home_team": "Sherwood Colliery F.C. Ladies U12 Blue",
-      "away_team": "Bingham Town F.C. U12 Girls Blue",
-      "venue": "RH ACADEMY",
-      "division": "U12 Cup 3",
-      "home_away": "home",
-      "opponent": "Bingham Town F.C. U12 Girls Blue"
-    },
     {
       "id": "8b658404769e261faf2ad880d56b6e30",
       "date": "2026-04-26",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "75d689631ce49aa71936d14ce424727b",
+      "date": "2026-04-19",
+      "time": "12:30",
+      "home_team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "away_team": "Bingham Town F.C. U12 Girls Blue",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Cup 3",
+      "home_away": "home",
+      "opponent": "Bingham Town F.C. U12 Girls Blue",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "c0aeb3942ef6536925246f24ce9a8f3a",
       "date": "2026-04-12",

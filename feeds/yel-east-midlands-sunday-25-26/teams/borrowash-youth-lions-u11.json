@@ -1,19 +1,8 @@
 {
   "team": "Borrowash Youth Lions U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "df58372713118d80dc05df69dd9142c9",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Castle Donington Tigers U11",
-      "away_team": "Borrowash Youth Lions U11",
-      "venue": "Spital Park DE74 2NQ",
-      "division": "U11 Sun Spring Div 6 Silver",
-      "home_away": "away",
-      "opponent": "Castle Donington Tigers U11"
-    },
     {
       "id": "ffaa77e8968f1066b884a37a0bcde492",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "df58372713118d80dc05df69dd9142c9",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Castle Donington Tigers U11",
+      "away_team": "Borrowash Youth Lions U11",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sun Spring Div 6 Silver",
+      "home_away": "away",
+      "opponent": "Castle Donington Tigers U11",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "53914a0db638acbeace2731a7eac416a",
       "date": "2026-03-22",

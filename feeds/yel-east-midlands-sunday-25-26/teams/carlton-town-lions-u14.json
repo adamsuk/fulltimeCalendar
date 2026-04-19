@@ -1,19 +1,8 @@
 {
   "team": "Carlton Town Lions U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "6e4dbc34ea9390ccd8a95aa3ba8172e8",
-      "date": "2026-04-19",
-      "time": "09:30",
-      "home_team": "Attenborough Colts Orange U14",
-      "away_team": "Carlton Town Lions U14",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U14 Sun Spring Div 5",
-      "home_away": "away",
-      "opponent": "Attenborough Colts Orange U14"
-    },
     {
       "id": "3b21b8aa09fbc279baa752bfdeaadab1",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6e4dbc34ea9390ccd8a95aa3ba8172e8",
+      "date": "2026-04-19",
+      "time": "09:30",
+      "home_team": "Attenborough Colts Orange U14",
+      "away_team": "Carlton Town Lions U14",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U14 Sun Spring Div 5",
+      "home_away": "away",
+      "opponent": "Attenborough Colts Orange U14",
+      "goals_for": 5,
+      "goals_against": 2
+    },
     {
       "id": "e17bbe7b9ec4b669cf4383c605bd01d6",
       "date": "2026-04-12",

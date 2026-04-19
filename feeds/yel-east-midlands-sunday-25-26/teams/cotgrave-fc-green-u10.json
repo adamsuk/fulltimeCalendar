@@ -1,19 +1,8 @@
 {
   "team": "Cotgrave FC Green U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "c7e248deb705b15a77e3715c9124b77f",
-      "date": "2026-04-19",
-      "time": "11:30",
-      "home_team": "Cotgrave FC Green U10",
-      "away_team": "Kirkby Colts U10",
-      "venue": "Ridley Sports Ground NG12 3HA",
-      "division": "U10 Sun Spring Div 4 Red",
-      "home_away": "home",
-      "opponent": "Kirkby Colts U10"
-    },
     {
       "id": "a94ac7e252949de9c273df6b927c86f9",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c7e248deb705b15a77e3715c9124b77f",
+      "date": "2026-04-19",
+      "time": "11:30",
+      "home_team": "Cotgrave FC Green U10",
+      "away_team": "Kirkby Colts U10",
+      "home_score": 5,
+      "away_score": 7,
+      "venue": "",
+      "division": "U10 Sun Spring Div 4 Red",
+      "home_away": "home",
+      "opponent": "Kirkby Colts U10",
+      "goals_for": 5,
+      "goals_against": 7
+    },
     {
       "id": "a3cadbc3ed1d254390020471975c945e",
       "date": "2026-03-29",

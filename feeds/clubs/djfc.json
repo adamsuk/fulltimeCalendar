@@ -1,20 +1,7 @@
 {
   "club": "DJFC",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "e6e9754ee3a29e2bea08720dcd0ba437",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "DJFC U13",
-      "away_team": "DLFC Orange U13",
-      "venue": "Mellish Sports Centre NG6 9FH",
-      "division": "U13 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DJFC U13",
-      "home_away": "home",
-      "opponent": "DLFC Orange U13"
-    },
     {
       "id": "4d1af04a52fd49ea2eee51d3f3559037",
       "date": "2026-04-25",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "e6e9754ee3a29e2bea08720dcd0ba437",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "DJFC U13",
+      "away_team": "DLFC Orange U13",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "DJFC U13",
+      "home_away": "home",
+      "opponent": "DLFC Orange U13",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "ce44795cf93bc72b1fff2806ada6b976",
       "date": "2026-04-18",

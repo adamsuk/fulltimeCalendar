@@ -1,19 +1,8 @@
 {
   "team": "Priory Celtic FC Ladies First Team",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "2c90e56109c88987cf6f2758e4b0c0df",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Priory Celtic FC Ladies First Team",
-      "away_team": "Retford FC Ladies",
-      "venue": "THE KIMBERLEY SCHOOL",
-      "division": "Seniors Div 2",
-      "home_away": "home",
-      "opponent": "Retford FC Ladies"
-    },
     {
       "id": "080b03d31c6231faa7f75de36f088362",
       "date": "2026-04-26",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2c90e56109c88987cf6f2758e4b0c0df",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Priory Celtic FC Ladies First Team",
+      "away_team": "Retford FC Ladies",
+      "home_score": 2,
+      "away_score": 10,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "home_away": "home",
+      "opponent": "Retford FC Ladies",
+      "goals_for": 2,
+      "goals_against": 10
+    },
     {
       "id": "57ccc89707c9f8578589904268e44b47",
       "date": "2026-03-29",

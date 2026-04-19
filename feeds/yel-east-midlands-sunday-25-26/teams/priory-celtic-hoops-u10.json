@@ -1,19 +1,8 @@
 {
   "team": "Priory Celtic Hoops U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "38d33b8c6838d60ca24b35e43d8d20b9",
-      "date": "2026-04-19",
-      "time": "11:30",
-      "home_team": "Priory Celtic Hoops U10",
-      "away_team": "East Leake Bantams Orange U10",
-      "venue": "Kimberley Leisure Centre NG16 2NJ",
-      "division": "U10 Sun Spring Div 4 Blue",
-      "home_away": "home",
-      "opponent": "East Leake Bantams Orange U10"
-    },
     {
       "id": "6ff6af254e1a3ab4499b5c585f5acff6",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "38d33b8c6838d60ca24b35e43d8d20b9",
+      "date": "2026-04-19",
+      "time": "11:30",
+      "home_team": "Priory Celtic Hoops U10",
+      "away_team": "East Leake Bantams Orange U10",
+      "home_score": 9,
+      "away_score": 0,
+      "venue": "",
+      "division": "U10 Sun Spring Div 4 Blue",
+      "home_away": "home",
+      "opponent": "East Leake Bantams Orange U10",
+      "goals_for": 9,
+      "goals_against": 0
+    },
     {
       "id": "ee497ef422c5c2152f76a73269e6fa4f",
       "date": "2026-03-22",

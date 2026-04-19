@@ -1,19 +1,8 @@
 {
   "team": "Silva FC Rushcliffe Yellow U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "b12a91ab9704a28f3339e0ef7b9cc0cd",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Ilkeston Town Ajax U10",
-      "away_team": "Silva FC Rushcliffe Yellow U10",
-      "venue": "Booths Playing Fields DE7 8JF",
-      "division": "U10 Sunday",
-      "home_away": "away",
-      "opponent": "Ilkeston Town Ajax U10"
-    },
     {
       "id": "cc85d3b740dd303f5a3e30cbff0138e4",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b12a91ab9704a28f3339e0ef7b9cc0cd",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Ajax U10",
+      "away_team": "Silva FC Rushcliffe Yellow U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sunday",
+      "home_away": "away",
+      "opponent": "Ilkeston Town Ajax U10",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "edcddfa05c1d3dc96a0286c6bfb74e10",
       "date": "2026-03-22",

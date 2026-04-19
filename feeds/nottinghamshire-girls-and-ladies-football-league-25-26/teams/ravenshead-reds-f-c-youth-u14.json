@@ -1,7 +1,7 @@
 {
   "team": "Ravenshead Reds F.C. Youth U14",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
     {
       "id": "5d277a31ecebc1b9bafa5bd36dd48d39",
@@ -13,17 +13,6 @@
       "division": "U14 Div 3",
       "home_away": "home",
       "opponent": "Shirebrook Rangers & Juniors U14 Girls"
-    },
-    {
-      "id": "4b305333cbf865274111cc4eebd95197",
-      "date": "2026-04-19",
-      "time": "13:00",
-      "home_team": "Riverside Junior U14 Rubies",
-      "away_team": "Ravenshead Reds F.C. Youth U14",
-      "venue": "RH ACADEMY",
-      "division": "U14 Div 3 League Cup",
-      "home_away": "away",
-      "opponent": "Riverside Junior U14 Rubies"
     },
     {
       "id": "4f3c1fc7b7fa6c299890caaa067c2c8a",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "4b305333cbf865274111cc4eebd95197",
+      "date": "2026-04-19",
+      "time": "13:00",
+      "home_team": "Riverside Junior U14 Rubies",
+      "away_team": "Ravenshead Reds F.C. Youth U14",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Div 3 League Cup",
+      "home_away": "away",
+      "opponent": "Riverside Junior U14 Rubies",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "c8ba237f6d74442b12a9c114fdb935f7",
       "date": "2026-04-12",

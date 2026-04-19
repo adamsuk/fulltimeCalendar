@@ -1,19 +1,8 @@
 {
   "team": "Phoenix Inham Flames U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "8f9abbc9768314fb8b560f8d3a22ac11",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Phoenix Inham Flames U13",
-      "away_team": "Kirkby Colts U13",
-      "venue": "Inham Nook Recreation Ground NG9 4GQ",
-      "division": "U13 Sunday",
-      "home_away": "home",
-      "opponent": "Kirkby Colts U13"
-    },
     {
       "id": "ca017352c86b699717945b7e92bc8537",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8f9abbc9768314fb8b560f8d3a22ac11",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Phoenix Inham Flames U13",
+      "away_team": "Kirkby Colts U13",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sunday",
+      "home_away": "home",
+      "opponent": "Kirkby Colts U13",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "fb8da6d2a44c200ba9550ad8bbab78a3",
       "date": "2026-03-22",

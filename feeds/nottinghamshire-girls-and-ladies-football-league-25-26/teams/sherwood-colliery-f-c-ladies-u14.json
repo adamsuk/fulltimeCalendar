@@ -1,19 +1,8 @@
 {
   "team": "Sherwood Colliery F.C. Ladies U14",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "f775468f5637279486a792034ae731a5",
-      "date": "2026-04-19",
-      "time": "12:30",
-      "home_team": "Sherwood Colliery F.C. Ladies U14",
-      "away_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
-      "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
-      "division": "U14 Div 3",
-      "home_away": "home",
-      "opponent": "Arnold Eagles F.C. Girls U14 Hurricanes"
-    },
     {
       "id": "ca9138c5d5dcdcec6c73f787e49dd5d9",
       "date": "2026-04-26",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f775468f5637279486a792034ae731a5",
+      "date": "2026-04-19",
+      "time": "12:30",
+      "home_team": "Sherwood Colliery F.C. Ladies U14",
+      "away_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Div 3",
+      "home_away": "home",
+      "opponent": "Arnold Eagles F.C. Girls U14 Hurricanes",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "5d22b133fcf96662a163e94f4b91e0dd",
       "date": "2026-04-12",

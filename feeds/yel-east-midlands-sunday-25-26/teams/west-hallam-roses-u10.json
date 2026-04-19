@@ -1,19 +1,8 @@
 {
   "team": "West Hallam Roses U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "1f3eaa5242a649bf5d710eeebef011e6",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Cotgrave FC Blue U10",
-      "away_team": "West Hallam Roses U10",
-      "venue": "Ridley Sports Ground NG12 3HA",
-      "division": "U10 Sun Spring Div 4 Blue",
-      "home_away": "away",
-      "opponent": "Cotgrave FC Blue U10"
-    },
     {
       "id": "fd315034590c3ec718032dccc66533ea",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "1f3eaa5242a649bf5d710eeebef011e6",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Cotgrave FC Blue U10",
+      "away_team": "West Hallam Roses U10",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sun Spring Div 4 Blue",
+      "home_away": "away",
+      "opponent": "Cotgrave FC Blue U10",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "81d508db4a9604cca400499b396b8b4f",
       "date": "2026-03-29",

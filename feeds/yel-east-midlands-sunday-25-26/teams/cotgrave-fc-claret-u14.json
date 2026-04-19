@@ -1,19 +1,8 @@
 {
   "team": "Cotgrave FC Claret U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "d00daf8953fb4832e85ea806afb24dbe",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Mansfield Athletic Blue U14",
-      "away_team": "Cotgrave FC Claret U14",
-      "venue": "Polly Bowls NG17 4HN",
-      "division": "U14 Sun Spring Div 4",
-      "home_away": "away",
-      "opponent": "Mansfield Athletic Blue U14"
-    },
     {
       "id": "6b42078e5c6289b62692c0f643cf7ebb",
       "date": "2026-04-23",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d00daf8953fb4832e85ea806afb24dbe",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Mansfield Athletic Blue U14",
+      "away_team": "Cotgrave FC Claret U14",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Sun Spring Div 4",
+      "home_away": "away",
+      "opponent": "Mansfield Athletic Blue U14",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "ce3331e73aad4459085e495201cf6839",
       "date": "2026-03-22",

@@ -1,19 +1,8 @@
 {
   "team": "Wollaton H&B Panthers U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "7361f7afbdb6374165601578b35e29a2",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Pegasus FC U9",
-      "away_team": "Wollaton H&B Panthers U9",
-      "venue": "Pasture Road Recreation Ground NG9 8GN",
-      "division": "U9 Sun Spring Div 7",
-      "home_away": "away",
-      "opponent": "Pegasus FC U9"
-    },
     {
       "id": "5513269b76342d1247926aa76d448027",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7361f7afbdb6374165601578b35e29a2",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Pegasus FC U9",
+      "away_team": "Wollaton H&B Panthers U9",
+      "home_score": 12,
+      "away_score": 6,
+      "venue": "",
+      "division": "U9 Sun Spring Div 7",
+      "home_away": "away",
+      "opponent": "Pegasus FC U9",
+      "goals_for": 6,
+      "goals_against": 12
+    },
     {
       "id": "d7aa25c733ffc51957d1baf1647fdf43",
       "date": "2026-03-22",

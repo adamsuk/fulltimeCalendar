@@ -1,19 +1,8 @@
 {
   "team": "Mansfield Athletic U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "31be6c8b15cb6894acb8c7ae864f8b10",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Pegasus FC U13",
-      "away_team": "Mansfield Athletic U13",
-      "venue": "Pasture Road Recreation Ground NG9 8GN",
-      "division": "U13 Sun Spring Div 5 Silver",
-      "home_away": "away",
-      "opponent": "Pegasus FC U13"
-    },
     {
       "id": "d4dc5df627cc370408d3c61b29ee736a",
       "date": "2026-04-23",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "31be6c8b15cb6894acb8c7ae864f8b10",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Pegasus FC U13",
+      "away_team": "Mansfield Athletic U13",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sun Spring Div 5 Silver",
+      "home_away": "away",
+      "opponent": "Pegasus FC U13",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "f3d4e3c55296edde1870ad91e3d9e4eb",
       "date": "2026-03-29",

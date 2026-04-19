@@ -1,20 +1,7 @@
 {
   "club": "Hilton Harriers",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "68e3b7bf19b9bfbe48f382028311d075",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Hilton Harriers U15 Girls Sunday",
-      "away_team": "Willow Wanderers F.C. Youth U15 Amazons",
-      "venue": "THE MEASE PAVILION - HILTON HARRIERS FC",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Hilton Harriers U15 Girls Sunday",
-      "home_away": "home",
-      "opponent": "Willow Wanderers F.C. Youth U15 Amazons"
-    },
     {
       "id": "75556ba9ca577caaa143b09e58a80a0a",
       "date": "2026-04-19",
@@ -27,19 +14,6 @@
       "team": "Hilton Harriers U13 Girls",
       "home_away": "home",
       "opponent": "Mansfield Town F.C. Girls U13"
-    },
-    {
-      "id": "610e5077d1d7207953207e5bc3a8fe0b",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Hilton Harriers Bears U14",
-      "away_team": "AJ Sport FC U14",
-      "venue": "The Mease Pavilion DE65 5LS",
-      "division": "u14 Sat Spring Div 1 Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Hilton Harriers Bears U14",
-      "home_away": "home",
-      "opponent": "AJ Sport FC U14"
     },
     {
       "id": "c60f42066a9889020c6cfca3a15ebb8b",
@@ -198,6 +172,19 @@
       "opponent": "Mansfield Town F.C. Girls U13"
     },
     {
+      "id": "41bd8b84068a9a44bcf51854212eeb03",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "home_team": "Hilton Harriers Bears U14",
+      "away_team": "AJ Sport FC U14",
+      "venue": "The Mease Pavilion DE65 5LS",
+      "division": "u14 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hilton Harriers Bears U14",
+      "home_away": "home",
+      "opponent": "AJ Sport FC U14"
+    },
+    {
       "id": "5d67ee8fac994103d564334445f48b37",
       "date": "2026-05-03",
       "time": "10:00",
@@ -290,6 +277,23 @@
     }
   ],
   "results": [
+    {
+      "id": "68e3b7bf19b9bfbe48f382028311d075",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Hilton Harriers U15 Girls Sunday",
+      "away_team": "Willow Wanderers F.C. Youth U15 Amazons",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U15 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hilton Harriers U15 Girls Sunday",
+      "home_away": "home",
+      "opponent": "Willow Wanderers F.C. Youth U15 Amazons",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "6032dbc4c4d3e41c83a7af669121e167",
       "date": "2026-04-18",

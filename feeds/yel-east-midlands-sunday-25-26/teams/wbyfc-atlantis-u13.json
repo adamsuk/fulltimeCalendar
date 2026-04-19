@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Atlantis U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "ef7b11c26019eae407441b0bf9040171",
-      "date": "2026-04-19",
-      "time": "10:15",
-      "home_team": "WBYFC Atlantis U13",
-      "away_team": "Quarrydale United United U13",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U13 Sun YEL Shield",
-      "home_away": "home",
-      "opponent": "Quarrydale United United U13"
-    },
     {
       "id": "498c18070c889998af294bd855264656",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ef7b11c26019eae407441b0bf9040171",
+      "date": "2026-04-19",
+      "time": "10:15",
+      "home_team": "WBYFC Atlantis U13",
+      "away_team": "Quarrydale United United U13",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sun YEL Shield",
+      "home_away": "home",
+      "opponent": "Quarrydale United United U13",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "91b89399812f9d09f7b8dc24c3346686",
       "date": "2026-03-22",

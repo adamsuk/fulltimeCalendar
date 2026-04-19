@@ -1,19 +1,8 @@
 {
   "team": "Stapleford Town Jaguars U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "e39c12f662d343b27b8f1fbdb64cc558",
-      "date": "2026-04-19",
-      "time": "09:30",
-      "home_team": "Stapleford Town Jaguars U10",
-      "away_team": "Basford CFC Blue U10",
-      "venue": "Hickings Lane NG9 8PG",
-      "division": "U10 Sun Spring Div 2 Blue",
-      "home_away": "home",
-      "opponent": "Basford CFC Blue U10"
-    },
     {
       "id": "557e124359d877a9cc66b9f8103d5a8a",
       "date": "2026-04-26",
@@ -24,9 +13,35 @@
       "division": "U10 Sunday",
       "home_away": "home",
       "opponent": "Attenborough Colts Black U10"
+    },
+    {
+      "id": "4bdf573d3ba0cb6a067eb548c053450d",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Basford CFC Blue U10",
+      "away_team": "Stapleford Town Jaguars U10",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U10 Sun Spring Div 2 Blue",
+      "home_away": "away",
+      "opponent": "Basford CFC Blue U10"
     }
   ],
   "results": [
+    {
+      "id": "e39c12f662d343b27b8f1fbdb64cc558",
+      "date": "2026-04-19",
+      "time": "09:30",
+      "home_team": "Stapleford Town Jaguars U10",
+      "away_team": "Basford CFC Blue U10",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sun Spring Div 2 Blue",
+      "home_away": "home",
+      "opponent": "Basford CFC Blue U10",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "0a05124c010b51a118a592d754e10233",
       "date": "2026-03-29",

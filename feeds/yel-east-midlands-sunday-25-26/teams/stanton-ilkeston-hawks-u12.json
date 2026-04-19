@@ -1,19 +1,8 @@
 {
   "team": "Stanton Ilkeston Hawks U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "a2bf9453daedd48f0dbf76833aea670e",
-      "date": "2026-04-19",
-      "time": "11:30",
-      "home_team": "Stanton Ilkeston Hawks U12",
-      "away_team": "Ropsley Colts Red U12",
-      "venue": "Ron Brooks Pavilion DE7 4LD",
-      "division": "U12 Sun Spring Div 6 Silver",
-      "home_away": "home",
-      "opponent": "Ropsley Colts Red U12"
-    },
     {
       "id": "4bcbf96df78e66a7903d8a272c45ce0e",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a2bf9453daedd48f0dbf76833aea670e",
+      "date": "2026-04-19",
+      "time": "11:30",
+      "home_team": "Stanton Ilkeston Hawks U12",
+      "away_team": "Ropsley Colts Red U12",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sun Spring Div 6 Silver",
+      "home_away": "home",
+      "opponent": "Ropsley Colts Red U12",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "600c6a16cc4af2732ebfcc5ee4457bb8",
       "date": "2026-03-15",

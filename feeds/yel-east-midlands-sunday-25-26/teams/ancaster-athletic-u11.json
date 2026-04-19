@@ -1,19 +1,8 @@
 {
   "team": "Ancaster Athletic U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "f94dbce449e9ff4427b99725af4348e3",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Ancaster Athletic U11",
-      "away_team": "Heanor Town Hurricanes U11",
-      "venue": "Kinton Park NG14 6NR",
-      "division": "U11 Sun Spring Div 6 Silver",
-      "home_away": "home",
-      "opponent": "Heanor Town Hurricanes U11"
-    },
     {
       "id": "e30aad9ae83a16ff5e5fcca4282d7185",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f94dbce449e9ff4427b99725af4348e3",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Ancaster Athletic U11",
+      "away_team": "Heanor Town Hurricanes U11",
+      "home_score": 0,
+      "away_score": 8,
+      "venue": "",
+      "division": "U11 Sun Spring Div 6 Silver",
+      "home_away": "home",
+      "opponent": "Heanor Town Hurricanes U11",
+      "goals_for": 0,
+      "goals_against": 8
+    },
     {
       "id": "c8c6504ab7d41c1d18ec4f6be1edab36",
       "date": "2026-03-15",

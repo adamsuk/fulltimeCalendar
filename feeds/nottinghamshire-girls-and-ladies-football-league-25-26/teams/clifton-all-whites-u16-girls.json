@@ -1,19 +1,8 @@
 {
   "team": "Clifton All Whites U16 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "0f28d683478244b5156134fe66ae1971",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Clifton All Whites U16 Girls",
-      "away_team": "Burton Joyce F.C. Girls U16",
-      "venue": "FARNBOROUGH ACADEMY SPORTS CENTRE",
-      "division": "U16 Div 3",
-      "home_away": "home",
-      "opponent": "Burton Joyce F.C. Girls U16"
-    },
     {
       "id": "c8943f67e392d8df93bfe53e88834422",
       "date": "2026-04-26",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0f28d683478244b5156134fe66ae1971",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U16 Girls",
+      "away_team": "Burton Joyce F.C. Girls U16",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U16 Div 3",
+      "home_away": "home",
+      "opponent": "Burton Joyce F.C. Girls U16",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "e66e82cd7365c0e1f653c7415d715245",
       "date": "2026-03-22",

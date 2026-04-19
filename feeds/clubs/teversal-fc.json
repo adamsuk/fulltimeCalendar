@@ -1,33 +1,7 @@
 {
   "club": "Teversal FC",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "8327c2664dd6c49fe0f719392cf80080",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Teversal FC U13",
-      "away_team": "Barrowby Junior Green U13",
-      "venue": "Peartree Lane NG17 3JP",
-      "division": "U13 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Teversal FC U13",
-      "home_away": "home",
-      "opponent": "Barrowby Junior Green U13"
-    },
-    {
-      "id": "de81843c5d0cce5d5cc9bf5965a84e05",
-      "date": "2026-04-19",
-      "time": "12:30",
-      "home_team": "Teversal FC U14",
-      "away_team": "DLFC Gold U14",
-      "venue": "Peartree Lane NG17 3JP",
-      "division": "U14 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Teversal FC U14",
-      "home_away": "home",
-      "opponent": "DLFC Gold U14"
-    },
     {
       "id": "31444320724cc0b396608d21d38713d8",
       "date": "2026-04-25",
@@ -108,6 +82,40 @@
     }
   ],
   "results": [
+    {
+      "id": "de81843c5d0cce5d5cc9bf5965a84e05",
+      "date": "2026-04-19",
+      "time": "12:30",
+      "home_team": "Teversal FC U14",
+      "away_team": "DLFC Gold U14",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sun Spring Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Teversal FC U14",
+      "home_away": "home",
+      "opponent": "DLFC Gold U14",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
+      "id": "8327c2664dd6c49fe0f719392cf80080",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Teversal FC U13",
+      "away_team": "Barrowby Junior Green U13",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Teversal FC U13",
+      "home_away": "home",
+      "opponent": "Barrowby Junior Green U13",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "3b6dd644b46e532b821f14e142d8ba4c",
       "date": "2026-04-18",

@@ -1,19 +1,8 @@
 {
   "team": "Club FDNA Munich U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "d3b46ac188883d9166ac47a4d7cd9dc9",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Eastwood CFC Juventus U9",
-      "away_team": "Club FDNA Munich U9",
-      "venue": "Coronation Park NG16 3HB",
-      "division": "U9 Sunday",
-      "home_away": "away",
-      "opponent": "Eastwood CFC Juventus U9"
-    },
     {
       "id": "40ad400c30bb6c765bcbc1238a5c9ec7",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d3b46ac188883d9166ac47a4d7cd9dc9",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Eastwood CFC Juventus U9",
+      "away_team": "Club FDNA Munich U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sunday",
+      "home_away": "away",
+      "opponent": "Eastwood CFC Juventus U9",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "e1c212991213063bab82a233d27edd43",
       "date": "2026-03-29",

@@ -1,19 +1,8 @@
 {
   "team": "Beeston FC U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "511e86271a4994dcfa802f938ef412f6",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Beeston FC U11",
-      "away_team": "Silva FC Rushcliffe Gold U11",
-      "venue": "Trent Vale Sports Ground NG9 1ND",
-      "division": "U11 Sunday",
-      "home_away": "home",
-      "opponent": "Silva FC Rushcliffe Gold U11"
-    },
     {
       "id": "0db5e0fc69fcd7966e9bc270feb959e8",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "511e86271a4994dcfa802f938ef412f6",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Beeston FC U11",
+      "away_team": "Silva FC Rushcliffe Gold U11",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Sunday",
+      "home_away": "home",
+      "opponent": "Silva FC Rushcliffe Gold U11",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "a42bb91437210a6a1618960baaa472ec",
       "date": "2026-03-22",

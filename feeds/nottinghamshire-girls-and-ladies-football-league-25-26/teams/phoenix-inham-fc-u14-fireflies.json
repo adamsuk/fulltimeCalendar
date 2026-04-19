@@ -1,19 +1,8 @@
 {
   "team": "Phoenix Inham FC U14 Fireflies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "a9396e33cd6dfbbff0668c8feaf034fe",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Burton Joyce F.C. Girls U14",
-      "away_team": "Phoenix Inham FC U14 Fireflies",
-      "venue": "POPLARS SPORTS GROUND",
-      "division": "U14 Div 4",
-      "home_away": "away",
-      "opponent": "Burton Joyce F.C. Girls U14"
-    },
     {
       "id": "5d591aa731d4e2855acd601e35dad679",
       "date": "2026-04-26",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a9396e33cd6dfbbff0668c8feaf034fe",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Burton Joyce F.C. Girls U14",
+      "away_team": "Phoenix Inham FC U14 Fireflies",
+      "home_score": 2,
+      "away_score": 7,
+      "venue": "",
+      "division": "U14 Div 4",
+      "home_away": "away",
+      "opponent": "Burton Joyce F.C. Girls U14",
+      "goals_for": 7,
+      "goals_against": 2
+    },
     {
       "id": "c3737e83862fe5acaeff4f84239b6a3d",
       "date": "2026-04-12",

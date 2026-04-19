@@ -1,19 +1,8 @@
 {
   "team": "ATFA Brinsley FC U12",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "c8d55669cbcb8b7ff95f30b0b382dd37",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "ATFA Brinsley FC U12",
-      "away_team": "Blidworth Bengals F.C. U12",
-      "venue": "BRINSLEY RECREATION GROUND",
-      "division": "U12 Div 3 P2",
-      "home_away": "home",
-      "opponent": "Blidworth Bengals F.C. U12"
-    },
     {
       "id": "54578ecc6b68de1fbf0ef3022b97e5fc",
       "date": "2026-04-22",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c8d55669cbcb8b7ff95f30b0b382dd37",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "ATFA Brinsley FC U12",
+      "away_team": "Blidworth Bengals F.C. U12",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Div 3 P2",
+      "home_away": "home",
+      "opponent": "Blidworth Bengals F.C. U12",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "737b8b6fa14d72917d2fd310a3666c92",
       "date": "2026-03-22",

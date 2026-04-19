@@ -1,19 +1,8 @@
 {
   "team": "East Leake Bantams Black U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "077b48bca68c388ead10e14fc65c283e",
-      "date": "2026-04-19",
-      "time": "10:30",
-      "home_team": "Radford FC U13",
-      "away_team": "East Leake Bantams Black U13",
-      "venue": "Radford Rd NG7 5EH",
-      "division": "U13 Sun Spring Div 5 Gold",
-      "home_away": "away",
-      "opponent": "Radford FC U13"
-    },
     {
       "id": "f8c8d5cf4a92bae78a83b1fd557a2166",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "077b48bca68c388ead10e14fc65c283e",
+      "date": "2026-04-19",
+      "time": "10:30",
+      "home_team": "Radford FC U13",
+      "away_team": "East Leake Bantams Black U13",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sun Spring Div 5 Gold",
+      "home_away": "away",
+      "opponent": "Radford FC U13",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "8dd2ac181e09bec4f1f04ed4912534e0",
       "date": "2026-03-29",

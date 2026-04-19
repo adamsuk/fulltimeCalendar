@@ -1,19 +1,8 @@
 {
   "team": "Heanor Town Harriers U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "b6a2f6265b1e511cb2ef0b510daecb23",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Heanor Town Harriers U11",
-      "away_team": "DLFC Red U11",
-      "venue": "Charles Hill DE75 7RN",
-      "division": "U11 Sun Spring Div 2 Blue",
-      "home_away": "home",
-      "opponent": "DLFC Red U11"
-    },
     {
       "id": "3e5a9f48700c86e40a46a85b833897f0",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b6a2f6265b1e511cb2ef0b510daecb23",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Heanor Town Harriers U11",
+      "away_team": "DLFC Red U11",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sun Spring Div 2 Blue",
+      "home_away": "home",
+      "opponent": "DLFC Red U11",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "3f457aa03efe4a3398f4a4dd96277970",
       "date": "2026-03-22",

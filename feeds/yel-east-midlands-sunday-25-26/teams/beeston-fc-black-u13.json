@@ -1,19 +1,8 @@
 {
   "team": "Beeston FC Black U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "5ebbb2f12e1e6aed2b38791579186e46",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Beeston FC Black U13",
-      "away_team": "Beeston FC Orange U13",
-      "venue": "Trent Vale Sports Ground NG9 1ND",
-      "division": "U13 Sun Spring Div 4 Blue",
-      "home_away": "home",
-      "opponent": "Beeston FC Orange U13"
-    },
     {
       "id": "f77b3615f3662c2bc33def80cb8cc290",
       "date": "2026-04-23",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5ebbb2f12e1e6aed2b38791579186e46",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Beeston FC Black U13",
+      "away_team": "Beeston FC Orange U13",
+      "home_score": 10,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sun Spring Div 4 Blue",
+      "home_away": "home",
+      "opponent": "Beeston FC Orange U13",
+      "goals_for": 10,
+      "goals_against": 2
+    },
     {
       "id": "bf54628b61644451b63725e3970b0c03",
       "date": "2026-03-22",

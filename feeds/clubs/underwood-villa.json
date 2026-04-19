@@ -1,33 +1,7 @@
 {
   "club": "Underwood Villa",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "2aa9ed7d0b24725067ebda5b21cbd150",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Silva FC Brunts Black U9",
-      "away_team": "Underwood Villa Lions U9",
-      "venue": "Brunts Academy NG18 2AT",
-      "division": "U9 Sun YEL Shield",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Underwood Villa Lions U9",
-      "home_away": "away",
-      "opponent": "Silva FC Brunts Black U9"
-    },
-    {
-      "id": "67b4d19c174ee1cb2ab2e691e1a9209a",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Harrowby United U11",
-      "away_team": "Underwood Villa Tigers U11",
-      "venue": "HARROWBY LANE PLAYING FIELDS NG31 9QY",
-      "division": "U11 Sun Spring Div 1",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Underwood Villa Tigers U11",
-      "home_away": "away",
-      "opponent": "Harrowby United U11"
-    },
     {
       "id": "513a81a1292c2056ed4e8d30f80555ee",
       "date": "2026-04-19",
@@ -144,9 +118,56 @@
       "team": "Underwood Villa FC Youth Ladies",
       "home_away": "home",
       "opponent": "Sherwood Colliery FC Ladies"
+    },
+    {
+      "id": "6994147c370aa296be2f4af9859717f1",
+      "date": "2026-05-10",
+      "time": "13:30",
+      "home_team": "Underwood Villa Lions U9",
+      "away_team": "Alfreton Town Lions U9",
+      "venue": "Bracken Park NG16 5FG",
+      "division": "U9 Sun YEL Shield",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Underwood Villa Lions U9",
+      "home_away": "home",
+      "opponent": "Alfreton Town Lions U9"
     }
   ],
   "results": [
+    {
+      "id": "2aa9ed7d0b24725067ebda5b21cbd150",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Silva FC Brunts Black U9",
+      "away_team": "Underwood Villa Lions U9",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "",
+      "division": "U9 Sun YEL Shield",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Underwood Villa Lions U9",
+      "home_away": "away",
+      "opponent": "Silva FC Brunts Black U9",
+      "goals_for": 6,
+      "goals_against": 2
+    },
+    {
+      "id": "67b4d19c174ee1cb2ab2e691e1a9209a",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Harrowby United U11",
+      "away_team": "Underwood Villa Tigers U11",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sun Spring Div 1",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Underwood Villa Tigers U11",
+      "home_away": "away",
+      "opponent": "Harrowby United U11",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "cbcc931086fa69529efe15e24687faaa",
       "date": "2026-04-18",

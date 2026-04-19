@@ -1,19 +1,8 @@
 {
   "team": "Bottesford Yellow U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "2f02d3766ab3b4874e12152524352e43",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Calverton MW White U9",
-      "away_team": "Bottesford Yellow U9",
-      "venue": "Kinton Park NG14 6NR",
-      "division": "U9 Sun Spring Div 2 Red",
-      "home_away": "away",
-      "opponent": "Calverton MW White U9"
-    },
     {
       "id": "86f11db426b346b05d9bf13ce6a28d40",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2f02d3766ab3b4874e12152524352e43",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Calverton MW White U9",
+      "away_team": "Bottesford Yellow U9",
+      "home_score": 6,
+      "away_score": 4,
+      "venue": "",
+      "division": "U9 Sun Spring Div 2 Red",
+      "home_away": "away",
+      "opponent": "Calverton MW White U9",
+      "goals_for": 4,
+      "goals_against": 6
+    },
     {
       "id": "5b44e7ee21054b257c6a1a32d38c5b85",
       "date": "2026-03-22",

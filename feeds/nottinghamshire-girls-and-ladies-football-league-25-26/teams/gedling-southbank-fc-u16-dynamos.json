@@ -1,19 +1,8 @@
 {
   "team": "Gedling Southbank FC U16 Dynamos",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "afdb50733c54e22a6ade71c3fad442f1",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Arnold Eagles F.C. Girls U16 Buzzards",
-      "away_team": "Gedling Southbank FC U16 Dynamos",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "U16 Div 2",
-      "home_away": "away",
-      "opponent": "Arnold Eagles F.C. Girls U16 Buzzards"
-    },
     {
       "id": "a31baca9793ff9b9db4e66b94ac8cd64",
       "date": "2026-05-03",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "afdb50733c54e22a6ade71c3fad442f1",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Arnold Eagles F.C. Girls U16 Buzzards",
+      "away_team": "Gedling Southbank FC U16 Dynamos",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U16 Div 2",
+      "home_away": "away",
+      "opponent": "Arnold Eagles F.C. Girls U16 Buzzards",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "c07f47afa038a51be4a8284cb1911260",
       "date": "2026-03-22",

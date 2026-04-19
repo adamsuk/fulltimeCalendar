@@ -1,19 +1,8 @@
 {
   "team": "Silva FC Rushcliffe Red U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "822a6cf9e29445ff513e6317eb0aa16d",
-      "date": "2026-04-19",
-      "time": "09:45",
-      "home_team": "Silva FC Rushcliffe Red U11",
-      "away_team": "Willow Wanderers Harriers U11",
-      "venue": "Rushcliffe School NG2 7BZ",
-      "division": "U11 Sun YEL Foundation Shield",
-      "home_away": "home",
-      "opponent": "Willow Wanderers Harriers U11"
-    },
     {
       "id": "b85b3d499c748bd40ce69fe98e235e9a",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "822a6cf9e29445ff513e6317eb0aa16d",
+      "date": "2026-04-19",
+      "time": "09:45",
+      "home_team": "Silva FC Rushcliffe Red U11",
+      "away_team": "Willow Wanderers Harriers U11",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sun YEL Foundation Shield",
+      "home_away": "home",
+      "opponent": "Willow Wanderers Harriers U11",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "1a43a6582f7cfab6119e56fec51f0125",
       "date": "2026-03-22",

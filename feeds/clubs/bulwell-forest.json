@@ -1,20 +1,7 @@
 {
   "club": "Bulwell Forest",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "000a1b43a92918972b4d50ff823edb8e",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Bulwell Forest U9",
-      "away_team": "Bagthorpe Athletic U9",
-      "venue": "Cantrell Primary School NG6 9HJ",
-      "division": "U9 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Bulwell Forest U9",
-      "home_away": "home",
-      "opponent": "Bagthorpe Athletic U9"
-    },
     {
       "id": "6160430044f509937461f57f02dbbbdc",
       "date": "2026-04-25",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "000a1b43a92918972b4d50ff823edb8e",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Bulwell Forest U9",
+      "away_team": "Bagthorpe Athletic U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Bulwell Forest U9",
+      "home_away": "home",
+      "opponent": "Bagthorpe Athletic U9",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "d07839d788fcbecd7cc20f099712b225",
       "date": "2026-04-18",

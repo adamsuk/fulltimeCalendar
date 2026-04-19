@@ -1,7 +1,7 @@
 {
   "team": "Sandiacre Town Youth U12 Panthers Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
     {
       "id": "88a0bc82534092e2eb8677bafb3eb373",
@@ -13,17 +13,6 @@
       "division": "U12 Div 1 P2",
       "home_away": "away",
       "opponent": "Keyworth United F.C. U12 Warriors"
-    },
-    {
-      "id": "6ed4e89ea2b8b9efaf28c332793a5744",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Hucknall & Linby Harriers FC U12",
-      "away_team": "Sandiacre Town Youth U12 Panthers Girls",
-      "venue": "HOLGATE ACADEMY",
-      "division": "U12 Div 1 P2",
-      "home_away": "away",
-      "opponent": "Hucknall & Linby Harriers FC U12"
     },
     {
       "id": "9aac7436c7a5bc268266c6c366c5b3e7",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6ed4e89ea2b8b9efaf28c332793a5744",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Hucknall & Linby Harriers FC U12",
+      "away_team": "Sandiacre Town Youth U12 Panthers Girls",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Div 1 P2",
+      "home_away": "away",
+      "opponent": "Hucknall & Linby Harriers FC U12",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "a6a39609d65cccd02290c298730ef54e",
       "date": "2026-03-22",

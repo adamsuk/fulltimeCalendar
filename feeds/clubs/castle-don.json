@@ -1,20 +1,7 @@
 {
   "club": "Castle Don",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "7434c73a6a5d141bc7fd2ba80099d80b",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Castle Don Barbarians U13",
-      "away_team": "Priory Celtic Hoops U13",
-      "venue": "Spital Park DE742NQ",
-      "division": "U13 Sun Spring Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Castle Don Barbarians U13",
-      "home_away": "home",
-      "opponent": "Priory Celtic Hoops U13"
-    },
     {
       "id": "a1dfc455cc6f3b8e84e112b286b6b09c",
       "date": "2026-04-19",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "7434c73a6a5d141bc7fd2ba80099d80b",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Castle Don Barbarians U13",
+      "away_team": "Priory Celtic Hoops U13",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U13 Sun Spring Div 2 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Castle Don Barbarians U13",
+      "home_away": "home",
+      "opponent": "Priory Celtic Hoops U13",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "67c63624166a9d4de0f9f57399c8c0ac",
       "date": "2026-04-12",

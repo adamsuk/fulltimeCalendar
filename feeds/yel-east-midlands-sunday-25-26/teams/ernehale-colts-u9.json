@@ -1,19 +1,8 @@
 {
   "team": "Ernehale Colts U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "dd86138005df4e902aa5398eb7d35704",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Priory Celtic 1967 U9",
-      "away_team": "Ernehale Colts U9",
-      "venue": "Kimberley Leisure Centre NG16 2NJ",
-      "division": "U9 Sun Spring Div 6 Blue",
-      "home_away": "away",
-      "opponent": "Priory Celtic 1967 U9"
-    },
     {
       "id": "0a779c47b47797225842e52ce1ca281e",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "dd86138005df4e902aa5398eb7d35704",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Priory Celtic 1967 U9",
+      "away_team": "Ernehale Colts U9",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sun Spring Div 6 Blue",
+      "home_away": "away",
+      "opponent": "Priory Celtic 1967 U9",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "af5c627600c2fef7c581723b91651033",
       "date": "2026-03-22",

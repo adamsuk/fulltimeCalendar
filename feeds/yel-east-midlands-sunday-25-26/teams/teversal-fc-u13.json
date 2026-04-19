@@ -1,19 +1,8 @@
 {
   "team": "Teversal FC U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "8327c2664dd6c49fe0f719392cf80080",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Teversal FC U13",
-      "away_team": "Barrowby Junior Green U13",
-      "venue": "Peartree Lane NG17 3JP",
-      "division": "U13 Sunday",
-      "home_away": "home",
-      "opponent": "Barrowby Junior Green U13"
-    },
     {
       "id": "1fb39c9e5c0725f3817844e1aa6cf7b0",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8327c2664dd6c49fe0f719392cf80080",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Teversal FC U13",
+      "away_team": "Barrowby Junior Green U13",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sunday",
+      "home_away": "home",
+      "opponent": "Barrowby Junior Green U13",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "67c63624166a9d4de0f9f57399c8c0ac",
       "date": "2026-04-12",

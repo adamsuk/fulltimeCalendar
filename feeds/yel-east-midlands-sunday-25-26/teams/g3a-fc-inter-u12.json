@@ -1,19 +1,8 @@
 {
   "team": "G3A FC Inter U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "0d6b6e1b08641ac493a8d36b5142e12f",
-      "date": "2026-04-19",
-      "time": "09:45",
-      "home_team": "Eastwood CFC Eagles U12",
-      "away_team": "G3A FC Inter U12",
-      "venue": "Coronation Park NG16 3HB",
-      "division": "U12 Sun Spring Premier Division",
-      "home_away": "away",
-      "opponent": "Eastwood CFC Eagles U12"
-    },
     {
       "id": "78e3db65ea38287122f1c7135ce417f4",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0d6b6e1b08641ac493a8d36b5142e12f",
+      "date": "2026-04-19",
+      "time": "09:45",
+      "home_team": "Eastwood CFC Eagles U12",
+      "away_team": "G3A FC Inter U12",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sun Spring Premier Division",
+      "home_away": "away",
+      "opponent": "Eastwood CFC Eagles U12",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "26776a83c755368e92280e7055f4d0f8",
       "date": "2026-03-15",

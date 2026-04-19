@@ -1,19 +1,8 @@
 {
   "team": "Ilkeston Town Panthers U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "dd1a4e2b14183b6d7f815dc9c241b313",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Ruddington Village U13",
-      "away_team": "Ilkeston Town Panthers U13",
-      "venue": "Jubilee Fields NG11 6NX",
-      "division": "U13 Sun Spring Div 5 Gold",
-      "home_away": "away",
-      "opponent": "Ruddington Village U13"
-    },
     {
       "id": "a63a70c82341ffc6b7dc93481e05e7ad",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "dd1a4e2b14183b6d7f815dc9c241b313",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Ruddington Village U13",
+      "away_team": "Ilkeston Town Panthers U13",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sun Spring Div 5 Gold",
+      "home_away": "away",
+      "opponent": "Ruddington Village U13",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "f9e1e874b8e1c2b4ad153c27529b0cd7",
       "date": "2026-03-22",

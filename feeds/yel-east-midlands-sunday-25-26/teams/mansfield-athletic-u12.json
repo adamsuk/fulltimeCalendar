@@ -1,19 +1,8 @@
 {
   "team": "Mansfield Athletic U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "1e08acd2a7025297a27202e8ae6e9657",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Mansfield Athletic U12",
-      "away_team": "Arnold Town Maroon U12",
-      "venue": "Unwin Road NG17 4HT",
-      "division": "U12 Sun Spring Div 1 Silver",
-      "home_away": "home",
-      "opponent": "Arnold Town Maroon U12"
-    },
     {
       "id": "6e1a1fa98a1a6296fae1193343aa0bf9",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "1e08acd2a7025297a27202e8ae6e9657",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Mansfield Athletic U12",
+      "away_team": "Arnold Town Maroon U12",
+      "home_score": 7,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sun Spring Div 1 Silver",
+      "home_away": "home",
+      "opponent": "Arnold Town Maroon U12",
+      "goals_for": 7,
+      "goals_against": 0
+    },
     {
       "id": "014c6b508f76ccd8524e47a9e9d50e59",
       "date": "2026-03-22",

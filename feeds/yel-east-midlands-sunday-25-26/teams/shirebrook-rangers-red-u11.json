@@ -1,19 +1,8 @@
 {
   "team": "Shirebrook Rangers Red U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "5b3480c2a34230257659e63ceeda9b77",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Shirebrook Rangers Blue U11",
-      "away_team": "Shirebrook Rangers Red U11",
-      "venue": "Shirebrook Academy NG20 8QF",
-      "division": "U11 Sun Spring Div 5 Red",
-      "home_away": "away",
-      "opponent": "Shirebrook Rangers Blue U11"
-    },
     {
       "id": "d7ba451ada71347f015f7f5174d7d0de",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5b3480c2a34230257659e63ceeda9b77",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Shirebrook Rangers Blue U11",
+      "away_team": "Shirebrook Rangers Red U11",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "U11 Sun Spring Div 5 Red",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers Blue U11",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "6315cb600f628852508f82523302452a",
       "date": "2026-03-22",

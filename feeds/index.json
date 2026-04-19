@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "leagues": [
     {
       "name": "YEL East Midlands Sunday 25/26",
@@ -8047,18 +8047,12 @@
       "name": "AC United",
       "slug": "ac-united",
       "teams": [
+        "A.C. United F.C. U13",
         "A.C. United U8",
         "A.C. United U9",
+        "AC United FC",
         "AC United U10",
         "AC United U11"
-      ]
-    },
-    {
-      "name": "AC United FC",
-      "slug": "ac-united-fc",
-      "teams": [
-        "A.C. United F.C. U13",
-        "AC United FC"
       ]
     },
     {
@@ -8104,6 +8098,10 @@
         "AJ Sport Black U10",
         "AJ Sport Black U7",
         "AJ Sport Black U9",
+        "AJ Sport F.C. Reserves",
+        "AJ Sport FC",
+        "AJ Sport FC U13",
+        "AJ Sport FC U14",
         "AJ Sport Gold U10",
         "AJ Sport Gold U7",
         "AJ Sport Gold U8",
@@ -8112,16 +8110,6 @@
         "AJ Sport Red U9",
         "AJ Sport U12",
         "AJ Sport White U9"
-      ]
-    },
-    {
-      "name": "AJ Sport FC",
-      "slug": "aj-sport-fc",
-      "teams": [
-        "AJ Sport F.C. Reserves",
-        "AJ Sport FC",
-        "AJ Sport FC U13",
-        "AJ Sport FC U14"
       ]
     },
     {
@@ -8172,8 +8160,8 @@
       ]
     },
     {
-      "name": "Allexton & New Parks",
-      "slug": "allexton-new-parks",
+      "name": "Allexton",
+      "slug": "allexton",
       "teams": [
         "Allexton & New Parks Junior U14",
         "Allexton & New Parks Magpies U12"
@@ -8212,16 +8200,8 @@
       ]
     },
     {
-      "name": "Arnold Eagles FC",
-      "slug": "arnold-eagles-fc",
-      "teams": [
-        "Arnold Eagles F.C. WOMEN 1ST",
-        "Arnold Eagles FC Development"
-      ]
-    },
-    {
-      "name": "Arnold Eagles FC Girls",
-      "slug": "arnold-eagles-fc-girls",
+      "name": "Arnold Eagles",
+      "slug": "arnold-eagles",
       "teams": [
         "Arnold Eagles F.C. Girls U10 Braves",
         "Arnold Eagles F.C. Girls U10 Wizards",
@@ -8239,7 +8219,9 @@
         "Arnold Eagles F.C. Girls U16 Buzzards",
         "Arnold Eagles F.C. Girls U16 Hawks",
         "Arnold Eagles F.C. Girls U8 Lionesses",
-        "Arnold Eagles F.C. Girls U9 Warriors"
+        "Arnold Eagles F.C. Girls U9 Warriors",
+        "Arnold Eagles F.C. WOMEN 1ST",
+        "Arnold Eagles FC Development"
       ]
     },
     {
@@ -8251,6 +8233,16 @@
         "Arnold Town Blue U13",
         "Arnold Town Blue U14",
         "Arnold Town Blue U9",
+        "Arnold Town FC",
+        "Arnold Town FC Development",
+        "Arnold Town FC U10 Girls",
+        "Arnold Town FC U13 Girls",
+        "Arnold Town FC U8 Girls",
+        "Arnold Town FC U9 Girls",
+        "Arnold Town FC U9 Girls Maroon",
+        "Arnold Town FC Women",
+        "Arnold Town Maroon U12",
+        "Arnold Town Maroon U13",
         "Arnold Town Reserves",
         "Arnold Town U7",
         "Arnold Town White U12",
@@ -8264,28 +8256,6 @@
       ]
     },
     {
-      "name": "Arnold Town FC",
-      "slug": "arnold-town-fc",
-      "teams": [
-        "Arnold Town FC",
-        "Arnold Town FC Development",
-        "Arnold Town FC U10 Girls",
-        "Arnold Town FC U13 Girls",
-        "Arnold Town FC U8 Girls",
-        "Arnold Town FC U9 Girls",
-        "Arnold Town FC U9 Girls Maroon",
-        "Arnold Town FC Women"
-      ]
-    },
-    {
-      "name": "Arnold Town Maroon",
-      "slug": "arnold-town-maroon",
-      "teams": [
-        "Arnold Town Maroon U12",
-        "Arnold Town Maroon U13"
-      ]
-    },
-    {
       "name": "Asfordby",
       "slug": "asfordby",
       "teams": [
@@ -8294,8 +8264,8 @@
       ]
     },
     {
-      "name": "Ashby United Mavericks",
-      "slug": "ashby-united-mavericks",
+      "name": "Ashby United",
+      "slug": "ashby-united",
       "teams": [
         "Ashby United Mavericks U13",
         "Ashby United Mavericks U14"
@@ -8310,8 +8280,8 @@
       ]
     },
     {
-      "name": "Ashland Rovers FC",
-      "slug": "ashland-rovers-fc",
+      "name": "Ashland Rovers",
+      "slug": "ashland-rovers",
       "teams": [
         "Ashland Rovers F.C. First",
         "Ashland Rovers F.C. Reserves"
@@ -8397,20 +8367,10 @@
       ]
     },
     {
-      "name": "Barlborough Juniors Lionesses",
-      "slug": "barlborough-juniors-lionesses",
+      "name": "Barlborough Juniors",
+      "slug": "barlborough-juniors",
       "teams": [
         "Barlborough Juniors U15 Lionesses"
-      ]
-    },
-    {
-      "name": "Barrowby",
-      "slug": "barrowby",
-      "teams": [
-        "Barrowby Junior Black U13",
-        "Barrowby Junior Green U11",
-        "Barrowby Junior Green U13",
-        "Barrowby Junior Greens U14"
       ]
     },
     {
@@ -8425,6 +8385,16 @@
         "Barrowby FC Green U7",
         "Barrowby FC Green U8",
         "Barrowby FC U9"
+      ]
+    },
+    {
+      "name": "Barrowby Junior",
+      "slug": "barrowby-junior",
+      "teams": [
+        "Barrowby Junior Black U13",
+        "Barrowby Junior Green U11",
+        "Barrowby Junior Green U13",
+        "Barrowby Junior Greens U14"
       ]
     },
     {
@@ -8443,30 +8413,18 @@
       "slug": "basford-united",
       "teams": [
         "Basford United Ambers U14",
+        "Basford United F.C. Ladies First",
+        "Basford United F.C. U13 Girls",
+        "Basford United F.C. U15 Girls",
+        "Basford United FC Amber U14",
+        "Basford United FC Yellow U13",
         "Basford United Girls U10 ^^",
+        "Basford United Iconz U12",
         "Basford United Lions U12",
         "Basford United Madrid U13",
         "Basford United Silva U12",
         "Basford United United U12",
         "Basford United Yellow U13"
-      ]
-    },
-    {
-      "name": "Basford United FC",
-      "slug": "basford-united-fc",
-      "teams": [
-        "Basford United F.C. Ladies First",
-        "Basford United F.C. U13 Girls",
-        "Basford United F.C. U15 Girls",
-        "Basford United FC Amber U14",
-        "Basford United FC Yellow U13"
-      ]
-    },
-    {
-      "name": "Basford United Iconz",
-      "slug": "basford-united-iconz",
-      "teams": [
-        "Basford United Iconz U12"
       ]
     },
     {
@@ -8530,15 +8488,15 @@
       ]
     },
     {
-      "name": "Belper Town Juniors",
-      "slug": "belper-town-juniors",
+      "name": "Belper Town",
+      "slug": "belper-town",
       "teams": [
         "Belper Town Juniors U18 Girls"
       ]
     },
     {
-      "name": "Berry Hill United",
-      "slug": "berry-hill-united",
+      "name": "Berry Hill",
+      "slug": "berry-hill",
       "teams": [
         "Berry Hill United U11"
       ]
@@ -8554,8 +8512,8 @@
       ]
     },
     {
-      "name": "Bilborough TRD FC",
-      "slug": "bilborough-trd-fc",
+      "name": "Bilborough TRD",
+      "slug": "bilborough-trd",
       "teams": [
         "Bilborough TRD FC",
         "Bilborough TRD FC U12"
@@ -8581,6 +8539,21 @@
         "Bingham Town Blue U7",
         "Bingham Town Blue U8",
         "Bingham Town Blue U9",
+        "Bingham Town F.C. Development",
+        "Bingham Town F.C. U10 Girls",
+        "Bingham Town F.C. U11 Girls",
+        "Bingham Town F.C. U12 Girls Blue",
+        "Bingham Town F.C. U12 Girls Red",
+        "Bingham Town F.C. U13 Girls Blue",
+        "Bingham Town F.C. U13 Girls Red",
+        "Bingham Town F.C. U14 Girls Red",
+        "Bingham Town F.C. U15 Girls",
+        "Bingham Town F.C. U16 Girls",
+        "Bingham Town F.C. U7 Girls",
+        "Bingham Town F.C. U8 Girls",
+        "Bingham Town F.C. U9 Girls",
+        "Bingham Town FC",
+        "Bingham Town FC Women Red",
         "Bingham Town Red U10",
         "Bingham Town Red U11",
         "Bingham Town Red U12",
@@ -8596,27 +8569,6 @@
         "Bingham Town White U7",
         "Bingham Town White U8",
         "Bingham Town White U9"
-      ]
-    },
-    {
-      "name": "Bingham Town FC",
-      "slug": "bingham-town-fc",
-      "teams": [
-        "Bingham Town F.C. Development",
-        "Bingham Town F.C. U10 Girls",
-        "Bingham Town F.C. U11 Girls",
-        "Bingham Town F.C. U12 Girls Blue",
-        "Bingham Town F.C. U12 Girls Red",
-        "Bingham Town F.C. U13 Girls Blue",
-        "Bingham Town F.C. U13 Girls Red",
-        "Bingham Town F.C. U14 Girls Red",
-        "Bingham Town F.C. U15 Girls",
-        "Bingham Town F.C. U16 Girls",
-        "Bingham Town F.C. U7 Girls",
-        "Bingham Town F.C. U8 Girls",
-        "Bingham Town F.C. U9 Girls",
-        "Bingham Town FC",
-        "Bingham Town FC Women Red"
       ]
     },
     {
@@ -8653,42 +8605,54 @@
       ]
     },
     {
-      "name": "Borrowash",
-      "slug": "borrowash",
-      "teams": [
-        "Borrowash Youth Lions U11",
-        "Borrowash Youth Panthers U11",
-        "Borrowash Youth Tigers U10"
-      ]
-    },
-    {
       "name": "Borrowash Youth",
       "slug": "borrowash-youth",
       "teams": [
         "Borrowash Youth Jaguars U10",
         "Borrowash Youth Leopards U9",
+        "Borrowash Youth Lions U11",
         "Borrowash Youth Lynx U7",
-        "Borrowash Youth Rams U11"
+        "Borrowash Youth Panthers U11",
+        "Borrowash Youth Rams U11",
+        "Borrowash Youth Tigers U10"
       ]
     },
     {
       "name": "Bottesford",
       "slug": "bottesford",
       "teams": [
+        "Bottesford FC Blue U14",
+        "Bottesford White U13",
+        "Bottesford Women"
+      ]
+    },
+    {
+      "name": "Bottesford Blue",
+      "slug": "bottesford-blue",
+      "teams": [
         "Bottesford Blue U10",
         "Bottesford Blue U11",
         "Bottesford Blue U12",
         "Bottesford Blue U8",
         "Bottesford Blue U9",
-        "Bottesford FC Blue U14",
+        "Bottesford U7 Blue"
+      ]
+    },
+    {
+      "name": "Bottesford Girls",
+      "slug": "bottesford-girls",
+      "teams": [
         "Bottesford U10 Girls",
         "Bottesford U11 Girls",
         "Bottesford U14 Girls",
         "Bottesford U15 Girls",
-        "Bottesford U7 Blue",
-        "Bottesford U8 Girls",
-        "Bottesford White U13",
-        "Bottesford Women",
+        "Bottesford U8 Girls"
+      ]
+    },
+    {
+      "name": "Bottesford Yellow",
+      "slug": "bottesford-yellow",
+      "teams": [
         "Bottesford Yellow U10",
         "Bottesford Yellow U11",
         "Bottesford Yellow U12",
@@ -8707,6 +8671,8 @@
         "Breaston Park Green U14",
         "Breaston Park Green U7",
         "Breaston Park Green U9",
+        "Breaston Park Shard Falcons U8",
+        "Breaston Park Shard Titans U8",
         "Breaston Park U10",
         "Breaston Park U8",
         "Breaston Park U9",
@@ -8714,23 +8680,15 @@
       ]
     },
     {
-      "name": "Breaston Park Shard",
-      "slug": "breaston-park-shard",
-      "teams": [
-        "Breaston Park Shard Falcons U8",
-        "Breaston Park Shard Titans U8"
-      ]
-    },
-    {
-      "name": "Brodsworth Welfare AFC- Warriors",
-      "slug": "brodsworth-welfare-afc-warriors",
+      "name": "Brodsworth Welfare AFC-",
+      "slug": "brodsworth-welfare-afc",
       "teams": [
         "Brodsworth Welfare AFC- Warriors U16"
       ]
     },
     {
-      "name": "Broxtowe United FC",
-      "slug": "broxtowe-united-fc",
+      "name": "Broxtowe United",
+      "slug": "broxtowe-united",
       "teams": [
         "Broxtowe United F.C. Youth U18 Ladies"
       ]
@@ -8754,30 +8712,18 @@
         "Burton Joyce Blue U14",
         "Burton Joyce Blue U7",
         "Burton Joyce Blue U9",
+        "Burton Joyce F.C. Girls U12 Olympians",
+        "Burton Joyce F.C. Girls U12 Outlaws",
+        "Burton Joyce F.C. Girls U14",
+        "Burton Joyce F.C. Girls U15 Green",
+        "Burton Joyce F.C. Girls U16",
+        "Burton Joyce F.C. U23",
         "Burton Joyce Green U10",
         "Burton Joyce Green U11",
         "Burton Joyce Green U12",
         "Burton Joyce Green U9",
         "Burton Joyce Red U14",
         "Burton Joyce U8"
-      ]
-    },
-    {
-      "name": "Burton Joyce FC",
-      "slug": "burton-joyce-fc",
-      "teams": [
-        "Burton Joyce F.C. Girls U14",
-        "Burton Joyce F.C. Girls U15 Green",
-        "Burton Joyce F.C. Girls U16",
-        "Burton Joyce F.C. U23"
-      ]
-    },
-    {
-      "name": "Burton Joyce FC Girls",
-      "slug": "burton-joyce-fc-girls",
-      "teams": [
-        "Burton Joyce F.C. Girls U12 Olympians",
-        "Burton Joyce F.C. Girls U12 Outlaws"
       ]
     },
     {
@@ -8802,21 +8748,15 @@
       ]
     },
     {
-      "name": "Calverton Miners Welfare",
-      "slug": "calverton-miners-welfare",
-      "teams": [
-        "Calverton Miners Welfare Reserves",
-        "Calverton Miners Welfare U10",
-        "Calverton Miners Welfare U23"
-      ]
-    },
-    {
-      "name": "Calverton Miners Welfare FC",
-      "slug": "calverton-miners-welfare-fc",
+      "name": "Calverton Miners",
+      "slug": "calverton-miners",
       "teams": [
         "Calverton Miners Welfare FC",
         "Calverton Miners Welfare FC U11 Girls",
-        "Calverton Miners Welfare FC U13"
+        "Calverton Miners Welfare FC U13",
+        "Calverton Miners Welfare Reserves",
+        "Calverton Miners Welfare U10",
+        "Calverton Miners Welfare U23"
       ]
     },
     {
@@ -8832,13 +8772,7 @@
       "teams": [
         "Canoville FC Dev Girls U13^",
         "Canoville FC Gold U13",
-        "Canoville FC Tornados U9"
-      ]
-    },
-    {
-      "name": "Canoville FC FC",
-      "slug": "canoville-fc-fc",
-      "teams": [
+        "Canoville FC Tornados U9",
         "Canoville FC U10 FC Gold",
         "Canoville FC U13 FC Bulldogs"
       ]
@@ -8903,15 +8837,15 @@
       ]
     },
     {
-      "name": "City United FC",
-      "slug": "city-united-fc",
+      "name": "City United",
+      "slug": "city-united",
       "teams": [
         "City United FC"
       ]
     },
     {
-      "name": "Clay Cross Town Bulldogs",
-      "slug": "clay-cross-town-bulldogs",
+      "name": "Clay Cross",
+      "slug": "clay-cross",
       "teams": [
         "Clay Cross Town Bulldogs U11",
         "Clay Cross Town Bulldogs U12"
@@ -8974,43 +8908,29 @@
       "name": "Club FDNA",
       "slug": "club-fdna",
       "teams": [
+        "Club FDNA Barca U10",
+        "Club FDNA Barca U9",
         "Club FDNA Brasilia U10",
         "Club FDNA Forest U7",
+        "Club FDNA Madrid U10",
+        "Club FDNA Madrid U11",
         "Club FDNA Marseille U8",
         "Club FDNA Milan U9",
         "Club FDNA Munich U9",
         "Club FDNA Napoli U9",
-        "Club FDNA United U7"
-      ]
-    },
-    {
-      "name": "Club FDNA Barca",
-      "slug": "club-fdna-barca",
-      "teams": [
-        "Club FDNA Barca U10",
-        "Club FDNA Barca U9"
-      ]
-    },
-    {
-      "name": "Club FDNA Madrid",
-      "slug": "club-fdna-madrid",
-      "teams": [
-        "Club FDNA Madrid U10",
-        "Club FDNA Madrid U11"
-      ]
-    },
-    {
-      "name": "Club FDNA Santos",
-      "slug": "club-fdna-santos",
-      "teams": [
         "Club FDNA Santos U8",
-        "Club FDNA Santos U9"
+        "Club FDNA Santos U9",
+        "Club FDNA United U7"
       ]
     },
     {
       "name": "Coalville Town",
       "slug": "coalville-town",
       "teams": [
+        "Coalville Town Ravens U13",
+        "Coalville Town Ravens U13 Ravens",
+        "Coalville Town Ravens U14 Ravenettes",
+        "Coalville Town Ravens U8",
         "Coalville Town Rooks U12"
       ]
     },
@@ -9020,16 +8940,6 @@
       "teams": [
         "Coalville Town Ravenettes U10 ^",
         "Coalville Town Ravenettes U11^"
-      ]
-    },
-    {
-      "name": "Coalville Town Ravens",
-      "slug": "coalville-town-ravens",
-      "teams": [
-        "Coalville Town Ravens U13",
-        "Coalville Town Ravens U13 Ravens",
-        "Coalville Town Ravens U14 Ravenettes",
-        "Coalville Town Ravens U8"
       ]
     },
     {
@@ -9053,6 +8963,13 @@
       "slug": "collingham-fc",
       "teams": [
         "Collingham FC",
+        "Collingham FC Cougars U10",
+        "Collingham FC Cougars U11",
+        "Collingham FC Cougars U12",
+        "Collingham FC Cougars U14",
+        "Collingham FC Cougars U7",
+        "Collingham FC Cougars U8",
+        "Collingham FC Cougars U9",
         "Collingham FC Development",
         "Collingham FC Lions U10",
         "Collingham FC Lions U11",
@@ -9064,19 +8981,6 @@
         "Collingham FC Lions U9",
         "Collingham FC Panthers U10",
         "Collingham FC Tigers U14"
-      ]
-    },
-    {
-      "name": "Collingham FC Cougars",
-      "slug": "collingham-fc-cougars",
-      "teams": [
-        "Collingham FC Cougars U10",
-        "Collingham FC Cougars U11",
-        "Collingham FC Cougars U12",
-        "Collingham FC Cougars U14",
-        "Collingham FC Cougars U7",
-        "Collingham FC Cougars U8",
-        "Collingham FC Cougars U9"
       ]
     },
     {
@@ -9099,6 +9003,14 @@
         "Cotgrave FC Blue U13",
         "Cotgrave FC Blue U14",
         "Cotgrave FC Blue U9",
+        "Cotgrave FC Claret U10",
+        "Cotgrave FC Claret U11",
+        "Cotgrave FC Claret U12",
+        "Cotgrave FC Claret U13",
+        "Cotgrave FC Claret U14",
+        "Cotgrave FC Claret U7",
+        "Cotgrave FC Claret U8",
+        "Cotgrave FC Claret U9",
         "Cotgrave FC Green U10",
         "Cotgrave FC Ladies",
         "Cotgrave FC U11 Girls",
@@ -9109,20 +9021,6 @@
         "Cotgrave FC White U10",
         "Cotgrave FC White U12",
         "Cotgrave FC White U13"
-      ]
-    },
-    {
-      "name": "Cotgrave FC Claret",
-      "slug": "cotgrave-fc-claret",
-      "teams": [
-        "Cotgrave FC Claret U10",
-        "Cotgrave FC Claret U11",
-        "Cotgrave FC Claret U12",
-        "Cotgrave FC Claret U13",
-        "Cotgrave FC Claret U14",
-        "Cotgrave FC Claret U7",
-        "Cotgrave FC Claret U8",
-        "Cotgrave FC Claret U9"
       ]
     },
     {
@@ -9159,12 +9057,20 @@
         "DLFC Blue U8",
         "DLFC Blue U9",
         "DLFC Boca U8",
+        "DLFC Emerald U10",
+        "DLFC Emerald U7",
+        "DLFC Emerald U8",
+        "DLFC Emerald U9",
         "DLFC Gold U10",
         "DLFC Gold U14",
         "DLFC Gold U8",
         "DLFC Green U11",
         "DLFC Green U8",
         "DLFC Green U9",
+        "DLFC Grey U10",
+        "DLFC Grey U11",
+        "DLFC Grey U14",
+        "DLFC Grey U9",
         "DLFC Lions U9",
         "DLFC Madrid U7",
         "DLFC Orange U11",
@@ -9196,26 +9102,6 @@
       ]
     },
     {
-      "name": "DLFC Emerald",
-      "slug": "dlfc-emerald",
-      "teams": [
-        "DLFC Emerald U10",
-        "DLFC Emerald U7",
-        "DLFC Emerald U8",
-        "DLFC Emerald U9"
-      ]
-    },
-    {
-      "name": "DLFC Grey",
-      "slug": "dlfc-grey",
-      "teams": [
-        "DLFC Grey U10",
-        "DLFC Grey U11",
-        "DLFC Grey U14",
-        "DLFC Grey U9"
-      ]
-    },
-    {
       "name": "Darley Sports",
       "slug": "darley-sports",
       "teams": [
@@ -9231,8 +9117,8 @@
       ]
     },
     {
-      "name": "Duffield Dynamo United",
-      "slug": "duffield-dynamo-united",
+      "name": "Duffield Dynamo",
+      "slug": "duffield-dynamo",
       "teams": [
         "Duffield Dynamo United U13"
       ]
@@ -9260,13 +9146,6 @@
       "name": "East Leake",
       "slug": "east-leake",
       "teams": [
-        "East Leake White U8"
-      ]
-    },
-    {
-      "name": "East Leake Bantams",
-      "slug": "east-leake-bantams",
-      "teams": [
         "East Leake Bantams Black U10",
         "East Leake Bantams Black U11",
         "East Leake Bantams Black U13",
@@ -9286,36 +9165,19 @@
         "East Leake Bantams Red U14",
         "East Leake Bantams Red U9",
         "East Leake Bantams White U11",
-        "East Leake Bantams White U12"
-      ]
-    },
-    {
-      "name": "East Leake FC",
-      "slug": "east-leake-fc",
-      "teams": [
-        "East Leake FC Ladies"
-      ]
-    },
-    {
-      "name": "East Leake FC Bantams",
-      "slug": "east-leake-fc-bantams",
-      "teams": [
+        "East Leake Bantams White U12",
+        "East Leake FC Ladies",
         "East Leake FC U10 Bantams Girls",
         "East Leake FC U9 Bantams Girls",
-        "East Leake FC U9 Bantams Girls Red"
-      ]
-    },
-    {
-      "name": "East Leake Robins",
-      "slug": "east-leake-robins",
-      "teams": [
+        "East Leake FC U9 Bantams Girls Red",
         "East Leake Robins FC",
-        "East Leake Robins Reserves"
+        "East Leake Robins Reserves",
+        "East Leake White U8"
       ]
     },
     {
-      "name": "Eastwood & Kimberley FC",
-      "slug": "eastwood-kimberley-fc",
+      "name": "Eastwood",
+      "slug": "eastwood",
       "teams": [
         "Eastwood & Kimberley F.C. First",
         "Eastwood & Kimberley FC"
@@ -9346,6 +9208,10 @@
       "name": "Eastwood CFC",
       "slug": "eastwood-cfc",
       "teams": [
+        "Eastwood CFC Aces U10",
+        "Eastwood CFC Aces U14",
+        "Eastwood CFC Badgers U13",
+        "Eastwood CFC Badgers U9",
         "Eastwood CFC Black U12",
         "Eastwood CFC Black U13",
         "Eastwood CFC Eagles U12",
@@ -9358,22 +9224,6 @@
         "Eastwood CFC Red U9",
         "Eastwood CFC Reds U8",
         "Eastwood CFC U12 Girls"
-      ]
-    },
-    {
-      "name": "Eastwood CFC Aces",
-      "slug": "eastwood-cfc-aces",
-      "teams": [
-        "Eastwood CFC Aces U10",
-        "Eastwood CFC Aces U14"
-      ]
-    },
-    {
-      "name": "Eastwood CFC Badgers",
-      "slug": "eastwood-cfc-badgers",
-      "teams": [
-        "Eastwood CFC Badgers U13",
-        "Eastwood CFC Badgers U9"
       ]
     },
     {
@@ -9394,15 +9244,15 @@
       ]
     },
     {
-      "name": "Elston United FC",
-      "slug": "elston-united-fc",
+      "name": "Elston United",
+      "slug": "elston-united",
       "teams": [
         "Elston United FC"
       ]
     },
     {
-      "name": "Epworth Town Colts AFC",
-      "slug": "epworth-town-colts-afc",
+      "name": "Epworth Town",
+      "slug": "epworth-town",
       "teams": [
         "Epworth Town Colts AFC U12 Yellow"
       ]
@@ -9490,8 +9340,8 @@
       ]
     },
     {
-      "name": "Gainsborough Trinity Community FC",
-      "slug": "gainsborough-trinity-community-fc",
+      "name": "Gainsborough Trinity",
+      "slug": "gainsborough-trinity",
       "teams": [
         "Gainsborough Trinity Community FC U15"
       ]
@@ -9500,14 +9350,8 @@
       "name": "Gedling FC",
       "slug": "gedling-fc",
       "teams": [
+        "Gedling FC Tigers U12 *",
         "Gedling FC Wanderers U14"
-      ]
-    },
-    {
-      "name": "Gedling FC Tigers",
-      "slug": "gedling-fc-tigers",
-      "teams": [
-        "Gedling FC Tigers U12 *"
       ]
     },
     {
@@ -9516,23 +9360,6 @@
       "teams": [
         "Gedling Southbank Arrows U10",
         "Gedling Southbank Athletic U12",
-        "Gedling Southbank Jaguars U9",
-        "Gedling Southbank Jets U9",
-        "Gedling Southbank Lions U8",
-        "Gedling Southbank Lynx U12",
-        "Gedling Southbank Sambas U9",
-        "Gedling Southbank United U14",
-        "Gedling Southbank Warriors U10",
-        "Gedling Southbank White U13",
-        "Gedling Southbank White U7",
-        "Gedling Southbank Whites U10",
-        "Gedling Southbank Wolves U11"
-      ]
-    },
-    {
-      "name": "Gedling Southbank FC",
-      "slug": "gedling-southbank-fc",
-      "teams": [
         "Gedling Southbank FC",
         "Gedling Southbank FC Ladies",
         "Gedling Southbank FC U10 Wolves",
@@ -9542,7 +9369,20 @@
         "Gedling Southbank FC U14 Warriors",
         "Gedling Southbank FC U16 Dynamos",
         "Gedling Southbank FC U17 Red Devils",
-        "Gedling Southbank FC U9 Tigers"
+        "Gedling Southbank FC U9 Tigers",
+        "Gedling Southbank Jaguars U9",
+        "Gedling Southbank Jets U9",
+        "Gedling Southbank Lions U8",
+        "Gedling Southbank Lynx U12",
+        "Gedling Southbank Sambas U9",
+        "Gedling Southbank Titans U10",
+        "Gedling Southbank Titans U11",
+        "Gedling Southbank United U14",
+        "Gedling Southbank Warriors U10",
+        "Gedling Southbank White U13",
+        "Gedling Southbank White U7",
+        "Gedling Southbank Whites U10",
+        "Gedling Southbank Wolves U11"
       ]
     },
     {
@@ -9554,26 +9394,20 @@
       ]
     },
     {
-      "name": "Gedling Southbank Titans",
-      "slug": "gedling-southbank-titans",
+      "name": "Gonerby",
+      "slug": "gonerby",
       "teams": [
-        "Gedling Southbank Titans U10",
-        "Gedling Southbank Titans U11"
+        "Gonerby U14"
       ]
     },
     {
-      "name": "Gonerby",
-      "slug": "gonerby",
+      "name": "Gonerby Blue",
+      "slug": "gonerby-blue",
       "teams": [
         "Gonerby Blue U10",
         "Gonerby Blue U11",
         "Gonerby Blue U13",
-        "Gonerby Blue U9",
-        "Gonerby U14",
-        "Gonerby Yellow U10",
-        "Gonerby Yellow U11",
-        "Gonerby Yellow U12",
-        "Gonerby Yellow U9"
+        "Gonerby Blue U9"
       ]
     },
     {
@@ -9583,6 +9417,16 @@
         "Gonerby FC Blue U8",
         "Gonerby FC Yellow U13",
         "Gonerby FC Yellow U8"
+      ]
+    },
+    {
+      "name": "Gonerby Yellow",
+      "slug": "gonerby-yellow",
+      "teams": [
+        "Gonerby Yellow U10",
+        "Gonerby Yellow U11",
+        "Gonerby Yellow U12",
+        "Gonerby Yellow U9"
       ]
     },
     {
@@ -9601,6 +9445,8 @@
         "Grantham Town Black U8",
         "Grantham Town Black U9",
         "Grantham Town FC U23",
+        "Grantham Town Grey U8",
+        "Grantham Town Grey U9",
         "Grantham Town Reserves",
         "Grantham Town U10",
         "Grantham Town U11",
@@ -9611,16 +9457,8 @@
       ]
     },
     {
-      "name": "Grantham Town Grey",
-      "slug": "grantham-town-grey",
-      "teams": [
-        "Grantham Town Grey U8",
-        "Grantham Town Grey U9"
-      ]
-    },
-    {
-      "name": "Greenbank JFC Corinthians",
-      "slug": "greenbank-jfc-corinthians",
+      "name": "Greenbank JFC",
+      "slug": "greenbank-jfc",
       "teams": [
         "Greenbank J.F.C. U12 Corinthians"
       ]
@@ -9650,8 +9488,8 @@
       ]
     },
     {
-      "name": "Heanor",
-      "slug": "heanor",
+      "name": "Heanor Junior",
+      "slug": "heanor-junior",
       "teams": [
         "Heanor Junior Raptors U7",
         "Heanor Junior Tigers U7"
@@ -9668,13 +9506,7 @@
         "Heanor Juniors Predators U10",
         "Heanor Juniors Rams U11",
         "Heanor Juniors Rhinos U8",
-        "Heanor Juniors Spartans U12"
-      ]
-    },
-    {
-      "name": "Heanor Juniors Ultras",
-      "slug": "heanor-juniors-ultras",
-      "teams": [
+        "Heanor Juniors Spartans U12",
         "Heanor Juniors Ultras U12"
       ]
     },
@@ -9688,6 +9520,8 @@
         "Heanor Town Harriers U11",
         "Heanor Town Hot Dogs U8",
         "Heanor Town Hurricanes U11",
+        "Heanor Town Juniors U14 Diamonds",
+        "Heanor Town Juniors U16 Tornados",
         "Heanor Town Panthers U12",
         "Heanor Town Phoenix U11",
         "Heanor Town Sambas U14",
@@ -9695,14 +9529,6 @@
         "Heanor Town Titans U10",
         "Heanor Town Vikings U10",
         "Heanor Town Vipers U9"
-      ]
-    },
-    {
-      "name": "Heanor Town Juniors",
-      "slug": "heanor-town-juniors",
-      "teams": [
-        "Heanor Town Juniors U14 Diamonds",
-        "Heanor Town Juniors U16 Tornados"
       ]
     },
     {
@@ -9747,37 +9573,31 @@
       ]
     },
     {
-      "name": "Holy Spirit Celtic FC",
-      "slug": "holy-spirit-celtic-fc",
+      "name": "Holy Spirit",
+      "slug": "holy-spirit",
       "teams": [
         "Holy Spirit Celtic FC U15"
       ]
     },
     {
-      "name": "Horncastle Town FC First",
-      "slug": "horncastle-town-fc-first",
+      "name": "Horncastle Town",
+      "slug": "horncastle-town",
       "teams": [
         "Horncastle Town FC First"
       ]
     },
     {
-      "name": "Hucknall & Linby Harriers FC",
-      "slug": "hucknall-linby-harriers-fc",
+      "name": "Hucknall",
+      "slug": "hucknall",
       "teams": [
         "Hucknall & Linby Harriers FC U10",
         "Hucknall & Linby Harriers FC U12",
+        "Hucknall & Linby Harriers FC U12 Jets",
         "Hucknall & Linby Harriers FC U13",
         "Hucknall & Linby Harriers FC U14",
+        "Hucknall & Linby Harriers FC U14 Jets",
         "Hucknall & Linby Harriers FC U15",
         "Hucknall & Linby Harriers FC U9"
-      ]
-    },
-    {
-      "name": "Hucknall & Linby Harriers FC Jets",
-      "slug": "hucknall-linby-harriers-fc-jets",
-      "teams": [
-        "Hucknall & Linby Harriers FC U12 Jets",
-        "Hucknall & Linby Harriers FC U14 Jets"
       ]
     },
     {
@@ -9790,6 +9610,8 @@
         "Hucknall Sports Black U9",
         "Hucknall Sports Blue U10",
         "Hucknall Sports Blue U11",
+        "Hucknall Sports F.C. Youth U10 Lionesses",
+        "Hucknall Sports F.C. Youth U9 Wildcats",
         "Hucknall Sports Red U10",
         "Hucknall Sports Red U11",
         "Hucknall Sports Red U12",
@@ -9807,26 +9629,12 @@
       ]
     },
     {
-      "name": "Hucknall Sports FC Youth",
-      "slug": "hucknall-sports-fc-youth",
-      "teams": [
-        "Hucknall Sports F.C. Youth U10 Lionesses",
-        "Hucknall Sports F.C. Youth U9 Wildcats"
-      ]
-    },
-    {
       "name": "Hucknall Town",
       "slug": "hucknall-town",
       "teams": [
         "Hucknall Town FC Women",
         "Hucknall Town Reserves",
-        "Hucknall Town Warr Red U8"
-      ]
-    },
-    {
-      "name": "Hucknall Town Warriors",
-      "slug": "hucknall-town-warriors",
-      "teams": [
+        "Hucknall Town Warr Red U8",
         "Hucknall Town Warriors Red U8",
         "Hucknall Town Warriors U10",
         "Hucknall Town Warriors U11",
@@ -9860,6 +9668,10 @@
         "Ilkeston Town Panthers U13",
         "Ilkeston Town Raptors U14",
         "Ilkeston Town Reds U14",
+        "Ilkeston Town Robins U12",
+        "Ilkeston Town Robins U13",
+        "Ilkeston Town Robins U14",
+        "Ilkeston Town Robins U7",
         "Ilkeston Town Roma U12",
         "Ilkeston Town Saxons U9",
         "Ilkeston Town Titans U9",
@@ -9869,16 +9681,6 @@
         "Ilkeston Town White Star U14",
         "Ilkeston Town Wolfpack U11",
         "Ilkeston Town Zurich U8"
-      ]
-    },
-    {
-      "name": "Ilkeston Town Robins",
-      "slug": "ilkeston-town-robins",
-      "teams": [
-        "Ilkeston Town Robins U12",
-        "Ilkeston Town Robins U13",
-        "Ilkeston Town Robins U14",
-        "Ilkeston Town Robins U7"
       ]
     },
     {
@@ -9894,6 +9696,8 @@
       "teams": [
         "Inspire Nottingham Black U7",
         "Inspire Nottingham Black U8",
+        "Inspire Nottingham FC Black U8",
+        "Inspire Nottingham FC Red U13",
         "Inspire Nottingham Red U13",
         "Inspire Nottingham Red U8",
         "Inspire Nottingham U9",
@@ -9901,16 +9705,8 @@
       ]
     },
     {
-      "name": "Inspire Nottingham FC",
-      "slug": "inspire-nottingham-fc",
-      "teams": [
-        "Inspire Nottingham FC Black U8",
-        "Inspire Nottingham FC Red U13"
-      ]
-    },
-    {
-      "name": "Ketton Sports FC",
-      "slug": "ketton-sports-fc",
+      "name": "Ketton Sports",
+      "slug": "ketton-sports",
       "teams": [
         "Ketton Sports FC U13 Blue"
       ]
@@ -9938,6 +9734,27 @@
         "Keyworth United Blue U12",
         "Keyworth United Blue U7",
         "Keyworth United Cyan U13",
+        "Keyworth United F.C. U10 Leopards",
+        "Keyworth United F.C. U11 Jaguars",
+        "Keyworth United F.C. U11 Lionesses",
+        "Keyworth United F.C. U11 Tigers",
+        "Keyworth United F.C. U12 Shooting Stars",
+        "Keyworth United F.C. U12 Vipers",
+        "Keyworth United F.C. U12 Warriors",
+        "Keyworth United F.C. U13 Fireworks",
+        "Keyworth United F.C. U13 Girls",
+        "Keyworth United F.C. U13 Rockets",
+        "Keyworth United F.C. U14 Raptors",
+        "Keyworth United F.C. U14 Thunder",
+        "Keyworth United F.C. U15 Kobras",
+        "Keyworth United F.C. U15 Predators",
+        "Keyworth United F.C. U16 Emeralds",
+        "Keyworth United F.C. U16 Wildcats",
+        "Keyworth United F.C. U8 Dragons",
+        "Keyworth United F.C. U9 Comets",
+        "Keyworth United FC",
+        "Keyworth United FC Development",
+        "Keyworth United FC First",
         "Keyworth United Green U10",
         "Keyworth United Green U11",
         "Keyworth United Green U12",
@@ -9967,42 +9784,15 @@
       ]
     },
     {
-      "name": "Keyworth United FC",
-      "slug": "keyworth-united-fc",
-      "teams": [
-        "Keyworth United F.C. U10 Leopards",
-        "Keyworth United F.C. U11 Jaguars",
-        "Keyworth United F.C. U11 Lionesses",
-        "Keyworth United F.C. U11 Tigers",
-        "Keyworth United F.C. U12 Shooting Stars",
-        "Keyworth United F.C. U12 Vipers",
-        "Keyworth United F.C. U12 Warriors",
-        "Keyworth United F.C. U13 Fireworks",
-        "Keyworth United F.C. U13 Girls",
-        "Keyworth United F.C. U13 Rockets",
-        "Keyworth United F.C. U14 Raptors",
-        "Keyworth United F.C. U14 Thunder",
-        "Keyworth United F.C. U15 Kobras",
-        "Keyworth United F.C. U15 Predators",
-        "Keyworth United F.C. U16 Emeralds",
-        "Keyworth United F.C. U16 Wildcats",
-        "Keyworth United F.C. U8 Dragons",
-        "Keyworth United F.C. U9 Comets",
-        "Keyworth United FC",
-        "Keyworth United FC Development",
-        "Keyworth United FC First"
-      ]
-    },
-    {
-      "name": "Kibworth Town Falcons",
-      "slug": "kibworth-town-falcons",
+      "name": "Kibworth Town",
+      "slug": "kibworth-town",
       "teams": [
         "Kibworth Town U13 Falcons"
       ]
     },
     {
-      "name": "Kimberley Miners Welfare",
-      "slug": "kimberley-miners-welfare",
+      "name": "Kimberley Miners",
+      "slug": "kimberley-miners",
       "teams": [
         "Kimberley Miners Welfare Reserves"
       ]
@@ -10028,8 +9818,8 @@
       ]
     },
     {
-      "name": "Kirton Brickworks FC First",
-      "slug": "kirton-brickworks-fc-first",
+      "name": "Kirton Brickworks",
+      "slug": "kirton-brickworks",
       "teams": [
         "Kirton Brickworks F.C. First"
       ]
@@ -10044,8 +9834,8 @@
       ]
     },
     {
-      "name": "Linby Colliery Welfare",
-      "slug": "linby-colliery-welfare",
+      "name": "Linby Colliery",
+      "slug": "linby-colliery",
       "teams": [
         "Linby Colliery Welfare Development",
         "Linby Colliery Welfare F.C. First"
@@ -10062,24 +9852,18 @@
       "name": "Long Bennington",
       "slug": "long-bennington",
       "teams": [
+        "Long Bennington FC U11",
+        "Long Bennington FC U12",
+        "Long Bennington FC U18 Girls",
+        "Long Bennington FC U7",
+        "Long Bennington FC U9",
         "Long Bennington U10",
         "Long Bennington U14"
       ]
     },
     {
-      "name": "Long Bennington FC",
-      "slug": "long-bennington-fc",
-      "teams": [
-        "Long Bennington FC U11",
-        "Long Bennington FC U12",
-        "Long Bennington FC U18 Girls",
-        "Long Bennington FC U7",
-        "Long Bennington FC U9"
-      ]
-    },
-    {
-      "name": "Long Eaton United",
-      "slug": "long-eaton-united",
+      "name": "Long Eaton",
+      "slug": "long-eaton",
       "teams": [
         "Long Eaton United Atalanta U8",
         "Long Eaton United Athletico U8",
@@ -10134,8 +9918,8 @@
       ]
     },
     {
-      "name": "Lowdham Colts FC",
-      "slug": "lowdham-colts-fc",
+      "name": "Lowdham Colts",
+      "slug": "lowdham-colts",
       "teams": [
         "Lowdham Colts F.C. Youth U12 Girls",
         "Lowdham Colts F.C. Youth U15 Girls",
@@ -10170,20 +9954,14 @@
       "name": "Lutterworth Athletic",
       "slug": "lutterworth-athletic",
       "teams": [
-        "Lutterworth Athletic Hurricane U11"
-      ]
-    },
-    {
-      "name": "Lutterworth Athletic Youth",
-      "slug": "lutterworth-athletic-youth",
-      "teams": [
+        "Lutterworth Athletic Hurricane U11",
         "Lutterworth Athletic Youth U14 Hurricane",
         "Lutterworth Athletic Youth U15 Monsoon"
       ]
     },
     {
-      "name": "Magna 73 Juniors",
-      "slug": "magna-73-juniors",
+      "name": "Magna 73",
+      "slug": "magna-73",
       "teams": [
         "Magna 73 Juniors U10"
       ]
@@ -10219,60 +9997,42 @@
       ]
     },
     {
-      "name": "Mansfield Town FC",
-      "slug": "mansfield-town-fc",
+      "name": "Mansfield Town",
+      "slug": "mansfield-town",
       "teams": [
         "Mansfield Town F.C. Girls U12",
         "Mansfield Town F.C. Girls U13",
         "Mansfield Town F.C. Girls U14",
-        "Mansfield Town F.C. Girls U15"
-      ]
-    },
-    {
-      "name": "Mansfield Town Grassroots",
-      "slug": "mansfield-town-grassroots",
-      "teams": [
+        "Mansfield Town F.C. Girls U15",
         "Mansfield Town Grassroots Blue U11",
         "Mansfield Town Grassroots Blue U12",
         "Mansfield Town Grassroots U10",
         "Mansfield Town Grassroots U13",
         "Mansfield Town Grassroots U14",
         "Mansfield Town Grassroots U9",
-        "Mansfield Town Grassroots Y/W U12"
-      ]
-    },
-    {
-      "name": "Mansfield Town Ladies FC",
-      "slug": "mansfield-town-ladies-fc",
-      "teams": [
+        "Mansfield Town Grassroots Y/W U12",
         "Mansfield Town Ladies F.C. First",
         "Mansfield Town Ladies FC Development"
       ]
     },
     {
-      "name": "Mapperley All Stars",
-      "slug": "mapperley-all-stars",
+      "name": "Mapperley All",
+      "slug": "mapperley-all",
       "teams": [
         "Mapperley All Stars Blue U10",
         "Mapperley All Stars Blue U13",
         "Mapperley All Stars Blue U8",
         "Mapperley All Stars Blue U9",
         "Mapperley All Stars F.C. U8 Stripes",
+        "Mapperley All Stars Stripes U10",
+        "Mapperley All Stars Stripes U11",
+        "Mapperley All Stars Stripes U9",
         "Mapperley All Stars United U14",
         "Mapperley All Stars Yellow U12",
         "Mapperley All Stars Yellow U13",
         "Mapperley All Stars Yellow U7",
         "Mapperley All Stars Yellow U8",
         "Mapperley All Stars Yellow U9"
-      ]
-    },
-    {
-      "name": "Mapperley All Stars Stripes",
-      "slug": "mapperley-all-stars-stripes",
-      "teams": [
-        "Mapperley All Stars Stripes U10",
-        "Mapperley All Stars Stripes U11",
-        "Mapperley All Stars Stripes U9"
       ]
     },
     {
@@ -10287,6 +10047,10 @@
       "slug": "market-warsop",
       "teams": [
         "Market Warsop Colts U13",
+        "Market Warsop F.C. Youth U10 Lionesses",
+        "Market Warsop F.C. Youth U14 Lionesses",
+        "Market Warsop F.C. Youth U8 Wildcats",
+        "Market Warsop F.C. Youth U9 Wildcats",
         "Market Warsop Linden U10",
         "Market Warsop Lions U8",
         "Market Warsop Mavericks U11",
@@ -10294,31 +10058,9 @@
         "Market Warsop Panthers U10",
         "Market Warsop Raiders U9",
         "Market Warsop Rangers U10",
-        "Market Warsop Warriors U13"
-      ]
-    },
-    {
-      "name": "Market Warsop FC Youth Lionesses",
-      "slug": "market-warsop-fc-youth-lionesses",
-      "teams": [
-        "Market Warsop F.C. Youth U10 Lionesses",
-        "Market Warsop F.C. Youth U14 Lionesses"
-      ]
-    },
-    {
-      "name": "Market Warsop FC Youth Wildcats",
-      "slug": "market-warsop-fc-youth-wildcats",
-      "teams": [
-        "Market Warsop F.C. Youth U8 Wildcats",
-        "Market Warsop F.C. Youth U9 Wildcats"
-      ]
-    },
-    {
-      "name": "Market Warsop Stags",
-      "slug": "market-warsop-stags",
-      "teams": [
         "Market Warsop Stags U13",
-        "Market Warsop Stags U8"
+        "Market Warsop Stags U8",
+        "Market Warsop Warriors U13"
       ]
     },
     {
@@ -10332,13 +10074,7 @@
       "name": "Matlock Town",
       "slug": "matlock-town",
       "teams": [
-        "Matlock Town Junior U12 Girls Gladiators"
-      ]
-    },
-    {
-      "name": "Matlock Town Juniors",
-      "slug": "matlock-town-juniors",
-      "teams": [
+        "Matlock Town Junior U12 Girls Gladiators",
         "Matlock Town Juniors U11",
         "Matlock Town Juniors U11 Girls",
         "Matlock Town Juniors U14 's Gladiators",
@@ -10350,28 +10086,6 @@
       "name": "Meden Vale",
       "slug": "meden-vale",
       "teams": [
-        "Meden Vale Reds U9"
-      ]
-    },
-    {
-      "name": "Meden Vale Colts",
-      "slug": "meden-vale-colts",
-      "teams": [
-        "Meden Vale Colts Gold U11",
-        "Meden Vale Colts Gold U13",
-        "Meden Vale Colts Gold U14",
-        "Meden Vale Colts Gold U8",
-        "Meden Vale Colts Green U11",
-        "Meden Vale Colts Green U7",
-        "Meden Vale Colts Red U11",
-        "Meden Vale Colts Red U14",
-        "Meden Vale Colts Red U8"
-      ]
-    },
-    {
-      "name": "Meden Vale Colts FC",
-      "slug": "meden-vale-colts-fc",
-      "teams": [
         "Meden Vale Colts F.C. U10 Girls",
         "Meden Vale Colts F.C. U11 Girls",
         "Meden Vale Colts F.C. U13 Girls",
@@ -10381,7 +10095,17 @@
         "Meden Vale Colts F.C. U7 Girls",
         "Meden Vale Colts F.C. U9 Girls",
         "Meden Vale Colts FC",
-        "Meden Vale Colts FC Ladies"
+        "Meden Vale Colts FC Ladies",
+        "Meden Vale Colts Gold U11",
+        "Meden Vale Colts Gold U13",
+        "Meden Vale Colts Gold U14",
+        "Meden Vale Colts Gold U8",
+        "Meden Vale Colts Green U11",
+        "Meden Vale Colts Green U7",
+        "Meden Vale Colts Red U11",
+        "Meden Vale Colts Red U14",
+        "Meden Vale Colts Red U8",
+        "Meden Vale Reds U9"
       ]
     },
     {
@@ -10413,8 +10137,8 @@
       ]
     },
     {
-      "name": "Midway FC Vipers",
-      "slug": "midway-fc-vipers",
+      "name": "Midway FC",
+      "slug": "midway-fc",
       "teams": [
         "Midway FC Vipers U11"
       ]
@@ -10489,65 +10213,35 @@
       "name": "Newark Brazil",
       "slug": "newark-brazil",
       "teams": [
-        "Newark Brazil Cruzeiro U10",
-        "Newark Brazil U14"
-      ]
-    },
-    {
-      "name": "Newark Brazil Corinthians",
-      "slug": "newark-brazil-corinthians",
-      "teams": [
         "Newark Brazil Corinthians U10",
         "Newark Brazil Corinthians U11",
         "Newark Brazil Corinthians U12",
         "Newark Brazil Corinthians U13",
         "Newark Brazil Corinthians U8",
-        "Newark Brazil Corinthians U9"
-      ]
-    },
-    {
-      "name": "Newark Brazil FC",
-      "slug": "newark-brazil-fc",
-      "teams": [
+        "Newark Brazil Corinthians U9",
+        "Newark Brazil Cruzeiro U10",
         "Newark Brazil F.C. Juniors U11 Girls",
-        "Newark Brazil FC U7"
-      ]
-    },
-    {
-      "name": "Newark Brazil Rio",
-      "slug": "newark-brazil-rio",
-      "teams": [
+        "Newark Brazil FC U7",
         "Newark Brazil Rio U10",
-        "Newark Brazil Rio U8"
-      ]
-    },
-    {
-      "name": "Newark Brazil Santos",
-      "slug": "newark-brazil-santos",
-      "teams": [
+        "Newark Brazil Rio U8",
         "Newark Brazil Santos U10",
         "Newark Brazil Santos U11",
         "Newark Brazil Santos U12",
         "Newark Brazil Santos U13",
         "Newark Brazil Santos U8",
-        "Newark Brazil Santos U9"
+        "Newark Brazil Santos U9",
+        "Newark Brazil U14"
       ]
     },
     {
-      "name": "Newark Town Cavaliers",
-      "slug": "newark-town-cavaliers",
+      "name": "Newark Town",
+      "slug": "newark-town",
       "teams": [
         "Newark Town Cavaliers U10",
         "Newark Town Cavaliers U11",
         "Newark Town Cavaliers U12",
         "Newark Town Cavaliers U13",
-        "Newark Town Cavaliers U14"
-      ]
-    },
-    {
-      "name": "Newark Town FC",
-      "slug": "newark-town-fc",
-      "teams": [
+        "Newark Town Cavaliers U14",
         "Newark Town FC Ladies Development",
         "Newark Town FC Ladies First",
         "Newark Town FC Reserves",
@@ -10555,31 +10249,13 @@
         "Newark Town FC Titans U7",
         "Newark Town FC U10 LFF",
         "Newark Town FC U12 Girls",
+        "Newark Town FC U13 Nesbitts",
+        "Newark Town FC U14 Nesbitts",
         "Newark Town FC U15 Girls",
         "Newark Town FC U16 Girls",
-        "Newark Town FC U23's"
-      ]
-    },
-    {
-      "name": "Newark Town FC Nesbitts",
-      "slug": "newark-town-fc-nesbitts",
-      "teams": [
-        "Newark Town FC U13 Nesbitts",
-        "Newark Town FC U14 Nesbitts"
-      ]
-    },
-    {
-      "name": "Newark Town Saxons",
-      "slug": "newark-town-saxons",
-      "teams": [
+        "Newark Town FC U23's",
         "Newark Town Saxons U11",
-        "Newark Town Saxons U13"
-      ]
-    },
-    {
-      "name": "Newark Town Titans",
-      "slug": "newark-town-titans",
-      "teams": [
+        "Newark Town Saxons U13",
         "Newark Town Titans U10",
         "Newark Town Titans U11",
         "Newark Town Titans U12",
@@ -10590,39 +10266,33 @@
       ]
     },
     {
-      "name": "Newhall FC Jaguars",
-      "slug": "newhall-fc-jaguars",
+      "name": "Newhall FC",
+      "slug": "newhall-fc",
       "teams": [
         "Newhall FC Jaguars U13"
       ]
     },
     {
-      "name": "Newton & Blackwell",
-      "slug": "newton-blackwell",
+      "name": "Newton",
+      "slug": "newton",
       "teams": [
         "Newton & Blackwell Cosmos U13",
         "Newton & Blackwell Storm U11",
-        "Newton & Blackwell U12"
-      ]
-    },
-    {
-      "name": "Newton & Blkwl",
-      "slug": "newton-blkwl",
-      "teams": [
+        "Newton & Blackwell U12",
         "Newton & Blkwl Thunder U13",
         "Newton & Blkwl Tornadoes U13"
       ]
     },
     {
-      "name": "North Kilworth Junior &",
-      "slug": "north-kilworth-junior",
+      "name": "North Kilworth",
+      "slug": "north-kilworth",
       "teams": [
         "North Kilworth Junior & Youth U12 Lions"
       ]
     },
     {
-      "name": "Northgate Olympic FC",
-      "slug": "northgate-olympic-fc",
+      "name": "Northgate Olympic",
+      "slug": "northgate-olympic",
       "teams": [
         "Northgate Olympic FC U12"
       ]
@@ -10650,15 +10320,9 @@
         "Nottingham FC Green U12",
         "Nottingham FC Green U13",
         "Nottingham FC Green U8",
+        "Nottingham FC Onyx U11",
         "Nottingham FC U10",
         "Nottingham FC U14"
-      ]
-    },
-    {
-      "name": "Nottingham FC Onyx",
-      "slug": "nottingham-fc-onyx",
-      "teams": [
-        "Nottingham FC Onyx U11"
       ]
     },
     {
@@ -10674,15 +10338,9 @@
       "name": "Nottingham Trent",
       "slug": "nottingham-trent",
       "teams": [
-        "Nottingham Trent University FC Womens '"
-      ]
-    },
-    {
-      "name": "Nottingham Trent Uni FC Womens",
-      "slug": "nottingham-trent-uni-fc-womens",
-      "teams": [
         "Nottingham Trent Uni FC Womens Black",
-        "Nottingham Trent Uni FC Womens Pink"
+        "Nottingham Trent Uni FC Womens Pink",
+        "Nottingham Trent University FC Womens '"
       ]
     },
     {
@@ -10696,18 +10354,12 @@
       "name": "Notts County",
       "slug": "notts-county",
       "teams": [
-        "Notts County Womens Reserves"
-      ]
-    },
-    {
-      "name": "Notts County FC",
-      "slug": "notts-county-fc",
-      "teams": [
         "Notts County F.C. Girls U13",
         "Notts County F.C. Girls U14",
         "Notts County F.C. Girls U15",
         "Notts County F.C. Girls U16",
-        "Notts County F.C. Women Development"
+        "Notts County F.C. Women Development",
+        "Notts County Womens Reserves"
       ]
     },
     {
@@ -10724,19 +10376,13 @@
       "name": "Notts Olympic",
       "slug": "notts-olympic",
       "teams": [
-        "Notts Olympic Reserves",
-        "Notts Olympic U10"
-      ]
-    },
-    {
-      "name": "Notts Olympic FC",
-      "slug": "notts-olympic-fc",
-      "teams": [
         "Notts Olympic FC",
         "Notts Olympic FC U11",
         "Notts Olympic FC U12",
         "Notts Olympic FC U13",
-        "Notts Olympic FC U14"
+        "Notts Olympic FC U14",
+        "Notts Olympic Reserves",
+        "Notts Olympic U10"
       ]
     },
     {
@@ -10752,19 +10398,13 @@
       "slug": "ollerton-town",
       "teams": [
         "Ollerton Town Black U8",
+        "Ollerton Town Community FC First",
+        "Ollerton Town Community FC Ladies",
+        "Ollerton Town Community FC U12 Girls",
         "Ollerton Town Red U8",
         "Ollerton Town U12",
         "Ollerton Town U13",
         "Ollerton Town U14"
-      ]
-    },
-    {
-      "name": "Ollerton Town Community FC",
-      "slug": "ollerton-town-community-fc",
-      "teams": [
-        "Ollerton Town Community FC First",
-        "Ollerton Town Community FC Ladies",
-        "Ollerton Town Community FC U12 Girls"
       ]
     },
     {
@@ -10828,20 +10468,14 @@
       "teams": [
         "Pelican Colts Blue U12",
         "Pelican Colts Blue U13",
+        "Pelican Colts F.C. Youth U16 girls",
+        "Pelican Colts FC Ladies",
         "Pelican Colts Red U13",
         "Pelican Colts U10",
         "Pelican Colts U11",
         "Pelican Colts U8",
         "Pelican Colts White U10",
         "Pelican Colts Yellow U12"
-      ]
-    },
-    {
-      "name": "Pelican Colts FC",
-      "slug": "pelican-colts-fc",
-      "teams": [
-        "Pelican Colts F.C. Youth U16 girls",
-        "Pelican Colts FC Ladies"
       ]
     },
     {
@@ -10858,32 +10492,20 @@
         "Phoenix Inham Blaze U14",
         "Phoenix Inham Devils U10",
         "Phoenix Inham Embers U12 FR ONLY",
+        "Phoenix Inham F.C. U11 Flare",
+        "Phoenix Inham F.C. U12 Sparkles",
+        "Phoenix Inham F.C. U13 Starfire",
+        "Phoenix Inham FC U14 Fireflies",
         "Phoenix Inham Firebirds U12",
         "Phoenix Inham Firewings U7",
         "Phoenix Inham Flames U13",
         "Phoenix Inham Ignite U13",
         "Phoenix Inham Inferno U14",
+        "Phoenix Inham Knights U10",
+        "Phoenix Inham Knights U9",
         "Phoenix Inham Rising U8",
         "Phoenix Inham Rockets U11",
         "Phoenix Inham War Red U10"
-      ]
-    },
-    {
-      "name": "Phoenix Inham FC",
-      "slug": "phoenix-inham-fc",
-      "teams": [
-        "Phoenix Inham F.C. U11 Flare",
-        "Phoenix Inham F.C. U12 Sparkles",
-        "Phoenix Inham F.C. U13 Starfire",
-        "Phoenix Inham FC U14 Fireflies"
-      ]
-    },
-    {
-      "name": "Phoenix Inham Knights",
-      "slug": "phoenix-inham-knights",
-      "teams": [
-        "Phoenix Inham Knights U10",
-        "Phoenix Inham Knights U9"
       ]
     },
     {
@@ -10904,12 +10526,33 @@
       "name": "Priory Celtic",
       "slug": "priory-celtic",
       "teams": [
+        "Priory Celtic 1967 U10",
+        "Priory Celtic 1967 U13",
+        "Priory Celtic 1967 U14",
+        "Priory Celtic 1967 U9",
+        "Priory Celtic F.C. U10 Girls",
+        "Priory Celtic F.C. U11 Girls Green",
+        "Priory Celtic F.C. U11 Lionesses",
+        "Priory Celtic F.C. U12 Girls",
+        "Priory Celtic F.C. U13 Girls",
+        "Priory Celtic F.C. U14 Girls",
+        "Priory Celtic F.C. U14 Lionesses",
+        "Priory Celtic F.C. U15 Girls",
+        "Priory Celtic F.C. U16 Girls",
+        "Priory Celtic FC Ladies First Team",
         "Priory Celtic Green U10",
         "Priory Celtic Green U11",
         "Priory Celtic Green U13",
         "Priory Celtic Green U7",
         "Priory Celtic Green U8",
         "Priory Celtic Green U9",
+        "Priory Celtic Hoops U10",
+        "Priory Celtic Hoops U11",
+        "Priory Celtic Hoops U13",
+        "Priory Celtic Hoops U8",
+        "Priory Celtic Hoops U9",
+        "Priory Celtic Phoenix U11",
+        "Priory Celtic Phoenix U13",
         "Priory Celtic White U11",
         "Priory Celtic White U12",
         "Priory Celtic White U13",
@@ -10919,61 +10562,13 @@
       ]
     },
     {
-      "name": "Priory Celtic 1967",
-      "slug": "priory-celtic-1967",
-      "teams": [
-        "Priory Celtic 1967 U10",
-        "Priory Celtic 1967 U13",
-        "Priory Celtic 1967 U14",
-        "Priory Celtic 1967 U9"
-      ]
-    },
-    {
-      "name": "Priory Celtic FC",
-      "slug": "priory-celtic-fc",
-      "teams": [
-        "Priory Celtic F.C. U10 Girls",
-        "Priory Celtic F.C. U11 Girls Green",
-        "Priory Celtic F.C. U12 Girls",
-        "Priory Celtic F.C. U13 Girls",
-        "Priory Celtic F.C. U14 Girls",
-        "Priory Celtic F.C. U15 Girls",
-        "Priory Celtic F.C. U16 Girls",
-        "Priory Celtic FC Ladies First Team"
-      ]
-    },
-    {
-      "name": "Priory Celtic FC Lionesses",
-      "slug": "priory-celtic-fc-lionesses",
-      "teams": [
-        "Priory Celtic F.C. U11 Lionesses",
-        "Priory Celtic F.C. U14 Lionesses"
-      ]
-    },
-    {
-      "name": "Priory Celtic Hoops",
-      "slug": "priory-celtic-hoops",
-      "teams": [
-        "Priory Celtic Hoops U10",
-        "Priory Celtic Hoops U11",
-        "Priory Celtic Hoops U13",
-        "Priory Celtic Hoops U8",
-        "Priory Celtic Hoops U9"
-      ]
-    },
-    {
-      "name": "Priory Celtic Phoenix",
-      "slug": "priory-celtic-phoenix",
-      "teams": [
-        "Priory Celtic Phoenix U11",
-        "Priory Celtic Phoenix U13"
-      ]
-    },
-    {
       "name": "Quarrydale United",
       "slug": "quarrydale-united",
       "teams": [
         "Quarrydale United FC U12",
+        "Quarrydale United Rangers U10",
+        "Quarrydale United Rangers U14",
+        "Quarrydale United Rangers U9",
         "Quarrydale United U10",
         "Quarrydale United U11",
         "Quarrydale United U12",
@@ -10981,24 +10576,9 @@
         "Quarrydale United U7",
         "Quarrydale United U8",
         "Quarrydale United U9",
-        "Quarrydale United Yellow U14"
-      ]
-    },
-    {
-      "name": "Quarrydale United Rangers",
-      "slug": "quarrydale-united-rangers",
-      "teams": [
-        "Quarrydale United Rangers U10",
-        "Quarrydale United Rangers U14",
-        "Quarrydale United Rangers U9"
-      ]
-    },
-    {
-      "name": "Quarrydale United United",
-      "slug": "quarrydale-united-united",
-      "teams": [
         "Quarrydale United United U13",
-        "Quarrydale United United U9"
+        "Quarrydale United United U9",
+        "Quarrydale United Yellow U14"
       ]
     },
     {
@@ -11036,11 +10616,21 @@
         "Radcliffe Olympic Blue U11",
         "Radcliffe Olympic Blue U12",
         "Radcliffe Olympic Blue U9",
+        "Radcliffe Olympic FC",
+        "Radcliffe Olympic FC Ladies",
+        "Radcliffe Olympic FC U10 Phantoms",
+        "Radcliffe Olympic FC U12 Girls Eagles",
+        "Radcliffe Olympic FC U13 Ravens",
+        "Radcliffe Olympic FC U16 Girls",
+        "Radcliffe Olympic FC U23",
+        "Radcliffe Olympic FC U7 Rattlesnakes",
         "Radcliffe Olympic Jaguars U8",
         "Radcliffe Olympic Leopards U8",
         "Radcliffe Olympic Lions U7",
         "Radcliffe Olympic Lions U8",
         "Radcliffe Olympic Orange U12",
+        "Radcliffe Olympic Outlaws U10",
+        "Radcliffe Olympic Outlaws U14",
         "Radcliffe Olympic Panthers U8",
         "Radcliffe Olympic Pumas U8",
         "Radcliffe Olympic Rangers U10",
@@ -11051,28 +10641,6 @@
         "Radcliffe Olympic Tigers U7",
         "Radcliffe Olympic Tigers U8",
         "Radcliffe Olympic U11"
-      ]
-    },
-    {
-      "name": "Radcliffe Olympic FC",
-      "slug": "radcliffe-olympic-fc",
-      "teams": [
-        "Radcliffe Olympic FC",
-        "Radcliffe Olympic FC Ladies",
-        "Radcliffe Olympic FC U10 Phantoms",
-        "Radcliffe Olympic FC U12 Girls Eagles",
-        "Radcliffe Olympic FC U13 Ravens",
-        "Radcliffe Olympic FC U16 Girls",
-        "Radcliffe Olympic FC U23",
-        "Radcliffe Olympic FC U7 Rattlesnakes"
-      ]
-    },
-    {
-      "name": "Radcliffe Olympic Outlaws",
-      "slug": "radcliffe-olympic-outlaws",
-      "teams": [
-        "Radcliffe Olympic Outlaws U10",
-        "Radcliffe Olympic Outlaws U14"
       ]
     },
     {
@@ -11118,6 +10686,13 @@
       "name": "Ravenshead Reds",
       "slug": "ravenshead-reds",
       "teams": [
+        "Ravenshead Reds F.C. Youth U10",
+        "Ravenshead Reds F.C. Youth U12",
+        "Ravenshead Reds F.C. Youth U13",
+        "Ravenshead Reds F.C. Youth U14",
+        "Ravenshead Reds F.C. Youth U18",
+        "Ravenshead Reds F.C. Youth U9",
+        "Ravenshead Reds FC",
         "Ravenshead Reds Outlaws U11",
         "Ravenshead Reds Red Arrows U7",
         "Ravenshead Reds U10",
@@ -11127,19 +10702,6 @@
         "Ravenshead Reds U14",
         "Ravenshead Reds U9",
         "Ravenshead Reds Vikings U11"
-      ]
-    },
-    {
-      "name": "Ravenshead Reds FC",
-      "slug": "ravenshead-reds-fc",
-      "teams": [
-        "Ravenshead Reds F.C. Youth U10",
-        "Ravenshead Reds F.C. Youth U12",
-        "Ravenshead Reds F.C. Youth U13",
-        "Ravenshead Reds F.C. Youth U14",
-        "Ravenshead Reds F.C. Youth U18",
-        "Ravenshead Reds F.C. Youth U9",
-        "Ravenshead Reds FC"
       ]
     },
     {
@@ -11173,13 +10735,6 @@
       ]
     },
     {
-      "name": "Riverside",
-      "slug": "riverside",
-      "teams": [
-        "Riverside Junior Blue U14"
-      ]
-    },
-    {
       "name": "Riverside FC",
       "slug": "riverside-fc",
       "teams": [
@@ -11194,15 +10749,18 @@
       "name": "Riverside Junior",
       "slug": "riverside-junior",
       "teams": [
+        "Riverside Junior Blue U14",
         "Riverside Junior Titans U9",
         "Riverside Junior U13 Sapphires",
         "Riverside Junior U14 Rubies"
       ]
     },
     {
-      "name": "Robin Hood Colts",
-      "slug": "robin-hood-colts",
+      "name": "Robin Hood",
+      "slug": "robin-hood",
       "teams": [
+        "Robin Hood Colts FC",
+        "Robin Hood Colts FC Youth U13",
         "Robin Hood Colts Red U13",
         "Robin Hood Colts Red U9",
         "Robin Hood Colts U11",
@@ -11210,16 +10768,8 @@
       ]
     },
     {
-      "name": "Robin Hood Colts FC",
-      "slug": "robin-hood-colts-fc",
-      "teams": [
-        "Robin Hood Colts FC",
-        "Robin Hood Colts FC Youth U13"
-      ]
-    },
-    {
-      "name": "Rolls Royce FC",
-      "slug": "rolls-royce-fc",
+      "name": "Rolls Royce",
+      "slug": "rolls-royce",
       "teams": [
         "Rolls Royce FC"
       ]
@@ -11260,8 +10810,8 @@
       ]
     },
     {
-      "name": "Saffron Dynamo Thunderbolts",
-      "slug": "saffron-dynamo-thunderbolts",
+      "name": "Saffron Dynamo",
+      "slug": "saffron-dynamo",
       "teams": [
         "Saffron Dynamo U12 Thunderbolts"
       ]
@@ -11288,20 +10838,14 @@
         "Sandiacre Town Venoms U11",
         "Sandiacre Town Warriors U10",
         "Sandiacre Town Youth U12 Panthers Girls",
-        "Sandiacre Town Youth U13 Diamonds"
-      ]
-    },
-    {
-      "name": "Sandiacre Town Youth",
-      "slug": "sandiacre-town-youth",
-      "teams": [
+        "Sandiacre Town Youth U13 Diamonds",
         "Sandiacre Town Youth U13 Royals",
         "Sandiacre Town Youth U15 Girls Sparkle"
       ]
     },
     {
-      "name": "Saxilby Athletic Allstars",
-      "slug": "saxilby-athletic-allstars",
+      "name": "Saxilby Athletic",
+      "slug": "saxilby-athletic",
       "teams": [
         "Saxilby Athletic Allstars U13"
       ]
@@ -11331,8 +10875,8 @@
       ]
     },
     {
-      "name": "Shardlow St. James Jets",
-      "slug": "shardlow-st-james-jets",
+      "name": "Shardlow St. James",
+      "slug": "shardlow-st-james",
       "teams": [
         "Shardlow St. James U13 Jets Girls"
       ]
@@ -11346,8 +10890,17 @@
         "Sherwood Colliery Blue U14",
         "Sherwood Colliery Blue U9",
         "Sherwood Colliery Cobras U12",
+        "Sherwood Colliery F.C. Ladies U10",
+        "Sherwood Colliery F.C. Ladies U11",
+        "Sherwood Colliery F.C. Ladies U12 Black",
+        "Sherwood Colliery F.C. Ladies U12 Blue",
+        "Sherwood Colliery F.C. Ladies U14",
+        "Sherwood Colliery F.C. Ladies U15",
+        "Sherwood Colliery FC Ladies",
         "Sherwood Colliery Gold U9",
         "Sherwood Colliery Lions U12",
+        "Sherwood Colliery Outlaws U10",
+        "Sherwood Colliery Outlaws U12",
         "Sherwood Colliery Red U14",
         "Sherwood Colliery Red U9",
         "Sherwood Colliery Stags U9",
@@ -11355,27 +10908,6 @@
         "Sherwood Colliery U13 *",
         "Sherwood Colliery U7",
         "Sherwood Colliery Warriors U10"
-      ]
-    },
-    {
-      "name": "Sherwood Colliery FC",
-      "slug": "sherwood-colliery-fc",
-      "teams": [
-        "Sherwood Colliery F.C. Ladies U10",
-        "Sherwood Colliery F.C. Ladies U11",
-        "Sherwood Colliery F.C. Ladies U12 Black",
-        "Sherwood Colliery F.C. Ladies U12 Blue",
-        "Sherwood Colliery F.C. Ladies U14",
-        "Sherwood Colliery F.C. Ladies U15",
-        "Sherwood Colliery FC Ladies"
-      ]
-    },
-    {
-      "name": "Sherwood Colliery Outlaws",
-      "slug": "sherwood-colliery-outlaws",
-      "teams": [
-        "Sherwood Colliery Outlaws U10",
-        "Sherwood Colliery Outlaws U12"
       ]
     },
     {
@@ -11402,6 +10934,10 @@
       "name": "Shirebrook Rangers",
       "slug": "shirebrook-rangers",
       "teams": [
+        "Shirebrook Rangers & Juniors U13 Girls",
+        "Shirebrook Rangers & Juniors U14 Girls",
+        "Shirebrook Rangers & Juniors U18 Girls",
+        "Shirebrook Rangers & Juniors U9 Girls",
         "Shirebrook Rangers Blue U10",
         "Shirebrook Rangers Blue U11",
         "Shirebrook Rangers Blue U13",
@@ -11419,16 +10955,6 @@
       ]
     },
     {
-      "name": "Shirebrook Rangers & Juniors",
-      "slug": "shirebrook-rangers-juniors",
-      "teams": [
-        "Shirebrook Rangers & Juniors U13 Girls",
-        "Shirebrook Rangers & Juniors U14 Girls",
-        "Shirebrook Rangers & Juniors U18 Girls",
-        "Shirebrook Rangers & Juniors U9 Girls"
-      ]
-    },
-    {
       "name": "Shirebrook Soldiers",
       "slug": "shirebrook-soldiers",
       "teams": [
@@ -11440,24 +10966,9 @@
       "name": "Silva FC",
       "slug": "silva-fc",
       "teams": [
-        "Silva FC Magpies U7",
-        "Silva FC Rushcllife Yellow U11",
-        "Silva FC Sherwood U13"
-      ]
-    },
-    {
-      "name": "Silva FC Brunts",
-      "slug": "silva-fc-brunts",
-      "teams": [
         "Silva FC Brunts Black U9",
         "Silva FC Brunts U10",
-        "Silva FC Brunts U9"
-      ]
-    },
-    {
-      "name": "Silva FC Carlton",
-      "slug": "silva-fc-carlton",
-      "teams": [
+        "Silva FC Brunts U9",
         "Silva FC Carlton Black U11",
         "Silva FC Carlton Blue U11",
         "Silva FC Carlton Blue U13",
@@ -11476,18 +10987,12 @@
         "Silva FC Carlton U14",
         "Silva FC Carlton UTD U12",
         "Silva FC Carlton White U11",
-        "Silva FC Carlton Yellow U8"
-      ]
-    },
-    {
-      "name": "Silva FC Rushcliffe",
-      "slug": "silva-fc-rushcliffe",
-      "teams": [
+        "Silva FC Carlton Yellow U8",
+        "Silva FC Magpies U7",
         "Silva FC Rushcliffe Black U13",
         "Silva FC Rushcliffe Blue U10",
         "Silva FC Rushcliffe Gold U11",
         "Silva FC Rushcliffe Gold U13",
-        "Silva FC Rushcliffe Gold U7 ^^",
         "Silva FC Rushcliffe Gold U9",
         "Silva FC Rushcliffe Green U11",
         "Silva FC Rushcliffe Panthers U7",
@@ -11498,11 +11003,25 @@
         "Silva FC Rushcliffe Spirit U11",
         "Silva FC Rushcliffe U12",
         "Silva FC Rushcliffe Vipers U8",
-        "Silva FC Rushcliffe Whites U12",
         "Silva FC Rushcliffe Yellow U10",
+        "Silva FC Rushcllife Yellow U11",
+        "Silva FC Sherwood U13",
+        "Silva FC Southglade Black U10",
+        "Silva FC Southglade Grey U13",
+        "Silva FC Southglade Knights U11",
+        "Silva FC Southglade Pink U14",
+        "Silva FC Southglade Purple U14",
         "Silva FC U13 Rushcliffe Pink",
         "Silva FC U8 Rushcliffe Gold",
         "Silva FC U8 Rushcliffe Violet"
+      ]
+    },
+    {
+      "name": "Silva FC Rushcliffe",
+      "slug": "silva-fc-rushcliffe",
+      "teams": [
+        "Silva FC Rushcliffe Gold U7 ^^",
+        "Silva FC Rushcliffe Whites U12"
       ]
     },
     {
@@ -11514,17 +11033,6 @@
       ]
     },
     {
-      "name": "Silva FC Southglade",
-      "slug": "silva-fc-southglade",
-      "teams": [
-        "Silva FC Southglade Black U10",
-        "Silva FC Southglade Grey U13",
-        "Silva FC Southglade Knights U11",
-        "Silva FC Southglade Pink U14",
-        "Silva FC Southglade Purple U14"
-      ]
-    },
-    {
       "name": "Skegness Town JFC",
       "slug": "skegness-town-jfc",
       "teams": [
@@ -11532,8 +11040,8 @@
       ]
     },
     {
-      "name": "Sleetmoor United FC",
-      "slug": "sleetmoor-united-fc",
+      "name": "Sleetmoor United",
+      "slug": "sleetmoor-united",
       "teams": [
         "Sleetmoor United FC U18 Girls"
       ]
@@ -11549,8 +11057,8 @@
       ]
     },
     {
-      "name": "Somersall Rangers Thunder",
-      "slug": "somersall-rangers-thunder",
+      "name": "Somersall Rangers",
+      "slug": "somersall-rangers",
       "teams": [
         "Somersall Rangers Thunder U14"
       ]
@@ -11577,6 +11085,14 @@
         "Southwell City Cobras U9",
         "Southwell City Development",
         "Southwell City Devils U8",
+        "Southwell City FC Ladies",
+        "Southwell City FC U10 Girls",
+        "Southwell City FC U11 Girls",
+        "Southwell City FC U12 Swans",
+        "Southwell City FC U13 All Whites",
+        "Southwell City FC U15 Girls",
+        "Southwell City FC U16 Girls",
+        "Southwell City FC U18 Girls",
         "Southwell City Falcons U13",
         "Southwell City Flames U12",
         "Southwell City Hawks U8",
@@ -11596,20 +11112,6 @@
         "Southwell City United U14",
         "Southwell City Wolverines U11",
         "Southwell City Wolves U9"
-      ]
-    },
-    {
-      "name": "Southwell City FC",
-      "slug": "southwell-city-fc",
-      "teams": [
-        "Southwell City FC Ladies",
-        "Southwell City FC U10 Girls",
-        "Southwell City FC U11 Girls",
-        "Southwell City FC U12 Swans",
-        "Southwell City FC U13 All Whites",
-        "Southwell City FC U15 Girls",
-        "Southwell City FC U16 Girls",
-        "Southwell City FC U18 Girls"
       ]
     },
     {
@@ -11644,14 +11146,8 @@
       "slug": "spondon-dynamos",
       "teams": [
         "Spondon Dynamos AS Yellow U11",
+        "Spondon Dynamos Blades U13",
         "Spondon Dynamos Legends U13"
-      ]
-    },
-    {
-      "name": "Spondon Dynamos Blades",
-      "slug": "spondon-dynamos-blades",
-      "teams": [
-        "Spondon Dynamos Blades U13"
       ]
     },
     {
@@ -11674,6 +11170,8 @@
       "name": "Sports Gateway",
       "slug": "sports-gateway",
       "teams": [
+        "Sports Gateway Arcs U11",
+        "Sports Gateway Arcs U9",
         "Sports Gateway Blue U11",
         "Sports Gateway Blue U12",
         "Sports Gateway Lions U13",
@@ -11682,16 +11180,8 @@
       ]
     },
     {
-      "name": "Sports Gateway Arcs",
-      "slug": "sports-gateway-arcs",
-      "teams": [
-        "Sports Gateway Arcs U11",
-        "Sports Gateway Arcs U9"
-      ]
-    },
-    {
-      "name": "St Anns & Sneinton",
-      "slug": "st-anns-sneinton",
+      "name": "St Anns",
+      "slug": "st-anns",
       "teams": [
         "St Anns & Sneinton U13",
         "St Anns & Sneinton U14"
@@ -11721,47 +11211,23 @@
       "teams": [
         "Stapleford Town Admirals U11",
         "Stapleford Town Blue U14",
-        "Stapleford Town Reserves",
-        "Stapleford Town U9"
-      ]
-    },
-    {
-      "name": "Stapleford Town FC",
-      "slug": "stapleford-town-fc",
-      "teams": [
         "Stapleford Town FC Ladies",
         "Stapleford Town FC U11 Girls Jaguars",
         "Stapleford Town FC U13 Girls",
         "Stapleford Town FC U15 Girls",
         "Stapleford Town FC U16 Girls",
-        "Stapleford Town FC U23"
-      ]
-    },
-    {
-      "name": "Stapleford Town Jaguars",
-      "slug": "stapleford-town-jaguars",
-      "teams": [
+        "Stapleford Town FC U23",
         "Stapleford Town Jaguars U10",
         "Stapleford Town Jaguars U12",
-        "Stapleford Town Jaguars U8"
-      ]
-    },
-    {
-      "name": "Stapleford Town Saxons",
-      "slug": "stapleford-town-saxons",
-      "teams": [
+        "Stapleford Town Jaguars U8",
+        "Stapleford Town Reserves",
         "Stapleford Town Saxons U10",
         "Stapleford Town Saxons U11",
         "Stapleford Town Saxons U12",
         "Stapleford Town Saxons U13",
         "Stapleford Town Saxons U7",
-        "Stapleford Town Saxons U8"
-      ]
-    },
-    {
-      "name": "Stapleford Town Warriors",
-      "slug": "stapleford-town-warriors",
-      "teams": [
+        "Stapleford Town Saxons U8",
+        "Stapleford Town U9",
         "Stapleford Town Warriors U11",
         "Stapleford Town Warriors U8"
       ]
@@ -11804,8 +11270,8 @@
       ]
     },
     {
-      "name": "Swifts Junior Swifts FC",
-      "slug": "swifts-junior-swifts-fc",
+      "name": "Swifts Junior",
+      "slug": "swifts-junior",
       "teams": [
         "Swifts Junior Swifts FC"
       ]
@@ -11866,8 +11332,8 @@
       ]
     },
     {
-      "name": "Toton",
-      "slug": "toton",
+      "name": "Toton Tigers",
+      "slug": "toton-tigers",
       "teams": [
         "Toton Tigers F.C. Youth Toton Tigers St",
         "Toton Tigers U11"
@@ -11889,15 +11355,15 @@
       ]
     },
     {
-      "name": "Trent Vineyard FC",
-      "slug": "trent-vineyard-fc",
+      "name": "Trent Vineyard",
+      "slug": "trent-vineyard",
       "teams": [
         "Trent Vineyard FC"
       ]
     },
     {
-      "name": "Trinity FC First",
-      "slug": "trinity-fc-first",
+      "name": "Trinity FC",
+      "slug": "trinity-fc",
       "teams": [
         "Trinity F.C. First"
       ]
@@ -11930,8 +11396,8 @@
       ]
     },
     {
-      "name": "Uni of Nottingham FC",
-      "slug": "uni-of-nottingham-fc",
+      "name": "Uni of",
+      "slug": "uni-of",
       "teams": [
         "Uni of Nottingham F.C. Women"
       ]
@@ -11950,6 +11416,8 @@
       "teams": [
         "WBYFC AC U14",
         "WBYFC Ajax Black U7",
+        "WBYFC Anderlecht Black U7",
+        "WBYFC Anderlecht Red U7",
         "WBYFC Apollo U13",
         "WBYFC Arrows U11",
         "WBYFC Atlantis U13",
@@ -11960,14 +11428,28 @@
         "WBYFC Blackhawks U14",
         "WBYFC Boca U13",
         "WBYFC Bohemians U11",
+        "WBYFC Bruges Black U7",
+        "WBYFC Bruges Stripes U7",
+        "WBYFC Bruges White U7",
         "WBYFC Buffalos U12",
         "WBYFC Celtics U13",
         "WBYFC Copa U12",
         "WBYFC Corinthians U9",
+        "WBYFC Courage Black U8",
+        "WBYFC Courage Red U8",
+        "WBYFC Crusaders Black U8",
+        "WBYFC Crusaders Red U8",
         "WBYFC Deportivo U12",
         "WBYFC Diavola U10",
+        "WBYFC Dynamos Black U8",
+        "WBYFC Dynamos Red U8",
+        "WBYFC Dynamos Stripes U8",
+        "WBYFC Feyanoord Black U7",
+        "WBYFC Feyanoord Red U7",
         "WBYFC Flyers U12",
         "WBYFC Galaxy U13",
+        "WBYFC Genk Black U7",
+        "WBYFC Genk White U7",
         "WBYFC Giants U14",
         "WBYFC Independiente U9",
         "WBYFC Inter U11",
@@ -11992,87 +11474,17 @@
         "WBYFC Scorpions U14",
         "WBYFC Sharks U12",
         "WBYFC Spartans U13",
+        "WBYFC Spirit Black U8",
+        "WBYFC Spirit Red U8",
         "WBYFC Sporting U10",
         "WBYFC Sportivo U14",
         "WBYFC Tecnica U12",
         "WBYFC Thunderbolts U12",
         "WBYFC Union U9",
         "WBYFC United 14",
-        "WBYFC Wanderers U9"
-      ]
-    },
-    {
-      "name": "WBYFC Anderlecht",
-      "slug": "wbyfc-anderlecht",
-      "teams": [
-        "WBYFC Anderlecht Black U7",
-        "WBYFC Anderlecht Red U7"
-      ]
-    },
-    {
-      "name": "WBYFC Bruges",
-      "slug": "wbyfc-bruges",
-      "teams": [
-        "WBYFC Bruges Black U7",
-        "WBYFC Bruges Stripes U7",
-        "WBYFC Bruges White U7"
-      ]
-    },
-    {
-      "name": "WBYFC Courage",
-      "slug": "wbyfc-courage",
-      "teams": [
-        "WBYFC Courage Black U8",
-        "WBYFC Courage Red U8"
-      ]
-    },
-    {
-      "name": "WBYFC Crusaders",
-      "slug": "wbyfc-crusaders",
-      "teams": [
-        "WBYFC Crusaders Black U8",
-        "WBYFC Crusaders Red U8"
-      ]
-    },
-    {
-      "name": "WBYFC Dynamos",
-      "slug": "wbyfc-dynamos",
-      "teams": [
-        "WBYFC Dynamos Black U8",
-        "WBYFC Dynamos Red U8",
-        "WBYFC Dynamos Stripes U8"
-      ]
-    },
-    {
-      "name": "WBYFC Feyanoord",
-      "slug": "wbyfc-feyanoord",
-      "teams": [
-        "WBYFC Feyanoord Black U7",
-        "WBYFC Feyanoord Red U7"
-      ]
-    },
-    {
-      "name": "WBYFC Genk",
-      "slug": "wbyfc-genk",
-      "teams": [
-        "WBYFC Genk Black U7",
-        "WBYFC Genk White U7"
-      ]
-    },
-    {
-      "name": "WBYFC Spirit",
-      "slug": "wbyfc-spirit",
-      "teams": [
-        "WBYFC Spirit Black U8",
-        "WBYFC Spirit Red U8"
-      ]
-    },
-    {
-      "name": "WBYFC Valour",
-      "slug": "wbyfc-valour",
-      "teams": [
         "WBYFC Valour Black U8",
-        "WBYFC Valour Red U8"
+        "WBYFC Valour Red U8",
+        "WBYFC Wanderers U9"
       ]
     },
     {
@@ -12103,14 +11515,6 @@
       "name": "West Bridgford",
       "slug": "west-bridgford",
       "teams": [
-        "West Bridgford Development",
-        "West Bridgford Reserves"
-      ]
-    },
-    {
-      "name": "West Bridgford Colts",
-      "slug": "west-bridgford-colts",
-      "teams": [
         "West Bridgford Colts U10 Moon",
         "West Bridgford Colts U10 Sky",
         "West Bridgford Colts U10 Sun",
@@ -12136,7 +11540,9 @@
         "West Bridgford Colts U9 Nova",
         "West Bridgford Colts U9 Stars",
         "West Bridgford Colts Women's Development",
-        "West Bridgford Colts Womens"
+        "West Bridgford Colts Womens",
+        "West Bridgford Development",
+        "West Bridgford Reserves"
       ]
     },
     {
@@ -12147,6 +11553,8 @@
         "West Hallam Dragons U8",
         "West Hallam Eagles U13",
         "West Hallam Harriers U9",
+        "West Hallam Juniors U11 Willows",
+        "West Hallam Juniors U13 Diamonds",
         "West Hallam Knights U12",
         "West Hallam Pumas U8",
         "West Hallam Rangers U9",
@@ -12157,16 +11565,8 @@
       ]
     },
     {
-      "name": "West Hallam Juniors",
-      "slug": "west-hallam-juniors",
-      "teams": [
-        "West Hallam Juniors U11 Willows",
-        "West Hallam Juniors U13 Diamonds"
-      ]
-    },
-    {
-      "name": "Wigston Willow Comets",
-      "slug": "wigston-willow-comets",
+      "name": "Wigston Willow",
+      "slug": "wigston-willow",
       "teams": [
         "Wigston Willow U14 Comets"
       ]
@@ -12193,6 +11593,9 @@
       "teams": [
         "Willow Wanderers Arrows U8",
         "Willow Wanderers Bulldogs U14",
+        "Willow Wanderers F.C. U11 Phoenixes",
+        "Willow Wanderers F.C. Youth U13 Orcas",
+        "Willow Wanderers F.C. Youth U15 Amazons",
         "Willow Wanderers Harriers U11",
         "Willow Wanderers Hornets U10",
         "Willow Wanderers Jaguars U7",
@@ -12202,37 +11605,16 @@
       ]
     },
     {
-      "name": "Willow Wanderers FC",
-      "slug": "willow-wanderers-fc",
-      "teams": [
-        "Willow Wanderers F.C. U11 Phoenixes"
-      ]
-    },
-    {
-      "name": "Willow Wanderers FC Youth",
-      "slug": "willow-wanderers-fc-youth",
-      "teams": [
-        "Willow Wanderers F.C. Youth U13 Orcas",
-        "Willow Wanderers F.C. Youth U15 Amazons"
-      ]
-    },
-    {
       "name": "Winthorpe & Cod T",
       "slug": "winthorpe-cod-t",
       "teams": [
+        "Winthorpe & Cod T Amber U11",
+        "Winthorpe & Cod T Amber U9",
         "Winthorpe & Cod T Black U11",
         "Winthorpe & Cod T Black U12",
         "Winthorpe & Cod T Black U9",
         "Winthorpe & Cod T U10",
         "Winthorpe & Cod T U13"
-      ]
-    },
-    {
-      "name": "Winthorpe & Cod T Amber",
-      "slug": "winthorpe-cod-t-amber",
-      "teams": [
-        "Winthorpe & Cod T Amber U11",
-        "Winthorpe & Cod T Amber U9"
       ]
     },
     {
@@ -12310,8 +11692,8 @@
       ]
     },
     {
-      "name": "Woodhall Spa United First",
-      "slug": "woodhall-spa-united-first",
+      "name": "Woodhall Spa",
+      "slug": "woodhall-spa",
       "teams": [
         "Woodhall Spa United First"
       ]
@@ -12321,10 +11703,13 @@
       "slug": "woodhouse-colts",
       "teams": [
         "Woodhouse Colts Blue U9",
+        "Woodhouse Colts F.C. First",
+        "Woodhouse Colts F.C. U13 Athena",
         "Woodhouse Colts Originals U12",
         "Woodhouse Colts Red U10",
         "Woodhouse Colts Red U12",
         "Woodhouse Colts Red U9",
+        "Woodhouse Colts Rhinos U12",
         "Woodhouse Colts U8",
         "Woodhouse Colts United U10",
         "Woodhouse Colts Warriors U12",
@@ -12333,31 +11718,10 @@
       ]
     },
     {
-      "name": "Woodhouse Colts FC",
-      "slug": "woodhouse-colts-fc",
-      "teams": [
-        "Woodhouse Colts F.C. First",
-        "Woodhouse Colts F.C. U13 Athena"
-      ]
-    },
-    {
-      "name": "Woodhouse Colts Rhinos",
-      "slug": "woodhouse-colts-rhinos",
-      "teams": [
-        "Woodhouse Colts Rhinos U12"
-      ]
-    },
-    {
-      "name": "Woodlands",
-      "slug": "woodlands",
-      "teams": [
-        "Woodlands Women U15"
-      ]
-    },
-    {
       "name": "Woodlands Women",
       "slug": "woodlands-women",
       "teams": [
+        "Woodlands Women U15",
         "Woodlands Women U16 Goldsocks",
         "Woodlands Women U16 Greensocks"
       ]

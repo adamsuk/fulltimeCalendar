@@ -1,7 +1,7 @@
 {
   "team": "Matlock Town Juniors U14 Spartans Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
     {
       "id": "8051408102ccf9973fdcdfc43aaf2c82",
@@ -13,17 +13,6 @@
       "division": "U14 Div 3",
       "home_away": "home",
       "opponent": "Nottingham F.C. Youth U14 Girls"
-    },
-    {
-      "id": "b23745dacab9a18354c33d0de548d624",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Gedling Southbank FC U14 Warriors",
-      "away_team": "Matlock Town Juniors U14 Spartans Girls",
-      "venue": "THE TREVOR CARTER PAVILION",
-      "division": "U14 Div 3",
-      "home_away": "away",
-      "opponent": "Gedling Southbank FC U14 Warriors"
     },
     {
       "id": "9bfe841c12e2e292a0b37576c082dbf6",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b23745dacab9a18354c33d0de548d624",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Gedling Southbank FC U14 Warriors",
+      "away_team": "Matlock Town Juniors U14 Spartans Girls",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Div 3",
+      "home_away": "away",
+      "opponent": "Gedling Southbank FC U14 Warriors",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "eebf537b3f5a53a6b07b21aa80bcdca9",
       "date": "2026-03-22",

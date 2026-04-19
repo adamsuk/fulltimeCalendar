@@ -1,20 +1,7 @@
 {
   "club": "Gotham Rangers",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "8235d48b02c8c3b2470e7f12c9002ef2",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Gotham Rangers U11",
-      "away_team": "DLFC Black U11",
-      "venue": "Gotham Recreation NG11 0HE",
-      "division": "U11 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Gotham Rangers U11",
-      "home_away": "home",
-      "opponent": "DLFC Black U11"
-    },
     {
       "id": "cb9595876fd6637c98a8be78da756ebc",
       "date": "2026-04-25",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "8235d48b02c8c3b2470e7f12c9002ef2",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Gotham Rangers U11",
+      "away_team": "DLFC Black U11",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gotham Rangers U11",
+      "home_away": "home",
+      "opponent": "DLFC Black U11",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "49ad04757d153c64bcbec3f54dfb30e1",
       "date": "2026-04-18",

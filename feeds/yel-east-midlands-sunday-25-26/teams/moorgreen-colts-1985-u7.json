@@ -1,19 +1,8 @@
 {
   "team": "Moorgreen Colts 1985 U7",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "40560d314aaf9a68b6089e3d1c3e16a6",
-      "date": "2026-04-19",
-      "time": "09:30",
-      "home_team": "DLFC Orange U7",
-      "away_team": "Moorgreen Colts 1985 U7",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U7 Sunday",
-      "home_away": "away",
-      "opponent": "DLFC Orange U7"
-    },
     {
       "id": "3bac992ccec9b04eb274af414e536f1e",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "40560d314aaf9a68b6089e3d1c3e16a6",
+      "date": "2026-04-19",
+      "time": "09:30",
+      "home_team": "DLFC Orange U7",
+      "away_team": "Moorgreen Colts 1985 U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sunday",
+      "home_away": "away",
+      "opponent": "DLFC Orange U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "87d866b2bb4f4fa9fd624b8ceaa72584",
       "date": "2026-04-12",

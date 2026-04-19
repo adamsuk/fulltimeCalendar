@@ -1,7 +1,7 @@
 {
   "team": "Clifton AW Purple U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
     {
       "id": "33ac7a47dc625ec3e886043d3161b2b1",
@@ -13,17 +13,6 @@
       "division": "U10 Sun Spring Div 5 Blue",
       "home_away": "home",
       "opponent": "Barrowby FC Green U10"
-    },
-    {
-      "id": "7b7e2b865a4f8cd18350490f8672da28",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Clifton AW Purple U10",
-      "away_team": "Toton Tornados Cyclones U10",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U10 Sunday",
-      "home_away": "home",
-      "opponent": "Toton Tornados Cyclones U10"
     },
     {
       "id": "cc85d3b740dd303f5a3e30cbff0138e4",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7b7e2b865a4f8cd18350490f8672da28",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Clifton AW Purple U10",
+      "away_team": "Toton Tornados Cyclones U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sunday",
+      "home_away": "home",
+      "opponent": "Toton Tornados Cyclones U10",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "5dcf257ae95d1d17079f7ac81f9f356b",
       "date": "2026-03-22",

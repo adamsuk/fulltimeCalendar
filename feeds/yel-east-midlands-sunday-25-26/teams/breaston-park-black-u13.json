@@ -1,19 +1,8 @@
 {
   "team": "Breaston Park Black U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "ac36d4ad8190aaafc2c5118f0921a681",
-      "date": "2026-04-19",
-      "time": "11:30",
-      "home_team": "Breaston Park Black U13",
-      "away_team": "Arnold Town White U13",
-      "venue": "Wilsthorpe high school NG10 4WT",
-      "division": "U13 Sun Spring Div 2 Blue",
-      "home_away": "home",
-      "opponent": "Arnold Town White U13"
-    },
     {
       "id": "9eaa4382769e340b132bf5c2b70288a1",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ac36d4ad8190aaafc2c5118f0921a681",
+      "date": "2026-04-19",
+      "time": "11:30",
+      "home_team": "Breaston Park Black U13",
+      "away_team": "Arnold Town White U13",
+      "home_score": 6,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sun Spring Div 2 Blue",
+      "home_away": "home",
+      "opponent": "Arnold Town White U13",
+      "goals_for": 6,
+      "goals_against": 3
+    },
     {
       "id": "a3e9ebdc3fd58449fca4dbe60581bf16",
       "date": "2026-03-22",

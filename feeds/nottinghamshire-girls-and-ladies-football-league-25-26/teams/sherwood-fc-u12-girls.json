@@ -1,19 +1,8 @@
 {
   "team": "Sherwood FC U12 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "dcb71320af461c651f6dd2d6d165b776",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Sherwood FC U12 Girls",
-      "away_team": "Langwith Whitestar U12 United",
-      "venue": "CARLTON FOOTBALL CENTRE",
-      "division": "U12 Div 2 P2",
-      "home_away": "home",
-      "opponent": "Langwith Whitestar U12 United"
-    },
     {
       "id": "9fb5d1d9b57fd010c826c6952c95350a",
       "date": "2026-04-26",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "dcb71320af461c651f6dd2d6d165b776",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Sherwood FC U12 Girls",
+      "away_team": "Langwith Whitestar U12 United",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U12 Div 2 P2",
+      "home_away": "home",
+      "opponent": "Langwith Whitestar U12 United",
+      "goals_for": 0,
+      "goals_against": 5
+    },
     {
       "id": "79f7f5682d37e614fed33e83ba384383",
       "date": "2026-04-12",

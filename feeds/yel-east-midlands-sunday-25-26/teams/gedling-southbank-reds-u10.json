@@ -1,19 +1,8 @@
 {
   "team": "Gedling Southbank Reds U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "db04b5a86bd2e2c6d9a6604f11e5a7bf",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Gedling Southbank Reds U10",
-      "away_team": "Collingham FC Panthers U10",
-      "venue": "Redhill Academy NG5 8GX",
-      "division": "U10 Sun Spring Div 2 Red",
-      "home_away": "home",
-      "opponent": "Collingham FC Panthers U10"
-    },
     {
       "id": "cb4ca287e299e26d0cc8c06bfc92c5cb",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "db04b5a86bd2e2c6d9a6604f11e5a7bf",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Gedling Southbank Reds U10",
+      "away_team": "Collingham FC Panthers U10",
+      "home_score": 2,
+      "away_score": 7,
+      "venue": "",
+      "division": "U10 Sun Spring Div 2 Red",
+      "home_away": "home",
+      "opponent": "Collingham FC Panthers U10",
+      "goals_for": 2,
+      "goals_against": 7
+    },
     {
       "id": "ae80fd8ff68b2951160d23a45b181c9a",
       "date": "2026-03-29",

@@ -1,19 +1,8 @@
 {
   "team": "West Hallam Knights U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "de1e604ea34d2eb9e41bdb9cc703972d",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "West Hallam Knights U12",
-      "away_team": "Ernehale Colts Black U12",
-      "venue": "King George V Park NG5 6TD",
-      "division": "U12 Sun Spring Div 6 Gold",
-      "home_away": "home",
-      "opponent": "Ernehale Colts Black U12"
-    },
     {
       "id": "c677c91c172d529d6d1f10a7098572b0",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "de1e604ea34d2eb9e41bdb9cc703972d",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "West Hallam Knights U12",
+      "away_team": "Ernehale Colts Black U12",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Sun Spring Div 6 Gold",
+      "home_away": "home",
+      "opponent": "Ernehale Colts Black U12",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "e9dda0c92de041d7398abf79d343e874",
       "date": "2026-03-15",

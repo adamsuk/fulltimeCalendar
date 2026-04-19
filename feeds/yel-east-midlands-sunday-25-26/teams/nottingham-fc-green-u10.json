@@ -1,19 +1,8 @@
 {
   "team": "Nottingham FC Green U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "530dcbf2ab9a3913a29ead3e0038b020",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Nottingham FC Green U10",
-      "away_team": "Basford United Girls U10 ^^",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U10 Sunday",
-      "home_away": "home",
-      "opponent": "Basford United Girls U10 ^^"
-    },
     {
       "id": "dbe0670d531e67365414a7749390d554",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "530dcbf2ab9a3913a29ead3e0038b020",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Nottingham FC Green U10",
+      "away_team": "Basford United Girls U10 ^^",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sunday",
+      "home_away": "home",
+      "opponent": "Basford United Girls U10 ^^",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "47ccd947fc7dc9cb1e1659c103f8852b",
       "date": "2026-03-29",

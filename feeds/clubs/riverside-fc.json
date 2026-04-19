@@ -1,33 +1,7 @@
 {
   "club": "Riverside FC",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "65dc7fff38659650f424ee3d8e638f3f",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Heanor Town Tigers U12",
-      "away_team": "Riverside FC Real U12",
-      "venue": "Riddings Park DE55 4EW",
-      "division": "U12 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Riverside FC Real U12",
-      "home_away": "away",
-      "opponent": "Heanor Town Tigers U12"
-    },
-    {
-      "id": "e3f7673f22283dd8993248ad510ab9c3",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Riverside FC Rockets U12",
-      "away_team": "Beaufort United Blue U12",
-      "venue": "Unwin Road NG17 4HT",
-      "division": "U12 Sun Spring Div 4",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Riverside FC Rockets U12",
-      "home_away": "home",
-      "opponent": "Beaufort United Blue U12"
-    },
     {
       "id": "26ba591723f57ed1aaee169a3cfb4de3",
       "date": "2026-04-21",
@@ -134,6 +108,40 @@
     }
   ],
   "results": [
+    {
+      "id": "e3f7673f22283dd8993248ad510ab9c3",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Riverside FC Rockets U12",
+      "away_team": "Beaufort United Blue U12",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sun Spring Div 4",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Riverside FC Rockets U12",
+      "home_away": "home",
+      "opponent": "Beaufort United Blue U12",
+      "goals_for": 2,
+      "goals_against": 3
+    },
+    {
+      "id": "65dc7fff38659650f424ee3d8e638f3f",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Heanor Town Tigers U12",
+      "away_team": "Riverside FC Real U12",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Riverside FC Real U12",
+      "home_away": "away",
+      "opponent": "Heanor Town Tigers U12",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "81fd913248d9fd0450dde6304ccebacb",
       "date": "2026-04-18",

@@ -1,19 +1,8 @@
 {
   "team": "West Bridgford Colts U12 Lightning",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "91b3f61413bc66f6eab599a640c09c39",
-      "date": "2026-04-19",
-      "time": "09:15",
-      "home_team": "West Bridgford Colts U12 Lightning",
-      "away_team": "West Bridgford Colts U12 Flames",
-      "venue": "GRESHAM SPORTS PARK",
-      "division": "U12 Div 3 P2",
-      "home_away": "home",
-      "opponent": "West Bridgford Colts U12 Flames"
-    },
     {
       "id": "1712c3a76ac9846358c6b65abf2389f7",
       "date": "2026-04-26",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "91b3f61413bc66f6eab599a640c09c39",
+      "date": "2026-04-19",
+      "time": "09:15",
+      "home_team": "West Bridgford Colts U12 Lightning",
+      "away_team": "West Bridgford Colts U12 Flames",
+      "home_score": 8,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Div 3 P2",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U12 Flames",
+      "goals_for": 8,
+      "goals_against": 0
+    },
     {
       "id": "0f08add11e52137a44af9c509bf93584",
       "date": "2026-04-12",

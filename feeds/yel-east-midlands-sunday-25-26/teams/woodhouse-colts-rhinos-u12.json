@@ -1,19 +1,8 @@
 {
   "team": "Woodhouse Colts Rhinos U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "dfbcedeb9fbef834f2d344de7f710835",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Woodhouse Colts Rhinos U12",
-      "away_team": "Newton & Blackwell U12",
-      "venue": "Forest Town Welfare NG19 0EE",
-      "division": "U12 Sunday",
-      "home_away": "home",
-      "opponent": "Newton & Blackwell U12"
-    },
     {
       "id": "f269e832fcffbdda0b2ef46fadae2573",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "dfbcedeb9fbef834f2d344de7f710835",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Woodhouse Colts Rhinos U12",
+      "away_team": "Newton & Blackwell U12",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sunday",
+      "home_away": "home",
+      "opponent": "Newton & Blackwell U12",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "06c85a4bb2ba03bb1dc2d934206a4e96",
       "date": "2026-03-22",

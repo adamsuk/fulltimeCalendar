@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Arrows U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "df83d8d8af5ad39cc8b3865e6cbae974",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Ilkeston Town Wolfpack U11",
-      "away_team": "WBYFC Arrows U11",
-      "venue": "Booths Playing Fields DE7 8JF",
-      "division": "U11 Sun Spring Premier Division",
-      "home_away": "away",
-      "opponent": "Ilkeston Town Wolfpack U11"
-    },
     {
       "id": "f3b6c45ba2bbb7bfe5d7f449c0bb4591",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "df83d8d8af5ad39cc8b3865e6cbae974",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Wolfpack U11",
+      "away_team": "WBYFC Arrows U11",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sun Spring Premier Division",
+      "home_away": "away",
+      "opponent": "Ilkeston Town Wolfpack U11",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "cc39628c22474ede3f90357da58c9fd4",
       "date": "2026-03-22",

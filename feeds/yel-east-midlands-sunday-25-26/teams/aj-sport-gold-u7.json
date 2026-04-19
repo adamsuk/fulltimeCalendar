@@ -1,19 +1,8 @@
 {
   "team": "AJ Sport Gold U7",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "fca975da801f16cd0a3cdab72413a9fb",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Mapperley All Stars Yellow U7",
-      "away_team": "AJ Sport Gold U7",
-      "venue": "Colwick Recreation Ground NG4 2DW",
-      "division": "U7 Sun Spring Blue",
-      "home_away": "away",
-      "opponent": "Mapperley All Stars Yellow U7"
-    },
     {
       "id": "86077cd60e0643bfabfcce9bbacdf609",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "fca975da801f16cd0a3cdab72413a9fb",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Mapperley All Stars Yellow U7",
+      "away_team": "AJ Sport Gold U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring Blue",
+      "home_away": "away",
+      "opponent": "Mapperley All Stars Yellow U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "b99bec78fe46afce95c02c8ef3bc2397",
       "date": "2026-04-12",

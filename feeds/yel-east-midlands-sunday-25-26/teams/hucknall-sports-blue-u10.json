@@ -1,19 +1,8 @@
 {
   "team": "Hucknall Sports Blue U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "ab6107b2a4b051d9f5ff4b4e985bc893",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Hucknall Sports Blue U10",
-      "away_team": "Clifton AW Green U10",
-      "venue": "The Engine Rooms NG15 6EP",
-      "division": "U10 Sunday",
-      "home_away": "home",
-      "opponent": "Clifton AW Green U10"
-    },
     {
       "id": "3532868f6a43dfc22c5be83d5ef9939f",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ab6107b2a4b051d9f5ff4b4e985bc893",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Hucknall Sports Blue U10",
+      "away_team": "Clifton AW Green U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sunday",
+      "home_away": "home",
+      "opponent": "Clifton AW Green U10",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "6cf9737527edad8e7ee25eb4f55a4bbc",
       "date": "2026-03-29",

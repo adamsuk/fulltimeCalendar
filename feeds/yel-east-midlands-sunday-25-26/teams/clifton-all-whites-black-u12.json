@@ -1,19 +1,8 @@
 {
   "team": "Clifton All Whites Black U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "81abd52cd94e9897f364781d9d6c0e8f",
-      "date": "2026-04-19",
-      "time": "11:30",
-      "home_team": "Basford United Iconz U12",
-      "away_team": "Clifton All Whites Black U12",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U12 Sunday",
-      "home_away": "away",
-      "opponent": "Basford United Iconz U12"
-    },
     {
       "id": "8bd4cc8c839415d03451edf096abe620",
       "date": "2026-04-23",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "81abd52cd94e9897f364781d9d6c0e8f",
+      "date": "2026-04-19",
+      "time": "11:30",
+      "home_team": "Basford United Iconz U12",
+      "away_team": "Clifton All Whites Black U12",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Sunday",
+      "home_away": "away",
+      "opponent": "Basford United Iconz U12",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "2e7d5ffe8f6baf33a222a7eab4ee4fc9",
       "date": "2026-03-22",

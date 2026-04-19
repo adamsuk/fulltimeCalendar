@@ -1,19 +1,8 @@
 {
   "team": "Vale FC U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "cdd9033ae7f65ce14b0292b02eeb6c10",
-      "date": "2026-04-19",
-      "time": "13:00",
-      "home_team": "Stanton Ilkeston Scorpions U11",
-      "away_team": "Vale FC U11",
-      "venue": "Ron Brooks Pavilion DE7 4LD",
-      "division": "U11 Sun Spring Div 7",
-      "home_away": "away",
-      "opponent": "Stanton Ilkeston Scorpions U11"
-    },
     {
       "id": "e30aad9ae83a16ff5e5fcca4282d7185",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "cdd9033ae7f65ce14b0292b02eeb6c10",
+      "date": "2026-04-19",
+      "time": "13:00",
+      "home_team": "Stanton Ilkeston Scorpions U11",
+      "away_team": "Vale FC U11",
+      "home_score": 2,
+      "away_score": 8,
+      "venue": "",
+      "division": "U11 Sun Spring Div 7",
+      "home_away": "away",
+      "opponent": "Stanton Ilkeston Scorpions U11",
+      "goals_for": 8,
+      "goals_against": 2
+    },
     {
       "id": "b1187267ad77cb0790e4b28945053130",
       "date": "2026-03-15",

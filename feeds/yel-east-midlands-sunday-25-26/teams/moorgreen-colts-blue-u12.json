@@ -1,19 +1,8 @@
 {
   "team": "Moorgreen Colts Blue U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "9a824cd92f9c7183134d9a5f3e86830c",
-      "date": "2026-04-19",
-      "time": "09:30",
-      "home_team": "Moorgreen Colts Blue U12",
-      "away_team": "Pelican Colts Blue U12",
-      "venue": "Dave Eastwood Sports Ground NG7 2SA",
-      "division": "U12 Sun Spring Div 2 Blue",
-      "home_away": "home",
-      "opponent": "Pelican Colts Blue U12"
-    },
     {
       "id": "90c8b3e6784ccef47f3bcf8ae40aa7dc",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "9a824cd92f9c7183134d9a5f3e86830c",
+      "date": "2026-04-19",
+      "time": "09:30",
+      "home_team": "Moorgreen Colts Blue U12",
+      "away_team": "Pelican Colts Blue U12",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sun Spring Div 2 Blue",
+      "home_away": "home",
+      "opponent": "Pelican Colts Blue U12",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "f24048ba68f4befb7464662525b7e8a2",
       "date": "2026-03-22",

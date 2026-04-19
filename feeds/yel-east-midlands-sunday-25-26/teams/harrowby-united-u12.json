@@ -1,19 +1,8 @@
 {
   "team": "Harrowby United U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "c90910b2e2492892270270ef9307b44b",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Willow Wanderers Spartans U12",
-      "away_team": "Harrowby United U12",
-      "venue": "Carlton le Willows School NG4 4AA",
-      "division": "U12 Sun Spring Div 6 Silver",
-      "home_away": "away",
-      "opponent": "Willow Wanderers Spartans U12"
-    },
     {
       "id": "af2c7278668a2ddc7bacc79fdd14f7ca",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c90910b2e2492892270270ef9307b44b",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Willow Wanderers Spartans U12",
+      "away_team": "Harrowby United U12",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sun Spring Div 6 Silver",
+      "home_away": "away",
+      "opponent": "Willow Wanderers Spartans U12",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "13897db1ba86066d04e3ba6898be0811",
       "date": "2026-03-29",

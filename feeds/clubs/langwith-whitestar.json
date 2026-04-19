@@ -1,33 +1,7 @@
 {
   "club": "Langwith Whitestar",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "dcff9f9321c83418c9f9e366d4765c4c",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Langwith Whitestar U11",
-      "away_team": "Walesby Juniors United U11",
-      "venue": "Hardwick Street NG20 9DR",
-      "division": "U11 Sun Spring Div 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Langwith Whitestar U11",
-      "home_away": "home",
-      "opponent": "Walesby Juniors United U11"
-    },
-    {
-      "id": "dcb71320af461c651f6dd2d6d165b776",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Sherwood FC U12 Girls",
-      "away_team": "Langwith Whitestar U12 United",
-      "venue": "CARLTON FOOTBALL CENTRE",
-      "division": "U12 Div 2 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Langwith Whitestar U12 United",
-      "home_away": "away",
-      "opponent": "Sherwood FC U12 Girls"
-    },
     {
       "id": "8b658404769e261faf2ad880d56b6e30",
       "date": "2026-04-26",
@@ -56,6 +30,40 @@
     }
   ],
   "results": [
+    {
+      "id": "dcff9f9321c83418c9f9e366d4765c4c",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Langwith Whitestar U11",
+      "away_team": "Walesby Juniors United U11",
+      "home_score": 2,
+      "away_score": 8,
+      "venue": "",
+      "division": "U11 Sun Spring Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Langwith Whitestar U11",
+      "home_away": "home",
+      "opponent": "Walesby Juniors United U11",
+      "goals_for": 2,
+      "goals_against": 8
+    },
+    {
+      "id": "dcb71320af461c651f6dd2d6d165b776",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Sherwood FC U12 Girls",
+      "away_team": "Langwith Whitestar U12 United",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Langwith Whitestar U12 United",
+      "home_away": "away",
+      "opponent": "Sherwood FC U12 Girls",
+      "goals_for": 5,
+      "goals_against": 0
+    },
     {
       "id": "ff96075207f105811c5bd650f7d0480b",
       "date": "2026-04-12",

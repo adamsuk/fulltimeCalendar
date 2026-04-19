@@ -1,33 +1,7 @@
 {
   "club": "Toton Tornados",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "7b7e2b865a4f8cd18350490f8672da28",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Clifton AW Purple U10",
-      "away_team": "Toton Tornados Cyclones U10",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U10 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Toton Tornados Cyclones U10",
-      "home_away": "away",
-      "opponent": "Clifton AW Purple U10"
-    },
-    {
-      "id": "29956ee10fd0524902e7c837003a712b",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Toton Tornados Hurricanes U11",
-      "away_team": "Ravenshead FC U11",
-      "venue": "Manor Farm Recreation Ground NG9 6EL",
-      "division": "U11 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Toton Tornados Hurricanes U11",
-      "home_away": "home",
-      "opponent": "Ravenshead FC U11"
-    },
     {
       "id": "200e9dcf40425cd8ebcc502e3e98c564",
       "date": "2026-04-25",
@@ -134,6 +108,40 @@
     }
   ],
   "results": [
+    {
+      "id": "29956ee10fd0524902e7c837003a712b",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Toton Tornados Hurricanes U11",
+      "away_team": "Ravenshead FC U11",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Toton Tornados Hurricanes U11",
+      "home_away": "home",
+      "opponent": "Ravenshead FC U11",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "7b7e2b865a4f8cd18350490f8672da28",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Clifton AW Purple U10",
+      "away_team": "Toton Tornados Cyclones U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Toton Tornados Cyclones U10",
+      "home_away": "away",
+      "opponent": "Clifton AW Purple U10",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "cba3e2555643077e305223ce1f663f79",
       "date": "2026-04-18",

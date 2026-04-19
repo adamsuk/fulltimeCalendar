@@ -1,19 +1,8 @@
 {
   "team": "Lowdham FC Green U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "780660cfd7651a90d2c7c4fcb4779295",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Annesley AFC Oaks U13",
-      "away_team": "Lowdham FC Green U13",
-      "venue": "The Fieldings NG17 2TF",
-      "division": "U13 Sun Spring Div 4 Red",
-      "home_away": "away",
-      "opponent": "Annesley AFC Oaks U13"
-    },
     {
       "id": "434d8a01d2bbad4ce26996cd77fea18f",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "780660cfd7651a90d2c7c4fcb4779295",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Annesley AFC Oaks U13",
+      "away_team": "Lowdham FC Green U13",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U13 Sun Spring Div 4 Red",
+      "home_away": "away",
+      "opponent": "Annesley AFC Oaks U13",
+      "goals_for": 5,
+      "goals_against": 2
+    },
     {
       "id": "7ba389f8601ce4c9141c2d9d085ba7bc",
       "date": "2026-04-15",

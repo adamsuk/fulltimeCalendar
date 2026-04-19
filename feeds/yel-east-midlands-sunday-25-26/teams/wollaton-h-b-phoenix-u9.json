@@ -1,19 +1,8 @@
 {
   "team": "Wollaton H&B Phoenix U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "9501ea58cd07d7b39161c413437b5c50",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Wollaton H&B Phoenix U9",
-      "away_team": "Alfreton Town Lions U9",
-      "venue": "The Trinity Catholic School NG8 3EZ",
-      "division": "U9 Sun YEL Shield",
-      "home_away": "home",
-      "opponent": "Alfreton Town Lions U9"
-    },
     {
       "id": "daf7fe55b3f4db237fd21f35a291561d",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "9501ea58cd07d7b39161c413437b5c50",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Wollaton H&B Phoenix U9",
+      "away_team": "Alfreton Town Lions U9",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sun YEL Shield",
+      "home_away": "home",
+      "opponent": "Alfreton Town Lions U9",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "a69cce2690cba02bd35291af3e8017ee",
       "date": "2026-03-29",

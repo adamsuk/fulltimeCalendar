@@ -1,7 +1,7 @@
 {
   "team": "Silva FC Carlton Gold U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
     {
       "id": "6c5860f0849a9d4aba054ff46573c03b",
@@ -13,17 +13,6 @@
       "division": "U9 Sunday",
       "home_away": "away",
       "opponent": "Castle Donington Warriors U9"
-    },
-    {
-      "id": "83fd26cb2c4933479a2578efe0e8c8f8",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Silva FC Carlton Gold U9",
-      "away_team": "DLFC Orange U9",
-      "venue": "Southglade Leisure Centre NG5 5GU",
-      "division": "U9 Sun Spring Div 5 Green",
-      "home_away": "home",
-      "opponent": "DLFC Orange U9"
     },
     {
       "id": "f8733930fca7397a3afd5f23e3f2d7a3",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "83fd26cb2c4933479a2578efe0e8c8f8",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Silva FC Carlton Gold U9",
+      "away_team": "DLFC Orange U9",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sun Spring Div 5 Green",
+      "home_away": "home",
+      "opponent": "DLFC Orange U9",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "10d23a5440b5a106394087d33dfe5873",
       "date": "2026-03-29",

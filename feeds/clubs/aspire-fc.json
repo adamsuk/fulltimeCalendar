@@ -1,33 +1,7 @@
 {
   "club": "Aspire FC",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "3af76de5e82435f0de5b56013aa3e18a",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Silva FC Rushcliffe Red U10",
-      "away_team": "Aspire FC U10",
-      "venue": "Rushcliffe School NG2 7BZ",
-      "division": "U10 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Aspire FC U10",
-      "home_away": "away",
-      "opponent": "Silva FC Rushcliffe Red U10"
-    },
-    {
-      "id": "b1b3d5256017001ef5a5f08f631c3683",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Aspire FC U8",
-      "away_team": "DLFC Boca U8",
-      "venue": "Nottingham Trent University NG11 8NS",
-      "division": "U8 Sun Spring 1",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Aspire FC U8",
-      "home_away": "home",
-      "opponent": "DLFC Boca U8"
-    },
     {
       "id": "c396185199211bb47183e567aabd035d",
       "date": "2026-04-19",
@@ -108,6 +82,40 @@
     }
   ],
   "results": [
+    {
+      "id": "3af76de5e82435f0de5b56013aa3e18a",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Silva FC Rushcliffe Red U10",
+      "away_team": "Aspire FC U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Aspire FC U10",
+      "home_away": "away",
+      "opponent": "Silva FC Rushcliffe Red U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "b1b3d5256017001ef5a5f08f631c3683",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Aspire FC U8",
+      "away_team": "DLFC Boca U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sun Spring 1",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Aspire FC U8",
+      "home_away": "home",
+      "opponent": "DLFC Boca U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "deb0a05d6a6bbd148b63acb5068d635f",
       "date": "2026-04-18",

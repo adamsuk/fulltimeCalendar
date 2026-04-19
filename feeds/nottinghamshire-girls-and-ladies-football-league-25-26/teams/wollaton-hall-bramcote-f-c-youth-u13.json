@@ -1,19 +1,8 @@
 {
   "team": "Wollaton Hall & Bramcote F.C. Youth U13",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "fec47491dc61a9c57dfb628dff8cb150",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Wollaton Hall & Bramcote F.C. Youth U13",
-      "away_team": "AFC Warriors Youth U13",
-      "venue": "THE TRINITY CATHOLIC SCHOOL",
-      "division": "U13 Div 2 11 v 11",
-      "home_away": "home",
-      "opponent": "AFC Warriors Youth U13"
-    },
     {
       "id": "4e4faa673b06c93a94274b97bc6fca0b",
       "date": "2026-04-26",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "fec47491dc61a9c57dfb628dff8cb150",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Wollaton Hall & Bramcote F.C. Youth U13",
+      "away_team": "AFC Warriors Youth U13",
+      "home_score": 5,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Div 2 11 v 11",
+      "home_away": "home",
+      "opponent": "AFC Warriors Youth U13",
+      "goals_for": 5,
+      "goals_against": 4
+    },
     {
       "id": "e1db8b5a864df5b09d4e0cc31f1817a7",
       "date": "2026-03-22",

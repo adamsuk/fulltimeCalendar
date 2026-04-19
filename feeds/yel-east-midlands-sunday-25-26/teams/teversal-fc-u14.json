@@ -1,19 +1,8 @@
 {
   "team": "Teversal FC U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "de81843c5d0cce5d5cc9bf5965a84e05",
-      "date": "2026-04-19",
-      "time": "12:30",
-      "home_team": "Teversal FC U14",
-      "away_team": "DLFC Gold U14",
-      "venue": "Peartree Lane NG17 3JP",
-      "division": "U14 Sun Spring Div 1 Silver",
-      "home_away": "home",
-      "opponent": "DLFC Gold U14"
-    },
     {
       "id": "ca5f1627765dfa79305542ce8b40407d",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "de81843c5d0cce5d5cc9bf5965a84e05",
+      "date": "2026-04-19",
+      "time": "12:30",
+      "home_team": "Teversal FC U14",
+      "away_team": "DLFC Gold U14",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sun Spring Div 1 Silver",
+      "home_away": "home",
+      "opponent": "DLFC Gold U14",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "632c9c151cb0c1c5f12857fb9d9513d4",
       "date": "2026-03-22",

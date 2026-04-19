@@ -1,19 +1,8 @@
 {
   "team": "Eastwood Athletic Blazers U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "0fe3b28de09e6a43b4083297f1e9d66c",
-      "date": "2026-04-19",
-      "time": "10:45",
-      "home_team": "WBYFC Rapids U11",
-      "away_team": "Eastwood Athletic Blazers U11",
-      "venue": "Gresham Sports Pitch NG2 7YF",
-      "division": "U11 Sun Spring Div 7",
-      "home_away": "away",
-      "opponent": "WBYFC Rapids U11"
-    },
     {
       "id": "5c3e1d379a3447428bc2f59c42269e10",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0fe3b28de09e6a43b4083297f1e9d66c",
+      "date": "2026-04-19",
+      "time": "10:45",
+      "home_team": "WBYFC Rapids U11",
+      "away_team": "Eastwood Athletic Blazers U11",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sun Spring Div 7",
+      "home_away": "away",
+      "opponent": "WBYFC Rapids U11",
+      "goals_for": 1,
+      "goals_against": 6
+    },
     {
       "id": "924db01eb622ffebc59b89d0606b40de",
       "date": "2026-03-22",

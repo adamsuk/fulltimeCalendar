@@ -1,33 +1,7 @@
 {
   "club": "ASFC",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "82ac894820543611df8f3766bb70a3f3",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "ASFC Wolves U10",
-      "away_team": "Tibshelf FC U10",
-      "venue": "Park Road Recreation Ground NG20 8JG",
-      "division": "U10 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "ASFC Wolves U10",
-      "home_away": "home",
-      "opponent": "Tibshelf FC U10"
-    },
-    {
-      "id": "278de941a3d1a6709e9eff0721d42108",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Kirkby Colts Black U12",
-      "away_team": "ASFC U12",
-      "venue": "Cowpasture La, Recreation Grnd NG17 5DW",
-      "division": "U12 Sun Spring Div 3 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "ASFC U12",
-      "home_away": "away",
-      "opponent": "Kirkby Colts Black U12"
-    },
     {
       "id": "40fe96cbb2e51e35eea70e3fb10cca85",
       "date": "2026-04-21",
@@ -108,6 +82,40 @@
     }
   ],
   "results": [
+    {
+      "id": "278de941a3d1a6709e9eff0721d42108",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Kirkby Colts Black U12",
+      "away_team": "ASFC U12",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sun Spring Div 3 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "ASFC U12",
+      "home_away": "away",
+      "opponent": "Kirkby Colts Black U12",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
+      "id": "82ac894820543611df8f3766bb70a3f3",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "ASFC Wolves U10",
+      "away_team": "Tibshelf FC U10",
+      "home_score": 6,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sun Spring Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "ASFC Wolves U10",
+      "home_away": "home",
+      "opponent": "Tibshelf FC U10",
+      "goals_for": 6,
+      "goals_against": 3
+    },
     {
       "id": "f551156aee79ebbb87bb601d786175e4",
       "date": "2026-04-18",

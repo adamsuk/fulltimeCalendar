@@ -1,19 +1,8 @@
 {
   "team": "DLFC Purple U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "3b608d6abda3b9238b239566b628b4f1",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "WBYFC Flyers U12",
-      "away_team": "DLFC Purple U12",
-      "venue": "Mellish Sports Centre NG6 9FH",
-      "division": "U12 Sunday",
-      "home_away": "away",
-      "opponent": "WBYFC Flyers U12"
-    },
     {
       "id": "c215e29e80d48ae4b07bc5df6262f835",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "3b608d6abda3b9238b239566b628b4f1",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "WBYFC Flyers U12",
+      "away_team": "DLFC Purple U12",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U12 Sunday",
+      "home_away": "away",
+      "opponent": "WBYFC Flyers U12",
+      "goals_for": 5,
+      "goals_against": 0
+    },
     {
       "id": "d9158b51e028050f16c89055677bb2a6",
       "date": "2026-03-15",

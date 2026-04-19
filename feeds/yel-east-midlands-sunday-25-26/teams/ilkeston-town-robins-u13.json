@@ -1,19 +1,8 @@
 {
   "team": "Ilkeston Town Robins U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "53fa41a4b14d728e5cbb061bdee88647",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Ilkeston Town Robins U13",
-      "away_team": "Silva FC Carlton Blue U13",
-      "venue": "Booths Playing Fields DE7 8JF",
-      "division": "U13 Sunday",
-      "home_away": "home",
-      "opponent": "Silva FC Carlton Blue U13"
-    },
     {
       "id": "2c1942b16087d940f7a753e759d132f9",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "53fa41a4b14d728e5cbb061bdee88647",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Robins U13",
+      "away_team": "Silva FC Carlton Blue U13",
+      "home_score": 7,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sunday",
+      "home_away": "home",
+      "opponent": "Silva FC Carlton Blue U13",
+      "goals_for": 7,
+      "goals_against": 1
+    },
     {
       "id": "38e282a80c6f8a989fcdcf952cf08727",
       "date": "2026-03-22",

@@ -1,19 +1,8 @@
 {
   "team": "Priory Celtic 1967 U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "35351b3fe67c3ee17819e6f3978dc6f3",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Priory Celtic 1967 U10",
-      "away_team": "WBYFC Bayern U10",
-      "venue": "Kimberley Leisure Centre NG16 2NJ",
-      "division": "U10 Sun Spring Premier Div",
-      "home_away": "home",
-      "opponent": "WBYFC Bayern U10"
-    },
     {
       "id": "51da892e70006729b8bba035eb962fc2",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "35351b3fe67c3ee17819e6f3978dc6f3",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Priory Celtic 1967 U10",
+      "away_team": "WBYFC Bayern U10",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sun Spring Premier Div",
+      "home_away": "home",
+      "opponent": "WBYFC Bayern U10",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "639b3ac2fc6c4e3ab687b2040bb80ac8",
       "date": "2026-03-29",

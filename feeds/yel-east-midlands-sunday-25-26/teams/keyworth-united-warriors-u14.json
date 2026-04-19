@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United Warriors U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "959de78b8e2209295a76312a8ecd7b2f",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Keyworth United Warriors U14",
-      "away_team": "DLFC Red U14",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U14 Sun Spring Premier Division",
-      "home_away": "home",
-      "opponent": "DLFC Red U14"
-    },
     {
       "id": "cf56b3049290c3e5a85f79c531794cc2",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "959de78b8e2209295a76312a8ecd7b2f",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Keyworth United Warriors U14",
+      "away_team": "DLFC Red U14",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sun Spring Premier Division",
+      "home_away": "home",
+      "opponent": "DLFC Red U14",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "343d71f7e83222e4a09c0dbabbe630b3",
       "date": "2026-03-15",

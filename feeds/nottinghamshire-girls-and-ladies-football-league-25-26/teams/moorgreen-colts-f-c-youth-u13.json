@@ -1,19 +1,8 @@
 {
   "team": "Moorgreen Colts F.C. Youth U13",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "5c6d043c5fa1c49a1b8482d9f1458754",
-      "date": "2026-04-19",
-      "time": "12:00",
-      "home_team": "Moorgreen Colts F.C. Youth U13",
-      "away_team": "Ravenshead Reds F.C. Youth U13",
-      "venue": "Moorgreen Colts F.C. Youth U13",
-      "division": "U13 Div 3 9 v 9",
-      "home_away": "home",
-      "opponent": "Ravenshead Reds F.C. Youth U13"
-    },
     {
       "id": "6499641d319d3c893f5882f05648027e",
       "date": "2026-04-26",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5c6d043c5fa1c49a1b8482d9f1458754",
+      "date": "2026-04-19",
+      "time": "12:00",
+      "home_team": "Moorgreen Colts F.C. Youth U13",
+      "away_team": "Ravenshead Reds F.C. Youth U13",
+      "home_score": 2,
+      "away_score": 8,
+      "venue": "",
+      "division": "U13 Div 3 9 v 9",
+      "home_away": "home",
+      "opponent": "Ravenshead Reds F.C. Youth U13",
+      "goals_for": 2,
+      "goals_against": 8
+    },
     {
       "id": "4a3cb8ad61b2376b6fecba1a2aabbfc9",
       "date": "2026-04-12",

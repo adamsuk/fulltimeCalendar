@@ -7,17 +7,8 @@ X-WR-CALNAME:Shirebrook Rangers Blue U11
 X-WR-CALDESC:Fixtures for Shirebrook Rangers Blue U11 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:5b3480c2a34230257659e63ceeda9b77@yel-calendar
-DTSTAMP:20260419T092124Z
-DTSTART;TZID=Europe/London:20260419T110000
-DTEND;TZID=Europe/London:20260419T120000
-SUMMARY:⚽ Shirebrook Rangers Blue U11 vs Shirebrook Rangers Red U11 (Home)
-DESCRIPTION:Division: U11 Sun Spring Div 5 Red\nShirebrook Rangers Blue U11 v Shirebrook Rangers Red U11\nKO: 11:00
-LOCATION:Shirebrook Academy NG20 8QF
-END:VEVENT
-BEGIN:VEVENT
 UID:1d3a1d29b0df7ba8129dffb9e1079d3d@yel-calendar
-DTSTAMP:20260419T092124Z
+DTSTAMP:20260419T135633Z
 DTSTART;TZID=Europe/London:20260423T183000
 DTEND;TZID=Europe/London:20260423T190000
 SUMMARY:⚽ Shirebrook Rangers Blue U11 vs Gonerby Yellow U11 (Home)
@@ -26,11 +17,20 @@ LOCATION:Harby Playing Fields NG23 7ED
 END:VEVENT
 BEGIN:VEVENT
 UID:9c26e5761be7ff764eaa77691715abd2@yel-calendar
-DTSTAMP:20260419T092124Z
+DTSTAMP:20260419T135633Z
 DTSTART;TZID=Europe/London:20260426T110000
 DTEND;TZID=Europe/London:20260426T120000
 SUMMARY:⚽ Shirebrook Rangers Blue U11 vs Meden Vale Colts Green U11 (Away)
 DESCRIPTION:Division: U11 Sunday\nMeden Vale Colts Green U11 v Shirebrook Rangers Blue U11\nKO: 11:00
 LOCATION:Carr Lane NG20 0AT
+END:VEVENT
+BEGIN:VEVENT
+UID:70c6cc958c431d4df066743dff65df21@yel-calendar
+DTSTAMP:20260419T135633Z
+DTSTART;TZID=Europe/London:20260426T110000
+DTEND;TZID=Europe/London:20260426T120000
+SUMMARY:⚽ Shirebrook Rangers Blue U11 vs Manor FC U11 (Away)
+DESCRIPTION:Division: U11 Sun Spring Div 5 Red\nManor FC U11 v Shirebrook Rangers Blue U11\nKO: 11:00
+LOCATION:Manor Park Sports Complex NG19 8JX
 END:VEVENT
 END:VCALENDAR

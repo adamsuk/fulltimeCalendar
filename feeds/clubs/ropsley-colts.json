@@ -1,20 +1,7 @@
 {
   "club": "Ropsley Colts",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "751f4d4cab9d0c38a183be3bc4369ac2",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Ropsley Colts U9",
-      "away_team": "Barrowby FC U9",
-      "venue": "Ropsley Village Hall NG33 4BN",
-      "division": "U9 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ropsley Colts U9",
-      "home_away": "home",
-      "opponent": "Barrowby FC U9"
-    },
     {
       "id": "62359c5701843891f9042f9324cdbd56",
       "date": "2026-04-19",
@@ -40,32 +27,6 @@
       "team": "Ropsley Colts U13",
       "home_away": "away",
       "opponent": "Castle Don Hawks U13"
-    },
-    {
-      "id": "a2bf9453daedd48f0dbf76833aea670e",
-      "date": "2026-04-19",
-      "time": "11:30",
-      "home_team": "Stanton Ilkeston Hawks U12",
-      "away_team": "Ropsley Colts Red U12",
-      "venue": "Ron Brooks Pavilion DE7 4LD",
-      "division": "U12 Sun Spring Div 6 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ropsley Colts Red U12",
-      "home_away": "away",
-      "opponent": "Stanton Ilkeston Hawks U12"
-    },
-    {
-      "id": "fc0a7e19aa4a236199aadfbe634b6f64",
-      "date": "2026-04-19",
-      "time": "12:30",
-      "home_team": "Tuxford FC U12",
-      "away_team": "Ropsley Colts Blue U12",
-      "venue": "Harby Playing Fields NG23 7ED",
-      "division": "U12 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ropsley Colts Blue U12",
-      "home_away": "away",
-      "opponent": "Tuxford FC U12"
     },
     {
       "id": "f8733930fca7397a3afd5f23e3f2d7a3",
@@ -121,6 +82,57 @@
     }
   ],
   "results": [
+    {
+      "id": "fc0a7e19aa4a236199aadfbe634b6f64",
+      "date": "2026-04-19",
+      "time": "12:30",
+      "home_team": "Tuxford FC U12",
+      "away_team": "Ropsley Colts Blue U12",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ropsley Colts Blue U12",
+      "home_away": "away",
+      "opponent": "Tuxford FC U12",
+      "goals_for": 3,
+      "goals_against": 4
+    },
+    {
+      "id": "a2bf9453daedd48f0dbf76833aea670e",
+      "date": "2026-04-19",
+      "time": "11:30",
+      "home_team": "Stanton Ilkeston Hawks U12",
+      "away_team": "Ropsley Colts Red U12",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sun Spring Div 6 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ropsley Colts Red U12",
+      "home_away": "away",
+      "opponent": "Stanton Ilkeston Hawks U12",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
+      "id": "751f4d4cab9d0c38a183be3bc4369ac2",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Ropsley Colts U9",
+      "away_team": "Barrowby FC U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ropsley Colts U9",
+      "home_away": "home",
+      "opponent": "Barrowby FC U9",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "98b2e53fcfaa4ae3ff6068e75a6a3e9d",
       "date": "2026-03-29",

@@ -1,19 +1,8 @@
 {
   "team": "Carlton Town Yellow U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "3942313221dd9e0121947b453bd602af",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "East Leake Bantams Orange U12",
-      "away_team": "Carlton Town Yellow U12",
-      "venue": "Costock Road LE12 6LY",
-      "division": "U12 Sun Spring Div 6 Silver",
-      "home_away": "away",
-      "opponent": "East Leake Bantams Orange U12"
-    },
     {
       "id": "9f38dadfb68da83798d149253a2ed9a8",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "3942313221dd9e0121947b453bd602af",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "East Leake Bantams Orange U12",
+      "away_team": "Carlton Town Yellow U12",
+      "home_score": 0,
+      "away_score": 6,
+      "venue": "",
+      "division": "U12 Sun Spring Div 6 Silver",
+      "home_away": "away",
+      "opponent": "East Leake Bantams Orange U12",
+      "goals_for": 6,
+      "goals_against": 0
+    },
     {
       "id": "e7b5356665d34a0ac87527f032d56d51",
       "date": "2026-03-08",

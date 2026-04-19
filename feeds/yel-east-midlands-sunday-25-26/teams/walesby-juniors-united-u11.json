@@ -1,19 +1,8 @@
 {
   "team": "Walesby Juniors United U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "dcff9f9321c83418c9f9e366d4765c4c",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Langwith Whitestar U11",
-      "away_team": "Walesby Juniors United U11",
-      "venue": "Hardwick Street NG20 9DR",
-      "division": "U11 Sun Spring Div 2 Red",
-      "home_away": "away",
-      "opponent": "Langwith Whitestar U11"
-    },
     {
       "id": "fb7f2e23bffc080111771c4501208991",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "dcff9f9321c83418c9f9e366d4765c4c",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Langwith Whitestar U11",
+      "away_team": "Walesby Juniors United U11",
+      "home_score": 2,
+      "away_score": 8,
+      "venue": "",
+      "division": "U11 Sun Spring Div 2 Red",
+      "home_away": "away",
+      "opponent": "Langwith Whitestar U11",
+      "goals_for": 8,
+      "goals_against": 2
+    },
     {
       "id": "299f6730b1b46962232039d147bd8c48",
       "date": "2026-03-22",

@@ -1,19 +1,8 @@
 {
   "team": "Shirebrook Rangers Blue U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "2507b349a5c083ad612a11205c288fc0",
-      "date": "2026-04-19",
-      "time": "12:00",
-      "home_team": "Priory Celtic Phoenix U13",
-      "away_team": "Shirebrook Rangers Blue U13",
-      "venue": "Kimberley Leisure Centre NG16 2NJ",
-      "division": "U13 Sunday",
-      "home_away": "away",
-      "opponent": "Priory Celtic Phoenix U13"
-    },
     {
       "id": "fe32b2f7b986473280fb0538acaf6832",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2507b349a5c083ad612a11205c288fc0",
+      "date": "2026-04-19",
+      "time": "12:00",
+      "home_team": "Priory Celtic Phoenix U13",
+      "away_team": "Shirebrook Rangers Blue U13",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sunday",
+      "home_away": "away",
+      "opponent": "Priory Celtic Phoenix U13",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "4c89aee90eb7c749d93261567cbb8cef",
       "date": "2026-03-22",

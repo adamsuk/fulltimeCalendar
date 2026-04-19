@@ -1,19 +1,8 @@
 {
   "team": "Notts Olympic FC U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "f2d6e01e181f9dfb92f6a898eaf7352c",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Selston FC U12",
-      "away_team": "Notts Olympic FC U12",
-      "venue": "Mayfield Street Recreation Grnd NG17 8LU",
-      "division": "U12 Sun Spring Div 2 Red",
-      "home_away": "away",
-      "opponent": "Selston FC U12"
-    },
     {
       "id": "75df7ad42fef6e74c9ba714fa8431a04",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f2d6e01e181f9dfb92f6a898eaf7352c",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Selston FC U12",
+      "away_team": "Notts Olympic FC U12",
+      "home_score": 9,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sun Spring Div 2 Red",
+      "home_away": "away",
+      "opponent": "Selston FC U12",
+      "goals_for": 1,
+      "goals_against": 9
+    },
     {
       "id": "e2308a68b9e7e76cc4c322697ec4c3fe",
       "date": "2026-03-29",

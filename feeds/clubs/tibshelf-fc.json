@@ -1,6 +1,6 @@
 {
   "club": "Tibshelf FC",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
     {
       "id": "d116a8e17c30002dddbead72dbebc204",
@@ -16,19 +16,6 @@
       "opponent": "Eastwood CFC Reds U8"
     },
     {
-      "id": "eadc6be938124f202d4fe81e3daf3283",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Willow Wanderers Sharks U9",
-      "away_team": "Tibshelf FC Tigers U9",
-      "venue": "Carlton le Willows School NG4 4AA",
-      "division": "U9 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Tibshelf FC Tigers U9",
-      "home_away": "away",
-      "opponent": "Willow Wanderers Sharks U9"
-    },
-    {
       "id": "d7052d8869184ecd4590df48ac374811",
       "date": "2026-04-19",
       "time": "10:00",
@@ -40,32 +27,6 @@
       "team": "Tibshelf FC U10",
       "home_away": "home",
       "opponent": "Hucknall Town Warriors U10"
-    },
-    {
-      "id": "82ac894820543611df8f3766bb70a3f3",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "ASFC Wolves U10",
-      "away_team": "Tibshelf FC U10",
-      "venue": "Park Road Recreation Ground NG20 8JG",
-      "division": "U10 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Tibshelf FC U10",
-      "home_away": "away",
-      "opponent": "ASFC Wolves U10"
-    },
-    {
-      "id": "fd0024cba7b9079d9f64f56e04549e42",
-      "date": "2026-04-19",
-      "time": "12:30",
-      "home_team": "Meden Vale Colts Green U7",
-      "away_team": "Tibshelf FC Black U7",
-      "venue": "Elkesley Road Ground NG20 9PS",
-      "division": "U7 Sun Spring Orange",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Tibshelf FC Black U7",
-      "home_away": "away",
-      "opponent": "Meden Vale Colts Green U7"
     },
     {
       "id": "c67e69e7e519b8c71517d89f15b93299",
@@ -134,6 +95,57 @@
     }
   ],
   "results": [
+    {
+      "id": "fd0024cba7b9079d9f64f56e04549e42",
+      "date": "2026-04-19",
+      "time": "12:30",
+      "home_team": "Meden Vale Colts Green U7",
+      "away_team": "Tibshelf FC Black U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring Orange",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Tibshelf FC Black U7",
+      "home_away": "away",
+      "opponent": "Meden Vale Colts Green U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "eadc6be938124f202d4fe81e3daf3283",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Willow Wanderers Sharks U9",
+      "away_team": "Tibshelf FC Tigers U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Tibshelf FC Tigers U9",
+      "home_away": "away",
+      "opponent": "Willow Wanderers Sharks U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "82ac894820543611df8f3766bb70a3f3",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "ASFC Wolves U10",
+      "away_team": "Tibshelf FC U10",
+      "home_score": 6,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sun Spring Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Tibshelf FC U10",
+      "home_away": "away",
+      "opponent": "ASFC Wolves U10",
+      "goals_for": 3,
+      "goals_against": 6
+    },
     {
       "id": "b848ce0b1cf41ee5879b7c91575f3e61",
       "date": "2026-04-18",

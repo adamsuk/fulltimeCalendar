@@ -1,19 +1,8 @@
 {
   "team": "Stapleford Town FC U15 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "478663cafef300d8a4905a4b64852f96",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Selston F.C. Youth U15 FC",
-      "away_team": "Stapleford Town FC U15 Girls",
-      "venue": "Selston F.C. Youth Selston FC U14 Girls",
-      "division": "U15 Div 3",
-      "home_away": "away",
-      "opponent": "Selston F.C. Youth U15 FC"
-    },
     {
       "id": "20685b864d7ec4c63de4fe108d27a608",
       "date": "2026-04-26",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "478663cafef300d8a4905a4b64852f96",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Selston F.C. Youth U15 FC",
+      "away_team": "Stapleford Town FC U15 Girls",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U15 Div 3",
+      "home_away": "away",
+      "opponent": "Selston F.C. Youth U15 FC",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "a29c98849fd616f2e8d9504560a5ebd8",
       "date": "2026-03-29",

@@ -1,19 +1,8 @@
 {
   "team": "Spirit Celtic White U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "a925ad25eca552b75daba3185054444c",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Spirit Celtic White U11",
-      "away_team": "Silva FC Carlton Red U11",
-      "venue": "Becket School NG2 7QY",
-      "division": "U11 Sun Spring Div 5 Blue",
-      "home_away": "home",
-      "opponent": "Silva FC Carlton Red U11"
-    },
     {
       "id": "4333b8564f909f9fee7c07d90ebcbf68",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a925ad25eca552b75daba3185054444c",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Spirit Celtic White U11",
+      "away_team": "Silva FC Carlton Red U11",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sun Spring Div 5 Blue",
+      "home_away": "home",
+      "opponent": "Silva FC Carlton Red U11",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "392953c9907f75136e4bd658a0e9a95a",
       "date": "2026-03-22",

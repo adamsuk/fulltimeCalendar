@@ -1,19 +1,8 @@
 {
   "team": "Asfordby Panthers U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "a14e6c2bf155279a09376a6a3fa253ce",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Alfreton Town All Stars U13",
-      "away_team": "Asfordby Panthers U13",
-      "venue": "David Nieper Academy DE55 7JA",
-      "division": "U13 Sun Spring Div 3",
-      "home_away": "away",
-      "opponent": "Alfreton Town All Stars U13"
-    },
     {
       "id": "ca017352c86b699717945b7e92bc8537",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a14e6c2bf155279a09376a6a3fa253ce",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Alfreton Town All Stars U13",
+      "away_team": "Asfordby Panthers U13",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sun Spring Div 3",
+      "home_away": "away",
+      "opponent": "Alfreton Town All Stars U13",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "4e80443f0c6a67b086d2619713c9e8f5",
       "date": "2026-03-22",

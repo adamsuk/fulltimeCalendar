@@ -1,19 +1,8 @@
 {
   "team": "AC United U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "a9323557b0ffabb57a349359d8e3917e",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Attenborough Colts Green U10",
-      "away_team": "AC United U10",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U10 Sunday",
-      "home_away": "away",
-      "opponent": "Attenborough Colts Green U10"
-    },
     {
       "id": "b2d793515fc772a563692054f2da8492",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a9323557b0ffabb57a349359d8e3917e",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Attenborough Colts Green U10",
+      "away_team": "AC United U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sunday",
+      "home_away": "away",
+      "opponent": "Attenborough Colts Green U10",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "fa52cc39800fd0aaf1381727830a65c6",
       "date": "2026-03-29",

@@ -1,6 +1,6 @@
 {
   "club": "Pegasus FC",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
     {
       "id": "fc8098c162e51af805d9f0ad00a5c2dd",
@@ -14,45 +14,6 @@
       "team": "Pegasus FC",
       "home_away": "home",
       "opponent": "Newark Town FC U23's"
-    },
-    {
-      "id": "31be6c8b15cb6894acb8c7ae864f8b10",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Pegasus FC U13",
-      "away_team": "Mansfield Athletic U13",
-      "venue": "Pasture Road Recreation Ground NG9 8GN",
-      "division": "U13 Sun Spring Div 5 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Pegasus FC U13",
-      "home_away": "home",
-      "opponent": "Mansfield Athletic U13"
-    },
-    {
-      "id": "7361f7afbdb6374165601578b35e29a2",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Pegasus FC U9",
-      "away_team": "Wollaton H&B Panthers U9",
-      "venue": "Pasture Road Recreation Ground NG9 8GN",
-      "division": "U9 Sun Spring Div 7",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Pegasus FC U9",
-      "home_away": "home",
-      "opponent": "Wollaton H&B Panthers U9"
-    },
-    {
-      "id": "0e88fcd74e681a52ab779c5341581e1e",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Pegasus FC U12",
-      "away_team": "Barrowby FC Green U12",
-      "venue": "Pasture Road Recreation Ground NG9 8GN",
-      "division": "U12 Sun Spring Div 7",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Pegasus FC U12",
-      "home_away": "home",
-      "opponent": "Barrowby FC Green U12"
     },
     {
       "id": "9c041d7397d6d6536879d3514d5f58a4",
@@ -199,6 +160,57 @@
     }
   ],
   "results": [
+    {
+      "id": "0e88fcd74e681a52ab779c5341581e1e",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Pegasus FC U12",
+      "away_team": "Barrowby FC Green U12",
+      "home_score": 4,
+      "away_score": 5,
+      "venue": "",
+      "division": "U12 Sun Spring Div 7",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Pegasus FC U12",
+      "home_away": "home",
+      "opponent": "Barrowby FC Green U12",
+      "goals_for": 4,
+      "goals_against": 5
+    },
+    {
+      "id": "31be6c8b15cb6894acb8c7ae864f8b10",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Pegasus FC U13",
+      "away_team": "Mansfield Athletic U13",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sun Spring Div 5 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Pegasus FC U13",
+      "home_away": "home",
+      "opponent": "Mansfield Athletic U13",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
+      "id": "7361f7afbdb6374165601578b35e29a2",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Pegasus FC U9",
+      "away_team": "Wollaton H&B Panthers U9",
+      "home_score": 12,
+      "away_score": 6,
+      "venue": "",
+      "division": "U9 Sun Spring Div 7",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Pegasus FC U9",
+      "home_away": "home",
+      "opponent": "Wollaton H&B Panthers U9",
+      "goals_for": 12,
+      "goals_against": 6
+    },
     {
       "id": "a80c3e350c168c786948befc00b36290",
       "date": "2026-04-18",

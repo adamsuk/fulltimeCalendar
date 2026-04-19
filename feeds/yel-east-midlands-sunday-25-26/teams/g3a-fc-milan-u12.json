@@ -1,19 +1,8 @@
 {
   "team": "G3A FC Milan U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "26a1f4b74d1ffe42433fa0254ab2b8d5",
-      "date": "2026-04-19",
-      "time": "11:15",
-      "home_team": "G3A FC Milan U12",
-      "away_team": "Woodborough Celtic U12",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U12 Sunday",
-      "home_away": "home",
-      "opponent": "Woodborough Celtic U12"
-    },
     {
       "id": "edf381444e4037fa37d803273166cbc3",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "26a1f4b74d1ffe42433fa0254ab2b8d5",
+      "date": "2026-04-19",
+      "time": "11:15",
+      "home_team": "G3A FC Milan U12",
+      "away_team": "Woodborough Celtic U12",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sunday",
+      "home_away": "home",
+      "opponent": "Woodborough Celtic U12",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "148df010e6b6a8ace965e8b7906158f5",
       "date": "2026-03-22",

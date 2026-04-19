@@ -1,19 +1,8 @@
 {
   "team": "Nottingham FC Blue U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "163f0ab7ff76a5ff5f87abeaf518045f",
-      "date": "2026-04-19",
-      "time": "09:45",
-      "home_team": "Sherwood Colliery Outlaws U12",
-      "away_team": "Nottingham FC Blue U12",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U12 Sun Spring Div 1 Gold",
-      "home_away": "away",
-      "opponent": "Sherwood Colliery Outlaws U12"
-    },
     {
       "id": "44cca9b9cf7ff4a94bfa6f301033bfd4",
       "date": "2026-04-23",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "163f0ab7ff76a5ff5f87abeaf518045f",
+      "date": "2026-04-19",
+      "time": "09:45",
+      "home_team": "Sherwood Colliery Outlaws U12",
+      "away_team": "Nottingham FC Blue U12",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sun Spring Div 1 Gold",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery Outlaws U12",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "daff3f3dfb8702cee3decb5486f9496c",
       "date": "2026-04-16",

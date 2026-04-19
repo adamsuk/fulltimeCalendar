@@ -1,19 +1,8 @@
 {
   "team": "Vale FC U7",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "e5755efbaff5c3be181df0e131a41b08",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Barrowby FC Black U7",
-      "away_team": "Vale FC U7",
-      "venue": "Low Field NG32 1DJ",
-      "division": "U7 Sunday",
-      "home_away": "away",
-      "opponent": "Barrowby FC Black U7"
-    },
     {
       "id": "c65f643bbb05d8ad8398d1fa81569728",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e5755efbaff5c3be181df0e131a41b08",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Barrowby FC Black U7",
+      "away_team": "Vale FC U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sunday",
+      "home_away": "away",
+      "opponent": "Barrowby FC Black U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "0a8f804078aa422286e09b2eef126273",
       "date": "2026-04-12",

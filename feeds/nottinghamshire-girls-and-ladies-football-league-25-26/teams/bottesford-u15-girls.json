@@ -1,19 +1,8 @@
 {
   "team": "Bottesford U15 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "b51c8aaabb9c31a84c146e9f5b7e34c0",
-      "date": "2026-04-19",
-      "time": "10:30",
-      "home_team": "Bottesford U15 Girls",
-      "away_team": "Sherwood Colliery F.C. Ladies U15",
-      "venue": "BOTTESFORD FC",
-      "division": "U15 Div 2",
-      "home_away": "home",
-      "opponent": "Sherwood Colliery F.C. Ladies U15"
-    },
     {
       "id": "8b9753985036ab652d9e0b7f320cc9c5",
       "date": "2026-04-26",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b51c8aaabb9c31a84c146e9f5b7e34c0",
+      "date": "2026-04-19",
+      "time": "10:30",
+      "home_team": "Bottesford U15 Girls",
+      "away_team": "Sherwood Colliery F.C. Ladies U15",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
+      "division": "U15 Div 2",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery F.C. Ladies U15",
+      "goals_for": 5,
+      "goals_against": 3
+    },
     {
       "id": "c89708ab2b51581c03c80c7a10d4328c",
       "date": "2026-04-12",

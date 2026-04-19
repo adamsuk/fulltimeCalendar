@@ -1,6 +1,6 @@
 {
   "club": "Keyworth",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
     {
       "id": "971a421aecb8d1f3b3d3cb4f0a855478",
@@ -14,19 +14,6 @@
       "team": "Keyworth Utd Fanzines U12",
       "home_away": "home",
       "opponent": "Bestwood Colliery Red U12"
-    },
-    {
-      "id": "025e4dc2670ebc90f2b922bc86cfff20",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Keyworth Utd Fanzines U12",
-      "away_team": "Ruddington Village Black U12",
-      "venue": "Lothian Road NG12 4EH",
-      "division": "U12 Sun Spring Div 3 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Keyworth Utd Fanzines U12",
-      "home_away": "home",
-      "opponent": "Ruddington Village Black U12"
     },
     {
       "id": "16c2024a8ae400ad5b14c6e98260cdb3",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "025e4dc2670ebc90f2b922bc86cfff20",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Keyworth Utd Fanzines U12",
+      "away_team": "Ruddington Village Black U12",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U12 Sun Spring Div 3 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Keyworth Utd Fanzines U12",
+      "home_away": "home",
+      "opponent": "Ruddington Village Black U12",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "a47dbc5089efc9505bf35bf3e7d94f45",
       "date": "2026-03-29",

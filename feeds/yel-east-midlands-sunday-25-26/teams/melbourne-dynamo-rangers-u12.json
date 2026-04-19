@@ -1,19 +1,8 @@
 {
   "team": "Melbourne Dynamo Rangers U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "8d9215aab75752a9f4b45ffb8847eee1",
-      "date": "2026-04-19",
-      "time": "11:30",
-      "home_team": "Melbourne Dynamo Rangers U12",
-      "away_team": "Cotgrave FC White U12",
-      "venue": "Ridley Sports Ground NG12 3HA",
-      "division": "U12 Sun Spring Div 2 Blue",
-      "home_away": "home",
-      "opponent": "Cotgrave FC White U12"
-    },
     {
       "id": "9b49033515e43f02acf7afcd771dac95",
       "date": "2026-04-23",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8d9215aab75752a9f4b45ffb8847eee1",
+      "date": "2026-04-19",
+      "time": "11:30",
+      "home_team": "Melbourne Dynamo Rangers U12",
+      "away_team": "Cotgrave FC White U12",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sun Spring Div 2 Blue",
+      "home_away": "home",
+      "opponent": "Cotgrave FC White U12",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "d850c870935cd5f9046be0f6adfa92ab",
       "date": "2026-03-22",

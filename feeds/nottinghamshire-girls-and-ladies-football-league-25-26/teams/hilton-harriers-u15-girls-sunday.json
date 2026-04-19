@@ -1,19 +1,8 @@
 {
   "team": "Hilton Harriers U15 Girls Sunday",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "68e3b7bf19b9bfbe48f382028311d075",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Hilton Harriers U15 Girls Sunday",
-      "away_team": "Willow Wanderers F.C. Youth U15 Amazons",
-      "venue": "THE MEASE PAVILION - HILTON HARRIERS FC",
-      "division": "U15 Div 2",
-      "home_away": "home",
-      "opponent": "Willow Wanderers F.C. Youth U15 Amazons"
-    },
     {
       "id": "3f81f8c266768f981ad56049f2cb76e7",
       "date": "2026-04-22",
@@ -93,6 +82,21 @@
     }
   ],
   "results": [
+    {
+      "id": "68e3b7bf19b9bfbe48f382028311d075",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Hilton Harriers U15 Girls Sunday",
+      "away_team": "Willow Wanderers F.C. Youth U15 Amazons",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U15 Div 2",
+      "home_away": "home",
+      "opponent": "Willow Wanderers F.C. Youth U15 Amazons",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "791d58048ddcf6583f26e88013e7bc41",
       "date": "2026-04-15",

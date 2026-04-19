@@ -1,19 +1,8 @@
 {
   "team": "Barrowby Junior Black U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "0d40859d8a71264ebd22d58229ca02e4",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Sports Gateway Phoenix U13",
-      "away_team": "Barrowby Junior Black U13",
-      "venue": "Papplewick Green NG15 8HR",
-      "division": "U13 Sun Spring Div 5 Silver",
-      "home_away": "away",
-      "opponent": "Sports Gateway Phoenix U13"
-    },
     {
       "id": "b058465bd0ae2d59d2fc30ebe951e135",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0d40859d8a71264ebd22d58229ca02e4",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Sports Gateway Phoenix U13",
+      "away_team": "Barrowby Junior Black U13",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sun Spring Div 5 Silver",
+      "home_away": "away",
+      "opponent": "Sports Gateway Phoenix U13",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "79ad7fbad4a52208b70032d11ba7d610",
       "date": "2026-03-15",

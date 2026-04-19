@@ -1,19 +1,8 @@
 {
   "team": "Bingham Town F.C. U16 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "c04d79f92d3a8ce7eed20ec76a0d8748",
-      "date": "2026-04-19",
-      "time": "11:30",
-      "home_team": "Bingham Town F.C. U16 Girls",
-      "away_team": "Radcliffe Olympic FC U16 Girls",
-      "venue": "BUTT FIELD SPORTS CLUB",
-      "division": "U16 Div 2",
-      "home_away": "home",
-      "opponent": "Radcliffe Olympic FC U16 Girls"
-    },
     {
       "id": "a4c6a226d762d28c944c7c112f5f2bba",
       "date": "2026-05-03",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c04d79f92d3a8ce7eed20ec76a0d8748",
+      "date": "2026-04-19",
+      "time": "11:30",
+      "home_team": "Bingham Town F.C. U16 Girls",
+      "away_team": "Radcliffe Olympic FC U16 Girls",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U16 Div 2",
+      "home_away": "home",
+      "opponent": "Radcliffe Olympic FC U16 Girls",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "802a25a765e9c76cbaaa06fa2a742459",
       "date": "2026-04-12",

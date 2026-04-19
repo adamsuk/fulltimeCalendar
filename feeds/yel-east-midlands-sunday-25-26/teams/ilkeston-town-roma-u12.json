@@ -1,19 +1,8 @@
 {
   "team": "Ilkeston Town Roma U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "d7aa17b05f8a9e39b41c91ef49153249",
-      "date": "2026-04-19",
-      "time": "11:30",
-      "home_team": "Ilkeston Town Roma U12",
-      "away_team": "Ancaster Athletic U12",
-      "venue": "Booths Playing Fields DE7 8JF",
-      "division": "U12 Sun Spring Div 4",
-      "home_away": "home",
-      "opponent": "Ancaster Athletic U12"
-    },
     {
       "id": "3d19ff14f4424bcd7407a3a21c060ded",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d7aa17b05f8a9e39b41c91ef49153249",
+      "date": "2026-04-19",
+      "time": "11:30",
+      "home_team": "Ilkeston Town Roma U12",
+      "away_team": "Ancaster Athletic U12",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sun Spring Div 4",
+      "home_away": "home",
+      "opponent": "Ancaster Athletic U12",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "609a8fdd9161cc1a6044659a6209b382",
       "date": "2026-03-22",

@@ -1,19 +1,8 @@
 {
   "team": "Bestwood Colliery U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "2ecffe52820f8f2222441edc5d0d144f",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "PMG Excel U11",
-      "away_team": "Bestwood Colliery U11",
-      "venue": "Bulwell Hall Park NG6 8LF",
-      "division": "U11 Sun Spring Div 4 Red",
-      "home_away": "away",
-      "opponent": "PMG Excel U11"
-    },
     {
       "id": "7061fe5b63793ce9bb7a1137d20a6f94",
       "date": "2026-04-23",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2ecffe52820f8f2222441edc5d0d144f",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "PMG Excel U11",
+      "away_team": "Bestwood Colliery U11",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sun Spring Div 4 Red",
+      "home_away": "away",
+      "opponent": "PMG Excel U11",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "b3c306f1b2f698527cfe4ffc00a229a6",
       "date": "2026-03-22",

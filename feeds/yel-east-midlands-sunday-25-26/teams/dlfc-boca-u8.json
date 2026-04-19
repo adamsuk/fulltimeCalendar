@@ -1,19 +1,8 @@
 {
   "team": "DLFC Boca U8",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "b1b3d5256017001ef5a5f08f631c3683",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Aspire FC U8",
-      "away_team": "DLFC Boca U8",
-      "venue": "Nottingham Trent University NG11 8NS",
-      "division": "U8 Sun Spring 1",
-      "home_away": "away",
-      "opponent": "Aspire FC U8"
-    },
     {
       "id": "5e8281f8d85c6e202d189cba04f65e1c",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b1b3d5256017001ef5a5f08f631c3683",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Aspire FC U8",
+      "away_team": "DLFC Boca U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sun Spring 1",
+      "home_away": "away",
+      "opponent": "Aspire FC U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "dbe6b24c302ec0e1fe837e8140eb8648",
       "date": "2026-04-12",

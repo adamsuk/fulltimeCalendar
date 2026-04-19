@@ -1,19 +1,8 @@
 {
   "team": "Quarrydale United Rangers U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "f59ef0c7c90634147b0c12a6bb25c7a1",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Calverton MW Blue U9",
-      "away_team": "Quarrydale United Rangers U9",
-      "venue": "Kinton Park NG14 6NR",
-      "division": "U9 Sun Spring Div 5 Red",
-      "home_away": "away",
-      "opponent": "Calverton MW Blue U9"
-    },
     {
       "id": "9e556453f86d81f7d56341fe3145694c",
       "date": "2026-04-26",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f59ef0c7c90634147b0c12a6bb25c7a1",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Calverton MW Blue U9",
+      "away_team": "Quarrydale United Rangers U9",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sun Spring Div 5 Red",
+      "home_away": "away",
+      "opponent": "Calverton MW Blue U9",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "e92523830f2aa4a65dbc926036bcc5b8",
       "date": "2026-03-29",

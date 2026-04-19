@@ -1,19 +1,8 @@
 {
   "team": "South Normanton Ath Blue U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "8b4c6e1b3fd6ce9232166b087b1e3713",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Breaston Park Green U13",
-      "away_team": "South Normanton Ath Blue U13",
-      "venue": "Wilsthorpe high school NG10 4WT",
-      "division": "U13 Sun Spring Div 6",
-      "home_away": "away",
-      "opponent": "Breaston Park Green U13"
-    },
     {
       "id": "39eca744827f348db726635bee6203c1",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8b4c6e1b3fd6ce9232166b087b1e3713",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Breaston Park Green U13",
+      "away_team": "South Normanton Ath Blue U13",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sun Spring Div 6",
+      "home_away": "away",
+      "opponent": "Breaston Park Green U13",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "76dfb18f01da224a647b21f7d22fcf5a",
       "date": "2026-04-15",

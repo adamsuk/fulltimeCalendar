@@ -1,19 +1,8 @@
 {
   "team": "Cotgrave FC U12 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "13f4b7c824c049b92a4fca47bdb4d249",
-      "date": "2026-04-19",
-      "time": "09:30",
-      "home_team": "Long Eaton United U12 Girls",
-      "away_team": "Cotgrave FC U12 Girls",
-      "venue": "GRANGE PARK",
-      "division": "U12 Div 1 P2",
-      "home_away": "away",
-      "opponent": "Long Eaton United U12 Girls"
-    },
     {
       "id": "d1080865e99bcb235566792f3eb9c95b",
       "date": "2026-04-26",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "13f4b7c824c049b92a4fca47bdb4d249",
+      "date": "2026-04-19",
+      "time": "09:30",
+      "home_team": "Long Eaton United U12 Girls",
+      "away_team": "Cotgrave FC U12 Girls",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Div 1 P2",
+      "home_away": "away",
+      "opponent": "Long Eaton United U12 Girls",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "ed7108f8ab6e371c9c1f0487f76810e0",
       "date": "2026-04-12",

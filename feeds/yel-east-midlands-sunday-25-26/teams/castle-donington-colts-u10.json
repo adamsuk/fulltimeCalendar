@@ -1,19 +1,8 @@
 {
   "team": "Castle Donington Colts U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "ca3600ba3fad7e26e0847723074a8d58",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Castle Donington Colts U10",
-      "away_team": "WBYFC Leverkusen U10",
-      "venue": "Spital Park DE74 2NQ",
-      "division": "U10 Sun Spring Div 6 Blue",
-      "home_away": "home",
-      "opponent": "WBYFC Leverkusen U10"
-    },
     {
       "id": "b863217989d28fb29ccf584085a595c1",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ca3600ba3fad7e26e0847723074a8d58",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Castle Donington Colts U10",
+      "away_team": "WBYFC Leverkusen U10",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sun Spring Div 6 Blue",
+      "home_away": "home",
+      "opponent": "WBYFC Leverkusen U10",
+      "goals_for": 5,
+      "goals_against": 2
+    },
     {
       "id": "e8c00f3f981763fcd2c2bfc6b6ba60a8",
       "date": "2026-03-22",

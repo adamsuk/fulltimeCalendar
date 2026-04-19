@@ -1,19 +1,8 @@
 {
   "team": "Eastwood CFC Aces U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "6f2bf0e2890354845de5d019bf2c559f",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Eastwood CFC Aces U10",
-      "away_team": "DLFC Gold U10",
-      "venue": "Coronation Park NG16 3HB",
-      "division": "U10 Sun Spring Div 1 Gold",
-      "home_away": "home",
-      "opponent": "DLFC Gold U10"
-    },
     {
       "id": "17b7f1511baf70fcdc4aa4c58817bc1a",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6f2bf0e2890354845de5d019bf2c559f",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Eastwood CFC Aces U10",
+      "away_team": "DLFC Gold U10",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sun Spring Div 1 Gold",
+      "home_away": "home",
+      "opponent": "DLFC Gold U10",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "657450090561124d7c94561b52d3c3ea",
       "date": "2026-03-22",

@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Mavericks U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "a02f841a53a3ed7960f7492a9a864f68",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "WBYFC Mavericks U12",
-      "away_team": "Robin Hood Colts U12",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U12 Sun Spring Div 4",
-      "home_away": "home",
-      "opponent": "Robin Hood Colts U12"
-    },
     {
       "id": "587850852bc967565cef3b79372f317f",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a02f841a53a3ed7960f7492a9a864f68",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "WBYFC Mavericks U12",
+      "away_team": "Robin Hood Colts U12",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sun Spring Div 4",
+      "home_away": "home",
+      "opponent": "Robin Hood Colts U12",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "6517db00a41848635ae754147d7f9760",
       "date": "2026-03-15",

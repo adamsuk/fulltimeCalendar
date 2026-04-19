@@ -1,19 +1,8 @@
 {
   "team": "Ravenshead Reds U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "3fba777a574ae6e652118fa4c04db24a",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Ravenshead Reds U14",
-      "away_team": "Beaufort United Blue U14",
-      "venue": "Joseph Whitaker School NG21 0AG",
-      "division": "U14 Sun Spring Div 5",
-      "home_away": "home",
-      "opponent": "Beaufort United Blue U14"
-    },
     {
       "id": "3b21b8aa09fbc279baa752bfdeaadab1",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "3fba777a574ae6e652118fa4c04db24a",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Ravenshead Reds U14",
+      "away_team": "Beaufort United Blue U14",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Sun Spring Div 5",
+      "home_away": "home",
+      "opponent": "Beaufort United Blue U14",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "7b83eb2c00f527d1b9442b5d73ae2f75",
       "date": "2026-03-22",

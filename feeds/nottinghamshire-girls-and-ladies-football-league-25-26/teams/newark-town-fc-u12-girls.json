@@ -1,19 +1,8 @@
 {
   "team": "Newark Town FC U12 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "1ab3d8097c25ee8dd32237c1785dcd64",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Burton Joyce F.C. Girls U12 Outlaws",
-      "away_team": "Newark Town FC U12 Girls",
-      "venue": "POPLARS SPORTS GROUND",
-      "division": "U12 Div 3 P2",
-      "home_away": "away",
-      "opponent": "Burton Joyce F.C. Girls U12 Outlaws"
-    },
     {
       "id": "1171054344e2b3a78f232e24ea735c7f",
       "date": "2026-04-26",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "1ab3d8097c25ee8dd32237c1785dcd64",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Burton Joyce F.C. Girls U12 Outlaws",
+      "away_team": "Newark Town FC U12 Girls",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Div 3 P2",
+      "home_away": "away",
+      "opponent": "Burton Joyce F.C. Girls U12 Outlaws",
+      "goals_for": 4,
+      "goals_against": 3
+    },
     {
       "id": "a4337321ca49f9a392f7fbe994785799",
       "date": "2026-04-12",

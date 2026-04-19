@@ -1,19 +1,8 @@
 {
   "team": "Heanor Town Juniors U16 Tornados",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "233f1f8180ef8ebd6cc01f6097278da8",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Heanor Town Juniors U16 Tornados",
-      "away_team": "Pelican Colts F.C. Youth U16 girls",
-      "venue": "ALDERCAR RECREATION GROUND",
-      "division": "U16 Div 3",
-      "home_away": "home",
-      "opponent": "Pelican Colts F.C. Youth U16 girls"
-    },
     {
       "id": "c8943f67e392d8df93bfe53e88834422",
       "date": "2026-04-26",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "233f1f8180ef8ebd6cc01f6097278da8",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Heanor Town Juniors U16 Tornados",
+      "away_team": "Pelican Colts F.C. Youth U16 girls",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U16 Div 3",
+      "home_away": "home",
+      "opponent": "Pelican Colts F.C. Youth U16 girls",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "5810dc872352bb9de4f390e591c68689",
       "date": "2026-04-12",

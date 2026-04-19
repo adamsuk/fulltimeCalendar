@@ -1,19 +1,8 @@
 {
   "team": "Ilkeston Town Titans U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "03d91fd4f0e1af41c4e457860c7c8345",
-      "date": "2026-04-19",
-      "time": "11:15",
-      "home_team": "Ilkeston Town Titans U9",
-      "away_team": "Attenborough Colts Yellow U9",
-      "venue": "Booths Playing Fields DE7 8JF",
-      "division": "U9 Sun Spring Div 4 Blue",
-      "home_away": "home",
-      "opponent": "Attenborough Colts Yellow U9"
-    },
     {
       "id": "00ed875eb7e2cc0444fc0d9cfe38a008",
       "date": "2026-04-23",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "03d91fd4f0e1af41c4e457860c7c8345",
+      "date": "2026-04-19",
+      "time": "11:15",
+      "home_team": "Ilkeston Town Titans U9",
+      "away_team": "Attenborough Colts Yellow U9",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sun Spring Div 4 Blue",
+      "home_away": "home",
+      "opponent": "Attenborough Colts Yellow U9",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "8bd79d5121d9a61777b680fe93257b7d",
       "date": "2026-03-29",

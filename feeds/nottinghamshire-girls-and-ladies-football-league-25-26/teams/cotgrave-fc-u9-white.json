@@ -1,19 +1,8 @@
 {
   "team": "Cotgrave FC U9 White",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "01505957871af2586acc426e0cd17ef4",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "West Bridgford Colts U9 Nova",
-      "away_team": "Cotgrave FC U9 White",
-      "venue": "RH ACADEMY",
-      "division": "U9 League Cup",
-      "home_away": "away",
-      "opponent": "West Bridgford Colts U9 Nova"
-    },
     {
       "id": "9f16104c6655671d53766c0c97d4ea9c",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "01505957871af2586acc426e0cd17ef4",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "West Bridgford Colts U9 Nova",
+      "away_team": "Cotgrave FC U9 White",
+      "home_score": 2,
+      "away_score": 7,
+      "venue": "",
+      "division": "U9 League Cup",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U9 Nova",
+      "goals_for": 7,
+      "goals_against": 2
+    },
     {
       "id": "6538ce0e0f3e927c2a931d46b4ab9869",
       "date": "2026-04-12",

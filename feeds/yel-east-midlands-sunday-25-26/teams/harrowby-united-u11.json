@@ -1,19 +1,8 @@
 {
   "team": "Harrowby United U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "67b4d19c174ee1cb2ab2e691e1a9209a",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Harrowby United U11",
-      "away_team": "Underwood Villa Tigers U11",
-      "venue": "HARROWBY LANE PLAYING FIELDS NG31 9QY",
-      "division": "U11 Sun Spring Div 1",
-      "home_away": "home",
-      "opponent": "Underwood Villa Tigers U11"
-    },
     {
       "id": "3118f3da533c5baaf0515b0cb0f0cfd7",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "67b4d19c174ee1cb2ab2e691e1a9209a",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Harrowby United U11",
+      "away_team": "Underwood Villa Tigers U11",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sun Spring Div 1",
+      "home_away": "home",
+      "opponent": "Underwood Villa Tigers U11",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "f2724d2096042255080095b676ae5462",
       "date": "2026-04-16",

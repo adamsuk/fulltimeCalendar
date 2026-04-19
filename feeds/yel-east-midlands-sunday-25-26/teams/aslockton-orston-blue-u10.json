@@ -1,19 +1,8 @@
 {
   "team": "Aslockton & Orston Blue U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "3d1701988abbe297ba000556ab9316d1",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Aslockton & Orston Blue U10",
-      "away_team": "Mapperley All Stars Stripes U10",
-      "venue": "Orston Sports Field  NG13 9PL",
-      "division": "U10 Sun Spring Div 2 Blue",
-      "home_away": "home",
-      "opponent": "Mapperley All Stars Stripes U10"
-    },
     {
       "id": "9a815a40a3e1dd7235d5258ef2c27cc6",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "3d1701988abbe297ba000556ab9316d1",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Aslockton & Orston Blue U10",
+      "away_team": "Mapperley All Stars Stripes U10",
+      "home_score": 7,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sun Spring Div 2 Blue",
+      "home_away": "home",
+      "opponent": "Mapperley All Stars Stripes U10",
+      "goals_for": 7,
+      "goals_against": 1
+    },
     {
       "id": "0a05124c010b51a118a592d754e10233",
       "date": "2026-03-29",

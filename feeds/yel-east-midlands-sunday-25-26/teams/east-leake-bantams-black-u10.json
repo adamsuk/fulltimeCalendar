@@ -1,19 +1,8 @@
 {
   "team": "East Leake Bantams Black U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "bdffb89eb6e5f81d4b3ffd80810c97a1",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Gedling Southbank Titans U10",
-      "away_team": "East Leake Bantams Black U10",
-      "venue": "Redhill Leisure Centre NG5 8GX",
-      "division": "U10 Sun Spring Div 5 Blue",
-      "home_away": "away",
-      "opponent": "Gedling Southbank Titans U10"
-    },
     {
       "id": "60e076772df5da41056f4bcb1ed2faca",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "bdffb89eb6e5f81d4b3ffd80810c97a1",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Gedling Southbank Titans U10",
+      "away_team": "East Leake Bantams Black U10",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "U10 Sun Spring Div 5 Blue",
+      "home_away": "away",
+      "opponent": "Gedling Southbank Titans U10",
+      "goals_for": 0,
+      "goals_against": 5
+    },
     {
       "id": "1010769665e69b3b4e933f1e9ba5fcd4",
       "date": "2026-03-29",

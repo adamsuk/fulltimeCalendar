@@ -1,19 +1,8 @@
 {
   "team": "Shirebrook Rangers Blue U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "5b3480c2a34230257659e63ceeda9b77",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Shirebrook Rangers Blue U11",
-      "away_team": "Shirebrook Rangers Red U11",
-      "venue": "Shirebrook Academy NG20 8QF",
-      "division": "U11 Sun Spring Div 5 Red",
-      "home_away": "home",
-      "opponent": "Shirebrook Rangers Red U11"
-    },
     {
       "id": "1d3a1d29b0df7ba8129dffb9e1079d3d",
       "date": "2026-04-23",
@@ -35,9 +24,35 @@
       "division": "U11 Sunday",
       "home_away": "away",
       "opponent": "Meden Vale Colts Green U11"
+    },
+    {
+      "id": "70c6cc958c431d4df066743dff65df21",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "Manor FC U11",
+      "away_team": "Shirebrook Rangers Blue U11",
+      "venue": "Manor Park Sports Complex NG19 8JX",
+      "division": "U11 Sun Spring Div 5 Red",
+      "home_away": "away",
+      "opponent": "Manor FC U11"
     }
   ],
   "results": [
+    {
+      "id": "5b3480c2a34230257659e63ceeda9b77",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Shirebrook Rangers Blue U11",
+      "away_team": "Shirebrook Rangers Red U11",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "U11 Sun Spring Div 5 Red",
+      "home_away": "home",
+      "opponent": "Shirebrook Rangers Red U11",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "d1dd660984f137ed9b0847a56ae23bae",
       "date": "2026-03-22",

@@ -1,19 +1,8 @@
 {
   "team": "Spirit Celtic Tigers U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "51ff2af2dd76c1161df9a378c14c48ca",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Pelican Colts Yellow U12",
-      "away_team": "Spirit Celtic Tigers U12",
-      "venue": "Dave Eastwood Sports Ground NG7 2SA",
-      "division": "U12 Sun Spring Div 5",
-      "home_away": "away",
-      "opponent": "Pelican Colts Yellow U12"
-    },
     {
       "id": "9fcadef0e4dcbb9a9e124f5bb7dadbd1",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "51ff2af2dd76c1161df9a378c14c48ca",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Pelican Colts Yellow U12",
+      "away_team": "Spirit Celtic Tigers U12",
+      "home_score": 1,
+      "away_score": 8,
+      "venue": "",
+      "division": "U12 Sun Spring Div 5",
+      "home_away": "away",
+      "opponent": "Pelican Colts Yellow U12",
+      "goals_for": 8,
+      "goals_against": 1
+    },
     {
       "id": "44778a874c9a49470dda237106e69aa6",
       "date": "2026-03-29",

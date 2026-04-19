@@ -1,20 +1,7 @@
 {
   "club": "Coalville Town Ravenettes",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "fccb518428df8cef030bfb2c1176635e",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Wollaton H&B Gold U10",
-      "away_team": "Coalville Town Ravenettes U10 ^",
-      "venue": "The Trinity Catholic School NG8 3EZ",
-      "division": "U10 Sun Spring Div 6 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Coalville Town Ravenettes U10 ^",
-      "home_away": "away",
-      "opponent": "Wollaton H&B Gold U10"
-    },
     {
       "id": "20ebca4f30727e72d123dc2146b75522",
       "date": "2026-04-25",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "fccb518428df8cef030bfb2c1176635e",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Wollaton H&B Gold U10",
+      "away_team": "Coalville Town Ravenettes U10 ^",
+      "home_score": 2,
+      "away_score": 7,
+      "venue": "",
+      "division": "U10 Sun Spring Div 6 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Coalville Town Ravenettes U10 ^",
+      "home_away": "away",
+      "opponent": "Wollaton H&B Gold U10",
+      "goals_for": 7,
+      "goals_against": 2
+    },
     {
       "id": "da9a0c7461fdc1f1b5ef09ef198e02ed",
       "date": "2026-04-18",

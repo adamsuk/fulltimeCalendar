@@ -1,19 +1,8 @@
 {
   "team": "Gonerby Blue U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "d3e4a4bba07ade7ed46dc5546d3a6563",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "DLFC SFK U13",
-      "away_team": "Gonerby Blue U13",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U13 Sunday",
-      "home_away": "away",
-      "opponent": "DLFC SFK U13"
-    },
     {
       "id": "26db1e08ff4220bb1658bd515d765bee",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d3e4a4bba07ade7ed46dc5546d3a6563",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "DLFC SFK U13",
+      "away_team": "Gonerby Blue U13",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sunday",
+      "home_away": "away",
+      "opponent": "DLFC SFK U13",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "f835dd892da3d33183af7dccc5eb4fd7",
       "date": "2026-03-15",

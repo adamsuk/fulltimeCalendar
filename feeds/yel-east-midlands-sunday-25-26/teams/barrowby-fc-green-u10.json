@@ -1,7 +1,7 @@
 {
   "team": "Barrowby FC Green U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
     {
       "id": "33ac7a47dc625ec3e886043d3161b2b1",
@@ -13,17 +13,6 @@
       "division": "U10 Sun Spring Div 5 Blue",
       "home_away": "away",
       "opponent": "Clifton AW Purple U10"
-    },
-    {
-      "id": "eb05ce1cb1bb7657382b96380dc82b65",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Sherwood FC Blue U10",
-      "away_team": "Barrowby FC Green U10",
-      "venue": "Forest Sports Zone NG7 6LD",
-      "division": "U10 Sun Spring Div 5 Blue",
-      "home_away": "away",
-      "opponent": "Sherwood FC Blue U10"
     },
     {
       "id": "08d0878d8dcc2c24f18e5bd09c2a230d",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "eb05ce1cb1bb7657382b96380dc82b65",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Sherwood FC Blue U10",
+      "away_team": "Barrowby FC Green U10",
+      "home_score": 6,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sun Spring Div 5 Blue",
+      "home_away": "away",
+      "opponent": "Sherwood FC Blue U10",
+      "goals_for": 2,
+      "goals_against": 6
+    },
     {
       "id": "57b8a9c0edd412a56632c607cfdc282b",
       "date": "2026-03-22",

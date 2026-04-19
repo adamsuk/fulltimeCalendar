@@ -1,19 +1,8 @@
 {
   "team": "Hasland Community U14 Girls Sunday",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "0c4c6abaeef056ef96f5f9001ef1c8a5",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Nottingham F.C. Youth U14 Girls",
-      "away_team": "Hasland Community U14 Girls Sunday",
-      "venue": "MELBOURNE PARK",
-      "division": "U14 Div 3",
-      "home_away": "away",
-      "opponent": "Nottingham F.C. Youth U14 Girls"
-    },
     {
       "id": "5f871762b61c8cb446f08769a80cfbf5",
       "date": "2026-04-26",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0c4c6abaeef056ef96f5f9001ef1c8a5",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Nottingham F.C. Youth U14 Girls",
+      "away_team": "Hasland Community U14 Girls Sunday",
+      "home_score": 1,
+      "away_score": 9,
+      "venue": "",
+      "division": "U14 Div 3",
+      "home_away": "away",
+      "opponent": "Nottingham F.C. Youth U14 Girls",
+      "goals_for": 9,
+      "goals_against": 1
+    },
     {
       "id": "5d22b133fcf96662a163e94f4b91e0dd",
       "date": "2026-04-12",

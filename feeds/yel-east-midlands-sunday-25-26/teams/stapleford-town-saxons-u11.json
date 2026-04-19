@@ -1,19 +1,8 @@
 {
   "team": "Stapleford Town Saxons U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "3e280227d97d3fa0fb1b0b23dc75e3d3",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Stapleford Town Saxons U11",
-      "away_team": "Long Eaton United Red U11",
-      "venue": "Hickings Lane NG9 8PG",
-      "division": "U11 Sun Spring Div 4 Blue",
-      "home_away": "home",
-      "opponent": "Long Eaton United Red U11"
-    },
     {
       "id": "b961d8df6a838c58baff914f075ac41d",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "3e280227d97d3fa0fb1b0b23dc75e3d3",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Stapleford Town Saxons U11",
+      "away_team": "Long Eaton United Red U11",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sun Spring Div 4 Blue",
+      "home_away": "home",
+      "opponent": "Long Eaton United Red U11",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "6e8a9bf3bf345997e92c97a2f1c10077",
       "date": "2026-03-22",

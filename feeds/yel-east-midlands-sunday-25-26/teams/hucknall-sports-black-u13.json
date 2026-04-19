@@ -1,19 +1,8 @@
 {
   "team": "Hucknall Sports Black U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "40147ada80d1cc3e3ae57e7fa309d60d",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Bagthorpe Athletic U13",
-      "away_team": "Hucknall Sports Black U13",
-      "venue": "Dixies Arms Park NG16 5HF",
-      "division": "U13 Sun Spring Div 4 Red",
-      "home_away": "away",
-      "opponent": "Bagthorpe Athletic U13"
-    },
     {
       "id": "5230a480883340c43e98c01385e34a11",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "40147ada80d1cc3e3ae57e7fa309d60d",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Bagthorpe Athletic U13",
+      "away_team": "Hucknall Sports Black U13",
+      "home_score": 3,
+      "away_score": 9,
+      "venue": "",
+      "division": "U13 Sun Spring Div 4 Red",
+      "home_away": "away",
+      "opponent": "Bagthorpe Athletic U13",
+      "goals_for": 9,
+      "goals_against": 3
+    },
     {
       "id": "4a126c7e1a6e82341a168a90bc7ce038",
       "date": "2026-04-16",

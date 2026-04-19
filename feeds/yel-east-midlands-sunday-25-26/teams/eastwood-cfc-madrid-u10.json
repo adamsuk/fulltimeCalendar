@@ -1,19 +1,8 @@
 {
   "team": "Eastwood CFC Madrid U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "79e432415eb447c3157bc870beed911b",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Mansfield Town Grassroots U10",
-      "away_team": "Eastwood CFC Madrid U10",
-      "venue": "One Call Stadium NG18 5DA",
-      "division": "U10 Sun Spring Div 1 Gold",
-      "home_away": "away",
-      "opponent": "Mansfield Town Grassroots U10"
-    },
     {
       "id": "2789a6c0e3824577183ab484edc7bff5",
       "date": "2026-04-26",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "79e432415eb447c3157bc870beed911b",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Mansfield Town Grassroots U10",
+      "away_team": "Eastwood CFC Madrid U10",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "",
+      "division": "U10 Sun Spring Div 1 Gold",
+      "home_away": "away",
+      "opponent": "Mansfield Town Grassroots U10",
+      "goals_for": 6,
+      "goals_against": 2
+    },
     {
       "id": "7b0741bbe802e4831e6c8ec2a8298767",
       "date": "2026-03-29",

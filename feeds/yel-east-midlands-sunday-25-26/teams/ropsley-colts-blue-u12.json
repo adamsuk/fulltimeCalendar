@@ -1,19 +1,8 @@
 {
   "team": "Ropsley Colts Blue U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "fc0a7e19aa4a236199aadfbe634b6f64",
-      "date": "2026-04-19",
-      "time": "12:30",
-      "home_team": "Tuxford FC U12",
-      "away_team": "Ropsley Colts Blue U12",
-      "venue": "Harby Playing Fields NG23 7ED",
-      "division": "U12 Sunday",
-      "home_away": "away",
-      "opponent": "Tuxford FC U12"
-    },
     {
       "id": "05368c807dfa8174ce25cb85994a4d6a",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "fc0a7e19aa4a236199aadfbe634b6f64",
+      "date": "2026-04-19",
+      "time": "12:30",
+      "home_team": "Tuxford FC U12",
+      "away_team": "Ropsley Colts Blue U12",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sunday",
+      "home_away": "away",
+      "opponent": "Tuxford FC U12",
+      "goals_for": 3,
+      "goals_against": 4
+    },
     {
       "id": "4fde5859faf5bbd3c35346da0d987b83",
       "date": "2026-03-22",

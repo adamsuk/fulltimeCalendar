@@ -1,6 +1,6 @@
 {
   "club": "Clipstone Welfare",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
     {
       "id": "4aeb9b46959fec64d6b8987e877b88e3",
@@ -27,19 +27,6 @@
       "team": "Clipstone Welfare Colts F.C. Youth U12",
       "home_away": "home",
       "opponent": "Quarrydale United FC U12"
-    },
-    {
-      "id": "51b2a12020af15d31855657609d36216",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Robin Hood Colts Red U13",
-      "away_team": "Clipstone Welfare Porto U13",
-      "venue": "Sherwood Fields, Edwinstowe NG21 9PW",
-      "division": "U13 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Clipstone Welfare Porto U13",
-      "home_away": "away",
-      "opponent": "Robin Hood Colts Red U13"
     },
     {
       "id": "705b56e4d823df84b85766b8810811be",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "51b2a12020af15d31855657609d36216",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Robin Hood Colts Red U13",
+      "away_team": "Clipstone Welfare Porto U13",
+      "home_score": 10,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Clipstone Welfare Porto U13",
+      "home_away": "away",
+      "opponent": "Robin Hood Colts Red U13",
+      "goals_for": 3,
+      "goals_against": 10
+    },
     {
       "id": "ce56b21e7c2c2ff2e4bb786e3b39e77f",
       "date": "2026-04-12",

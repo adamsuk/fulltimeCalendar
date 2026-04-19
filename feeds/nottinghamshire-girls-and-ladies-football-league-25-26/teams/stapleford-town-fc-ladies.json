@@ -1,7 +1,7 @@
 {
   "team": "Stapleford Town FC Ladies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
     {
       "id": "22a153c2abbf9955f3c064cc27494143",
@@ -13,20 +13,24 @@
       "division": "Senior Div 4",
       "home_away": "away",
       "opponent": "Ravenshead Reds FC"
-    },
+    }
+  ],
+  "results": [
     {
       "id": "2689ba57dc31cb329546cf9200ca56d0",
       "date": "2026-04-19",
       "time": "10:00",
       "home_team": "Stapleford Town FC Ladies",
       "away_team": "Keyworth United FC Development",
-      "venue": "STAPLEFORD COMMUNITY PAVILION",
+      "home_score": 3,
+      "away_score": 6,
+      "venue": "",
       "division": "Senior Div 4",
       "home_away": "home",
-      "opponent": "Keyworth United FC Development"
-    }
-  ],
-  "results": [
+      "opponent": "Keyworth United FC Development",
+      "goals_for": 3,
+      "goals_against": 6
+    },
     {
       "id": "e372a5675d2100b238150b45d1f4d330",
       "date": "2026-03-22",

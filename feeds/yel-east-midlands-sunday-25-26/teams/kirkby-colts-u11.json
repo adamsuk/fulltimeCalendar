@@ -1,19 +1,8 @@
 {
   "team": "Kirkby Colts U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "b92809767a5a4c2e224a13af0da06cab",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Wollaton H&B Lions U11",
-      "away_team": "Kirkby Colts U11",
-      "venue": "The Trinity Catholic School NG8 3EZ",
-      "division": "U11 Sunday",
-      "home_away": "away",
-      "opponent": "Wollaton H&B Lions U11"
-    },
     {
       "id": "410cea6dd5397560beedc0a361da4dd0",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b92809767a5a4c2e224a13af0da06cab",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Wollaton H&B Lions U11",
+      "away_team": "Kirkby Colts U11",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Sunday",
+      "home_away": "away",
+      "opponent": "Wollaton H&B Lions U11",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "9b5976e8822d0b51ce699657c1424d11",
       "date": "2026-03-15",

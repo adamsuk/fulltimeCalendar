@@ -1,19 +1,8 @@
 {
   "team": "Selston U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "8d91a9f7e480feefb62b99e255077f49",
-      "date": "2026-04-19",
-      "time": "10:30",
-      "home_team": "Selston U14",
-      "away_team": "Basford United FC Amber U14",
-      "venue": "Dale Club NG16 5JU",
-      "division": "U14 Sun Spring Premier Division",
-      "home_away": "home",
-      "opponent": "Basford United FC Amber U14"
-    },
     {
       "id": "d4c1c1fbad8effd879b35aec6a78adb1",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8d91a9f7e480feefb62b99e255077f49",
+      "date": "2026-04-19",
+      "time": "10:30",
+      "home_team": "Selston U14",
+      "away_team": "Basford United FC Amber U14",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sun Spring Premier Division",
+      "home_away": "home",
+      "opponent": "Basford United FC Amber U14",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "037b98a536639d0d7b4671031be88d05",
       "date": "2026-04-15",

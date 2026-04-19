@@ -1,19 +1,8 @@
 {
   "team": "Sandiacre Town Venoms U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "b8dc77d2d51518108fc229fa6c326dbc",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Moorgreen Colts Blue U11",
-      "away_team": "Sandiacre Town Venoms U11",
-      "venue": "Birnham Pk A610 Estwd/Kim Bypss NG16 2DE",
-      "division": "U11 Sun Spring Div 4 Blue",
-      "home_away": "away",
-      "opponent": "Moorgreen Colts Blue U11"
-    },
     {
       "id": "3b8f35b34ab76bf585bc8b27573ea45e",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b8dc77d2d51518108fc229fa6c326dbc",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Moorgreen Colts Blue U11",
+      "away_team": "Sandiacre Town Venoms U11",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U11 Sun Spring Div 4 Blue",
+      "home_away": "away",
+      "opponent": "Moorgreen Colts Blue U11",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "4bd44162a095ee6cacfd09359b920d0b",
       "date": "2026-04-16",

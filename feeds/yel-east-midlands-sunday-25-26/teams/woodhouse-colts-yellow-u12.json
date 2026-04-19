@@ -1,19 +1,8 @@
 {
   "team": "Woodhouse Colts Yellow U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "3c26c356292ec813f680fcb1435c47a7",
-      "date": "2026-04-19",
-      "time": "09:30",
-      "home_team": "Bestwood Colliery Blue U12",
-      "away_team": "Woodhouse Colts Yellow U12",
-      "venue": "High Main Drive NG6 8YX",
-      "division": "U12 Sunday",
-      "home_away": "away",
-      "opponent": "Bestwood Colliery Blue U12"
-    },
     {
       "id": "8306fdac21117a971d70612aaf7804ae",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "3c26c356292ec813f680fcb1435c47a7",
+      "date": "2026-04-19",
+      "time": "09:30",
+      "home_team": "Bestwood Colliery Blue U12",
+      "away_team": "Woodhouse Colts Yellow U12",
+      "home_score": 2,
+      "away_score": 8,
+      "venue": "",
+      "division": "U12 Sunday",
+      "home_away": "away",
+      "opponent": "Bestwood Colliery Blue U12",
+      "goals_for": 8,
+      "goals_against": 2
+    },
     {
       "id": "dd146cec8aca76302219bd2ce2977774",
       "date": "2026-03-22",

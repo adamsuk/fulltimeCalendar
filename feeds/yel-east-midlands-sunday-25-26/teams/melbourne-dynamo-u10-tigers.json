@@ -1,19 +1,8 @@
 {
   "team": "Melbourne Dynamo U10 Tigers",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "eada42ff7426494fc44c48a69bdf39de",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Melbourne Dynamo U10 Tigers",
-      "away_team": "Borrowash Youth Tigers U10",
-      "venue": "Melbourne Sports Park DE73 8DG",
-      "division": "U10 Sunday",
-      "home_away": "home",
-      "opponent": "Borrowash Youth Tigers U10"
-    },
     {
       "id": "4f36d0cc83a9305079d83aebc49d5236",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "eada42ff7426494fc44c48a69bdf39de",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Melbourne Dynamo U10 Tigers",
+      "away_team": "Borrowash Youth Tigers U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sunday",
+      "home_away": "home",
+      "opponent": "Borrowash Youth Tigers U10",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "25b3914e6edd9aeda9cf75909e68cf77",
       "date": "2026-03-29",

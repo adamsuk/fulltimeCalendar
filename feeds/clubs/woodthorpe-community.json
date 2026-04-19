@@ -1,20 +1,7 @@
 {
   "club": "Woodthorpe Community",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "d8b2a555df1af83ff84c5dd093dc3b17",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Ollerton Town Community FC U12 Girls",
-      "away_team": "Woodthorpe Community U12 Warriors",
-      "venue": "WALESBY LANE SPORTS GROUND",
-      "division": "U12 Div 2 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Woodthorpe Community U12 Warriors",
-      "home_away": "away",
-      "opponent": "Ollerton Town Community FC U12 Girls"
-    },
     {
       "id": "512e681f5ce1e1b2946a8692a0a9f3a6",
       "date": "2026-04-25",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "d8b2a555df1af83ff84c5dd093dc3b17",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Ollerton Town Community FC U12 Girls",
+      "away_team": "Woodthorpe Community U12 Warriors",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Woodthorpe Community U12 Warriors",
+      "home_away": "away",
+      "opponent": "Ollerton Town Community FC U12 Girls",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "752002808752fb33291a665953266c80",
       "date": "2026-04-18",

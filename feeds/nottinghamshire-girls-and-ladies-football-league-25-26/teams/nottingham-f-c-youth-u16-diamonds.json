@@ -1,19 +1,8 @@
 {
   "team": "Nottingham F.C. Youth U16 Diamonds",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "cdbc7241da98ecb48097758441178c37",
-      "date": "2026-04-19",
-      "time": "12:00",
-      "home_team": "Beeston F.C. U16 Girls",
-      "away_team": "Nottingham F.C. Youth U16 Diamonds",
-      "venue": "TRENT VALE SPORTS ASSOCIATION",
-      "division": "U16 Div 3",
-      "home_away": "away",
-      "opponent": "Beeston F.C. U16 Girls"
-    },
     {
       "id": "644ee043b2679c0fe8a20d0372f8ef39",
       "date": "2026-04-26",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "cdbc7241da98ecb48097758441178c37",
+      "date": "2026-04-19",
+      "time": "12:00",
+      "home_team": "Beeston F.C. U16 Girls",
+      "away_team": "Nottingham F.C. Youth U16 Diamonds",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U16 Div 3",
+      "home_away": "away",
+      "opponent": "Beeston F.C. U16 Girls",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "213c957395843a2779868c5a524f610e",
       "date": "2026-04-12",

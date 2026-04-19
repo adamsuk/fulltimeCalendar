@@ -1,20 +1,7 @@
 {
   "club": "Trowell FC",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "7aed4fccf4ab25d5ff0b630eae1bd1a8",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Phoenix Inham Blaze U14",
-      "away_team": "Trowell FC U14",
-      "venue": "Inham Nook Recreation Ground NG9 4GQ",
-      "division": "U14 Sun Spring Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Trowell FC U14",
-      "home_away": "away",
-      "opponent": "Phoenix Inham Blaze U14"
-    },
     {
       "id": "b37a11d4e2390d67b8e725f35a401948",
       "date": "2026-04-26",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "7aed4fccf4ab25d5ff0b630eae1bd1a8",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Phoenix Inham Blaze U14",
+      "away_team": "Trowell FC U14",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sun Spring Div 2 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Trowell FC U14",
+      "home_away": "away",
+      "opponent": "Phoenix Inham Blaze U14",
+      "goals_for": 4,
+      "goals_against": 3
+    },
     {
       "id": "721cdc4f0da6c7a7bfad5524d3149cb6",
       "date": "2026-03-29",

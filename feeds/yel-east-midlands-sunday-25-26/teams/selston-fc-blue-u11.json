@@ -1,19 +1,8 @@
 {
   "team": "Selston FC Blue U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "7ba8fa91f1f6bb3db10f01922f0215c0",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "home_team": "Silva FC Rushcliffe Spirit U11",
-      "away_team": "Selston FC Blue U11",
-      "venue": "Rushcliffe School NG2 7BZ",
-      "division": "U11 Sun Spring Premier Division",
-      "home_away": "away",
-      "opponent": "Silva FC Rushcliffe Spirit U11"
-    },
     {
       "id": "9f04a093d6a30a5982998866c2e7ecb9",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7ba8fa91f1f6bb3db10f01922f0215c0",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Silva FC Rushcliffe Spirit U11",
+      "away_team": "Selston FC Blue U11",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U11 Sun Spring Premier Division",
+      "home_away": "away",
+      "opponent": "Silva FC Rushcliffe Spirit U11",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "c9af9258177f901da70fd556f540aada",
       "date": "2026-03-15",

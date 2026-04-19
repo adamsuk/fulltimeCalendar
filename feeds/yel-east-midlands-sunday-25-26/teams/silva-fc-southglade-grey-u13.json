@@ -1,19 +1,8 @@
 {
   "team": "Silva FC Southglade Grey U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "04e2d7d769bade49af4acd65e28572cc",
-      "date": "2026-04-19",
-      "time": "12:00",
-      "home_team": "Hucknall Sports Red U13",
-      "away_team": "Silva FC Southglade Grey U13",
-      "venue": "Goosedale Sport Club NG6 8UJ",
-      "division": "U13 Sunday",
-      "home_away": "away",
-      "opponent": "Hucknall Sports Red U13"
-    },
     {
       "id": "670d3b5fa7029f9ed20210479cb35b84",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "04e2d7d769bade49af4acd65e28572cc",
+      "date": "2026-04-19",
+      "time": "12:00",
+      "home_team": "Hucknall Sports Red U13",
+      "away_team": "Silva FC Southglade Grey U13",
+      "home_score": 6,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sunday",
+      "home_away": "away",
+      "opponent": "Hucknall Sports Red U13",
+      "goals_for": 2,
+      "goals_against": 6
+    },
     {
       "id": "3db00df3de5be948ec0d002d4375c46a",
       "date": "2026-04-12",

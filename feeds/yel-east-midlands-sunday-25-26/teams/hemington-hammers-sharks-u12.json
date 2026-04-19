@@ -1,19 +1,8 @@
 {
   "team": "Hemington Hammers Sharks U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "35da22324871a375c2d9c41975dc5cb3",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Hemington Hammers Sharks U12",
-      "away_team": "Sherwood Colliery Cobras U12",
-      "venue": "Hemington lane DE74 2RF",
-      "division": "U12 Sun Spring Div 1 Gold",
-      "home_away": "home",
-      "opponent": "Sherwood Colliery Cobras U12"
-    },
     {
       "id": "6b03bdae9fb2703d12f894a2dbba872e",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "35da22324871a375c2d9c41975dc5cb3",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Hemington Hammers Sharks U12",
+      "away_team": "Sherwood Colliery Cobras U12",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "",
+      "division": "U12 Sun Spring Div 1 Gold",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery Cobras U12",
+      "goals_for": 1,
+      "goals_against": 6
+    },
     {
       "id": "fe948665bef19c5c26b4ed9830b17627",
       "date": "2026-03-22",

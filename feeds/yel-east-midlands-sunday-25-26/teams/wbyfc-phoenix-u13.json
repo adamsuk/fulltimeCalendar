@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Phoenix U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-19T09:21:08Z",
+  "generated": "2026-04-19T13:56:15Z",
   "fixtures": [
-    {
-      "id": "77972fc5d7fc3310f3d51a9e719dd2cb",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "WBYFC Phoenix U13",
-      "away_team": "Arnold Town Maroon U13",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U13 Sun Spring Div 2 Red",
-      "home_away": "home",
-      "opponent": "Arnold Town Maroon U13"
-    },
     {
       "id": "8e4cbc63c595efcca6fd23bc37c111a4",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "77972fc5d7fc3310f3d51a9e719dd2cb",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "WBYFC Phoenix U13",
+      "away_team": "Arnold Town Maroon U13",
+      "home_score": 1,
+      "away_score": 9,
+      "venue": "",
+      "division": "U13 Sun Spring Div 2 Red",
+      "home_away": "home",
+      "opponent": "Arnold Town Maroon U13",
+      "goals_for": 1,
+      "goals_against": 9
+    },
     {
       "id": "0fad47fc16318c6b6181dbb5ff14334a",
       "date": "2026-03-15",
