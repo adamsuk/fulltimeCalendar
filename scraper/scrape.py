@@ -835,24 +835,27 @@ def _compute_designator_tokens(team_names: list[str]) -> tuple[set[str], set[str
         if not name:
             continue
         tokens = name.split()
-        # For each position i (0 to len(tokens)-1), prefix is tokens[:i]
-        # following token is tokens[i] (if i < len(tokens))
-        # Actually we want prefix of length L, next token at position L
-        for prefix_len in range(len(tokens)):
+        # For each position i (0 to len(tokens)), prefix is tokens[:i]
+        # following token is tokens[i] if i < len(tokens), else empty string (end of name)
+        for prefix_len in range(len(tokens) + 1):
             prefix = tuple(tokens[:prefix_len])
-            if prefix_len < len(tokens):
-                next_token = tokens[prefix_len].lower()
-                prefix_to_next_tokens.setdefault(prefix, set()).add(next_token)
+            next_token = tokens[prefix_len].lower() if prefix_len < len(tokens) else ""
+            prefix_to_next_tokens.setdefault(prefix, set()).add(next_token)
     
     # Step 3: Collect variable tokens (those that appear as different options for same prefix)
     variable_tokens = set()
     for prefix, next_tokens in prefix_to_next_tokens.items():
         if len(next_tokens) >= 2:
-            variable_tokens.update(next_tokens)
+            for token in next_tokens:
+                if token:  # Skip empty string
+                    variable_tokens.add(token)
     
     # Step 4: Start with seed set and add variable tokens that are designator-like
     designators = set(_TEAM_DESIGNATORS_SEED)
-    # Only add variable tokens that match seed set (including singular/plural forms)
+    # Build set of stripped team names for prefix existence check
+    stripped_names_set = {name.lower() for name in stripped_names if name}
+    
+    # First, add variable tokens that match seed set (including singular/plural forms)
     for token in variable_tokens:
         token_lower = token.lower()
         # Check if token itself is in seed set
@@ -873,6 +876,40 @@ def _compute_designator_tokens(team_names: list[str]) -> tuple[set[str], set[str
                 designators.add(token_lower)
                 designators.add(singular)
                 continue
+    
+    # Second, add variable tokens where the prefix exists as a standalone team
+    # This handles cases like "Keyworth United" where "United" varies but "Keyworth" exists
+    for prefix, next_tokens in prefix_to_next_tokens.items():
+        if len(next_tokens) < 2:
+            continue
+        # Convert prefix tuple to string
+        prefix_str = " ".join(prefix).lower()
+        if not prefix_str:
+            continue
+        # Skip prefixes that end with a generic 3-letter abbreviation (e.g., "AFC", "CFC")
+        if prefix and _GENERIC_PREFIX_RE.match(prefix[-1]):
+            continue
+        # Skip prefixes that end with punctuation-only tokens
+        if prefix and _PUNCT_ONLY_RE.match(prefix[-1]):
+            continue
+        # Check if prefix exists as a standalone team name
+        if prefix_str in stripped_names_set:
+            for token in next_tokens:
+                token_lower = token.lower()
+                # Skip empty tokens and purely numeric tokens
+                if not token_lower or token_lower.isdigit():
+                    continue
+                # Skip tokens already in designators
+                if token_lower in designators:
+                    continue
+                # Skip plural colors (e.g., "Reds", "Blues") - they're club nicknames
+                if token_lower.endswith('s') and token_lower[:-1] in _COLOR_DESIGNATORS:
+                    continue
+                # Skip uppercase abbreviations (≥4 letters) like DLFC, ASFC
+                if _CLUB_ABBREV_RE.match(token):
+                    continue
+                # Add the token as a designator
+                designators.add(token_lower)
     
     # Add singular forms for regular plurals in seed set (already covered but safe)
     for token in list(designators):
@@ -961,13 +998,16 @@ def _remove_age_group_tokens(name: str, designators: set[str] | None = None) -> 
             return True
         # For 2-word names, allow stripping if:
         # 1. First word is a club abbreviation (≥4 letters), OR
-        # 2. Last word is a variable token
+        # 2. Last word is a variable token AND first word is not a generic prefix
         if len(words) == 2:
             first_word = words[0]
             last_word = words[-1]
             # Allow stripping if first word is a club abbreviation (DLFC, ASFC, etc.)
             if _CLUB_ABBREV_RE.match(first_word):
                 return True
+            # Do not strip if first word is a generic 3-letter abbreviation (e.g., "AFC", "CFC")
+            if _GENERIC_PREFIX_RE.match(first_word):
+                return False
             # Allow stripping if last word is a variable token
             if is_variable_token(last_word):
                 return True
@@ -1036,6 +1076,9 @@ def build_prefix_counts(team_names: list[str]) -> dict[str, int]:
             # Skip prefixes that end with punctuation-only tokens
             if _PUNCT_ONLY_RE.match(words[length - 1]):
                 continue
+            # Skip prefixes that end with generic 3-letter abbreviations (e.g., "AFC", "CFC")
+            if _GENERIC_PREFIX_RE.match(words[length - 1]):
+                continue
             prefix = " ".join(words[:length])
             counts[prefix] = counts.get(prefix, 0) + 1
     
@@ -1048,6 +1091,9 @@ def build_prefix_counts(team_names: list[str]) -> dict[str, int]:
         # Try longest prefix first
         for length in range(len(words), 0, -1):
             if _PUNCT_ONLY_RE.match(words[length - 1]):
+                continue
+            # Skip prefixes that end with generic 3-letter abbreviations (e.g., "AFC", "CFC")
+            if _GENERIC_PREFIX_RE.match(words[length - 1]):
                 continue
             prefix = " ".join(words[:length])
             if counts.get(prefix, 0) >= 2:
