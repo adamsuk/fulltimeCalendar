@@ -208,6 +208,30 @@ class TestClubGrouping:
         club = infer_club_name("Unique FC Eagles U10", counts)
         assert club == "Unique FC Eagles"
 
+    def test_age_group_infix(self):
+        """Teams with age groups in the middle (e.g., 'U7 Blue') should group correctly."""
+        # Bottesford case
+        result = _pipeline([
+            "Bottesford U7 Blue",
+            "Bottesford U14 Girls",
+        ])
+        assert set(result.values()) == {"Bottesford"}, result
+        
+        # More complex case with color suffix after age group
+        result = _pipeline([
+            "Clubname U8 Red",
+            "Clubname U9 Blue",
+            "Clubname U10 Green",
+        ])
+        assert set(result.values()) == {"Clubname"}, result
+        
+        # Age group infix but no color suffix
+        result = _pipeline([
+            "Town U12 Lions",
+            "Town U14 Tigers",
+        ])
+        assert set(result.values()) == {"Town"}, result
+
 
 # ---------------------------------------------------------------------------
 # parse_results — venue / division field ordering

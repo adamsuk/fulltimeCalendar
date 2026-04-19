@@ -316,7 +316,7 @@ def _parse_score(row) -> tuple[int | None, int | None] | None:
       (None, None)    — score is redacted (X-X)
       None            — no score element found at all (skip the row)
 
-    Uses \d{1,2} (1–2 digit numbers only) to avoid false matches on:
+    Uses \\d{1,2} (1–2 digit numbers only) to avoid false matches on:
       - season notation like '2025-26'
       - pagination text like '1-100 of 2847'
       - ISO-style dates like '2025-11-15'
@@ -774,6 +774,9 @@ _PUNCT_ONLY_RE = re.compile(r"^[^a-zA-Z0-9]+$")
 # across many unrelated clubs (AFC Chellaston, AFC Warriors, …).
 _CLUB_ABBREV_RE = re.compile(r"^[A-Z]{4,}$")
 
+# Cache for club inference results (team name -> club name)
+_club_cache: dict[str, str] = {}
+
 
 def _normalise_for_grouping(name: str) -> str:
     """Return a normalised copy of a team name used only for club grouping.
@@ -786,31 +789,36 @@ def _normalise_for_grouping(name: str) -> str:
     return re.sub(r"([A-Z])\.", r"\1", name).strip()
 
 
+def _remove_age_group_tokens(name: str) -> str:
+    """Remove age group tokens (U\\d+) from anywhere in the name."""
+    # Remove age group tokens and collapse multiple spaces
+    cleaned = re.sub(r"\bU\d{1,2}\b", "", name, flags=re.IGNORECASE)
+    return " ".join(cleaned.split())
+
+
+
+
+
+
+
 def infer_club_name(team_name: str, prefix_counts: dict[str, int]) -> str:
     """Return the inferred club name for a team using pre-computed prefix counts.
 
-    Algorithm:
-      1. Normalise the name (strip abbreviation dots) and strip age-group suffix.
-      2. Find the *shortest* word-prefix whose normalised form appears ≥ 2 times
-         in prefix_counts.  Shortest-first prevents over-splitting.
-      3. Skip any prefix that ends on a punctuation-only token (e.g. '&') —
-         those produce truncated club names like 'Allexton &'.
-      4. Allow a 1-word prefix only when that word is a ≥ 4-char all-caps
-         abbreviation (e.g. DLFC, ASFC) so abbreviation clubs are not split
-         by colour/squad suffix.
-      5. Fall back to the full stripped name for singletons.
-
-    The returned name is the normalised prefix form (e.g. 'AC United' rather
-    than 'A.C. United') for consistency across all teams in the club.
+    If club cache is populated (by build_prefix_counts), returns cached value.
+    Otherwise falls back to longest matching prefix algorithm.
     """
+    # First check cache (populated by build_prefix_counts)
+    if team_name in _club_cache:
+        return _club_cache[team_name]
+    
+    # Fallback algorithm (should only happen in tests that call infer_club_name directly)
     norm = _normalise_for_grouping(team_name)
-    stripped = re.sub(r"\s+U\d{1,2}$", "", norm, flags=re.IGNORECASE).strip()
+    stripped = _remove_age_group_tokens(norm).strip()
     words = stripped.split()
-    for length in range(1, len(words) + 1):
-        if length == 1 and not _CLUB_ABBREV_RE.match(words[0]):
-            continue  # only allow bare single-word prefix for e.g. DLFC
+    # Try longest prefix first
+    for length in range(len(words), 0, -1):
         if _PUNCT_ONLY_RE.match(words[length - 1]):
-            continue  # never end on "&" or similar
+            continue
         prefix = " ".join(words[:length])
         if prefix_counts.get(prefix, 0) >= 2:
             return prefix
@@ -823,18 +831,38 @@ def build_prefix_counts(team_names: list[str]) -> dict[str, int]:
     Uses the same normalisation and filtering rules as infer_club_name so
     that prefix keys are consistent between the two functions.
     """
+    # Clear previous cache
+    _club_cache.clear()
+    
+    # Build prefix counts with age group removal anywhere
     counts: dict[str, int] = {}
     for name in team_names:
         norm = _normalise_for_grouping(name)
-        stripped = re.sub(r"\s+U\d{1,2}$", "", norm, flags=re.IGNORECASE).strip()
+        stripped = _remove_age_group_tokens(norm).strip()
         words = stripped.split()
         for length in range(1, len(words) + 1):
-            if length == 1 and not _CLUB_ABBREV_RE.match(words[0]):
-                continue
+            # Skip prefixes that end with punctuation-only tokens
             if _PUNCT_ONLY_RE.match(words[length - 1]):
                 continue
             prefix = " ".join(words[:length])
             counts[prefix] = counts.get(prefix, 0) + 1
+    
+    # Compute club name for each team using longest matching prefix
+    for name in team_names:
+        norm = _normalise_for_grouping(name)
+        stripped = _remove_age_group_tokens(norm).strip()
+        words = stripped.split()
+        club_name = stripped  # default fallback
+        # Try longest prefix first
+        for length in range(len(words), 0, -1):
+            if _PUNCT_ONLY_RE.match(words[length - 1]):
+                continue
+            prefix = " ".join(words[:length])
+            if counts.get(prefix, 0) >= 2:
+                club_name = prefix
+                break
+        _club_cache[name] = club_name
+    
     return counts
 
 
