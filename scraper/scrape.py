@@ -796,51 +796,9 @@ def _remove_age_group_tokens(name: str) -> str:
     return " ".join(cleaned.split())
 
 
-def _detect_variable_tokens(team_names: list[str]) -> set[str]:
-    """Identify tokens that vary across similar team names.
-    
-    Returns a set of lowercase tokens considered variable (age groups,
-    colors, squad names, etc.).
-    """
-    # Common variable tokens (non-exhaustive)
-    common = {
-        "blue", "red", "green", "yellow", "white", "black", "gold", "silver",
-        "girls", "boys", "mixed", "eagles", "lions", "tigers", "wolves",
-        "raiders", "gladiators", "knights", "vikings", "cosmos", "storm",
-        "magpies", "junior", "senior", "development", "academy",
-        "blues", "reds", "greens", "yellows", "whites", "blacks",
-        "colts", "juniors", "seniors",
-    }
-    
-    variable = set(common)
-    
-    # Add age group tokens (U7, U14, etc.)
-    for name in team_names:
-        norm = _normalise_for_grouping(name)
-        for token in norm.split():
-            if re.match(r"^U\d{1,2}$", token, re.IGNORECASE):
-                variable.add(token.lower())
-    
-    # Add numeric tokens
-    for name in team_names:
-        norm = _normalise_for_grouping(name)
-        for token in norm.split():
-            if re.match(r"^\d+$", token):
-                variable.add(token.lower())
-    
-    return variable
 
 
-def _create_club_signature(name: str, variable_tokens: set[str]) -> str:
-    """Create a normalized signature by removing variable tokens and age groups."""
-    norm = _normalise_for_grouping(name)
-    # Remove age group tokens
-    no_age = _remove_age_group_tokens(norm)
-    # Remove variable tokens
-    tokens = no_age.split()
-    filtered = [t for t in tokens if t.lower() not in variable_tokens]
-    # Collapse multiple spaces and strip
-    return " ".join(filtered).strip()
+
 
 
 def infer_club_name(team_name: str, prefix_counts: dict[str, int]) -> str:
