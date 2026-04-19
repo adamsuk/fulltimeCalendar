@@ -1,23 +1,12 @@
 {
   "team": "Priory Celtic F.C. U16 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T15:05:15Z",
+  "generated": "2026-04-19T18:01:03Z",
   "fixtures": [
-    {
-      "id": "c581b41f4e46360a45d3146cbea2e2c9",
-      "date": "2026-04-19",
-      "time": "16:30",
-      "home_team": "Priory Celtic F.C. U16 Girls",
-      "away_team": "West Bridgford Colts U16 Vipers",
-      "venue": "RH ACADEMY",
-      "division": "U16 Div 2 League Cup",
-      "home_away": "home",
-      "opponent": "West Bridgford Colts U16 Vipers"
-    },
     {
       "id": "6d99290d3501ea73af45f9280e84febd",
       "date": "2026-04-26",
-      "time": "10:00",
+      "time": "10:30",
       "home_team": "Priory Celtic F.C. U16 Girls",
       "away_team": "Radcliffe Olympic FC U16 Girls",
       "venue": "THE KIMBERLEY SCHOOL",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c581b41f4e46360a45d3146cbea2e2c9",
+      "date": "2026-04-19",
+      "time": "16:30",
+      "home_team": "Priory Celtic F.C. U16 Girls",
+      "away_team": "West Bridgford Colts U16 Vipers",
+      "home_score": 7,
+      "away_score": 0,
+      "venue": "",
+      "division": "U16 Div 2 League Cup",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U16 Vipers",
+      "goals_for": 7,
+      "goals_against": 0
+    },
     {
       "id": "91c753c33960f6f25a2759a920e64f88",
       "date": "2026-04-12",

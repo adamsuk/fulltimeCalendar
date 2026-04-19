@@ -1,6 +1,6 @@
 {
   "club": "Club FDNA",
-  "generated": "2026-04-19T15:05:15Z",
+  "generated": "2026-04-19T18:01:03Z",
   "fixtures": [
     {
       "id": "05fe143d57f4081c84e1f3eeae0c5308",
@@ -55,6 +55,19 @@
       "opponent": "Keyworth United Green U9"
     },
     {
+      "id": "2e640d67b2d0ea985b19588ea7198d79",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Breaston Park Shard Titans U8",
+      "away_team": "Club FDNA Santos U8",
+      "venue": "Shardlow School Playing Fields DE72 2GR",
+      "division": "U8 Sat Spring 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Club FDNA Santos U8",
+      "home_away": "away",
+      "opponent": "Breaston Park Shard Titans U8"
+    },
+    {
       "id": "a013d7a628f0f43ae24d79c6232669fa",
       "date": "2026-04-25",
       "time": "10:00",
@@ -92,6 +105,19 @@
       "team": "Club FDNA Munich U9",
       "home_away": "home",
       "opponent": "Dunkirk Colts U8 ^"
+    },
+    {
+      "id": "86f11db426b346b05d9bf13ce6a28d40",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Bottesford Yellow U9",
+      "away_team": "Club FDNA Santos U9",
+      "venue": "Nottingham Road NG13 0AP",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Club FDNA Santos U9",
+      "home_away": "away",
+      "opponent": "Bottesford Yellow U9"
     }
   ],
   "results": [
@@ -126,6 +152,23 @@
       "team": "Club FDNA Munich U9",
       "home_away": "away",
       "opponent": "Eastwood CFC Juventus U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "f922f7d5c96fae33838dd24327e14366",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Club FDNA Santos U9",
+      "away_team": "Dunkirk Colts U8 ^",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Club FDNA Santos U9",
+      "home_away": "home",
+      "opponent": "Dunkirk Colts U8 ^",
       "goals_for": null,
       "goals_against": null
     },
@@ -181,6 +224,23 @@
       "goals_against": 0
     },
     {
+      "id": "02060e5d0b2035b5e63ba48bf76dc213",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Clifton All Whites Blue U8",
+      "away_team": "Club FDNA Santos U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Club FDNA Santos U8",
+      "home_away": "away",
+      "opponent": "Clifton All Whites Blue U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "baa5238d8a85a05b74f0ec5d8aa69a85",
       "date": "2026-04-18",
       "time": "10:00",
@@ -194,6 +254,40 @@
       "team": "Club FDNA United U7",
       "home_away": "away",
       "opponent": "Long Eaton United Yellow U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "15957d649c644a6082f03c87f52aa3b0",
+      "date": "2026-04-12",
+      "time": "11:00",
+      "home_team": "WBYFC PSG U9",
+      "away_team": "Club FDNA Santos U9",
+      "home_score": 9,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sun Spring Div 2 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Club FDNA Santos U9",
+      "home_away": "away",
+      "opponent": "WBYFC PSG U9",
+      "goals_for": 2,
+      "goals_against": 9
+    },
+    {
+      "id": "a0ba83118ea69afa12efc973a7b3cb6b",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "Club FDNA Santos U8",
+      "away_team": "Keyworth United Black U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Club FDNA Santos U8",
+      "home_away": "home",
+      "opponent": "Keyworth United Black U8",
       "goals_for": null,
       "goals_against": null
     },
@@ -230,6 +324,23 @@
       "opponent": "Basford CFC Barca U9",
       "goals_for": 4,
       "goals_against": 2
+    },
+    {
+      "id": "9c75fa50d930681cb005934033835f1b",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Gedling Southbank Sambas U9",
+      "away_team": "Club FDNA Santos U9",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "",
+      "division": "U9 Sun Spring Div 2 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Club FDNA Santos U9",
+      "home_away": "away",
+      "opponent": "Gedling Southbank Sambas U9",
+      "goals_for": 4,
+      "goals_against": 3
     },
     {
       "id": "90a0a9d6fb23decd08ffb5adbf282a1f",
@@ -300,6 +411,23 @@
       "goals_against": 3
     },
     {
+      "id": "9f1a86467e4081d9cb863fe16da4c9ff",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Castle Donington Raptors U8",
+      "away_team": "Club FDNA Santos U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Club FDNA Santos U8",
+      "home_away": "away",
+      "opponent": "Castle Donington Raptors U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "3b08543d2461853c5b2c0022fee29d23",
       "date": "2026-03-28",
       "time": "10:00",
@@ -349,6 +477,23 @@
       "opponent": "DLFC Lions U9",
       "goals_for": 5,
       "goals_against": 0
+    },
+    {
+      "id": "7e654f1b7a1ba1da38cee57e5bd5c3b9",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Club FDNA Santos U9",
+      "away_team": "AJ Sport White U9",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sun Spring Div 2 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Club FDNA Santos U9",
+      "home_away": "home",
+      "opponent": "AJ Sport White U9",
+      "goals_for": 2,
+      "goals_against": 2
     },
     {
       "id": "855bf4f91bad572d5ed8e756778eb2e6",
@@ -453,6 +598,23 @@
       "goals_against": 3
     },
     {
+      "id": "a4660ac48ee33a8189a6a0394441e3a5",
+      "date": "2026-03-15",
+      "time": "10:00",
+      "home_team": "Club FDNA Santos U9",
+      "away_team": "Hucknall Sports Black U9",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sun YEL Trophy",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Club FDNA Santos U9",
+      "home_away": "home",
+      "opponent": "Hucknall Sports Black U9",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
       "id": "f2540dbb964be5447000adf7da8faeb6",
       "date": "2026-03-14",
       "time": "10:00",
@@ -521,6 +683,23 @@
       "goals_against": 4
     },
     {
+      "id": "c0572593771de5d787868713b126bbc5",
+      "date": "2026-03-14",
+      "time": "10:00",
+      "home_team": "Coalville Town Ravens U8",
+      "away_team": "Club FDNA Santos U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Club FDNA Santos U8",
+      "home_away": "away",
+      "opponent": "Coalville Town Ravens U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "5f8e461a43b8b2e776e99980616018dc",
       "date": "2026-03-14",
       "time": "10:00",
@@ -553,6 +732,23 @@
       "opponent": "Mapperley All Stars Blue U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "3ba6947285979820da4e23ae479e76bb",
+      "date": "2026-03-08",
+      "time": "10:00",
+      "home_team": "Club FDNA Santos U9",
+      "away_team": "DLFC Black U9",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sun Spring Div 2 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Club FDNA Santos U9",
+      "home_away": "home",
+      "opponent": "DLFC Black U9",
+      "goals_for": 1,
+      "goals_against": 3
     },
     {
       "id": "126d9052d221c1905e40d1cfff8dc3de",
@@ -604,6 +800,23 @@
       "opponent": "Canoville FC Tornados U9",
       "goals_for": 5,
       "goals_against": 1
+    },
+    {
+      "id": "0372c97a130043e3954c9212642066ee",
+      "date": "2026-03-07",
+      "time": "10:00",
+      "home_team": "Club FDNA Santos U8",
+      "away_team": "Priory Celtic Green U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Club FDNA Santos U8",
+      "home_away": "home",
+      "opponent": "Priory Celtic Green U8",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "88646fe7b04394f27c0bbd861c1ea458",
@@ -674,6 +887,23 @@
       "goals_against": 9
     },
     {
+      "id": "0d7768e2d34a624cb6121af98147efc0",
+      "date": "2026-03-01",
+      "time": "10:00",
+      "home_team": "Castle Donington Titans U9",
+      "away_team": "Club FDNA Santos U9",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U9 Sun Spring Div 2 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Club FDNA Santos U9",
+      "home_away": "away",
+      "opponent": "Castle Donington Titans U9",
+      "goals_for": 5,
+      "goals_against": 1
+    },
+    {
       "id": "17ea5a7cbacb4c11f5752322470e7f94",
       "date": "2026-02-28",
       "time": "10:00",
@@ -742,6 +972,23 @@
       "goals_against": null
     },
     {
+      "id": "db24dba1dadb25bad5bb85e9ba7e5c8c",
+      "date": "2026-02-22",
+      "time": "10:00",
+      "home_team": "Club FDNA Santos U9",
+      "away_team": "Bottesford Yellow U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sun 2026 Friendly 3 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Club FDNA Santos U9",
+      "home_away": "home",
+      "opponent": "Bottesford Yellow U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "922e1377b892299d8db9ff3bb88650f6",
       "date": "2026-02-21",
       "time": "10:00",
@@ -776,6 +1023,23 @@
       "goals_against": null
     },
     {
+      "id": "405a87ac115ccf7dbb04a2cbbdaf3be1",
+      "date": "2026-02-21",
+      "time": "10:00",
+      "home_team": "Selston FC U8",
+      "away_team": "Club FDNA Santos U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Friendly 2026 Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Club FDNA Santos U8",
+      "home_away": "away",
+      "opponent": "Selston FC U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "a9ff608c744dddc1ad6d153afdfa5740",
       "date": "2026-02-21",
       "time": "10:00",
@@ -789,6 +1053,23 @@
       "team": "Club FDNA United U7",
       "home_away": "away",
       "opponent": "Long Eaton United Blue U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "8251ff8f261ffb3b42f7231846ca868b",
+      "date": "2026-02-15",
+      "time": "10:00",
+      "home_team": "Dunkirk Colts U8 ^",
+      "away_team": "Club FDNA Santos U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sun 2026 Friendly 3 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Club FDNA Santos U9",
+      "home_away": "away",
+      "opponent": "Dunkirk Colts U8 ^",
       "goals_for": null,
       "goals_against": null
     },
@@ -861,6 +1142,23 @@
       "goals_against": null
     },
     {
+      "id": "be2513c4b54ed63b08e77fe7e508c37e",
+      "date": "2026-02-08",
+      "time": "10:00",
+      "home_team": "Club FDNA Santos U9",
+      "away_team": "Bagthorpe Athletic U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Club FDNA Santos U9",
+      "home_away": "home",
+      "opponent": "Bagthorpe Athletic U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "bf85166b627135a5aaf09f3861313669",
       "date": "2026-02-08",
       "time": "09:00",
@@ -929,6 +1227,23 @@
       "goals_against": null
     },
     {
+      "id": "6be1ce28c65b61162ada4897e84aff58",
+      "date": "2026-02-01",
+      "time": "10:00",
+      "home_team": "Gedling Southbank Sambas U9",
+      "away_team": "Club FDNA Santos U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sun 2026 Friendly 3 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Club FDNA Santos U9",
+      "home_away": "away",
+      "opponent": "Gedling Southbank Sambas U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "6c6d33fbfffb0e1d00b7ba4586d12b70",
       "date": "2026-01-31",
       "time": "11:15",
@@ -976,6 +1291,23 @@
       "team": "Club FDNA Munich U9",
       "home_away": "away",
       "opponent": "DLFC Lions U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "2722d04a8eba5958d9453ea379935a48",
+      "date": "2026-01-25",
+      "time": "10:00",
+      "home_team": "Mansfield Town Grassroots U9",
+      "away_team": "Club FDNA Santos U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Club FDNA Santos U9",
+      "home_away": "away",
+      "opponent": "Mansfield Town Grassroots U9",
       "goals_for": null,
       "goals_against": null
     },
@@ -1031,6 +1363,23 @@
       "goals_against": 9
     },
     {
+      "id": "4714a72a0ddf0e1ef19e5459b5dbe901",
+      "date": "2026-01-24",
+      "time": "10:00",
+      "home_team": "Club FDNA Santos U8",
+      "away_team": "Wollaton FC Sky U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Friendly 2026 Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Club FDNA Santos U8",
+      "home_away": "home",
+      "opponent": "Wollaton FC Sky U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "03baaf31283cec6f353368d65ceb3b3a",
       "date": "2026-01-24",
       "time": "10:00",
@@ -1063,6 +1412,23 @@
       "opponent": "Basford CFC Blue U10",
       "goals_for": 2,
       "goals_against": 1
+    },
+    {
+      "id": "ee2dd2ed3a61f38847c6b9318f0ddf1d",
+      "date": "2026-01-18",
+      "time": "10:00",
+      "home_team": "Sherwood Colliery Black U9",
+      "away_team": "Club FDNA Santos U9",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U9 Sun YEL Trophy",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Club FDNA Santos U9",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery Black U9",
+      "goals_for": 5,
+      "goals_against": 2
     },
     {
       "id": "ed522a3a970726cfa7c8bb7bf52187e3",
@@ -1112,6 +1478,23 @@
       "team": "Club FDNA Napoli U9",
       "home_away": "home",
       "opponent": "Long Eaton United Nero U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "c37b5cad982fe39a1a40a01d1743c895",
+      "date": "2026-01-17",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Basel U8",
+      "away_team": "Club FDNA Santos U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Friendly 2026 Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Club FDNA Santos U8",
+      "home_away": "away",
+      "opponent": "Ilkeston Town Basel U8",
       "goals_for": null,
       "goals_against": null
     },
@@ -1248,6 +1631,23 @@
       "team": "Club FDNA Napoli U9",
       "home_away": "away",
       "opponent": "Eastwood CFC Red U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "bef38b0b2c17ff0a615c26164fb16d28",
+      "date": "2025-12-13",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic Lions U8",
+      "away_team": "Club FDNA Santos U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Winter Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Club FDNA Santos U8",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic Lions U8",
       "goals_for": null,
       "goals_against": null
     },
@@ -1456,6 +1856,23 @@
       "goals_against": 3
     },
     {
+      "id": "69f24741514740afe5e2524c0fa465a4",
+      "date": "2025-11-22",
+      "time": "10:00",
+      "home_team": "Club FDNA Santos U8",
+      "away_team": "Long Eaton United Rayo U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Winter Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Club FDNA Santos U8",
+      "home_away": "home",
+      "opponent": "Long Eaton United Rayo U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "13a9575fb554594e9e0695aec3c4e2db",
       "date": "2025-11-22",
       "time": "09:30",
@@ -1471,6 +1888,23 @@
       "opponent": "Basford CFC Blue U10",
       "goals_for": 8,
       "goals_against": 1
+    },
+    {
+      "id": "98bf6f773fd21a40237dffcd75a36e25",
+      "date": "2025-11-16",
+      "time": "10:00",
+      "home_team": "Club FDNA Santos U9",
+      "away_team": "Calverton MW White U9",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U9 Sun Winter Div 2",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Club FDNA Santos U9",
+      "home_away": "home",
+      "opponent": "Calverton MW White U9",
+      "goals_for": 2,
+      "goals_against": 4
     },
     {
       "id": "7396e2ff5dc2dec57d0bd9fa7a608cdb",
@@ -1538,6 +1972,23 @@
       "home_away": "home",
       "opponent": "Silva FC Carlton Green U9",
       "goals_for": 7,
+      "goals_against": 4
+    },
+    {
+      "id": "e0cde98947d626b8518e759eae4ab642",
+      "date": "2025-11-09",
+      "time": "10:00",
+      "home_team": "Bottesford Yellow U9",
+      "away_team": "Club FDNA Santos U9",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sun Winter Div 2",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Club FDNA Santos U9",
+      "home_away": "away",
+      "opponent": "Bottesford Yellow U9",
+      "goals_for": 3,
       "goals_against": 4
     },
     {
@@ -1626,6 +2077,23 @@
       "goals_against": null
     },
     {
+      "id": "5792d2db66d1bf00db0f22180579f323",
+      "date": "2025-11-01",
+      "time": "10:00",
+      "home_team": "Club FDNA Santos U8",
+      "away_team": "Keyworth United Black U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Club FDNA Santos U8",
+      "home_away": "home",
+      "opponent": "Keyworth United Black U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "ea09af5563239428c7355f2462866c55",
       "date": "2025-10-25",
       "time": "10:00",
@@ -1677,6 +2145,23 @@
       "goals_against": null
     },
     {
+      "id": "6954d0d2d232bc93a42f0ccb9932ae6e",
+      "date": "2025-10-18",
+      "time": "09:30",
+      "home_team": "Stapleford Town Saxons U8",
+      "away_team": "Club FDNA Santos U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Club FDNA Santos U8",
+      "home_away": "away",
+      "opponent": "Stapleford Town Saxons U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "d7f04a0b178cfdba22fbcc6c1e55265e",
       "date": "2025-10-12",
       "time": "10:00",
@@ -1692,6 +2177,40 @@
       "opponent": "Quarrydale United United U9",
       "goals_for": 5,
       "goals_against": 0
+    },
+    {
+      "id": "e3bfda7ce6fae9e69874e99fb82deaad",
+      "date": "2025-10-12",
+      "time": "10:00",
+      "home_team": "Club FDNA Santos U9",
+      "away_team": "Gedling Southbank Sambas U9",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "",
+      "division": "U9 Sun Winter Div 2",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Club FDNA Santos U9",
+      "home_away": "home",
+      "opponent": "Gedling Southbank Sambas U9",
+      "goals_for": 1,
+      "goals_against": 6
+    },
+    {
+      "id": "05d5ddecba8e3097f3510743246ba2dc",
+      "date": "2025-10-11",
+      "time": "12:30",
+      "home_team": "DLFC Yellow U8",
+      "away_team": "Club FDNA Santos U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Club FDNA Santos U8",
+      "home_away": "away",
+      "opponent": "DLFC Yellow U8",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "7802e05a07d97bc0ee0a5993a88957d3",
@@ -1830,6 +2349,23 @@
       "goals_against": 8
     },
     {
+      "id": "de90ff6ce3441ba8527e8cad05189e4d",
+      "date": "2025-10-04",
+      "time": "10:00",
+      "home_team": "Priory Celtic Green U8",
+      "away_team": "Club FDNA Santos U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Autumn 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Club FDNA Santos U8",
+      "home_away": "away",
+      "opponent": "Priory Celtic Green U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "d6ab3b3a9004334bef33bfec52204e29",
       "date": "2025-10-04",
       "time": "10:00",
@@ -1894,6 +2430,23 @@
       "team": "Club FDNA Munich U9",
       "home_away": "away",
       "opponent": "Quarrydale United United U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "d0854352765a38ec2182ce50227cafa1",
+      "date": "2025-09-28",
+      "time": "10:00",
+      "home_team": "Club FDNA Santos U9",
+      "away_team": "Canoville Cobras U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Club FDNA Santos U9",
+      "home_away": "home",
+      "opponent": "Canoville Cobras U9",
       "goals_for": null,
       "goals_against": null
     },
@@ -2000,6 +2553,23 @@
       "goals_against": null
     },
     {
+      "id": "7b6e76a2c730e4a5a5f2843eb17b3de6",
+      "date": "2025-09-27",
+      "time": "10:00",
+      "home_team": "Club FDNA Santos U8",
+      "away_team": "Market Warsop Stags U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Autumn 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Club FDNA Santos U8",
+      "home_away": "home",
+      "opponent": "Market Warsop Stags U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "69921930dac5e80356ba5fe978d46c07",
       "date": "2025-09-27",
       "time": "09:50",
@@ -2013,6 +2583,23 @@
       "team": "Club FDNA Forest U7",
       "home_away": "away",
       "opponent": "Borrowash Youth Lynx U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "53b87e2332750fc4d148411d8bead220",
+      "date": "2025-09-21",
+      "time": "10:00",
+      "home_team": "Calverton MW White U9",
+      "away_team": "Club FDNA Santos U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sun Autumn Group 2 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Club FDNA Santos U9",
+      "home_away": "away",
+      "opponent": "Calverton MW White U9",
       "goals_for": null,
       "goals_against": null
     },
@@ -2119,6 +2706,23 @@
       "goals_against": null
     },
     {
+      "id": "a12bc1fc72fd192a0fbb82ce10166b01",
+      "date": "2025-09-20",
+      "time": "10:00",
+      "home_team": "A.C. United U8",
+      "away_team": "Club FDNA Santos U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Autumn 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Club FDNA Santos U8",
+      "home_away": "away",
+      "opponent": "A.C. United U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "c35957bdd21593029455645638d07a58",
       "date": "2025-09-20",
       "time": "09:50",
@@ -2149,6 +2753,23 @@
       "team": "Club FDNA Munich U9",
       "home_away": "away",
       "opponent": "Attenborough Colts Blue U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "bb2ae1a3ed8dcc8c5f681819de48a11f",
+      "date": "2025-09-14",
+      "time": "10:00",
+      "home_team": "Club FDNA Santos U9",
+      "away_team": "Alfreton Town Lions U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Club FDNA Santos U9",
+      "home_away": "home",
+      "opponent": "Alfreton Town Lions U9",
       "goals_for": null,
       "goals_against": null
     },
@@ -2221,6 +2842,23 @@
       "goals_against": null
     },
     {
+      "id": "5be9a9c70ff34885c1ba9b70da1023af",
+      "date": "2025-09-13",
+      "time": "10:00",
+      "home_team": "Club FDNA Santos U8",
+      "away_team": "Heanor Town Hot Dogs U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Autumn 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Club FDNA Santos U8",
+      "home_away": "home",
+      "opponent": "Heanor Town Hot Dogs U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "79f0ec2d87565a40f3b58acf4294b193",
       "date": "2025-09-13",
       "time": "09:50",
@@ -2285,6 +2923,23 @@
       "team": "Club FDNA Munich U9",
       "home_away": "home",
       "opponent": "Basford CFC Barca U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "05d3f26136a97124c5b43671027dd7ae",
+      "date": "2025-09-07",
+      "time": "10:00",
+      "home_team": "Club FDNA Santos U9",
+      "away_team": "Woodborough Celtic U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sun Autumn Group 2 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Club FDNA Santos U9",
+      "home_away": "home",
+      "opponent": "Woodborough Celtic U9",
       "goals_for": null,
       "goals_against": null
     },
@@ -2404,6 +3059,23 @@
       "team": "Club FDNA United U7",
       "home_away": "home",
       "opponent": "Moorgreen Colts U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "119412eacec390e7d211db65cb0b5975",
+      "date": "2025-09-06",
+      "time": "09:30",
+      "home_team": "Stapleford Town Warriors U8",
+      "away_team": "Club FDNA Santos U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Autumn 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Club FDNA Santos U8",
+      "home_away": "away",
+      "opponent": "Stapleford Town Warriors U8",
       "goals_for": null,
       "goals_against": null
     }

@@ -1,6 +1,6 @@
 {
   "club": "Sherwood Colliery",
-  "generated": "2026-04-19T15:05:15Z",
+  "generated": "2026-04-19T18:01:03Z",
   "fixtures": [
     {
       "id": "ea8e3fe0f97307f5ab0e8fd13eb5b878",
@@ -172,6 +172,19 @@
       "opponent": "Mickleover Jnrs Galaxy U14"
     },
     {
+      "id": "7adb25f44aa61fd4d54d8e64ee6b578e",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Long Eaton United Milan U10",
+      "away_team": "Sherwood Colliery Outlaws U10",
+      "venue": "Grange Park NG10 2EF",
+      "division": "U10 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "away",
+      "opponent": "Long Eaton United Milan U10"
+    },
+    {
       "id": "00f151f7d1f6c385c0b740d5d88a602d",
       "date": "2026-04-26",
       "time": "10:00",
@@ -196,6 +209,19 @@
       "team": "Sherwood Colliery Blue U9",
       "home_away": "away",
       "opponent": "Tibshelf FC Tigers U9"
+    },
+    {
+      "id": "501af5ca509238756b49d985fed64190",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Clifton All Whites Silver U12",
+      "away_team": "Sherwood Colliery Outlaws U12",
+      "venue": "Norman Archer Memorial Ground NG11 9AZ",
+      "division": "U12 Sun Spring Div 1 Gold",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood Colliery Outlaws U12",
+      "home_away": "away",
+      "opponent": "Clifton All Whites Silver U12"
     },
     {
       "id": "516c31d80776590b379bd31f745a447c",
@@ -622,6 +648,23 @@
       "goals_against": 1
     },
     {
+      "id": "163f0ab7ff76a5ff5f87abeaf518045f",
+      "date": "2026-04-19",
+      "time": "09:45",
+      "home_team": "Sherwood Colliery Outlaws U12",
+      "away_team": "Nottingham FC Blue U12",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sun Spring Div 1 Gold",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood Colliery Outlaws U12",
+      "home_away": "home",
+      "opponent": "Nottingham FC Blue U12",
+      "goals_for": 4,
+      "goals_against": 0
+    },
+    {
       "id": "5e8c3cdc50278d978ad41fa412592b0c",
       "date": "2026-04-19",
       "time": "09:30",
@@ -637,6 +680,23 @@
       "opponent": "DLFC Green U9",
       "goals_for": 1,
       "goals_against": 2
+    },
+    {
+      "id": "a98ef4ec3eebba2d1de2fe76a69338f3",
+      "date": "2026-04-18",
+      "time": "11:30",
+      "home_team": "Sporting Markfield U10",
+      "away_team": "Sherwood Colliery Outlaws U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "away",
+      "opponent": "Sporting Markfield U10",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "4fcbb0f5c5b4611f6be8767fcb16617b",
@@ -1047,6 +1107,23 @@
       "goals_against": 1
     },
     {
+      "id": "fef23811a65333c805b9380a1a2177ba",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Sherwood Colliery Outlaws U10",
+      "away_team": "Sporting Markfield U10",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "home",
+      "opponent": "Sporting Markfield U10",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
       "id": "b89ca78e912e2a7a973e66c387b43c42",
       "date": "2026-03-28",
       "time": "10:00",
@@ -1368,6 +1445,23 @@
       "opponent": "Heanor Town Hot Dogs U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "0fcfb2017ec90018b4157f569537647f",
+      "date": "2026-03-21",
+      "time": "10:00",
+      "home_team": "Grantham Town U10",
+      "away_team": "Sherwood Colliery Outlaws U10",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "away",
+      "opponent": "Grantham Town U10",
+      "goals_for": 1,
+      "goals_against": 0
     },
     {
       "id": "03991c4d9d3df7737a6e1b106b614bbd",
@@ -1727,6 +1821,23 @@
       "goals_against": 0
     },
     {
+      "id": "f2540dbb964be5447000adf7da8faeb6",
+      "date": "2026-03-14",
+      "time": "10:00",
+      "home_team": "Sherwood Colliery Outlaws U10",
+      "away_team": "Club FDNA Brasilia U10",
+      "home_score": 3,
+      "away_score": 7,
+      "venue": "",
+      "division": "U10 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "home",
+      "opponent": "Club FDNA Brasilia U10",
+      "goals_for": 3,
+      "goals_against": 7
+    },
+    {
       "id": "7ccd15fb746500b2dbcf70b7647c397b",
       "date": "2026-03-14",
       "time": "10:00",
@@ -2016,6 +2127,23 @@
       "goals_against": null
     },
     {
+      "id": "886716edb1af3544250d815955f8f40a",
+      "date": "2026-03-07",
+      "time": "10:00",
+      "home_team": "Sherwood Colliery Outlaws U10",
+      "away_team": "Holbrook Sports U10",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "home",
+      "opponent": "Holbrook Sports U10",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
       "id": "aed3b9fd344d1322fd144981be8ede27",
       "date": "2026-03-07",
       "time": "10:00",
@@ -2133,6 +2261,23 @@
       "opponent": "Clipstone Welfare Colts F.C. Youth U12",
       "goals_for": 0,
       "goals_against": 1
+    },
+    {
+      "id": "deee6c684fea7d895a549cf4a0573283",
+      "date": "2026-03-01",
+      "time": "11:00",
+      "home_team": "Basford United Silva U12",
+      "away_team": "Sherwood Colliery Outlaws U12",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sun Spring Div 1 Gold",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood Colliery Outlaws U12",
+      "home_away": "away",
+      "opponent": "Basford United Silva U12",
+      "goals_for": 3,
+      "goals_against": 2
     },
     {
       "id": "6906431e7aaea61c809bb73ea00c7de7",
@@ -2492,6 +2637,23 @@
       "goals_against": null
     },
     {
+      "id": "fd170d1918fcefd8c2818216320b9af6",
+      "date": "2026-02-21",
+      "time": "10:00",
+      "home_team": "Sherwood Colliery Outlaws U10",
+      "away_team": "Holbrook Sports U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sat Friendly 2026 1 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "home",
+      "opponent": "Holbrook Sports U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "d07d6cf5371df1b0a948ad25ba5b304f",
       "date": "2026-02-21",
       "time": "10:00",
@@ -2660,6 +2822,23 @@
       "opponent": "ASFC Gold U12",
       "goals_for": 0,
       "goals_against": 3
+    },
+    {
+      "id": "83c21f472a2042d009cb811ab3069251",
+      "date": "2026-02-14",
+      "time": "11:00",
+      "home_team": "Grantham Town U10",
+      "away_team": "Sherwood Colliery Outlaws U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sat Friendly 2026 1 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "away",
+      "opponent": "Grantham Town U10",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "8e4ae751775733293a88f3ea22b0661d",
@@ -2849,6 +3028,23 @@
       "goals_against": null
     },
     {
+      "id": "2a45dd822d7526a4c7b1e0e407c4fd2b",
+      "date": "2026-02-08",
+      "time": "09:45",
+      "home_team": "Sherwood Colliery Outlaws U12",
+      "away_team": "Hemington Hammers Sharks U12",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sun Spring Div 1 Gold",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood Colliery Outlaws U12",
+      "home_away": "home",
+      "opponent": "Hemington Hammers Sharks U12",
+      "goals_for": 5,
+      "goals_against": 0
+    },
+    {
       "id": "a7713fd1d819403c72fe51c09ef1a38a",
       "date": "2026-02-08",
       "time": "09:30",
@@ -2913,6 +3109,23 @@
       "team": "Sherwood Colliery Gold U9",
       "home_away": "away",
       "opponent": "Shirebrook Rangers Red U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "5f38b2d4637db7fa44d3ba4aad3e4183",
+      "date": "2026-02-07",
+      "time": "10:00",
+      "home_team": "Sherwood Colliery Outlaws U10",
+      "away_team": "Ruddington Village Black U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "home",
+      "opponent": "Ruddington Village Black U10",
       "goals_for": null,
       "goals_against": null
     },
@@ -3104,6 +3317,23 @@
       "goals_against": null
     },
     {
+      "id": "0f1b9d79681e7801b891058913ef6b6e",
+      "date": "2026-02-01",
+      "time": "09:45",
+      "home_team": "Sherwood Colliery Outlaws U12",
+      "away_team": "Gedling FC Tigers U12 *",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sun Spring Div 1 Gold",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood Colliery Outlaws U12",
+      "home_away": "home",
+      "opponent": "Gedling FC Tigers U12 *",
+      "goals_for": 4,
+      "goals_against": 1
+    },
+    {
       "id": "0a38861c9370f5c2ec7a6809d552dfce",
       "date": "2026-01-31",
       "time": "11:00",
@@ -3240,6 +3470,23 @@
       "goals_against": null
     },
     {
+      "id": "36e0b1b352d89049241cf56cfff8ab40",
+      "date": "2026-01-31",
+      "time": "09:30",
+      "home_team": "Woodthorpe Com Revolution U10",
+      "away_team": "Sherwood Colliery Outlaws U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sat Friendly 2026 1 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "away",
+      "opponent": "Woodthorpe Com Revolution U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "85a4ec85e74077d90a10362ab9ddb8b6",
       "date": "2026-01-25",
       "time": "14:30",
@@ -3272,6 +3519,23 @@
       "opponent": "Priory Celtic F.C. U15 Girls",
       "goals_for": 12,
       "goals_against": 0
+    },
+    {
+      "id": "3aa23030ba0e80ba087ae9f30ff71ed7",
+      "date": "2026-01-25",
+      "time": "11:15",
+      "home_team": "Sherwood Colliery Outlaws U12",
+      "away_team": "Woodhouse Colts Rhinos U12",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sun Spring Div 1 Gold",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood Colliery Outlaws U12",
+      "home_away": "home",
+      "opponent": "Woodhouse Colts Rhinos U12",
+      "goals_for": 1,
+      "goals_against": 3
     },
     {
       "id": "eb05a3a5d34ca6ff6d47dcb290888626",
@@ -3423,6 +3687,23 @@
       "team": "Sherwood Colliery Stags U9",
       "home_away": "away",
       "opponent": "Gedling Southbank Jaguars U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "4c17c69cb9350bcd3abb3bbfc478529c",
+      "date": "2026-01-24",
+      "time": "11:30",
+      "home_team": "Sporting Markfield U10",
+      "away_team": "Sherwood Colliery Outlaws U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sat Friendly 2026 1 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "away",
+      "opponent": "Sporting Markfield U10",
       "goals_for": null,
       "goals_against": null
     },
@@ -3680,6 +3961,23 @@
       "opponent": "Sherwood Colliery Outlaws U12",
       "goals_for": 1,
       "goals_against": 4
+    },
+    {
+      "id": "69901748346ca4c5fca71bd79f4cd559",
+      "date": "2026-01-18",
+      "time": "10:00",
+      "home_team": "Sherwood Colliery Cobras U12",
+      "away_team": "Sherwood Colliery Outlaws U12",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Sun Spring Div 1 Gold",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood Colliery Outlaws U12",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery Cobras U12",
+      "goals_for": 4,
+      "goals_against": 1
     },
     {
       "id": "bc37af502b8f5c6456b6269b0d7195ef",
@@ -4056,6 +4354,23 @@
       "goals_against": 0
     },
     {
+      "id": "9f541599c4887f2f37ffc1a893feabcb",
+      "date": "2025-12-14",
+      "time": "11:00",
+      "home_team": "Sherwood Colliery Outlaws U12",
+      "away_team": "Woodhouse Colts Rhinos U12",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood Colliery Outlaws U12",
+      "home_away": "home",
+      "opponent": "Woodhouse Colts Rhinos U12",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
       "id": "9cfade5cecdded2cf853cb88cb0c537b",
       "date": "2025-12-14",
       "time": "11:00",
@@ -4277,6 +4592,23 @@
       "goals_against": null
     },
     {
+      "id": "0ebb5d58d91b306cf6e74eb8e829cac3",
+      "date": "2025-12-13",
+      "time": "10:00",
+      "home_team": "Woodthorpe Com Revolution U10",
+      "away_team": "Sherwood Colliery Outlaws U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "away",
+      "opponent": "Woodthorpe Com Revolution U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "00de0c6cfa8be9c039e4be38f7093661",
       "date": "2025-12-13",
       "time": "10:00",
@@ -4377,6 +4709,23 @@
       "opponent": "Mansfield Athletic U12",
       "goals_for": 7,
       "goals_against": 4
+    },
+    {
+      "id": "7428565588bdee2d3592e5c044e02ab1",
+      "date": "2025-12-07",
+      "time": "11:00",
+      "home_team": "Sherwood Colliery Outlaws U12",
+      "away_team": "Kirkby Colts Red U12",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood Colliery Outlaws U12",
+      "home_away": "home",
+      "opponent": "Kirkby Colts Red U12",
+      "goals_for": 0,
+      "goals_against": 1
     },
     {
       "id": "b7fce02357310c4163698816d46178aa",
@@ -4549,6 +4898,23 @@
       "goals_against": 1
     },
     {
+      "id": "a61f86475dab02bc5f22fbaa12ab4411",
+      "date": "2025-12-06",
+      "time": "09:45",
+      "home_team": "Sherwood Colliery Outlaws U10",
+      "away_team": "Sporting Markfield U10",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U10 Sat YEL Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "home",
+      "opponent": "Sporting Markfield U10",
+      "goals_for": 2,
+      "goals_against": 5
+    },
+    {
       "id": "b54a4beeb767897f55ef9e945abd2a34",
       "date": "2025-12-06",
       "time": "09:30",
@@ -4630,6 +4996,23 @@
       "team": "Sherwood Colliery F.C. Ladies U12 Blue",
       "home_away": "home",
       "opponent": "Bingham Town F.C. U12 Girls Blue",
+      "goals_for": 0,
+      "goals_against": 2
+    },
+    {
+      "id": "944fc59dec3581d67d54fba55d49ada3",
+      "date": "2025-11-30",
+      "time": "11:00",
+      "home_team": "Willington FC Blue U12",
+      "away_team": "Sherwood Colliery Outlaws U12",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sun YEL Cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood Colliery Outlaws U12",
+      "home_away": "away",
+      "opponent": "Willington FC Blue U12",
       "goals_for": 0,
       "goals_against": 2
     },
@@ -5008,6 +5391,23 @@
       "goals_against": 2
     },
     {
+      "id": "a600a54eb8e1aab9443c2972c77e5e8a",
+      "date": "2025-11-22",
+      "time": "09:45",
+      "home_team": "Sherwood Colliery Outlaws U10",
+      "away_team": "Priory Celtic 1967 U10",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Winter Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "home",
+      "opponent": "Priory Celtic 1967 U10",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
       "id": "8ad988429f6f55383dba7a1a4fae3283",
       "date": "2025-11-22",
       "time": "09:45",
@@ -5108,6 +5508,23 @@
       "opponent": "Clifton All Whites Black U12",
       "goals_for": 1,
       "goals_against": 6
+    },
+    {
+      "id": "bf840f076d927709fe2c8c0ecd21786d",
+      "date": "2025-11-16",
+      "time": "10:00",
+      "home_team": "Ravenshead Reds U12",
+      "away_team": "Sherwood Colliery Outlaws U12",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U12 Sun Winter Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood Colliery Outlaws U12",
+      "home_away": "away",
+      "opponent": "Ravenshead Reds U12",
+      "goals_for": 5,
+      "goals_against": 0
     },
     {
       "id": "4fed02aeb11b26ee6e3ccea4e6bfdeba",
@@ -5246,6 +5663,23 @@
       "goals_against": 0
     },
     {
+      "id": "42c975d89b8ddf59b449cea9d7a67c33",
+      "date": "2025-11-15",
+      "time": "09:00",
+      "home_team": "Holbrook Sports U10",
+      "away_team": "Sherwood Colliery Outlaws U10",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Winter Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "away",
+      "opponent": "Holbrook Sports U10",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
       "id": "93ad6dfa01a1f889c53e9645f2f4ffc8",
       "date": "2025-11-09",
       "time": "14:30",
@@ -5295,6 +5729,23 @@
       "opponent": "Tansley Juniors U15 Girls",
       "goals_for": 4,
       "goals_against": 2
+    },
+    {
+      "id": "873752a68cab1e172ec0fa4f4598f701",
+      "date": "2025-11-09",
+      "time": "11:00",
+      "home_team": "Sherwood Colliery Outlaws U12",
+      "away_team": "ASFC U12",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sun Winter Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood Colliery Outlaws U12",
+      "home_away": "home",
+      "opponent": "ASFC U12",
+      "goals_for": 2,
+      "goals_against": 0
     },
     {
       "id": "f9053fe40e628f8c3afc4fe7238f336b",
@@ -5552,6 +6003,23 @@
       "goals_against": 2
     },
     {
+      "id": "2caf4c5cd2ce6e86921e1c3c4f96705a",
+      "date": "2025-11-08",
+      "time": "09:45",
+      "home_team": "Sherwood Colliery Outlaws U10",
+      "away_team": "Grantham Town U10",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sat Winter Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "home",
+      "opponent": "Grantham Town U10",
+      "goals_for": 2,
+      "goals_against": 3
+    },
+    {
       "id": "be2fc0a7376d8b5e1f7f93630a91624c",
       "date": "2025-11-02",
       "time": "14:00",
@@ -5788,6 +6256,23 @@
       "opponent": "Ravenshead Reds F.C. Youth U12",
       "goals_for": 6,
       "goals_against": 0
+    },
+    {
+      "id": "b5fb4c1fcb8b141959f49405f72f2b34",
+      "date": "2025-10-12",
+      "time": "11:00",
+      "home_team": "Sherwood Colliery Outlaws U12",
+      "away_team": "Kirkby Colts Red U12",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sun Winter Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood Colliery Outlaws U12",
+      "home_away": "home",
+      "opponent": "Kirkby Colts Red U12",
+      "goals_for": 4,
+      "goals_against": 3
     },
     {
       "id": "0c3993407709d74a1f903a9e4e72eca1",
@@ -6045,6 +6530,23 @@
       "goals_against": 3
     },
     {
+      "id": "7b058e5498869f6e1a3a84e36e4245cb",
+      "date": "2025-10-11",
+      "time": "09:45",
+      "home_team": "Sherwood Colliery Outlaws U10",
+      "away_team": "Long Eaton United Milan U10",
+      "home_score": 7,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Winter Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "home",
+      "opponent": "Long Eaton United Milan U10",
+      "goals_for": 7,
+      "goals_against": 1
+    },
+    {
       "id": "d5edb098541f2387941d4bd1023f26b1",
       "date": "2025-10-05",
       "time": "14:30",
@@ -6145,6 +6647,23 @@
       "opponent": "Gedling FC Tigers U12 *",
       "goals_for": 2,
       "goals_against": 1
+    },
+    {
+      "id": "7e4f4462afccce5f3521dfb3f7dabb1f",
+      "date": "2025-10-05",
+      "time": "10:30",
+      "home_team": "Robin Hood Colts U12",
+      "away_team": "Sherwood Colliery Outlaws U12",
+      "home_score": 0,
+      "away_score": 12,
+      "venue": "",
+      "division": "U12 Sun Winter Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood Colliery Outlaws U12",
+      "home_away": "away",
+      "opponent": "Robin Hood Colts U12",
+      "goals_for": 12,
+      "goals_against": 0
     },
     {
       "id": "6fb62a5c82fac49ec92eb17848a6fd1f",
@@ -6317,6 +6836,23 @@
       "goals_against": 2
     },
     {
+      "id": "52f9d92675ad7ee5422a12414acb783b",
+      "date": "2025-10-04",
+      "time": "10:00",
+      "home_team": "Southwell City Stars U10",
+      "away_team": "Sherwood Colliery Outlaws U10",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U10 Sat Winter Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "away",
+      "opponent": "Southwell City Stars U10",
+      "goals_for": 4,
+      "goals_against": 1
+    },
+    {
       "id": "14b5f04547026dc6b7e4ca459e230e29",
       "date": "2025-10-04",
       "time": "10:00",
@@ -6487,6 +7023,23 @@
       "goals_against": 0
     },
     {
+      "id": "9882ee9c795e61647d6af857966f8118",
+      "date": "2025-09-28",
+      "time": "11:00",
+      "home_team": "Sherwood Colliery Outlaws U12",
+      "away_team": "Selston FC U12",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sun Winter Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood Colliery Outlaws U12",
+      "home_away": "home",
+      "opponent": "Selston FC U12",
+      "goals_for": 5,
+      "goals_against": 1
+    },
+    {
       "id": "87891ac0d9290fbe4009ad3183fc2da8",
       "date": "2025-09-28",
       "time": "11:00",
@@ -6587,6 +7140,23 @@
       "opponent": "Allexton & New Parks Magpies U12",
       "goals_for": 1,
       "goals_against": 6
+    },
+    {
+      "id": "81355e78f6d7f01e1d070543eda73195",
+      "date": "2025-09-27",
+      "time": "11:00",
+      "home_team": "Long Eaton United Milan U10",
+      "away_team": "Sherwood Colliery Outlaws U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sat Autumn 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "away",
+      "opponent": "Long Eaton United Milan U10",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "a31e30bb917a12f8e115c8c23e67c1ca",
@@ -6757,6 +7327,23 @@
       "opponent": "Basford United Lions U12",
       "goals_for": 3,
       "goals_against": 2
+    },
+    {
+      "id": "ea3f64af11f5f7c17cff18471981317e",
+      "date": "2025-09-21",
+      "time": "11:00",
+      "home_team": "Burton Joyce Green U12",
+      "away_team": "Sherwood Colliery Outlaws U12",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sun Winter Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood Colliery Outlaws U12",
+      "home_away": "away",
+      "opponent": "Burton Joyce Green U12",
+      "goals_for": 3,
+      "goals_against": 1
     },
     {
       "id": "020784627216fb15efdd33a4b8790c11",
@@ -6997,6 +7584,23 @@
       "goals_against": 3
     },
     {
+      "id": "2cab25b34c8851cd36529e84f1435ee1",
+      "date": "2025-09-20",
+      "time": "10:00",
+      "home_team": "Southwell City Stars U10",
+      "away_team": "Sherwood Colliery Outlaws U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sat Autumn 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "away",
+      "opponent": "Southwell City Stars U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "9f077d91f2bd072ff71c022e0d5d6d09",
       "date": "2025-09-20",
       "time": "10:00",
@@ -7097,6 +7701,23 @@
       "opponent": "Matlock Town Junior U12 Girls Gladiators",
       "goals_for": 3,
       "goals_against": 0
+    },
+    {
+      "id": "4cd20c8ae0ccb20c161c1e3d1ff5d640",
+      "date": "2025-09-14",
+      "time": "11:00",
+      "home_team": "Sherwood Colliery Outlaws U12",
+      "away_team": "Arnold Town Maroon U12",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sun Winter Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood Colliery Outlaws U12",
+      "home_away": "home",
+      "opponent": "Arnold Town Maroon U12",
+      "goals_for": 5,
+      "goals_against": 1
     },
     {
       "id": "82bc6297ae8db23c0ed15f99bb7d66f1",
@@ -7354,6 +7975,23 @@
       "goals_against": null
     },
     {
+      "id": "a9e634e9e32650aa325640e6770cda1c",
+      "date": "2025-09-13",
+      "time": "09:45",
+      "home_team": "Sherwood Colliery Outlaws U10",
+      "away_team": "Teversal FC Blue U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "home",
+      "opponent": "Teversal FC Blue U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "163b853f7e9b2a30bcac2592363564b3",
       "date": "2025-09-13",
       "time": "09:45",
@@ -7437,6 +8075,23 @@
       "opponent": "DLFC Black U9",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "bbf238b5b4c6b55daf5627e05397169f",
+      "date": "2025-09-07",
+      "time": "10:00",
+      "home_team": "Selston FC U12",
+      "away_team": "Sherwood Colliery Outlaws U12",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood Colliery Outlaws U12",
+      "home_away": "away",
+      "opponent": "Selston FC U12",
+      "goals_for": 0,
+      "goals_against": 3
     },
     {
       "id": "4c2ad95ef9f8df35ae9d8107fe4e2f89",
@@ -7607,6 +8262,23 @@
       "opponent": "Gedling FC Tigers U12 *",
       "goals_for": 2,
       "goals_against": 1
+    },
+    {
+      "id": "9c3456cce872b38e9520d6b01ebf34cd",
+      "date": "2025-09-06",
+      "time": "10:00",
+      "home_team": "Club FDNA Brasilia U10",
+      "away_team": "Sherwood Colliery Outlaws U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sat Autumn 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Outlaws U10",
+      "home_away": "away",
+      "opponent": "Club FDNA Brasilia U10",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "9b6b3cf7c11d2640b5e5d87a74de1892",

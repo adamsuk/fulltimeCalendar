@@ -1,20 +1,7 @@
 {
   "club": "Silva FC",
-  "generated": "2026-04-19T15:05:15Z",
+  "generated": "2026-04-19T18:01:03Z",
   "fixtures": [
-    {
-      "id": "c59c6a5ddddc601f73d994ce950fffb5",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Clifton AW Purple U7",
-      "away_team": "Silva FC Magpies U7",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U7 Sun Spring Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Silva FC Magpies U7",
-      "home_away": "away",
-      "opponent": "Clifton AW Purple U7"
-    },
     {
       "id": "eb88aad7613fb9854d106a4256bb5925",
       "date": "2026-04-25",
@@ -72,6 +59,23 @@
       "opponent": "Basford United FC Yellow U13",
       "goals_for": 4,
       "goals_against": 0
+    },
+    {
+      "id": "c59c6a5ddddc601f73d994ce950fffb5",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Clifton AW Purple U7",
+      "away_team": "Silva FC Magpies U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Silva FC Magpies U7",
+      "home_away": "away",
+      "opponent": "Clifton AW Purple U7",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "b142cf66a05e518f941782cfd87def37",

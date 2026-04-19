@@ -1,7 +1,20 @@
 {
   "club": "Sherwood",
-  "generated": "2026-04-19T15:05:15Z",
+  "generated": "2026-04-19T18:01:03Z",
   "fixtures": [
+    {
+      "id": "966601ed1e735e120893ad902b00b300",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Calverton MW Maroon U9",
+      "away_team": "Sherwood FC Hoods U9",
+      "venue": "Kinton Park NG14 6NR",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "away",
+      "opponent": "Calverton MW Maroon U9"
+    },
     {
       "id": "b49210ad2baa1fe0ddef08ff0ef76911",
       "date": "2026-04-25",
@@ -107,6 +120,19 @@
       "opponent": "DLFC Red U7"
     },
     {
+      "id": "de8798bb37979c1da424dc9ac39f0c9c",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Attenborough Colts Yellow U9",
+      "away_team": "Sherwood FC Arrows U9",
+      "venue": "Chilwell Olympia NG9 5HR",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "away",
+      "opponent": "Attenborough Colts Yellow U9"
+    },
+    {
       "id": "b6c830682a456264e52a0710f35e4a4d",
       "date": "2026-04-26",
       "time": "10:00",
@@ -118,6 +144,19 @@
       "team": "Sherwood FC Blue U10",
       "home_away": "home",
       "opponent": "Ernehale Colts U10"
+    },
+    {
+      "id": "e79c4fe099e39d5f0b2c6abc7594d3f0",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Sherwood FC Hoods U9",
+      "away_team": "RHP Colts Green U9",
+      "venue": "Forest Sports Zone NG7 6LD",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "home",
+      "opponent": "RHP Colts Green U9"
     },
     {
       "id": "fcdc65b4e76badaaa4281842ab69161c",
@@ -148,7 +187,7 @@
     {
       "id": "080b03d31c6231faa7f75de36f088362",
       "date": "2026-04-26",
-      "time": "11:30",
+      "time": "12:00",
       "home_team": "Priory Celtic FC Ladies First Team",
       "away_team": "Sherwood FC Development Women",
       "venue": "THE KIMBERLEY SCHOOL",
@@ -196,6 +235,19 @@
       "team": "Sherwood FC Development Women",
       "home_away": "home",
       "opponent": "Arnold Town FC Women"
+    },
+    {
+      "id": "7b71501b8e76233ed4be36cc5cd444f2",
+      "date": "2026-05-10",
+      "time": "12:00",
+      "home_team": "Sherwood FC Arrows U9",
+      "away_team": "Quarrydale United Rangers U9",
+      "venue": "Norman Archer Memorial Ground NG11 9AZ",
+      "division": "U9 Sun YEL Inter cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "home",
+      "opponent": "Quarrydale United Rangers U9"
     },
     {
       "id": "8f56ad48cdeaa28c20be68f541ca71bc",
@@ -277,6 +329,23 @@
     }
   ],
   "results": [
+    {
+      "id": "bffd90bf4afb59fb2bb8d7eddf46d4e6",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "West Hallam Rangers U9",
+      "away_team": "Sherwood FC Arrows U9",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sun Spring Div 5 Green",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "away",
+      "opponent": "West Hallam Rangers U9",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "eb05ce1cb1bb7657382b96380dc82b65",
       "date": "2026-04-19",
@@ -550,6 +619,23 @@
       "goals_against": null
     },
     {
+      "id": "a69cce2690cba02bd35291af3e8017ee",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Wollaton H&B Phoenix U9",
+      "away_team": "Sherwood FC Arrows U9",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sun Spring Div 5 Green",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "away",
+      "opponent": "Wollaton H&B Phoenix U9",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
       "id": "1010769665e69b3b4e933f1e9ba5fcd4",
       "date": "2026-03-29",
       "time": "10:00",
@@ -565,6 +651,23 @@
       "opponent": "East Leake Bantams Black U10",
       "goals_for": 2,
       "goals_against": 0
+    },
+    {
+      "id": "585cac3db8ba65c27935c6dd8dfa88e4",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Sherwood FC Hoods U9",
+      "away_team": "Calverton MW Maroon U9",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sun Spring Div 7",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "home",
+      "opponent": "Calverton MW Maroon U9",
+      "goals_for": 1,
+      "goals_against": 2
     },
     {
       "id": "5fa7ff27b9f41956f99a13e5efba03f6",
@@ -737,6 +840,40 @@
       "goals_against": 6
     },
     {
+      "id": "52342dafdde6482bc7a646036cb8f7a7",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Sherwood FC Arrows U9",
+      "away_team": "DLFC Orange U9",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sun Spring Div 5 Green",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "home",
+      "opponent": "DLFC Orange U9",
+      "goals_for": 5,
+      "goals_against": 1
+    },
+    {
+      "id": "d7aa25c733ffc51957d1baf1647fdf43",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Wollaton H&B Panthers U9",
+      "away_team": "Sherwood FC Hoods U9",
+      "home_score": 3,
+      "away_score": 14,
+      "venue": "",
+      "division": "U9 Sun Spring Div 7",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "away",
+      "opponent": "Wollaton H&B Panthers U9",
+      "goals_for": 14,
+      "goals_against": 3
+    },
+    {
       "id": "b9196602c57982d955348aefc28de138",
       "date": "2026-03-21",
       "time": "12:00",
@@ -839,6 +976,23 @@
       "goals_against": 1
     },
     {
+      "id": "07a44fc04ca45a25b6006fb63d4deba0",
+      "date": "2026-03-15",
+      "time": "10:00",
+      "home_team": "Silva FC Carlton Gold U9",
+      "away_team": "Sherwood FC Arrows U9",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sun YEL Inter cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "away",
+      "opponent": "Silva FC Carlton Gold U9",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
       "id": "28c6ce82c8ca33b9fdd99fd7f4d34e7c",
       "date": "2026-03-15",
       "time": "10:00",
@@ -854,6 +1008,23 @@
       "opponent": "Beeston FC U10",
       "goals_for": 5,
       "goals_against": 3
+    },
+    {
+      "id": "01b5e8c4c6c9a32d852806889e599a97",
+      "date": "2026-03-15",
+      "time": "10:00",
+      "home_team": "Sherwood FC Hoods U9",
+      "away_team": "Ilkeston Town Saxons U9",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sun Spring Div 7",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "home",
+      "opponent": "Ilkeston Town Saxons U9",
+      "goals_for": 2,
+      "goals_against": 1
     },
     {
       "id": "00a926959e991a64d96b4d5f322c982a",
@@ -1026,6 +1197,40 @@
       "goals_against": 6
     },
     {
+      "id": "805d9a24d17b4ac20577c945bb8f9197",
+      "date": "2026-03-08",
+      "time": "10:00",
+      "home_team": "Sherwood FC Arrows U9",
+      "away_team": "Silva FC Carlton Gold U9",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U9 Sun Spring Div 5 Green",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "home",
+      "opponent": "Silva FC Carlton Gold U9",
+      "goals_for": 2,
+      "goals_against": 4
+    },
+    {
+      "id": "7974b3a167518cf7029ca9ea41831bcd",
+      "date": "2026-03-08",
+      "time": "10:00",
+      "home_team": "Pegasus FC U9",
+      "away_team": "Sherwood FC Hoods U9",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sun Spring Div 7",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "away",
+      "opponent": "Pegasus FC U9",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
       "id": "def6e3e322b4abca9b1ca0eddf6820d7",
       "date": "2026-03-08",
       "time": "10:00",
@@ -1145,6 +1350,23 @@
       "goals_against": 1
     },
     {
+      "id": "16687ef5063250a03ae4a59c56f91eb2",
+      "date": "2026-03-01",
+      "time": "10:00",
+      "home_team": "AJ Sport Black U9",
+      "away_team": "Sherwood FC Arrows U9",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U9 Sun Spring Div 5 Green",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "away",
+      "opponent": "AJ Sport Black U9",
+      "goals_for": 5,
+      "goals_against": 1
+    },
+    {
       "id": "da557cba04cde921a454970020c39493",
       "date": "2026-03-01",
       "time": "10:00",
@@ -1160,6 +1382,23 @@
       "opponent": "Clifton AW Purple U10",
       "goals_for": 2,
       "goals_against": 2
+    },
+    {
+      "id": "807cf78fa4867f172788864c7bd30e60",
+      "date": "2026-03-01",
+      "time": "10:00",
+      "home_team": "Sherwood FC Hoods U9",
+      "away_team": "WBYFC Marseille U9",
+      "home_score": 11,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sun Spring Div 7",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "home",
+      "opponent": "WBYFC Marseille U9",
+      "goals_for": 11,
+      "goals_against": 1
     },
     {
       "id": "75ae5adbce72a7eb134c4e3edb858236",
@@ -1296,6 +1535,40 @@
       "opponent": "Shirebrook Rangers Women",
       "goals_for": 1,
       "goals_against": 2
+    },
+    {
+      "id": "847040fccdc8133e5893dac28073f85e",
+      "date": "2026-02-22",
+      "time": "11:30",
+      "home_team": "Sherwood FC Arrows U9",
+      "away_team": "Burton Joyce Blue U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sun 2026 Friendly 5 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "home",
+      "opponent": "Burton Joyce Blue U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "ad8fe14d11f9afb381093ee11f1bb285",
+      "date": "2026-02-22",
+      "time": "10:00",
+      "home_team": "Kirkby Colts Red U9",
+      "away_team": "Sherwood FC Hoods U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sun 2026 Friendly 7",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "away",
+      "opponent": "Kirkby Colts Red U9",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "dff33e95f027d2e922e7601af61dac9b",
@@ -1570,6 +1843,40 @@
       "goals_against": 2
     },
     {
+      "id": "7fa7183dd340775634cc0c7e33912859",
+      "date": "2026-02-01",
+      "time": "10:00",
+      "home_team": "Sherwood FC Arrows U9",
+      "away_team": "Gedling Southbank Jaguars U9",
+      "home_score": 6,
+      "away_score": 5,
+      "venue": "",
+      "division": "U9 Sun YEL Inter cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "home",
+      "opponent": "Gedling Southbank Jaguars U9",
+      "goals_for": 6,
+      "goals_against": 5
+    },
+    {
+      "id": "f8e3be1eeb638d9847ee4e7761716fa3",
+      "date": "2026-02-01",
+      "time": "10:00",
+      "home_team": "Sherwood FC Hoods U9",
+      "away_team": "Calverton MW Maroon U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sun 2026 Friendly 7",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "home",
+      "opponent": "Calverton MW Maroon U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "43b5346034f69a5aed51a466720db8a3",
       "date": "2026-02-01",
       "time": "10:00",
@@ -1740,6 +2047,23 @@
       "goals_against": null
     },
     {
+      "id": "3948c16c821b40ab082eee05ef11070b",
+      "date": "2026-01-25",
+      "time": "10:00",
+      "home_team": "Sherwood FC Arrows U9",
+      "away_team": "Sports Gateway Arcs U9",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sun YEL Inter cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "home",
+      "opponent": "Sports Gateway Arcs U9",
+      "goals_for": 5,
+      "goals_against": 2
+    },
+    {
       "id": "8048adf377618f9cdb09b0b073eeb574",
       "date": "2026-01-25",
       "time": "10:00",
@@ -1755,6 +2079,23 @@
       "opponent": "Borrowash Youth Jaguars U10",
       "goals_for": 7,
       "goals_against": 0
+    },
+    {
+      "id": "6c0451a133e1220941244c253bd72869",
+      "date": "2026-01-25",
+      "time": "10:00",
+      "home_team": "Priory Celtic 1967 U9",
+      "away_team": "Sherwood FC Hoods U9",
+      "home_score": 6,
+      "away_score": 4,
+      "venue": "",
+      "division": "U9 Sun YEL Challenge Trophy",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "away",
+      "opponent": "Priory Celtic 1967 U9",
+      "goals_for": 4,
+      "goals_against": 6
     },
     {
       "id": "7cbf9ddcd4c15da41df13887741975f7",
@@ -1908,6 +2249,23 @@
       "opponent": "Sandiacre Town Youth U12 Panthers Girls",
       "goals_for": 0,
       "goals_against": 10
+    },
+    {
+      "id": "e2f104181f32d13a04fa1451f101e2e4",
+      "date": "2026-01-18",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Saxons U9",
+      "away_team": "Sherwood FC Hoods U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sun 2026 Friendly 7",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "away",
+      "opponent": "Ilkeston Town Saxons U9",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "71d83fd59844ee1d80eef27897884066",
@@ -2080,6 +2438,40 @@
       "goals_against": 0
     },
     {
+      "id": "287c9144c5e1db5bcc0391a0b0fef928",
+      "date": "2025-12-14",
+      "time": "10:30",
+      "home_team": "DLFC Orange U9",
+      "away_team": "Sherwood FC Arrows U9",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sun Winter Div 6 Green",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "away",
+      "opponent": "DLFC Orange U9",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "0e09c9ceb1c6ef5991f98b4cecd5b8e1",
+      "date": "2025-12-14",
+      "time": "10:00",
+      "home_team": "Sherwood FC Hoods U9",
+      "away_team": "Calverton MW Maroon U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "home",
+      "opponent": "Calverton MW Maroon U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "b4dd2cccafb4783d88cbc230fe9bf885",
       "date": "2025-12-14",
       "time": "10:00",
@@ -2129,6 +2521,23 @@
       "opponent": "Woodthorpe Community U12 Warriors",
       "goals_for": 0,
       "goals_against": 3
+    },
+    {
+      "id": "538c3a4c4faa5cbeb1ce6cf54e6e5f49",
+      "date": "2025-12-14",
+      "time": "09:45",
+      "home_team": "Burton Joyce Blue U9",
+      "away_team": "Sherwood FC Arrows U9",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sun Winter Div 6 Green",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "away",
+      "opponent": "Burton Joyce Blue U9",
+      "goals_for": 0,
+      "goals_against": 2
     },
     {
       "id": "a0dd68f46617f4d2d021590caf1666b6",
@@ -2214,6 +2623,23 @@
       "opponent": "WBYFC Sporting U10",
       "goals_for": 4,
       "goals_against": 3
+    },
+    {
+      "id": "6a3de0ac40a00cc92769e8bb44eb5c7e",
+      "date": "2025-12-07",
+      "time": "10:00",
+      "home_team": "Priory Celtic Green U9",
+      "away_team": "Sherwood FC Arrows U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "away",
+      "opponent": "Priory Celtic Green U9",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "fa0c5eb4e167317316295e4c0770a837",
@@ -2420,6 +2846,23 @@
       "goals_against": null
     },
     {
+      "id": "ca1293592854c2618c5bd4d0fa4d478a",
+      "date": "2025-11-30",
+      "time": "10:00",
+      "home_team": "Sherwood FC Hoods U9",
+      "away_team": "Priory Celtic 1967 U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "home",
+      "opponent": "Priory Celtic 1967 U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "6f8f706c6906779686cebce0420a5a57",
       "date": "2025-11-30",
       "time": "10:00",
@@ -2520,6 +2963,23 @@
       "opponent": "Arnold Town Blue U12",
       "goals_for": 4,
       "goals_against": 1
+    },
+    {
+      "id": "6ce83002877e167b28e607b422b64570",
+      "date": "2025-11-23",
+      "time": "10:00",
+      "home_team": "WBYFC Lyon U9",
+      "away_team": "Sherwood FC Hoods U9",
+      "home_score": 7,
+      "away_score": 4,
+      "venue": "",
+      "division": "U9 Sun Winter Div 6 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "away",
+      "opponent": "WBYFC Lyon U9",
+      "goals_for": 4,
+      "goals_against": 7
     },
     {
       "id": "9e76358958ec02a76873d02a51cd1319",
@@ -2675,6 +3135,23 @@
       "goals_against": 5
     },
     {
+      "id": "45f89026c192ca1e063213541942d8f2",
+      "date": "2025-11-16",
+      "time": "10:00",
+      "home_team": "Sherwood FC Arrows U9",
+      "away_team": "Burton Joyce Blue U9",
+      "home_score": 5,
+      "away_score": 4,
+      "venue": "",
+      "division": "U9 Sun Winter Div 6 Green",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "home",
+      "opponent": "Burton Joyce Blue U9",
+      "goals_for": 5,
+      "goals_against": 4
+    },
+    {
       "id": "99198c9fcbd1f6c586346d658a00fb8a",
       "date": "2025-11-16",
       "time": "10:00",
@@ -2811,6 +3288,23 @@
       "goals_against": 3
     },
     {
+      "id": "a91cbb79f1394824f81985387904f165",
+      "date": "2025-11-09",
+      "time": "10:00",
+      "home_team": "WBYFC Marseille U9",
+      "away_team": "Sherwood FC Arrows U9",
+      "home_score": 1,
+      "away_score": 10,
+      "venue": "",
+      "division": "U9 Sun Winter Div 6 Green",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "away",
+      "opponent": "WBYFC Marseille U9",
+      "goals_for": 10,
+      "goals_against": 1
+    },
+    {
       "id": "4eafdbfa1d4a039ec4b974b27a7c604f",
       "date": "2025-11-09",
       "time": "10:00",
@@ -2826,6 +3320,23 @@
       "opponent": "Beeston FC U10",
       "goals_for": 3,
       "goals_against": 2
+    },
+    {
+      "id": "dc7d3f75ed18151005eb56d4a32c0a94",
+      "date": "2025-11-09",
+      "time": "10:00",
+      "home_team": "Sherwood FC Hoods U9",
+      "away_team": "Sports Gateway Arcs U9",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sun Winter Div 6 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "home",
+      "opponent": "Sports Gateway Arcs U9",
+      "goals_for": 3,
+      "goals_against": 3
     },
     {
       "id": "922540c27ae16f47aef419c408685e62",
@@ -3066,6 +3577,23 @@
       "goals_against": null
     },
     {
+      "id": "48ea504c82fe69281dfe160af22bb215",
+      "date": "2025-10-12",
+      "time": "10:00",
+      "home_team": "Wollaton H&B Panthers U9",
+      "away_team": "Sherwood FC Arrows U9",
+      "home_score": 1,
+      "away_score": 8,
+      "venue": "",
+      "division": "U9 Sun Winter Div 6 Green",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "away",
+      "opponent": "Wollaton H&B Panthers U9",
+      "goals_for": 8,
+      "goals_against": 1
+    },
+    {
       "id": "2d8cbefa7ce8a9256655df103bd45e87",
       "date": "2025-10-12",
       "time": "10:00",
@@ -3081,6 +3609,23 @@
       "opponent": "Castle Donington Colts U10",
       "goals_for": 1,
       "goals_against": 5
+    },
+    {
+      "id": "a4c55b41c707acc615dd8dbe344414b4",
+      "date": "2025-10-12",
+      "time": "10:00",
+      "home_team": "Sherwood FC Hoods U9",
+      "away_team": "Silva FC Carlton Gold U9",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U9 Sun Winter Div 6 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "home",
+      "opponent": "Silva FC Carlton Gold U9",
+      "goals_for": 1,
+      "goals_against": 4
     },
     {
       "id": "b660bc6aabece4f33240ff28454d6c48",
@@ -3236,6 +3781,23 @@
       "goals_against": null
     },
     {
+      "id": "1ebbd5a5f70a0be7b0956cea71402d06",
+      "date": "2025-10-05",
+      "time": "11:30",
+      "home_team": "Sherwood FC Arrows U9",
+      "away_team": "DLFC Orange U9",
+      "home_score": 3,
+      "away_score": 5,
+      "venue": "",
+      "division": "U9 Sun Winter Div 6 Green",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "home",
+      "opponent": "DLFC Orange U9",
+      "goals_for": 3,
+      "goals_against": 5
+    },
+    {
       "id": "c864ddf7a7dd128ae3a72636ea0e60b1",
       "date": "2025-10-05",
       "time": "10:00",
@@ -3251,6 +3813,23 @@
       "opponent": "Attenborough Colts Green U10",
       "goals_for": 3,
       "goals_against": 3
+    },
+    {
+      "id": "59c69ccfe99097e83e5f196a45f27894",
+      "date": "2025-10-05",
+      "time": "10:00",
+      "home_team": "Priory Celtic Green U9",
+      "away_team": "Sherwood FC Hoods U9",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sun Winter Div 6 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "away",
+      "opponent": "Priory Celtic Green U9",
+      "goals_for": 0,
+      "goals_against": 2
     },
     {
       "id": "72eeb16777856ca9bd1f38be2ac69a9a",
@@ -3406,6 +3985,23 @@
       "goals_against": null
     },
     {
+      "id": "48f5fc0c178f96d7ed67522d421b5f84",
+      "date": "2025-09-28",
+      "time": "10:00",
+      "home_team": "Sherwood FC Arrows U9",
+      "away_team": "West Hallam Rangers U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "home",
+      "opponent": "West Hallam Rangers U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "f7a50f25dcd3409ee777c5300690d824",
       "date": "2025-09-28",
       "time": "10:00",
@@ -3419,6 +4015,23 @@
       "team": "Sherwood FC Blue U10",
       "home_away": "away",
       "opponent": "Lowdham FC EB U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "e314eea1d137aaeee5866d676bfa734c",
+      "date": "2025-09-28",
+      "time": "10:00",
+      "home_team": "DLFC Orange U9",
+      "away_team": "Sherwood FC Hoods U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sun Autumn Group 6 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "away",
+      "opponent": "DLFC Orange U9",
       "goals_for": null,
       "goals_against": null
     },
@@ -3627,6 +4240,23 @@
       "goals_against": null
     },
     {
+      "id": "c86e31dddc8b9800fd0a7bf051f98049",
+      "date": "2025-09-21",
+      "time": "10:00",
+      "home_team": "Hucknall Sports Black U9",
+      "away_team": "Sherwood FC Arrows U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sun Autumn Group 4 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "away",
+      "opponent": "Hucknall Sports Black U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "0f26582abcccef6446fb22ce85b8e930",
       "date": "2025-09-21",
       "time": "10:00",
@@ -3640,6 +4270,23 @@
       "team": "Sherwood FC Blue U10",
       "home_away": "home",
       "opponent": "Gedling Southbank Titans U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "3fe12d01c820e2f1d15f0dc353f2a8a5",
+      "date": "2025-09-21",
+      "time": "10:00",
+      "home_team": "Borrowash Youth Leopards U9",
+      "away_team": "Sherwood FC Hoods U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sun Autumn Group 6 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "away",
+      "opponent": "Borrowash Youth Leopards U9",
       "goals_for": null,
       "goals_against": null
     },
@@ -3780,6 +4427,23 @@
       "goals_against": 4
     },
     {
+      "id": "b92c30e97503898c255d8f9c38c42c5e",
+      "date": "2025-09-14",
+      "time": "11:30",
+      "home_team": "Sherwood FC Hoods U9",
+      "away_team": "Gedling Southbank Jaguars U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sun Autumn Group 6 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "home",
+      "opponent": "Gedling Southbank Jaguars U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "1ebd25cf6bcadf583bad5ef4c50125b0",
       "date": "2025-09-14",
       "time": "11:30",
@@ -3829,6 +4493,23 @@
       "opponent": "Priory Celtic FC Ladies First Team",
       "goals_for": 1,
       "goals_against": 1
+    },
+    {
+      "id": "c4cccbd79c61f2f479fbf205b85b150f",
+      "date": "2025-09-14",
+      "time": "10:00",
+      "home_team": "Sherwood FC Arrows U9",
+      "away_team": "Bulwell Forest U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sun Autumn Group 4 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "home",
+      "opponent": "Bulwell Forest U9",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "a4787b9b3c82496368c1f52a5c4590b4",
@@ -4001,6 +4682,23 @@
       "goals_against": null
     },
     {
+      "id": "ca258f58a728da5b7265d64c749d0192",
+      "date": "2025-09-07",
+      "time": "10:00",
+      "home_team": "Sherwood FC Arrows U9",
+      "away_team": "Ravenshead Reds U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sun Autumn Group 4 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Arrows U9",
+      "home_away": "home",
+      "opponent": "Ravenshead Reds U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "39fdc53bec07d4fb105f624de825cc65",
       "date": "2025-09-07",
       "time": "10:00",
@@ -4014,6 +4712,23 @@
       "team": "Sherwood FC Blue U10",
       "home_away": "away",
       "opponent": "Be Your Best Dortmund U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "20202e701b8bca2f3435f31e4544f413",
+      "date": "2025-09-07",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Saxons U9",
+      "away_team": "Sherwood FC Hoods U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sun Autumn Group 6 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sherwood FC Hoods U9",
+      "home_away": "away",
+      "opponent": "Ilkeston Town Saxons U9",
       "goals_for": null,
       "goals_against": null
     },

@@ -1,6 +1,6 @@
 {
   "club": "Priory Celtic",
-  "generated": "2026-04-19T15:05:15Z",
+  "generated": "2026-04-19T18:01:03Z",
   "fixtures": [
     {
       "id": "00b892d801d2dfcf9111f97f9e254d0c",
@@ -40,19 +40,6 @@
       "team": "Priory Celtic F.C. U12 Girls",
       "home_away": "home",
       "opponent": "Lowdham Colts F.C. Youth U12 Girls"
-    },
-    {
-      "id": "c581b41f4e46360a45d3146cbea2e2c9",
-      "date": "2026-04-19",
-      "time": "16:30",
-      "home_team": "Priory Celtic F.C. U16 Girls",
-      "away_team": "West Bridgford Colts U16 Vipers",
-      "venue": "RH ACADEMY",
-      "division": "U16 Div 2 League Cup",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Priory Celtic F.C. U16 Girls",
-      "home_away": "home",
-      "opponent": "West Bridgford Colts U16 Vipers"
     },
     {
       "id": "68c1021d0121186f1c4413da30ade344",
@@ -291,7 +278,7 @@
     {
       "id": "6d99290d3501ea73af45f9280e84febd",
       "date": "2026-04-26",
-      "time": "10:00",
+      "time": "10:30",
       "home_team": "Priory Celtic F.C. U16 Girls",
       "away_team": "Radcliffe Olympic FC U16 Girls",
       "venue": "THE KIMBERLEY SCHOOL",
@@ -300,6 +287,19 @@
       "team": "Priory Celtic F.C. U16 Girls",
       "home_away": "home",
       "opponent": "Radcliffe Olympic FC U16 Girls"
+    },
+    {
+      "id": "874f85273ed84637b70c88ae3edad952",
+      "date": "2026-04-26",
+      "time": "11:30",
+      "home_team": "Priory Celtic F.C. U14 Lionesses",
+      "away_team": "Stanton Ilkeston U14 Sapphires",
+      "venue": "THE KIMBERLEY SCHOOL",
+      "division": "U14 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "home",
+      "opponent": "Stanton Ilkeston U14 Sapphires"
     },
     {
       "id": "575855de82ef3b1e578b578afe001289",
@@ -315,6 +315,19 @@
       "opponent": "Silva FC Rushcliffe Spirit U11"
     },
     {
+      "id": "080b03d31c6231faa7f75de36f088362",
+      "date": "2026-04-26",
+      "time": "12:00",
+      "home_team": "Priory Celtic FC Ladies First Team",
+      "away_team": "Sherwood FC Development Women",
+      "venue": "THE KIMBERLEY SCHOOL",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic FC Ladies First Team",
+      "home_away": "home",
+      "opponent": "Sherwood FC Development Women"
+    },
+    {
       "id": "a3101d313fe3f2e6eefdfed9a03a9537",
       "date": "2026-04-28",
       "time": "18:00",
@@ -326,6 +339,19 @@
       "team": "Priory Celtic White U14",
       "home_away": "home",
       "opponent": "Attenborough Colts Yellow U14"
+    },
+    {
+      "id": "a25a388eaf761a54394869b6b9aee00d",
+      "date": "2026-05-01",
+      "time": "18:00",
+      "home_team": "Priory Celtic F.C. U14 Lionesses",
+      "away_team": "Hucknall & Linby Harriers FC U14",
+      "venue": "THE KIMBERLEY SCHOOL",
+      "division": "U14 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "home",
+      "opponent": "Hucknall & Linby Harriers FC U14"
     },
     {
       "id": "1f2ff8f006bb953706057ab278b3ae87",
@@ -354,6 +380,19 @@
       "opponent": "Hasland Community U14 Girls Sunday"
     },
     {
+      "id": "0d554517cc3ec60b762fa78ffd396023",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Priory Celtic F.C. U14 Lionesses",
+      "away_team": "West Bridgford Colts U14 Pacific",
+      "venue": "THE KIMBERLEY SCHOOL",
+      "division": "U14 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U14 Pacific"
+    },
+    {
       "id": "6c326df27268e443abaf8cdd9bfddc04",
       "date": "2026-05-03",
       "time": "10:00",
@@ -380,6 +419,19 @@
       "opponent": "Bingham Town F.C. U16 Girls"
     },
     {
+      "id": "d85b4c8669efd2721fa4dda00975fc91",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Priory Celtic FC Ladies First Team",
+      "away_team": "Arnold Town FC Women",
+      "venue": "THE KIMBERLEY SCHOOL",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic FC Ladies First Team",
+      "home_away": "home",
+      "opponent": "Arnold Town FC Women"
+    },
+    {
       "id": "836fd1a86ede195daa9afb128ba08349",
       "date": "2026-05-10",
       "time": "10:00",
@@ -404,9 +456,78 @@
       "team": "Priory Celtic F.C. U16 Girls",
       "home_away": "away",
       "opponent": "Arnold Eagles F.C. Girls U16 Buzzards"
+    },
+    {
+      "id": "81551561090c137036f826675e0c100b",
+      "date": "2026-05-10",
+      "time": "14:00",
+      "home_team": "Southwell City FC Ladies",
+      "away_team": "Priory Celtic FC Ladies First Team",
+      "venue": "CENTENARY SPORTS GROUND",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic FC Ladies First Team",
+      "home_away": "away",
+      "opponent": "Southwell City FC Ladies"
+    },
+    {
+      "id": "8f77faf39b930d1ad2f18a2abc770e85",
+      "date": "2026-05-17",
+      "time": "10:00",
+      "home_team": "Bagthorpe Athletic F.C. Youth U14 girls",
+      "away_team": "Priory Celtic F.C. U14 Lionesses",
+      "venue": "DIXIES ARMS PARK",
+      "division": "U14 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "away",
+      "opponent": "Bagthorpe Athletic F.C. Youth U14 girls"
+    },
+    {
+      "id": "8f77faf39b930d1ad2f18a2abc770e85",
+      "date": "2026-05-17",
+      "time": "10:05",
+      "home_team": "Bagthorpe Athletic F.C. Youth U14 girls",
+      "away_team": "Priory Celtic F.C. U14 Lionesses",
+      "venue": "DIXIES ARMS PARK",
+      "division": "U14 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "away",
+      "opponent": "Bagthorpe Athletic F.C. Youth U14 girls"
+    },
+    {
+      "id": "2e03451d9cf0d75e585d0cd043ea2566",
+      "date": "2026-05-17",
+      "time": "14:00",
+      "home_team": "Eastwood & Kimberley FC",
+      "away_team": "Priory Celtic FC Ladies First Team",
+      "venue": "JACKSDALE MINERS WELFARE SPORTS GROUND",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic FC Ladies First Team",
+      "home_away": "away",
+      "opponent": "Eastwood & Kimberley FC"
     }
   ],
   "results": [
+    {
+      "id": "c581b41f4e46360a45d3146cbea2e2c9",
+      "date": "2026-04-19",
+      "time": "16:30",
+      "home_team": "Priory Celtic F.C. U16 Girls",
+      "away_team": "West Bridgford Colts U16 Vipers",
+      "home_score": 7,
+      "away_score": 0,
+      "venue": "",
+      "division": "U16 Div 2 League Cup",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U16 Girls",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U16 Vipers",
+      "goals_for": 7,
+      "goals_against": 0
+    },
     {
       "id": "2507b349a5c083ad612a11205c288fc0",
       "date": "2026-04-19",
@@ -474,6 +595,23 @@
       "opponent": "Gedling Southbank FC U12 Hunters",
       "goals_for": 0,
       "goals_against": 1
+    },
+    {
+      "id": "2c90e56109c88987cf6f2758e4b0c0df",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Priory Celtic FC Ladies First Team",
+      "away_team": "Retford FC Ladies",
+      "home_score": 2,
+      "away_score": 10,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic FC Ladies First Team",
+      "home_away": "home",
+      "opponent": "Retford FC Ladies",
+      "goals_for": 2,
+      "goals_against": 10
     },
     {
       "id": "d82dfe6a40b1865e70c9f74af4e44d51",
@@ -799,6 +937,23 @@
       "goals_against": 1
     },
     {
+      "id": "44f568cabbc91a75de4188e13709d0bb",
+      "date": "2026-04-12",
+      "time": "09:30",
+      "home_team": "Priory Celtic F.C. U14 Lionesses",
+      "away_team": "Bagthorpe Athletic F.C. Youth U14 girls",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "home",
+      "opponent": "Bagthorpe Athletic F.C. Youth U14 girls",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
       "id": "ec3ee7521b766cb84a99a985b5832bfb",
       "date": "2026-04-11",
       "time": "12:15",
@@ -916,6 +1071,40 @@
       "opponent": "Stanton Ilkeston U10 Steelers",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "9e2b3f431e1f3ef1abb18bd1c360c53a",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Hucknall & Linby Harriers FC U14",
+      "away_team": "Priory Celtic F.C. U14 Lionesses",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "away",
+      "opponent": "Hucknall & Linby Harriers FC U14",
+      "goals_for": 4,
+      "goals_against": 1
+    },
+    {
+      "id": "57ccc89707c9f8578589904268e44b47",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Priory Celtic FC Ladies First Team",
+      "away_team": "Underwood Villa FC Youth Ladies",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic FC Ladies First Team",
+      "home_away": "home",
+      "opponent": "Underwood Villa FC Youth Ladies",
+      "goals_for": 1,
+      "goals_against": 3
     },
     {
       "id": "e6d2d3a66f7830b849a609e2a3310813",
@@ -1105,6 +1294,23 @@
       "goals_against": null
     },
     {
+      "id": "a80f4423d619e3b0250641b63721348c",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "West Bridgford Colts U11 Hurricanes",
+      "away_team": "Priory Celtic F.C. U11 Lionesses",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U11 Lionesses",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U11 Hurricanes",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "100219f8d8b27980049cda4c53cec43f",
       "date": "2026-03-22",
       "time": "10:00",
@@ -1156,6 +1362,23 @@
       "goals_against": 2
     },
     {
+      "id": "b5e8fb5b7fa2862c5bbceb40bb3b7e4f",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Bingham Town F.C. U14 Girls Red",
+      "away_team": "Priory Celtic F.C. U14 Lionesses",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "away",
+      "opponent": "Bingham Town F.C. U14 Girls Red",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
       "id": "0588a5dcf0f89daa2475e04b7ef5f028",
       "date": "2026-03-22",
       "time": "10:00",
@@ -1205,6 +1428,23 @@
       "opponent": "Bingham Town F.C. U16 Girls",
       "goals_for": 7,
       "goals_against": 4
+    },
+    {
+      "id": "cb7f081946276c0f8976f9d7f3259d6a",
+      "date": "2026-03-22",
+      "time": "09:30",
+      "home_team": "Priory Celtic FC Ladies First Team",
+      "away_team": "Southwell City FC Ladies",
+      "home_score": 1,
+      "away_score": 9,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic FC Ladies First Team",
+      "home_away": "home",
+      "opponent": "Southwell City FC Ladies",
+      "goals_for": 1,
+      "goals_against": 9
     },
     {
       "id": "5ebcc5cd2402c9f47e41ad881e3ca4e0",
@@ -1428,6 +1668,23 @@
       "goals_against": 3
     },
     {
+      "id": "80c5c67b41cfd8cfccd1fe3eca516554",
+      "date": "2026-03-15",
+      "time": "10:30",
+      "home_team": "Keyworth United F.C. U11 Tigers",
+      "away_team": "Priory Celtic F.C. U11 Lionesses",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 CUP 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U11 Lionesses",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U11 Tigers",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "fef52e6af9ee3bf21708394e5192512c",
       "date": "2026-03-15",
       "time": "10:00",
@@ -1528,6 +1785,23 @@
       "opponent": "Canoville FC U13 FC Bulldogs",
       "goals_for": 0,
       "goals_against": 9
+    },
+    {
+      "id": "bc3123e0370336a83f867c0b71c57fcc",
+      "date": "2026-03-15",
+      "time": "10:00",
+      "home_team": "Bingham Town F.C. U14 Girls Red",
+      "away_team": "Priory Celtic F.C. U14 Lionesses",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "away",
+      "opponent": "Bingham Town F.C. U14 Girls Red",
+      "goals_for": 4,
+      "goals_against": 1
     },
     {
       "id": "9783df6d8eee768db6738e7edd64c11b",
@@ -1768,6 +2042,23 @@
       "goals_against": 1
     },
     {
+      "id": "9d74f2ffd223205fc65c558724d4ba3d",
+      "date": "2026-03-08",
+      "time": "11:45",
+      "home_team": "Bagthorpe Athletic F.C. Youth U14 girls",
+      "away_team": "Priory Celtic F.C. U14 Lionesses",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Div 2 League Cup",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "away",
+      "opponent": "Bagthorpe Athletic F.C. Youth U14 girls",
+      "goals_for": 1,
+      "goals_against": 4
+    },
+    {
       "id": "69bedea37e2dac07ae19744eac41d37e",
       "date": "2026-03-08",
       "time": "11:30",
@@ -1783,6 +2074,23 @@
       "opponent": "Sports Gateway Arcs U9",
       "goals_for": 3,
       "goals_against": 1
+    },
+    {
+      "id": "6c3a0de993d22d476578051f3fac4f8b",
+      "date": "2026-03-08",
+      "time": "11:30",
+      "home_team": "Priory Celtic F.C. U11 Lionesses",
+      "away_team": "WH&BFC Wildhearts",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U11 Lionesses",
+      "home_away": "home",
+      "opponent": "WH&BFC Wildhearts",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "0d9f71e1d919bf21718967395cd53382",
@@ -2108,6 +2416,23 @@
       "goals_against": 2
     },
     {
+      "id": "59009a2217bfabe8144835effc531210",
+      "date": "2026-03-01",
+      "time": "10:00",
+      "home_team": "Priory Celtic F.C. U11 Lionesses",
+      "away_team": "Arnold Eagles F.C. Girls U11 Rangers",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U11 Lionesses",
+      "home_away": "home",
+      "opponent": "Arnold Eagles F.C. Girls U11 Rangers",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "3ec9873652fdb8db25d4620d29ec81dc",
       "date": "2026-03-01",
       "time": "10:00",
@@ -2227,6 +2552,23 @@
       "goals_against": 6
     },
     {
+      "id": "7de53d5f15730ac8e40892275afd9c58",
+      "date": "2026-02-22",
+      "time": "13:00",
+      "home_team": "Nottingham F.C. Youth U11 Girls",
+      "away_team": "Priory Celtic F.C. U11 Lionesses",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 CUP 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U11 Lionesses",
+      "home_away": "away",
+      "opponent": "Nottingham F.C. Youth U11 Girls",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "6bc773f48d437bb7cc002c8c08128179",
       "date": "2026-02-22",
       "time": "11:00",
@@ -2276,6 +2618,23 @@
       "opponent": "Radcliffe Olympic FC U13 Ravens",
       "goals_for": 0,
       "goals_against": 2
+    },
+    {
+      "id": "3acc2b20b0b932c228a245a29f33aa0a",
+      "date": "2026-02-22",
+      "time": "09:30",
+      "home_team": "Priory Celtic F.C. U14 Lionesses",
+      "away_team": "Bingham Town F.C. U14 Girls Red",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "home",
+      "opponent": "Bingham Town F.C. U14 Girls Red",
+      "goals_for": 2,
+      "goals_against": 3
     },
     {
       "id": "c301f540af353a1e001b44ddb3b17216",
@@ -2448,6 +2807,23 @@
       "goals_against": null
     },
     {
+      "id": "1701ea96798858f94dcf48f067152387",
+      "date": "2026-02-08",
+      "time": "12:00",
+      "home_team": "Priory Celtic F.C. U11 Lionesses",
+      "away_team": "Southwell City FC U11 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U11 Lionesses",
+      "home_away": "home",
+      "opponent": "Southwell City FC U11 Girls",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "c67fac40b8065330ba16d4e89a2008aa",
       "date": "2026-02-08",
       "time": "12:00",
@@ -2482,6 +2858,23 @@
       "goals_against": 12
     },
     {
+      "id": "79d963be20a85d0179e4e3b19fc36f48",
+      "date": "2026-02-08",
+      "time": "11:45",
+      "home_team": "Priory Celtic FC Ladies First Team",
+      "away_team": "Gedling Southbank FC Ladies",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic FC Ladies First Team",
+      "home_away": "home",
+      "opponent": "Gedling Southbank FC Ladies",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
       "id": "1a5bfdcbad58361cc1606a83b2cef4a2",
       "date": "2026-02-08",
       "time": "11:30",
@@ -2497,6 +2890,23 @@
       "opponent": "Silva FC Southglade Grey U13",
       "goals_for": 4,
       "goals_against": 3
+    },
+    {
+      "id": "9cbcf3e6d0dfefa4e5212b5bd94ffc40",
+      "date": "2026-02-08",
+      "time": "11:15",
+      "home_team": "Priory Celtic F.C. U14 Lionesses",
+      "away_team": "Stanton Ilkeston U14 Sapphires",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "home",
+      "opponent": "Stanton Ilkeston U14 Sapphires",
+      "goals_for": 2,
+      "goals_against": 1
     },
     {
       "id": "d457aaaf953a613b780872d766530a0f",
@@ -2669,6 +3079,23 @@
       "goals_against": 5
     },
     {
+      "id": "dd6d55f0d5b8ceafd77ab3d141a4598b",
+      "date": "2026-02-01",
+      "time": "10:00",
+      "home_team": "Hucknall & Linby Harriers FC U14",
+      "away_team": "Priory Celtic F.C. U14 Lionesses",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Div 2 League Cup",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "away",
+      "opponent": "Hucknall & Linby Harriers FC U14",
+      "goals_for": 1,
+      "goals_against": 4
+    },
+    {
       "id": "ebfcee45cba4b6cbd9fc5570268eeffa",
       "date": "2026-02-01",
       "time": "10:00",
@@ -2771,6 +3198,23 @@
       "goals_against": null
     },
     {
+      "id": "8bfcfb5935671e524a7026ede20c8bbe",
+      "date": "2026-01-25",
+      "time": "12:15",
+      "home_team": "Shirebrook Rangers Women",
+      "away_team": "Priory Celtic FC Ladies First Team",
+      "home_score": 8,
+      "away_score": 0,
+      "venue": "",
+      "division": "Senior Div 2 League Cup",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic FC Ladies First Team",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers Women",
+      "goals_for": 0,
+      "goals_against": 8
+    },
+    {
       "id": "73fd3efafed651271e2b52bd01b58b8c",
       "date": "2026-01-25",
       "time": "11:45",
@@ -2852,6 +3296,23 @@
       "team": "Priory Celtic F.C. U10 Girls",
       "home_away": "away",
       "opponent": "Radcliffe Olympic FC U10 Phantoms",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "71aed782c1be77450550c1c88c8cabaf",
+      "date": "2026-01-25",
+      "time": "10:00",
+      "home_team": "Bingham Town F.C. U11 Girls",
+      "away_team": "Priory Celtic F.C. U11 Lionesses",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U11 Lionesses",
+      "home_away": "away",
+      "opponent": "Bingham Town F.C. U11 Girls",
       "goals_for": null,
       "goals_against": null
     },
@@ -3109,6 +3570,23 @@
       "opponent": "Ravenshead Reds F.C. Youth U14",
       "goals_for": 0,
       "goals_against": 5
+    },
+    {
+      "id": "d16bca7c333e017a877aa2798456cdda",
+      "date": "2026-01-18",
+      "time": "10:30",
+      "home_team": "Stanton Ilkeston U14 Sapphires",
+      "away_team": "Priory Celtic F.C. U14 Lionesses",
+      "home_score": 4,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Div 2 League Cup",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "away",
+      "opponent": "Stanton Ilkeston U14 Sapphires",
+      "goals_for": 4,
+      "goals_against": 4
     },
     {
       "id": "884c551e846efd6050f496d0e9b6c5eb",
@@ -3451,6 +3929,23 @@
       "goals_against": 2
     },
     {
+      "id": "4b927657606bcd6edbc19b53b91aac44",
+      "date": "2025-12-14",
+      "time": "10:30",
+      "home_team": "West Bridgford Colts U14 Pacific",
+      "away_team": "Priory Celtic F.C. U14 Lionesses",
+      "home_score": 1,
+      "away_score": 8,
+      "venue": "",
+      "division": "U14 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U14 Pacific",
+      "goals_for": 8,
+      "goals_against": 1
+    },
+    {
       "id": "8acbb4daee33114fdd216087e27781f2",
       "date": "2025-12-14",
       "time": "10:00",
@@ -3551,6 +4046,23 @@
       "opponent": "Newark Town FC U13 Nesbitts",
       "goals_for": 1,
       "goals_against": 2
+    },
+    {
+      "id": "91614db7a6e4af5b16a2956e0e952789",
+      "date": "2025-12-14",
+      "time": "10:00",
+      "home_team": "Priory Celtic FC Ladies First Team",
+      "away_team": "Sherwood Colliery FC Ladies",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic FC Ladies First Team",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery FC Ladies",
+      "goals_for": 1,
+      "goals_against": 6
     },
     {
       "id": "f92e1f77cd2fcd04171b72f7072b2caa",
@@ -3687,6 +4199,23 @@
       "opponent": "Blidworth Bengals U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "19966e37cbcdf48e7884c1319145920b",
+      "date": "2025-12-07",
+      "time": "11:30",
+      "home_team": "Priory Celtic F.C. U14 Lionesses",
+      "away_team": "West Bridgford Colts U14 Pacific",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Div 2 League Cup",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U14 Pacific",
+      "goals_for": 4,
+      "goals_against": 2
     },
     {
       "id": "5da4ec7009a424b8d662342e0ffe1516",
@@ -3893,6 +4422,23 @@
       "goals_against": null
     },
     {
+      "id": "78be30aadc8d44708a9c11bd0b75f9ae",
+      "date": "2025-11-30",
+      "time": "14:00",
+      "home_team": "Retford FC Ladies",
+      "away_team": "Priory Celtic FC Ladies First Team",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic FC Ladies First Team",
+      "home_away": "away",
+      "opponent": "Retford FC Ladies",
+      "goals_for": 3,
+      "goals_against": 5
+    },
+    {
       "id": "be2ddb0f6b6318731573404d5654c580",
       "date": "2025-11-30",
       "time": "11:00",
@@ -3908,6 +4454,23 @@
       "opponent": "Dunkirk U11",
       "goals_for": 1,
       "goals_against": 3
+    },
+    {
+      "id": "53fe6f11e2d014204a335dc5b11acc7f",
+      "date": "2025-11-30",
+      "time": "10:00",
+      "home_team": "Bottesford U11 Girls",
+      "away_team": "Priory Celtic F.C. U11 Lionesses",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U11 Lionesses",
+      "home_away": "away",
+      "opponent": "Bottesford U11 Girls",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "c33fb626edc8e90c56e9752aa415fb6c",
@@ -4042,6 +4605,57 @@
       "team": "Priory Celtic White U7",
       "home_away": "away",
       "opponent": "Woodthorpe Community Union U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "ab13c5df329de4d051058379552dedfa",
+      "date": "2025-11-23",
+      "time": "13:30",
+      "home_team": "Underwood Villa FC Youth Ladies",
+      "away_team": "Priory Celtic FC Ladies First Team",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic FC Ladies First Team",
+      "home_away": "away",
+      "opponent": "Underwood Villa FC Youth Ladies",
+      "goals_for": 0,
+      "goals_against": 2
+    },
+    {
+      "id": "6ceeeef156de6899bf686fa4d5295d62",
+      "date": "2025-11-23",
+      "time": "12:00",
+      "home_team": "Priory Celtic F.C. U14 Lionesses",
+      "away_team": "Bagthorpe Athletic F.C. Youth U14 girls",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "",
+      "division": "U14 Div 2 League Cup",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "home",
+      "opponent": "Bagthorpe Athletic F.C. Youth U14 girls",
+      "goals_for": 1,
+      "goals_against": 6
+    },
+    {
+      "id": "d89e07bf80ffc9edf0d9f7c87eb04112",
+      "date": "2025-11-23",
+      "time": "11:30",
+      "home_team": "Priory Celtic F.C. U11 Lionesses",
+      "away_team": "Cotgrave FC U11 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U11 Lionesses",
+      "home_away": "home",
+      "opponent": "Cotgrave FC U11 Girls",
       "goals_for": null,
       "goals_against": null
     },
@@ -4212,6 +4826,23 @@
       "team": "Priory Celtic Green U8",
       "home_away": "away",
       "opponent": "Stapleford Town Warriors U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "837f259b66f681bdd01786600206b2ae",
+      "date": "2025-11-16",
+      "time": "13:00",
+      "home_team": "Nottingham F.C. Youth U11 Girls",
+      "away_team": "Priory Celtic F.C. U11 Lionesses",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Development Blue",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U11 Lionesses",
+      "home_away": "away",
+      "opponent": "Nottingham F.C. Youth U11 Girls",
       "goals_for": null,
       "goals_against": null
     },
@@ -4420,6 +5051,23 @@
       "goals_against": 1
     },
     {
+      "id": "357d93c95020d4cbd8fbcc9358327bac",
+      "date": "2025-11-09",
+      "time": "11:45",
+      "home_team": "Heanor Town Juniors U14 Diamonds",
+      "away_team": "Priory Celtic F.C. U14 Lionesses",
+      "home_score": 0,
+      "away_score": 9,
+      "venue": "",
+      "division": "U14 Div 2 League Cup",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "away",
+      "opponent": "Heanor Town Juniors U14 Diamonds",
+      "goals_for": 9,
+      "goals_against": 0
+    },
+    {
       "id": "8af75706814c34b399d3b83575616fc9",
       "date": "2025-11-09",
       "time": "11:00",
@@ -4471,6 +5119,23 @@
       "goals_against": null
     },
     {
+      "id": "28881c178b1d1c5d9a98d788550bc386",
+      "date": "2025-11-09",
+      "time": "10:00",
+      "home_team": "Arnold Eagles F.C. Girls U11 Rangers",
+      "away_team": "Priory Celtic F.C. U11 Lionesses",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Development Blue",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U11 Lionesses",
+      "home_away": "away",
+      "opponent": "Arnold Eagles F.C. Girls U11 Rangers",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "46334480d29cc6364dcc73fb10c8ba99",
       "date": "2025-11-09",
       "time": "10:00",
@@ -4503,6 +5168,23 @@
       "opponent": "Meden Vale Colts F.C. U16 Girls",
       "goals_for": 9,
       "goals_against": 1
+    },
+    {
+      "id": "f788c4e87fb0ac390383aeaf2a69bc7d",
+      "date": "2025-11-09",
+      "time": "10:00",
+      "home_team": "Priory Celtic FC Ladies First Team",
+      "away_team": "Shirebrook Rangers Women",
+      "home_score": 0,
+      "away_score": 7,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic FC Ladies First Team",
+      "home_away": "home",
+      "opponent": "Shirebrook Rangers Women",
+      "goals_for": 0,
+      "goals_against": 7
     },
     {
       "id": "374cbf3e81e9d9f6dc23e0e9ef79c85a",
@@ -4743,6 +5425,23 @@
       "goals_against": 0
     },
     {
+      "id": "fa11865a1303a77d5772703d1bbf4674",
+      "date": "2025-11-02",
+      "time": "11:00",
+      "home_team": "Hucknall & Linby Harriers FC U14",
+      "away_team": "Priory Celtic F.C. U14 Lionesses",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "away",
+      "opponent": "Hucknall & Linby Harriers FC U14",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
       "id": "a081abd6ca1d2d980518c4edd468c3e0",
       "date": "2025-11-02",
       "time": "10:00",
@@ -4775,6 +5474,23 @@
       "opponent": "Radcliffe Olympic FC U13 Ravens",
       "goals_for": 4,
       "goals_against": 8
+    },
+    {
+      "id": "cbef79c755bf6d5b7ba96d28a138218b",
+      "date": "2025-11-02",
+      "time": "10:00",
+      "home_team": "Priory Celtic FC Ladies First Team",
+      "away_team": "Underwood Villa FC Youth Ladies",
+      "home_score": 3,
+      "away_score": 5,
+      "venue": "",
+      "division": "Senior Div 2 League Cup",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic FC Ladies First Team",
+      "home_away": "home",
+      "opponent": "Underwood Villa FC Youth Ladies",
+      "goals_for": 3,
+      "goals_against": 5
     },
     {
       "id": "d34e6f31f947a5b737e1e172c85af14c",
@@ -4981,6 +5697,23 @@
       "goals_against": null
     },
     {
+      "id": "417ab26cd61f3e0d5cf64c45659e992b",
+      "date": "2025-10-12",
+      "time": "13:30",
+      "home_team": "Priory Celtic F.C. U14 Lionesses",
+      "away_team": "Bingham Town F.C. U14 Girls Red",
+      "home_score": 6,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Div 2 League Cup",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "home",
+      "opponent": "Bingham Town F.C. U14 Girls Red",
+      "goals_for": 6,
+      "goals_against": 4
+    },
+    {
       "id": "97d8f430b8b7755e5e9bd54ab04a7681",
       "date": "2025-10-12",
       "time": "12:00",
@@ -5098,6 +5831,23 @@
       "opponent": "Matlock Town Junior U12 Girls Gladiators",
       "goals_for": 2,
       "goals_against": 1
+    },
+    {
+      "id": "e2f7c370ef5d113e959125a95ff43373",
+      "date": "2025-10-12",
+      "time": "10:00",
+      "home_team": "Southwell City FC Ladies",
+      "away_team": "Priory Celtic FC Ladies First Team",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "",
+      "division": "Senior Div 2 League Cup",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic FC Ladies First Team",
+      "home_away": "away",
+      "opponent": "Southwell City FC Ladies",
+      "goals_for": 4,
+      "goals_against": 3
     },
     {
       "id": "a6caa0870707ee431cbe434a5eca35d6",
@@ -5389,6 +6139,23 @@
       "goals_against": null
     },
     {
+      "id": "d4ab6207f7a61938e31840ee057dbaac",
+      "date": "2025-10-05",
+      "time": "10:30",
+      "home_team": "Stanton Ilkeston U14 Sapphires",
+      "away_team": "Priory Celtic F.C. U14 Lionesses",
+      "home_score": 4,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "away",
+      "opponent": "Stanton Ilkeston U14 Sapphires",
+      "goals_for": 4,
+      "goals_against": 4
+    },
+    {
       "id": "718e5a80f4952b33f0744f98ee52aa7b",
       "date": "2025-10-05",
       "time": "10:00",
@@ -5676,6 +6443,23 @@
       "opponent": "Long Eaton United Rayo U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "e672997c6ebfe01acce2f3667fde1edf",
+      "date": "2025-09-28",
+      "time": "14:30",
+      "home_team": "Sherwood Colliery FC Ladies",
+      "away_team": "Priory Celtic FC Ladies First Team",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic FC Ladies First Team",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery FC Ladies",
+      "goals_for": 2,
+      "goals_against": 3
     },
     {
       "id": "5713d67b22359957a66bfb01dfa5fd06",
@@ -6188,6 +6972,23 @@
       "goals_against": null
     },
     {
+      "id": "e79035fb87032edf36e20f3d7abf891d",
+      "date": "2025-09-21",
+      "time": "10:00",
+      "home_team": "Priory Celtic F.C. U11 Lionesses",
+      "away_team": "Sherwood Colliery F.C. Ladies U11",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Development Blue",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U11 Lionesses",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery F.C. Ladies U11",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "aaa2cf5ee52a67a8c48d5b5b2f29b903",
       "date": "2025-09-21",
       "time": "10:00",
@@ -6426,6 +7227,23 @@
       "goals_against": 2
     },
     {
+      "id": "59c612df465f86dd7a4ad204d8c8c052",
+      "date": "2025-09-14",
+      "time": "12:00",
+      "home_team": "Priory Celtic F.C. U14 Lionesses",
+      "away_team": "West Bridgford Colts U14 Pacific",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U14 Pacific",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
       "id": "435927ab07b28748412979901e00e3b8",
       "date": "2025-09-14",
       "time": "11:30",
@@ -6440,6 +7258,23 @@
       "home_away": "home",
       "opponent": "Attenborough Colts Blue U11",
       "goals_for": 5,
+      "goals_against": 1
+    },
+    {
+      "id": "ca6c05175fa391dd7d08baec4a326522",
+      "date": "2025-09-14",
+      "time": "10:30",
+      "home_team": "Sherwood FC Development Women",
+      "away_team": "Priory Celtic FC Ladies First Team",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic FC Ladies First Team",
+      "home_away": "away",
+      "opponent": "Sherwood FC Development Women",
+      "goals_for": 1,
       "goals_against": 1
     },
     {
@@ -6490,6 +7325,23 @@
       "team": "Priory Celtic F.C. U11 Girls Green",
       "home_away": "away",
       "opponent": "Phoenix Inham F.C. U11 Flare",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "8b387bc7d18d761370064fbdd2dc5e33",
+      "date": "2025-09-14",
+      "time": "10:00",
+      "home_team": "Matlock Town Juniors U11 Girls",
+      "away_team": "Priory Celtic F.C. U11 Lionesses",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Development Blue",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U11 Lionesses",
+      "home_away": "away",
+      "opponent": "Matlock Town Juniors U11 Girls",
       "goals_for": null,
       "goals_against": null
     },
@@ -6800,6 +7652,23 @@
       "goals_against": null
     },
     {
+      "id": "ba444c6e8f2a7632a657b8bd52da4022",
+      "date": "2025-09-07",
+      "time": "10:05",
+      "home_team": "Priory Celtic F.C. U11 Lionesses",
+      "away_team": "Calverton Miners Welfare FC U11 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Development Blue",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U11 Lionesses",
+      "home_away": "home",
+      "opponent": "Calverton Miners Welfare FC U11 Girls",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "fe4ae9db23e8c7859e053bf749b77b09",
       "date": "2025-09-07",
       "time": "10:00",
@@ -6900,6 +7769,23 @@
       "opponent": "Arnold Eagles F.C. Girls U16 Buzzards",
       "goals_for": 4,
       "goals_against": 1
+    },
+    {
+      "id": "3a17bc7d5c4a4a0d2e46e4b16a041b33",
+      "date": "2025-09-07",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers Women",
+      "away_team": "Priory Celtic FC Ladies First Team",
+      "home_score": 6,
+      "away_score": 5,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic FC Ladies First Team",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers Women",
+      "goals_for": 5,
+      "goals_against": 6
     },
     {
       "id": "bc0ee5479a5f7be3604632b7ffa8b3be",

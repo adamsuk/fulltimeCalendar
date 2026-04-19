@@ -1,19 +1,8 @@
 {
   "team": "Radcliffe Olympic FC Ladies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T15:05:15Z",
+  "generated": "2026-04-19T18:01:03Z",
   "fixtures": [
-    {
-      "id": "6c76c7228e1752698b690d6caef85a09",
-      "date": "2026-04-19",
-      "time": "14:00",
-      "home_team": "Radcliffe Olympic FC Ladies",
-      "away_team": "Mansfield Town Ladies FC Development",
-      "venue": "BINGHAM ROAD PLAYING FIELDS",
-      "division": "Seniors Div 1",
-      "home_away": "home",
-      "opponent": "Mansfield Town Ladies FC Development"
-    },
     {
       "id": "5f5194ee4816a2bae8ad8971fa06c188",
       "date": "2026-04-26",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6c76c7228e1752698b690d6caef85a09",
+      "date": "2026-04-19",
+      "time": "14:00",
+      "home_team": "Radcliffe Olympic FC Ladies",
+      "away_team": "Mansfield Town Ladies FC Development",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "Seniors Div 1",
+      "home_away": "home",
+      "opponent": "Mansfield Town Ladies FC Development",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "afa6d2f6f4006884c4e38444023caef3",
       "date": "2026-04-12",

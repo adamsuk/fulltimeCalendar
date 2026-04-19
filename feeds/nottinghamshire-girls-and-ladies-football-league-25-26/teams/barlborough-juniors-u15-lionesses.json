@@ -1,19 +1,8 @@
 {
   "team": "Barlborough Juniors U15 Lionesses",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T15:05:15Z",
+  "generated": "2026-04-19T18:01:03Z",
   "fixtures": [
-    {
-      "id": "6e8a27a9d0ecb3af93366465830f2779",
-      "date": "2026-04-19",
-      "time": "14:00",
-      "home_team": "Keyworth United F.C. U15 Predators",
-      "away_team": "Barlborough Juniors U15 Lionesses",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "U15 Div 3",
-      "home_away": "away",
-      "opponent": "Keyworth United F.C. U15 Predators"
-    },
     {
       "id": "b183357f799f17ad37a9c2c2d4707513",
       "date": "2026-04-26",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6e8a27a9d0ecb3af93366465830f2779",
+      "date": "2026-04-19",
+      "time": "14:00",
+      "home_team": "Keyworth United F.C. U15 Predators",
+      "away_team": "Barlborough Juniors U15 Lionesses",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U15 Div 3",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U15 Predators",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "ff48b6b6ff533839dd16b0f3ae2db96c",
       "date": "2026-04-12",

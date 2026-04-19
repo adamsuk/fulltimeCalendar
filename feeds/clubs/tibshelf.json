@@ -1,6 +1,6 @@
 {
   "club": "Tibshelf",
-  "generated": "2026-04-19T15:05:15Z",
+  "generated": "2026-04-19T18:01:03Z",
   "fixtures": [
     {
       "id": "d116a8e17c30002dddbead72dbebc204",
@@ -40,6 +40,19 @@
       "team": "Tibshelf Tigers U13",
       "home_away": "home",
       "opponent": "Rainworth Juniors U13"
+    },
+    {
+      "id": "9350f005705809abf5f4229fb466ee97",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Tibshelf Community U10",
+      "away_team": "Ilkeston Town PSG U10",
+      "venue": "Newton Parish Ground DE55 5SH",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf Community U10",
+      "home_away": "home",
+      "opponent": "Ilkeston Town PSG U10"
     },
     {
       "id": "c67e69e7e519b8c71517d89f15b93299",
@@ -105,6 +118,32 @@
       "team": "Tibshelf FC U10",
       "home_away": "away",
       "opponent": "West Hallam Allstars U10"
+    },
+    {
+      "id": "a3c94366330a0291a4855363ec1c72f8",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "Stanton Ilkeston Phoenix U11",
+      "away_team": "Tibshelf Community Spiders U11",
+      "venue": "Ron Brooks Pavilion DE7 4LD",
+      "division": "U11 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Tibshelf Community Spiders U11",
+      "home_away": "away",
+      "opponent": "Stanton Ilkeston Phoenix U11"
+    },
+    {
+      "id": "8ea9a70bc9bd1374249945ce24cff32f",
+      "date": "2026-04-29",
+      "time": "18:30",
+      "home_team": "Heanor Town Hurricanes U11",
+      "away_team": "Tibshelf Community Spiders U11",
+      "venue": "Riddings Park DE55 4EW",
+      "division": "U11 Sun Spring Div 6 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Tibshelf Community Spiders U11",
+      "home_away": "away",
+      "opponent": "Heanor Town Hurricanes U11"
     }
   ],
   "results": [
@@ -124,6 +163,23 @@
       "opponent": "Meden Vale Colts Green U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "8ed025ec08dbe9d419617f4dc044e131",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Tibshelf Community Spiders U11",
+      "away_team": "Arnold Town Blue U11",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sun Spring Div 6 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Tibshelf Community Spiders U11",
+      "home_away": "home",
+      "opponent": "Arnold Town Blue U11",
+      "goals_for": 1,
+      "goals_against": 2
     },
     {
       "id": "eadc6be938124f202d4fe81e3daf3283",
@@ -177,6 +233,23 @@
       "goals_against": null
     },
     {
+      "id": "98c6fe213b00d45e984db1d244a523b6",
+      "date": "2026-04-16",
+      "time": "18:00",
+      "home_team": "Tibshelf Community Spiders U11",
+      "away_team": "Silva FC Rushcliffe Gold U11",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sun Spring Div 6 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Tibshelf Community Spiders U11",
+      "home_away": "home",
+      "opponent": "Silva FC Rushcliffe Gold U11",
+      "goals_for": 4,
+      "goals_against": 3
+    },
+    {
       "id": "dbe6b24c302ec0e1fe837e8140eb8648",
       "date": "2026-04-12",
       "time": "11:00",
@@ -228,6 +301,23 @@
       "goals_against": null
     },
     {
+      "id": "e6b19af54e85f49861511e3f01e75dbc",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "home_team": "PMG Excel U10",
+      "away_team": "Tibshelf Community U10",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 2 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf Community U10",
+      "home_away": "away",
+      "opponent": "PMG Excel U10",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
       "id": "865158711f5fb52de85170274adb6139",
       "date": "2026-03-29",
       "time": "10:00",
@@ -277,6 +367,23 @@
       "opponent": "Newark Brazil Cruzeiro U10",
       "goals_for": 0,
       "goals_against": 4
+    },
+    {
+      "id": "46281d3289b5392d3a0b5f66317c0871",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "DLFC Red U10",
+      "away_team": "Tibshelf Community U10",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sat Spring Div 2 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf Community U10",
+      "home_away": "away",
+      "opponent": "DLFC Red U10",
+      "goals_for": 3,
+      "goals_against": 2
     },
     {
       "id": "b1e20e614f10f05bd1aa3b040577b562",
@@ -381,6 +488,23 @@
       "goals_against": 3
     },
     {
+      "id": "4683121a4994b1a67877b4975a6a8456",
+      "date": "2026-03-21",
+      "time": "10:00",
+      "home_team": "Tibshelf Community U10",
+      "away_team": "Collingham FC Cougars U10",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U10 Sat Spring Div 2 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf Community U10",
+      "home_away": "home",
+      "opponent": "Collingham FC Cougars U10",
+      "goals_for": 1,
+      "goals_against": 0
+    },
+    {
       "id": "b5378132f643f06107af4a5326983841",
       "date": "2026-03-21",
       "time": "10:00",
@@ -432,6 +556,23 @@
       "goals_against": 4
     },
     {
+      "id": "2eec99b0ba88502c2364e43b45ad35d0",
+      "date": "2026-03-15",
+      "time": "10:00",
+      "home_team": "Castle Donington Tigers U11",
+      "away_team": "Tibshelf Community Spiders U11",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sun Spring Div 6 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Tibshelf Community Spiders U11",
+      "home_away": "away",
+      "opponent": "Castle Donington Tigers U11",
+      "goals_for": 1,
+      "goals_against": 4
+    },
+    {
       "id": "e26030363304842c6658833a080b889e",
       "date": "2026-03-15",
       "time": "10:00",
@@ -464,6 +605,40 @@
       "opponent": "Sherwood Colliery Black U9",
       "goals_for": 0,
       "goals_against": 2
+    },
+    {
+      "id": "842a2e7a2ac1c44cc1f2f9c43e464d14",
+      "date": "2026-03-14",
+      "time": "10:00",
+      "home_team": "Sandiacre Town Reds U10",
+      "away_team": "Tibshelf Community U10",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U10 Sat Spring Div 2 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf Community U10",
+      "home_away": "away",
+      "opponent": "Sandiacre Town Reds U10",
+      "goals_for": 4,
+      "goals_against": 2
+    },
+    {
+      "id": "aec32c974e84c7c12c83781b3eb58d34",
+      "date": "2026-03-08",
+      "time": "10:00",
+      "home_team": "Tibshelf Community Spiders U11",
+      "away_team": "Ancaster Athletic U11",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sun Spring Div 6 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Tibshelf Community Spiders U11",
+      "home_away": "home",
+      "opponent": "Ancaster Athletic U11",
+      "goals_for": 2,
+      "goals_against": 1
     },
     {
       "id": "818a882bc2adbe8fe1e81a9fcfd6c66d",
@@ -619,6 +794,23 @@
       "goals_against": null
     },
     {
+      "id": "70ed3ac0e132075a4db48fe7b8172458",
+      "date": "2026-02-28",
+      "time": "09:30",
+      "home_team": "Tibshelf Community U10",
+      "away_team": "Edwalton Cavaliers Blue U10",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "U10 Sat Spring Div 2 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf Community U10",
+      "home_away": "home",
+      "opponent": "Edwalton Cavaliers Blue U10",
+      "goals_for": 5,
+      "goals_against": 0
+    },
+    {
       "id": "5c7929fc53192b5f36666f90897d20f2",
       "date": "2026-02-22",
       "time": "10:00",
@@ -632,6 +824,23 @@
       "team": "Tibshelf FC Black U8",
       "home_away": "away",
       "opponent": "Shirebrook Rangers U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "5b0801ef2064ce84a29541ad83742360",
+      "date": "2026-02-21",
+      "time": "09:45",
+      "home_team": "Burton Joyce Green U10",
+      "away_team": "Tibshelf Community U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sat Friendly 2026 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf Community U10",
+      "home_away": "away",
+      "opponent": "Burton Joyce Green U10",
       "goals_for": null,
       "goals_against": null
     },
@@ -772,6 +981,40 @@
       "goals_against": null
     },
     {
+      "id": "719b5a5f4e312a8edc2a9e5e7dde4215",
+      "date": "2026-01-31",
+      "time": "10:00",
+      "home_team": "Tibshelf Community U10",
+      "away_team": "Woodhouse Colts United U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sat Friendly 2026 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf Community U10",
+      "home_away": "home",
+      "opponent": "Woodhouse Colts United U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "fe5d8bfb5570c1c74492c22d57fa55cf",
+      "date": "2026-01-25",
+      "time": "10:00",
+      "home_team": "Willow Wanderers Harriers U11",
+      "away_team": "Tibshelf Community Spiders U11",
+      "home_score": 6,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sun Spring Div 6 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Tibshelf Community Spiders U11",
+      "home_away": "away",
+      "opponent": "Willow Wanderers Harriers U11",
+      "goals_for": 3,
+      "goals_against": 6
+    },
+    {
       "id": "d8ff076c779df78f6077006a9e727e33",
       "date": "2026-01-25",
       "time": "10:00",
@@ -840,6 +1083,23 @@
       "goals_against": 2
     },
     {
+      "id": "2403e056cac942b70d2b8912743f4984",
+      "date": "2026-01-24",
+      "time": "10:00",
+      "home_team": "Southwell City Reds U10",
+      "away_team": "Tibshelf Community U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sat Friendly 2026 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf Community U10",
+      "home_away": "away",
+      "opponent": "Southwell City Reds U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "fa20f6143595ab4e80146889ecdfbfe3",
       "date": "2026-01-24",
       "time": "10:00",
@@ -871,6 +1131,23 @@
       "home_away": "away",
       "opponent": "Long Eaton United Red U13",
       "goals_for": 0,
+      "goals_against": 2
+    },
+    {
+      "id": "d331bafd93d0fdd57ee19ef3b25fc9b7",
+      "date": "2026-01-18",
+      "time": "10:00",
+      "home_team": "Borrowash Youth Lions U11",
+      "away_team": "Tibshelf Community Spiders U11",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sun Spring Div 6 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Tibshelf Community Spiders U11",
+      "home_away": "away",
+      "opponent": "Borrowash Youth Lions U11",
+      "goals_for": 2,
       "goals_against": 2
     },
     {
@@ -942,6 +1219,23 @@
       "goals_against": null
     },
     {
+      "id": "264c17c6043c959f032910244196bdc3",
+      "date": "2026-01-17",
+      "time": "10:30",
+      "home_team": "Woodhouse Colts United U10",
+      "away_team": "Tibshelf Community U10",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U10 Sat YEL Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf Community U10",
+      "home_away": "away",
+      "opponent": "Woodhouse Colts United U10",
+      "goals_for": 0,
+      "goals_against": 3
+    },
+    {
       "id": "0828d516b24da6d94cdf0ea14f866deb",
       "date": "2026-01-17",
       "time": "10:00",
@@ -955,6 +1249,23 @@
       "team": "Tibshelf FC White U8",
       "home_away": "home",
       "opponent": "Ravenshead Red Devils U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "ff59cf38700f228ae0f6b1e567f533fc",
+      "date": "2025-12-14",
+      "time": "11:00",
+      "home_team": "Tibshelf Community Spiders U11",
+      "away_team": "Heanor Town Hurricanes U11",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Tibshelf Community Spiders U11",
+      "home_away": "home",
+      "opponent": "Heanor Town Hurricanes U11",
       "goals_for": null,
       "goals_against": null
     },
@@ -1044,6 +1355,23 @@
       "goals_against": 12
     },
     {
+      "id": "7b4e7a971256c864dc632a8d38df281f",
+      "date": "2025-12-13",
+      "time": "10:00",
+      "home_team": "Club FDNA Madrid U10",
+      "away_team": "Tibshelf Community U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf Community U10",
+      "home_away": "away",
+      "opponent": "Club FDNA Madrid U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "271c6d7902d2a9127d73d4da3a84fcfc",
       "date": "2025-12-07",
       "time": "13:00",
@@ -1059,6 +1387,23 @@
       "opponent": "Arnold Town Maroon U13",
       "goals_for": 0,
       "goals_against": 5
+    },
+    {
+      "id": "ea17286f92ff4cc1821d6e688e43fcbd",
+      "date": "2025-12-07",
+      "time": "11:00",
+      "home_team": "Tibshelf Community Spiders U11",
+      "away_team": "Castle Donington Tigers U11",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Tibshelf Community Spiders U11",
+      "home_away": "home",
+      "opponent": "Castle Donington Tigers U11",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "8a1fd2f5d1fe4201cb5239e169a85d45",
@@ -1110,6 +1455,40 @@
       "opponent": "Sherwood Colliery Black U9",
       "goals_for": 0,
       "goals_against": 8
+    },
+    {
+      "id": "3af56772e1eced6f47ea9293e26ae163",
+      "date": "2025-12-06",
+      "time": "10:00",
+      "home_team": "Tibshelf Community U10",
+      "away_team": "Long Eaton United Invaders U10",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sat YEL Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf Community U10",
+      "home_away": "home",
+      "opponent": "Long Eaton United Invaders U10",
+      "goals_for": 5,
+      "goals_against": 2
+    },
+    {
+      "id": "63e2aeb342cfe36350e7069879132cfe",
+      "date": "2025-11-30",
+      "time": "10:45",
+      "home_team": "Carlton Town Yellow U11",
+      "away_team": "Tibshelf Community Spiders U11",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sun YEL Foundation Shield",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Tibshelf Community Spiders U11",
+      "home_away": "away",
+      "opponent": "Carlton Town Yellow U11",
+      "goals_for": 1,
+      "goals_against": 2
     },
     {
       "id": "57a478fe74cacaa490dad4bb0f7f7a7b",
@@ -1180,6 +1559,23 @@
       "goals_against": 4
     },
     {
+      "id": "4c259b8d1c42eff1dd0eea792fd0323a",
+      "date": "2025-11-29",
+      "time": "10:00",
+      "home_team": "Newark Town Titans U10",
+      "away_team": "Tibshelf Community U10",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sat Winter Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf Community U10",
+      "home_away": "away",
+      "opponent": "Newark Town Titans U10",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
       "id": "3bd7ce11815ff9e96ecd633d6feba594",
       "date": "2025-11-29",
       "time": "10:00",
@@ -1231,6 +1627,23 @@
       "goals_against": 0
     },
     {
+      "id": "65cbd661e31f5c45acbf3c6b76133b0c",
+      "date": "2025-11-22",
+      "time": "10:00",
+      "home_team": "Tibshelf Community U10",
+      "away_team": "Burton Joyce Green U10",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sat Winter Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf Community U10",
+      "home_away": "home",
+      "opponent": "Burton Joyce Green U10",
+      "goals_for": 4,
+      "goals_against": 2
+    },
+    {
       "id": "d75a51f45f80012a9adfe8f058ecede0",
       "date": "2025-11-22",
       "time": "10:00",
@@ -1246,6 +1659,23 @@
       "opponent": "G3A FC Santos U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "9b3ab23bd22da38eaec984ff1de3f640",
+      "date": "2025-11-16",
+      "time": "10:00",
+      "home_team": "Meden Vale Colts Gold U11",
+      "away_team": "Tibshelf Community Spiders U11",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sun Winter Div 5 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Tibshelf Community Spiders U11",
+      "home_away": "away",
+      "opponent": "Meden Vale Colts Gold U11",
+      "goals_for": 2,
+      "goals_against": 3
     },
     {
       "id": "b77629b1b373e4fdb39f67c584ce8eef",
@@ -1280,6 +1710,23 @@
       "opponent": "Woodthorpe Com Galaxy U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "cf59b333ebabd0e2407b0fd1fd58910b",
+      "date": "2025-11-09",
+      "time": "11:00",
+      "home_team": "Tibshelf Community Spiders U11",
+      "away_team": "Ravenshead FC U11",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U11 Sun Winter Div 5 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Tibshelf Community Spiders U11",
+      "home_away": "home",
+      "opponent": "Ravenshead FC U11",
+      "goals_for": 0,
+      "goals_against": 5
     },
     {
       "id": "534e4df8cf81b0385234bb08ea8e377c",
@@ -1365,6 +1812,23 @@
       "opponent": "Priory Celtic 1967 U13",
       "goals_for": 2,
       "goals_against": 6
+    },
+    {
+      "id": "ca618ca9f9dc0b1f01fda6db84f4458a",
+      "date": "2025-11-08",
+      "time": "10:00",
+      "home_team": "Tibshelf Community U10",
+      "away_team": "Southwell City Reds U10",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sat Winter Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf Community U10",
+      "home_away": "home",
+      "opponent": "Southwell City Reds U10",
+      "goals_for": 2,
+      "goals_against": 3
     },
     {
       "id": "056802679e0952ffbac21b5ed25d11a6",
@@ -1622,6 +2086,23 @@
       "goals_against": null
     },
     {
+      "id": "3b1b454ab1406158189954e904280a28",
+      "date": "2025-10-12",
+      "time": "10:30",
+      "home_team": "Tibshelf Community Spiders U11",
+      "away_team": "Ancaster Athletic U11",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sun Winter Div 5 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Tibshelf Community Spiders U11",
+      "home_away": "home",
+      "opponent": "Ancaster Athletic U11",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
       "id": "2ec578776e93240f21739d1006407712",
       "date": "2025-10-12",
       "time": "10:00",
@@ -1673,6 +2154,23 @@
       "goals_against": 7
     },
     {
+      "id": "e5eaa53e190142a2d90d8075af1f76dd",
+      "date": "2025-10-11",
+      "time": "10:00",
+      "home_team": "Woodhouse Colts United U10",
+      "away_team": "Tibshelf Community U10",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sat Winter Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf Community U10",
+      "home_away": "away",
+      "opponent": "Woodhouse Colts United U10",
+      "goals_for": 2,
+      "goals_against": 3
+    },
+    {
       "id": "d82d9be93d78eec0e5133a031e8705c7",
       "date": "2025-10-11",
       "time": "10:00",
@@ -1688,6 +2186,23 @@
       "opponent": "Toton Tornados Lightening U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "cc41e4b9199645a5910e77dd1e094200",
+      "date": "2025-10-05",
+      "time": "11:00",
+      "home_team": "Tibshelf Community Spiders U11",
+      "away_team": "Calverton MW White U11",
+      "home_score": 0,
+      "away_score": 6,
+      "venue": "",
+      "division": "U11 Sun Winter Div 5 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Tibshelf Community Spiders U11",
+      "home_away": "home",
+      "opponent": "Calverton MW White U11",
+      "goals_for": 0,
+      "goals_against": 6
     },
     {
       "id": "57db4fc4a9554cf50a2909708b0e2b5f",
@@ -1758,6 +2273,23 @@
       "goals_against": 1
     },
     {
+      "id": "7b9e9c65410de40746624220f5790e5b",
+      "date": "2025-10-04",
+      "time": "10:00",
+      "home_team": "Tibshelf Community U10",
+      "away_team": "Bingham Town Blue U10",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U10 Sat Winter Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf Community U10",
+      "home_away": "home",
+      "opponent": "Bingham Town Blue U10",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
       "id": "51ab8025f488bb18d01eb86e1d728b97",
       "date": "2025-10-04",
       "time": "10:00",
@@ -1773,6 +2305,23 @@
       "opponent": "Ollerton Town Red U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "ac4e299ee7bffd5f63ffe61fc5362673",
+      "date": "2025-09-28",
+      "time": "11:00",
+      "home_team": "Tibshelf Community Spiders U11",
+      "away_team": "Silva FC Carlton Red U11",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U11 Sun Winter Div 5 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Tibshelf Community Spiders U11",
+      "home_away": "home",
+      "opponent": "Silva FC Carlton Red U11",
+      "goals_for": 0,
+      "goals_against": 5
     },
     {
       "id": "415759e77fcdbb0aac7dffbadef8f314",
@@ -1860,6 +2409,23 @@
       "goals_against": null
     },
     {
+      "id": "4cac787e624e71353361bb5749b41aae",
+      "date": "2025-09-27",
+      "time": "10:00",
+      "home_team": "Woodhouse Colts United U10",
+      "away_team": "Tibshelf Community U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sat Autumn 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf Community U10",
+      "home_away": "away",
+      "opponent": "Woodhouse Colts United U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "484e985aca871ca35ce61d982f721985",
       "date": "2025-09-27",
       "time": "10:00",
@@ -1928,6 +2494,23 @@
       "goals_against": 1
     },
     {
+      "id": "2c5c8ad6a45b469a53ecd0458407f975",
+      "date": "2025-09-21",
+      "time": "10:00",
+      "home_team": "Barrowby Junior Green U11",
+      "away_team": "Tibshelf Community Spiders U11",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "",
+      "division": "U11 Sun Winter Div 5 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Tibshelf Community Spiders U11",
+      "home_away": "away",
+      "opponent": "Barrowby Junior Green U11",
+      "goals_for": 0,
+      "goals_against": 6
+    },
+    {
       "id": "814e04b49f3d4f239b776806e2c09c38",
       "date": "2025-09-21",
       "time": "10:00",
@@ -1994,6 +2577,40 @@
       "opponent": "Ravenshead Red Devils U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "59fcda80b20a2fb0290f5b720ed005d5",
+      "date": "2025-09-20",
+      "time": "09:45",
+      "home_team": "Tibshelf Community U10",
+      "away_team": "Burton Joyce Green U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sat Autumn 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf Community U10",
+      "home_away": "home",
+      "opponent": "Burton Joyce Green U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "aec49ae77d639f43b0a7a959bc8e394a",
+      "date": "2025-09-14",
+      "time": "11:00",
+      "home_team": "Tibshelf Community Spiders U11",
+      "away_team": "Arnold Town Blue U11",
+      "home_score": 4,
+      "away_score": 4,
+      "venue": "",
+      "division": "U11 Sun Winter Div 5 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Tibshelf Community Spiders U11",
+      "home_away": "home",
+      "opponent": "Arnold Town Blue U11",
+      "goals_for": 4,
+      "goals_against": 4
     },
     {
       "id": "9371ba84925b24fd1c37e57a24c4e360",
@@ -2098,6 +2715,23 @@
       "goals_against": null
     },
     {
+      "id": "057e9c90cb47b1c2d13aac01edd89c8d",
+      "date": "2025-09-13",
+      "time": "10:00",
+      "home_team": "Woodthorpe Com Revolution U10",
+      "away_team": "Tibshelf Community U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sat Autumn 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf Community U10",
+      "home_away": "away",
+      "opponent": "Woodthorpe Com Revolution U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "29c8b237a71a7dbe879107b43bbe051d",
       "date": "2025-09-13",
       "time": "10:00",
@@ -2166,6 +2800,23 @@
       "goals_against": null
     },
     {
+      "id": "9b6fbe228ffb784ea57e6f4351450080",
+      "date": "2025-09-07",
+      "time": "10:00",
+      "home_team": "Ravenshead FC U11",
+      "away_team": "Tibshelf Community Spiders U11",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Tibshelf Community Spiders U11",
+      "home_away": "away",
+      "opponent": "Ravenshead FC U11",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "ff680e144679634f8d0b3e0aefe648a8",
       "date": "2025-09-07",
       "time": "10:00",
@@ -2196,6 +2847,23 @@
       "team": "Tibshelf FC White U8",
       "home_away": "home",
       "opponent": "Ilkeston Town Basel U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "c63b042811b625179da7ba64c47bbba1",
+      "date": "2025-09-06",
+      "time": "09:45",
+      "home_team": "Teversal FC Blue U10",
+      "away_team": "Tibshelf Community U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sat Autumn 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Tibshelf Community U10",
+      "home_away": "away",
+      "opponent": "Teversal FC Blue U10",
       "goals_for": null,
       "goals_against": null
     }

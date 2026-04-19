@@ -1,20 +1,7 @@
 {
   "club": "Mansfield Town",
-  "generated": "2026-04-19T15:05:15Z",
+  "generated": "2026-04-19T18:01:03Z",
   "fixtures": [
-    {
-      "id": "6c76c7228e1752698b690d6caef85a09",
-      "date": "2026-04-19",
-      "time": "14:00",
-      "home_team": "Radcliffe Olympic FC Ladies",
-      "away_team": "Mansfield Town Ladies FC Development",
-      "venue": "BINGHAM ROAD PLAYING FIELDS",
-      "division": "Seniors Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Mansfield Town Ladies FC Development",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic FC Ladies"
-    },
     {
       "id": "9aac7436c7a5bc268266c6c366c5b3e7",
       "date": "2026-04-26",
@@ -204,6 +191,23 @@
       "goals_against": 2
     },
     {
+      "id": "6c76c7228e1752698b690d6caef85a09",
+      "date": "2026-04-19",
+      "time": "14:00",
+      "home_team": "Radcliffe Olympic FC Ladies",
+      "away_team": "Mansfield Town Ladies FC Development",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "Seniors Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Mansfield Town Ladies FC Development",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC Ladies",
+      "goals_for": 1,
+      "goals_against": 0
+    },
+    {
       "id": "e62a3229ac49158f9a1c452e50b8c669",
       "date": "2026-04-19",
       "time": "11:30",
@@ -243,7 +247,7 @@
       "time": "10:00",
       "home_team": "Matlock Town Juniors U15 Girls",
       "away_team": "Mansfield Town F.C. Girls U15",
-      "home_score": 5,
+      "home_score": 6,
       "away_score": 0,
       "venue": "",
       "division": "U15 Div 1",
@@ -252,7 +256,7 @@
       "home_away": "away",
       "opponent": "Matlock Town Juniors U15 Girls",
       "goals_for": 0,
-      "goals_against": 5
+      "goals_against": 6
     },
     {
       "id": "47b563a49b3293eb1c9ba3b5b2c4d6f1",

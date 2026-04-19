@@ -1,19 +1,8 @@
 {
   "team": "Nottingham Trent Uni FC Womens Pink",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T15:05:15Z",
+  "generated": "2026-04-19T18:01:03Z",
   "fixtures": [
-    {
-      "id": "8e7dc461f399fc57582db950e0fa730a",
-      "date": "2026-04-19",
-      "time": "13:00",
-      "home_team": "Nottingham Trent Uni FC Womens Pink",
-      "away_team": "Keyworth United FC First",
-      "venue": "CLIFTON SPORTS HUB",
-      "division": "Seniors Div 1",
-      "home_away": "home",
-      "opponent": "Keyworth United FC First"
-    },
     {
       "id": "272618c9dcbc8d3354384112f7768c9a",
       "date": "2026-05-10",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8e7dc461f399fc57582db950e0fa730a",
+      "date": "2026-04-19",
+      "time": "13:00",
+      "home_team": "Nottingham Trent Uni FC Womens Pink",
+      "away_team": "Keyworth United FC First",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "Seniors Div 1",
+      "home_away": "home",
+      "opponent": "Keyworth United FC First",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "89c5ade368389da550be59dd3e69ec40",
       "date": "2026-04-12",

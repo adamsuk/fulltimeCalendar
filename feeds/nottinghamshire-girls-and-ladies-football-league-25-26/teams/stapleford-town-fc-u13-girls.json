@@ -1,19 +1,8 @@
 {
   "team": "Stapleford Town FC U13 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T15:05:15Z",
+  "generated": "2026-04-19T18:01:03Z",
   "fixtures": [
-    {
-      "id": "c0d62bb71b24addfbf00394c116a5452",
-      "date": "2026-04-19",
-      "time": "14:30",
-      "home_team": "Stapleford Town FC U13 Girls",
-      "away_team": "West Bridgford Colts U13 Lions",
-      "venue": "RH ACADEMY",
-      "division": "U13 (9v9) League Cup 1",
-      "home_away": "home",
-      "opponent": "West Bridgford Colts U13 Lions"
-    },
     {
       "id": "2c2a1123cda4c8cd4962cc4cee6141d1",
       "date": "2026-04-22",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c0d62bb71b24addfbf00394c116a5452",
+      "date": "2026-04-19",
+      "time": "14:30",
+      "home_team": "Stapleford Town FC U13 Girls",
+      "away_team": "West Bridgford Colts U13 Lions",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 (9v9) League Cup 1",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U13 Lions",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "2ecb2bb83f532c67aed7e7f62dffac34",
       "date": "2026-04-12",
