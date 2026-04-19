@@ -1,6 +1,6 @@
 {
   "club": "Gedling Southbank",
-  "generated": "2026-04-19T08:36:56Z",
+  "generated": "2026-04-19T09:21:08Z",
   "fixtures": [
     {
       "id": "df01356acf6ced50678b588461c04e07",
@@ -27,6 +27,19 @@
       "team": "Gedling Southbank Whites U10",
       "home_away": "away",
       "opponent": "Selston FC Black U10"
+    },
+    {
+      "id": "0faecd3cce004b3b588fc3af8412fad3",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Attenborough Colts U13",
+      "away_team": "Gedling Southbank White U13",
+      "venue": "Chilwell Olympia NG9 5HR",
+      "division": "U13 Sun Spring Div 4 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank White U13",
+      "home_away": "away",
+      "opponent": "Attenborough Colts U13"
     },
     {
       "id": "68154a6af1527728e46a8d0a9b8a9da3",
@@ -68,6 +81,19 @@
       "opponent": "Loughborough Eml Eagles U12"
     },
     {
+      "id": "f77b3615f3662c2bc33def80cb8cc290",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Gedling Southbank White U13",
+      "away_team": "Beeston FC Black U13",
+      "venue": "Richard Herrod Centre  Ng41RL",
+      "division": "U13 Sun YEL Inter Cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank White U13",
+      "home_away": "home",
+      "opponent": "Beeston FC Black U13"
+    },
+    {
       "id": "f24ce20f3cb13de417156755f95cf2f3",
       "date": "2026-04-25",
       "time": "10:00",
@@ -92,6 +118,19 @@
       "team": "Gedling Southbank Warriors U10",
       "home_away": "home",
       "opponent": "Long Eaton United Invaders U10"
+    },
+    {
+      "id": "7c45d9074a511e1c858ab23b76065b1e",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Gedling Southbank White U7",
+      "away_team": "Burton Joyce Blue U7",
+      "venue": "Redhill Leisure Centre NG5 8GX",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "home",
+      "opponent": "Burton Joyce Blue U7"
     },
     {
       "id": "b305e15c4cdc63bd24bf44cab6fa9837",
@@ -198,6 +237,19 @@
       "opponent": "Sherwood Colliery Black U9"
     },
     {
+      "id": "147df30721d0926ad2264da22f04d2b7",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Priory Celtic Phoenix U13",
+      "away_team": "Gedling Southbank White U13",
+      "venue": "Kimberley Leisure Centre NG16 2NJ",
+      "division": "U13 Sun Spring Div 4 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank White U13",
+      "home_away": "away",
+      "opponent": "Priory Celtic Phoenix U13"
+    },
+    {
       "id": "c38883054f9cee13f523fe5a5dda3f9d",
       "date": "2026-04-26",
       "time": "10:00",
@@ -294,6 +346,23 @@
       "goals_against": 4
     },
     {
+      "id": "a31225a6f403d4a91b2f0b3347469568",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Gedling Southbank White U7",
+      "away_team": "Hucknall Town Warriors U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "home",
+      "opponent": "Hucknall Town Warriors U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "8e747063797a6640cb0e772448effb1a",
       "date": "2026-04-18",
       "time": "10:00",
@@ -309,6 +378,40 @@
       "opponent": "Nottingham Second Chance U11",
       "goals_for": 1,
       "goals_against": 0
+    },
+    {
+      "id": "7ba389f8601ce4c9141c2d9d085ba7bc",
+      "date": "2026-04-15",
+      "time": "18:00",
+      "home_team": "Lowdham FC Green U13",
+      "away_team": "Gedling Southbank White U13",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sun YEL Inter Cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank White U13",
+      "home_away": "away",
+      "opponent": "Lowdham FC Green U13",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
+      "id": "3db00df3de5be948ec0d002d4375c46a",
+      "date": "2026-04-12",
+      "time": "12:00",
+      "home_team": "Gedling Southbank White U13",
+      "away_team": "Silva FC Southglade Grey U13",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sun Spring Div 4 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank White U13",
+      "home_away": "home",
+      "opponent": "Silva FC Southglade Grey U13",
+      "goals_for": 3,
+      "goals_against": 3
     },
     {
       "id": "7a1547181e530df6e6242ae35b2a7682",
@@ -464,6 +567,23 @@
       "goals_against": 2
     },
     {
+      "id": "16bbac0b40cdf4826c6352da44ffd0a2",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Collingham FC Lions U7",
+      "away_team": "Gedling Southbank White U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "away",
+      "opponent": "Collingham FC Lions U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "b6a95ce57251e013d26a29dd948b3e50",
       "date": "2026-03-22",
       "time": "12:00",
@@ -496,6 +616,23 @@
       "opponent": "Nottingham FC Green U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "d1b1c4a23ffba2297a6dc69c35401466",
+      "date": "2026-03-22",
+      "time": "10:00",
+      "home_team": "Keyworth United Red U13",
+      "away_team": "Gedling Southbank White U13",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U13 Sun YEL Inter Cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank White U13",
+      "home_away": "away",
+      "opponent": "Keyworth United Red U13",
+      "goals_for": 5,
+      "goals_against": 1
     },
     {
       "id": "fd6eefe2c03cf6cf079767916b3a9d4e",
@@ -617,6 +754,23 @@
       "goals_against": 1
     },
     {
+      "id": "c72cb80db4323a4941323b236aebbca1",
+      "date": "2026-03-21",
+      "time": "10:00",
+      "home_team": "Gedling Southbank White U7",
+      "away_team": "Moorgreen Colts U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "home",
+      "opponent": "Moorgreen Colts U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "3fe011b75cf40a2ebe07ee837deeb34a",
       "date": "2026-03-21",
       "time": "10:00",
@@ -649,6 +803,23 @@
       "opponent": "AJ Sport White U9",
       "goals_for": 2,
       "goals_against": 1
+    },
+    {
+      "id": "6a750d852e58b4235f7982d8ffe82371",
+      "date": "2026-03-15",
+      "time": "11:45",
+      "home_team": "Gedling Southbank White U13",
+      "away_team": "Beeston FC Black U13",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sun Spring Div 4 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank White U13",
+      "home_away": "home",
+      "opponent": "Beeston FC Black U13",
+      "goals_for": 3,
+      "goals_against": 4
     },
     {
       "id": "6849bf5d7a1554bcb3e8f8ced82bd2f7",
@@ -785,6 +956,23 @@
       "opponent": "Teversal FC Blue U10",
       "goals_for": 2,
       "goals_against": 5
+    },
+    {
+      "id": "65f9239f14e7865ec3eef42ac95f65ff",
+      "date": "2026-03-14",
+      "time": "10:00",
+      "home_team": "Sandiacre Town Red U7",
+      "away_team": "Gedling Southbank White U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "away",
+      "opponent": "Sandiacre Town Red U7",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "96fcbe65ad3a125995d5ae97b42a1a7c",
@@ -974,6 +1162,23 @@
       "goals_against": 1
     },
     {
+      "id": "2cb1e51a77af89dff7ed77e2857c7df0",
+      "date": "2026-03-07",
+      "time": "10:00",
+      "home_team": "Gedling Southbank White U7",
+      "away_team": "Manor FC Red U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "home",
+      "opponent": "Manor FC Red U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "a0af6e448572f40a3bff75fc3db3184a",
       "date": "2026-03-07",
       "time": "10:00",
@@ -1076,6 +1281,23 @@
       "goals_against": 0
     },
     {
+      "id": "95e0dcfc5f6b488827db0cf9beb40f80",
+      "date": "2026-02-28",
+      "time": "10:00",
+      "home_team": "Sherwood Colliery U7",
+      "away_team": "Gedling Southbank White U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "00d8ced8d47ef86b13dc8b634a53b9be",
       "date": "2026-02-22",
       "time": "11:30",
@@ -1125,6 +1347,23 @@
       "opponent": "East Leake Bantams Black U9",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "2ba3bca38707bf4d4c11737ce24a2981",
+      "date": "2026-02-22",
+      "time": "10:00",
+      "home_team": "Phoenix Inham Flames U13",
+      "away_team": "Gedling Southbank White U13",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sun Spring Div 4 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank White U13",
+      "home_away": "away",
+      "opponent": "Phoenix Inham Flames U13",
+      "goals_for": 1,
+      "goals_against": 3
     },
     {
       "id": "c4d57758ce83e932e18d258ebcd907be",
@@ -1195,6 +1434,23 @@
       "goals_against": null
     },
     {
+      "id": "936ce40f935b14b7cf32dc07218ce88d",
+      "date": "2026-02-21",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers U7",
+      "away_team": "Gedling Southbank White U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "bb001ff25fbbbe86a28b8ebbd3f954c2",
       "date": "2026-02-15",
       "time": "12:00",
@@ -1242,6 +1498,23 @@
       "team": "Gedling Southbank Arrows U10",
       "home_away": "home",
       "opponent": "Willow Wanderers Hornets U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "dc2f0deb66ba780cd6dbab69721d83de",
+      "date": "2026-02-14",
+      "time": "10:00",
+      "home_team": "Newark Town FC Titans U7",
+      "away_team": "Gedling Southbank White U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Friendly 2026 Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "away",
+      "opponent": "Newark Town FC Titans U7",
       "goals_for": null,
       "goals_against": null
     },
@@ -1518,6 +1791,23 @@
       "goals_against": 2
     },
     {
+      "id": "235650f1c1e82b658366a64a20915230",
+      "date": "2026-01-31",
+      "time": "09:00",
+      "home_team": "DLFC Blue U7",
+      "away_team": "Gedling Southbank White U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Friendly 2026 Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "away",
+      "opponent": "DLFC Blue U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "01b76db0ebd2299068c1771c4beedf35",
       "date": "2026-01-25",
       "time": "10:00",
@@ -1550,6 +1840,23 @@
       "opponent": "Dunkirk Colts U8 ^",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "ce689b1010178a494ec9ada9b367200a",
+      "date": "2026-01-25",
+      "time": "10:00",
+      "home_team": "Gedling Southbank White U13",
+      "away_team": "Beeston FC Orange U13",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sun Spring Div 4 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank White U13",
+      "home_away": "home",
+      "opponent": "Beeston FC Orange U13",
+      "goals_for": 2,
+      "goals_against": 1
     },
     {
       "id": "347b05a948acbdcd89f990658de3f851",
@@ -1684,6 +1991,23 @@
       "team": "Gedling Southbank Warriors U10",
       "home_away": "home",
       "opponent": "Southwell City Ultras U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "761f802bd53719cd6e36c009c05c12c2",
+      "date": "2026-01-24",
+      "time": "10:00",
+      "home_team": "Hucknall Town Warriors U7",
+      "away_team": "Gedling Southbank White U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Friendly 2026 Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "away",
+      "opponent": "Hucknall Town Warriors U7",
       "goals_for": null,
       "goals_against": null
     },
@@ -1858,6 +2182,23 @@
       "goals_against": 2
     },
     {
+      "id": "6a2d81ef08184a339229da094903595c",
+      "date": "2026-01-17",
+      "time": "10:00",
+      "home_team": "Gedling Southbank White U7",
+      "away_team": "Aslockton & Orston U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Friendly 2026 Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "home",
+      "opponent": "Aslockton & Orston U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "e0899a9fd1cf13c3da3655ce502291f1",
       "date": "2025-12-14",
       "time": "10:00",
@@ -1922,6 +2263,23 @@
       "team": "Gedling Southbank Wolves U11",
       "home_away": "home",
       "opponent": "Clifton All Whites Scarlet U11",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "c689708b0f5780c2ac414458a156e1b9",
+      "date": "2025-12-13",
+      "time": "11:15",
+      "home_team": "DLFC Blue U7",
+      "away_team": "Gedling Southbank White U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Winter Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "away",
+      "opponent": "DLFC Blue U7",
       "goals_for": null,
       "goals_against": null
     },
@@ -2130,6 +2488,23 @@
       "goals_against": 5
     },
     {
+      "id": "2b85a2407fd3c13cdb4636f5a3f005de",
+      "date": "2025-12-06",
+      "time": "10:00",
+      "home_team": "Gedling Southbank White U7",
+      "away_team": "Hucknall Sports Red U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "home",
+      "opponent": "Hucknall Sports Red U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "59ffeeae8557d2241e50081bb721b249",
       "date": "2025-11-30",
       "time": "11:30",
@@ -2279,6 +2654,23 @@
       "team": "Gedling Southbank Jets U9",
       "home_away": "home",
       "opponent": "Loughborough Emmanuel U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "227900777ae3bd5803f0177dd933a833",
+      "date": "2025-11-29",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers U7",
+      "away_team": "Gedling Southbank White U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Winter Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers U7",
       "goals_for": null,
       "goals_against": null
     },
@@ -2453,6 +2845,40 @@
       "goals_against": 0
     },
     {
+      "id": "00034d1c953e7a91d35c689f1a0f8fe6",
+      "date": "2025-11-22",
+      "time": "10:00",
+      "home_team": "Gedling Southbank White U7",
+      "away_team": "Hucknall Town Warriors U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Winter Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "home",
+      "opponent": "Hucknall Town Warriors U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "88dc84f477d283d7995ddb464bce3e82",
+      "date": "2025-11-16",
+      "time": "11:45",
+      "home_team": "Gedling Southbank White U13",
+      "away_team": "Clipstone WC Valencia U13",
+      "home_score": 4,
+      "away_score": 9,
+      "venue": "",
+      "division": "U13 Sun Winter Div 3 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank White U13",
+      "home_away": "home",
+      "opponent": "Clipstone WC Valencia U13",
+      "goals_for": 4,
+      "goals_against": 9
+    },
+    {
       "id": "ac60750af13288d5a02675221951c628",
       "date": "2025-11-16",
       "time": "10:00",
@@ -2521,6 +2947,23 @@
       "goals_against": 2
     },
     {
+      "id": "01d5922b68ce3ead9f2ab7d4bb304c52",
+      "date": "2025-11-15",
+      "time": "10:00",
+      "home_team": "Gedling Southbank White U7",
+      "away_team": "Ilkeston Town Robins U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Winter Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "home",
+      "opponent": "Ilkeston Town Robins U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "8923e4f358be0e974a76a8e7082788f7",
       "date": "2025-11-15",
       "time": "09:00",
@@ -2587,6 +3030,23 @@
       "opponent": "Mansfield Town Grassroots U9",
       "goals_for": 4,
       "goals_against": 6
+    },
+    {
+      "id": "8ed91210021a777ef31ca8caf9334701",
+      "date": "2025-11-09",
+      "time": "10:00",
+      "home_team": "Lowdham FC Green U13",
+      "away_team": "Gedling Southbank White U13",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sun Winter Div 3 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank White U13",
+      "home_away": "away",
+      "opponent": "Lowdham FC Green U13",
+      "goals_for": 0,
+      "goals_against": 2
     },
     {
       "id": "647bedd6b765be61057e163ddf3d6783",
@@ -2723,6 +3183,40 @@
       "opponent": "PMG Excel U10",
       "goals_for": 2,
       "goals_against": 3
+    },
+    {
+      "id": "d1df24ca531263cb6eadf75d65d417cf",
+      "date": "2025-11-08",
+      "time": "10:00",
+      "home_team": "Manor FC Red U7",
+      "away_team": "Gedling Southbank White U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Winter Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "away",
+      "opponent": "Manor FC Red U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "f111ee5c5f5021489fc66786c5f2f4dd",
+      "date": "2025-11-02",
+      "time": "11:00",
+      "home_team": "Gedling Southbank White U13",
+      "away_team": "Phoenix Inham Flames U13",
+      "home_score": 4,
+      "away_score": 8,
+      "venue": "",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank White U13",
+      "home_away": "home",
+      "opponent": "Phoenix Inham Flames U13",
+      "goals_for": 4,
+      "goals_against": 8
     },
     {
       "id": "8729d9207871556f17d5aacd786d0c15",
@@ -2929,6 +3423,23 @@
       "goals_against": null
     },
     {
+      "id": "ee58ecd13fd2bc4290bbb74a662dddd9",
+      "date": "2025-10-19",
+      "time": "11:00",
+      "home_team": "Gedling Southbank White U13",
+      "away_team": "Meden Vale Colts Gold U13",
+      "home_score": 1,
+      "away_score": 8,
+      "venue": "",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank White U13",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts Gold U13",
+      "goals_for": 1,
+      "goals_against": 8
+    },
+    {
       "id": "aee91784efb270a80ca5b13b8fea70cb",
       "date": "2025-10-18",
       "time": "10:00",
@@ -3046,6 +3557,23 @@
       "opponent": "Club FDNA Santos U9",
       "goals_for": 6,
       "goals_against": 1
+    },
+    {
+      "id": "6f01e06e016b5734b5fc1232d11b85b0",
+      "date": "2025-10-12",
+      "time": "10:00",
+      "home_team": "Gedling Southbank White U13",
+      "away_team": "Arnold Town White U13",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sun Winter Div 3 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank White U13",
+      "home_away": "home",
+      "opponent": "Arnold Town White U13",
+      "goals_for": 0,
+      "goals_against": 4
     },
     {
       "id": "958be2df73b01d492aa4133e55f3d6ce",
@@ -3182,6 +3710,23 @@
       "opponent": "Pegasus FC U10",
       "goals_for": 0,
       "goals_against": 3
+    },
+    {
+      "id": "222758dd469840aba9f7ec9532fe4da9",
+      "date": "2025-10-11",
+      "time": "10:00",
+      "home_team": "Gedling Southbank White U7",
+      "away_team": "Long Bennington FC U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "home",
+      "opponent": "Long Bennington FC U7",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "65c59041f0d55494b9b0d13515bbd513",
@@ -3337,6 +3882,23 @@
       "goals_against": 1
     },
     {
+      "id": "d7aacd7983bea48e6c4fb642d06f7a40",
+      "date": "2025-10-04",
+      "time": "10:00",
+      "home_team": "Spirit Celtic Panthers U7",
+      "away_team": "Gedling Southbank White U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "away",
+      "opponent": "Spirit Celtic Panthers U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "8207c4f441bf238fa3d78019ef5cc852",
       "date": "2025-10-04",
       "time": "10:00",
@@ -3473,6 +4035,23 @@
       "goals_against": 0
     },
     {
+      "id": "22dd166eff0e770c165513e66dd6a28b",
+      "date": "2025-09-27",
+      "time": "10:40",
+      "home_team": "Gedling Southbank White U7",
+      "away_team": "WBYFC Bruges Stripes U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "home",
+      "opponent": "WBYFC Bruges Stripes U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "8dc78849eec0c2f1b272562eae0a3778",
       "date": "2025-09-27",
       "time": "10:30",
@@ -3520,6 +4099,23 @@
       "team": "Gedling Southbank Arrows U10",
       "home_away": "away",
       "opponent": "Fernwood Foxes Red U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "67a1361a1b5b16f673cf52fb04f50c1c",
+      "date": "2025-09-27",
+      "time": "09:50",
+      "home_team": "Gedling Southbank White U7",
+      "away_team": "DLFC Blue U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "home",
+      "opponent": "DLFC Blue U7",
       "goals_for": null,
       "goals_against": null
     },
@@ -3575,6 +4171,23 @@
       "goals_against": null
     },
     {
+      "id": "3d82d440847a7c9cc5126c295b55db7b",
+      "date": "2025-09-21",
+      "time": "10:00",
+      "home_team": "Ashfield Athletic U13",
+      "away_team": "Gedling Southbank White U13",
+      "home_score": 7,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sun Winter Div 3 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank White U13",
+      "home_away": "away",
+      "opponent": "Ashfield Athletic U13",
+      "goals_for": 2,
+      "goals_against": 7
+    },
+    {
       "id": "ef73529753d97f8de51ac99a132ecf73",
       "date": "2025-09-21",
       "time": "10:00",
@@ -3624,6 +4237,23 @@
       "opponent": "Spirit Celtic U12",
       "goals_for": 0,
       "goals_against": 6
+    },
+    {
+      "id": "b7d62d579159fd05b0486ddce110bcf6",
+      "date": "2025-09-20",
+      "time": "10:15",
+      "home_team": "Woodthorpe Community Union U7",
+      "away_team": "Gedling Southbank White U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "away",
+      "opponent": "Woodthorpe Community Union U7",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "f267f8355703962211f9c9b35315872a",
@@ -3711,6 +4341,23 @@
       "goals_against": 7
     },
     {
+      "id": "641218456d3d612ac5664136d64c7535",
+      "date": "2025-09-20",
+      "time": "09:50",
+      "home_team": "Keyworth United White U7",
+      "away_team": "Gedling Southbank White U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "away",
+      "opponent": "Keyworth United White U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "7e613630b00d5df8b413207368e2541e",
       "date": "2025-09-14",
       "time": "12:00",
@@ -3760,6 +4407,23 @@
       "opponent": "DLFC Blue U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "5fc13a4f54fed5073832c2cf9364627c",
+      "date": "2025-09-14",
+      "time": "11:00",
+      "home_team": "Gedling Southbank White U13",
+      "away_team": "Shirebrook Rangers Blue U13",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sun Winter Div 3 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank White U13",
+      "home_away": "home",
+      "opponent": "Shirebrook Rangers Blue U13",
+      "goals_for": 3,
+      "goals_against": 3
     },
     {
       "id": "8a44945b0fdad94a9d2c01c5a88c65ce",
@@ -3830,6 +4494,23 @@
       "goals_against": 0
     },
     {
+      "id": "ca3a843fd90adf9bf8fbd895d9f58672",
+      "date": "2025-09-13",
+      "time": "10:15",
+      "home_team": "Gedling Southbank White U7",
+      "away_team": "WBYFC Bruges Stripes U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "home",
+      "opponent": "WBYFC Bruges Stripes U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "1b0bcee98754a384a816286e4b00817c",
       "date": "2025-09-13",
       "time": "10:00",
@@ -3896,6 +4577,40 @@
       "opponent": "Meden Vale Colts Red U11",
       "goals_for": 1,
       "goals_against": 4
+    },
+    {
+      "id": "fc41bc9212a311efd0dcf0091632b419",
+      "date": "2025-09-13",
+      "time": "09:50",
+      "home_team": "Toton Tornados Storm U7",
+      "away_team": "Gedling Southbank White U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "away",
+      "opponent": "Toton Tornados Storm U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "9633efe838c7c105508e1100b7a21143",
+      "date": "2025-09-07",
+      "time": "12:00",
+      "home_team": "Gedling Southbank White U13",
+      "away_team": "Lowdham FC Green U13",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank White U13",
+      "home_away": "home",
+      "opponent": "Lowdham FC Green U13",
+      "goals_for": 1,
+      "goals_against": 3
     },
     {
       "id": "70e3d5120a56566775d8c5ff5cf5c51a",
@@ -4000,6 +4715,23 @@
       "goals_against": 3
     },
     {
+      "id": "4a4348ced4d6be9d19167348af68a8b1",
+      "date": "2025-09-06",
+      "time": "10:40",
+      "home_team": "Gedling Southbank White U7",
+      "away_team": "Hemington Hammers Hammerheads U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "home",
+      "opponent": "Hemington Hammers Hammerheads U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
       "id": "464aaeb793cf9dc5b111c1be25bcd797",
       "date": "2025-09-06",
       "time": "10:30",
@@ -4064,6 +4796,23 @@
       "team": "Gedling Southbank Warriors U10",
       "home_away": "away",
       "opponent": "Heanor Town Titans U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "55d14b2b3e5bf254132dc68df9543a03",
+      "date": "2025-09-06",
+      "time": "09:50",
+      "home_team": "Gedling Southbank White U7",
+      "away_team": "Priory Celtic White U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank White U7",
+      "home_away": "home",
+      "opponent": "Priory Celtic White U7",
       "goals_for": null,
       "goals_against": null
     }

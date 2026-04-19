@@ -1,6 +1,6 @@
 {
   "club": "Basford United",
-  "generated": "2026-04-19T08:36:56Z",
+  "generated": "2026-04-19T09:21:08Z",
   "fixtures": [
     {
       "id": "530dcbf2ab9a3913a29ead3e0038b020",
@@ -16,6 +16,19 @@
       "opponent": "Nottingham FC Green U10"
     },
     {
+      "id": "2e97d6f11e56f4b510b487696a44417c",
+      "date": "2026-04-19",
+      "time": "10:30",
+      "home_team": "Carlton Town Blue U12",
+      "away_team": "Basford United Lions U12",
+      "venue": "Magenta Way NG14 5HH",
+      "division": "U12 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "away",
+      "opponent": "Carlton Town Blue U12"
+    },
+    {
       "id": "b401678212552af5412f559b448da0b3",
       "date": "2026-04-21",
       "time": "18:00",
@@ -27,6 +40,32 @@
       "team": "Basford United Madrid U13",
       "home_away": "home",
       "opponent": "Mickleover Jnrs Porto U13"
+    },
+    {
+      "id": "007a277fbfd2888e9ae144d4cde50074",
+      "date": "2026-04-22",
+      "time": "18:15",
+      "home_team": "Bottesford Yellow U12",
+      "away_team": "Basford United Lions U12",
+      "venue": "Nottingham Rd, Bottesford  NG13 0AP",
+      "division": "U12 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "away",
+      "opponent": "Bottesford Yellow U12"
+    },
+    {
+      "id": "3c4e16e56b57912df50550b332e6f601",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Basford United Lions U12",
+      "away_team": "Sherwood Colliery Lions U12",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U12 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery Lions U12"
     },
     {
       "id": "d22af38b44292bc9a6ce36618145912f",
@@ -92,6 +131,19 @@
       "team": "Basford United Girls U10 ^^",
       "home_away": "home",
       "opponent": "Carlton Town Blue U10"
+    },
+    {
+      "id": "feaccb08f2a62694652963e36e711701",
+      "date": "2026-04-26",
+      "time": "12:15",
+      "home_team": "Basford United Lions U12",
+      "away_team": "Sandiacre Town Hurricanes U12",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U12 Sun YEL Shield",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "home",
+      "opponent": "Sandiacre Town Hurricanes U12"
     },
     {
       "id": "5b98bb81036cf3559a692b849070fd59",
@@ -233,6 +285,23 @@
       "goals_against": 0
     },
     {
+      "id": "e2308a68b9e7e76cc4c322697ec4c3fe",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Notts Olympic FC U12",
+      "away_team": "Basford United Lions U12",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sun Spring Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "away",
+      "opponent": "Notts Olympic FC U12",
+      "goals_for": 3,
+      "goals_against": 3
+    },
+    {
       "id": "8ec07fa44fdeb6ea35e3744f3a26a8a7",
       "date": "2026-03-29",
       "time": "09:30",
@@ -284,6 +353,40 @@
       "goals_against": 4
     },
     {
+      "id": "0b2b31a328330ebadc30db695ca1e60b",
+      "date": "2026-03-28",
+      "time": "10:00",
+      "home_team": "Alfreton Town Jnrs Goats U12",
+      "away_team": "Basford United Lions U12",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "away",
+      "opponent": "Alfreton Town Jnrs Goats U12",
+      "goals_for": 0,
+      "goals_against": 0
+    },
+    {
+      "id": "f24048ba68f4befb7464662525b7e8a2",
+      "date": "2026-03-22",
+      "time": "12:00",
+      "home_team": "Moorgreen Colts Blue U12",
+      "away_team": "Basford United Lions U12",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U12 Sun YEL Shield",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "away",
+      "opponent": "Moorgreen Colts Blue U12",
+      "goals_for": 5,
+      "goals_against": 2
+    },
+    {
       "id": "069f530d7ea704db3ae4bf46db731685",
       "date": "2026-03-22",
       "time": "10:45",
@@ -333,6 +436,23 @@
       "opponent": "Allexton & New Parks Magpies U12",
       "goals_for": 0,
       "goals_against": 0
+    },
+    {
+      "id": "594e7416cd7eac5ffb51d4fe88faeecf",
+      "date": "2026-03-21",
+      "time": "11:00",
+      "home_team": "Gedling FC Tigers U12 *",
+      "away_team": "Basford United Lions U12",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "away",
+      "opponent": "Gedling FC Tigers U12 *",
+      "goals_for": 2,
+      "goals_against": 2
     },
     {
       "id": "36f6a8b8d715b50ddb91c704b62d40d6",
@@ -420,6 +540,40 @@
       "goals_against": 2
     },
     {
+      "id": "13a7d6d41a61b796f03b1373e43f56db",
+      "date": "2026-03-15",
+      "time": "10:00",
+      "home_team": "Blidworth Bengals B/W U12",
+      "away_team": "Basford United Lions U12",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sun Spring Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "away",
+      "opponent": "Blidworth Bengals B/W U12",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
+      "id": "50e24b25ec3f3e7de76287864b7925d8",
+      "date": "2026-03-14",
+      "time": "12:30",
+      "home_team": "Basford United Lions U12",
+      "away_team": "Quarrydale United U12",
+      "home_score": 8,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "home",
+      "opponent": "Quarrydale United U12",
+      "goals_for": 8,
+      "goals_against": 2
+    },
+    {
       "id": "38dc81dd4751ec50d85d67ad9c0c792d",
       "date": "2026-03-14",
       "time": "11:30",
@@ -503,6 +657,23 @@
       "opponent": "Sherwood Colliery Cobras U12",
       "goals_for": 2,
       "goals_against": 0
+    },
+    {
+      "id": "1265aa13d35d652e84da3cf0e787c7f8",
+      "date": "2026-03-08",
+      "time": "11:00",
+      "home_team": "Basford United Lions U12",
+      "away_team": "Ashfield Athletic U12",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sun Spring Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "home",
+      "opponent": "Ashfield Athletic U12",
+      "goals_for": 1,
+      "goals_against": 2
     },
     {
       "id": "c9ed68ba519981104ba90d0552c1b16f",
@@ -675,6 +846,40 @@
       "goals_against": 0
     },
     {
+      "id": "825ac3d3023b957187e3c1b766d9cba1",
+      "date": "2026-02-21",
+      "time": "11:15",
+      "home_team": "Sherwood Colliery Lions U12",
+      "away_team": "Basford United Lions U12",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery Lions U12",
+      "goals_for": 0,
+      "goals_against": 4
+    },
+    {
+      "id": "7b72e91ecbbbd9be3f7b9b6b659ec87c",
+      "date": "2026-02-08",
+      "time": "12:00",
+      "home_team": "Basford United Lions U12",
+      "away_team": "Selston FC U12",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sun Spring Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "home",
+      "opponent": "Selston FC U12",
+      "goals_for": 4,
+      "goals_against": 1
+    },
+    {
       "id": "b7abc5d720f3f57d95ae043e396c11b8",
       "date": "2026-02-08",
       "time": "11:30",
@@ -709,6 +914,23 @@
       "goals_against": null
     },
     {
+      "id": "fac781eb4373d48ea4c5887e2bbd45e1",
+      "date": "2026-01-31",
+      "time": "11:30",
+      "home_team": "Bagthorpe Athletic Eagles U12",
+      "away_team": "Basford United Lions U12",
+      "home_score": 5,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Sat YEL Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "away",
+      "opponent": "Bagthorpe Athletic Eagles U12",
+      "goals_for": 4,
+      "goals_against": 5
+    },
+    {
       "id": "eb6cf3cb41ed9b74fe3e4603dd8a86ab",
       "date": "2026-01-31",
       "time": "11:00",
@@ -724,6 +946,23 @@
       "opponent": "Coalville Town Rooks U12",
       "goals_for": 4,
       "goals_against": 0
+    },
+    {
+      "id": "dd9119aaffdd8f52ef09b715068503aa",
+      "date": "2026-01-25",
+      "time": "12:00",
+      "home_team": "Basford United Lions U12",
+      "away_team": "Shirebrook Rangers U12",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sun Spring Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "home",
+      "opponent": "Shirebrook Rangers U12",
+      "goals_for": 4,
+      "goals_against": 3
     },
     {
       "id": "1da5e7a18f6e2f100ea297422abc4a47",
@@ -794,6 +1033,23 @@
       "goals_against": 2
     },
     {
+      "id": "867bc20f610a2623a28158b00f07c1b5",
+      "date": "2026-01-24",
+      "time": "10:00",
+      "home_team": "Mapperley All Stars Yellow U12",
+      "away_team": "Basford United Lions U12",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "away",
+      "opponent": "Mapperley All Stars Yellow U12",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
       "id": "6c8fa945c4b3e36bb6345615a72caf98",
       "date": "2026-01-18",
       "time": "11:00",
@@ -809,6 +1065,40 @@
       "opponent": "Gedling FC Tigers U12 *",
       "goals_for": 2,
       "goals_against": 0
+    },
+    {
+      "id": "755233da59c7bd37da60b8a055a861d8",
+      "date": "2026-01-18",
+      "time": "10:00",
+      "home_team": "Burton Joyce Green U12",
+      "away_team": "Basford United Lions U12",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sun Spring Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "away",
+      "opponent": "Burton Joyce Green U12",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
+      "id": "b55e2cb1f338573bdcc3ea553902995e",
+      "date": "2026-01-17",
+      "time": "12:30",
+      "home_team": "Basford United Lions U12",
+      "away_team": "ASFC Gold U12",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "home",
+      "opponent": "ASFC Gold U12",
+      "goals_for": 0,
+      "goals_against": 3
     },
     {
       "id": "0a193ec1f748d475b277fc891261b5f6",
@@ -877,6 +1167,23 @@
       "opponent": "Newark Brazil Corinthians U13",
       "goals_for": 3,
       "goals_against": 3
+    },
+    {
+      "id": "a8b14ab9ed2d1369d42dc76ff6ab9074",
+      "date": "2025-12-14",
+      "time": "10:45",
+      "home_team": "Basford United Lions U12",
+      "away_team": "Ruddington Village Yellow U12",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "home",
+      "opponent": "Ruddington Village Yellow U12",
+      "goals_for": 3,
+      "goals_against": 0
     },
     {
       "id": "24174b074aaf68a87a79b05a2de66065",
@@ -1015,6 +1322,23 @@
       "goals_against": 3
     },
     {
+      "id": "6fa82161998e2fd4631d67ff840df83d",
+      "date": "2025-12-06",
+      "time": "10:00",
+      "home_team": "Hucknall Sports Red U12",
+      "away_team": "Basford United Lions U12",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sat YEL Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "away",
+      "opponent": "Hucknall Sports Red U12",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
       "id": "0938f25af7133cf0dafd84825c8a497e",
       "date": "2025-11-30",
       "time": "11:15",
@@ -1030,6 +1354,23 @@
       "opponent": "Barrowby FC Green U10",
       "goals_for": 0,
       "goals_against": 5
+    },
+    {
+      "id": "a37e2aee1672b5b0de0eb6b02c05b8b3",
+      "date": "2025-11-30",
+      "time": "10:00",
+      "home_team": "Ruddington Village Yellow U12",
+      "away_team": "Basford United Lions U12",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Sun YEL Shield",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "away",
+      "opponent": "Ruddington Village Yellow U12",
+      "goals_for": 4,
+      "goals_against": 1
     },
     {
       "id": "155ae5a770a0abb6c263bb29bd757688",
@@ -1049,6 +1390,23 @@
       "goals_against": 3
     },
     {
+      "id": "63d99c11e1efd43eadc01db7267c3308",
+      "date": "2025-11-29",
+      "time": "10:00",
+      "home_team": "Darley Sports Lions 2 U12",
+      "away_team": "Basford United Lions U12",
+      "home_score": 8,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Winter Div 1 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "away",
+      "opponent": "Darley Sports Lions 2 U12",
+      "goals_for": 1,
+      "goals_against": 8
+    },
+    {
       "id": "0ea973078f270c6ccf21d93eb2952fde",
       "date": "2025-11-23",
       "time": "12:30",
@@ -1064,6 +1422,23 @@
       "opponent": "WBYFC Copa U12",
       "goals_for": 3,
       "goals_against": 2
+    },
+    {
+      "id": "c1b3a6339548ca76ed0c2ed1686aa8ef",
+      "date": "2025-11-23",
+      "time": "11:15",
+      "home_team": "Basford United Lions U12",
+      "away_team": "Melbourne Dynamo Rangers U12",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U12 Sun Winter Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "home",
+      "opponent": "Melbourne Dynamo Rangers U12",
+      "goals_for": 0,
+      "goals_against": 5
     },
     {
       "id": "e89be097ca48ce04dcb46663a6c604bc",
@@ -1100,6 +1475,23 @@
       "goals_against": 2
     },
     {
+      "id": "fd698a910bfba084173898390697b224",
+      "date": "2025-11-22",
+      "time": "09:30",
+      "home_team": "Basford United Lions U12",
+      "away_team": "G3A FC Rangers U12",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sat Winter Div 1 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "home",
+      "opponent": "G3A FC Rangers U12",
+      "goals_for": 2,
+      "goals_against": 3
+    },
+    {
       "id": "40f9d6d4d67dcbca9370231e0b0f4067",
       "date": "2025-11-15",
       "time": "11:45",
@@ -1134,6 +1526,23 @@
       "goals_against": 4
     },
     {
+      "id": "1fdecc8bcfce117679617ee3c514a794",
+      "date": "2025-11-09",
+      "time": "09:30",
+      "home_team": "Mansfield Athletic U12",
+      "away_team": "Basford United Lions U12",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sun Winter Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "away",
+      "opponent": "Mansfield Athletic U12",
+      "goals_for": 0,
+      "goals_against": 4
+    },
+    {
       "id": "5119bec63342f11baa73da0f4d27916d",
       "date": "2025-11-08",
       "time": "12:00",
@@ -1148,6 +1557,23 @@
       "home_away": "home",
       "opponent": "Long Eaton United Blue U13",
       "goals_for": 3,
+      "goals_against": 2
+    },
+    {
+      "id": "d3e83b9f1d55b20111f4070052c7ed63",
+      "date": "2025-11-08",
+      "time": "11:45",
+      "home_team": "Basford United Lions U12",
+      "away_team": "ASFC Gold U12",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sat Winter Div 1 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "home",
+      "opponent": "ASFC Gold U12",
+      "goals_for": 1,
       "goals_against": 2
     },
     {
@@ -1202,6 +1628,23 @@
       "goals_against": 1
     },
     {
+      "id": "85992317e372462e6e4f8893a2dedd3d",
+      "date": "2025-11-02",
+      "time": "11:00",
+      "home_team": "Basford United Lions U12",
+      "away_team": "Stapleford Town Saxons U12",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "home",
+      "opponent": "Stapleford Town Saxons U12",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
       "id": "209f2b8a9a495c98980ded02de339fd1",
       "date": "2025-11-01",
       "time": "11:00",
@@ -1219,6 +1662,23 @@
       "goals_against": 3
     },
     {
+      "id": "7b9b1ad73f0742e1ec851196af5c071b",
+      "date": "2025-10-12",
+      "time": "12:30",
+      "home_team": "Basford United Lions U12",
+      "away_team": "Woodhouse Colts Rhinos U12",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Sun Winter Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "home",
+      "opponent": "Woodhouse Colts Rhinos U12",
+      "goals_for": 2,
+      "goals_against": 4
+    },
+    {
       "id": "86ceca93d0a9eab32f2ae50a4c982a4d",
       "date": "2025-10-12",
       "time": "10:00",
@@ -1234,6 +1694,23 @@
       "opponent": "Borrowash Youth Jaguars U10",
       "goals_for": 4,
       "goals_against": 2
+    },
+    {
+      "id": "59b2cb8970b547ebaa62bb550af55f01",
+      "date": "2025-10-11",
+      "time": "12:00",
+      "home_team": "Basford United United U12",
+      "away_team": "Basford United Lions U12",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Winter Div 1 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "away",
+      "opponent": "Basford United United U12",
+      "goals_for": 1,
+      "goals_against": 1
     },
     {
       "id": "59b2cb8970b547ebaa62bb550af55f01",
@@ -1304,6 +1781,23 @@
       "goals_against": 3
     },
     {
+      "id": "4554bf7ec2f8df7c7ba01e35767ae39c",
+      "date": "2025-10-05",
+      "time": "11:00",
+      "home_team": "Clifton All Whites Black U12",
+      "away_team": "Basford United Lions U12",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sun Winter Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "away",
+      "opponent": "Clifton All Whites Black U12",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
       "id": "5760eed8f8b4c59476e28eab8f47f7c4",
       "date": "2025-10-05",
       "time": "10:00",
@@ -1352,6 +1846,23 @@
       "home_away": "away",
       "opponent": "RHP Colts Green U12",
       "goals_for": 2,
+      "goals_against": 2
+    },
+    {
+      "id": "fae4f87f31a37bf9d2661f04f90ed84d",
+      "date": "2025-09-28",
+      "time": "12:15",
+      "home_team": "Basford United Lions U12",
+      "away_team": "Gedling FC Tigers U12 *",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sun Winter Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "home",
+      "opponent": "Gedling FC Tigers U12 *",
+      "goals_for": 3,
       "goals_against": 2
     },
     {
@@ -1406,6 +1917,23 @@
       "goals_against": 2
     },
     {
+      "id": "4d16dbc886bf4d4e8e0efcb3bda76d3b",
+      "date": "2025-09-27",
+      "time": "10:30",
+      "home_team": "Basford United Lions U12",
+      "away_team": "AFC Chellaston Chargers U12",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U12 Sat Winter Div 1 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "home",
+      "opponent": "AFC Chellaston Chargers U12",
+      "goals_for": 2,
+      "goals_against": 5
+    },
+    {
       "id": "0213a33b8927855237188a06276ac5f4",
       "date": "2025-09-27",
       "time": "10:00",
@@ -1438,6 +1966,23 @@
       "opponent": "Darley Sports Lions 2 U12",
       "goals_for": 1,
       "goals_against": 2
+    },
+    {
+      "id": "f4272de0fe42165bc168f14ad247a58b",
+      "date": "2025-09-21",
+      "time": "11:00",
+      "home_team": "Sherwood Colliery Cobras U12",
+      "away_team": "Basford United Lions U12",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sun Winter Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery Cobras U12",
+      "goals_for": 2,
+      "goals_against": 3
     },
     {
       "id": "3b425c83c8d67a2151d7af40ac204afb",
@@ -1491,6 +2036,23 @@
       "goals_against": 0
     },
     {
+      "id": "e1148319e8a9e098958223f453fc18f9",
+      "date": "2025-09-20",
+      "time": "11:00",
+      "home_team": "Bottesford Yellow U12",
+      "away_team": "Basford United Lions U12",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Winter Div 1 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "away",
+      "opponent": "Bottesford Yellow U12",
+      "goals_for": 1,
+      "goals_against": 6
+    },
+    {
       "id": "3c96277355f9bc5bd49e4d9bfe892365",
       "date": "2025-09-20",
       "time": "10:00",
@@ -1523,6 +2085,40 @@
       "opponent": "Gedling Southbank Whites U10",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "e38dc3589ec5fe89332ced075e1a1473",
+      "date": "2025-09-14",
+      "time": "09:30",
+      "home_team": "Basford United Lions U12",
+      "away_team": "Silva FC Rushcliffe Whites U12",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sun Winter Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "home",
+      "opponent": "Silva FC Rushcliffe Whites U12",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
+      "id": "bb11752d08cf5e1f02238263772cf64f",
+      "date": "2025-09-13",
+      "time": "11:15",
+      "home_team": "Basford United Lions U12",
+      "away_team": "RHP Colts Green U12",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Sat Winter Div 1 Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "home",
+      "opponent": "RHP Colts Green U12",
+      "goals_for": 2,
+      "goals_against": 4
     },
     {
       "id": "2d6f792264e68f26b41e262a667487d4",
@@ -1627,6 +2223,23 @@
       "goals_against": null
     },
     {
+      "id": "18e6edf31b5d8b27eeb99fe970c62a67",
+      "date": "2025-09-07",
+      "time": "10:00",
+      "home_team": "Gedling FC Tigers U12 *",
+      "away_team": "Basford United Lions U12",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "away",
+      "opponent": "Gedling FC Tigers U12 *",
+      "goals_for": 0,
+      "goals_against": 4
+    },
+    {
       "id": "f4fc0b895c8f161c54a2f7fd04c7a744",
       "date": "2025-09-06",
       "time": "12:30",
@@ -1691,6 +2304,23 @@
       "team": "Basford United Ambers U14",
       "home_away": "home",
       "opponent": "Marlborough Rovers U14",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
+      "id": "b064e61073a42de19b58761e57894bd8",
+      "date": "2025-09-06",
+      "time": "10:00",
+      "home_team": "ASFC Gold U12",
+      "away_team": "Basford United Lions U12",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "away",
+      "opponent": "ASFC Gold U12",
       "goals_for": 2,
       "goals_against": 2
     }

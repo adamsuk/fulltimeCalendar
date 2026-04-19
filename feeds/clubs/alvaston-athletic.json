@@ -1,6 +1,6 @@
 {
   "club": "Alvaston Athletic",
-  "generated": "2026-04-19T08:36:56Z",
+  "generated": "2026-04-19T09:21:08Z",
   "fixtures": [
     {
       "id": "5883abfb8164da0bfe21802a8141b56d",
@@ -29,6 +29,19 @@
       "opponent": "Radcliffe Olympic Tigers U7"
     },
     {
+      "id": "ca363f7bda958d2ea314f313b7a1e522",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "G3A FC Boca U13",
+      "away_team": "Alvaston Athletic Lions U13",
+      "venue": "Brunts Academy NG18 2AT",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "away",
+      "opponent": "G3A FC Boca U13"
+    },
+    {
       "id": "5e15001ea5ba600e0dd062b0d8d71db2",
       "date": "2026-04-26",
       "time": "10:00",
@@ -53,6 +66,19 @@
       "team": "Alvaston Athletic White U7",
       "home_away": "home",
       "opponent": "Vale FC U7"
+    },
+    {
+      "id": "0b1f604e51151b845632f33a96cda615",
+      "date": "2026-04-26",
+      "time": "10:30",
+      "home_team": "Alvaston Athletic Lions U13",
+      "away_team": "WBYFC Boca U13",
+      "venue": "Castle Donington Community College",
+      "division": "U13 Sun Spring Premier Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "home",
+      "opponent": "WBYFC Boca U13"
     }
   ],
   "results": [
@@ -108,6 +134,23 @@
       "goals_against": null
     },
     {
+      "id": "1437a9a84ac071ecb22381ec56ae0b23",
+      "date": "2026-03-22",
+      "time": "10:50",
+      "home_team": "Spondon Dynamos Blades U13",
+      "away_team": "Alvaston Athletic Lions U13",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sun Spring Premier Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "away",
+      "opponent": "Spondon Dynamos Blades U13",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
       "id": "5ebfb2590d2431020c9438529d6b5e31",
       "date": "2026-03-22",
       "time": "10:00",
@@ -140,6 +183,23 @@
       "opponent": "Vale FC U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "b5d478b881f99cb7005ad1558be9742d",
+      "date": "2026-03-21",
+      "time": "09:30",
+      "home_team": "Alvaston Athletic Lions U13",
+      "away_team": "Long Eaton United Blue U13",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Spring Div 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "home",
+      "opponent": "Long Eaton United Blue U13",
+      "goals_for": 1,
+      "goals_against": 2
     },
     {
       "id": "ac609dea51f0f38b18e9159026fd6daa",
@@ -176,6 +236,23 @@
       "goals_against": null
     },
     {
+      "id": "b3b2919f77eb50d4482cc9f2a110c395",
+      "date": "2026-03-08",
+      "time": "11:00",
+      "home_team": "Bottesford White U13",
+      "away_team": "Alvaston Athletic Lions U13",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sun Spring Premier Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "away",
+      "opponent": "Bottesford White U13",
+      "goals_for": 2,
+      "goals_against": 3
+    },
+    {
       "id": "def6e3e322b4abca9b1ca0eddf6820d7",
       "date": "2026-03-08",
       "time": "10:00",
@@ -208,6 +285,40 @@
       "opponent": "AJ Sport Black U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "e44b2087a08826bbc55e4b8c1640d9e4",
+      "date": "2026-03-07",
+      "time": "10:30",
+      "home_team": "Alvaston Athletic Lions U13",
+      "away_team": "Canoville FC Gold U13",
+      "home_score": 0,
+      "away_score": 7,
+      "venue": "",
+      "division": "U13 Sat Spring Div 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "home",
+      "opponent": "Canoville FC Gold U13",
+      "goals_for": 0,
+      "goals_against": 7
+    },
+    {
+      "id": "7c8a38486f8f01892a1af30bf0a2cac1",
+      "date": "2026-03-01",
+      "time": "11:30",
+      "home_team": "Eastwood CFC Badgers U13",
+      "away_team": "Alvaston Athletic Lions U13",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sun Spring Premier Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "away",
+      "opponent": "Eastwood CFC Badgers U13",
+      "goals_for": 1,
+      "goals_against": 4
     },
     {
       "id": "54ce78f47892db673c36b36f395725b3",
@@ -346,6 +457,23 @@
       "goals_against": null
     },
     {
+      "id": "4813d786d86ee018226166a8d9511374",
+      "date": "2026-02-01",
+      "time": "12:30",
+      "home_team": "Alvaston Athletic Lions U13",
+      "away_team": "Inspire Nottingham Red U13",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sun Spring Premier Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "home",
+      "opponent": "Inspire Nottingham Red U13",
+      "goals_for": 4,
+      "goals_against": 1
+    },
+    {
       "id": "7b70a7d925ae4575fd2fe68d30311601",
       "date": "2026-02-01",
       "time": "10:00",
@@ -378,6 +506,23 @@
       "opponent": "WBYFC Feyanoord Red U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "f6388e1ac484a31161a6b67031dd910b",
+      "date": "2026-01-25",
+      "time": "11:30",
+      "home_team": "Silva FC Sherwood U13",
+      "away_team": "Alvaston Athletic Lions U13",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sun Spring Premier Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "away",
+      "opponent": "Silva FC Sherwood U13",
+      "goals_for": 1,
+      "goals_against": 1
     },
     {
       "id": "c56992316c02271a44b1a7658f430084",
@@ -414,6 +559,40 @@
       "goals_against": null
     },
     {
+      "id": "1c248487c6eb0486e6a2d90bc1b7c2bc",
+      "date": "2026-01-24",
+      "time": "10:00",
+      "home_team": "Market Warsop Stags U13",
+      "away_team": "Alvaston Athletic Lions U13",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat Spring Div 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "away",
+      "opponent": "Market Warsop Stags U13",
+      "goals_for": 1,
+      "goals_against": 6
+    },
+    {
+      "id": "88eaf9a1ab75aa510425f3df4d342d6f",
+      "date": "2026-01-18",
+      "time": "10:30",
+      "home_team": "Alvaston Athletic Lions U13",
+      "away_team": "Basford United FC Yellow U13",
+      "home_score": 6,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sun Spring Premier Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "home",
+      "opponent": "Basford United FC Yellow U13",
+      "goals_for": 6,
+      "goals_against": 4
+    },
+    {
       "id": "49fe3d79fd28300e1753e3351f44af43",
       "date": "2026-01-18",
       "time": "10:00",
@@ -448,6 +627,23 @@
       "goals_against": null
     },
     {
+      "id": "8948e1e854dc4f328a3c3670bee0c6f6",
+      "date": "2026-01-17",
+      "time": "10:30",
+      "home_team": "Alvaston Athletic Lions U13",
+      "away_team": "G3A FC Benfica U13",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat Spring Div 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "home",
+      "opponent": "G3A FC Benfica U13",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
       "id": "c23e1c2c120f05da1a241f88bc808d1c",
       "date": "2025-12-14",
       "time": "11:15",
@@ -465,6 +661,23 @@
       "goals_against": null
     },
     {
+      "id": "6848635c9a898825b41f6680b47fccea",
+      "date": "2025-12-14",
+      "time": "10:30",
+      "home_team": "Alvaston Athletic Lions U13",
+      "away_team": "Spondon Dynamos Blades U13",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "home",
+      "opponent": "Spondon Dynamos Blades U13",
+      "goals_for": 3,
+      "goals_against": 0
+    },
+    {
       "id": "36752073175af92b82bfca9dda4cb837",
       "date": "2025-12-14",
       "time": "10:00",
@@ -480,6 +693,40 @@
       "opponent": "Long Eaton United Red U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "3fc964760467233a687160e3cb5b0f02",
+      "date": "2025-12-13",
+      "time": "12:30",
+      "home_team": "Silva FC Rushcliffe Reds U13",
+      "away_team": "Alvaston Athletic Lions U13",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat YEL Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "away",
+      "opponent": "Silva FC Rushcliffe Reds U13",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
+      "id": "b608d0908ffb3bce80dc0dcc82fae13e",
+      "date": "2025-12-07",
+      "time": "11:00",
+      "home_team": "Sherwood Colliery U13 *",
+      "away_team": "Alvaston Athletic Lions U13",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sun YEL Cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery U13 *",
+      "goals_for": 1,
+      "goals_against": 2
     },
     {
       "id": "de50b4960aaad6f3d6aeeeaae162e1cc",
@@ -550,6 +797,23 @@
       "goals_against": null
     },
     {
+      "id": "ae8d37e5cf47f7cf6ae698f8187d26e1",
+      "date": "2025-11-30",
+      "time": "10:00",
+      "home_team": "WBYFC Boca U13",
+      "away_team": "Alvaston Athletic Lions U13",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sun Winter Premier Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "away",
+      "opponent": "WBYFC Boca U13",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
       "id": "f8c526c12ca722296c93ccc4e43d48a3",
       "date": "2025-11-23",
       "time": "10:00",
@@ -582,6 +846,23 @@
       "opponent": "Castle Donington Jets U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "3305a0d15bfcda13979cdc4273da7a9e",
+      "date": "2025-11-22",
+      "time": "11:30",
+      "home_team": "Stapleford Town Saxons U13",
+      "away_team": "Alvaston Athletic Lions U13",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sat Winter Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "away",
+      "opponent": "Stapleford Town Saxons U13",
+      "goals_for": 0,
+      "goals_against": 2
     },
     {
       "id": "45e3f65e567e2f788e38fa2fb4db805d",
@@ -618,6 +899,23 @@
       "goals_against": null
     },
     {
+      "id": "f2327a9beefc245ef60b22f3cdf5aa84",
+      "date": "2025-11-09",
+      "time": "10:45",
+      "home_team": "Alvaston Athletic Lions U13",
+      "away_team": "Sherwood Colliery U13 *",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sun Winter Premier Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery U13 *",
+      "goals_for": 3,
+      "goals_against": 3
+    },
+    {
       "id": "107ef63c9ed78f43d8c7a97a115d65a3",
       "date": "2025-11-09",
       "time": "10:00",
@@ -650,6 +948,23 @@
       "opponent": "Clifton AW Yellow U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "6cb8a8903b08277e9ae74740e2e6e2ec",
+      "date": "2025-11-08",
+      "time": "10:30",
+      "home_team": "Alvaston Athletic Lions U13",
+      "away_team": "Eastwood CFC Red U13",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sat Winter Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "home",
+      "opponent": "Eastwood CFC Red U13",
+      "goals_for": 2,
+      "goals_against": 0
     },
     {
       "id": "e68a9a40dcebc275ac2970747d0aa813",
@@ -686,6 +1001,23 @@
       "goals_against": null
     },
     {
+      "id": "6b44c1bcee476daa8fc810415714ad90",
+      "date": "2025-10-12",
+      "time": "11:30",
+      "home_team": "Silva FC Sherwood U13",
+      "away_team": "Alvaston Athletic Lions U13",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sun Winter Premier Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "away",
+      "opponent": "Silva FC Sherwood U13",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
       "id": "d847acd880ec7904f4e75b9e17943f4f",
       "date": "2025-10-12",
       "time": "10:00",
@@ -720,6 +1052,40 @@
       "goals_against": null
     },
     {
+      "id": "06d64f3a27671b8ee1823efb0626ce21",
+      "date": "2025-10-11",
+      "time": "10:00",
+      "home_team": "Mansfield Town Grassroots U13",
+      "away_team": "Alvaston Athletic Lions U13",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sat Winter Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "away",
+      "opponent": "Mansfield Town Grassroots U13",
+      "goals_for": 0,
+      "goals_against": 3
+    },
+    {
+      "id": "08bccff3d051fdaecc663e42e9ca3267",
+      "date": "2025-10-05",
+      "time": "10:45",
+      "home_team": "Alvaston Athletic Lions U13",
+      "away_team": "Basford United FC Yellow U13",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sun Winter Premier Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "home",
+      "opponent": "Basford United FC Yellow U13",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
       "id": "1631cd1aca62fb96d023c169e67b0442",
       "date": "2025-10-05",
       "time": "10:00",
@@ -752,6 +1118,40 @@
       "opponent": "Selston FC U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "8cb2b5b3204c3002f9a6b9f0af955ade",
+      "date": "2025-10-04",
+      "time": "10:30",
+      "home_team": "Alvaston Athletic Lions U13",
+      "away_team": "Long Eaton United Blue U13",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat Winter Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "home",
+      "opponent": "Long Eaton United Blue U13",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
+      "id": "43f8d58c75d10c2e3cb8b57c7ebe8cef",
+      "date": "2025-09-28",
+      "time": "11:30",
+      "home_team": "Newton & Blackwell Cosmos U13",
+      "away_team": "Alvaston Athletic Lions U13",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sun Winter Premier Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "away",
+      "opponent": "Newton & Blackwell Cosmos U13",
+      "goals_for": 4,
+      "goals_against": 0
     },
     {
       "id": "b363e1ebacc6a5c36850c729c231b5ea",
@@ -822,6 +1222,40 @@
       "goals_against": null
     },
     {
+      "id": "b0ec6d28769920d448bf9befe4817806",
+      "date": "2025-09-27",
+      "time": "12:00",
+      "home_team": "Basford United Yellow U13",
+      "away_team": "Alvaston Athletic Lions U13",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Winter Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "away",
+      "opponent": "Basford United Yellow U13",
+      "goals_for": 2,
+      "goals_against": 5
+    },
+    {
+      "id": "a5852fdd06358f69721348a9342c4817",
+      "date": "2025-09-21",
+      "time": "10:45",
+      "home_team": "Alvaston Athletic Lions U13",
+      "away_team": "Sneinton Town U13",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sun Winter Premier Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "home",
+      "opponent": "Sneinton Town U13",
+      "goals_for": 5,
+      "goals_against": 1
+    },
+    {
       "id": "c19e9d7dec975be32f8652986cc344ba",
       "date": "2025-09-21",
       "time": "10:15",
@@ -873,6 +1307,40 @@
       "goals_against": null
     },
     {
+      "id": "679adf5b49fd5c54f5602fdf5ad075c1",
+      "date": "2025-09-20",
+      "time": "10:30",
+      "home_team": "Alvaston Athletic Lions U13",
+      "away_team": "Spondon Dynamos Blades U13",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Winter Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "home",
+      "opponent": "Spondon Dynamos Blades U13",
+      "goals_for": 0,
+      "goals_against": 2
+    },
+    {
+      "id": "38b20034550df98e3fe4d806b5900c25",
+      "date": "2025-09-14",
+      "time": "10:50",
+      "home_team": "Spondon Dynamos Blades U13",
+      "away_team": "Alvaston Athletic Lions U13",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sun Winter Premier Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "away",
+      "opponent": "Spondon Dynamos Blades U13",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
       "id": "101f5033c8cf222ce1b2dd71de539edf",
       "date": "2025-09-14",
       "time": "10:15",
@@ -922,6 +1390,40 @@
       "opponent": "Sherwood FC Rangers U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "5fd218d6b06f6131c7378c6c8134ff58",
+      "date": "2025-09-13",
+      "time": "10:30",
+      "home_team": "Alvaston Athletic Lions U13",
+      "away_team": "Newton & Blkwl Thunder U13",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Winter Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "home",
+      "opponent": "Newton & Blkwl Thunder U13",
+      "goals_for": 0,
+      "goals_against": 2
+    },
+    {
+      "id": "df2049116e0a4f40249b3043e70a9af1",
+      "date": "2025-09-07",
+      "time": "10:45",
+      "home_team": "Alvaston Athletic Lions U13",
+      "away_team": "Newton & Blackwell Cosmos U13",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "home",
+      "opponent": "Newton & Blackwell Cosmos U13",
+      "goals_for": 3,
+      "goals_against": 3
     },
     {
       "id": "dccf4835f3d338dc527ddf585b38abcb",
@@ -990,6 +1492,23 @@
       "opponent": "Arnold Town U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "9f6c9fcd65bc966c4050ea3a96db1859",
+      "date": "2025-09-06",
+      "time": "10:50",
+      "home_team": "Eastwood CFC Red U13",
+      "away_team": "Alvaston Athletic Lions U13",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Alvaston Athletic Lions U13",
+      "home_away": "away",
+      "opponent": "Eastwood CFC Red U13",
+      "goals_for": 1,
+      "goals_against": 4
     }
   ]
 }
