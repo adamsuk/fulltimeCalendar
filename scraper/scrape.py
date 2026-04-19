@@ -779,12 +779,21 @@ _GENERIC_PREFIX_RE = re.compile(r"^[A-Z]{3}$")
 # Singular colors, squad names, gender/age terms that are team-specific, not club names.
 # Plural colors (e.g., "Reds", "Blues") are kept as they're often club nicknames.
 _COLOR_DESIGNATORS = {"blue", "red", "green", "yellow", "black", "white", "orange", "purple", "gold", "silver"}
-_SQUAD_DESIGNATORS = {"lions", "eagles", "wolves", "tigers", "panthers", "dragons", "sharks", "spiders", "diamonds"}
-_GENDER_AGE_DESIGNATORS = {"girls", "boys", "women", "men", "ladies", "youth", "junior", "reserves", "development", "academy"}
-_TEAM_DESIGNATORS = _COLOR_DESIGNATORS | _SQUAD_DESIGNATORS | _GENDER_AGE_DESIGNATORS
+_SQUAD_DESIGNATORS = {"lion", "eagle", "wolf", "tiger", "panther", "dragon", "shark", "spider", "diamond",
+                      "bantam", "robin", "swift", "bulldog", "rover", "colt", "warrior", "titan", "ranger",
+                      "cougar", "jaguar", "cavalier", "phoenix", "rocket", "saxon", "viper", "lioness"}
+_GENDER_AGE_DESIGNATORS = {"girl", "boy", "woman", "man", "lady", "youth", "junior", "reserve", 
+                           "development", "academy", "senior"}
+_FOOTBALL_DESIGNATORS = {"fc", "first"}
+_TEAM_DESIGNATORS_SEED = _COLOR_DESIGNATORS | _SQUAD_DESIGNATORS | _GENDER_AGE_DESIGNATORS | _FOOTBALL_DESIGNATORS
+
+# Irregular plurals mapping (plural -> singular)
+_IRREGULAR_PLURALS = {"women": "woman", "men": "man", "ladies": "lady"}
 
 # Cache for club inference results (team name -> club name)
 _club_cache: dict[str, str] = {}
+# Cache for computed designator tokens (set once per run)
+_designator_cache: set[str] | None = None
 
 
 def _normalise_for_grouping(name: str) -> str:
@@ -798,8 +807,73 @@ def _normalise_for_grouping(name: str) -> str:
     return re.sub(r"([A-Z])\.", r"\1", name).strip()
 
 
-def _remove_age_group_tokens(name: str) -> str:
+def _compute_designator_tokens(team_names: list[str]) -> set[str]:
+    """Compute variable designator tokens from a list of team names.
+    
+    Returns a set of lowercase tokens that vary across teams with the same prefix.
+    Includes seed set and handles plurals.
+    """
+    # Step 1: Remove age groups and normalise
+    stripped_names = []
+    for name in team_names:
+        norm = _normalise_for_grouping(name)
+        # Remove age group tokens
+        cleaned = re.sub(r"\bU\d{1,2}\b", "", norm, flags=re.IGNORECASE)
+        cleaned = " ".join(cleaned.split())
+        stripped_names.append(cleaned)
+    
+    # Step 2: Build prefix -> following token mapping
+    # For each name, for each prefix length, record the token that follows (if any)
+    prefix_to_next_tokens = {}
+    for name in stripped_names:
+        if not name:
+            continue
+        tokens = name.split()
+        # For each position i (0 to len(tokens)-1), prefix is tokens[:i]
+        # following token is tokens[i] (if i < len(tokens))
+        # Actually we want prefix of length L, next token at position L
+        for prefix_len in range(len(tokens)):
+            prefix = tuple(tokens[:prefix_len])
+            if prefix_len < len(tokens):
+                next_token = tokens[prefix_len].lower()
+                prefix_to_next_tokens.setdefault(prefix, set()).add(next_token)
+    
+    # Step 3: Collect variable tokens (those that appear as different options for same prefix)
+    variable_tokens = set()
+    for prefix, next_tokens in prefix_to_next_tokens.items():
+        if len(next_tokens) >= 2:
+            variable_tokens.update(next_tokens)
+    
+    # Step 4: Start with seed set and add variable tokens
+    designators = set(_TEAM_DESIGNATORS_SEED)
+    designators.update(variable_tokens)
+    
+    # Add singular forms for regular plurals in seed set
+    for token in list(designators):
+        if token.endswith('s') and token[:-1] in _TEAM_DESIGNATORS_SEED:
+            designators.add(token[:-1])
+    
+    # Add irregular plurals
+    for plural, singular in _IRREGULAR_PLURALS.items():
+        if plural in designators or singular in designators:
+            designators.add(plural)
+            designators.add(singular)
+    
+    # Ensure we don't include uppercase abbreviations (≥4 letters) as designators
+    # They are protected in is_strippable
+    return designators
+
+
+def _remove_age_group_tokens(name: str, designators: set[str] | None = None) -> str:
     """Remove age group tokens (U\\d+) and team designators from anywhere in the name."""
+    # Use provided designators, cached designators, or fall back to seed set
+    if designators is not None:
+        designator_set = designators
+    elif _designator_cache is not None:
+        designator_set = _designator_cache
+    else:
+        designator_set = _TEAM_DESIGNATORS_SEED
+    
     # Remove age group tokens and collapse multiple spaces
     cleaned = re.sub(r"\bU\d{1,2}\b", "", name, flags=re.IGNORECASE)
     cleaned = " ".join(cleaned.split())
@@ -810,14 +884,26 @@ def _remove_age_group_tokens(name: str) -> str:
     # Helper to check if a word should be stripped
     def is_strippable(word: str) -> bool:
         word_lower = word.lower()
-        # Don't strip plural words (e.g., "Reds", "Blues") - they're club nicknames
+        # Don't strip plural colors (e.g., "Reds", "Blues") - they're club nicknames
         if word_lower.endswith('s') and word_lower[:-1] in _COLOR_DESIGNATORS:
             return False
         # Don't strip uppercase abbreviations (≥4 letters) like DLFC, ASFC
         if _CLUB_ABBREV_RE.match(word):
             return False
-        # Strip if it's a singular designator
-        return word_lower in _TEAM_DESIGNATORS
+        # Check if word (or its singular/plural form) is a designator
+        if word_lower in designator_set:
+            return True
+        # Regular plural (ends with 's')
+        if word_lower.endswith('s'):
+            singular = word_lower[:-1]
+            if singular in designator_set:
+                return True
+        # Irregular plural
+        if word_lower in _IRREGULAR_PLURALS:
+            singular = _IRREGULAR_PLURALS[word_lower]
+            if singular in designator_set:
+                return True
+        return False
     
     # Determine if we can strip the last word
     def can_strip_last() -> bool:
@@ -826,18 +912,14 @@ def _remove_age_group_tokens(name: str) -> str:
         # If we have more than 2 words, always allow stripping
         if len(words) > 2:
             return True
-        # For 2-word names, allow stripping if the first word is a club abbreviation (≥4 letters)
-        # or if the first word is not a generic 3-letter prefix
+        # For 2-word names, allow stripping only if the first word is a club abbreviation (≥4 letters)
         if len(words) == 2:
             first_word = words[0]
-            # Allow stripping if first word is a club abbreviation
+            # Allow stripping if first word is a club abbreviation (DLFC, ASFC, etc.)
             if _CLUB_ABBREV_RE.match(first_word):
                 return True
-            # Don't strip if first word is a generic 3-letter prefix (AFC, FC, etc.)
-            if _GENERIC_PREFIX_RE.match(first_word):
-                return False
-            # Otherwise allow stripping (e.g., "Town Blue" -> "Town")
-            return True
+            # Otherwise do not strip (protect club names like "AC United")
+            return False
         # For 1-word names, never strip (shouldn't reach here)
         return False
     
@@ -885,6 +967,9 @@ def build_prefix_counts(team_names: list[str]) -> dict[str, int]:
     """
     # Clear previous cache
     _club_cache.clear()
+    # Compute designator tokens from all team names and cache globally
+    global _designator_cache
+    _designator_cache = _compute_designator_tokens(team_names)
     
     # Build prefix counts with age group removal anywhere
     counts: dict[str, int] = {}
