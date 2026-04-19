@@ -284,6 +284,18 @@ class TestClubGrouping:
         ])
         assert set(result.values()) == {"East Leake"}, result
 
+    def test_bottesford_grouping(self):
+        """Bottesford variants should all group under 'Bottesford'."""
+        result = _pipeline([
+            "Bottesford",
+            "Bottesford Blue",
+            "Bottesford Girls",
+            "Bottesford Yellow",
+            "Bottesford U7 Blue",
+            "Bottesford U14 Girls",
+        ])
+        assert set(result.values()) == {"Bottesford"}, result
+
 
 # ---------------------------------------------------------------------------
 # parse_results — venue / division field ordering

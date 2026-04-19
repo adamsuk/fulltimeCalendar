@@ -794,6 +794,8 @@ _IRREGULAR_PLURALS = {"women": "woman", "men": "man", "ladies": "lady"}
 _club_cache: dict[str, str] = {}
 # Cache for computed designator tokens (set once per run)
 _designator_cache: set[str] | None = None
+# Cache for variable tokens only (tokens that vary across prefixes)
+_variable_tokens_cache: set[str] | None = None
 
 
 def _normalise_for_grouping(name: str) -> str:
@@ -807,10 +809,14 @@ def _normalise_for_grouping(name: str) -> str:
     return re.sub(r"([A-Z])\.", r"\1", name).strip()
 
 
-def _compute_designator_tokens(team_names: list[str]) -> set[str]:
+def _compute_designator_tokens(team_names: list[str]) -> tuple[set[str], set[str]]:
     """Compute variable designator tokens from a list of team names.
     
-    Returns a set of lowercase tokens that vary across teams with the same prefix.
+    Returns a tuple of (designators, variable_tokens):
+    - designators: full set of lowercase designator tokens (seed + variable tokens that match seed set)
+    - variable_tokens: all tokens that vary across teams with the same prefix
+    Only variable tokens that match the seed set (or their singular/plural forms)
+    are added to designators, protecting club name components like 'Chellaston'.
     Includes seed set and handles plurals.
     """
     # Step 1: Remove age groups and normalise
@@ -844,11 +850,31 @@ def _compute_designator_tokens(team_names: list[str]) -> set[str]:
         if len(next_tokens) >= 2:
             variable_tokens.update(next_tokens)
     
-    # Step 4: Start with seed set and add variable tokens
+    # Step 4: Start with seed set and add variable tokens that are designator-like
     designators = set(_TEAM_DESIGNATORS_SEED)
-    designators.update(variable_tokens)
+    # Only add variable tokens that match seed set (including singular/plural forms)
+    for token in variable_tokens:
+        token_lower = token.lower()
+        # Check if token itself is in seed set
+        if token_lower in _TEAM_DESIGNATORS_SEED:
+            designators.add(token_lower)
+            continue
+        # Check if token is a regular plural of a seed token
+        if token_lower.endswith('s'):
+            singular = token_lower[:-1]
+            if singular in _TEAM_DESIGNATORS_SEED:
+                designators.add(token_lower)
+                designators.add(singular)
+                continue
+        # Check if token is an irregular plural
+        if token_lower in _IRREGULAR_PLURALS:
+            singular = _IRREGULAR_PLURALS[token_lower]
+            if singular in _TEAM_DESIGNATORS_SEED:
+                designators.add(token_lower)
+                designators.add(singular)
+                continue
     
-    # Add singular forms for regular plurals in seed set
+    # Add singular forms for regular plurals in seed set (already covered but safe)
     for token in list(designators):
         if token.endswith('s') and token[:-1] in _TEAM_DESIGNATORS_SEED:
             designators.add(token[:-1])
@@ -861,7 +887,7 @@ def _compute_designator_tokens(team_names: list[str]) -> set[str]:
     
     # Ensure we don't include uppercase abbreviations (≥4 letters) as designators
     # They are protected in is_strippable
-    return designators
+    return designators, variable_tokens
 
 
 def _remove_age_group_tokens(name: str, designators: set[str] | None = None) -> str:
@@ -869,10 +895,14 @@ def _remove_age_group_tokens(name: str, designators: set[str] | None = None) -> 
     # Use provided designators, cached designators, or fall back to seed set
     if designators is not None:
         designator_set = designators
+        # If designators explicitly provided, treat all as variable (for testing)
+        variable_token_set = designator_set
     elif _designator_cache is not None:
         designator_set = _designator_cache
+        variable_token_set = _variable_tokens_cache if _variable_tokens_cache is not None else designator_set
     else:
         designator_set = _TEAM_DESIGNATORS_SEED
+        variable_token_set = designator_set  # seed designators treated as variable
     
     # Remove age group tokens and collapse multiple spaces
     cleaned = re.sub(r"\bU\d{1,2}\b", "", name, flags=re.IGNORECASE)
@@ -905,6 +935,23 @@ def _remove_age_group_tokens(name: str, designators: set[str] | None = None) -> 
                 return True
         return False
     
+    # Helper to check if a word is a variable token (considering singular/plural forms)
+    def is_variable_token(word: str) -> bool:
+        word_lower = word.lower()
+        if word_lower in variable_token_set:
+            return True
+        # Regular plural (ends with 's')
+        if word_lower.endswith('s'):
+            singular = word_lower[:-1]
+            if singular in variable_token_set:
+                return True
+        # Irregular plural
+        if word_lower in _IRREGULAR_PLURALS:
+            singular = _IRREGULAR_PLURALS[word_lower]
+            if singular in variable_token_set:
+                return True
+        return False
+    
     # Determine if we can strip the last word
     def can_strip_last() -> bool:
         if not words or not is_strippable(words[-1]):
@@ -912,11 +959,17 @@ def _remove_age_group_tokens(name: str, designators: set[str] | None = None) -> 
         # If we have more than 2 words, always allow stripping
         if len(words) > 2:
             return True
-        # For 2-word names, allow stripping only if the first word is a club abbreviation (≥4 letters)
+        # For 2-word names, allow stripping if:
+        # 1. First word is a club abbreviation (≥4 letters), OR
+        # 2. Last word is a variable token
         if len(words) == 2:
             first_word = words[0]
+            last_word = words[-1]
             # Allow stripping if first word is a club abbreviation (DLFC, ASFC, etc.)
             if _CLUB_ABBREV_RE.match(first_word):
+                return True
+            # Allow stripping if last word is a variable token
+            if is_variable_token(last_word):
                 return True
             # Otherwise do not strip (protect club names like "AC United")
             return False
@@ -968,8 +1021,10 @@ def build_prefix_counts(team_names: list[str]) -> dict[str, int]:
     # Clear previous cache
     _club_cache.clear()
     # Compute designator tokens from all team names and cache globally
-    global _designator_cache
-    _designator_cache = _compute_designator_tokens(team_names)
+    global _designator_cache, _variable_tokens_cache
+    designators, variable_tokens = _compute_designator_tokens(team_names)
+    _designator_cache = designators
+    _variable_tokens_cache = variable_tokens
     
     # Build prefix counts with age group removal anywhere
     counts: dict[str, int] = {}
