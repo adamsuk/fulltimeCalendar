@@ -773,6 +773,15 @@ _PUNCT_ONLY_RE = re.compile(r"^[^a-zA-Z0-9]+$")
 # CFC are intentionally excluded because they act as generic prefixes shared
 # across many unrelated clubs (AFC Chellaston, AFC Warriors, …).
 _CLUB_ABBREV_RE = re.compile(r"^[A-Z]{4,}$")
+_GENERIC_PREFIX_RE = re.compile(r"^[A-Z]{3}$")
+
+# Team designators that should be stripped from the end of team names for club grouping
+# Singular colors, squad names, gender/age terms that are team-specific, not club names.
+# Plural colors (e.g., "Reds", "Blues") are kept as they're often club nicknames.
+_COLOR_DESIGNATORS = {"blue", "red", "green", "yellow", "black", "white", "orange", "purple", "gold", "silver"}
+_SQUAD_DESIGNATORS = {"lions", "eagles", "wolves", "tigers", "panthers", "dragons", "sharks", "spiders", "diamonds"}
+_GENDER_AGE_DESIGNATORS = {"girls", "boys", "women", "men", "ladies", "youth", "junior", "reserves", "development", "academy"}
+_TEAM_DESIGNATORS = _COLOR_DESIGNATORS | _SQUAD_DESIGNATORS | _GENDER_AGE_DESIGNATORS
 
 # Cache for club inference results (team name -> club name)
 _club_cache: dict[str, str] = {}
@@ -790,10 +799,53 @@ def _normalise_for_grouping(name: str) -> str:
 
 
 def _remove_age_group_tokens(name: str) -> str:
-    """Remove age group tokens (U\\d+) from anywhere in the name."""
+    """Remove age group tokens (U\\d+) and team designators from anywhere in the name."""
     # Remove age group tokens and collapse multiple spaces
     cleaned = re.sub(r"\bU\d{1,2}\b", "", name, flags=re.IGNORECASE)
-    return " ".join(cleaned.split())
+    cleaned = " ".join(cleaned.split())
+    
+    # Remove team designators from the end
+    words = cleaned.split()
+    
+    # Helper to check if a word should be stripped
+    def is_strippable(word: str) -> bool:
+        word_lower = word.lower()
+        # Don't strip plural words (e.g., "Reds", "Blues") - they're club nicknames
+        if word_lower.endswith('s') and word_lower[:-1] in _COLOR_DESIGNATORS:
+            return False
+        # Don't strip uppercase abbreviations (≥4 letters) like DLFC, ASFC
+        if _CLUB_ABBREV_RE.match(word):
+            return False
+        # Strip if it's a singular designator
+        return word_lower in _TEAM_DESIGNATORS
+    
+    # Determine if we can strip the last word
+    def can_strip_last() -> bool:
+        if not words or not is_strippable(words[-1]):
+            return False
+        # If we have more than 2 words, always allow stripping
+        if len(words) > 2:
+            return True
+        # For 2-word names, allow stripping if the first word is a club abbreviation (≥4 letters)
+        # or if the first word is not a generic 3-letter prefix
+        if len(words) == 2:
+            first_word = words[0]
+            # Allow stripping if first word is a club abbreviation
+            if _CLUB_ABBREV_RE.match(first_word):
+                return True
+            # Don't strip if first word is a generic 3-letter prefix (AFC, FC, etc.)
+            if _GENERIC_PREFIX_RE.match(first_word):
+                return False
+            # Otherwise allow stripping (e.g., "Town Blue" -> "Town")
+            return True
+        # For 1-word names, never strip (shouldn't reach here)
+        return False
+    
+    # Strip trailing designators while allowed
+    while can_strip_last():
+        words.pop()
+    
+    return " ".join(words) if words else cleaned
 
 
 

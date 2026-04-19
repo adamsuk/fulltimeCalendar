@@ -206,7 +206,47 @@ class TestClubGrouping:
         names = ["Unique FC Eagles U10"]
         counts = build_prefix_counts(names)
         club = infer_club_name("Unique FC Eagles U10", counts)
-        assert club == "Unique FC Eagles"
+        # "Eagles" is stripped as a squad designator, leaving "Unique FC"
+        assert club == "Unique FC"
+
+    def test_color_suffix_grouping(self):
+        """Teams with same color suffix across age groups should group under club name."""
+        # Clifton All Whites Blue case - multiple age groups with same color
+        result = _pipeline([
+            "Clifton All Whites Blue U8",
+            "Clifton All Whites Blue U10",
+            "Clifton All Whites Blue U13",
+        ])
+        assert set(result.values()) == {"Clifton All Whites"}, result
+        
+        # Mixed colors should still group under club
+        result = _pipeline([
+            "Club FC Red U8",
+            "Club FC Blue U10",
+            "Club FC Green U12",
+        ])
+        assert set(result.values()) == {"Club FC"}, result
+        
+        # Plural colors (Reds, Blues) should be kept as part of club name
+        result = _pipeline([
+            "Ravenshead Reds U10",
+            "Ravenshead Reds U12",
+        ])
+        assert set(result.values()) == {"Ravenshead Reds"}, result
+        
+        # Uppercase abbreviations (DLFC) should not be stripped
+        result = _pipeline([
+            "DLFC Blue U10",
+            "DLFC Blue U12",
+        ])
+        assert set(result.values()) == {"DLFC"}, result
+        
+        # Mixed designators (color + squad) should still group
+        result = _pipeline([
+            "Town FC Blue Lions U10",
+            "Town FC Blue Tigers U12",
+        ])
+        assert set(result.values()) == {"Town FC"}, result
 
     def test_age_group_infix(self):
         """Teams with age groups in the middle (e.g., 'U7 Blue') should group correctly."""
