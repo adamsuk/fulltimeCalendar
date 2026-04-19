@@ -1,20 +1,7 @@
 {
   "club": "Reindeer FC",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "8024c79fd137e08e0713f0069de8f83f",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Reindeer FC",
-      "away_team": "Beeston Reserves",
-      "venue": "RACECOURSE PARK (MANSFIELD)",
-      "division": "NSL Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Reindeer FC",
-      "home_away": "home",
-      "opponent": "Beeston Reserves"
-    },
     {
       "id": "ee3ee76cebac8a5b03511391e857d07b",
       "date": "2026-04-25",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "8024c79fd137e08e0713f0069de8f83f",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Reindeer FC",
+      "away_team": "Beeston Reserves",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "NSL Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Reindeer FC",
+      "home_away": "home",
+      "opponent": "Beeston Reserves",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "8a91dbed6031cd140d0b1bd8a23b4d1f",
       "date": "2026-04-04",

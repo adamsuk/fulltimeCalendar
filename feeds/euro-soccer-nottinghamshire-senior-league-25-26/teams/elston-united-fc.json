@@ -1,19 +1,8 @@
 {
   "team": "Elston United FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "d1a3a55e053326bd9da5c9314d40bb89",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Elston United FC",
-      "away_team": "Calverton Miners Welfare FC",
-      "venue": "DARWIN PARK",
-      "division": "NSL Division One",
-      "home_away": "home",
-      "opponent": "Calverton Miners Welfare FC"
-    },
     {
       "id": "174df51e4ac973c1365a091ceac85167",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d1a3a55e053326bd9da5c9314d40bb89",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Elston United FC",
+      "away_team": "Calverton Miners Welfare FC",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division One",
+      "home_away": "home",
+      "opponent": "Calverton Miners Welfare FC",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "3edc06d0290ba2de0bca4a56e96f268c",
       "date": "2026-04-11",

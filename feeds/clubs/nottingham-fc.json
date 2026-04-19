@@ -1,6 +1,6 @@
 {
   "club": "Nottingham FC",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
     {
       "id": "8051408102ccf9973fdcdfc43aaf2c82",
@@ -14,19 +14,6 @@
       "team": "Nottingham F.C. Youth U14 Girls",
       "home_away": "away",
       "opponent": "Matlock Town Juniors U14 Spartans Girls"
-    },
-    {
-      "id": "a03bd63be602917751f8d0e42b229959",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Notts Olympic U10",
-      "away_team": "Nottingham FC U10",
-      "venue": "Birchover Park Community Centre NG8 4BW",
-      "division": "U10 Sat Spring Div 5 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Nottingham FC U10",
-      "home_away": "away",
-      "opponent": "Notts Olympic U10"
     },
     {
       "id": "163f0ab7ff76a5ff5f87abeaf518045f",
@@ -664,6 +651,23 @@
       "opponent": "Keyworth United White U12",
       "goals_for": 6,
       "goals_against": 0
+    },
+    {
+      "id": "a03bd63be602917751f8d0e42b229959",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Notts Olympic U10",
+      "away_team": "Nottingham FC U10",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC U10",
+      "home_away": "away",
+      "opponent": "Notts Olympic U10",
+      "goals_for": 1,
+      "goals_against": 4
     },
     {
       "id": "daff3f3dfb8702cee3decb5486f9496c",

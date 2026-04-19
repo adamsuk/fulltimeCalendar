@@ -1,6 +1,6 @@
 {
   "club": "Arnold Town",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
     {
       "id": "082583a9f18d4f91a7ce49b0197eb07c",
@@ -14,32 +14,6 @@
       "team": "Arnold Town Reserves",
       "home_away": "away",
       "opponent": "Notts Olympic Reserves"
-    },
-    {
-      "id": "f5a46a2ab9f8d39df1e30828e9f16f1f",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Arnold Town FC",
-      "away_team": "Aslockton & Orston FC",
-      "venue": "EAGLE VALLEY #1",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Arnold Town FC",
-      "home_away": "home",
-      "opponent": "Aslockton & Orston FC"
-    },
-    {
-      "id": "5c2a7af689200550862f806d3147aa26",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "AJ Sport FC",
-      "away_team": "Arnold Town Reserves",
-      "venue": "MILL STREET RECREATION GROUND 2",
-      "division": "NSL Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Arnold Town Reserves",
-      "home_away": "away",
-      "opponent": "AJ Sport FC"
     },
     {
       "id": "8ed025ec08dbe9d419617f4dc044e131",
@@ -445,6 +419,19 @@
       "opponent": "Quarrydale United United U13"
     },
     {
+      "id": "7cdf7199f5162ec41859a991431c6577",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "home_team": "Arnold Town Blue U13",
+      "away_team": "Blidworth Bengals Orange U13",
+      "venue": "Eagle Valley NG5 8PS",
+      "division": "U13 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Arnold Town Blue U13",
+      "home_away": "home",
+      "opponent": "Blidworth Bengals Orange U13"
+    },
+    {
       "id": "35821b50c17a08138b4ad053e73831f3",
       "date": "2026-04-28",
       "time": "18:00",
@@ -589,6 +576,40 @@
     }
   ],
   "results": [
+    {
+      "id": "f5a46a2ab9f8d39df1e30828e9f16f1f",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Arnold Town FC",
+      "away_team": "Aslockton & Orston FC",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Arnold Town FC",
+      "home_away": "home",
+      "opponent": "Aslockton & Orston FC",
+      "goals_for": 1,
+      "goals_against": 4
+    },
+    {
+      "id": "5c2a7af689200550862f806d3147aa26",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "AJ Sport FC",
+      "away_team": "Arnold Town Reserves",
+      "home_score": 7,
+      "away_score": 0,
+      "venue": "",
+      "division": "NSL Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Arnold Town Reserves",
+      "home_away": "away",
+      "opponent": "AJ Sport FC",
+      "goals_for": 0,
+      "goals_against": 7
+    },
     {
       "id": "57cbe5d856bbd081a45e3a431b45f794",
       "date": "2026-04-18",

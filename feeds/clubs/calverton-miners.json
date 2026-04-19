@@ -1,6 +1,6 @@
 {
   "club": "Calverton Miners",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
     {
       "id": "aeff0b7aaa3e07f584218c506c17dfdd",
@@ -27,32 +27,6 @@
       "team": "Calverton Miners Welfare FC",
       "home_away": "home",
       "opponent": "Keyworth United FC First"
-    },
-    {
-      "id": "6a14427a124f3f185080a5f3526389a9",
-      "date": "2026-04-18",
-      "time": "14:00",
-      "home_team": "Attenborough FC",
-      "away_team": "Calverton Miners Welfare Reserves",
-      "venue": "ATTENBOROUGH CRICKET CLUB",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Calverton Miners Welfare Reserves",
-      "home_away": "away",
-      "opponent": "Attenborough FC"
-    },
-    {
-      "id": "d1a3a55e053326bd9da5c9314d40bb89",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Elston United FC",
-      "away_team": "Calverton Miners Welfare FC",
-      "venue": "DARWIN PARK",
-      "division": "NSL Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Calverton Miners Welfare FC",
-      "home_away": "away",
-      "opponent": "Elston United FC"
     },
     {
       "id": "8bb3e49a38a3e0349a7c7cac93432844",
@@ -264,6 +238,40 @@
     }
   ],
   "results": [
+    {
+      "id": "d1a3a55e053326bd9da5c9314d40bb89",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Elston United FC",
+      "away_team": "Calverton Miners Welfare FC",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Calverton Miners Welfare FC",
+      "home_away": "away",
+      "opponent": "Elston United FC",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
+      "id": "6a14427a124f3f185080a5f3526389a9",
+      "date": "2026-04-18",
+      "time": "14:00",
+      "home_team": "Attenborough FC",
+      "away_team": "Calverton Miners Welfare Reserves",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Calverton Miners Welfare Reserves",
+      "home_away": "away",
+      "opponent": "Attenborough FC",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "41de8027ccc770ac55dc0d1ccfc314de",
       "date": "2026-04-18",

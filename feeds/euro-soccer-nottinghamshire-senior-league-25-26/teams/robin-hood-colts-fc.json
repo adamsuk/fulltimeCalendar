@@ -1,19 +1,8 @@
 {
   "team": "Robin Hood Colts FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "a5f7462df57d9d566152fe3ceff88644",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Robin Hood Colts FC",
-      "away_team": "Trent Vineyard FC",
-      "venue": "SHERWOOD FIELDS (ROBIN HOOD COLTS FC)",
-      "division": "NSL Division Three",
-      "home_away": "home",
-      "opponent": "Trent Vineyard FC"
-    },
     {
       "id": "caf0c0da9313cc747211fb58eb67f194",
       "date": "2026-04-25",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a5f7462df57d9d566152fe3ceff88644",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Robin Hood Colts FC",
+      "away_team": "Trent Vineyard FC",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "home",
+      "opponent": "Trent Vineyard FC",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "2d751f4ac64ad1966c562fe98d004e32",
       "date": "2026-03-28",

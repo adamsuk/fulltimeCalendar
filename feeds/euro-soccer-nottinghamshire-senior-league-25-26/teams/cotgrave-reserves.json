@@ -1,19 +1,8 @@
 {
   "team": "Cotgrave Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "ee880537b7328f346c2b574bcd322500",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Notts Olympic Reserves",
-      "away_team": "Cotgrave Reserves",
-      "venue": "Birchover Park",
-      "division": "NSL Division Two",
-      "home_away": "away",
-      "opponent": "Notts Olympic Reserves"
-    },
     {
       "id": "6a7129f35477aed0e9fc21c34591b22d",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ee880537b7328f346c2b574bcd322500",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Notts Olympic Reserves",
+      "away_team": "Cotgrave Reserves",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "NSL Division Two",
+      "home_away": "away",
+      "opponent": "Notts Olympic Reserves",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "ef6c520150d27138acbd78417662cf4c",
       "date": "2026-04-08",

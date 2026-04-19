@@ -1,6 +1,6 @@
 {
   "club": "Southwell City",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
     {
       "id": "e5d78556f73c8beb876ad4111db2e5c0",
@@ -53,45 +53,6 @@
       "team": "Southwell City Lions U11",
       "home_away": "away",
       "opponent": "Mountsorrel Juniors U11"
-    },
-    {
-      "id": "8bc8749d6cf30738ddf8008c04f78259",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Southwell City Cobras U9",
-      "away_team": "Hucknall Sports White U9",
-      "venue": "Southwell City FC  NG25 0JP",
-      "division": "U9 Sat Spring Div 7 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Southwell City Cobras U9",
-      "home_away": "home",
-      "opponent": "Hucknall Sports White U9"
-    },
-    {
-      "id": "c8adb79c9b6e96f4f18904e88b289775",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Ilkeston Town Valens U11",
-      "away_team": "Southwell City Tigers U11",
-      "venue": "Booths Playing Fields, Ilkeston DE7 8JF",
-      "division": "U11 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Southwell City Tigers U11",
-      "home_away": "away",
-      "opponent": "Ilkeston Town Valens U11"
-    },
-    {
-      "id": "cc810706633749ff02779bb22fd7330c",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Collingham Reserves",
-      "away_team": "Southwell City Development",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "NSL Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Southwell City Development",
-      "home_away": "away",
-      "opponent": "Collingham Reserves"
     },
     {
       "id": "a071fb5c9a58dab700da322770fa5795",
@@ -837,6 +798,23 @@
   ],
   "results": [
     {
+      "id": "cc810706633749ff02779bb22fd7330c",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Collingham Reserves",
+      "away_team": "Southwell City Development",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Southwell City Development",
+      "home_away": "away",
+      "opponent": "Collingham Reserves",
+      "goals_for": 1,
+      "goals_against": 4
+    },
+    {
       "id": "64df7bd151609ff20883e6bf26dff9ca",
       "date": "2026-04-18",
       "time": "11:00",
@@ -922,6 +900,23 @@
       "goals_against": 3
     },
     {
+      "id": "8bc8749d6cf30738ddf8008c04f78259",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Southwell City Cobras U9",
+      "away_team": "Hucknall Sports White U9",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Southwell City Cobras U9",
+      "home_away": "home",
+      "opponent": "Hucknall Sports White U9",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
       "id": "41dcff2eb2bfb817c5275e3415adf30c",
       "date": "2026-04-18",
       "time": "10:00",
@@ -1005,6 +1000,23 @@
       "opponent": "Bingham Town Blue U10",
       "goals_for": 2,
       "goals_against": 1
+    },
+    {
+      "id": "c8adb79c9b6e96f4f18904e88b289775",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Valens U11",
+      "away_team": "Southwell City Tigers U11",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Southwell City Tigers U11",
+      "home_away": "away",
+      "opponent": "Ilkeston Town Valens U11",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "e6e1c0158cebd7facaef33ad578ee6ba",

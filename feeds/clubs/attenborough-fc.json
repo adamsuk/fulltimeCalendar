@@ -1,20 +1,7 @@
 {
   "club": "Attenborough FC",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "6a14427a124f3f185080a5f3526389a9",
-      "date": "2026-04-18",
-      "time": "14:00",
-      "home_team": "Attenborough FC",
-      "away_team": "Calverton Miners Welfare Reserves",
-      "venue": "ATTENBOROUGH CRICKET CLUB",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Attenborough FC",
-      "home_away": "home",
-      "opponent": "Calverton Miners Welfare Reserves"
-    },
     {
       "id": "ed443212c01e93fea0973850cf01bad1",
       "date": "2026-04-25",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "6a14427a124f3f185080a5f3526389a9",
+      "date": "2026-04-18",
+      "time": "14:00",
+      "home_team": "Attenborough FC",
+      "away_team": "Calverton Miners Welfare Reserves",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Attenborough FC",
+      "home_away": "home",
+      "opponent": "Calverton Miners Welfare Reserves",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "5044988cb423f415865bdb7f507ea7cb",
       "date": "2026-04-14",

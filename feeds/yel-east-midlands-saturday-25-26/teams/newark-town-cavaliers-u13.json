@@ -1,19 +1,8 @@
 {
   "team": "Newark Town Cavaliers U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "cb271a8dab0af6b423c268c80d5de2cc",
-      "date": "2026-04-18",
-      "time": "12:00",
-      "home_team": "Newark Town Cavaliers U13",
-      "away_team": "AFC Warriors Spartans U13",
-      "venue": "Devon Park NG24 4QN",
-      "division": "U13 Saturday",
-      "home_away": "home",
-      "opponent": "AFC Warriors Spartans U13"
-    },
     {
       "id": "7e1b6e8e97e5e231ddc2dd83968fc706",
       "date": "2026-04-25",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "cb271a8dab0af6b423c268c80d5de2cc",
+      "date": "2026-04-18",
+      "time": "12:00",
+      "home_team": "Newark Town Cavaliers U13",
+      "away_team": "AFC Warriors Spartans U13",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Saturday",
+      "home_away": "home",
+      "opponent": "AFC Warriors Spartans U13",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "48d9aee1054e6299ba39360e7c3cfa7c",
       "date": "2026-03-21",

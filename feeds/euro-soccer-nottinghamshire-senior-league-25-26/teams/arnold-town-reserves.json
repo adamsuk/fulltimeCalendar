@@ -1,7 +1,7 @@
 {
   "team": "Arnold Town Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
     {
       "id": "082583a9f18d4f91a7ce49b0197eb07c",
@@ -13,20 +13,24 @@
       "division": "NSL Division Two",
       "home_away": "away",
       "opponent": "Notts Olympic Reserves"
-    },
+    }
+  ],
+  "results": [
     {
       "id": "5c2a7af689200550862f806d3147aa26",
       "date": "2026-04-18",
       "time": "15:00",
       "home_team": "AJ Sport FC",
       "away_team": "Arnold Town Reserves",
-      "venue": "MILL STREET RECREATION GROUND 2",
+      "home_score": 7,
+      "away_score": 0,
+      "venue": "",
       "division": "NSL Division Two",
       "home_away": "away",
-      "opponent": "AJ Sport FC"
-    }
-  ],
-  "results": [
+      "opponent": "AJ Sport FC",
+      "goals_for": 0,
+      "goals_against": 7
+    },
     {
       "id": "00f5765e7545b1fb19c11df887d018d7",
       "date": "2026-03-28",

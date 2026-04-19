@@ -1,6 +1,6 @@
 {
   "club": "Bingham Town",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
     {
       "id": "00b892d801d2dfcf9111f97f9e254d0c",
@@ -14,19 +14,6 @@
       "team": "Bingham Town F.C. U15 Girls",
       "home_away": "away",
       "opponent": "Priory Celtic F.C. U15 Girls"
-    },
-    {
-      "id": "7ae2388d351e618ea54d8c164665f139",
-      "date": "2026-04-18",
-      "time": "11:30",
-      "home_team": "Bingham Town Blue U12",
-      "away_team": "Long Eaton United Black U12",
-      "venue": "Butt Field NG13 8GG",
-      "division": "U12 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Bingham Town Blue U12",
-      "home_away": "home",
-      "opponent": "Long Eaton United Black U12"
     },
     {
       "id": "3191b5a68a4d9890931473960f03c563",
@@ -711,6 +698,23 @@
       "goals_against": 1
     },
     {
+      "id": "7ae2388d351e618ea54d8c164665f139",
+      "date": "2026-04-18",
+      "time": "11:30",
+      "home_team": "Bingham Town Blue U12",
+      "away_team": "Long Eaton United Black U12",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Bingham Town Blue U12",
+      "home_away": "home",
+      "opponent": "Long Eaton United Black U12",
+      "goals_for": 5,
+      "goals_against": 0
+    },
+    {
       "id": "49ad04757d153c64bcbec3f54dfb30e1",
       "date": "2026-04-18",
       "time": "11:15",
@@ -751,7 +755,7 @@
       "home_team": "Bingham Town Blue U13",
       "away_team": "Newark Town Saxons U13",
       "home_score": 1,
-      "away_score": 0,
+      "away_score": 4,
       "venue": "",
       "division": "U13 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
@@ -759,7 +763,7 @@
       "home_away": "home",
       "opponent": "Newark Town Saxons U13",
       "goals_for": 1,
-      "goals_against": 0
+      "goals_against": 4
     },
     {
       "id": "eaadae64ac98e09e5451dadbef81df96",

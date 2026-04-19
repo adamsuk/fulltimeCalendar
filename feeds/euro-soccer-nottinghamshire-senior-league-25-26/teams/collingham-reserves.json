@@ -1,19 +1,8 @@
 {
   "team": "Collingham Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "cc810706633749ff02779bb22fd7330c",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Collingham Reserves",
-      "away_team": "Southwell City Development",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "NSL Division Two",
-      "home_away": "home",
-      "opponent": "Southwell City Development"
-    },
     {
       "id": "6a7129f35477aed0e9fc21c34591b22d",
       "date": "2026-04-25",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "cc810706633749ff02779bb22fd7330c",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Collingham Reserves",
+      "away_team": "Southwell City Development",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Two",
+      "home_away": "home",
+      "opponent": "Southwell City Development",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "dbb1e64b5253087d8bf6dcf3cd6ec586",
       "date": "2026-04-04",

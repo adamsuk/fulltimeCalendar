@@ -1,19 +1,8 @@
 {
   "team": "Beeston FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "244864579883674db02ba5d5308b969e",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Beeston FC",
-      "away_team": "Awsworth Villa FC",
-      "venue": "Trent Vale Road Sports Ground",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "home",
-      "opponent": "Awsworth Villa FC"
-    },
     {
       "id": "36f768890440b499eecd5eca02bb018a",
       "date": "2026-04-21",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "244864579883674db02ba5d5308b969e",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Beeston FC",
+      "away_team": "Awsworth Villa FC",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "home",
+      "opponent": "Awsworth Villa FC",
+      "goals_for": 0,
+      "goals_against": 0
+    },
     {
       "id": "480ba318d75da25ae516e2c405800b9e",
       "date": "2026-04-11",

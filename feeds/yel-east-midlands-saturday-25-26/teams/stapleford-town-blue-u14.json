@@ -1,19 +1,8 @@
 {
   "team": "Stapleford Town Blue U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "01ad836d29a1821e49b97a483dee5a11",
-      "date": "2026-04-18",
-      "time": "12:30",
-      "home_team": "Stapleford Town Blue U14",
-      "away_team": "Cotgrave FC Blue U14",
-      "venue": "Hickings Lane NG9 8PG",
-      "division": "U14 Sat Spring Premier Division",
-      "home_away": "home",
-      "opponent": "Cotgrave FC Blue U14"
-    },
     {
       "id": "89896ead7b7381c3a191d89c3e311d33",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "01ad836d29a1821e49b97a483dee5a11",
+      "date": "2026-04-18",
+      "time": "12:30",
+      "home_team": "Stapleford Town Blue U14",
+      "away_team": "Cotgrave FC Blue U14",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Sat Spring Premier Division",
+      "home_away": "home",
+      "opponent": "Cotgrave FC Blue U14",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "32974fd01664dade6da27bda091a9a5b",
       "date": "2026-03-21",

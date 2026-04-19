@@ -1,19 +1,8 @@
 {
   "team": "Phoenix Inham Ignite U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "109851e2d1c20c6af440efb04bed77eb",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Wollaton H & B Valiants U13",
-      "away_team": "Phoenix Inham Ignite U13",
-      "venue": "The Trinity Catholic School NG8 3EZ",
-      "division": "U13 Sat Spring Div 7 Blue",
-      "home_away": "away",
-      "opponent": "Wollaton H & B Valiants U13"
-    },
     {
       "id": "09a4c04b978320886ec3ebb1eef80801",
       "date": "2026-04-21",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "109851e2d1c20c6af440efb04bed77eb",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Wollaton H & B Valiants U13",
+      "away_team": "Phoenix Inham Ignite U13",
+      "home_score": 7,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Spring Div 7 Blue",
+      "home_away": "away",
+      "opponent": "Wollaton H & B Valiants U13",
+      "goals_for": 2,
+      "goals_against": 7
+    },
     {
       "id": "f70085faffdbd98a31b1495bcb3f7b07",
       "date": "2026-03-21",

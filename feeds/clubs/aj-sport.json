@@ -1,6 +1,6 @@
 {
   "club": "AJ Sport",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
     {
       "id": "6cf2b543cd315c5e29610b0673c1a237",
@@ -27,19 +27,6 @@
       "team": "AJ Sport F.C. Reserves",
       "home_away": "away",
       "opponent": "Rolls Royce FC"
-    },
-    {
-      "id": "5c2a7af689200550862f806d3147aa26",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "AJ Sport FC",
-      "away_team": "Arnold Town Reserves",
-      "venue": "MILL STREET RECREATION GROUND 2",
-      "division": "NSL Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "AJ Sport FC",
-      "home_away": "home",
-      "opponent": "Arnold Town Reserves"
     },
     {
       "id": "6780c604882ee306eceaa8cdd4e0860c",
@@ -420,6 +407,23 @@
     }
   ],
   "results": [
+    {
+      "id": "5c2a7af689200550862f806d3147aa26",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "AJ Sport FC",
+      "away_team": "Arnold Town Reserves",
+      "home_score": 7,
+      "away_score": 0,
+      "venue": "",
+      "division": "NSL Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "AJ Sport FC",
+      "home_away": "home",
+      "opponent": "Arnold Town Reserves",
+      "goals_for": 7,
+      "goals_against": 0
+    },
     {
       "id": "c0a26045a02979081c519ea35d0bb1d6",
       "date": "2026-04-18",

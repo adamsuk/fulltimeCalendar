@@ -1,6 +1,6 @@
 {
   "club": "West Bridgford",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
     {
       "id": "3c2f4d185182fa444977a45747ad1f51",
@@ -53,19 +53,6 @@
       "team": "West Bridgford Colts U18 Rangers Girls",
       "home_away": "away",
       "opponent": "Belper Town Juniors U18 Girls"
-    },
-    {
-      "id": "2dd6b8d8b51e8d7f4b060bdb7b3dc224",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Wollaton FC",
-      "away_team": "West Bridgford Reserves",
-      "venue": "WOLLATON SPORTS ASSOCIATION GROUND",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "West Bridgford Reserves",
-      "home_away": "away",
-      "opponent": "Wollaton FC"
     },
     {
       "id": "91b3f61413bc66f6eab599a640c09c39",
@@ -576,6 +563,23 @@
     }
   ],
   "results": [
+    {
+      "id": "2dd6b8d8b51e8d7f4b060bdb7b3dc224",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Wollaton FC",
+      "away_team": "West Bridgford Reserves",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "West Bridgford Reserves",
+      "home_away": "away",
+      "opponent": "Wollaton FC",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "376364aa645c7f1af82fae582363e088",
       "date": "2026-04-12",

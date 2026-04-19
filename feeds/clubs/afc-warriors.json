@@ -1,6 +1,6 @@
 {
   "club": "AFC Warriors",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
     {
       "id": "4675a1e8a2a2fa41268b0645c51b8239",
@@ -14,19 +14,6 @@
       "team": "AFC Warriors Development",
       "home_away": "away",
       "opponent": "Beaufort United F.C. Development"
-    },
-    {
-      "id": "cb271a8dab0af6b423c268c80d5de2cc",
-      "date": "2026-04-18",
-      "time": "12:00",
-      "home_team": "Newark Town Cavaliers U13",
-      "away_team": "AFC Warriors Spartans U13",
-      "venue": "Devon Park NG24 4QN",
-      "division": "U13 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "AFC Warriors Spartans U13",
-      "home_away": "away",
-      "opponent": "Newark Town Cavaliers U13"
     },
     {
       "id": "fec47491dc61a9c57dfb628dff8cb150",
@@ -238,6 +225,23 @@
     }
   ],
   "results": [
+    {
+      "id": "cb271a8dab0af6b423c268c80d5de2cc",
+      "date": "2026-04-18",
+      "time": "12:00",
+      "home_team": "Newark Town Cavaliers U13",
+      "away_team": "AFC Warriors Spartans U13",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "AFC Warriors Spartans U13",
+      "home_away": "away",
+      "opponent": "Newark Town Cavaliers U13",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "17de04c9bf581f38dd89875c46583d06",
       "date": "2026-04-18",

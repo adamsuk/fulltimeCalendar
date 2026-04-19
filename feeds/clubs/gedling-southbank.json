@@ -1,46 +1,7 @@
 {
   "club": "Gedling Southbank",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "8e747063797a6640cb0e772448effb1a",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Nottingham Second Chance U11",
-      "away_team": "Gedling Southbank Wolves U11",
-      "venue": "Stockhill Fire Station Park NG6 0LP",
-      "division": "U11 Sat Spring Div 7 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Gedling Southbank Wolves U11",
-      "home_away": "away",
-      "opponent": "Nottingham Second Chance U11"
-    },
-    {
-      "id": "ccf4ebe3a16474ebc596ff35076359a1",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Gedling Southbank United U14",
-      "away_team": "Meden Vale Colts Gold U14",
-      "venue": "Gedling Southbank FC NG4 1RL",
-      "division": "U14 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Gedling Southbank United U14",
-      "home_away": "home",
-      "opponent": "Meden Vale Colts Gold U14"
-    },
-    {
-      "id": "d6cb928daf9b4f2429fd5caf526a1af8",
-      "date": "2026-04-18",
-      "time": "12:30",
-      "home_team": "Collingham FC Cougars U10",
-      "away_team": "Gedling Southbank Warriors U10",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Gedling Southbank Warriors U10",
-      "home_away": "away",
-      "opponent": "Collingham FC Cougars U10"
-    },
     {
       "id": "df01356acf6ced50678b588461c04e07",
       "date": "2026-04-19",
@@ -694,6 +655,40 @@
   ],
   "results": [
     {
+      "id": "d6cb928daf9b4f2429fd5caf526a1af8",
+      "date": "2026-04-18",
+      "time": "12:30",
+      "home_team": "Collingham FC Cougars U10",
+      "away_team": "Gedling Southbank Warriors U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank Warriors U10",
+      "home_away": "away",
+      "opponent": "Collingham FC Cougars U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "ccf4ebe3a16474ebc596ff35076359a1",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Gedling Southbank United U14",
+      "away_team": "Meden Vale Colts Gold U14",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank United U14",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts Gold U14",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
       "id": "45222f810881b022be7fc4fb74985efb",
       "date": "2026-04-18",
       "time": "10:00",
@@ -760,6 +755,23 @@
       "opponent": "Hucknall Town Warriors U7",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "8e747063797a6640cb0e772448effb1a",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Nottingham Second Chance U11",
+      "away_team": "Gedling Southbank Wolves U11",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank Wolves U11",
+      "home_away": "away",
+      "opponent": "Nottingham Second Chance U11",
+      "goals_for": 1,
+      "goals_against": 0
     },
     {
       "id": "af4f23b2697d58e2ab370113426f2330",

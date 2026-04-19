@@ -1,33 +1,7 @@
 {
   "club": "DLFC",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "656a726916ce254c27152ad3c987f8d7",
-      "date": "2026-04-18",
-      "time": "09:00",
-      "home_team": "DLFC Yellow U7",
-      "away_team": "G3A Stags U7",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U7 Sat Spring 1",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Yellow U7",
-      "home_away": "home",
-      "opponent": "G3A Stags U7"
-    },
-    {
-      "id": "84e634db8203d636b661ee8071a375f2",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "DLFC Red U9",
-      "away_team": "Basford CFC Iconz U9",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U9 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Red U9",
-      "home_away": "home",
-      "opponent": "Basford CFC Iconz U9"
-    },
     {
       "id": "be10422d73525e197b8d02de4daf1d2f",
       "date": "2026-04-19",
@@ -1597,6 +1571,23 @@
       "goals_against": 4
     },
     {
+      "id": "84e634db8203d636b661ee8071a375f2",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "home_team": "DLFC Red U9",
+      "away_team": "Basford CFC Iconz U9",
+      "home_score": 8,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Red U9",
+      "home_away": "home",
+      "opponent": "Basford CFC Iconz U9",
+      "goals_for": 8,
+      "goals_against": 2
+    },
+    {
       "id": "c09e92b4cbbcce30e0de0a7b5609c94b",
       "date": "2026-04-18",
       "time": "09:30",
@@ -1678,6 +1669,23 @@
       "team": "DLFC White U8",
       "home_away": "home",
       "opponent": "Silva FC Carlton Miami U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "656a726916ce254c27152ad3c987f8d7",
+      "date": "2026-04-18",
+      "time": "09:00",
+      "home_team": "DLFC Yellow U7",
+      "away_team": "G3A Stags U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sat Spring 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Yellow U7",
+      "home_away": "home",
+      "opponent": "G3A Stags U7",
       "goals_for": null,
       "goals_against": null
     },

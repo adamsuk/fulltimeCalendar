@@ -1,19 +1,8 @@
 {
   "team": "East Leake Robins Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "0fd05bcaa79520fcb28b2c1843c07563",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Nottingham Greens",
-      "away_team": "East Leake Robins Reserves",
-      "venue": "GRESHAM SPORTS PARK #1",
-      "division": "NSL Division Three",
-      "home_away": "away",
-      "opponent": "Nottingham Greens"
-    },
     {
       "id": "5e85c8922eb33e64bfe309999b4539a0",
       "date": "2026-04-22",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0fd05bcaa79520fcb28b2c1843c07563",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Nottingham Greens",
+      "away_team": "East Leake Robins Reserves",
+      "home_score": 2,
+      "away_score": 9,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "away",
+      "opponent": "Nottingham Greens",
+      "goals_for": 9,
+      "goals_against": 2
+    },
     {
       "id": "b08dba3bf2b5dad3b4f378e7a9a88483",
       "date": "2026-04-15",

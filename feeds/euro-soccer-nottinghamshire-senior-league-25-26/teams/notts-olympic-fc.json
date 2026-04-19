@@ -1,19 +1,8 @@
 {
   "team": "Notts Olympic FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "50a001275f211bc53e2f33910bb33e05",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Notts Olympic FC",
-      "away_team": "FC Cavaliers",
-      "venue": "RADFORD FOOTBALL CLUB",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "home",
-      "opponent": "FC Cavaliers"
-    },
     {
       "id": "be9b83f7be590e41b92b28d1e5d48833",
       "date": "2026-04-21",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "50a001275f211bc53e2f33910bb33e05",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Notts Olympic FC",
+      "away_team": "FC Cavaliers",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "home",
+      "opponent": "FC Cavaliers",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "06295defff3e8b9d51daa48c197df237",
       "date": "2026-04-14",

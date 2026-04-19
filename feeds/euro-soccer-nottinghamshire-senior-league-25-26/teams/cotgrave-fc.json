@@ -1,19 +1,8 @@
 {
   "team": "Cotgrave FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "6149b001bf05ab03a166ca5ad47fbe05",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Cotgrave FC",
-      "away_team": "Keyworth United FC",
-      "venue": "COTGRAVE WELFARE CLUB #1",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "home",
-      "opponent": "Keyworth United FC"
-    },
     {
       "id": "03db302abaf99444c515803db2e6e233",
       "date": "2026-04-21",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6149b001bf05ab03a166ca5ad47fbe05",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Cotgrave FC",
+      "away_team": "Keyworth United FC",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "home",
+      "opponent": "Keyworth United FC",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "947b30aba76f04adac4c8539644daa6f",
       "date": "2026-04-11",

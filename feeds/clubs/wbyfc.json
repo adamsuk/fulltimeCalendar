@@ -1,59 +1,7 @@
 {
   "club": "WBYFC",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "7ab571f380d9b93c3d6dccfa9ef3c00f",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "Keyworth United Green U7",
-      "away_team": "WBYFC Bruges White U7",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U7 Sat Spring 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "WBYFC Bruges White U7",
-      "home_away": "away",
-      "opponent": "Keyworth United Green U7"
-    },
-    {
-      "id": "db34ae48bbf275f81c1adcaea4caab6e",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Collingham FC Lions U8",
-      "away_team": "WBYFC Crusaders Black U8",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U8 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "WBYFC Crusaders Black U8",
-      "home_away": "away",
-      "opponent": "Collingham FC Lions U8"
-    },
-    {
-      "id": "2909bf1f0b614e7ff17e9860f07d38f8",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "WBYFC Crusaders Red U8",
-      "away_team": "Silva FC Rushcliffe Red U8",
-      "venue": "Alford Road, NG2 6HP",
-      "division": "U8 Sat Spring 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "WBYFC Crusaders Red U8",
-      "home_away": "home",
-      "opponent": "Silva FC Rushcliffe Red U8"
-    },
-    {
-      "id": "7e466291f1509a3ffb88d11b5e09eccf",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "WBYFC Genk Black U7",
-      "away_team": "Heanor Junior Tigers U7",
-      "venue": "Gresham Park  NG2 7YF",
-      "division": "U7 Sat Spring 5 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "WBYFC Genk Black U7",
-      "home_away": "home",
-      "opponent": "Heanor Junior Tigers U7"
-    },
     {
       "id": "ce8e72740da3bb83e538e35d59e5d3ed",
       "date": "2026-04-18",
@@ -684,7 +632,7 @@
       "time": "10:00",
       "home_team": "WBYFC Napoli U10",
       "away_team": "Loughborough Emmanuel U10",
-      "venue": "Regatta Way NG2 5AT",
+      "venue": "Gresham Park  NG2 7YF",
       "division": "U10 Sat Spring Div 6 Green",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "WBYFC Napoli U10",
@@ -783,6 +731,19 @@
       "opponent": "Heather St Johns U14"
     },
     {
+      "id": "55fd5cc5e6b4c3b09ccd84b94a53644c",
+      "date": "2026-04-25",
+      "time": "10:30",
+      "home_team": "Newark Town Saxons U13",
+      "away_team": "WBYFC Galaxy U13",
+      "venue": "Highfields School, NG24 3AL",
+      "division": "U13 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Galaxy U13",
+      "home_away": "away",
+      "opponent": "Newark Town Saxons U13"
+    },
+    {
       "id": "01d60dc3f980e79f585452ae8fe7ded2",
       "date": "2026-04-25",
       "time": "10:30",
@@ -859,19 +820,6 @@
       "team": "WBYFC Dynamos Black U8",
       "home_away": "away",
       "opponent": "Newark Brazil Rio U8"
-    },
-    {
-      "id": "55fd5cc5e6b4c3b09ccd84b94a53644c",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Newark Town Saxons U13",
-      "away_team": "WBYFC Galaxy U13",
-      "venue": "Devon Park NG24 4QN",
-      "division": "U13 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "WBYFC Galaxy U13",
-      "home_away": "away",
-      "opponent": "Newark Town Saxons U13"
     },
     {
       "id": "73e9210249ef5c1d867660b8479d7ff7",
@@ -1626,6 +1574,23 @@
       "opponent": "Ilkeston Town Dragons U13",
       "goals_for": 0,
       "goals_against": 0
+    },
+    {
+      "id": "db34ae48bbf275f81c1adcaea4caab6e",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Collingham FC Lions U8",
+      "away_team": "WBYFC Crusaders Black U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Crusaders Black U8",
+      "home_away": "away",
+      "opponent": "Collingham FC Lions U8",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "8387338c2896d83644c9587b6dcd6a01",

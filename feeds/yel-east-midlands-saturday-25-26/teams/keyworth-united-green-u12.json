@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United Green U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "80410e849498b283e318f409d02710d9",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Keyworth United Green U12",
-      "away_team": "Basford United Iconz U12",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U12 Saturday",
-      "home_away": "home",
-      "opponent": "Basford United Iconz U12"
-    },
     {
       "id": "5a346ec491c77dbbd714bc3474a94f5e",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "80410e849498b283e318f409d02710d9",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Keyworth United Green U12",
+      "away_team": "Basford United Iconz U12",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Saturday",
+      "home_away": "home",
+      "opponent": "Basford United Iconz U12",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "168697a7095f62b8d08df8acca0a7cc6",
       "date": "2026-03-28",

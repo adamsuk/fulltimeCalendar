@@ -1,33 +1,7 @@
 {
   "club": "Basford United",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "80410e849498b283e318f409d02710d9",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Keyworth United Green U12",
-      "away_team": "Basford United Iconz U12",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U12 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford United Iconz U12",
-      "home_away": "away",
-      "opponent": "Keyworth United Green U12"
-    },
-    {
-      "id": "f551156aee79ebbb87bb601d786175e4",
-      "date": "2026-04-18",
-      "time": "11:30",
-      "home_team": "Basford United United U12",
-      "away_team": "ASFC Gold U12",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U12 Sat YEL Trophy",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford United United U12",
-      "home_away": "home",
-      "opponent": "ASFC Gold U12"
-    },
     {
       "id": "530dcbf2ab9a3913a29ead3e0038b020",
       "date": "2026-04-19",
@@ -342,6 +316,40 @@
     }
   ],
   "results": [
+    {
+      "id": "f551156aee79ebbb87bb601d786175e4",
+      "date": "2026-04-18",
+      "time": "11:30",
+      "home_team": "Basford United United U12",
+      "away_team": "ASFC Gold U12",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat YEL Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United United U12",
+      "home_away": "home",
+      "opponent": "ASFC Gold U12",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
+      "id": "80410e849498b283e318f409d02710d9",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Keyworth United Green U12",
+      "away_team": "Basford United Iconz U12",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United Iconz U12",
+      "home_away": "away",
+      "opponent": "Keyworth United Green U12",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "fc2755fdc8262b7b521cecfb178da23d",
       "date": "2026-04-18",

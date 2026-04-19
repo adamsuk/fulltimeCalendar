@@ -1,19 +1,8 @@
 {
   "team": "Hucknall Sports Blue U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "e21436df84d4efc96932d94cf927baf4",
-      "date": "2026-04-18",
-      "time": "12:00",
-      "home_team": "AC United U11",
-      "away_team": "Hucknall Sports Blue U11",
-      "venue": "Forest Recreation Ground  NG7 6HB",
-      "division": "U11 Sat Spring Div 6 Red",
-      "home_away": "away",
-      "opponent": "AC United U11"
-    },
     {
       "id": "91bd59d7170b4271e700eea133e05d96",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e21436df84d4efc96932d94cf927baf4",
+      "date": "2026-04-18",
+      "time": "12:00",
+      "home_team": "AC United U11",
+      "away_team": "Hucknall Sports Blue U11",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 6 Red",
+      "home_away": "away",
+      "opponent": "AC United U11",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "e6aa8687eb9ae8d06daea7c6d0e0f1a1",
       "date": "2026-03-21",

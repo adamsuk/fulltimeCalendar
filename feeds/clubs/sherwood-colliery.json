@@ -1,6 +1,6 @@
 {
   "club": "Sherwood Colliery",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
     {
       "id": "ea8e3fe0f97307f5ab0e8fd13eb5b878",
@@ -14,32 +14,6 @@
       "team": "Sherwood Colliery F.C. Ladies U11",
       "home_away": "away",
       "opponent": "Southwell City FC U11 Girls"
-    },
-    {
-      "id": "af2d04ca7acdb51df2f37738e8094ffe",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Sherwood Colliery Avengers U8",
-      "away_team": "Ilkeston Town United U8",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U8 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sherwood Colliery Avengers U8",
-      "home_away": "home",
-      "opponent": "Ilkeston Town United U8"
-    },
-    {
-      "id": "f001ba1dde0b479223457fdd232971a0",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Manor FC Red U7",
-      "away_team": "Sherwood Colliery U7",
-      "venue": "Manor Sport & Recreation Cntre  NG19 8JY",
-      "division": "U7 Sat Spring 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sherwood Colliery U7",
-      "home_away": "away",
-      "opponent": "Manor FC Red U7"
     },
     {
       "id": "5e8c3cdc50278d978ad41fa412592b0c",
@@ -224,6 +198,19 @@
       "opponent": "Newark Town Titans U9"
     },
     {
+      "id": "4eb8a71358730da8d586c15b0a05e5bb",
+      "date": "2026-04-25",
+      "time": "09:45",
+      "home_team": "Collingham FC Lions U9",
+      "away_team": "Sherwood Colliery Black U9",
+      "venue": "Debdale Park & Sports Ground NG19 7NS",
+      "division": "U9 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Black U9",
+      "home_away": "away",
+      "opponent": "Collingham FC Lions U9"
+    },
+    {
       "id": "396e687854be2f818a65939e381f5c0e",
       "date": "2026-04-25",
       "time": "10:00",
@@ -328,19 +315,6 @@
       "opponent": "Long Eaton United Milan U10"
     },
     {
-      "id": "4eb8a71358730da8d586c15b0a05e5bb",
-      "date": "2026-04-25",
-      "time": "12:30",
-      "home_team": "Collingham FC Lions U9",
-      "away_team": "Sherwood Colliery Black U9",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U9 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sherwood Colliery Black U9",
-      "home_away": "away",
-      "opponent": "Collingham FC Lions U9"
-    },
-    {
       "id": "00f151f7d1f6c385c0b740d5d88a602d",
       "date": "2026-04-26",
       "time": "10:00",
@@ -434,7 +408,7 @@
     {
       "id": "8b658404769e261faf2ad880d56b6e30",
       "date": "2026-04-26",
-      "time": "10:30",
+      "time": "10:15",
       "home_team": "Langwith Whitestar U12 United",
       "away_team": "Sherwood Colliery F.C. Ladies U12 Blue",
       "venue": "Langwith Whitestar U12 United",
@@ -717,6 +691,23 @@
       "opponent": "Hilton Harriers Fire U12",
       "goals_for": 3,
       "goals_against": 2
+    },
+    {
+      "id": "af2d04ca7acdb51df2f37738e8094ffe",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Sherwood Colliery Avengers U8",
+      "away_team": "Ilkeston Town United U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Avengers U8",
+      "home_away": "home",
+      "opponent": "Ilkeston Town United U8",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "410c44d2f179cfb68db960b1e1f64034",

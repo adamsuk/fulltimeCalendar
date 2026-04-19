@@ -1,20 +1,7 @@
 {
   "club": "Silva FC",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "2909bf1f0b614e7ff17e9860f07d38f8",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "WBYFC Crusaders Red U8",
-      "away_team": "Silva FC Rushcliffe Red U8",
-      "venue": "Alford Road, NG2 6HP",
-      "division": "U8 Sat Spring 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Silva FC Rushcliffe Red U8",
-      "home_away": "away",
-      "opponent": "WBYFC Crusaders Red U8"
-    },
     {
       "id": "3e09e3de159251b566b8c05a84f62647",
       "date": "2026-04-18",
@@ -27,19 +14,6 @@
       "team": "Silva FC Rushcliffe Red U11",
       "home_away": "home",
       "opponent": "Willington FC Rams CM U11"
-    },
-    {
-      "id": "baa88826db4aafa3590b6793ce638844",
-      "date": "2026-04-18",
-      "time": "14:00",
-      "home_team": "Repton Casuals U13",
-      "away_team": "Silva FC Rushcliffe Black U13",
-      "venue": "Broomhills Lane DE65 6FS",
-      "division": "U13 Sat Spring Div 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Silva FC Rushcliffe Black U13",
-      "home_away": "away",
-      "opponent": "Repton Casuals U13"
     },
     {
       "id": "be10422d73525e197b8d02de4daf1d2f",
@@ -1109,6 +1083,23 @@
     }
   ],
   "results": [
+    {
+      "id": "baa88826db4aafa3590b6793ce638844",
+      "date": "2026-04-18",
+      "time": "14:00",
+      "home_team": "Repton Casuals U13",
+      "away_team": "Silva FC Rushcliffe Black U13",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat Spring Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Silva FC Rushcliffe Black U13",
+      "home_away": "away",
+      "opponent": "Repton Casuals U13",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "33339110d8491c6c746a479b4adcabfe",
       "date": "2026-04-18",

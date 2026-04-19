@@ -1,20 +1,7 @@
 {
   "club": "Grantham Town",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "1bdcfdb383eafc6556a9b7bf89111503",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Hucknall Town Reserves",
-      "away_team": "Grantham Town Reserves",
-      "venue": "HUCKNALL TOWN FOOTBALL CLUB",
-      "division": "NSL Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Grantham Town Reserves",
-      "home_away": "away",
-      "opponent": "Hucknall Town Reserves"
-    },
     {
       "id": "85d27a0b76e2454a8f665dd5be8a7217",
       "date": "2026-04-19",
@@ -238,6 +225,23 @@
     }
   ],
   "results": [
+    {
+      "id": "1bdcfdb383eafc6556a9b7bf89111503",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Hucknall Town Reserves",
+      "away_team": "Grantham Town Reserves",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Grantham Town Reserves",
+      "home_away": "away",
+      "opponent": "Hucknall Town Reserves",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "8cdda1622d30d16d5f19e56b462e928c",
       "date": "2026-04-18",

@@ -1,33 +1,7 @@
 {
   "club": "Meden Vale",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "ccf4ebe3a16474ebc596ff35076359a1",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Gedling Southbank United U14",
-      "away_team": "Meden Vale Colts Gold U14",
-      "venue": "Gedling Southbank FC NG4 1RL",
-      "division": "U14 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Meden Vale Colts Gold U14",
-      "home_away": "away",
-      "opponent": "Gedling Southbank United U14"
-    },
-    {
-      "id": "399d8eea03004bab6718abab15852080",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Radcliffe Olympic FC",
-      "away_team": "Meden Vale Colts FC",
-      "venue": "WHARF LANE RECREATION GROUND",
-      "division": "NSL Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Meden Vale Colts FC",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic FC"
-    },
     {
       "id": "0171caba28c7003c41dc0a99c3bc0792",
       "date": "2026-04-19",
@@ -446,6 +420,40 @@
     }
   ],
   "results": [
+    {
+      "id": "399d8eea03004bab6718abab15852080",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Radcliffe Olympic FC",
+      "away_team": "Meden Vale Colts FC",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "",
+      "division": "NSL Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Meden Vale Colts FC",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC",
+      "goals_for": 6,
+      "goals_against": 1
+    },
+    {
+      "id": "ccf4ebe3a16474ebc596ff35076359a1",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Gedling Southbank United U14",
+      "away_team": "Meden Vale Colts Gold U14",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Meden Vale Colts Gold U14",
+      "home_away": "away",
+      "opponent": "Gedling Southbank United U14",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "8d017f1b227d9727d613323d25efe95f",
       "date": "2026-04-18",

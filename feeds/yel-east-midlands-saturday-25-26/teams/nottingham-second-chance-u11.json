@@ -1,19 +1,8 @@
 {
   "team": "Nottingham Second Chance U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "8e747063797a6640cb0e772448effb1a",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Nottingham Second Chance U11",
-      "away_team": "Gedling Southbank Wolves U11",
-      "venue": "Stockhill Fire Station Park NG6 0LP",
-      "division": "U11 Sat Spring Div 7 Red",
-      "home_away": "home",
-      "opponent": "Gedling Southbank Wolves U11"
-    },
     {
       "id": "27a965875b0600e50da9364ae3822c74",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8e747063797a6640cb0e772448effb1a",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Nottingham Second Chance U11",
+      "away_team": "Gedling Southbank Wolves U11",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 7 Red",
+      "home_away": "home",
+      "opponent": "Gedling Southbank Wolves U11",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "074e1eced87bd08174097fa33bff1eab",
       "date": "2026-04-11",

@@ -1,6 +1,6 @@
 {
   "club": "Ravenshead Reds",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
     {
       "id": "22a153c2abbf9955f3c064cc27494143",
@@ -14,19 +14,6 @@
       "team": "Ravenshead Reds FC",
       "home_away": "home",
       "opponent": "Stapleford Town FC Ladies"
-    },
-    {
-      "id": "d30d7f9324d95fb80f71cd57305e0810",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Pass Move Grin Reserves",
-      "away_team": "Ravenshead Reds FC",
-      "venue": "ARNOLD HILL SCHOOL POWERLEAGUE",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Ravenshead Reds FC",
-      "home_away": "away",
-      "opponent": "Pass Move Grin Reserves"
     },
     {
       "id": "418dcfb55de876ece64baf8a1055dd98",
@@ -511,6 +498,23 @@
     }
   ],
   "results": [
+    {
+      "id": "d30d7f9324d95fb80f71cd57305e0810",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Pass Move Grin Reserves",
+      "away_team": "Ravenshead Reds FC",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ravenshead Reds FC",
+      "home_away": "away",
+      "opponent": "Pass Move Grin Reserves",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "8dca073a1ffb3e55129cbcb2c271a0fc",
       "date": "2026-04-18",

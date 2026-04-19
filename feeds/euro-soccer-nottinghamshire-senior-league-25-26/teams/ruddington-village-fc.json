@@ -1,7 +1,7 @@
 {
   "team": "Ruddington Village FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
     {
       "id": "728393015694333a48360ad5452c500b",
@@ -13,17 +13,6 @@
       "division": "Euro Soccer Premier Division",
       "home_away": "away",
       "opponent": "Southwell City Reserves"
-    },
-    {
-      "id": "79e318b387d2b639b0ce59f923b31496",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Ruddington Village FC",
-      "away_team": "Collingham FC",
-      "venue": "ELMS PARK",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "home",
-      "opponent": "Collingham FC"
     },
     {
       "id": "36f768890440b499eecd5eca02bb018a",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "79e318b387d2b639b0ce59f923b31496",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Ruddington Village FC",
+      "away_team": "Collingham FC",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "home",
+      "opponent": "Collingham FC",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "730a60b1382ae490d9f12e90e72346c4",
       "date": "2026-04-04",

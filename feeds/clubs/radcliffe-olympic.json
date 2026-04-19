@@ -1,6 +1,6 @@
 {
   "club": "Radcliffe Olympic",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
     {
       "id": "e5d78556f73c8beb876ad4111db2e5c0",
@@ -27,32 +27,6 @@
       "team": "Radcliffe Olympic FC U12 Girls Eagles",
       "home_away": "home",
       "opponent": "Keyworth United F.C. U12 Shooting Stars"
-    },
-    {
-      "id": "debcedd618e4615047ad8835f1df7d72",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic Leopards U8",
-      "away_team": "Carlton Town Golden U8",
-      "venue": "Radcliffe-on-Trent Cricket Club NG12 2DU",
-      "division": "U8 Sat Spring 6 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Radcliffe Olympic Leopards U8",
-      "home_away": "home",
-      "opponent": "Carlton Town Golden U8"
-    },
-    {
-      "id": "399d8eea03004bab6718abab15852080",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Radcliffe Olympic FC",
-      "away_team": "Meden Vale Colts FC",
-      "venue": "WHARF LANE RECREATION GROUND",
-      "division": "NSL Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Radcliffe Olympic FC",
-      "home_away": "home",
-      "opponent": "Meden Vale Colts FC"
     },
     {
       "id": "a784a5017c468c6d85a8d50aca586ec1",
@@ -707,6 +681,23 @@
   ],
   "results": [
     {
+      "id": "399d8eea03004bab6718abab15852080",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Radcliffe Olympic FC",
+      "away_team": "Meden Vale Colts FC",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "",
+      "division": "NSL Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Radcliffe Olympic FC",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts FC",
+      "goals_for": 1,
+      "goals_against": 6
+    },
+    {
       "id": "3b6dd644b46e532b821f14e142d8ba4c",
       "date": "2026-04-18",
       "time": "12:30",
@@ -824,6 +815,23 @@
       "opponent": "Bingham Town White U9",
       "goals_for": 1,
       "goals_against": 4
+    },
+    {
+      "id": "debcedd618e4615047ad8835f1df7d72",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic Leopards U8",
+      "away_team": "Carlton Town Golden U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Radcliffe Olympic Leopards U8",
+      "home_away": "home",
+      "opponent": "Carlton Town Golden U8",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "8e3caccf567ad82d539ab1d652471b44",

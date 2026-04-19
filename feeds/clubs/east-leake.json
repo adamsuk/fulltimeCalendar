@@ -1,6 +1,6 @@
 {
   "club": "East Leake",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
     {
       "id": "29aff3c032b72a5f35c9472f58ae512d",
@@ -14,19 +14,6 @@
       "team": "East Leake FC U9 Bantams Girls Red",
       "home_away": "away",
       "opponent": "West Bridgford Colts U9 Stars"
-    },
-    {
-      "id": "0fd05bcaa79520fcb28b2c1843c07563",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Nottingham Greens",
-      "away_team": "East Leake Robins Reserves",
-      "venue": "GRESHAM SPORTS PARK #1",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "East Leake Robins Reserves",
-      "home_away": "away",
-      "opponent": "Nottingham Greens"
     },
     {
       "id": "bdffb89eb6e5f81d4b3ffd80810c97a1",
@@ -641,6 +628,23 @@
     }
   ],
   "results": [
+    {
+      "id": "0fd05bcaa79520fcb28b2c1843c07563",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Nottingham Greens",
+      "away_team": "East Leake Robins Reserves",
+      "home_score": 2,
+      "away_score": 9,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "East Leake Robins Reserves",
+      "home_away": "away",
+      "opponent": "Nottingham Greens",
+      "goals_for": 9,
+      "goals_against": 2
+    },
     {
       "id": "76b7921bffa106ed71a858c147823434",
       "date": "2026-04-18",

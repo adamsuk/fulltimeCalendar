@@ -1,6 +1,6 @@
 {
   "club": "Ilkeston Town",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
     {
       "id": "940c4d131eb576b39f70d6cc694b3823",
@@ -14,32 +14,6 @@
       "team": "Ilkeston Town Juniors U15 Robins",
       "home_away": "home",
       "opponent": "Gainsborough Trinity Community FC U15"
-    },
-    {
-      "id": "af2d04ca7acdb51df2f37738e8094ffe",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Sherwood Colliery Avengers U8",
-      "away_team": "Ilkeston Town United U8",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U8 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ilkeston Town United U8",
-      "home_away": "away",
-      "opponent": "Sherwood Colliery Avengers U8"
-    },
-    {
-      "id": "c8adb79c9b6e96f4f18904e88b289775",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Ilkeston Town Valens U11",
-      "away_team": "Southwell City Tigers U11",
-      "venue": "Booths Playing Fields, Ilkeston DE7 8JF",
-      "division": "U11 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ilkeston Town Valens U11",
-      "home_away": "home",
-      "opponent": "Southwell City Tigers U11"
     },
     {
       "id": "b12a91ab9704a28f3339e0ef7b9cc0cd",
@@ -653,6 +627,40 @@
       "team": "Ilkeston Town Robins U7",
       "home_away": "home",
       "opponent": "Sandiacre Town Blue U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "af2d04ca7acdb51df2f37738e8094ffe",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Sherwood Colliery Avengers U8",
+      "away_team": "Ilkeston Town United U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ilkeston Town United U8",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery Avengers U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "c8adb79c9b6e96f4f18904e88b289775",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Valens U11",
+      "away_team": "Southwell City Tigers U11",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ilkeston Town Valens U11",
+      "home_away": "home",
+      "opponent": "Southwell City Tigers U11",
       "goals_for": null,
       "goals_against": null
     },

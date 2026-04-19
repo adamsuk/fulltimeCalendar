@@ -1,33 +1,7 @@
 {
   "club": "Nottingham Second",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "8e747063797a6640cb0e772448effb1a",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Nottingham Second Chance U11",
-      "away_team": "Gedling Southbank Wolves U11",
-      "venue": "Stockhill Fire Station Park NG6 0LP",
-      "division": "U11 Sat Spring Div 7 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Nottingham Second Chance U11",
-      "home_away": "home",
-      "opponent": "Gedling Southbank Wolves U11"
-    },
-    {
-      "id": "a948328d30226cd6a6d800171af6cd88",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Market Warsop Warriors U13",
-      "away_team": "Nottingham Second Chance U13",
-      "venue": "John Fretwell Centre NG19 8LL",
-      "division": "U13 Sat Spring Div 7 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Nottingham Second Chance U13",
-      "home_away": "away",
-      "opponent": "Market Warsop Warriors U13"
-    },
     {
       "id": "3284bef1e109c098e56ed3e061d3b1a3",
       "date": "2026-04-25",
@@ -85,6 +59,40 @@
       "opponent": "Loughborough Emmanuel U10",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "8e747063797a6640cb0e772448effb1a",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Nottingham Second Chance U11",
+      "away_team": "Gedling Southbank Wolves U11",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham Second Chance U11",
+      "home_away": "home",
+      "opponent": "Gedling Southbank Wolves U11",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
+      "id": "a948328d30226cd6a6d800171af6cd88",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Market Warsop Warriors U13",
+      "away_team": "Nottingham Second Chance U13",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham Second Chance U13",
+      "home_away": "away",
+      "opponent": "Market Warsop Warriors U13",
+      "goals_for": 1,
+      "goals_against": 1
     },
     {
       "id": "074e1eced87bd08174097fa33bff1eab",

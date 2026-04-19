@@ -1,6 +1,6 @@
 {
   "club": "Keyworth United",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
     {
       "id": "67bc4be566a984541f88c71aa3c3fc04",
@@ -68,32 +68,6 @@
       "opponent": "Calverton Miners Welfare FC"
     },
     {
-      "id": "7ab571f380d9b93c3d6dccfa9ef3c00f",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "home_team": "Keyworth United Green U7",
-      "away_team": "WBYFC Bruges White U7",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U7 Sat Spring 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Keyworth United Green U7",
-      "home_away": "home",
-      "opponent": "WBYFC Bruges White U7"
-    },
-    {
-      "id": "80410e849498b283e318f409d02710d9",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Keyworth United Green U12",
-      "away_team": "Basford United Iconz U12",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U12 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Keyworth United Green U12",
-      "home_away": "home",
-      "opponent": "Basford United Iconz U12"
-    },
-    {
       "id": "cca4f4c852cdf0940944d76791406094",
       "date": "2026-04-18",
       "time": "11:00",
@@ -105,19 +79,6 @@
       "team": "Keyworth United Red U9",
       "home_away": "away",
       "opponent": "Eastwood Athletic Trojans U9"
-    },
-    {
-      "id": "6149b001bf05ab03a166ca5ad47fbe05",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Cotgrave FC",
-      "away_team": "Keyworth United FC",
-      "venue": "COTGRAVE WELFARE CLUB #1",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Keyworth United FC",
-      "home_away": "away",
-      "opponent": "Cotgrave FC"
     },
     {
       "id": "58e917e2419044e6503d2c0af3aef2e8",
@@ -1344,6 +1305,23 @@
   ],
   "results": [
     {
+      "id": "6149b001bf05ab03a166ca5ad47fbe05",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Cotgrave FC",
+      "away_team": "Keyworth United FC",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Keyworth United FC",
+      "home_away": "away",
+      "opponent": "Cotgrave FC",
+      "goals_for": 0,
+      "goals_against": 2
+    },
+    {
       "id": "f24c7a482456c0f0e60967fd7518bd9d",
       "date": "2026-04-18",
       "time": "11:30",
@@ -1426,6 +1404,23 @@
       "home_away": "home",
       "opponent": "Nottingham FC Black U13",
       "goals_for": 0,
+      "goals_against": 3
+    },
+    {
+      "id": "80410e849498b283e318f409d02710d9",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "home_team": "Keyworth United Green U12",
+      "away_team": "Basford United Iconz U12",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Keyworth United Green U12",
+      "home_away": "home",
+      "opponent": "Basford United Iconz U12",
+      "goals_for": 1,
       "goals_against": 3
     },
     {

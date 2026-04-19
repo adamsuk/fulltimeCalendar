@@ -1,19 +1,8 @@
 {
   "team": "Wollaton FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "2dd6b8d8b51e8d7f4b060bdb7b3dc224",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Wollaton FC",
-      "away_team": "West Bridgford Reserves",
-      "venue": "WOLLATON SPORTS ASSOCIATION GROUND",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "home",
-      "opponent": "West Bridgford Reserves"
-    },
     {
       "id": "2916d0f64eede55a820fbc62eca92869",
       "date": "2026-04-25",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2dd6b8d8b51e8d7f4b060bdb7b3dc224",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Wollaton FC",
+      "away_team": "West Bridgford Reserves",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "home",
+      "opponent": "West Bridgford Reserves",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "06295defff3e8b9d51daa48c197df237",
       "date": "2026-04-14",

@@ -1,7 +1,7 @@
 {
   "team": "Pass Move Grin Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
     {
       "id": "aeff0b7aaa3e07f584218c506c17dfdd",
@@ -26,17 +26,6 @@
       "opponent": "AJ Sport F.C. Reserves"
     },
     {
-      "id": "d30d7f9324d95fb80f71cd57305e0810",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Pass Move Grin Reserves",
-      "away_team": "Ravenshead Reds FC",
-      "venue": "ARNOLD HILL SCHOOL POWERLEAGUE",
-      "division": "NSL Division Three",
-      "home_away": "home",
-      "opponent": "Ravenshead Reds FC"
-    },
-    {
       "id": "ed443212c01e93fea0973850cf01bad1",
       "date": "2026-04-25",
       "time": "15:00",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d30d7f9324d95fb80f71cd57305e0810",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Pass Move Grin Reserves",
+      "away_team": "Ravenshead Reds FC",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "home",
+      "opponent": "Ravenshead Reds FC",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "376e22da4c46d5937416042151fb660a",
       "date": "2026-04-11",

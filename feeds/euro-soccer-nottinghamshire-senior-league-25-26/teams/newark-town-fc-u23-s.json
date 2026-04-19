@@ -1,7 +1,7 @@
 {
   "team": "Newark Town FC U23's",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
     {
       "id": "fc8098c162e51af805d9f0ad00a5c2dd",
@@ -13,17 +13,6 @@
       "division": "Development Spring Division Two",
       "home_away": "away",
       "opponent": "Pegasus FC"
-    },
-    {
-      "id": "369193c259c00e50962a429ef28a06bc",
-      "date": "2026-04-18",
-      "time": "10:30",
-      "home_team": "Burton Joyce F.C. U23",
-      "away_team": "Newark Town FC U23's",
-      "venue": "POPLARS SPORTS GROUND",
-      "division": "Development Spring Division Two",
-      "home_away": "away",
-      "opponent": "Burton Joyce F.C. U23"
     },
     {
       "id": "3f6ad886a6799b1c02d2577ea3d22a67",
@@ -93,6 +82,21 @@
     }
   ],
   "results": [
+    {
+      "id": "369193c259c00e50962a429ef28a06bc",
+      "date": "2026-04-18",
+      "time": "10:30",
+      "home_team": "Burton Joyce F.C. U23",
+      "away_team": "Newark Town FC U23's",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "home_away": "away",
+      "opponent": "Burton Joyce F.C. U23",
+      "goals_for": 3,
+      "goals_against": 4
+    },
     {
       "id": "a9720f2387203afec273e701cd2452e3",
       "date": "2026-03-21",

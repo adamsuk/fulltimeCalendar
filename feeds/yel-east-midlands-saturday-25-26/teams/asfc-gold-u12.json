@@ -1,19 +1,8 @@
 {
   "team": "ASFC Gold U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "f551156aee79ebbb87bb601d786175e4",
-      "date": "2026-04-18",
-      "time": "11:30",
-      "home_team": "Basford United United U12",
-      "away_team": "ASFC Gold U12",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U12 Sat YEL Trophy",
-      "home_away": "away",
-      "opponent": "Basford United United U12"
-    },
     {
       "id": "40fe96cbb2e51e35eea70e3fb10cca85",
       "date": "2026-04-21",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f551156aee79ebbb87bb601d786175e4",
+      "date": "2026-04-18",
+      "time": "11:30",
+      "home_team": "Basford United United U12",
+      "away_team": "ASFC Gold U12",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat YEL Trophy",
+      "home_away": "away",
+      "opponent": "Basford United United U12",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "836e877e5b063f3876c05654b091af38",
       "date": "2026-03-28",

@@ -1,19 +1,8 @@
 {
   "team": "Radcliffe Olympic FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "399d8eea03004bab6718abab15852080",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Radcliffe Olympic FC",
-      "away_team": "Meden Vale Colts FC",
-      "venue": "WHARF LANE RECREATION GROUND",
-      "division": "NSL Division One",
-      "home_away": "home",
-      "opponent": "Meden Vale Colts FC"
-    },
     {
       "id": "174df51e4ac973c1365a091ceac85167",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "399d8eea03004bab6718abab15852080",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Radcliffe Olympic FC",
+      "away_team": "Meden Vale Colts FC",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "",
+      "division": "NSL Division One",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts FC",
+      "goals_for": 1,
+      "goals_against": 6
+    },
     {
       "id": "e5b4f9f5068360cff174a211efd29f2b",
       "date": "2026-04-11",

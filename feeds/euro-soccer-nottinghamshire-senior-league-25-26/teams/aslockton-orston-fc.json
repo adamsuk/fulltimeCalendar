@@ -1,19 +1,8 @@
 {
   "team": "Aslockton & Orston FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "f5a46a2ab9f8d39df1e30828e9f16f1f",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "home_team": "Arnold Town FC",
-      "away_team": "Aslockton & Orston FC",
-      "venue": "EAGLE VALLEY #1",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Arnold Town FC"
-    },
     {
       "id": "521be4d92088e53253184f3027dd024c",
       "date": "2026-04-25",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f5a46a2ab9f8d39df1e30828e9f16f1f",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Arnold Town FC",
+      "away_team": "Aslockton & Orston FC",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Arnold Town FC",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "22ce917eb72284ca0329dc6ecf3c8fda",
       "date": "2026-04-11",

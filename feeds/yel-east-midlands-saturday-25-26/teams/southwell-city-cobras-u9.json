@@ -1,19 +1,8 @@
 {
   "team": "Southwell City Cobras U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-18T13:00:10Z",
+  "generated": "2026-04-19T07:08:18Z",
   "fixtures": [
-    {
-      "id": "8bc8749d6cf30738ddf8008c04f78259",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Southwell City Cobras U9",
-      "away_team": "Hucknall Sports White U9",
-      "venue": "Southwell City FC  NG25 0JP",
-      "division": "U9 Sat Spring Div 7 Red",
-      "home_away": "home",
-      "opponent": "Hucknall Sports White U9"
-    },
     {
       "id": "a7a8252052a84b294db91362bfdc0f7d",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8bc8749d6cf30738ddf8008c04f78259",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "home_team": "Southwell City Cobras U9",
+      "away_team": "Hucknall Sports White U9",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 7 Red",
+      "home_away": "home",
+      "opponent": "Hucknall Sports White U9",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "a1908cca3700838a30315a8b391f9135",
       "date": "2026-03-28",
