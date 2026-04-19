@@ -1,6 +1,6 @@
 {
   "club": "Basford CFC",
-  "generated": "2026-04-19T07:08:18Z",
+  "generated": "2026-04-19T08:36:56Z",
   "fixtures": [
     {
       "id": "5d97f3dcc1a111b67c0db33dbcf64cb8",
@@ -16,19 +16,6 @@
       "opponent": "DLFC Lions U9"
     },
     {
-      "id": "e39c12f662d343b27b8f1fbdb64cc558",
-      "date": "2026-04-19",
-      "time": "09:30",
-      "home_team": "Stapleford Town Jaguars U10",
-      "away_team": "Basford CFC Blue U10",
-      "venue": "Hickings Lane NG9 8PG",
-      "division": "U10 Sun Spring Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "away",
-      "opponent": "Stapleford Town Jaguars U10"
-    },
-    {
       "id": "a071fb5c9a58dab700da322770fa5795",
       "date": "2026-04-19",
       "time": "10:00",
@@ -40,19 +27,6 @@
       "team": "Basford CFC Gold U8",
       "home_away": "away",
       "opponent": "Southwell City Devils U8"
-    },
-    {
-      "id": "03585626e7333125444ec3b90c4c23ef",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "Southwell City Stars U10",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U10 Sat Spring Div 2 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "Southwell City Stars U10"
     },
     {
       "id": "2b90f8cc65ee998d93a60d4dce5fc47e",
@@ -79,19 +53,6 @@
       "team": "Basford CFC Storm U11",
       "home_away": "away",
       "opponent": "Beaumont Park Panthers U11"
-    },
-    {
-      "id": "8bae4d84d63757ff7ea293c4d7d052b5",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Club FDNA Barca U10",
-      "away_team": "Basford CFC Blue U10",
-      "venue": "Bilborough College NG8 4DQ",
-      "division": "U10 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "away",
-      "opponent": "Club FDNA Barca U10"
     },
     {
       "id": "cc111ad182699c05dffe08f7a981b45d",
@@ -134,23 +95,6 @@
     }
   ],
   "results": [
-    {
-      "id": "e6f9a086571b9b2814813bd9ecc8c9e2",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "WBYFC Azzuri U10",
-      "away_team": "Basford CFC Blue U10",
-      "home_score": 0,
-      "away_score": 0,
-      "venue": "",
-      "division": "U10 Sat Spring Div 2 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "away",
-      "opponent": "WBYFC Azzuri U10",
-      "goals_for": 0,
-      "goals_against": 0
-    },
     {
       "id": "876d7a498b10e9506e9d4d076abc33df",
       "date": "2026-04-18",
@@ -203,23 +147,6 @@
       "goals_against": null
     },
     {
-      "id": "5943c2a43a90b33a521c4aad4303ac09",
-      "date": "2026-03-29",
-      "time": "11:00",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "West Hallam Allstars U10",
-      "home_score": 3,
-      "away_score": 3,
-      "venue": "",
-      "division": "U10 Sun Spring Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "West Hallam Allstars U10",
-      "goals_for": 3,
-      "goals_against": 3
-    },
-    {
       "id": "e1c212991213063bab82a233d27edd43",
       "date": "2026-03-29",
       "time": "10:00",
@@ -252,23 +179,6 @@
       "opponent": "Silva FC Rushcliffe Vipers U8",
       "goals_for": null,
       "goals_against": null
-    },
-    {
-      "id": "eeaa09c734ec546d9ea04141e04d2c7f",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "Ilkeston Town PSG U10",
-      "home_score": 2,
-      "away_score": 5,
-      "venue": "",
-      "division": "U10 Sat Spring Div 2 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "Ilkeston Town PSG U10",
-      "goals_for": 2,
-      "goals_against": 5
     },
     {
       "id": "8465556f3c1623584669cde1808812c4",
@@ -305,23 +215,6 @@
       "goals_against": 3
     },
     {
-      "id": "ccbae34cc349f7a1560928ecaedf3bec",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "home_team": "Aslockton & Orston Blue U10",
-      "away_team": "Basford CFC Blue U10",
-      "home_score": 3,
-      "away_score": 4,
-      "venue": "",
-      "division": "U10 Sun Spring Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "away",
-      "opponent": "Aslockton & Orston Blue U10",
-      "goals_for": 4,
-      "goals_against": 3
-    },
-    {
       "id": "dfdcadd9001e0917beaf74ade43cd1e3",
       "date": "2026-03-22",
       "time": "10:00",
@@ -337,23 +230,6 @@
       "opponent": "DLFC Green U8",
       "goals_for": null,
       "goals_against": null
-    },
-    {
-      "id": "274ed72243d989ebab004543a382805a",
-      "date": "2026-03-21",
-      "time": "09:30",
-      "home_team": "Keyworth United Blue U10",
-      "away_team": "Basford CFC Blue U10",
-      "home_score": 0,
-      "away_score": 1,
-      "venue": "",
-      "division": "U10 Sat Spring Div 2 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "away",
-      "opponent": "Keyworth United Blue U10",
-      "goals_for": 1,
-      "goals_against": 0
     },
     {
       "id": "84e912a8ab899042105b26c245fd1a5e",
@@ -390,23 +266,6 @@
       "goals_against": null
     },
     {
-      "id": "4df425bac41ecba5aa24007dfa299e9b",
-      "date": "2026-03-15",
-      "time": "09:45",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "Mapperley All Stars Stripes U10",
-      "home_score": 4,
-      "away_score": 2,
-      "venue": "",
-      "division": "U10 Sun Spring Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "Mapperley All Stars Stripes U10",
-      "goals_for": 4,
-      "goals_against": 2
-    },
-    {
       "id": "15dad22363d4c4008b7965a44d072911",
       "date": "2026-03-15",
       "time": "09:00",
@@ -439,40 +298,6 @@
       "opponent": "Mickleover RBL Giants U11",
       "goals_for": 4,
       "goals_against": 6
-    },
-    {
-      "id": "d7de892ec7f7e37cd9e193f8b37a9539",
-      "date": "2026-03-14",
-      "time": "09:00",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "DLFC Emerald U10",
-      "home_score": 2,
-      "away_score": 3,
-      "venue": "",
-      "division": "U10 Sat Spring Div 2 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "DLFC Emerald U10",
-      "goals_for": 2,
-      "goals_against": 3
-    },
-    {
-      "id": "3d302b9b8551913843df549a1becdda4",
-      "date": "2026-03-08",
-      "time": "12:00",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "Keyworth United White U10",
-      "home_score": 6,
-      "away_score": 0,
-      "venue": "",
-      "division": "U10 Sun Spring Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "Keyworth United White U10",
-      "goals_for": 6,
-      "goals_against": 0
     },
     {
       "id": "f692892c71c4950acd61ce12c5ee9ced",
@@ -526,40 +351,6 @@
       "goals_against": 3
     },
     {
-      "id": "0d51332704230859533cd8cfd00b6643",
-      "date": "2026-03-07",
-      "time": "09:15",
-      "home_team": "Woodthorpe Com Revolution U10",
-      "away_team": "Basford CFC Blue U10",
-      "home_score": null,
-      "away_score": null,
-      "venue": "",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "away",
-      "opponent": "Woodthorpe Com Revolution U10",
-      "goals_for": null,
-      "goals_against": null
-    },
-    {
-      "id": "fcbe753c5abbdf20d64b63823953c7ee",
-      "date": "2026-03-01",
-      "time": "11:45",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "Collingham FC Panthers U10",
-      "home_score": 2,
-      "away_score": 5,
-      "venue": "",
-      "division": "U10 Sun YEL Trophy",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "Collingham FC Panthers U10",
-      "goals_for": 2,
-      "goals_against": 5
-    },
-    {
       "id": "8635631f7c3176ac359820583b68f3e1",
       "date": "2026-03-01",
       "time": "10:00",
@@ -609,23 +400,6 @@
       "opponent": "New Tupton Ivanhoe Gold U9",
       "goals_for": 1,
       "goals_against": 2
-    },
-    {
-      "id": "e5e1c3e2b2f6b5d6f8ca60f21a2c00fc",
-      "date": "2026-02-22",
-      "time": "10:00",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "Pelican Colts U10",
-      "home_score": null,
-      "away_score": null,
-      "venue": "",
-      "division": "U10 Sun 2026 Friendly 3 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "Pelican Colts U10",
-      "goals_for": null,
-      "goals_against": null
     },
     {
       "id": "b33b17c31c9e9f1b9e3ba57fb2a03734",
@@ -679,40 +453,6 @@
       "goals_against": null
     },
     {
-      "id": "dddc066e53e4efc59ba3c72e999dbd75",
-      "date": "2026-02-15",
-      "time": "09:00",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "Keyworth United Black U10",
-      "home_score": null,
-      "away_score": null,
-      "venue": "",
-      "division": "U10 Sun 2026 Friendly 3 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "Keyworth United Black U10",
-      "goals_for": null,
-      "goals_against": null
-    },
-    {
-      "id": "2e23d2980d9e66ca2e16c8913d183d98",
-      "date": "2026-02-14",
-      "time": "09:00",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "Burton Joyce Green U10",
-      "home_score": null,
-      "away_score": null,
-      "venue": "",
-      "division": "U10 Sat Friendly 2026 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "Burton Joyce Green U10",
-      "goals_for": null,
-      "goals_against": null
-    },
-    {
       "id": "e649ea990ddc98a93f44e46b3d66ed7c",
       "date": "2026-02-07",
       "time": "10:00",
@@ -747,23 +487,6 @@
       "goals_against": null
     },
     {
-      "id": "2d44a826a714a8024be699b86f10b2ba",
-      "date": "2026-02-01",
-      "time": "09:00",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "Silva FC Southglade Black U10",
-      "home_score": 4,
-      "away_score": 0,
-      "venue": "",
-      "division": "U10 Sun YEL Trophy",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "Silva FC Southglade Black U10",
-      "goals_for": 4,
-      "goals_against": 0
-    },
-    {
       "id": "a84d5e7340ef0b44d67e5f466c6a0faf",
       "date": "2026-01-31",
       "time": "10:45",
@@ -796,40 +519,6 @@
       "opponent": "Sutton Bonington Hornets U9",
       "goals_for": null,
       "goals_against": null
-    },
-    {
-      "id": "b417cd005c84bdda160091912a285ce7",
-      "date": "2026-01-31",
-      "time": "09:45",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "Teversal FC Blue U10",
-      "home_score": null,
-      "away_score": null,
-      "venue": "",
-      "division": "U10 Sat Friendly 2026 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "Teversal FC Blue U10",
-      "goals_for": null,
-      "goals_against": null
-    },
-    {
-      "id": "31c0465c4733d95a4de88dfcf43f6032",
-      "date": "2026-01-25",
-      "time": "11:00",
-      "home_team": "Mapperley All Stars Stripes U10",
-      "away_team": "Basford CFC Blue U10",
-      "home_score": 1,
-      "away_score": 5,
-      "venue": "",
-      "division": "U10 Sun YEL Trophy",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "away",
-      "opponent": "Mapperley All Stars Stripes U10",
-      "goals_for": 5,
-      "goals_against": 1
     },
     {
       "id": "37745e3fc2bc57db104bf298f66ad905",
@@ -883,23 +572,6 @@
       "goals_against": 3
     },
     {
-      "id": "74f66a5caec5637d5add9c1959875140",
-      "date": "2026-01-24",
-      "time": "09:30",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "Club FDNA Brasilia U10",
-      "home_score": 1,
-      "away_score": 2,
-      "venue": "",
-      "division": "U10 Sat YEL Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "Club FDNA Brasilia U10",
-      "goals_for": 1,
-      "goals_against": 2
-    },
-    {
       "id": "86aabebad87c5222280bbf40be156396",
       "date": "2026-01-24",
       "time": "09:30",
@@ -913,23 +585,6 @@
       "team": "Basford CFC Iconz U9",
       "home_away": "home",
       "opponent": "Club FDNA Barca U9",
-      "goals_for": null,
-      "goals_against": null
-    },
-    {
-      "id": "a42886449416ee27f3e452491ca1712b",
-      "date": "2026-01-18",
-      "time": "10:00",
-      "home_team": "Cotgrave FC Blue U10",
-      "away_team": "Basford CFC Blue U10",
-      "home_score": null,
-      "away_score": null,
-      "venue": "",
-      "division": "U10 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "away",
-      "opponent": "Cotgrave FC Blue U10",
       "goals_for": null,
       "goals_against": null
     },
@@ -985,23 +640,6 @@
       "goals_against": 2
     },
     {
-      "id": "5a34602bc71dd37393cd586cd8a0019c",
-      "date": "2026-01-17",
-      "time": "10:00",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "Southwell City Reds U10",
-      "home_score": null,
-      "away_score": null,
-      "venue": "",
-      "division": "U10 Sat Friendly 2026 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "Southwell City Reds U10",
-      "goals_for": null,
-      "goals_against": null
-    },
-    {
       "id": "ac9b4b40fd8959f0ecdc8f47ca47df8f",
       "date": "2026-01-17",
       "time": "10:00",
@@ -1036,23 +674,6 @@
       "goals_against": 0
     },
     {
-      "id": "258d086fc828a35aa71d710f5dc4467d",
-      "date": "2025-12-14",
-      "time": "09:30",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "Melbourne Dynamo U10 Tigers",
-      "home_score": null,
-      "away_score": null,
-      "venue": "",
-      "division": "U10 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "Melbourne Dynamo U10 Tigers",
-      "goals_for": null,
-      "goals_against": null
-    },
-    {
       "id": "1e17c79f60befb8e1f8810f6e96e0f14",
       "date": "2025-12-14",
       "time": "09:30",
@@ -1066,23 +687,6 @@
       "team": "Basford CFC Gold U8",
       "home_away": "home",
       "opponent": "Eastwood CFC Eagles U8",
-      "goals_for": null,
-      "goals_against": null
-    },
-    {
-      "id": "a7f79823d20fb15a2de2a52671df0c3f",
-      "date": "2025-12-13",
-      "time": "09:30",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "Southwell City Stars U10",
-      "home_score": null,
-      "away_score": null,
-      "venue": "",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "Southwell City Stars U10",
       "goals_for": null,
       "goals_against": null
     },
@@ -1155,23 +759,6 @@
       "goals_against": 3
     },
     {
-      "id": "eb42d87a412fa8aed840a8c95390712f",
-      "date": "2025-11-30",
-      "time": "10:30",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "PMG Excel U10",
-      "home_score": 3,
-      "away_score": 1,
-      "venue": "",
-      "division": "U10 Sun Winter Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "PMG Excel U10",
-      "goals_for": 3,
-      "goals_against": 1
-    },
-    {
       "id": "ce72426eda5d8ed76da0999ba3c60794",
       "date": "2025-11-30",
       "time": "09:30",
@@ -1206,23 +793,6 @@
       "goals_against": 3
     },
     {
-      "id": "50f834af65c7a5c421c6965fad226a72",
-      "date": "2025-11-29",
-      "time": "09:30",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "Sporting Markfield U10",
-      "home_score": 3,
-      "away_score": 4,
-      "venue": "",
-      "division": "U10 Sat Winter Div 1 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "Sporting Markfield U10",
-      "goals_for": 3,
-      "goals_against": 4
-    },
-    {
       "id": "856f675a1698d49d19e5b235610472fe",
       "date": "2025-11-29",
       "time": "09:30",
@@ -1238,23 +808,6 @@
       "opponent": "WBYFC Corinthians U9",
       "goals_for": 2,
       "goals_against": 1
-    },
-    {
-      "id": "9d929bfd3098a3cd274320535c077c05",
-      "date": "2025-11-23",
-      "time": "10:00",
-      "home_team": "Cotgrave FC Claret U10",
-      "away_team": "Basford CFC Blue U10",
-      "home_score": 3,
-      "away_score": 2,
-      "venue": "",
-      "division": "U10 Sun Winter Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "away",
-      "opponent": "Cotgrave FC Claret U10",
-      "goals_for": 2,
-      "goals_against": 3
     },
     {
       "id": "0af6d7031c607e91c1bb785d14eda1d7",
@@ -1325,23 +878,6 @@
       "goals_against": null
     },
     {
-      "id": "13a9575fb554594e9e0695aec3c4e2db",
-      "date": "2025-11-22",
-      "time": "09:30",
-      "home_team": "Club FDNA Brasilia U10",
-      "away_team": "Basford CFC Blue U10",
-      "home_score": 8,
-      "away_score": 1,
-      "venue": "",
-      "division": "U10 Sat Winter Div 1 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "away",
-      "opponent": "Club FDNA Brasilia U10",
-      "goals_for": 1,
-      "goals_against": 8
-    },
-    {
       "id": "ea7225ff625f15c728a2c43c45181bbe",
       "date": "2025-11-16",
       "time": "09:30",
@@ -1374,23 +910,6 @@
       "opponent": "Club FDNA Madrid U11",
       "goals_for": 4,
       "goals_against": 3
-    },
-    {
-      "id": "6f1c38f3b3036ddd0338d1ba4780ba4f",
-      "date": "2025-11-09",
-      "time": "10:00",
-      "home_team": "Gedling Southbank Reds U10",
-      "away_team": "Basford CFC Blue U10",
-      "home_score": 5,
-      "away_score": 4,
-      "venue": "",
-      "division": "U10 Sun Winter Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "away",
-      "opponent": "Gedling Southbank Reds U10",
-      "goals_for": 4,
-      "goals_against": 5
     },
     {
       "id": "884effd00f980075abb32d40f555c740",
@@ -1427,23 +946,6 @@
       "goals_against": 2
     },
     {
-      "id": "8104e117e54a1d36e5fd84cf1255a923",
-      "date": "2025-11-08",
-      "time": "10:00",
-      "home_team": "Moorgreen Colts White U10",
-      "away_team": "Basford CFC Blue U10",
-      "home_score": 3,
-      "away_score": 2,
-      "venue": "",
-      "division": "U10 Sat Winter Div 1 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "away",
-      "opponent": "Moorgreen Colts White U10",
-      "goals_for": 2,
-      "goals_against": 3
-    },
-    {
       "id": "871be4d5d5a58200004b9c8c4ae442d6",
       "date": "2025-11-08",
       "time": "09:30",
@@ -1461,23 +963,6 @@
       "goals_against": 6
     },
     {
-      "id": "0d1457af6de5f4f7d44b0a60712c82bf",
-      "date": "2025-11-02",
-      "time": "10:00",
-      "home_team": "NG United U10",
-      "away_team": "Basford CFC Blue U10",
-      "home_score": null,
-      "away_score": null,
-      "venue": "",
-      "division": "U10 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "away",
-      "opponent": "NG United U10",
-      "goals_for": null,
-      "goals_against": null
-    },
-    {
       "id": "7c259375426e8474213961b02970f114",
       "date": "2025-11-02",
       "time": "09:30",
@@ -1493,23 +978,6 @@
       "opponent": "Radcliffe Olympic Jaguars U8",
       "goals_for": null,
       "goals_against": null
-    },
-    {
-      "id": "277a000bf6e2b7b73d89c99c2858fc7a",
-      "date": "2025-11-01",
-      "time": "10:00",
-      "home_team": "WBYFC Azzuri U10",
-      "away_team": "Basford CFC Blue U10",
-      "home_score": 0,
-      "away_score": 2,
-      "venue": "",
-      "division": "U10 Sat Winter Div 1 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "away",
-      "opponent": "WBYFC Azzuri U10",
-      "goals_for": 2,
-      "goals_against": 0
     },
     {
       "id": "e34ee453850421e396df0a1d9a23b2da",
@@ -1546,23 +1014,6 @@
       "goals_against": 2
     },
     {
-      "id": "69a8fb189a2182b611788fcf6e48f6c7",
-      "date": "2025-10-12",
-      "time": "10:00",
-      "home_team": "Stapleford Town Jaguars U10",
-      "away_team": "Basford CFC Blue U10",
-      "home_score": 1,
-      "away_score": 1,
-      "venue": "",
-      "division": "U10 Sun Winter Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "away",
-      "opponent": "Stapleford Town Jaguars U10",
-      "goals_for": 1,
-      "goals_against": 1
-    },
-    {
       "id": "b10f722818d3185f92100b29d523d54d",
       "date": "2025-10-12",
       "time": "10:00",
@@ -1578,23 +1029,6 @@
       "opponent": "DLFC Black U8",
       "goals_for": null,
       "goals_against": null
-    },
-    {
-      "id": "1bd612b2b17385a4da5e1fad0390c886",
-      "date": "2025-10-11",
-      "time": "10:00",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "Ruddington Village Black U10",
-      "home_score": 4,
-      "away_score": 10,
-      "venue": "",
-      "division": "U10 Sat Winter Div 1 Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "Ruddington Village Black U10",
-      "goals_for": 4,
-      "goals_against": 10
     },
     {
       "id": "91cd3b5d8ef81c2f67c72c823d1859bf",
@@ -1646,23 +1080,6 @@
       "opponent": "Club FDNA Munich U9",
       "goals_for": 2,
       "goals_against": 2
-    },
-    {
-      "id": "ded0a251773d74fe4379f47cd189dc8e",
-      "date": "2025-10-05",
-      "time": "10:00",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "Borrowash Youth Tigers U10",
-      "home_score": 6,
-      "away_score": 0,
-      "venue": "",
-      "division": "U10 Sun Winter Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "Borrowash Youth Tigers U10",
-      "goals_for": 6,
-      "goals_against": 0
     },
     {
       "id": "9be5c201bf5bcdec81bff0a634dc5c5a",
@@ -1733,23 +1150,6 @@
       "goals_against": null
     },
     {
-      "id": "caf30d86db35fa311c526ddf8d3afe93",
-      "date": "2025-09-28",
-      "time": "11:30",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "Borrowash Youth Tigers U10",
-      "home_score": null,
-      "away_score": null,
-      "venue": "",
-      "division": "U10 Sun Autumn Group 3 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "Borrowash Youth Tigers U10",
-      "goals_for": null,
-      "goals_against": null
-    },
-    {
       "id": "b877dd6ede5956cade710ee0736cb0dc",
       "date": "2025-09-28",
       "time": "10:00",
@@ -1763,23 +1163,6 @@
       "team": "Basford CFC Gold U8",
       "home_away": "away",
       "opponent": "Ilkeston Town Zurich U8",
-      "goals_for": null,
-      "goals_against": null
-    },
-    {
-      "id": "ca2a1df832e007fa4f7418b60d684b94",
-      "date": "2025-09-27",
-      "time": "10:00",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "Teversal FC Blue U10",
-      "home_score": null,
-      "away_score": null,
-      "venue": "",
-      "division": "U10 Sat Autumn 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "Teversal FC Blue U10",
       "goals_for": null,
       "goals_against": null
     },
@@ -1816,23 +1199,6 @@
       "opponent": "Notts Olympic FC U11",
       "goals_for": 4,
       "goals_against": 2
-    },
-    {
-      "id": "888adae8aeddabcdbd2e6ce9c66f40ef",
-      "date": "2025-09-21",
-      "time": "10:45",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "Mapperley All Stars Stripes U10",
-      "home_score": null,
-      "away_score": null,
-      "venue": "",
-      "division": "U10 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "Mapperley All Stars Stripes U10",
-      "goals_for": null,
-      "goals_against": null
     },
     {
       "id": "8c155a2fbf03f2c6648f2a4c9a5fdf1f",
@@ -1886,23 +1252,6 @@
       "goals_against": 4
     },
     {
-      "id": "fdf9652a3c6e6aeb6d182f39a88166ec",
-      "date": "2025-09-20",
-      "time": "10:00",
-      "home_team": "Hucknall Sports Black U10",
-      "away_team": "Basford CFC Blue U10",
-      "home_score": null,
-      "away_score": null,
-      "venue": "",
-      "division": "U10 Sat Autumn 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "away",
-      "opponent": "Hucknall Sports Black U10",
-      "goals_for": null,
-      "goals_against": null
-    },
-    {
       "id": "f94f416dfd2230100fe2bb24bc7c0494",
       "date": "2025-09-20",
       "time": "09:30",
@@ -1954,23 +1303,6 @@
       "goals_against": null
     },
     {
-      "id": "e3aa58d51baf73d3c2b9713b915e6678",
-      "date": "2025-09-14",
-      "time": "10:00",
-      "home_team": "Silva FC Southglade Black U10",
-      "away_team": "Basford CFC Blue U10",
-      "home_score": null,
-      "away_score": null,
-      "venue": "",
-      "division": "U10 Sun Autumn Group 3 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "away",
-      "opponent": "Silva FC Southglade Black U10",
-      "goals_for": null,
-      "goals_against": null
-    },
-    {
       "id": "1e692da063de3add1e5726a508c972a0",
       "date": "2025-09-13",
       "time": "10:00",
@@ -1988,23 +1320,6 @@
       "goals_against": 4
     },
     {
-      "id": "6f22c7f93f4fa6853a6d1a50fe2ccd45",
-      "date": "2025-09-13",
-      "time": "09:30",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "Ilkeston Town PSG U10",
-      "home_score": null,
-      "away_score": null,
-      "venue": "",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "Ilkeston Town PSG U10",
-      "goals_for": null,
-      "goals_against": null
-    },
-    {
       "id": "379818320bcedb80f7144f7684421a1b",
       "date": "2025-09-13",
       "time": "09:30",
@@ -2018,23 +1333,6 @@
       "team": "Basford CFC Iconz U9",
       "home_away": "away",
       "opponent": "Aspire FC U9",
-      "goals_for": null,
-      "goals_against": null
-    },
-    {
-      "id": "7c1bde0cb2a4eac2f2063069e6ee8de8",
-      "date": "2025-09-07",
-      "time": "10:30",
-      "home_team": "Basford CFC Blue U10",
-      "away_team": "AC United U10",
-      "home_score": null,
-      "away_score": null,
-      "venue": "",
-      "division": "U10 Sun Autumn Group 3 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "home",
-      "opponent": "AC United U10",
       "goals_for": null,
       "goals_against": null
     },
@@ -2086,23 +1384,6 @@
       "team": "Basford CFC Storm U11",
       "home_away": "away",
       "opponent": "Notts Olympic FC U11",
-      "goals_for": null,
-      "goals_against": null
-    },
-    {
-      "id": "3a400a3ba49ed5060492c91e59e34ab0",
-      "date": "2025-09-06",
-      "time": "10:00",
-      "home_team": "Woodhouse Colts United U10",
-      "away_team": "Basford CFC Blue U10",
-      "home_score": null,
-      "away_score": null,
-      "venue": "",
-      "division": "U10 Sat Autumn 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford CFC Blue U10",
-      "home_away": "away",
-      "opponent": "Woodhouse Colts United U10",
       "goals_for": null,
       "goals_against": null
     },
