@@ -1,6 +1,6 @@
 {
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-19T18:01:03Z",
+  "generated": "2026-04-20T07:49:56Z",
   "fixtures": [
     {
       "id": "67bc4be566a984541f88c71aa3c3fc04",
@@ -246,15 +246,6 @@
       "division": "U12 Div 4 P2"
     },
     {
-      "id": "bb3571f1696d37b0f3481d798f60fbda",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Clipstone Welfare Colts F.C. Youth U12",
-      "away_team": "Quarrydale United FC U12",
-      "venue": "CLIPSTONE MINERS WELFARE (THE LIDO GROUND)",
-      "division": "U12 Div 5 P2"
-    },
-    {
       "id": "b3c183a6f08136f1093d860781bf1f2b",
       "date": "2026-04-19",
       "time": "10:00",
@@ -480,13 +471,49 @@
       "division": "U12 Div 1 P2"
     },
     {
-      "id": "74891542f8ae455074197acceb08dbe6",
+      "id": "67815c80d9988f2d471c025298971436",
       "date": "2026-04-26",
-      "time": "09:45",
-      "home_team": "Arnold Eagles F.C. Girls U16 Buzzards",
-      "away_team": "Meden Vale Colts F.C. U16 Girls",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "U16 Div 2"
+      "time": "09:30",
+      "home_team": "Bagthorpe Athletic F.C. Youth U14 girls",
+      "away_team": "Hucknall & Linby Harriers FC U14",
+      "venue": "RH ACADEMY",
+      "division": "U14 Div 2 League Cup"
+    },
+    {
+      "id": "a184dcaf7190d3ff68153a167a569154",
+      "date": "2026-04-26",
+      "time": "09:30",
+      "home_team": "Canoville FC U13 FC Bulldogs",
+      "away_team": "Southwell City FC U13 All Whites",
+      "venue": "RH ACADEMY",
+      "division": "U13 (11v11) Div 1 League Cup"
+    },
+    {
+      "id": "4aee879539e634feb40f2a7fba2390db",
+      "date": "2026-04-26",
+      "time": "09:30",
+      "home_team": "Keyworth United F.C. U11 Tigers",
+      "away_team": "West Bridgford Colts U11 Hurricanes",
+      "venue": "RH ACADEMY",
+      "division": "U11 CUP 2"
+    },
+    {
+      "id": "f81c83789c6889c5f3e85ff58cdf856a",
+      "date": "2026-04-26",
+      "time": "09:30",
+      "home_team": "Market Warsop F.C. Youth U10 Lionesses",
+      "away_team": "Southwell City FC U10 Girls",
+      "venue": "RH ACADEMY",
+      "division": "U10 League Cup"
+    },
+    {
+      "id": "425d5804f79964414577cf5c0e11efe1",
+      "date": "2026-04-26",
+      "time": "09:30",
+      "home_team": "Meden Vale Colts F.C. U9 Girls",
+      "away_team": "Bingham Town F.C. U9 Girls",
+      "venue": "RH ACADEMY",
+      "division": "U9 League Cup"
     },
     {
       "id": "98a728f161959bfc635d9547d685d668",
@@ -496,15 +523,6 @@
       "away_team": "Hilton Harriers U13 Girls",
       "venue": "SANDIACRE FRIESLAND SPORTS CENTRE",
       "division": "U13 Div 1 9 v 9"
-    },
-    {
-      "id": "5f5194ee4816a2bae8ad8971fa06c188",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Arnold Eagles FC Development",
-      "away_team": "Radcliffe Olympic FC Ladies",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "Seniors Div 1"
     },
     {
       "id": "180bbd727c3b5f24e3c92b0299176bf7",
@@ -597,15 +615,6 @@
       "division": "U16 Div 3"
     },
     {
-      "id": "2c7a191f3ceeee648aef9b686ce8bfa1",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Notts County F.C. Girls U14",
-      "away_team": "Newark Town FC U15 Girls",
-      "venue": "SOUTHGLADE PARK HUB FOOTBALL CENTRE",
-      "division": "U15 Div 1"
-    },
-    {
       "id": "53fe904066630492ea6c870488e52375",
       "date": "2026-04-26",
       "time": "10:00",
@@ -683,7 +692,7 @@
       "time": "10:00",
       "home_team": "Beeston F.C. U14 Girls",
       "away_team": "Market Warsop F.C. Youth U14 Lionesses",
-      "venue": "HETLEY PEARSON RECREATION GROUND",
+      "venue": "TRENT VALE SPORTS ASSOCIATION",
       "division": "U14 Div 1"
     },
     {
@@ -720,15 +729,6 @@
       "home_team": "Nottingham F.C. Youth U14 Girls",
       "away_team": "Sherwood Colliery F.C. Ladies U14",
       "venue": "MELBOURNE PARK",
-      "division": "U14 Div 3"
-    },
-    {
-      "id": "687652115f0f66f491a2fbca9d19319d",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Riverside Junior U14 Rubies",
-      "away_team": "Gedling Southbank FC U14 Warriors",
-      "venue": "Riverside Junior U13 Rubies Girls",
       "division": "U14 Div 3"
     },
     {
@@ -811,6 +811,15 @@
       "away_team": "Basford United F.C. U13 Girls",
       "venue": "STANLEY COMMON RECREATION GROUND",
       "division": "U13 Div 3 9 v 9"
+    },
+    {
+      "id": "d1080865e99bcb235566792f3eb9c95b",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Cotgrave FC U12 Girls",
+      "away_team": "Burton Joyce F.C. Girls U12 Olympians",
+      "venue": "ARTHUR RIDLEY SPORTS GROUND",
+      "division": "U12 Div 1 P2"
     },
     {
       "id": "3854cea6f0115b595660092943747f4e",
@@ -921,51 +930,6 @@
       "division": "U7 Development"
     },
     {
-      "id": "67815c80d9988f2d471c025298971436",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Bagthorpe Athletic F.C. Youth U14 girls",
-      "away_team": "Hucknall & Linby Harriers FC U14",
-      "venue": "RH ACADEMY",
-      "division": "U14 Div 2 League Cup"
-    },
-    {
-      "id": "a184dcaf7190d3ff68153a167a569154",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Canoville FC U13 FC Bulldogs",
-      "away_team": "Southwell City FC U13 All Whites",
-      "venue": "RH ACADEMY",
-      "division": "U13 (11v11) Div 1 League Cup"
-    },
-    {
-      "id": "4aee879539e634feb40f2a7fba2390db",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Keyworth United F.C. U11 Tigers",
-      "away_team": "West Bridgford Colts U11 Hurricanes",
-      "venue": "RH ACADEMY",
-      "division": "U11 CUP 2"
-    },
-    {
-      "id": "f81c83789c6889c5f3e85ff58cdf856a",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Market Warsop F.C. Youth U10 Lionesses",
-      "away_team": "Southwell City FC U10 Girls",
-      "venue": "RH ACADEMY",
-      "division": "U10 League Cup"
-    },
-    {
-      "id": "425d5804f79964414577cf5c0e11efe1",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Meden Vale Colts F.C. U9 Girls",
-      "away_team": "Bingham Town F.C. U9 Girls",
-      "venue": "RH ACADEMY",
-      "division": "U9 League Cup"
-    },
-    {
       "id": "c31ba664ed5f991aeb8b202c4e9b5ae8",
       "date": "2026-04-26",
       "time": "10:00",
@@ -973,15 +937,6 @@
       "away_team": "Hucknall & Linby Harriers FC U9",
       "venue": "SHIREBROOK ACADEMY",
       "division": "Other Fixtures"
-    },
-    {
-      "id": "d1080865e99bcb235566792f3eb9c95b",
-      "date": "2026-04-26",
-      "time": "10:10",
-      "home_team": "Cotgrave FC U12 Girls",
-      "away_team": "Burton Joyce F.C. Girls U12 Olympians",
-      "venue": "ARTHUR RIDLEY SPORTS GROUND",
-      "division": "U12 Div 1 P2"
     },
     {
       "id": "8b658404769e261faf2ad880d56b6e30",
@@ -1047,6 +1002,15 @@
       "division": "U15 Div 3"
     },
     {
+      "id": "687652115f0f66f491a2fbca9d19319d",
+      "date": "2026-04-26",
+      "time": "10:30",
+      "home_team": "Riverside Junior U14 Rubies",
+      "away_team": "Gedling Southbank FC U14 Warriors",
+      "venue": "KIRK HALLAM PLAYING FIELDS",
+      "division": "U14 Div 3"
+    },
+    {
       "id": "e9efaa756a8062d75b6a5a7c658ba1dc",
       "date": "2026-04-26",
       "time": "10:45",
@@ -1054,6 +1018,24 @@
       "away_team": "Woodlands Women U15",
       "venue": "ALLESTREE WOODLANDS SCHOOL",
       "division": "U15 Div 2"
+    },
+    {
+      "id": "b8dce036501bb90fdbe3dae1f7e34deb",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "AFC Warriors Youth U13",
+      "away_team": "Hucknall & Linby Harriers FC U13",
+      "venue": "NEWARK ACADEMY",
+      "division": "U13 Div 2 11 v 11"
+    },
+    {
+      "id": "74891542f8ae455074197acceb08dbe6",
+      "date": "2026-04-26",
+      "time": "11:30",
+      "home_team": "Arnold Eagles F.C. Girls U16 Buzzards",
+      "away_team": "Meden Vale Colts F.C. U16 Girls",
+      "venue": "CALVERTON MINERS WELFARE TRUST",
+      "division": "U16 Div 2"
     },
     {
       "id": "8b9753985036ab652d9e0b7f320cc9c5",
@@ -1083,6 +1065,15 @@
       "division": "U14 Div 2"
     },
     {
+      "id": "5d591aa731d4e2855acd601e35dad679",
+      "date": "2026-04-26",
+      "time": "11:45",
+      "home_team": "Cotgrave FC U14 White",
+      "away_team": "Phoenix Inham FC U14 Fireflies",
+      "venue": "COTGRAVE WELFARE CLUB",
+      "division": "U14 Div 4"
+    },
+    {
       "id": "080b03d31c6231faa7f75de36f088362",
       "date": "2026-04-26",
       "time": "12:00",
@@ -1092,13 +1083,13 @@
       "division": "Seniors Div 2"
     },
     {
-      "id": "5d591aa731d4e2855acd601e35dad679",
+      "id": "2c7a191f3ceeee648aef9b686ce8bfa1",
       "date": "2026-04-26",
       "time": "12:00",
-      "home_team": "Cotgrave FC U14 White",
-      "away_team": "Phoenix Inham FC U14 Fireflies",
-      "venue": "COTGRAVE LEISURE CENTRE",
-      "division": "U14 Div 4"
+      "home_team": "Notts County F.C. Girls U14",
+      "away_team": "Newark Town FC U15 Girls",
+      "venue": "SOUTHGLADE PARK HUB FOOTBALL CENTRE",
+      "division": "U15 Div 1"
     },
     {
       "id": "30a2fb69d2b778374fabe115938ea518",
@@ -1108,15 +1099,6 @@
       "away_team": "Matlock Town Juniors U15 Girls",
       "venue": "GRESHAM SPORTS PARK",
       "division": "U15 Div 1"
-    },
-    {
-      "id": "b8dce036501bb90fdbe3dae1f7e34deb",
-      "date": "2026-04-26",
-      "time": "12:15",
-      "home_team": "AFC Warriors Youth U13",
-      "away_team": "Hucknall & Linby Harriers FC U13",
-      "venue": "NEWARK ACADEMY",
-      "division": "U13 Div 2 11 v 11"
     },
     {
       "id": "116631e76d62976997f58c9f33cb9a1e",
@@ -1139,20 +1121,11 @@
     {
       "id": "c8943f67e392d8df93bfe53e88834422",
       "date": "2026-04-26",
-      "time": "12:30",
+      "time": "13:00",
       "home_team": "Clifton All Whites U16 Girls",
       "away_team": "Heanor Town Juniors U16 Tornados",
       "venue": "RH ACADEMY",
       "division": "U16 Div 3 League Cup"
-    },
-    {
-      "id": "d79511c731ef6bcee38891366697eb83",
-      "date": "2026-04-26",
-      "time": "12:30",
-      "home_team": "Keyworth United F.C. U12 Vipers",
-      "away_team": "Radcliffe Olympic FC U12 Girls Eagles",
-      "venue": "RH ACADEMY",
-      "division": "U12 Cup 2"
     },
     {
       "id": "584b4b11e4d92730876104edb62f3e73",
@@ -1173,6 +1146,15 @@
       "division": "U14 Div 4 League Cup"
     },
     {
+      "id": "d79511c731ef6bcee38891366697eb83",
+      "date": "2026-04-26",
+      "time": "13:00",
+      "home_team": "Keyworth United F.C. U12 Vipers",
+      "away_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "venue": "RH ACADEMY",
+      "division": "U12 Cup 2"
+    },
+    {
       "id": "96352f58c724775563142052d6c60940",
       "date": "2026-04-26",
       "time": "13:30",
@@ -1180,6 +1162,15 @@
       "away_team": "Southwell City FC Ladies",
       "venue": "BRACKEN PARK (UNDERWOOD VILLA FC)",
       "division": "Seniors Div 2"
+    },
+    {
+      "id": "5f5194ee4816a2bae8ad8971fa06c188",
+      "date": "2026-04-26",
+      "time": "14:00",
+      "home_team": "Arnold Eagles FC Development",
+      "away_team": "Radcliffe Olympic FC Ladies",
+      "venue": "CALVERTON MINERS WELFARE TRUST",
+      "division": "Seniors Div 1"
     },
     {
       "id": "37d7ede49cf6b812f2edac486e425419",
@@ -1227,15 +1218,6 @@
       "division": "U15 Div 3"
     },
     {
-      "id": "1ab1ea1f301bce0102ad583351f10bc4",
-      "date": "2026-04-26",
-      "time": "14:30",
-      "home_team": "Southwell City FC U12 Swans",
-      "away_team": "Eastwood CFC U12 Girls",
-      "venue": "RH ACADEMY",
-      "division": "U12 Cup 4"
-    },
-    {
       "id": "645a9427c9028d72bdc8d138993f2819",
       "date": "2026-04-26",
       "time": "16:30",
@@ -1261,6 +1243,15 @@
       "away_team": "West Bridgford Colts U18 Rangers Girls",
       "venue": "RH ACADEMY",
       "division": "U18 Div 2 League Cup"
+    },
+    {
+      "id": "1ab1ea1f301bce0102ad583351f10bc4",
+      "date": "2026-04-26",
+      "time": "16:30",
+      "home_team": "Southwell City FC U12 Swans",
+      "away_team": "Eastwood CFC U12 Girls",
+      "venue": "RH ACADEMY",
+      "division": "U12 Cup 4"
     },
     {
       "id": "06ff050aaa3004dd7868cd1a675ba4d3",

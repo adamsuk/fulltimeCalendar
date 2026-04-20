@@ -1,6 +1,6 @@
 {
   "club": "Quarrydale",
-  "generated": "2026-04-19T18:01:03Z",
+  "generated": "2026-04-20T07:49:56Z",
   "fixtures": [
     {
       "id": "bad95032ad3ff0784b23dbd185b4e695",
@@ -14,19 +14,6 @@
       "team": "Quarrydale United U11",
       "home_away": "home",
       "opponent": "Pelican Colts U11"
-    },
-    {
-      "id": "bb3571f1696d37b0f3481d798f60fbda",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Clipstone Welfare Colts F.C. Youth U12",
-      "away_team": "Quarrydale United FC U12",
-      "venue": "CLIPSTONE MINERS WELFARE (THE LIDO GROUND)",
-      "division": "U12 Div 5 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Quarrydale United FC U12",
-      "home_away": "away",
-      "opponent": "Clipstone Welfare Colts F.C. Youth U12"
     },
     {
       "id": "7a9f8fe42a9b2868f40df4dd6dc57904",
@@ -426,6 +413,23 @@
       "opponent": "Shirebrook Rangers U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "bb3571f1696d37b0f3481d798f60fbda",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Clipstone Welfare Colts F.C. Youth U12",
+      "away_team": "Quarrydale United FC U12",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Div 5 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Quarrydale United FC U12",
+      "home_away": "away",
+      "opponent": "Clipstone Welfare Colts F.C. Youth U12",
+      "goals_for": 2,
+      "goals_against": 3
     },
     {
       "id": "e2e689fcd5a6c2ae81d5922e97ceec6e",
