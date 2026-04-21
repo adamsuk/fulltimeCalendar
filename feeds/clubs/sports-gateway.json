@@ -1,20 +1,7 @@
 {
   "club": "Sports Gateway",
-  "generated": "2026-04-20T07:49:56Z",
+  "generated": "2026-04-21T07:21:23Z",
   "fixtures": [
-    {
-      "id": "6be19606ed4d993e628d11379344a855",
-      "date": "2026-04-20",
-      "time": "18:00",
-      "home_team": "Sports Gateway Blue U11",
-      "away_team": "Ravenshead Reds Outlaws U11",
-      "venue": "Ravenshead Leisure Centre NG15 9AG",
-      "division": "U11 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sports Gateway Blue U11",
-      "home_away": "home",
-      "opponent": "Ravenshead Reds Outlaws U11"
-    },
     {
       "id": "f02773513c9517b835c5563aa7406f7f",
       "date": "2026-04-24",
@@ -68,19 +55,6 @@
       "opponent": "Keyworth United Red U12"
     },
     {
-      "id": "32dc82caf2c41bd15375d1ed8deffed2",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Mansfield Athletic U13",
-      "away_team": "Sports Gateway Phoenix U13",
-      "venue": "Unwin Road NG17 4HT",
-      "division": "U13 Sun Spring Div 5 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Sports Gateway Phoenix U13",
-      "home_away": "away",
-      "opponent": "Mansfield Athletic U13"
-    },
-    {
       "id": "fb212582c066aa28dc7365d30cbbf541",
       "date": "2026-04-26",
       "time": "10:00",
@@ -92,9 +66,52 @@
       "team": "Sports Gateway Spitfire U14",
       "home_away": "home",
       "opponent": "Clipstone WC Dynamo U14"
+    },
+    {
+      "id": "59b29e55b60a7464c7f5f61566aee364",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "Robin Hood Colts Red U13",
+      "away_team": "Sports Gateway Phoenix U13",
+      "venue": "Sherwood Fields, Edwinstowe NG21 9PW",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sports Gateway Phoenix U13",
+      "home_away": "away",
+      "opponent": "Robin Hood Colts Red U13"
+    },
+    {
+      "id": "a2b0f1bd2bd0b6ef301121bc8362f171",
+      "date": "2026-04-30",
+      "time": "18:00",
+      "home_team": "Mansfield Athletic U13",
+      "away_team": "Sports Gateway Phoenix U13",
+      "venue": "Unwin Road NG17 4HT",
+      "division": "U13 Sun Spring Div 5 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sports Gateway Phoenix U13",
+      "home_away": "away",
+      "opponent": "Mansfield Athletic U13"
     }
   ],
   "results": [
+    {
+      "id": "6be19606ed4d993e628d11379344a855",
+      "date": "2026-04-20",
+      "time": "18:00",
+      "home_team": "Sports Gateway Blue U11",
+      "away_team": "Ravenshead Reds Outlaws U11",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sports Gateway Blue U11",
+      "home_away": "home",
+      "opponent": "Ravenshead Reds Outlaws U11",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "0d40859d8a71264ebd22d58229ca02e4",
       "date": "2026-04-19",

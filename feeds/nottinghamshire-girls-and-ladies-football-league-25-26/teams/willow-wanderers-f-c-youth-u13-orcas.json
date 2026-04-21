@@ -1,19 +1,8 @@
 {
   "team": "Willow Wanderers F.C. Youth U13 Orcas",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-20T07:49:56Z",
+  "generated": "2026-04-21T07:21:23Z",
   "fixtures": [
-    {
-      "id": "1f9613fa247cdda01f7023025e865464",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Shirebrook Rangers & Juniors U13 Girls",
-      "away_team": "Willow Wanderers F.C. Youth U13 Orcas",
-      "venue": "SHIREBROOK ACADEMY",
-      "division": "U13 Div 2 11 v 11",
-      "home_away": "away",
-      "opponent": "Shirebrook Rangers & Juniors U13 Girls"
-    },
     {
       "id": "acc0c208b3a6359004a94e970f5a0b41",
       "date": "2026-04-26",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "1f9613fa247cdda01f7023025e865464",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers & Juniors U13 Girls",
+      "away_team": "Willow Wanderers F.C. Youth U13 Orcas",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U13 Div 2 11 v 11",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers & Juniors U13 Girls",
+      "goals_for": 5,
+      "goals_against": 0
+    },
     {
       "id": "f5dff237b9c32e20d08b6a1444cc39e0",
       "date": "2026-04-12",

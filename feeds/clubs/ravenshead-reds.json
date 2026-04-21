@@ -1,6 +1,6 @@
 {
   "club": "Ravenshead Reds",
-  "generated": "2026-04-20T07:49:56Z",
+  "generated": "2026-04-21T07:21:23Z",
   "fixtures": [
     {
       "id": "22a153c2abbf9955f3c064cc27494143",
@@ -42,22 +42,9 @@
       "opponent": "Pelican Colts FC Ladies"
     },
     {
-      "id": "6be19606ed4d993e628d11379344a855",
-      "date": "2026-04-20",
-      "time": "18:00",
-      "home_team": "Sports Gateway Blue U11",
-      "away_team": "Ravenshead Reds Outlaws U11",
-      "venue": "Ravenshead Leisure Centre NG15 9AG",
-      "division": "U11 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ravenshead Reds Outlaws U11",
-      "home_away": "away",
-      "opponent": "Sports Gateway Blue U11"
-    },
-    {
       "id": "4f3c1fc7b7fa6c299890caaa067c2c8a",
       "date": "2026-04-22",
-      "time": "10:00",
+      "time": "18:30",
       "home_team": "Shirebrook Rangers & Juniors U14 Girls",
       "away_team": "Ravenshead Reds F.C. Youth U14",
       "venue": "SHIREBROOK ACADEMY",
@@ -198,6 +185,19 @@
       "opponent": "Shirebrook Rangers U12"
     },
     {
+      "id": "d83fd622a36466d59cde0e9b38038b60",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Ravenshead Reds F.C. Youth U12",
+      "away_team": "Clipstone Welfare Colts F.C. Youth U12",
+      "venue": "Ravenshead Reds F.C. Youth U12 (SUN) GIR",
+      "division": "U12 Div 5 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ravenshead Reds F.C. Youth U12",
+      "home_away": "home",
+      "opponent": "Clipstone Welfare Colts F.C. Youth U12"
+    },
+    {
       "id": "28fc28f2fda022b62ea7b7585e6cced3",
       "date": "2026-04-26",
       "time": "10:15",
@@ -250,17 +250,17 @@
       "opponent": "West Bridgford Colts U18 Rangers Girls"
     },
     {
-      "id": "f86a3ca64250f6c7159e84019fff1678",
+      "id": "f995f0e24cf15a6cb7876a2d259ef049",
       "date": "2026-05-03",
       "time": "10:00",
-      "home_team": "Quarrydale United FC U12",
+      "home_team": "Tansley Juniors U12 Girls",
       "away_team": "Ravenshead Reds F.C. Youth U12",
-      "venue": "Quarrydale United FC U12 Quarrydale Unit",
+      "venue": "THE FETE FIELD",
       "division": "U12 Div 5 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Ravenshead Reds F.C. Youth U12",
       "home_away": "away",
-      "opponent": "Quarrydale United FC U12"
+      "opponent": "Tansley Juniors U12 Girls"
     },
     {
       "id": "f38bb7c1693f6f03ec6caea3c4ccb1e7",
@@ -302,19 +302,6 @@
       "opponent": "Beeston FC Women"
     },
     {
-      "id": "78c1c99de53982feab578bb5442567a5",
-      "date": "2026-05-17",
-      "time": "10:00",
-      "home_team": "Ravenshead Reds F.C. Youth U12",
-      "away_team": "Clipstone Welfare Colts F.C. Youth U12",
-      "venue": "Ravenshead Reds F.C. Youth U12 (SUN) GIR",
-      "division": "U12 Div 5 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ravenshead Reds F.C. Youth U12",
-      "home_away": "home",
-      "opponent": "Clipstone Welfare Colts F.C. Youth U12"
-    },
-    {
       "id": "84bcad126dacc68c5c6d3b59bca8f455",
       "date": "2026-05-17",
       "time": "10:00",
@@ -328,17 +315,17 @@
       "opponent": "Arnold Eagles F.C. Girls U14 Hurricanes"
     },
     {
-      "id": "801ed962ed7e7c72d2f2993fa4958835",
+      "id": "cb9ed40a25a60d87a9cfa9f018f70b5b",
       "date": "2026-05-24",
       "time": "10:00",
-      "home_team": "Tansley Juniors U12 Girls",
+      "home_team": "Quarrydale United FC U12",
       "away_team": "Ravenshead Reds F.C. Youth U12",
-      "venue": "THE FETE FIELD",
+      "venue": "Quarrydale United FC U12 Quarrydale Unit",
       "division": "U12 Div 5 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Ravenshead Reds F.C. Youth U12",
       "home_away": "away",
-      "opponent": "Tansley Juniors U12 Girls"
+      "opponent": "Quarrydale United FC U12"
     },
     {
       "id": "9120eb74d2f5be1ca50525d169b4e70f",
@@ -368,6 +355,23 @@
     }
   ],
   "results": [
+    {
+      "id": "6be19606ed4d993e628d11379344a855",
+      "date": "2026-04-20",
+      "time": "18:00",
+      "home_team": "Sports Gateway Blue U11",
+      "away_team": "Ravenshead Reds Outlaws U11",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ravenshead Reds Outlaws U11",
+      "home_away": "away",
+      "opponent": "Sports Gateway Blue U11",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "4b305333cbf865274111cc4eebd95197",
       "date": "2026-04-19",

@@ -1,20 +1,7 @@
 {
   "club": "Beeston",
-  "generated": "2026-04-20T07:49:56Z",
+  "generated": "2026-04-21T07:21:23Z",
   "fixtures": [
-    {
-      "id": "b1277173fb83cae9ae0911c9bf2191d6",
-      "date": "2026-04-15",
-      "time": "18:00",
-      "home_team": "Beeston F.C. U15 Girls Sun",
-      "away_team": "Burton Joyce F.C. Girls U15 Green",
-      "venue": "TRENT VALE SPORTS ASSOCIATION",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Beeston F.C. U15 Girls Sun",
-      "home_away": "home",
-      "opponent": "Burton Joyce F.C. Girls U15 Green"
-    },
     {
       "id": "36f768890440b499eecd5eca02bb018a",
       "date": "2026-04-21",
@@ -133,6 +120,19 @@
       "opponent": "Southwell City Development"
     },
     {
+      "id": "670d3b5fa7029f9ed20210479cb35b84",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Beeston FC Black U13",
+      "away_team": "Silva FC Southglade Grey U13",
+      "venue": "Trent Vale Sports Ground NG9 1ND",
+      "division": "U13 Sun Spring Div 4 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Beeston FC Black U13",
+      "home_away": "home",
+      "opponent": "Silva FC Southglade Grey U13"
+    },
+    {
       "id": "e040eaa25279ed53bd9787e2d4264f02",
       "date": "2026-04-26",
       "time": "10:00",
@@ -211,19 +211,6 @@
       "opponent": "WBYFC Rapids U11"
     },
     {
-      "id": "670d3b5fa7029f9ed20210479cb35b84",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Beeston FC Black U13",
-      "away_team": "Silva FC Southglade Grey U13",
-      "venue": "Trent Vale Sports Ground NG9 1ND",
-      "division": "U13 Sun Spring Div 4 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Beeston FC Black U13",
-      "home_away": "home",
-      "opponent": "Silva FC Southglade Grey U13"
-    },
-    {
       "id": "0c26c6c7a3b0a23204d47fd937e06799",
       "date": "2026-04-26",
       "time": "11:00",
@@ -239,10 +226,10 @@
     {
       "id": "a63a70c82341ffc6b7dc93481e05e7ad",
       "date": "2026-04-26",
-      "time": "11:40",
+      "time": "12:00",
       "home_team": "Ilkeston Town Panthers U13",
       "away_team": "Beeston FC Orange U13",
-      "venue": "Booths Playing Fields DE7 8JF",
+      "venue": "Trent Vale Sports Ground NG9 1ND",
       "division": "U13 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Beeston FC Orange U13",
@@ -328,17 +315,17 @@
       "opponent": "Market Warsop F.C. Youth U14 Lionesses"
     },
     {
-      "id": "527c9dc1a4ebc583db11c0f69c9ecce8",
+      "id": "82fa2489bd2e9ff2c9f3900f09453baa",
       "date": "2026-05-03",
       "time": "10:00",
       "home_team": "Beeston F.C. U15 Girls Sun",
-      "away_team": "Southwell City FC U15 Girls",
+      "away_team": "Barlborough Juniors U15 Lionesses",
       "venue": "TRENT VALE SPORTS ASSOCIATION",
       "division": "U15 Div 3",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Beeston F.C. U15 Girls Sun",
       "home_away": "home",
-      "opponent": "Southwell City FC U15 Girls"
+      "opponent": "Barlborough Juniors U15 Lionesses"
     },
     {
       "id": "7ac47dc06410504a756920e99443f66e",
@@ -367,30 +354,30 @@
       "opponent": "Holy Spirit Celtic FC U15"
     },
     {
-      "id": "88ba79be24321cbb9457490a0598aefe",
+      "id": "5a9a040007075f03d90b9dfd8dd87b81",
       "date": "2026-05-10",
       "time": "10:00",
       "home_team": "Beeston F.C. U14 Girls",
-      "away_team": "Mansfield Town F.C. Girls U14",
+      "away_team": "Stanton Ilkeston U14",
       "venue": "TRENT VALE SPORTS ASSOCIATION",
       "division": "U14 Div 1",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Beeston F.C. U14 Girls",
       "home_away": "home",
-      "opponent": "Mansfield Town F.C. Girls U14"
+      "opponent": "Stanton Ilkeston U14"
     },
     {
-      "id": "8bc45d898caf4026558eab9dc612d378",
+      "id": "91d26b227d70777951301734445e75fa",
       "date": "2026-05-10",
       "time": "10:00",
       "home_team": "Beeston F.C. U15 Girls Sun",
-      "away_team": "Barlborough Juniors U15 Lionesses",
+      "away_team": "Southwell City FC U15 Girls",
       "venue": "TRENT VALE SPORTS ASSOCIATION",
       "division": "U15 Div 3",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Beeston F.C. U15 Girls Sun",
       "home_away": "home",
-      "opponent": "Barlborough Juniors U15 Lionesses"
+      "opponent": "Southwell City FC U15 Girls"
     },
     {
       "id": "05c29d667278832aa8605b534cddf34d",
@@ -419,17 +406,30 @@
       "opponent": "Ravenshead Reds FC"
     },
     {
-      "id": "bfc4040c25f5875c6beb5a907ae916ca",
+      "id": "11551f189e64f0e0d3f8b5c1163edc37",
       "date": "2026-05-17",
       "time": "10:00",
       "home_team": "Beeston F.C. U14 Girls",
-      "away_team": "Stanton Ilkeston U14",
+      "away_team": "Mansfield Town F.C. Girls U14",
       "venue": "TRENT VALE SPORTS ASSOCIATION",
       "division": "U14 Div 1",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Beeston F.C. U14 Girls",
       "home_away": "home",
-      "opponent": "Stanton Ilkeston U14"
+      "opponent": "Mansfield Town F.C. Girls U14"
+    },
+    {
+      "id": "d3d4dcbfd44a24079ab1cbf81d6a8926",
+      "date": "2026-05-17",
+      "time": "10:00",
+      "home_team": "Beeston F.C. U15 Girls Sun",
+      "away_team": "Burton Joyce F.C. Girls U15 Green",
+      "venue": "TRENT VALE SPORTS ASSOCIATION",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Beeston F.C. U15 Girls Sun",
+      "home_away": "home",
+      "opponent": "Burton Joyce F.C. Girls U15 Green"
     }
   ],
   "results": [

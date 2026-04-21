@@ -1,19 +1,8 @@
 {
   "team": "Willow Wanderers Bulldogs U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-20T07:49:56Z",
+  "generated": "2026-04-21T07:21:23Z",
   "fixtures": [
-    {
-      "id": "8095a80c2c3e1b957c9704b28ef9868b",
-      "date": "2026-04-20",
-      "time": "18:30",
-      "home_team": "Cotgrave FC Blue U14",
-      "away_team": "Willow Wanderers Bulldogs U14",
-      "venue": "Cotgrave Welfare NG12 3PJ",
-      "division": "U14 Sun Spring Div 1 Gold",
-      "home_away": "away",
-      "opponent": "Cotgrave FC Blue U14"
-    },
     {
       "id": "d060781961cae5f96a0ccea207ebb27a",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8095a80c2c3e1b957c9704b28ef9868b",
+      "date": "2026-04-20",
+      "time": "18:30",
+      "home_team": "Cotgrave FC Blue U14",
+      "away_team": "Willow Wanderers Bulldogs U14",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Sun Spring Div 1 Gold",
+      "home_away": "away",
+      "opponent": "Cotgrave FC Blue U14",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "8608b8d44e016c19f9a33c4141981343",
       "date": "2026-03-22",

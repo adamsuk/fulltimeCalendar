@@ -1,45 +1,49 @@
 {
   "team": "Bingham Town F.C. U15 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-20T07:49:56Z",
+  "generated": "2026-04-21T07:21:23Z",
   "fixtures": [
     {
-      "id": "00b892d801d2dfcf9111f97f9e254d0c",
-      "date": "2026-04-15",
-      "time": "18:00",
+      "id": "e9ff96b901b55a4c3689b404a077d303",
+      "date": "2026-04-26",
+      "time": "12:30",
       "home_team": "Priory Celtic F.C. U15 Girls",
       "away_team": "Bingham Town F.C. U15 Girls",
-      "venue": "THE KIMBERLEY SCHOOL",
+      "venue": "DIGBY STREET PITCH",
       "division": "U15 Div 2",
       "home_away": "away",
       "opponent": "Priory Celtic F.C. U15 Girls"
-    },
+    }
+  ],
+  "results": [
     {
       "id": "50f99182e36fd4852a35958f961d70be",
       "date": "2026-04-19",
       "time": "10:45",
       "home_team": "Woodlands Women U15",
       "away_team": "Bingham Town F.C. U15 Girls",
-      "venue": "BUTT FIELD SPORTS CLUB",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
       "division": "U15 Div 2",
       "home_away": "away",
-      "opponent": "Woodlands Women U15"
-    }
-  ],
-  "results": [
+      "opponent": "Woodlands Women U15",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "dda9b03ad1c1a0682d5834a2484fd0f3",
       "date": "2026-04-19",
       "time": "10:00",
       "home_team": "Bingham Town F.C. U15 Girls",
       "away_team": "Woodlands Women U15",
-      "home_score": 3,
+      "home_score": 2,
       "away_score": 2,
       "venue": "",
       "division": "U15 Div 2",
       "home_away": "home",
       "opponent": "Woodlands Women U15",
-      "goals_for": 3,
+      "goals_for": 2,
       "goals_against": 2
     },
     {

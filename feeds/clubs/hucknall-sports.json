@@ -1,6 +1,6 @@
 {
   "club": "Hucknall Sports",
-  "generated": "2026-04-20T07:49:56Z",
+  "generated": "2026-04-21T07:21:23Z",
   "fixtures": [
     {
       "id": "f964fca89de2a131ffecb6099d192f6e",
@@ -60,7 +60,7 @@
       "time": "10:00",
       "home_team": "Hucknall Sports Red U11",
       "away_team": "DLFC Green U11",
-      "venue": "Goosedale Sports Club NG6 8UJ",
+      "venue": "Engine Rooms NG15 6EP",
       "division": "U11 Sat Spring Div 8",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Hucknall Sports Red U11",
@@ -118,19 +118,6 @@
       "team": "Hucknall Sports Red U9",
       "home_away": "away",
       "opponent": "Heanor Juniors F C U9 Eagles"
-    },
-    {
-      "id": "fa0cb8f971bee3049a3dce8cb73f17bf",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Burton Joyce Blue U10",
-      "away_team": "Hucknall Sports White U10",
-      "venue": "The Poplars, Burton Joyce  NG14 5AN",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Hucknall Sports White U10",
-      "home_away": "away",
-      "opponent": "Burton Joyce Blue U10"
     },
     {
       "id": "4451a8c02499fc59cdec92ea7188bdff",
@@ -211,6 +198,19 @@
       "opponent": "Radcliffe Olympic Red U13"
     },
     {
+      "id": "fa0cb8f971bee3049a3dce8cb73f17bf",
+      "date": "2026-04-25",
+      "time": "11:15",
+      "home_team": "Burton Joyce Blue U10",
+      "away_team": "Hucknall Sports White U10",
+      "venue": "The Poplars, Burton Joyce  NG14 5AN",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hucknall Sports White U10",
+      "home_away": "away",
+      "opponent": "Burton Joyce Blue U10"
+    },
+    {
       "id": "ead36796e5a1ac5435876d9352cfb041",
       "date": "2026-04-26",
       "time": "09:30",
@@ -289,19 +289,6 @@
       "opponent": "Canoville FC U10 FC Gold"
     },
     {
-      "id": "f91eaae87dcfa5d4b67006d8308c2e72",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Hucknall Sports Red U13",
-      "away_team": "DLFC Orange U13",
-      "venue": "Goosedale Sport Club NG6 8UJ",
-      "division": "U13 Sun Spring Div 5 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Hucknall Sports Red U13",
-      "home_away": "home",
-      "opponent": "DLFC Orange U13"
-    },
-    {
       "id": "01a818d7bff633658adc3b4781fa2f29",
       "date": "2026-04-26",
       "time": "11:00",
@@ -313,6 +300,19 @@
       "team": "Hucknall Sports White U13",
       "home_away": "away",
       "opponent": "East Leake Bantams Red U13"
+    },
+    {
+      "id": "f91eaae87dcfa5d4b67006d8308c2e72",
+      "date": "2026-04-26",
+      "time": "12:00",
+      "home_team": "Hucknall Sports Red U13",
+      "away_team": "DLFC Orange U13",
+      "venue": "Goosedale Sport Club NG6 8UJ",
+      "division": "U13 Sun Spring Div 5 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Hucknall Sports Red U13",
+      "home_away": "home",
+      "opponent": "DLFC Orange U13"
     },
     {
       "id": "6335db6a2f8f2ad6d002bb69703bd805",

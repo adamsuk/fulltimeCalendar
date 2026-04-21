@@ -1,6 +1,6 @@
 {
   "club": "WBYFC",
-  "generated": "2026-04-20T07:49:56Z",
+  "generated": "2026-04-21T07:21:23Z",
   "fixtures": [
     {
       "id": "ce8e72740da3bb83e538e35d59e5d3ed",
@@ -92,6 +92,19 @@
       "team": "WBYFC Azzuri U10",
       "home_away": "away",
       "opponent": "PMG Excel U10"
+    },
+    {
+      "id": "5bdab8268b326567fa808ce2b87d685c",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "WBYFC Bohemians U11",
+      "away_team": "Beaumont Park Jaguars U11",
+      "venue": "Riverside Complex NG7 2SA",
+      "division": "U11 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Bohemians U11",
+      "home_away": "home",
+      "opponent": "Beaumont Park Jaguars U11"
     },
     {
       "id": "2a411d5ac24a370fe386613bd18a7bee",
@@ -378,19 +391,6 @@
       "team": "WBYFC Apollo U13",
       "home_away": "away",
       "opponent": "Ashby United Mavericks U13"
-    },
-    {
-      "id": "5bdab8268b326567fa808ce2b87d685c",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "WBYFC Bohemians U11",
-      "away_team": "Beaumont Park Jaguars U11",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U11 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "WBYFC Bohemians U11",
-      "home_away": "home",
-      "opponent": "Beaumont Park Jaguars U11"
     },
     {
       "id": "af80a36f92eeafadc3ee92151c006f4f",
@@ -938,7 +938,7 @@
       "time": "10:00",
       "home_team": "WBYFC Copa U12",
       "away_team": "PMG Excel U12",
-      "home_score": 2,
+      "home_score": 3,
       "away_score": 1,
       "venue": "",
       "division": "U12 Sun Spring Div 1 Silver",
@@ -946,7 +946,7 @@
       "team": "WBYFC Copa U12",
       "home_away": "home",
       "opponent": "PMG Excel U12",
-      "goals_for": 2,
+      "goals_for": 3,
       "goals_against": 1
     },
     {

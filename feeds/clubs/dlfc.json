@@ -1,6 +1,6 @@
 {
   "club": "DLFC",
-  "generated": "2026-04-20T07:49:56Z",
+  "generated": "2026-04-21T07:21:23Z",
   "fixtures": [
     {
       "id": "5d97f3dcc1a111b67c0db33dbcf64cb8",
@@ -42,25 +42,12 @@
       "opponent": "East Leake Bantams Black U14"
     },
     {
-      "id": "bc42f6f75bfde78467f9d7f0441d40a7",
-      "date": "2026-04-20",
-      "time": "18:00",
-      "home_team": "DLFC Red U9",
-      "away_team": "Underwood Villa Tigres U9",
-      "venue": "Mellish Sports Centre  NG6 9FH",
-      "division": "U9 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Red U9",
-      "home_away": "home",
-      "opponent": "Underwood Villa Tigres U9"
-    },
-    {
       "id": "a90eb19de0addefffb24b2f6f426c608",
       "date": "2026-04-21",
       "time": "18:00",
       "home_team": "Radcliffe Olympic Blue U11",
       "away_team": "DLFC Green U11",
-      "venue": "Radcliffe-on-Trent Cricket Club NG12 2DU",
+      "venue": "Bingham Road NG12 2GP",
       "division": "U11 Sat Spring Div 8",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "DLFC Green U11",
@@ -229,7 +216,7 @@
       "time": "10:00",
       "home_team": "Hucknall Sports Red U11",
       "away_team": "DLFC Green U11",
-      "venue": "Goosedale Sports Club NG6 8UJ",
+      "venue": "Engine Rooms NG15 6EP",
       "division": "U11 Sat Spring Div 8",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "DLFC Green U11",
@@ -692,19 +679,6 @@
       "opponent": "Ollerton Town U12"
     },
     {
-      "id": "f91eaae87dcfa5d4b67006d8308c2e72",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Hucknall Sports Red U13",
-      "away_team": "DLFC Orange U13",
-      "venue": "Goosedale Sport Club NG6 8UJ",
-      "division": "U13 Sun Spring Div 5 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Orange U13",
-      "home_away": "away",
-      "opponent": "Hucknall Sports Red U13"
-    },
-    {
       "id": "8172ce49d7bed51b99104bbe732b4d1f",
       "date": "2026-04-26",
       "time": "11:00",
@@ -742,6 +716,19 @@
       "team": "DLFC Black U12",
       "home_away": "away",
       "opponent": "Sandiacre Town Cyclones U12"
+    },
+    {
+      "id": "f91eaae87dcfa5d4b67006d8308c2e72",
+      "date": "2026-04-26",
+      "time": "12:00",
+      "home_team": "Hucknall Sports Red U13",
+      "away_team": "DLFC Orange U13",
+      "venue": "Goosedale Sport Club NG6 8UJ",
+      "division": "U13 Sun Spring Div 5 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "DLFC Orange U13",
+      "home_away": "away",
+      "opponent": "Hucknall Sports Red U13"
     },
     {
       "id": "c215e29e80d48ae4b07bc5df6262f835",
@@ -849,6 +836,23 @@
     }
   ],
   "results": [
+    {
+      "id": "bc42f6f75bfde78467f9d7f0441d40a7",
+      "date": "2026-04-20",
+      "time": "18:00",
+      "home_team": "DLFC Red U9",
+      "away_team": "Underwood Villa Tigres U9",
+      "home_score": 3,
+      "away_score": 6,
+      "venue": "",
+      "division": "U9 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Red U9",
+      "home_away": "home",
+      "opponent": "Underwood Villa Tigres U9",
+      "goals_for": 3,
+      "goals_against": 6
+    },
     {
       "id": "de81843c5d0cce5d5cc9bf5965a84e05",
       "date": "2026-04-19",

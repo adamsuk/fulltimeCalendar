@@ -1,19 +1,8 @@
 {
   "team": "Stapleford Town FC U15 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-20T07:49:56Z",
+  "generated": "2026-04-21T07:21:23Z",
   "fixtures": [
-    {
-      "id": "20685b864d7ec4c63de4fe108d27a608",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Burton Joyce F.C. Girls U15 Green",
-      "away_team": "Stapleford Town FC U15 Girls",
-      "venue": "POPLARS SPORTS GROUND",
-      "division": "U15 Div 3",
-      "home_away": "away",
-      "opponent": "Burton Joyce F.C. Girls U15 Green"
-    },
     {
       "id": "cf27f7beaefe1f497588c5209ddd5705",
       "date": "2026-04-26",
@@ -26,30 +15,8 @@
       "opponent": "Retford FC Juniors U15 GIRLS"
     },
     {
-      "id": "baabfaf5a41e71ecda13fc6afda6bc9f",
-      "date": "2026-04-26",
-      "time": "10:30",
-      "home_team": "Stapleford Town FC U15 Girls",
-      "away_team": "Retford FC Juniors U15 GIRLS",
-      "venue": "STAPLEFORD COMMUNITY PAVILION",
-      "division": "U15 Div 3",
-      "home_away": "home",
-      "opponent": "Retford FC Juniors U15 GIRLS"
-    },
-    {
-      "id": "d429f244a9cb6f47d53f6450587139e1",
-      "date": "2026-04-26",
-      "time": "14:00",
-      "home_team": "Barlborough Juniors U15 Lionesses",
-      "away_team": "Stapleford Town FC U15 Girls",
-      "venue": "BARLBOROUGH COUNTRY PARK",
-      "division": "U15 Div 3",
-      "home_away": "away",
-      "opponent": "Barlborough Juniors U15 Lionesses"
-    },
-    {
-      "id": "aa9796880b405fa333dbee4167130344",
-      "date": "2026-05-10",
+      "id": "22f13d8e0657f9f0c8eeb56d3d69efef",
+      "date": "2026-05-03",
       "time": "10:00",
       "home_team": "Holy Spirit Celtic FC U15",
       "away_team": "Stapleford Town FC U15 Girls",
@@ -59,8 +26,8 @@
       "opponent": "Holy Spirit Celtic FC U15"
     },
     {
-      "id": "603b25903286735354f0459da8639b68",
-      "date": "2026-05-17",
+      "id": "ad2bf85d613b925007df1cd3a0a460ba",
+      "date": "2026-05-10",
       "time": "10:00",
       "home_team": "Stapleford Town FC U15 Girls",
       "away_team": "Arnold Eagles F.C. Girls U15 Avengers",
@@ -68,6 +35,39 @@
       "division": "U15 Div 3",
       "home_away": "home",
       "opponent": "Arnold Eagles F.C. Girls U15 Avengers"
+    },
+    {
+      "id": "d8629295013564e0bfa4bdb2ca1acf82",
+      "date": "2026-05-17",
+      "time": "14:00",
+      "home_team": "Barlborough Juniors U15 Lionesses",
+      "away_team": "Stapleford Town FC U15 Girls",
+      "venue": "BARLBOROUGH COUNTRY PARK",
+      "division": "U15 Div 3",
+      "home_away": "away",
+      "opponent": "Barlborough Juniors U15 Lionesses"
+    },
+    {
+      "id": "6518aad3fd72fee0bb13078f51c1697d",
+      "date": "2026-05-24",
+      "time": "10:00",
+      "home_team": "Stapleford Town FC U15 Girls",
+      "away_team": "Retford FC Juniors U15 GIRLS",
+      "venue": "STAPLEFORD COMMUNITY PAVILION",
+      "division": "U15 Div 3",
+      "home_away": "home",
+      "opponent": "Retford FC Juniors U15 GIRLS"
+    },
+    {
+      "id": "7fabe4c987bc5a83caf486777befecda",
+      "date": "2026-05-31",
+      "time": "10:00",
+      "home_team": "Burton Joyce F.C. Girls U15 Green",
+      "away_team": "Stapleford Town FC U15 Girls",
+      "venue": "POPLARS SPORTS GROUND",
+      "division": "U15 Div 3",
+      "home_away": "away",
+      "opponent": "Burton Joyce F.C. Girls U15 Green"
     }
   ],
   "results": [

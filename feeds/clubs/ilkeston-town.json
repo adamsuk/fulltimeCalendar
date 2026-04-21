@@ -1,20 +1,7 @@
 {
   "club": "Ilkeston Town",
-  "generated": "2026-04-20T07:49:56Z",
+  "generated": "2026-04-21T07:21:23Z",
   "fixtures": [
-    {
-      "id": "940c4d131eb576b39f70d6cc694b3823",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Ilkeston Town Juniors U15 Robins",
-      "away_team": "Gainsborough Trinity Community FC U15",
-      "venue": "ILKESTON TOWN FOOTBALL CLUB",
-      "division": "U15 Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ilkeston Town Juniors U15 Robins",
-      "home_away": "home",
-      "opponent": "Gainsborough Trinity Community FC U15"
-    },
     {
       "id": "575aa411f54bb9077f77d644411f2ff5",
       "date": "2026-04-19",
@@ -107,6 +94,19 @@
       "opponent": "Tibshelf Community U10"
     },
     {
+      "id": "ac1077a78be3198f97dd4c3a89b2ab5a",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Littleover Dazzlers U12",
+      "away_team": "Ilkeston Town Robins U12",
+      "venue": "Bemrose School DE223HU",
+      "division": "U12 Sat Spring Div 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ilkeston Town Robins U12",
+      "home_away": "away",
+      "opponent": "Littleover Dazzlers U12"
+    },
+    {
       "id": "df97cdc64a0148a984faa68593ab9b77",
       "date": "2026-04-25",
       "time": "10:00",
@@ -157,19 +157,6 @@
       "team": "Ilkeston Town Dragons U13",
       "home_away": "home",
       "opponent": "Muskham Cougars U13"
-    },
-    {
-      "id": "ac1077a78be3198f97dd4c3a89b2ab5a",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Littleover Dazzlers U12",
-      "away_team": "Ilkeston Town Robins U12",
-      "venue": "Bemrose School DE223HU",
-      "division": "U12 Sat Spring Div 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ilkeston Town Robins U12",
-      "home_away": "away",
-      "opponent": "Littleover Dazzlers U12"
     },
     {
       "id": "88db22f602709ea7484165fed1e242a3",
@@ -276,12 +263,25 @@
       "opponent": "Shirebrook Rangers U8"
     },
     {
+      "id": "898abcc0a85f1a3664d849310a9e3e8b",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Juniors U15 Robins",
+      "away_team": "Gainsborough Trinity Community FC U15",
+      "venue": "ILKESTON TOWN FOOTBALL CLUB",
+      "division": "U15 Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ilkeston Town Juniors U15 Robins",
+      "home_away": "home",
+      "opponent": "Gainsborough Trinity Community FC U15"
+    },
+    {
       "id": "d4c1c1fbad8effd879b35aec6a78adb1",
       "date": "2026-04-26",
       "time": "11:00",
       "home_team": "Selston U14",
       "away_team": "Ilkeston Town Reds U14",
-      "venue": "Dale Club NG16 5JU",
+      "venue": "Selston Parish NG16 6EE",
       "division": "U14 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Ilkeston Town Reds U14",
@@ -343,10 +343,10 @@
     {
       "id": "a63a70c82341ffc6b7dc93481e05e7ad",
       "date": "2026-04-26",
-      "time": "11:40",
+      "time": "12:00",
       "home_team": "Ilkeston Town Panthers U13",
       "away_team": "Beeston FC Orange U13",
-      "venue": "Booths Playing Fields DE7 8JF",
+      "venue": "Trent Vale Sports Ground NG9 1ND",
       "division": "U13 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Ilkeston Town Panthers U13",
@@ -359,7 +359,7 @@
       "time": "18:00",
       "home_team": "Ilkeston Town Robins U14",
       "away_team": "Dunkirk U14",
-      "venue": "New Manor Ground DE7 8JF",
+      "venue": "Booths Playing Fields, Ilkeston DE7 8JF",
       "division": "u14 Sat Spring Div 1 Silver",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Ilkeston Town Robins U14",
@@ -367,9 +367,9 @@
       "opponent": "Dunkirk U14"
     },
     {
-      "id": "551b198f2ac879ddbaa7ba3eb714f7e8",
-      "date": "2026-05-10",
-      "time": "10:00",
+      "id": "e825be2a29fcb7779d484ec2d3756b2a",
+      "date": "2026-04-29",
+      "time": "18:45",
       "home_team": "Matlock Town Juniors U15 Girls",
       "away_team": "Ilkeston Town Juniors U15 Robins",
       "venue": "CAVENDISH FIELDS SPORTS ASSOCIATION",

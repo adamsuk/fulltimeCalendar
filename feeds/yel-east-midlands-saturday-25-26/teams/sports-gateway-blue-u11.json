@@ -1,19 +1,8 @@
 {
   "team": "Sports Gateway Blue U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-20T07:49:56Z",
+  "generated": "2026-04-21T07:21:23Z",
   "fixtures": [
-    {
-      "id": "6be19606ed4d993e628d11379344a855",
-      "date": "2026-04-20",
-      "time": "18:00",
-      "home_team": "Sports Gateway Blue U11",
-      "away_team": "Ravenshead Reds Outlaws U11",
-      "venue": "Ravenshead Leisure Centre NG15 9AG",
-      "division": "U11 Sat Spring Div 5 Red",
-      "home_away": "home",
-      "opponent": "Ravenshead Reds Outlaws U11"
-    },
     {
       "id": "93d994530af9b9c4ac2ba1146a121bf4",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6be19606ed4d993e628d11379344a855",
+      "date": "2026-04-20",
+      "time": "18:00",
+      "home_team": "Sports Gateway Blue U11",
+      "away_team": "Ravenshead Reds Outlaws U11",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat Spring Div 5 Red",
+      "home_away": "home",
+      "opponent": "Ravenshead Reds Outlaws U11",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "dce32d1b2c57696501be412a6459bc1f",
       "date": "2026-04-15",

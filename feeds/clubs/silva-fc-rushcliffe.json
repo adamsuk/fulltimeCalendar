@@ -1,6 +1,6 @@
 {
   "club": "Silva FC Rushcliffe",
-  "generated": "2026-04-20T07:49:56Z",
+  "generated": "2026-04-21T07:21:23Z",
   "fixtures": [
     {
       "id": "3e09e3de159251b566b8c05a84f62647",
@@ -44,7 +44,7 @@
     {
       "id": "94db976d3dfa52b09a12ed302fc3222e",
       "date": "2026-04-25",
-      "time": "10:00",
+      "time": "09:00",
       "home_team": "Silva FC Rushcliffe Blue U10",
       "away_team": "Spirit Celtic White U10",
       "venue": "Rushcliffe School  NG2 7BW",
@@ -53,6 +53,19 @@
       "team": "Silva FC Rushcliffe Blue U10",
       "home_away": "home",
       "opponent": "Spirit Celtic White U10"
+    },
+    {
+      "id": "f74846a79130626c9025120fbd032349",
+      "date": "2026-04-25",
+      "time": "09:30",
+      "home_team": "Silva FC Rushcliffe U12",
+      "away_team": "Newark Town Cavaliers U12",
+      "venue": "Rushcliffe School  NG2 7BW",
+      "division": "U12 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Silva FC Rushcliffe U12",
+      "home_away": "home",
+      "opponent": "Newark Town Cavaliers U12"
     },
     {
       "id": "baef78026c13067c3662016ea313c5ae",
@@ -66,19 +79,6 @@
       "team": "Silva FC Rushcliffe Gold U7 ^^",
       "home_away": "away",
       "opponent": "Hucknall Town Warriors U7"
-    },
-    {
-      "id": "e9823aa7f64712cea57d3d850a37734a",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Silva FC Rushcliffe Red U8",
-      "away_team": "Radcliffe Olympic Pumas U8",
-      "venue": "Rushcliffe School  NG2 7BW",
-      "division": "U8 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Silva FC Rushcliffe Red U8",
-      "home_away": "home",
-      "opponent": "Radcliffe Olympic Pumas U8"
     },
     {
       "id": "150408a279ef8d174e5ac33d95fad9e2",
@@ -120,17 +120,17 @@
       "opponent": "Bingham Town Red U11"
     },
     {
-      "id": "f74846a79130626c9025120fbd032349",
+      "id": "e9823aa7f64712cea57d3d850a37734a",
       "date": "2026-04-25",
       "time": "11:00",
-      "home_team": "Silva FC Rushcliffe U12",
-      "away_team": "Newark Town Cavaliers U12",
+      "home_team": "Silva FC Rushcliffe Red U8",
+      "away_team": "Radcliffe Olympic Pumas U8",
       "venue": "Rushcliffe School  NG2 7BW",
-      "division": "U12 Saturday",
+      "division": "U8 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
-      "team": "Silva FC Rushcliffe U12",
+      "team": "Silva FC Rushcliffe Red U8",
       "home_away": "home",
-      "opponent": "Newark Town Cavaliers U12"
+      "opponent": "Radcliffe Olympic Pumas U8"
     },
     {
       "id": "f89de2b996053c96b6e550cd8d49ae5e",

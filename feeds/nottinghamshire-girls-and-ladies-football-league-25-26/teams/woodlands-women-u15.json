@@ -1,19 +1,8 @@
 {
   "team": "Woodlands Women U15",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-20T07:49:56Z",
+  "generated": "2026-04-21T07:21:23Z",
   "fixtures": [
-    {
-      "id": "50f99182e36fd4852a35958f961d70be",
-      "date": "2026-04-19",
-      "time": "10:45",
-      "home_team": "Woodlands Women U15",
-      "away_team": "Bingham Town F.C. U15 Girls",
-      "venue": "BUTT FIELD SPORTS CLUB",
-      "division": "U15 Div 2",
-      "home_away": "home",
-      "opponent": "Bingham Town F.C. U15 Girls"
-    },
     {
       "id": "adc8efc59b7af4ca13de31155dd114f5",
       "date": "2026-04-26",
@@ -23,17 +12,6 @@
       "venue": "ALLESTREE WOODLANDS SCHOOL",
       "division": "U15 Div 2",
       "home_away": "home",
-      "opponent": "Tansley Juniors U15 Girls"
-    },
-    {
-      "id": "e9efaa756a8062d75b6a5a7c658ba1dc",
-      "date": "2026-04-26",
-      "time": "10:45",
-      "home_team": "Tansley Juniors U15 Girls",
-      "away_team": "Woodlands Women U15",
-      "venue": "ALLESTREE WOODLANDS SCHOOL",
-      "division": "U15 Div 2",
-      "home_away": "away",
       "opponent": "Tansley Juniors U15 Girls"
     },
     {
@@ -59,6 +37,17 @@
       "opponent": "Bottesford U15 Girls"
     },
     {
+      "id": "15e600774c8f369f55c312f2d16f7c70",
+      "date": "2026-05-10",
+      "time": "10:45",
+      "home_team": "Tansley Juniors U15 Girls",
+      "away_team": "Woodlands Women U15",
+      "venue": "ALLESTREE WOODLANDS SCHOOL",
+      "division": "U15 Div 2",
+      "home_away": "away",
+      "opponent": "Tansley Juniors U15 Girls"
+    },
+    {
       "id": "505d89e439f91c81e3025b961829e7cc",
       "date": "2026-05-17",
       "time": "10:00",
@@ -72,19 +61,34 @@
   ],
   "results": [
     {
+      "id": "50f99182e36fd4852a35958f961d70be",
+      "date": "2026-04-19",
+      "time": "10:45",
+      "home_team": "Woodlands Women U15",
+      "away_team": "Bingham Town F.C. U15 Girls",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U15 Div 2",
+      "home_away": "home",
+      "opponent": "Bingham Town F.C. U15 Girls",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
       "id": "dda9b03ad1c1a0682d5834a2484fd0f3",
       "date": "2026-04-19",
       "time": "10:00",
       "home_team": "Bingham Town F.C. U15 Girls",
       "away_team": "Woodlands Women U15",
-      "home_score": 3,
+      "home_score": 2,
       "away_score": 2,
       "venue": "",
       "division": "U15 Div 2",
       "home_away": "away",
       "opponent": "Bingham Town F.C. U15 Girls",
       "goals_for": 2,
-      "goals_against": 3
+      "goals_against": 2
     },
     {
       "id": "0588a5dcf0f89daa2475e04b7ef5f028",

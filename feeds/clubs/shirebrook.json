@@ -1,20 +1,7 @@
 {
   "club": "Shirebrook",
-  "generated": "2026-04-20T07:49:56Z",
+  "generated": "2026-04-21T07:21:23Z",
   "fixtures": [
-    {
-      "id": "1f9613fa247cdda01f7023025e865464",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Shirebrook Rangers & Juniors U13 Girls",
-      "away_team": "Willow Wanderers F.C. Youth U13 Orcas",
-      "venue": "SHIREBROOK ACADEMY",
-      "division": "U13 Div 2 11 v 11",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Shirebrook Rangers & Juniors U13 Girls",
-      "home_away": "home",
-      "opponent": "Willow Wanderers F.C. Youth U13 Orcas"
-    },
     {
       "id": "5d277a31ecebc1b9bafa5bd36dd48d39",
       "date": "2026-04-19",
@@ -31,7 +18,7 @@
     {
       "id": "4f3c1fc7b7fa6c299890caaa067c2c8a",
       "date": "2026-04-22",
-      "time": "10:00",
+      "time": "18:30",
       "home_team": "Shirebrook Rangers & Juniors U14 Girls",
       "away_team": "Ravenshead Reds F.C. Youth U14",
       "venue": "SHIREBROOK ACADEMY",
@@ -211,6 +198,19 @@
       "opponent": "Matlock Town Juniors U14 Spartans Girls"
     },
     {
+      "id": "d1e124ee5eac5c4f3d14df6eea7cd08e",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Broxtowe United F.C. Youth U18 Ladies",
+      "away_team": "Shirebrook Rangers & Juniors U18 Girls",
+      "venue": "WEIRFIELDS RECREATION GROUND",
+      "division": "U18 Div 2 Phase 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Shirebrook Rangers & Juniors U18 Girls",
+      "home_away": "away",
+      "opponent": "Broxtowe United F.C. Youth U18 Ladies"
+    },
+    {
       "id": "c31ba664ed5f991aeb8b202c4e9b5ae8",
       "date": "2026-04-26",
       "time": "10:00",
@@ -222,19 +222,6 @@
       "team": "Shirebrook Rangers & Juniors U9 Girls",
       "home_away": "home",
       "opponent": "Hucknall & Linby Harriers FC U9"
-    },
-    {
-      "id": "d1e124ee5eac5c4f3d14df6eea7cd08e",
-      "date": "2026-04-26",
-      "time": "10:30",
-      "home_team": "Broxtowe United F.C. Youth U18 Ladies",
-      "away_team": "Shirebrook Rangers & Juniors U18 Girls",
-      "venue": "WEIRFIELDS RECREATION GROUND",
-      "division": "U18 Div 2 Phase 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Shirebrook Rangers & Juniors U18 Girls",
-      "home_away": "away",
-      "opponent": "Broxtowe United F.C. Youth U18 Ladies"
     },
     {
       "id": "9c26e5761be7ff764eaa77691715abd2",
@@ -328,19 +315,6 @@
       "opponent": "Riverside Junior U14 Rubies"
     },
     {
-      "id": "4fbb0733fe603788ce166396cd30963c",
-      "date": "2026-05-03",
-      "time": "12:00",
-      "home_team": "Southwell City FC U18 Girls",
-      "away_team": "Shirebrook Rangers & Juniors U18 Girls",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "U18 Div 2 Phase 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Shirebrook Rangers & Juniors U18 Girls",
-      "home_away": "away",
-      "opponent": "Southwell City FC U18 Girls"
-    },
-    {
       "id": "efd0043b94a0561b3a108067dcb983a6",
       "date": "2026-05-03",
       "time": "14:00",
@@ -378,6 +352,19 @@
       "team": "Shirebrook Rangers Women",
       "home_away": "home",
       "opponent": "Sherwood Colliery FC Ladies"
+    },
+    {
+      "id": "1ae56c7eb2cf9aa0a8c803733f01d051",
+      "date": "2026-05-10",
+      "time": "12:00",
+      "home_team": "Southwell City FC U18 Girls",
+      "away_team": "Shirebrook Rangers & Juniors U18 Girls",
+      "venue": "CENTENARY SPORTS GROUND",
+      "division": "U18 Div 2 Phase 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Shirebrook Rangers & Juniors U18 Girls",
+      "home_away": "away",
+      "opponent": "Southwell City FC U18 Girls"
     },
     {
       "id": "3477720e47ebb5146d3dc35eac41eb7e",
@@ -525,6 +512,23 @@
       "opponent": "Quarrydale United U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "1f9613fa247cdda01f7023025e865464",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers & Juniors U13 Girls",
+      "away_team": "Willow Wanderers F.C. Youth U13 Orcas",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U13 Div 2 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Shirebrook Rangers & Juniors U13 Girls",
+      "home_away": "home",
+      "opponent": "Willow Wanderers F.C. Youth U13 Orcas",
+      "goals_for": 0,
+      "goals_against": 5
     },
     {
       "id": "2efdca20b7efe77f814deedc40e35cec",

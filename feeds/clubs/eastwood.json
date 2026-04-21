@@ -1,6 +1,6 @@
 {
   "club": "Eastwood",
-  "generated": "2026-04-20T07:49:56Z",
+  "generated": "2026-04-21T07:21:23Z",
   "fixtures": [
     {
       "id": "c3706460574d583d4f15ab9f91cc50d4",
@@ -42,6 +42,19 @@
       "opponent": "Woodhouse Colts Yellow U10"
     },
     {
+      "id": "c7f4318d1ae52de7c33a3016203e7b7b",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Mansfield Town Grassroots U13",
+      "away_team": "Eastwood CFC Red U13",
+      "venue": "R&H Academy NG19 7RT",
+      "division": "U13 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Eastwood CFC Red U13",
+      "home_away": "away",
+      "opponent": "Mansfield Town Grassroots U13"
+    },
+    {
       "id": "0ebe1f335fd8a1b34fffa6bc1609efab",
       "date": "2026-04-25",
       "time": "10:00",
@@ -66,19 +79,6 @@
       "team": "Eastwood CFC Red U12",
       "home_away": "away",
       "opponent": "Allexton & New Parks Magpies U12"
-    },
-    {
-      "id": "c7f4318d1ae52de7c33a3016203e7b7b",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Mansfield Town Grassroots U13",
-      "away_team": "Eastwood CFC Red U13",
-      "venue": "R&H Academy NG19 7RT",
-      "division": "U13 Sat Spring Premier Division",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Eastwood CFC Red U13",
-      "home_away": "away",
-      "opponent": "Mansfield Town Grassroots U13"
     },
     {
       "id": "c6c6db4b3f05a82183ace44bcd010784",
@@ -172,6 +172,32 @@
       "opponent": "Southwell City FC U12 Swans"
     },
     {
+      "id": "bc37d399fd5dd7a7236d839eb205fe2e",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Eastwood CFC U12 Girls",
+      "away_team": "Gedling Southbank FC U12 Hunters",
+      "venue": "CORONATION PARK",
+      "division": "U12 Div 4 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Eastwood CFC U12 Girls",
+      "home_away": "home",
+      "opponent": "Gedling Southbank FC U12 Hunters"
+    },
+    {
+      "id": "7b51107b1803216f1ddb48af5b5a589b",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Eastwood CFC U12 Girls",
+      "away_team": "Bingham Town F.C. U12 Girls Blue",
+      "venue": "CORONATION PARK",
+      "division": "U12 Div 4 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Eastwood CFC U12 Girls",
+      "home_away": "home",
+      "opponent": "Bingham Town F.C. U12 Girls Blue"
+    },
+    {
       "id": "b8183e3091e921ba50e7a3a760029c60",
       "date": "2026-05-10",
       "time": "11:45",
@@ -183,6 +209,19 @@
       "team": "Eastwood CFC Madrid U10",
       "home_away": "away",
       "opponent": "Mansfield Town Grassroots U10"
+    },
+    {
+      "id": "8d883a30f29e7e8bc1a39253b032494d",
+      "date": "2026-05-24",
+      "time": "10:00",
+      "home_team": "Southwell City FC U12 Swans",
+      "away_team": "Eastwood CFC U12 Girls",
+      "venue": "SOUTHWELL MEMORIAL GROUND",
+      "division": "U12 Div 4 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Eastwood CFC U12 Girls",
+      "home_away": "away",
+      "opponent": "Southwell City FC U12 Swans"
     }
   ],
   "results": [

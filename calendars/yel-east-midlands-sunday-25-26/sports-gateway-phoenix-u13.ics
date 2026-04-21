@@ -8,7 +8,7 @@ X-WR-CALDESC:Fixtures for Sports Gateway Phoenix U13 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:f02773513c9517b835c5563aa7406f7f@yel-calendar
-DTSTAMP:20260420T075012Z
+DTSTAMP:20260421T072201Z
 DTSTART;TZID=Europe/London:20260424T183000
 DTEND;TZID=Europe/London:20260424T190000
 SUMMARY:⚽ Sports Gateway Phoenix U13 vs Hucknall Sports Red U13 (Away)
@@ -16,12 +16,21 @@ DESCRIPTION:Division: U13 Sun YEL Challenge Trophy\nHucknall Sports Red U13 v Sp
 LOCATION:Engine Rooms NG15 6EP
 END:VEVENT
 BEGIN:VEVENT
-UID:32dc82caf2c41bd15375d1ed8deffed2@yel-calendar
-DTSTAMP:20260420T075012Z
-DTSTART;TZID=Europe/London:20260426T100000
-DTEND;TZID=Europe/London:20260426T110000
+UID:59b29e55b60a7464c7f5f61566aee364@yel-calendar
+DTSTAMP:20260421T072201Z
+DTSTART;TZID=Europe/London:20260426T110000
+DTEND;TZID=Europe/London:20260426T120000
+SUMMARY:⚽ Sports Gateway Phoenix U13 vs Robin Hood Colts Red U13 (Away)
+DESCRIPTION:Division: U13 Sunday\nRobin Hood Colts Red U13 v Sports Gateway Phoenix U13\nKO: 11:00
+LOCATION:Sherwood Fields, Edwinstowe NG21 9PW
+END:VEVENT
+BEGIN:VEVENT
+UID:a2b0f1bd2bd0b6ef301121bc8362f171@yel-calendar
+DTSTAMP:20260421T072201Z
+DTSTART;TZID=Europe/London:20260430T180000
+DTEND;TZID=Europe/London:20260430T190000
 SUMMARY:⚽ Sports Gateway Phoenix U13 vs Mansfield Athletic U13 (Away)
-DESCRIPTION:Division: U13 Sun Spring Div 5 Silver\nMansfield Athletic U13 v Sports Gateway Phoenix U13\nKO: 10:00
+DESCRIPTION:Division: U13 Sun Spring Div 5 Silver\nMansfield Athletic U13 v Sports Gateway Phoenix U13\nKO: 18:00
 LOCATION:Unwin Road NG17 4HT
 END:VEVENT
 END:VCALENDAR

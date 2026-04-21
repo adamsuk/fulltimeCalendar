@@ -1,20 +1,7 @@
 {
   "club": "Underwood Villa",
-  "generated": "2026-04-20T07:49:56Z",
+  "generated": "2026-04-21T07:21:23Z",
   "fixtures": [
-    {
-      "id": "bc42f6f75bfde78467f9d7f0441d40a7",
-      "date": "2026-04-20",
-      "time": "18:00",
-      "home_team": "DLFC Red U9",
-      "away_team": "Underwood Villa Tigres U9",
-      "venue": "Mellish Sports Centre  NG6 9FH",
-      "division": "U9 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Underwood Villa Tigres U9",
-      "home_away": "away",
-      "opponent": "DLFC Red U9"
-    },
     {
       "id": "0ebe1f335fd8a1b34fffa6bc1609efab",
       "date": "2026-04-25",
@@ -121,6 +108,23 @@
     }
   ],
   "results": [
+    {
+      "id": "bc42f6f75bfde78467f9d7f0441d40a7",
+      "date": "2026-04-20",
+      "time": "18:00",
+      "home_team": "DLFC Red U9",
+      "away_team": "Underwood Villa Tigres U9",
+      "home_score": 3,
+      "away_score": 6,
+      "venue": "",
+      "division": "U9 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Underwood Villa Tigres U9",
+      "home_away": "away",
+      "opponent": "DLFC Red U9",
+      "goals_for": 6,
+      "goals_against": 3
+    },
     {
       "id": "513a81a1292c2056ed4e8d30f80555ee",
       "date": "2026-04-19",

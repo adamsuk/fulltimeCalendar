@@ -1,6 +1,6 @@
 {
   "club": "Hucknall & Linby Harriers",
-  "generated": "2026-04-20T07:49:56Z",
+  "generated": "2026-04-21T07:21:23Z",
   "fixtures": [
     {
       "id": "7102956156fa8e2bb4104bfe24b25f0d",
@@ -42,17 +42,17 @@
       "opponent": "Bagthorpe Athletic F.C. Youth U14 girls"
     },
     {
-      "id": "05bc8c160903fad89e25f194eeb7984e",
+      "id": "2fedcb0c6502bac945d3cc4ae709ba9b",
       "date": "2026-04-26",
       "time": "10:00",
       "home_team": "Hucknall & Linby Harriers FC U15",
-      "away_team": "Holy Spirit Celtic FC U15",
+      "away_team": "Burton Joyce F.C. Girls U15 Green",
       "venue": "HOLGATE ACADEMY",
       "division": "U15 Div 3",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Hucknall & Linby Harriers FC U15",
       "home_away": "home",
-      "opponent": "Holy Spirit Celtic FC U15"
+      "opponent": "Burton Joyce F.C. Girls U15 Green"
     },
     {
       "id": "c31ba664ed5f991aeb8b202c4e9b5ae8",
@@ -66,6 +66,19 @@
       "team": "Hucknall & Linby Harriers FC U9",
       "home_away": "away",
       "opponent": "Shirebrook Rangers & Juniors U9 Girls"
+    },
+    {
+      "id": "f28477716d9d5426da3aff3bf6382233",
+      "date": "2026-04-26",
+      "time": "10:50",
+      "home_team": "Burton Joyce F.C. Girls U15 Green",
+      "away_team": "Hucknall & Linby Harriers FC U15",
+      "venue": "HOLGATE ACADEMY",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall & Linby Harriers FC U15",
+      "home_away": "away",
+      "opponent": "Burton Joyce F.C. Girls U15 Green"
     },
     {
       "id": "b8dce036501bb90fdbe3dae1f7e34deb",
@@ -120,19 +133,6 @@
       "opponent": "Sandiacre Town Youth U13 Royals"
     },
     {
-      "id": "1f85f66ad225af8d3a656a2cc4be1ddf",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Retford FC Juniors U15 GIRLS",
-      "away_team": "Hucknall & Linby Harriers FC U15",
-      "venue": "Retford FC Juniors U15 GIRLS",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Hucknall & Linby Harriers FC U15",
-      "home_away": "away",
-      "opponent": "Retford FC Juniors U15 GIRLS"
-    },
-    {
       "id": "37856c0102374038717ed1f3351115b7",
       "date": "2026-05-10",
       "time": "10:00",
@@ -172,32 +172,6 @@
       "opponent": "Stanton Ilkeston U14 Sapphires"
     },
     {
-      "id": "cfa95bf6b6533fe23a43997d6abb507b",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Burton Joyce F.C. Girls U15 Green",
-      "away_team": "Hucknall & Linby Harriers FC U15",
-      "venue": "POPLARS SPORTS GROUND",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Hucknall & Linby Harriers FC U15",
-      "home_away": "away",
-      "opponent": "Burton Joyce F.C. Girls U15 Green"
-    },
-    {
-      "id": "43ac244bb55838c5660fb67d44089b72",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Hucknall & Linby Harriers FC U15",
-      "away_team": "Burton Joyce F.C. Girls U15 Green",
-      "venue": "HOLGATE ACADEMY",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Hucknall & Linby Harriers FC U15",
-      "home_away": "home",
-      "opponent": "Burton Joyce F.C. Girls U15 Green"
-    },
-    {
       "id": "d355d92abd8f721f3c7fe72622671bb8",
       "date": "2026-05-17",
       "time": "10:00",
@@ -224,6 +198,19 @@
       "opponent": "Wollaton Hall & Bramcote F.C. Youth U13"
     },
     {
+      "id": "01a3c5bfc59ed351ab59ce2b0df3a619",
+      "date": "2026-05-17",
+      "time": "10:00",
+      "home_team": "Hucknall & Linby Harriers FC U15",
+      "away_team": "Holy Spirit Celtic FC U15",
+      "venue": "HOLGATE ACADEMY",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall & Linby Harriers FC U15",
+      "home_away": "home",
+      "opponent": "Holy Spirit Celtic FC U15"
+    },
+    {
       "id": "0a07f4e2b1dbdfb2f06ab27215cd8b19",
       "date": "2026-05-17",
       "time": "10:10",
@@ -248,6 +235,19 @@
       "team": "Hucknall & Linby Harriers FC U12 Jets",
       "home_away": "away",
       "opponent": "Blidworth Bengals F.C. U12"
+    },
+    {
+      "id": "701ae048ffb06f89cd5cd19186ed8e28",
+      "date": "2026-05-31",
+      "time": "10:00",
+      "home_team": "Retford FC Juniors U15 GIRLS",
+      "away_team": "Hucknall & Linby Harriers FC U15",
+      "venue": "Retford FC Juniors U15 GIRLS",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall & Linby Harriers FC U15",
+      "home_away": "away",
+      "opponent": "Retford FC Juniors U15 GIRLS"
     }
   ],
   "results": [

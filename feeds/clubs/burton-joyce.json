@@ -1,6 +1,6 @@
 {
   "club": "Burton Joyce",
-  "generated": "2026-04-20T07:49:56Z",
+  "generated": "2026-04-21T07:21:23Z",
   "fixtures": [
     {
       "id": "7102956156fa8e2bb4104bfe24b25f0d",
@@ -14,19 +14,6 @@
       "team": "Burton Joyce F.C. Girls U12 Olympians",
       "home_away": "away",
       "opponent": "Hucknall & Linby Harriers FC U12"
-    },
-    {
-      "id": "b1277173fb83cae9ae0911c9bf2191d6",
-      "date": "2026-04-15",
-      "time": "18:00",
-      "home_team": "Beeston F.C. U15 Girls Sun",
-      "away_team": "Burton Joyce F.C. Girls U15 Green",
-      "venue": "TRENT VALE SPORTS ASSOCIATION",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Burton Joyce F.C. Girls U15 Green",
-      "home_away": "away",
-      "opponent": "Beeston F.C. U15 Girls Sun"
     },
     {
       "id": "5ca59def59e35f94649e7b2e731d17bb",
@@ -66,19 +53,6 @@
       "team": "Burton Joyce Green U10",
       "home_away": "home",
       "opponent": "Southwell City Reds U10"
-    },
-    {
-      "id": "fa0cb8f971bee3049a3dce8cb73f17bf",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Burton Joyce Blue U10",
-      "away_team": "Hucknall Sports White U10",
-      "venue": "The Poplars, Burton Joyce  NG14 5AN",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Burton Joyce Blue U10",
-      "home_away": "home",
-      "opponent": "Hucknall Sports White U10"
     },
     {
       "id": "1882a5710ed9eae0ff3c1a6b7aefa6a0",
@@ -172,6 +146,19 @@
       "opponent": "Arnold Town Yellow U14"
     },
     {
+      "id": "fa0cb8f971bee3049a3dce8cb73f17bf",
+      "date": "2026-04-25",
+      "time": "11:15",
+      "home_team": "Burton Joyce Blue U10",
+      "away_team": "Hucknall Sports White U10",
+      "venue": "The Poplars, Burton Joyce  NG14 5AN",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Burton Joyce Blue U10",
+      "home_away": "home",
+      "opponent": "Hucknall Sports White U10"
+    },
+    {
       "id": "fad19cb7ed0ed36b625b74d53e018f4d",
       "date": "2026-04-25",
       "time": "11:15",
@@ -250,17 +237,30 @@
       "opponent": "Arnold Eagles F.C. Girls U14 Storm"
     },
     {
-      "id": "20685b864d7ec4c63de4fe108d27a608",
+      "id": "2fedcb0c6502bac945d3cc4ae709ba9b",
       "date": "2026-04-26",
       "time": "10:00",
+      "home_team": "Hucknall & Linby Harriers FC U15",
+      "away_team": "Burton Joyce F.C. Girls U15 Green",
+      "venue": "HOLGATE ACADEMY",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Burton Joyce F.C. Girls U15 Green",
+      "home_away": "away",
+      "opponent": "Hucknall & Linby Harriers FC U15"
+    },
+    {
+      "id": "f28477716d9d5426da3aff3bf6382233",
+      "date": "2026-04-26",
+      "time": "10:50",
       "home_team": "Burton Joyce F.C. Girls U15 Green",
-      "away_team": "Stapleford Town FC U15 Girls",
-      "venue": "POPLARS SPORTS GROUND",
+      "away_team": "Hucknall & Linby Harriers FC U15",
+      "venue": "HOLGATE ACADEMY",
       "division": "U15 Div 3",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Burton Joyce F.C. Girls U15 Green",
       "home_away": "home",
-      "opponent": "Stapleford Town FC U15 Girls"
+      "opponent": "Hucknall & Linby Harriers FC U15"
     },
     {
       "id": "dac49fff33e9d7b54077e63c0534d96c",
@@ -276,19 +276,6 @@
       "opponent": "Arnold Town Maroon U12"
     },
     {
-      "id": "116631e76d62976997f58c9f33cb9a1e",
-      "date": "2026-04-26",
-      "time": "12:30",
-      "home_team": "Keyworth United F.C. U15 Predators",
-      "away_team": "Burton Joyce F.C. Girls U15 Green",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Burton Joyce F.C. Girls U15 Green",
-      "home_away": "away",
-      "opponent": "Keyworth United F.C. U15 Predators"
-    },
-    {
       "id": "edb84c8758d5d22d4723acc372d0a68f",
       "date": "2026-05-02",
       "time": "10:30",
@@ -300,19 +287,6 @@
       "team": "Burton Joyce F.C. U23",
       "home_away": "home",
       "opponent": "Pegasus FC"
-    },
-    {
-      "id": "658c76cb5c90d154edfd193038cd9342",
-      "date": "2026-05-03",
-      "time": "09:30",
-      "home_team": "Burton Joyce F.C. Girls U15 Green",
-      "away_team": "Arnold Eagles F.C. Girls U15 Avengers",
-      "venue": "POPLARS SPORTS GROUND",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Burton Joyce F.C. Girls U15 Green",
-      "home_away": "home",
-      "opponent": "Arnold Eagles F.C. Girls U15 Avengers"
     },
     {
       "id": "2250f211b95872903ad9bda42c24de0d",
@@ -341,6 +315,19 @@
       "opponent": "Blidworth Bengals F.C. U12"
     },
     {
+      "id": "658c76cb5c90d154edfd193038cd9342",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Burton Joyce F.C. Girls U15 Green",
+      "away_team": "Arnold Eagles F.C. Girls U15 Avengers",
+      "venue": "POPLARS SPORTS GROUND",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Burton Joyce F.C. Girls U15 Green",
+      "home_away": "home",
+      "opponent": "Arnold Eagles F.C. Girls U15 Avengers"
+    },
+    {
       "id": "540cbe83420f9be4c1ececc8515e9200",
       "date": "2026-05-03",
       "time": "10:00",
@@ -352,6 +339,19 @@
       "team": "Burton Joyce F.C. Girls U16",
       "home_away": "home",
       "opponent": "Clifton All Whites U16 Girls"
+    },
+    {
+      "id": "58083cebb05268011d7fa9fe25456112",
+      "date": "2026-05-06",
+      "time": "18:30",
+      "home_team": "Keyworth United F.C. U15 Predators",
+      "away_team": "Burton Joyce F.C. Girls U15 Green",
+      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Burton Joyce F.C. Girls U15 Green",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U15 Predators"
     },
     {
       "id": "aff54714a4a353790b339d003780965b",
@@ -393,30 +393,17 @@
       "opponent": "ATFA Brinsley FC U12"
     },
     {
-      "id": "cfa95bf6b6533fe23a43997d6abb507b",
+      "id": "aeca87a1a70b93bd50ec8eac7771237a",
       "date": "2026-05-10",
       "time": "10:00",
       "home_team": "Burton Joyce F.C. Girls U15 Green",
-      "away_team": "Hucknall & Linby Harriers FC U15",
+      "away_team": "Retford FC Juniors U15 GIRLS",
       "venue": "POPLARS SPORTS GROUND",
       "division": "U15 Div 3",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Burton Joyce F.C. Girls U15 Green",
       "home_away": "home",
-      "opponent": "Hucknall & Linby Harriers FC U15"
-    },
-    {
-      "id": "43ac244bb55838c5660fb67d44089b72",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Hucknall & Linby Harriers FC U15",
-      "away_team": "Burton Joyce F.C. Girls U15 Green",
-      "venue": "HOLGATE ACADEMY",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Burton Joyce F.C. Girls U15 Green",
-      "home_away": "away",
-      "opponent": "Hucknall & Linby Harriers FC U15"
+      "opponent": "Retford FC Juniors U15 GIRLS"
     },
     {
       "id": "9233619a3540ef62599140de9cfa5747",
@@ -458,17 +445,30 @@
       "opponent": "Hucknall & Linby Harriers FC U12 Jets"
     },
     {
-      "id": "feaff3e61e48da368c50ef40d9799b9b",
+      "id": "d3d4dcbfd44a24079ab1cbf81d6a8926",
+      "date": "2026-05-17",
+      "time": "10:00",
+      "home_team": "Beeston F.C. U15 Girls Sun",
+      "away_team": "Burton Joyce F.C. Girls U15 Green",
+      "venue": "TRENT VALE SPORTS ASSOCIATION",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Burton Joyce F.C. Girls U15 Green",
+      "home_away": "away",
+      "opponent": "Beeston F.C. U15 Girls Sun"
+    },
+    {
+      "id": "7fabe4c987bc5a83caf486777befecda",
       "date": "2026-05-31",
       "time": "10:00",
       "home_team": "Burton Joyce F.C. Girls U15 Green",
-      "away_team": "Retford FC Juniors U15 GIRLS",
+      "away_team": "Stapleford Town FC U15 Girls",
       "venue": "POPLARS SPORTS GROUND",
       "division": "U15 Div 3",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Burton Joyce F.C. Girls U15 Green",
       "home_away": "home",
-      "opponent": "Retford FC Juniors U15 GIRLS"
+      "opponent": "Stapleford Town FC U15 Girls"
     }
   ],
   "results": [

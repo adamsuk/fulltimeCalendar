@@ -1,6 +1,6 @@
 {
   "club": "Southwell City",
-  "generated": "2026-04-20T07:49:56Z",
+  "generated": "2026-04-21T07:21:23Z",
   "fixtures": [
     {
       "id": "e5d78556f73c8beb876ad4111db2e5c0",
@@ -380,17 +380,17 @@
       "opponent": "DLFC Boca U8"
     },
     {
-      "id": "b86811f1b30780f6a048755a8759e0d8",
+      "id": "bd898b05e522d0386154e8808efdf001",
       "date": "2026-04-26",
       "time": "10:00",
       "home_team": "Southwell City FC U15 Girls",
-      "away_team": "Selston F.C. Youth U15 FC",
+      "away_team": "Holy Spirit Celtic FC U15",
       "venue": "CENTENARY SPORTS GROUND",
       "division": "U15 Div 3",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Southwell City FC U15 Girls",
       "home_away": "home",
-      "opponent": "Selston F.C. Youth U15 FC"
+      "opponent": "Holy Spirit Celtic FC U15"
     },
     {
       "id": "a6e7a2d7920094ee723825fecffe2ad4",
@@ -419,6 +419,19 @@
       "opponent": "West Bridgford Colts U16 Vipers"
     },
     {
+      "id": "e476dfc759b337c26a782c908aadb118",
+      "date": "2026-04-26",
+      "time": "10:50",
+      "home_team": "Holy Spirit Celtic FC U15",
+      "away_team": "Southwell City FC U15 Girls",
+      "venue": "CENTENARY SPORTS GROUND",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Southwell City FC U15 Girls",
+      "home_away": "away",
+      "opponent": "Holy Spirit Celtic FC U15"
+    },
+    {
       "id": "d2156595859d5bb40723c379e1a47568",
       "date": "2026-04-26",
       "time": "12:00",
@@ -443,19 +456,6 @@
       "team": "Southwell City FC Ladies",
       "home_away": "away",
       "opponent": "Underwood Villa FC Youth Ladies"
-    },
-    {
-      "id": "b183357f799f17ad37a9c2c2d4707513",
-      "date": "2026-04-26",
-      "time": "14:00",
-      "home_team": "Barlborough Juniors U15 Lionesses",
-      "away_team": "Southwell City FC U15 Girls",
-      "venue": "BARLBOROUGH COUNTRY PARK",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Southwell City FC U15 Girls",
-      "home_away": "away",
-      "opponent": "Barlborough Juniors U15 Lionesses"
     },
     {
       "id": "a9c3000ddaee045007c915ea739721c1",
@@ -484,32 +484,6 @@
       "opponent": "Ruddington Village FC"
     },
     {
-      "id": "527c9dc1a4ebc583db11c0f69c9ecce8",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Beeston F.C. U15 Girls Sun",
-      "away_team": "Southwell City FC U15 Girls",
-      "venue": "TRENT VALE SPORTS ASSOCIATION",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Southwell City FC U15 Girls",
-      "home_away": "away",
-      "opponent": "Beeston F.C. U15 Girls Sun"
-    },
-    {
-      "id": "4fbb0733fe603788ce166396cd30963c",
-      "date": "2026-05-03",
-      "time": "12:00",
-      "home_team": "Southwell City FC U18 Girls",
-      "away_team": "Shirebrook Rangers & Juniors U18 Girls",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "U18 Div 2 Phase 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Southwell City FC U18 Girls",
-      "home_away": "home",
-      "opponent": "Shirebrook Rangers & Juniors U18 Girls"
-    },
-    {
       "id": "688fdfb7bab4802ff0f808e9832a190f",
       "date": "2026-05-03",
       "time": "14:00",
@@ -536,6 +510,19 @@
       "opponent": "Woodthorpe Park Rangers FC"
     },
     {
+      "id": "91d26b227d70777951301734445e75fa",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Beeston F.C. U15 Girls Sun",
+      "away_team": "Southwell City FC U15 Girls",
+      "venue": "TRENT VALE SPORTS ASSOCIATION",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Southwell City FC U15 Girls",
+      "home_away": "away",
+      "opponent": "Beeston F.C. U15 Girls Sun"
+    },
+    {
       "id": "67b1ed851ea1e7155076e0811eee9bbf",
       "date": "2026-05-10",
       "time": "10:00",
@@ -547,6 +534,19 @@
       "team": "Southwell City FC U16 Girls",
       "home_away": "home",
       "opponent": "West Bridgford Colts U16 Vipers"
+    },
+    {
+      "id": "1ae56c7eb2cf9aa0a8c803733f01d051",
+      "date": "2026-05-10",
+      "time": "12:00",
+      "home_team": "Southwell City FC U18 Girls",
+      "away_team": "Shirebrook Rangers & Juniors U18 Girls",
+      "venue": "CENTENARY SPORTS GROUND",
+      "division": "U18 Div 2 Phase 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Southwell City FC U18 Girls",
+      "home_away": "home",
+      "opponent": "Shirebrook Rangers & Juniors U18 Girls"
     },
     {
       "id": "81551561090c137036f826675e0c100b",
@@ -562,30 +562,30 @@
       "opponent": "Priory Celtic FC Ladies First Team"
     },
     {
-      "id": "3c897fa8a585168d917a8ceffdad09bc",
+      "id": "ebb3264f8f8840899af08ac3139857f3",
       "date": "2026-05-17",
       "time": "10:00",
       "home_team": "Southwell City FC U15 Girls",
-      "away_team": "Holy Spirit Celtic FC U15",
+      "away_team": "Selston F.C. Youth U15 FC",
       "venue": "CENTENARY SPORTS GROUND",
       "division": "U15 Div 3",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Southwell City FC U15 Girls",
       "home_away": "home",
-      "opponent": "Holy Spirit Celtic FC U15"
+      "opponent": "Selston F.C. Youth U15 FC"
     },
     {
-      "id": "42bd4dfa5387a0b694b6162eb0c45645",
-      "date": "2026-05-17",
-      "time": "10:00",
-      "home_team": "Holy Spirit Celtic FC U15",
+      "id": "e539b1c21d3466a37c21bef0977bcb02",
+      "date": "2026-05-24",
+      "time": "14:00",
+      "home_team": "Barlborough Juniors U15 Lionesses",
       "away_team": "Southwell City FC U15 Girls",
-      "venue": "CENTENARY SPORTS GROUND",
+      "venue": "BARLBOROUGH COUNTRY PARK",
       "division": "U15 Div 3",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Southwell City FC U15 Girls",
       "home_away": "away",
-      "opponent": "Holy Spirit Celtic FC U15"
+      "opponent": "Barlborough Juniors U15 Lionesses"
     },
     {
       "id": "7f386fc7fcabb12afaf609f763489455",

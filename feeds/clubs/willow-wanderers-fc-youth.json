@@ -1,20 +1,7 @@
 {
   "club": "Willow Wanderers FC Youth",
-  "generated": "2026-04-20T07:49:56Z",
+  "generated": "2026-04-21T07:21:23Z",
   "fixtures": [
-    {
-      "id": "1f9613fa247cdda01f7023025e865464",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Shirebrook Rangers & Juniors U13 Girls",
-      "away_team": "Willow Wanderers F.C. Youth U13 Orcas",
-      "venue": "SHIREBROOK ACADEMY",
-      "division": "U13 Div 2 11 v 11",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Willow Wanderers F.C. Youth U13 Orcas",
-      "home_away": "away",
-      "opponent": "Shirebrook Rangers & Juniors U13 Girls"
-    },
     {
       "id": "e673be93c6c2d5021fbe55b662000d93",
       "date": "2026-04-22",
@@ -40,19 +27,6 @@
       "team": "Willow Wanderers F.C. Youth U13 Orcas",
       "home_away": "home",
       "opponent": "Sandiacre Town Youth U13 Royals"
-    },
-    {
-      "id": "c2743713391d77e3a230baaadd163efe",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Willow Wanderers F.C. Youth U15 Amazons",
-      "away_team": "Priory Celtic F.C. U15 Girls",
-      "venue": "CARLTON-LE-WILLOWS ACADEMY",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Willow Wanderers F.C. Youth U15 Amazons",
-      "home_away": "home",
-      "opponent": "Priory Celtic F.C. U15 Girls"
     },
     {
       "id": "584b4b11e4d92730876104edb62f3e73",
@@ -105,6 +79,19 @@
       "team": "Willow Wanderers F.C. Youth U15 Amazons",
       "home_away": "away",
       "opponent": "Allenton United FC U15 Ladies Bees"
+    },
+    {
+      "id": "0cf7c38c711d1b986ec6396d9be63fa8",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Willow Wanderers F.C. Youth U15 Amazons",
+      "away_team": "Priory Celtic F.C. U15 Girls",
+      "venue": "CARLTON-LE-WILLOWS ACADEMY",
+      "division": "U15 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Willow Wanderers F.C. Youth U15 Amazons",
+      "home_away": "home",
+      "opponent": "Priory Celtic F.C. U15 Girls"
     },
     {
       "id": "7686ef4cff72e42f879554dd7dd68096",
@@ -173,6 +160,23 @@
     }
   ],
   "results": [
+    {
+      "id": "1f9613fa247cdda01f7023025e865464",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers & Juniors U13 Girls",
+      "away_team": "Willow Wanderers F.C. Youth U13 Orcas",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U13 Div 2 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Willow Wanderers F.C. Youth U13 Orcas",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers & Juniors U13 Girls",
+      "goals_for": 5,
+      "goals_against": 0
+    },
     {
       "id": "68e3b7bf19b9bfbe48f382028311d075",
       "date": "2026-04-19",
