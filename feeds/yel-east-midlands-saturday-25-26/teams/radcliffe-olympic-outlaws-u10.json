@@ -1,19 +1,8 @@
 {
   "team": "Radcliffe Olympic Outlaws U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "74003dd6edb8b62120d7dd16f85fe2e8",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "Newark Brazil Rio U10",
-      "away_team": "Radcliffe Olympic Outlaws U10",
-      "venue": "Claypole Playing Field NG23 5BQ",
-      "division": "U10 Sat Spring Div 9 Red",
-      "home_away": "away",
-      "opponent": "Newark Brazil Rio U10"
-    },
     {
       "id": "674e594874b847fc46e9b1f34efcfa57",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "74003dd6edb8b62120d7dd16f85fe2e8",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "Newark Brazil Rio U10",
+      "away_team": "Radcliffe Olympic Outlaws U10",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 9 Red",
+      "home_away": "away",
+      "opponent": "Newark Brazil Rio U10",
+      "goals_for": 1,
+      "goals_against": 6
+    },
     {
       "id": "03f30aa53f467aa01c77370c1edff6f9",
       "date": "2026-04-18",

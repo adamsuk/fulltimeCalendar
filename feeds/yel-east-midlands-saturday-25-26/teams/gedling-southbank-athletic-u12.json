@@ -1,19 +1,8 @@
 {
   "team": "Gedling Southbank Athletic U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "c8cb47562e4a649d0b8afc062101e719",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "Loughborough Eml Eagles U12",
-      "away_team": "Gedling Southbank Athletic U12",
-      "venue": "Charnwood College, Loughborough LE11 4SQ",
-      "division": "U12 Sat Spring Div 7 Blue",
-      "home_away": "away",
-      "opponent": "Loughborough Eml Eagles U12"
-    },
     {
       "id": "e5edb5743f1a8eac493d393bc9538e9c",
       "date": "2026-04-25",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c8cb47562e4a649d0b8afc062101e719",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "Loughborough Eml Eagles U12",
+      "away_team": "Gedling Southbank Athletic U12",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sat Spring Div 7 Blue",
+      "home_away": "away",
+      "opponent": "Loughborough Eml Eagles U12",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "46d5a83bef12cce336767c88e81b41ac",
       "date": "2026-03-14",

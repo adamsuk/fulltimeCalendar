@@ -1,6 +1,6 @@
 {
   "club": "DLFC",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
     {
       "id": "5d97f3dcc1a111b67c0db33dbcf64cb8",
@@ -14,71 +14,6 @@
       "team": "DLFC Lions U9",
       "home_away": "home",
       "opponent": "Basford CFC Barca U9"
-    },
-    {
-      "id": "3deeefa92c08e0c98c8352297e4fa2eb",
-      "date": "2026-04-19",
-      "time": "10:30",
-      "home_team": "DLFC Red U7",
-      "away_team": "WBYFC Feyanoord Black U7",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U7 Sun Spring Yellow",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Red U7",
-      "home_away": "home",
-      "opponent": "WBYFC Feyanoord Black U7"
-    },
-    {
-      "id": "5f7dbc68f9c56ee99ad5fcb53532b0c5",
-      "date": "2026-04-19",
-      "time": "12:30",
-      "home_team": "DLFC Orange U14",
-      "away_team": "East Leake Bantams Black U14",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U14 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Orange U14",
-      "home_away": "home",
-      "opponent": "East Leake Bantams Black U14"
-    },
-    {
-      "id": "a90eb19de0addefffb24b2f6f426c608",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Radcliffe Olympic Blue U11",
-      "away_team": "DLFC Green U11",
-      "venue": "Bingham Road NG12 2GP",
-      "division": "U11 Sat Spring Div 8",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Green U11",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic Blue U11"
-    },
-    {
-      "id": "906f290a18d0a8307a47dbbf38eabb64",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "FC Cavaliers U14",
-      "away_team": "DLFC Grey U14",
-      "venue": "Vernon Park  NG6 0AE",
-      "division": "U14 Sat Spring Div 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Grey U14",
-      "home_away": "away",
-      "opponent": "FC Cavaliers U14"
-    },
-    {
-      "id": "ab21d06577502438730530cb7b141170",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "DLFC Yellow U9",
-      "away_team": "Phoenix Inham Knights U9",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U9 Sat Spring Div 6 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Yellow U9",
-      "home_away": "home",
-      "opponent": "Phoenix Inham Knights U9"
     },
     {
       "id": "1db59f3d5b71601d7d5e051348d4b081",
@@ -601,19 +536,6 @@
       "opponent": "Keyworth United Red U14"
     },
     {
-      "id": "e0f023c917a4974f50ff6f4e86f5d8bd",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Market Warsop Mini Mavs U7",
-      "away_team": "DLFC Orange U7",
-      "venue": "John Fretwell Centre NG19 8LL",
-      "division": "U7 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Orange U7",
-      "home_away": "away",
-      "opponent": "Market Warsop Mini Mavs U7"
-    },
-    {
       "id": "371ffd29a060e3991b3815cfe05a5688",
       "date": "2026-04-26",
       "time": "10:00",
@@ -677,6 +599,19 @@
       "team": "DLFC Yellow U12",
       "home_away": "home",
       "opponent": "Ollerton Town U12"
+    },
+    {
+      "id": "e0f023c917a4974f50ff6f4e86f5d8bd",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "Market Warsop Mini Mavs U7",
+      "away_team": "DLFC Orange U7",
+      "venue": "John Fretwell Centre NG19 8LL",
+      "division": "U7 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "DLFC Orange U7",
+      "home_away": "away",
+      "opponent": "Market Warsop Mini Mavs U7"
     },
     {
       "id": "8172ce49d7bed51b99104bbe732b4d1f",
@@ -836,6 +771,57 @@
     }
   ],
   "results": [
+    {
+      "id": "ab21d06577502438730530cb7b141170",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "DLFC Yellow U9",
+      "away_team": "Phoenix Inham Knights U9",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 6 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Yellow U9",
+      "home_away": "home",
+      "opponent": "Phoenix Inham Knights U9",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "a90eb19de0addefffb24b2f6f426c608",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Radcliffe Olympic Blue U11",
+      "away_team": "DLFC Green U11",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U11 Sat Spring Div 8",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Green U11",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic Blue U11",
+      "goals_for": 5,
+      "goals_against": 0
+    },
+    {
+      "id": "906f290a18d0a8307a47dbbf38eabb64",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "FC Cavaliers U14",
+      "away_team": "DLFC Grey U14",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Sat Spring Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Grey U14",
+      "home_away": "away",
+      "opponent": "FC Cavaliers U14",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "bc42f6f75bfde78467f9d7f0441d40a7",
       "date": "2026-04-20",

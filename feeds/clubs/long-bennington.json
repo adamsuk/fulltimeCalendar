@@ -1,6 +1,6 @@
 {
   "club": "Long Bennington",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
     {
       "id": "23cf20a7a89140c30daa41864742e111",
@@ -14,19 +14,6 @@
       "team": "Long Bennington FC U18 Girls",
       "home_away": "home",
       "opponent": "Sleetmoor United FC U18 Girls"
-    },
-    {
-      "id": "8f549cbdf41ac35455c4bcea11216898",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Southwell City Panthers U11",
-      "away_team": "Long Bennington FC U11",
-      "venue": "Southwell City FC  NG25 0JP",
-      "division": "U11 Sat Spring Div 6 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Long Bennington FC U11",
-      "home_away": "away",
-      "opponent": "Southwell City Panthers U11"
     },
     {
       "id": "d2df55b889636e0056e71fca64523c83",
@@ -173,6 +160,23 @@
     }
   ],
   "results": [
+    {
+      "id": "8f549cbdf41ac35455c4bcea11216898",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Southwell City Panthers U11",
+      "away_team": "Long Bennington FC U11",
+      "home_score": 7,
+      "away_score": 4,
+      "venue": "",
+      "division": "U11 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Long Bennington FC U11",
+      "home_away": "away",
+      "opponent": "Southwell City Panthers U11",
+      "goals_for": 4,
+      "goals_against": 7
+    },
     {
       "id": "0f57e5914f3755fd3da81d6ea82eaac8",
       "date": "2026-04-19",

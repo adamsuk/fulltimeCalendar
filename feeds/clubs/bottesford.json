@@ -1,33 +1,7 @@
 {
   "club": "Bottesford",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "1cb73fe7e5b3e68c5d85bd69ea25afef",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "AJ Sport FC U14",
-      "away_team": "Bottesford FC Blue U14",
-      "venue": "Beeston Fields Recreation Ground NG9 2QT",
-      "division": "U14 Sat YEL Trophy (Revised)",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Bottesford FC Blue U14",
-      "home_away": "away",
-      "opponent": "AJ Sport FC U14"
-    },
-    {
-      "id": "edbc7d4f2bb2471036fb5a51baa845ef",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "Arnold Eagles F.C. Girls U14 Tornadoes",
-      "away_team": "Bottesford U14 Girls",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "U14 Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Bottesford U14 Girls",
-      "home_away": "away",
-      "opponent": "Arnold Eagles F.C. Girls U14 Tornadoes"
-    },
     {
       "id": "007a277fbfd2888e9ae144d4cde50074",
       "date": "2026-04-22",
@@ -342,6 +316,40 @@
     }
   ],
   "results": [
+    {
+      "id": "edbc7d4f2bb2471036fb5a51baa845ef",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "Arnold Eagles F.C. Girls U14 Tornadoes",
+      "away_team": "Bottesford U14 Girls",
+      "home_score": 6,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Bottesford U14 Girls",
+      "home_away": "away",
+      "opponent": "Arnold Eagles F.C. Girls U14 Tornadoes",
+      "goals_for": 4,
+      "goals_against": 6
+    },
+    {
+      "id": "1cb73fe7e5b3e68c5d85bd69ea25afef",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "AJ Sport FC U14",
+      "away_team": "Bottesford FC Blue U14",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Sat YEL Trophy (Revised)",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Bottesford FC Blue U14",
+      "home_away": "away",
+      "opponent": "AJ Sport FC U14",
+      "goals_for": 0,
+      "goals_against": 6
+    },
     {
       "id": "d62bfbff0ad28581b7c6e48e3118cd06",
       "date": "2026-04-19",

@@ -1,19 +1,8 @@
 {
   "team": "Loughborough Eml Foxes U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "d19c3d09caf79492602051fb70b805ee",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "Loughborough Eml Foxes U13",
-      "away_team": "Eastwood Athletic Eagles U13",
-      "venue": "Charnwood College, Loughborough LE11 4SQ",
-      "division": "U13 Sat Spring Div 4 Blue",
-      "home_away": "home",
-      "opponent": "Eastwood Athletic Eagles U13"
-    },
     {
       "id": "826c0ec5e467b0692b916ad9826a4785",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d19c3d09caf79492602051fb70b805ee",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "Loughborough Eml Foxes U13",
+      "away_team": "Eastwood Athletic Eagles U13",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Spring Div 4 Blue",
+      "home_away": "home",
+      "opponent": "Eastwood Athletic Eagles U13",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "c192039cabb64649f8e23787cb2d0a9c",
       "date": "2026-04-18",

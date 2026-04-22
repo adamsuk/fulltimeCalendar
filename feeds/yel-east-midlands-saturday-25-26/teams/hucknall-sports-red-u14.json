@@ -1,19 +1,8 @@
 {
   "team": "Hucknall Sports Red U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "f964fca89de2a131ffecb6099d192f6e",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Hucknall Sports Red U14",
-      "away_team": "Radcliffe Olympic Rockets U14",
-      "venue": "Goosedale Sports Club NG6 8UJ",
-      "division": "u14 Sat Spring Div 3 Red",
-      "home_away": "home",
-      "opponent": "Radcliffe Olympic Rockets U14"
-    },
     {
       "id": "ed7a220a1f148eeb1d2c00586a2c9c91",
       "date": "2026-04-25",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f964fca89de2a131ffecb6099d192f6e",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Hucknall Sports Red U14",
+      "away_team": "Radcliffe Olympic Rockets U14",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "u14 Sat Spring Div 3 Red",
+      "home_away": "home",
+      "opponent": "Radcliffe Olympic Rockets U14",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "ea577086f5399bf699baafb32a26f5d4",
       "date": "2026-04-18",

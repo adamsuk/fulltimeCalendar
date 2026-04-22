@@ -1,19 +1,8 @@
 {
   "team": "Collingham FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "5149d20191340949084f359a7fad1d66",
-      "date": "2026-04-21",
-      "time": "19:30",
-      "home_team": "West Bridgford Reserves",
-      "away_team": "Collingham FC",
-      "venue": "REGATTA WAY SPORTS GROUND",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "West Bridgford Reserves"
-    },
     {
       "id": "ada6a2645f328c076067fc51fb3bbb03",
       "date": "2026-04-25",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5149d20191340949084f359a7fad1d66",
+      "date": "2026-04-21",
+      "time": "19:30",
+      "home_team": "West Bridgford Reserves",
+      "away_team": "Collingham FC",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "West Bridgford Reserves",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "79e318b387d2b639b0ce59f923b31496",
       "date": "2026-04-18",

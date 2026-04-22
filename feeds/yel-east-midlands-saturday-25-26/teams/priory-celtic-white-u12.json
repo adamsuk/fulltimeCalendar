@@ -1,19 +1,8 @@
 {
   "team": "Priory Celtic White U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "d741e50cf4a846e38f065381a7dbe799",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Sandiacre Town Spartans U12",
-      "away_team": "Priory Celtic White U12",
-      "venue": "Friesland School NG10 5AF",
-      "division": "U12 Sat Spring Div 7 Blue",
-      "home_away": "away",
-      "opponent": "Sandiacre Town Spartans U12"
-    },
     {
       "id": "88cf57010a90d4aaf4b8af9bd8e0cfcb",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d741e50cf4a846e38f065381a7dbe799",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Sandiacre Town Spartans U12",
+      "away_team": "Priory Celtic White U12",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sat Spring Div 7 Blue",
+      "home_away": "away",
+      "opponent": "Sandiacre Town Spartans U12",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "a14804d57f7088d67996d343dc6601e5",
       "date": "2026-04-18",

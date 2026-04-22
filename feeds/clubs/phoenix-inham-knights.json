@@ -1,20 +1,7 @@
 {
   "club": "Phoenix Inham Knights",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "ab21d06577502438730530cb7b141170",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "DLFC Yellow U9",
-      "away_team": "Phoenix Inham Knights U9",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U9 Sat Spring Div 6 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Phoenix Inham Knights U9",
-      "home_away": "away",
-      "opponent": "DLFC Yellow U9"
-    },
     {
       "id": "af5a329f86404c35f0d9f9534b141ce5",
       "date": "2026-04-25",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "ab21d06577502438730530cb7b141170",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "DLFC Yellow U9",
+      "away_team": "Phoenix Inham Knights U9",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat Spring Div 6 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Phoenix Inham Knights U9",
+      "home_away": "away",
+      "opponent": "DLFC Yellow U9",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "57ba49b3cb8978bbce4927cc8a722e25",
       "date": "2026-04-18",

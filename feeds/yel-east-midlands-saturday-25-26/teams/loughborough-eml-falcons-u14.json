@@ -1,19 +1,8 @@
 {
   "team": "Loughborough Eml Falcons U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "7a9f8fe42a9b2868f40df4dd6dc57904",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Quarrydale United Yellow U14",
-      "away_team": "Loughborough Eml Falcons U14",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U14 Sat YEL Trophy (Revised)",
-      "home_away": "away",
-      "opponent": "Quarrydale United Yellow U14"
-    },
     {
       "id": "70f6e4cafe8fe2615d18f5d2172b2fc8",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7a9f8fe42a9b2868f40df4dd6dc57904",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Quarrydale United Yellow U14",
+      "away_team": "Loughborough Eml Falcons U14",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sat YEL Trophy (Revised)",
+      "home_away": "away",
+      "opponent": "Quarrydale United Yellow U14",
+      "goals_for": 1,
+      "goals_against": 6
+    },
     {
       "id": "c154245929538f7d5ddc61a37eec5502",
       "date": "2026-04-18",

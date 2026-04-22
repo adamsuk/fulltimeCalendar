@@ -7,21 +7,21 @@ X-WR-CALNAME:Long Eaton United White U13
 X-WR-CALDESC:Fixtures for Long Eaton United White U13 — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:c60f42066a9889020c6cfca3a15ebb8b@yel-calendar
-DTSTAMP:20260421T072224Z
-DTSTART;TZID=Europe/London:20260421T180000
-DTEND;TZID=Europe/London:20260421T190000
-SUMMARY:⚽ Long Eaton United White U13 vs Hilton Harriers Cobras U13 (Away)
-DESCRIPTION:Division: U13 Sat YEL Trophy\nHilton Harriers Cobras U13 v Long Eaton United White U13\nKO: 18:00
-LOCATION:The Mease Pavilion DE65 5LS
-END:VEVENT
-BEGIN:VEVENT
 UID:0a6cdc5d9820ff0e1e31c9872bc7929b@yel-calendar
-DTSTAMP:20260421T072224Z
+DTSTAMP:20260422T071959Z
 DTSTART;TZID=Europe/London:20260425T110000
 DTEND;TZID=Europe/London:20260425T120000
 SUMMARY:⚽ Long Eaton United White U13 vs Hilton Harriers Cobras U13 (Away)
 DESCRIPTION:Division: U13 Saturday\nHilton Harriers Cobras U13 v Long Eaton United White U13\nKO: 11:00
 LOCATION:The Mease Pavilion DE65 5LS
+END:VEVENT
+BEGIN:VEVENT
+UID:286ff337316e2c0126c5aeabbaaf68ba@yel-calendar
+DTSTAMP:20260422T071959Z
+DTSTART;TZID=Europe/London:20260502T113000
+DTEND;TZID=Europe/London:20260502T120000
+SUMMARY:⚽ Long Eaton United White U13 vs Inspire Nottingham FC Red U13 (Away)
+DESCRIPTION:Division: U13 Sat YEL Trophy\nInspire Nottingham FC Red U13 v Long Eaton United White U13\nKO: 11:30
+LOCATION:Powerleague Arnold NG5 6NZ
 END:VEVENT
 END:VCALENDAR

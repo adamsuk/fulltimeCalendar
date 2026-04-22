@@ -1,20 +1,7 @@
 {
   "club": "Hatton",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "33e6c24d5e83f3c2e2f00dd49c3d386f",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Hatton United U12",
-      "away_team": "Hilton Harriers Fire U12",
-      "venue": "Goals Arena DE14 1TD",
-      "division": "U12 Sat Spring Div 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Hatton United U12",
-      "home_away": "home",
-      "opponent": "Hilton Harriers Fire U12"
-    },
     {
       "id": "e520bf283b1e76b8432ca71ad77bc261",
       "date": "2026-04-25",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "33e6c24d5e83f3c2e2f00dd49c3d386f",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Hatton United U12",
+      "away_team": "Hilton Harriers Fire U12",
+      "home_score": 7,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sat Spring Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hatton United U12",
+      "home_away": "home",
+      "opponent": "Hilton Harriers Fire U12",
+      "goals_for": 7,
+      "goals_against": 0
+    },
     {
       "id": "7f2bb7662f350042c2a50ed99683c8f9",
       "date": "2026-04-18",

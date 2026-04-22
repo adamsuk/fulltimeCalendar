@@ -1,6 +1,6 @@
 {
   "club": "Market Warsop",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
     {
       "id": "7ad09b4e281ab2b113e90987aadda1c3",
@@ -14,32 +14,6 @@
       "team": "Market Warsop F.C. Youth U14 Lionesses",
       "home_away": "home",
       "opponent": "Keyworth United F.C. U14 Thunder"
-    },
-    {
-      "id": "f1677a0d00536a2bba5bb625fee68456",
-      "date": "2026-04-21",
-      "time": "18:15",
-      "home_team": "Quarrydale United U13",
-      "away_team": "Market Warsop Colts U13",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U13 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Market Warsop Colts U13",
-      "home_away": "away",
-      "opponent": "Quarrydale United U13"
-    },
-    {
-      "id": "96b90a13974cdcdae5a9110b27de6482",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "Silva FC Rushcliffe Red U11",
-      "away_team": "Market Warsop Mavericks U11",
-      "venue": "Rushcliffe School  NG2 7BW",
-      "division": "U11 Sat YEL Trophy",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Market Warsop Mavericks U11",
-      "home_away": "away",
-      "opponent": "Silva FC Rushcliffe Red U11"
     },
     {
       "id": "9cc4f5e51a26b5489beff0b15df7251d",
@@ -159,19 +133,6 @@
       "opponent": "Alfreton Town Diamonds U8 ^^"
     },
     {
-      "id": "e0f023c917a4974f50ff6f4e86f5d8bd",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Market Warsop Mini Mavs U7",
-      "away_team": "DLFC Orange U7",
-      "venue": "John Fretwell Centre NG19 8LL",
-      "division": "U7 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Market Warsop Mini Mavs U7",
-      "home_away": "home",
-      "opponent": "DLFC Orange U7"
-    },
-    {
       "id": "fc8130689e84220814258b10864af724",
       "date": "2026-04-26",
       "time": "10:00",
@@ -211,6 +172,19 @@
       "opponent": "Beeston F.C. U14 Girls"
     },
     {
+      "id": "e0f023c917a4974f50ff6f4e86f5d8bd",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "Market Warsop Mini Mavs U7",
+      "away_team": "DLFC Orange U7",
+      "venue": "John Fretwell Centre NG19 8LL",
+      "division": "U7 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Market Warsop Mini Mavs U7",
+      "home_away": "home",
+      "opponent": "DLFC Orange U7"
+    },
+    {
       "id": "71089723b83b47860add54b3e4e7a7b4",
       "date": "2026-04-28",
       "time": "18:30",
@@ -238,6 +212,40 @@
     }
   ],
   "results": [
+    {
+      "id": "96b90a13974cdcdae5a9110b27de6482",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "Silva FC Rushcliffe Red U11",
+      "away_team": "Market Warsop Mavericks U11",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat YEL Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Market Warsop Mavericks U11",
+      "home_away": "away",
+      "opponent": "Silva FC Rushcliffe Red U11",
+      "goals_for": 1,
+      "goals_against": 4
+    },
+    {
+      "id": "f1677a0d00536a2bba5bb625fee68456",
+      "date": "2026-04-21",
+      "time": "18:15",
+      "home_team": "Quarrydale United U13",
+      "away_team": "Market Warsop Colts U13",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Market Warsop Colts U13",
+      "home_away": "away",
+      "opponent": "Quarrydale United U13",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "c16dbdc92e4bf165d570aa3544313512",
       "date": "2026-04-19",

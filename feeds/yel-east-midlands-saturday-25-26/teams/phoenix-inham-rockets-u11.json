@@ -1,19 +1,8 @@
 {
   "team": "Phoenix Inham Rockets U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "e692f6e1bab9d428a2dd5d6ee2788652",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Loughborough Emmanuel U11",
-      "away_team": "Phoenix Inham Rockets U11",
-      "venue": "Charnwood College, Loughborough LE11 4SQ",
-      "division": "U11 Sat Spring Div 6 Blue",
-      "home_away": "away",
-      "opponent": "Loughborough Emmanuel U11"
-    },
     {
       "id": "46c0905c192bf44a855b8131e90d0bf1",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e692f6e1bab9d428a2dd5d6ee2788652",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Loughborough Emmanuel U11",
+      "away_team": "Phoenix Inham Rockets U11",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 6 Blue",
+      "home_away": "away",
+      "opponent": "Loughborough Emmanuel U11",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "37050888fff10362c1976e26adb6ad7b",
       "date": "2026-04-18",

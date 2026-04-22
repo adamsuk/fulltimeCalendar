@@ -1,6 +1,6 @@
 {
   "club": "West Bridgford",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
     {
       "id": "3c2f4d185182fa444977a45747ad1f51",
@@ -27,19 +27,6 @@
       "team": "West Bridgford Colts U18 Rangers Girls",
       "home_away": "away",
       "opponent": "Belper Town Juniors U18 Girls"
-    },
-    {
-      "id": "5149d20191340949084f359a7fad1d66",
-      "date": "2026-04-21",
-      "time": "19:30",
-      "home_team": "West Bridgford Reserves",
-      "away_team": "Collingham FC",
-      "venue": "REGATTA WAY SPORTS GROUND",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "West Bridgford Reserves",
-      "home_away": "home",
-      "opponent": "Collingham FC"
     },
     {
       "id": "6f872eddb7f11f38049bff6a5bd56216",
@@ -316,6 +303,23 @@
     }
   ],
   "results": [
+    {
+      "id": "5149d20191340949084f359a7fad1d66",
+      "date": "2026-04-21",
+      "time": "19:30",
+      "home_team": "West Bridgford Reserves",
+      "away_team": "Collingham FC",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "West Bridgford Reserves",
+      "home_away": "home",
+      "opponent": "Collingham FC",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "c581b41f4e46360a45d3146cbea2e2c9",
       "date": "2026-04-19",

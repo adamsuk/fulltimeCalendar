@@ -1,6 +1,6 @@
 {
   "club": "Awsworth Villa",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
     {
       "id": "9f4caf9fc4a9fc217a70e59ef0097a6a",
@@ -14,19 +14,6 @@
       "team": "Awsworth Villa Reserves",
       "home_away": "away",
       "opponent": "Harrowby United Reserves"
-    },
-    {
-      "id": "be9b83f7be590e41b92b28d1e5d48833",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "Awsworth Villa FC",
-      "away_team": "Notts Olympic FC",
-      "venue": "SHILO PARK ZINDA GROUND",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Awsworth Villa FC",
-      "home_away": "home",
-      "opponent": "Notts Olympic FC"
     },
     {
       "id": "66d342120a99bc2d507bc8d0da52640b",
@@ -147,6 +134,23 @@
     }
   ],
   "results": [
+    {
+      "id": "be9b83f7be590e41b92b28d1e5d48833",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "Awsworth Villa FC",
+      "away_team": "Notts Olympic FC",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Awsworth Villa FC",
+      "home_away": "home",
+      "opponent": "Notts Olympic FC",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "244864579883674db02ba5d5308b969e",
       "date": "2026-04-18",

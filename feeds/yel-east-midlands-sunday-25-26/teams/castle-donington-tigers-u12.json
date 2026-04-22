@@ -1,19 +1,8 @@
 {
   "team": "Castle Donington Tigers U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "26ba591723f57ed1aaee169a3cfb4de3",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Riverside FC Real U12",
-      "away_team": "Castle Donington Tigers U12",
-      "venue": "Melbourne Court NG10 3EE",
-      "division": "U12 Sun Spring Div 5",
-      "home_away": "away",
-      "opponent": "Riverside FC Real U12"
-    },
     {
       "id": "9fcadef0e4dcbb9a9e124f5bb7dadbd1",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "26ba591723f57ed1aaee169a3cfb4de3",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Riverside FC Real U12",
+      "away_team": "Castle Donington Tigers U12",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sun Spring Div 5",
+      "home_away": "away",
+      "opponent": "Riverside FC Real U12",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "f9f9ba3a059ddd1f63406bd7b68adb87",
       "date": "2026-04-19",

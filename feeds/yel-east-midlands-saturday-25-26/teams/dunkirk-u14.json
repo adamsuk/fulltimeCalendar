@@ -1,19 +1,8 @@
 {
   "team": "Dunkirk U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "5ca59def59e35f94649e7b2e731d17bb",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Burton Joyce Blue U14",
-      "away_team": "Dunkirk U14",
-      "venue": "The Poplars, Burton Joyce  NG14 5AN",
-      "division": "U14 Sat YEL Trophy (Revised)",
-      "home_away": "away",
-      "opponent": "Burton Joyce Blue U14"
-    },
     {
       "id": "4405e2cef9327f33baef87739bff2a7a",
       "date": "2026-04-25",
@@ -35,9 +24,35 @@
       "division": "u14 Sat Spring Div 1 Silver",
       "home_away": "away",
       "opponent": "Ilkeston Town Robins U14"
+    },
+    {
+      "id": "e5e7aa46d7f9cd58f319b02f98c6066e",
+      "date": "2026-05-02",
+      "time": "10:00",
+      "home_team": "Dunkirk U14",
+      "away_team": "Quarrydale United Yellow U14",
+      "venue": "Ron Steel Sports Ground  NG7 2SA",
+      "division": "U14 Sat YEL Trophy (Revised)",
+      "home_away": "home",
+      "opponent": "Quarrydale United Yellow U14"
     }
   ],
   "results": [
+    {
+      "id": "5ca59def59e35f94649e7b2e731d17bb",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Burton Joyce Blue U14",
+      "away_team": "Dunkirk U14",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Sat YEL Trophy (Revised)",
+      "home_away": "away",
+      "opponent": "Burton Joyce Blue U14",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "c0a26045a02979081c519ea35d0bb1d6",
       "date": "2026-04-18",

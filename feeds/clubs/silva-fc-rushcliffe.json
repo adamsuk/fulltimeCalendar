@@ -1,20 +1,7 @@
 {
   "club": "Silva FC Rushcliffe",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "3e09e3de159251b566b8c05a84f62647",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Silva FC Rushcliffe Red U11",
-      "away_team": "Willington FC Rams CM U11",
-      "venue": "Rushcliffe School  NG2 7BW",
-      "division": "U11 Sat Spring Div 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Silva FC Rushcliffe Red U11",
-      "home_away": "home",
-      "opponent": "Willington FC Rams CM U11"
-    },
     {
       "id": "8ed3e7601295b9addf572270fbc38663",
       "date": "2026-04-19",
@@ -27,19 +14,6 @@
       "team": "Silva FC U13 Rushcliffe Pink",
       "home_away": "away",
       "opponent": "Arnold Eagles F.C. Girls U13 Harriers"
-    },
-    {
-      "id": "96b90a13974cdcdae5a9110b27de6482",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "Silva FC Rushcliffe Red U11",
-      "away_team": "Market Warsop Mavericks U11",
-      "venue": "Rushcliffe School  NG2 7BW",
-      "division": "U11 Sat YEL Trophy",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Silva FC Rushcliffe Red U11",
-      "home_away": "home",
-      "opponent": "Market Warsop Mavericks U11"
     },
     {
       "id": "94db976d3dfa52b09a12ed302fc3222e",
@@ -114,6 +88,19 @@
       "away_team": "Silva FC Rushcliffe Red U11",
       "venue": "Butt Field NG13 8GG",
       "division": "U11 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Silva FC Rushcliffe Red U11",
+      "home_away": "away",
+      "opponent": "Bingham Town Red U11"
+    },
+    {
+      "id": "cf47b98ec72551162da2f8cbd06bac72",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Bingham Town Red U11",
+      "away_team": "Silva FC Rushcliffe Red U11",
+      "venue": "Butt Field NG13 8GG",
+      "division": "U11 Sat YEL Trophy",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Silva FC Rushcliffe Red U11",
       "home_away": "away",
@@ -303,6 +290,23 @@
     }
   ],
   "results": [
+    {
+      "id": "96b90a13974cdcdae5a9110b27de6482",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "Silva FC Rushcliffe Red U11",
+      "away_team": "Market Warsop Mavericks U11",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat YEL Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Silva FC Rushcliffe Red U11",
+      "home_away": "home",
+      "opponent": "Market Warsop Mavericks U11",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "7ba8fa91f1f6bb3db10f01922f0215c0",
       "date": "2026-04-19",

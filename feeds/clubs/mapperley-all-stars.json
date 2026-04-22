@@ -1,20 +1,7 @@
 {
   "club": "Mapperley All Stars",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "881baa138198a381b938ef627036ef57",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "G3A FC Zenit U13",
-      "away_team": "Mapperley All Stars Blue U13",
-      "venue": "Manor Park Sports Complex NG19 8JX",
-      "division": "U13 Sat YEL Foundation Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Mapperley All Stars Blue U13",
-      "home_away": "away",
-      "opponent": "G3A FC Zenit U13"
-    },
     {
       "id": "8385a52bcd76eae1874563c14efd3824",
       "date": "2026-04-25",
@@ -212,6 +199,23 @@
     }
   ],
   "results": [
+    {
+      "id": "881baa138198a381b938ef627036ef57",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "G3A FC Zenit U13",
+      "away_team": "Mapperley All Stars Blue U13",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat YEL Foundation Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mapperley All Stars Blue U13",
+      "home_away": "away",
+      "opponent": "G3A FC Zenit U13",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "0cf893796ac0f3c190ed37b7b5297420",
       "date": "2026-04-19",

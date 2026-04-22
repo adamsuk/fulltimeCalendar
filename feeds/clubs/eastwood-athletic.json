@@ -1,33 +1,7 @@
 {
   "club": "Eastwood Athletic",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "cca4f4c852cdf0940944d76791406094",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Eastwood Athletic Trojans U9",
-      "away_team": "Keyworth United Red U9",
-      "venue": "Hall Park NG16 3AR",
-      "division": "U9 Sat Spring Div 9 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Eastwood Athletic Trojans U9",
-      "home_away": "home",
-      "opponent": "Keyworth United Red U9"
-    },
-    {
-      "id": "d19c3d09caf79492602051fb70b805ee",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "Loughborough Eml Foxes U13",
-      "away_team": "Eastwood Athletic Eagles U13",
-      "venue": "Charnwood College, Loughborough LE11 4SQ",
-      "division": "U13 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Eastwood Athletic Eagles U13",
-      "home_away": "away",
-      "opponent": "Loughborough Eml Foxes U13"
-    },
     {
       "id": "a4a4c56b0218f256830bc9bdab91bff0",
       "date": "2026-04-22",
@@ -146,6 +120,19 @@
       "opponent": "Wollaton H & B Wolves U13"
     },
     {
+      "id": "b663b82b159da8b04cc14f64fc5a1ae7",
+      "date": "2026-05-02",
+      "time": "10:00",
+      "home_team": "Mickleover Jnrs Porto U13",
+      "away_team": "Eastwood Athletic Eagles U13",
+      "venue": "Varsity Grange Football Complex DE3 9EB",
+      "division": "U13 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Eastwood Athletic Eagles U13",
+      "home_away": "away",
+      "opponent": "Mickleover Jnrs Porto U13"
+    },
+    {
       "id": "8f56ad48cdeaa28c20be68f541ca71bc",
       "date": "2026-05-10",
       "time": "13:30",
@@ -160,6 +147,23 @@
     }
   ],
   "results": [
+    {
+      "id": "d19c3d09caf79492602051fb70b805ee",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "Loughborough Eml Foxes U13",
+      "away_team": "Eastwood Athletic Eagles U13",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Eastwood Athletic Eagles U13",
+      "home_away": "away",
+      "opponent": "Loughborough Eml Foxes U13",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "cea4579bbbb4d52e1bc76b2fc8620427",
       "date": "2026-04-19",

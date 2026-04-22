@@ -1,6 +1,6 @@
 {
   "club": "Burton Joyce",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
     {
       "id": "7102956156fa8e2bb4104bfe24b25f0d",
@@ -14,32 +14,6 @@
       "team": "Burton Joyce F.C. Girls U12 Olympians",
       "home_away": "away",
       "opponent": "Hucknall & Linby Harriers FC U12"
-    },
-    {
-      "id": "5ca59def59e35f94649e7b2e731d17bb",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Burton Joyce Blue U14",
-      "away_team": "Dunkirk U14",
-      "venue": "The Poplars, Burton Joyce  NG14 5AN",
-      "division": "U14 Sat YEL Trophy (Revised)",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Burton Joyce Blue U14",
-      "home_away": "home",
-      "opponent": "Dunkirk U14"
-    },
-    {
-      "id": "9c041d7397d6d6536879d3514d5f58a4",
-      "date": "2026-04-22",
-      "time": "18:30",
-      "home_team": "Pegasus FC",
-      "away_team": "Burton Joyce F.C. U23",
-      "venue": "PASTURE ROAD RECREATION GROUND",
-      "division": "Development Spring Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Burton Joyce F.C. U23",
-      "home_away": "away",
-      "opponent": "Pegasus FC"
     },
     {
       "id": "9bf2e2ea69848771e773c6dbb746f349",
@@ -276,19 +250,6 @@
       "opponent": "Arnold Town Maroon U12"
     },
     {
-      "id": "edb84c8758d5d22d4723acc372d0a68f",
-      "date": "2026-05-02",
-      "time": "10:30",
-      "home_team": "Burton Joyce F.C. U23",
-      "away_team": "Pegasus FC",
-      "venue": "POPLARS SPORTS GROUND",
-      "division": "Development Spring Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Burton Joyce F.C. U23",
-      "home_away": "home",
-      "opponent": "Pegasus FC"
-    },
-    {
       "id": "2250f211b95872903ad9bda42c24de0d",
       "date": "2026-05-03",
       "time": "10:00",
@@ -472,6 +433,23 @@
     }
   ],
   "results": [
+    {
+      "id": "5ca59def59e35f94649e7b2e731d17bb",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Burton Joyce Blue U14",
+      "away_team": "Dunkirk U14",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Sat YEL Trophy (Revised)",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Burton Joyce Blue U14",
+      "home_away": "home",
+      "opponent": "Dunkirk U14",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "4091f3eb030c8ecfa662390e24df2413",
       "date": "2026-04-19",

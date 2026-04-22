@@ -1,6 +1,6 @@
 {
   "club": "Radcliffe Olympic",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
     {
       "id": "e5d78556f73c8beb876ad4111db2e5c0",
@@ -14,45 +14,6 @@
       "team": "Radcliffe Olympic FC U16 Girls",
       "home_away": "home",
       "opponent": "Southwell City FC U16 Girls"
-    },
-    {
-      "id": "a90eb19de0addefffb24b2f6f426c608",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Radcliffe Olympic Blue U11",
-      "away_team": "DLFC Green U11",
-      "venue": "Bingham Road NG12 2GP",
-      "division": "U11 Sat Spring Div 8",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Radcliffe Olympic Blue U11",
-      "home_away": "home",
-      "opponent": "DLFC Green U11"
-    },
-    {
-      "id": "f964fca89de2a131ffecb6099d192f6e",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Hucknall Sports Red U14",
-      "away_team": "Radcliffe Olympic Rockets U14",
-      "venue": "Goosedale Sports Club NG6 8UJ",
-      "division": "u14 Sat Spring Div 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Radcliffe Olympic Rockets U14",
-      "home_away": "away",
-      "opponent": "Hucknall Sports Red U14"
-    },
-    {
-      "id": "74003dd6edb8b62120d7dd16f85fe2e8",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "Newark Brazil Rio U10",
-      "away_team": "Radcliffe Olympic Outlaws U10",
-      "venue": "Claypole Playing Field NG23 5BQ",
-      "division": "U10 Sat Spring Div 9 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Radcliffe Olympic Outlaws U10",
-      "home_away": "away",
-      "opponent": "Newark Brazil Rio U10"
     },
     {
       "id": "0ed97260cbd453abf7deb723410ef124",
@@ -550,6 +511,57 @@
     }
   ],
   "results": [
+    {
+      "id": "74003dd6edb8b62120d7dd16f85fe2e8",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "Newark Brazil Rio U10",
+      "away_team": "Radcliffe Olympic Outlaws U10",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 9 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Radcliffe Olympic Outlaws U10",
+      "home_away": "away",
+      "opponent": "Newark Brazil Rio U10",
+      "goals_for": 1,
+      "goals_against": 6
+    },
+    {
+      "id": "a90eb19de0addefffb24b2f6f426c608",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Radcliffe Olympic Blue U11",
+      "away_team": "DLFC Green U11",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U11 Sat Spring Div 8",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Radcliffe Olympic Blue U11",
+      "home_away": "home",
+      "opponent": "DLFC Green U11",
+      "goals_for": 0,
+      "goals_against": 5
+    },
+    {
+      "id": "f964fca89de2a131ffecb6099d192f6e",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Hucknall Sports Red U14",
+      "away_team": "Radcliffe Olympic Rockets U14",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "u14 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Radcliffe Olympic Rockets U14",
+      "home_away": "away",
+      "opponent": "Hucknall Sports Red U14",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "6c76c7228e1752698b690d6caef85a09",
       "date": "2026-04-19",

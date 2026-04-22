@@ -1,19 +1,8 @@
 {
   "team": "Nottingham FC Green U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "dff9f0cfff11e4482183ad3d52eced7a",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "Nottingham FC Green U12",
-      "away_team": "Stapleford Town Saxons U12",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U12 Sat YEL Shield",
-      "home_away": "home",
-      "opponent": "Stapleford Town Saxons U12"
-    },
     {
       "id": "4d2a97689522f769a3aaa4f71078b1a1",
       "date": "2026-04-25",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "dff9f0cfff11e4482183ad3d52eced7a",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "Nottingham FC Green U12",
+      "away_team": "Stapleford Town Saxons U12",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat YEL Shield",
+      "home_away": "home",
+      "opponent": "Stapleford Town Saxons U12",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "c92b97d4908e229eb9cdf60fc95c5b40",
       "date": "2026-04-18",

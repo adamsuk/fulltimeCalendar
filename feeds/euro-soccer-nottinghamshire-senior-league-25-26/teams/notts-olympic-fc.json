@@ -1,19 +1,8 @@
 {
   "team": "Notts Olympic FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "be9b83f7be590e41b92b28d1e5d48833",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "Awsworth Villa FC",
-      "away_team": "Notts Olympic FC",
-      "venue": "SHILO PARK ZINDA GROUND",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Awsworth Villa FC"
-    },
     {
       "id": "521be4d92088e53253184f3027dd024c",
       "date": "2026-04-25",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "be9b83f7be590e41b92b28d1e5d48833",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "Awsworth Villa FC",
+      "away_team": "Notts Olympic FC",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Awsworth Villa FC",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "50a001275f211bc53e2f33910bb33e05",
       "date": "2026-04-18",

@@ -1,6 +1,6 @@
 {
   "club": "Stapleford Town",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
     {
       "id": "71ff33cc0a0c78af145dd7dfe9f0bd6b",
@@ -40,32 +40,6 @@
       "team": "Stapleford Town Saxons U12",
       "home_away": "home",
       "opponent": "WBYFC Palmeiras U12"
-    },
-    {
-      "id": "07b1b14c9805342b9955f7f014e564a8",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "Club FDNA Madrid U10",
-      "away_team": "Stapleford Town Saxons U10",
-      "venue": "Bilborough College NG8 4DQ",
-      "division": "U10 Sat Spring Div 3 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Stapleford Town Saxons U10",
-      "home_away": "away",
-      "opponent": "Club FDNA Madrid U10"
-    },
-    {
-      "id": "dff9f0cfff11e4482183ad3d52eced7a",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "Nottingham FC Green U12",
-      "away_team": "Stapleford Town Saxons U12",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U12 Sat YEL Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Stapleford Town Saxons U12",
-      "home_away": "away",
-      "opponent": "Nottingham FC Green U12"
     },
     {
       "id": "9b49033515e43f02acf7afcd771dac95",
@@ -289,32 +263,6 @@
       "opponent": "Basford CFC Blue U10"
     },
     {
-      "id": "b772f8fb05f26c04ce9d6936a7b59f61",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Keyworth United F.C. U13 Girls",
-      "away_team": "Stapleford Town FC U13 Girls",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "U13 Div 1 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Stapleford Town FC U13 Girls",
-      "home_away": "away",
-      "opponent": "Keyworth United F.C. U13 Girls"
-    },
-    {
-      "id": "b961d8df6a838c58baff914f075ac41d",
-      "date": "2026-04-26",
-      "time": "10:30",
-      "home_team": "Stapleford Town Saxons U11",
-      "away_team": "Ruddington Village Yellow U11",
-      "venue": "Ilkeston Road Recreation Ground NG9 8PA",
-      "division": "U11 Sun Spring Div 4 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Stapleford Town Saxons U11",
-      "home_away": "home",
-      "opponent": "Ruddington Village Yellow U11"
-    },
-    {
       "id": "cf27f7beaefe1f497588c5209ddd5705",
       "date": "2026-04-26",
       "time": "10:30",
@@ -341,9 +289,22 @@
       "opponent": "Cotgrave FC White U12"
     },
     {
+      "id": "b772f8fb05f26c04ce9d6936a7b59f61",
+      "date": "2026-04-26",
+      "time": "11:30",
+      "home_team": "Keyworth United F.C. U13 Girls",
+      "away_team": "Stapleford Town FC U13 Girls",
+      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
+      "division": "U13 Div 1 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Stapleford Town FC U13 Girls",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U13 Girls"
+    },
+    {
       "id": "532988e0eaf4e37491bc3c1453bef340",
       "date": "2026-05-02",
-      "time": "10:30",
+      "time": "10:00",
       "home_team": "Newark Town FC U23's",
       "away_team": "Stapleford Town FC U23",
       "venue": "Devon Park",
@@ -378,19 +339,6 @@
       "team": "Stapleford Town FC U15 Girls",
       "home_away": "away",
       "opponent": "Holy Spirit Celtic FC U15"
-    },
-    {
-      "id": "a612241c74414edbc11d3fdb145f1eff",
-      "date": "2026-05-06",
-      "time": "19:30",
-      "home_team": "Stapleford Town FC U23",
-      "away_team": "Pegasus FC",
-      "venue": "STAPLEFORD COMMUNITY PAVILION",
-      "division": "Development Spring Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Stapleford Town FC U23",
-      "home_away": "home",
-      "opponent": "Pegasus FC"
     },
     {
       "id": "aff54714a4a353790b339d003780965b",
@@ -524,6 +472,40 @@
     }
   ],
   "results": [
+    {
+      "id": "07b1b14c9805342b9955f7f014e564a8",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "Club FDNA Madrid U10",
+      "away_team": "Stapleford Town Saxons U10",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sat Spring Div 3 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Stapleford Town Saxons U10",
+      "home_away": "away",
+      "opponent": "Club FDNA Madrid U10",
+      "goals_for": 3,
+      "goals_against": 4
+    },
+    {
+      "id": "dff9f0cfff11e4482183ad3d52eced7a",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "Nottingham FC Green U12",
+      "away_team": "Stapleford Town Saxons U12",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Stapleford Town Saxons U12",
+      "home_away": "away",
+      "opponent": "Nottingham FC Green U12",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "c0d62bb71b24addfbf00394c116a5452",
       "date": "2026-04-19",

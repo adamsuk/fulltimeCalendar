@@ -1,6 +1,6 @@
 {
   "club": "Nottingham",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
     {
       "id": "8051408102ccf9973fdcdfc43aaf2c82",
@@ -27,32 +27,6 @@
       "team": "Nottingham F.C. Youth U16 Piranhas",
       "home_away": "home",
       "opponent": "Brodsworth Welfare AFC- Warriors U16"
-    },
-    {
-      "id": "a36ba92de9e73361777f6964e04739ae",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Long Eaton United Purple U11",
-      "away_team": "Nottingham FC Emeralds U11",
-      "venue": "Grange Park NG10 2EF",
-      "division": "U11 Sat Spring Div 5 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Nottingham FC Emeralds U11",
-      "home_away": "away",
-      "opponent": "Long Eaton United Purple U11"
-    },
-    {
-      "id": "dff9f0cfff11e4482183ad3d52eced7a",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "Nottingham FC Green U12",
-      "away_team": "Stapleford Town Saxons U12",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U12 Sat YEL Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Nottingham FC Green U12",
-      "home_away": "home",
-      "opponent": "Stapleford Town Saxons U12"
     },
     {
       "id": "be297e5abe45f180bf0a41d5b39f5f0c",
@@ -459,6 +433,40 @@
     }
   ],
   "results": [
+    {
+      "id": "dff9f0cfff11e4482183ad3d52eced7a",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "Nottingham FC Green U12",
+      "away_team": "Stapleford Town Saxons U12",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Green U12",
+      "home_away": "home",
+      "opponent": "Stapleford Town Saxons U12",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
+      "id": "a36ba92de9e73361777f6964e04739ae",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Long Eaton United Purple U11",
+      "away_team": "Nottingham FC Emeralds U11",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 5 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Emeralds U11",
+      "home_away": "away",
+      "opponent": "Long Eaton United Purple U11",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "cdbc7241da98ecb48097758441178c37",
       "date": "2026-04-19",

@@ -1,19 +1,8 @@
 {
   "team": "AFC Chellaston Gladiators U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "09a4c04b978320886ec3ebb1eef80801",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Phoenix Inham Ignite U13",
-      "away_team": "AFC Chellaston Gladiators U13",
-      "venue": "Inham Nook Recreation Ground NG9 4GQ",
-      "division": "U13 Sat Spring Div 7 Blue",
-      "home_away": "away",
-      "opponent": "Phoenix Inham Ignite U13"
-    },
     {
       "id": "37870d51071ae572821b2f3e28cfba05",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "09a4c04b978320886ec3ebb1eef80801",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Phoenix Inham Ignite U13",
+      "away_team": "AFC Chellaston Gladiators U13",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sat Spring Div 7 Blue",
+      "home_away": "away",
+      "opponent": "Phoenix Inham Ignite U13",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "24f0e4898f37155b54b9c2f472cb37a2",
       "date": "2026-04-18",

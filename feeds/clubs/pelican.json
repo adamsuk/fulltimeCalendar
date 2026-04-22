@@ -1,6 +1,6 @@
 {
   "club": "Pelican",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
     {
       "id": "30ca6cb54aa4519f419c8085c7a771ce",
@@ -16,19 +16,6 @@
       "opponent": "Lowdham Colts FC Development"
     },
     {
-      "id": "bad95032ad3ff0784b23dbd185b4e695",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Quarrydale United U11",
-      "away_team": "Pelican Colts U11",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U11 Sun Spring Div 6 Gold",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Pelican Colts U11",
-      "home_away": "away",
-      "opponent": "Quarrydale United U11"
-    },
-    {
       "id": "29c0bd61f269d0fe48ac323200172b69",
       "date": "2026-04-19",
       "time": "14:00",
@@ -40,19 +27,6 @@
       "team": "Pelican Colts FC Ladies",
       "home_away": "home",
       "opponent": "Ravenshead Reds FC"
-    },
-    {
-      "id": "5f3663c9b53d9160d289b4622569b324",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Pelican Colts Red U13",
-      "away_team": "Clifton All Whites Blue U13",
-      "venue": "Dave Eastwood Sports Ground NG7 2SA",
-      "division": "U13 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Pelican Colts Red U13",
-      "home_away": "home",
-      "opponent": "Clifton All Whites Blue U13"
     },
     {
       "id": "beff5ced5942746c31b4257c6eabfdd2",
@@ -200,6 +174,23 @@
   ],
   "results": [
     {
+      "id": "5f3663c9b53d9160d289b4622569b324",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Pelican Colts Red U13",
+      "away_team": "Clifton All Whites Blue U13",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U13 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Pelican Colts Red U13",
+      "home_away": "home",
+      "opponent": "Clifton All Whites Blue U13",
+      "goals_for": 2,
+      "goals_against": 5
+    },
+    {
       "id": "51ff2af2dd76c1161df9a378c14c48ca",
       "date": "2026-04-19",
       "time": "11:00",
@@ -232,6 +223,23 @@
       "opponent": "Keyworth United White U10",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "bad95032ad3ff0784b23dbd185b4e695",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Quarrydale United U11",
+      "away_team": "Pelican Colts U11",
+      "home_score": 6,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sun Spring Div 6 Gold",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Pelican Colts U11",
+      "home_away": "away",
+      "opponent": "Quarrydale United U11",
+      "goals_for": 2,
+      "goals_against": 6
     },
     {
       "id": "233f1f8180ef8ebd6cc01f6097278da8",

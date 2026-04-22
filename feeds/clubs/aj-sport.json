@@ -1,6 +1,6 @@
 {
   "club": "AJ Sport",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
     {
       "id": "6cf2b543cd315c5e29610b0673c1a237",
@@ -27,45 +27,6 @@
       "team": "AJ Sport F.C. Reserves",
       "home_away": "away",
       "opponent": "Rolls Royce FC"
-    },
-    {
-      "id": "d67059be8c465ca7815e6d99d7190239",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "AJ Sport FC U13",
-      "away_team": "Mickleover Country Park U13",
-      "venue": "Central Ave NG9 2QT",
-      "division": "U13 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "AJ Sport FC U13",
-      "home_away": "home",
-      "opponent": "Mickleover Country Park U13"
-    },
-    {
-      "id": "1cb73fe7e5b3e68c5d85bd69ea25afef",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "AJ Sport FC U14",
-      "away_team": "Bottesford FC Blue U14",
-      "venue": "Beeston Fields Recreation Ground NG9 2QT",
-      "division": "U14 Sat YEL Trophy (Revised)",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "AJ Sport FC U14",
-      "home_away": "home",
-      "opponent": "Bottesford FC Blue U14"
-    },
-    {
-      "id": "4eebd4153b92ef09ba799c8c081f9c34",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "Trent Vineyard FC",
-      "away_team": "AJ Sport F.C. Reserves",
-      "venue": "CHILWELL OLYMPIA SPORTS CENTRE",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "AJ Sport F.C. Reserves",
-      "home_away": "away",
-      "opponent": "Trent Vineyard FC"
     },
     {
       "id": "606f37fa91ee99b7717e9911df648b81",
@@ -329,6 +290,57 @@
     }
   ],
   "results": [
+    {
+      "id": "4eebd4153b92ef09ba799c8c081f9c34",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "Trent Vineyard FC",
+      "away_team": "AJ Sport F.C. Reserves",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "AJ Sport F.C. Reserves",
+      "home_away": "away",
+      "opponent": "Trent Vineyard FC",
+      "goals_for": 1,
+      "goals_against": 1
+    },
+    {
+      "id": "d67059be8c465ca7815e6d99d7190239",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "AJ Sport FC U13",
+      "away_team": "Mickleover Country Park U13",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "AJ Sport FC U13",
+      "home_away": "home",
+      "opponent": "Mickleover Country Park U13",
+      "goals_for": 1,
+      "goals_against": 4
+    },
+    {
+      "id": "1cb73fe7e5b3e68c5d85bd69ea25afef",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "AJ Sport FC U14",
+      "away_team": "Bottesford FC Blue U14",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Sat YEL Trophy (Revised)",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "AJ Sport FC U14",
+      "home_away": "home",
+      "opponent": "Bottesford FC Blue U14",
+      "goals_for": 6,
+      "goals_against": 0
+    },
     {
       "id": "a9a71adae9fb239c52f62f07fca9dc6b",
       "date": "2026-04-19",

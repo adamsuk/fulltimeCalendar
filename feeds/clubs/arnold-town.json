@@ -1,6 +1,6 @@
 {
   "club": "Arnold Town",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
     {
       "id": "082583a9f18d4f91a7ce49b0197eb07c",
@@ -14,32 +14,6 @@
       "team": "Arnold Town Reserves",
       "home_away": "away",
       "opponent": "Notts Olympic Reserves"
-    },
-    {
-      "id": "9e176df1f608468f8313402f30b5e80c",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Selston FC U7",
-      "away_team": "Arnold Town U7",
-      "venue": "Selston Parish NG16 6EE",
-      "division": "U7 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Arnold Town U7",
-      "home_away": "away",
-      "opponent": "Selston FC U7"
-    },
-    {
-      "id": "03db302abaf99444c515803db2e6e233",
-      "date": "2026-04-21",
-      "time": "19:30",
-      "home_team": "Cotgrave FC",
-      "away_team": "Arnold Town FC",
-      "venue": "COTGRAVE WELFARE CLUB #1",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Arnold Town FC",
-      "home_away": "away",
-      "opponent": "Cotgrave FC"
     },
     {
       "id": "6c6b0c2c7350cb1d626b0ff3839b7a81",
@@ -498,6 +472,23 @@
     }
   ],
   "results": [
+    {
+      "id": "03db302abaf99444c515803db2e6e233",
+      "date": "2026-04-21",
+      "time": "19:30",
+      "home_team": "Cotgrave FC",
+      "away_team": "Arnold Town FC",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Arnold Town FC",
+      "home_away": "away",
+      "opponent": "Cotgrave FC",
+      "goals_for": 1,
+      "goals_against": 6
+    },
     {
       "id": "ac36d4ad8190aaafc2c5118f0921a681",
       "date": "2026-04-19",

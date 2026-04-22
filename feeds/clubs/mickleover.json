@@ -1,33 +1,7 @@
 {
   "club": "Mickleover",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "d67059be8c465ca7815e6d99d7190239",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "AJ Sport FC U13",
-      "away_team": "Mickleover Country Park U13",
-      "venue": "Central Ave NG9 2QT",
-      "division": "U13 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Mickleover Country Park U13",
-      "home_away": "away",
-      "opponent": "AJ Sport FC U13"
-    },
-    {
-      "id": "daabe746380f6dbb40bc028c90aad240",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "Sherwood Colliery U11",
-      "away_team": "Mickleover RBL Giants U11",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U11 Sat YEL Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Mickleover RBL Giants U11",
-      "home_away": "away",
-      "opponent": "Sherwood Colliery U11"
-    },
     {
       "id": "6e99a91717019b8eae11ced45750c6d2",
       "date": "2026-04-25",
@@ -108,6 +82,40 @@
     }
   ],
   "results": [
+    {
+      "id": "daabe746380f6dbb40bc028c90aad240",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "Sherwood Colliery U11",
+      "away_team": "Mickleover RBL Giants U11",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U11 Sat YEL Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mickleover RBL Giants U11",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery U11",
+      "goals_for": 4,
+      "goals_against": 2
+    },
+    {
+      "id": "d67059be8c465ca7815e6d99d7190239",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "AJ Sport FC U13",
+      "away_team": "Mickleover Country Park U13",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mickleover Country Park U13",
+      "home_away": "away",
+      "opponent": "AJ Sport FC U13",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "f7bd20ab9e83e03a0a59325621ff2f38",
       "date": "2026-04-19",

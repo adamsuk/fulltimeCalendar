@@ -1,19 +1,8 @@
 {
   "team": "Bottesford U14 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "edbc7d4f2bb2471036fb5a51baa845ef",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "Arnold Eagles F.C. Girls U14 Tornadoes",
-      "away_team": "Bottesford U14 Girls",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "U14 Div 1",
-      "home_away": "away",
-      "opponent": "Arnold Eagles F.C. Girls U14 Tornadoes"
-    },
     {
       "id": "4624cfd8cc8bf66d91087548fba314c7",
       "date": "2026-05-10",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "edbc7d4f2bb2471036fb5a51baa845ef",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "Arnold Eagles F.C. Girls U14 Tornadoes",
+      "away_team": "Bottesford U14 Girls",
+      "home_score": 6,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Div 1",
+      "home_away": "away",
+      "opponent": "Arnold Eagles F.C. Girls U14 Tornadoes",
+      "goals_for": 4,
+      "goals_against": 6
+    },
     {
       "id": "89e86d416fac26f6b2702a5099d94b14",
       "date": "2026-04-19",

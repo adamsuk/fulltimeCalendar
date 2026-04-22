@@ -1,6 +1,6 @@
 {
   "club": "Keyworth",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
     {
       "id": "67bc4be566a984541f88c71aa3c3fc04",
@@ -55,19 +55,6 @@
       "opponent": "Bestwood Colliery Red U12"
     },
     {
-      "id": "cca4f4c852cdf0940944d76791406094",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Eastwood Athletic Trojans U9",
-      "away_team": "Keyworth United Red U9",
-      "venue": "Hall Park NG16 3AR",
-      "division": "U9 Sat Spring Div 9 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Keyworth United Red U9",
-      "home_away": "away",
-      "opponent": "Eastwood Athletic Trojans U9"
-    },
-    {
       "id": "7ad09b4e281ab2b113e90987aadda1c3",
       "date": "2026-04-19",
       "time": "10:30",
@@ -79,32 +66,6 @@
       "team": "Keyworth United F.C. U14 Thunder",
       "home_away": "away",
       "opponent": "Market Warsop F.C. Youth U14 Lionesses"
-    },
-    {
-      "id": "9f0da9d1f7ec625bf2f01f0b887bbf00",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Keyworth United Blue U12",
-      "away_team": "Newark Brazil Santos U12",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U12 Sat YEL Inter Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Keyworth United Blue U12",
-      "home_away": "home",
-      "opponent": "Newark Brazil Santos U12"
-    },
-    {
-      "id": "6226394bc1bf619c00539223388006d9",
-      "date": "2026-04-21",
-      "time": "19:45",
-      "home_team": "Kimberley Miners Welfare Reserves",
-      "away_team": "Keyworth United FC",
-      "venue": "STAG RECREATION GROUND",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Keyworth United FC",
-      "home_away": "away",
-      "opponent": "Kimberley Miners Welfare Reserves"
     },
     {
       "id": "bbd8d7c2e59744da5279f654cd6b5645",
@@ -588,19 +549,6 @@
       "opponent": "Arnold Eagles F.C. Girls U12 FC"
     },
     {
-      "id": "b772f8fb05f26c04ce9d6936a7b59f61",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Keyworth United F.C. U13 Girls",
-      "away_team": "Stapleford Town FC U13 Girls",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "U13 Div 1 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Keyworth United F.C. U13 Girls",
-      "home_away": "home",
-      "opponent": "Stapleford Town FC U13 Girls"
-    },
-    {
       "id": "0cbce120900edb075794bbbe1f29fad4",
       "date": "2026-04-26",
       "time": "10:00",
@@ -625,6 +573,19 @@
       "team": "Keyworth United Yellow U13",
       "home_away": "away",
       "opponent": "Sneinton Town U13"
+    },
+    {
+      "id": "b772f8fb05f26c04ce9d6936a7b59f61",
+      "date": "2026-04-26",
+      "time": "11:30",
+      "home_team": "Keyworth United F.C. U13 Girls",
+      "away_team": "Stapleford Town FC U13 Girls",
+      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
+      "division": "U13 Div 1 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Keyworth United F.C. U13 Girls",
+      "home_away": "home",
+      "opponent": "Stapleford Town FC U13 Girls"
     },
     {
       "id": "e6020b60f1f83a2629a87c86b279236d",
@@ -978,16 +939,16 @@
       "opponent": "Allenton United FC U15 Ladies Bees"
     },
     {
-      "id": "b0587f4709121e9438eea992274d8abf",
+      "id": "e6f52d586cf5740d6a044c0fa98a08f0",
       "date": "2026-05-10",
       "time": "10:00",
-      "home_team": "Heanor Town Juniors U16 Tornados",
-      "away_team": "Keyworth United F.C. U16 Emeralds",
-      "venue": "ALDERCAR RECREATION GROUND",
+      "home_team": "Keyworth United F.C. U16 Emeralds",
+      "away_team": "Heanor Town Juniors U16 Tornados",
+      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
       "division": "U16 Div 3",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Keyworth United F.C. U16 Emeralds",
-      "home_away": "away",
+      "home_away": "home",
       "opponent": "Heanor Town Juniors U16 Tornados"
     },
     {
@@ -1057,6 +1018,40 @@
     }
   ],
   "results": [
+    {
+      "id": "6226394bc1bf619c00539223388006d9",
+      "date": "2026-04-21",
+      "time": "19:45",
+      "home_team": "Kimberley Miners Welfare Reserves",
+      "away_team": "Keyworth United FC",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Keyworth United FC",
+      "home_away": "away",
+      "opponent": "Kimberley Miners Welfare Reserves",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
+      "id": "9f0da9d1f7ec625bf2f01f0b887bbf00",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Keyworth United Blue U12",
+      "away_team": "Newark Brazil Santos U12",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Keyworth United Blue U12",
+      "home_away": "home",
+      "opponent": "Newark Brazil Santos U12",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "6e8a27a9d0ecb3af93366465830f2779",
       "date": "2026-04-19",

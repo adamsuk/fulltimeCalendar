@@ -1,20 +1,7 @@
 {
   "club": "Castle Donington",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "26ba591723f57ed1aaee169a3cfb4de3",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Riverside FC Real U12",
-      "away_team": "Castle Donington Tigers U12",
-      "venue": "Melbourne Court NG10 3EE",
-      "division": "U12 Sun Spring Div 5",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Castle Donington Tigers U12",
-      "home_away": "away",
-      "opponent": "Riverside FC Real U12"
-    },
     {
       "id": "443b8e16f005fecb4ec872e785ef89fc",
       "date": "2026-04-23",
@@ -79,19 +66,6 @@
       "team": "Castle Donington Hawks U9",
       "home_away": "home",
       "opponent": "Priory Celtic 1967 U9"
-    },
-    {
-      "id": "71a58b2ce799ac811b371440f8ff6ed3",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Castle Donington Jets U7",
-      "away_team": "East Leake Bantams Orange U7",
-      "venue": "Spital Park DE74 2NQ",
-      "division": "U7 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Castle Donington Jets U7",
-      "home_away": "home",
-      "opponent": "East Leake Bantams Orange U7"
     },
     {
       "id": "adbdfe106d8f203e8a06c16da249635c",
@@ -199,6 +173,23 @@
     }
   ],
   "results": [
+    {
+      "id": "26ba591723f57ed1aaee169a3cfb4de3",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Riverside FC Real U12",
+      "away_team": "Castle Donington Tigers U12",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sun Spring Div 5",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Castle Donington Tigers U12",
+      "home_away": "away",
+      "opponent": "Riverside FC Real U12",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "df58372713118d80dc05df69dd9142c9",
       "date": "2026-04-19",

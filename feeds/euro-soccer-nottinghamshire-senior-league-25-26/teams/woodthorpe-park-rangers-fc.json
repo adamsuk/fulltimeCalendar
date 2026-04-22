@@ -1,19 +1,8 @@
 {
   "team": "Woodthorpe Park Rangers FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "2e592a7238548ba8c9532e897acc5e2f",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Woodthorpe Park Rangers FC",
-      "away_team": "FC Cavaliers",
-      "venue": "EAGLE VALLEY #1",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "home",
-      "opponent": "FC Cavaliers"
-    },
     {
       "id": "29be0c8463a1b1e81f777bb03bbd2a85",
       "date": "2026-04-25",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2e592a7238548ba8c9532e897acc5e2f",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Woodthorpe Park Rangers FC",
+      "away_team": "FC Cavaliers",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "home",
+      "opponent": "FC Cavaliers",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "d7d2b2423fb2a63cbfff9ea0cf4232df",
       "date": "2026-04-18",

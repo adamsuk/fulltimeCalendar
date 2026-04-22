@@ -1,20 +1,7 @@
 {
   "club": "Silva FC Southglade",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "3c395006faad298453be4f3cf815a458",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Ollerton Town U14",
-      "away_team": "Silva FC Southglade Pink U14",
-      "venue": "WALESBY LANE NG22 9UT",
-      "division": "U14 Sat YEL Inter Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Silva FC Southglade Pink U14",
-      "home_away": "away",
-      "opponent": "Ollerton Town U14"
-    },
     {
       "id": "24d37df49691db4d0032a6abf8df54bc",
       "date": "2026-04-25",
@@ -27,6 +14,19 @@
       "team": "Silva FC Southglade Pink U14",
       "home_away": "home",
       "opponent": "Sneinton Town U14"
+    },
+    {
+      "id": "ab6ac55d84baf100da38996d671720df",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Mountsorrel Juniors U14",
+      "away_team": "Silva FC Southglade Pink U14",
+      "venue": "THE CEDARS ACADEMY LE4 4GH",
+      "division": "U14 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Silva FC Southglade Pink U14",
+      "home_away": "away",
+      "opponent": "Mountsorrel Juniors U14"
     },
     {
       "id": "43e2dfe9da287bacc5a65f317157fd9e",
@@ -82,6 +82,23 @@
     }
   ],
   "results": [
+    {
+      "id": "3c395006faad298453be4f3cf815a458",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Ollerton Town U14",
+      "away_team": "Silva FC Southglade Pink U14",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Silva FC Southglade Pink U14",
+      "home_away": "away",
+      "opponent": "Ollerton Town U14",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "04e2d7d769bade49af4acd65e28572cc",
       "date": "2026-04-19",

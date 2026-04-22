@@ -1,46 +1,7 @@
 {
   "club": "Quarrydale",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "bad95032ad3ff0784b23dbd185b4e695",
-      "date": "2026-04-19",
-      "time": "10:00",
-      "home_team": "Quarrydale United U11",
-      "away_team": "Pelican Colts U11",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U11 Sun Spring Div 6 Gold",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Quarrydale United U11",
-      "home_away": "home",
-      "opponent": "Pelican Colts U11"
-    },
-    {
-      "id": "7a9f8fe42a9b2868f40df4dd6dc57904",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Quarrydale United Yellow U14",
-      "away_team": "Loughborough Eml Falcons U14",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U14 Sat YEL Trophy (Revised)",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Quarrydale United Yellow U14",
-      "home_away": "home",
-      "opponent": "Loughborough Eml Falcons U14"
-    },
-    {
-      "id": "f1677a0d00536a2bba5bb625fee68456",
-      "date": "2026-04-21",
-      "time": "18:15",
-      "home_team": "Quarrydale United U13",
-      "away_team": "Market Warsop Colts U13",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U13 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Quarrydale United U13",
-      "home_away": "home",
-      "opponent": "Market Warsop Colts U13"
-    },
     {
       "id": "a19ee68824f3a5729a4a527292338c1d",
       "date": "2026-04-23",
@@ -263,6 +224,19 @@
       "opponent": "G3A PSG U11"
     },
     {
+      "id": "e5e7aa46d7f9cd58f319b02f98c6066e",
+      "date": "2026-05-02",
+      "time": "10:00",
+      "home_team": "Dunkirk U14",
+      "away_team": "Quarrydale United Yellow U14",
+      "venue": "Ron Steel Sports Ground  NG7 2SA",
+      "division": "U14 Sat YEL Trophy (Revised)",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United Yellow U14",
+      "home_away": "away",
+      "opponent": "Dunkirk U14"
+    },
+    {
       "id": "e3a74c3978ff0b5de75458a6c4ca0918",
       "date": "2026-05-03",
       "time": "10:00",
@@ -343,6 +317,40 @@
   ],
   "results": [
     {
+      "id": "f1677a0d00536a2bba5bb625fee68456",
+      "date": "2026-04-21",
+      "time": "18:15",
+      "home_team": "Quarrydale United U13",
+      "away_team": "Market Warsop Colts U13",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United U13",
+      "home_away": "home",
+      "opponent": "Market Warsop Colts U13",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
+      "id": "7a9f8fe42a9b2868f40df4dd6dc57904",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Quarrydale United Yellow U14",
+      "away_team": "Loughborough Eml Falcons U14",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sat YEL Trophy (Revised)",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United Yellow U14",
+      "home_away": "home",
+      "opponent": "Loughborough Eml Falcons U14",
+      "goals_for": 6,
+      "goals_against": 1
+    },
+    {
       "id": "b49b38cff04a86342092d157c4a52baf",
       "date": "2026-04-19",
       "time": "11:00",
@@ -409,6 +417,23 @@
       "opponent": "Market Warsop Rangers U10",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "bad95032ad3ff0784b23dbd185b4e695",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Quarrydale United U11",
+      "away_team": "Pelican Colts U11",
+      "home_score": 6,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sun Spring Div 6 Gold",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Quarrydale United U11",
+      "home_away": "home",
+      "opponent": "Pelican Colts U11",
+      "goals_for": 6,
+      "goals_against": 2
     },
     {
       "id": "36596e910b4ec5e1440969163e69999f",

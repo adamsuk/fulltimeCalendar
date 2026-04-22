@@ -1,7 +1,7 @@
 {
   "team": "Ruddington Village FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
     {
       "id": "728393015694333a48360ad5452c500b",
@@ -13,17 +13,6 @@
       "division": "Euro Soccer Premier Division",
       "home_away": "away",
       "opponent": "Southwell City Reserves"
-    },
-    {
-      "id": "36f768890440b499eecd5eca02bb018a",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Ruddington Village FC",
-      "away_team": "Beeston FC",
-      "venue": "ELMS PARK",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "home",
-      "opponent": "Beeston FC"
     },
     {
       "id": "29be0c8463a1b1e81f777bb03bbd2a85",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "36f768890440b499eecd5eca02bb018a",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Ruddington Village FC",
+      "away_team": "Beeston FC",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "home",
+      "opponent": "Beeston FC",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "79e318b387d2b639b0ce59f923b31496",
       "date": "2026-04-18",

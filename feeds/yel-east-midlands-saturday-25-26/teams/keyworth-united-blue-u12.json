@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United Blue U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "9f0da9d1f7ec625bf2f01f0b887bbf00",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Keyworth United Blue U12",
-      "away_team": "Newark Brazil Santos U12",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U12 Sat YEL Inter Cup",
-      "home_away": "home",
-      "opponent": "Newark Brazil Santos U12"
-    },
     {
       "id": "01c802ff296998ae3052df8f55deddd7",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "9f0da9d1f7ec625bf2f01f0b887bbf00",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Keyworth United Blue U12",
+      "away_team": "Newark Brazil Santos U12",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat YEL Inter Cup",
+      "home_away": "home",
+      "opponent": "Newark Brazil Santos U12",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "b05d9add3669d354b8f6618deaa4aac6",
       "date": "2026-04-18",

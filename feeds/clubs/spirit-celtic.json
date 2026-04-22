@@ -1,20 +1,7 @@
 {
   "club": "Spirit Celtic",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "1387297eaf48d2850e02540cb77b2a16",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Southwell City Flames U12",
-      "away_team": "Spirit Celtic U12",
-      "venue": "Southwell City FC  NG25 0JP",
-      "division": "U12 Sat YEL Challenge Trophy",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Spirit Celtic U12",
-      "home_away": "away",
-      "opponent": "Southwell City Flames U12"
-    },
     {
       "id": "94db976d3dfa52b09a12ed302fc3222e",
       "date": "2026-04-25",
@@ -53,19 +40,6 @@
       "team": "Spirit Celtic Pumas U7",
       "home_away": "away",
       "opponent": "Hemington Hammers Hunters U7"
-    },
-    {
-      "id": "f699a08e2901eb2421848a641feb258c",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "WBYFC Diavola U10",
-      "away_team": "Spirit Celtic Red U10",
-      "venue": "Regatta Way NG2 5AT",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Spirit Celtic Red U10",
-      "home_away": "away",
-      "opponent": "WBYFC Diavola U10"
     },
     {
       "id": "e7e4544ca1cabf9645f12693cd8ab112",
@@ -133,6 +107,19 @@
       "opponent": "Woodthorpe Cty Rowdies U13"
     },
     {
+      "id": "f699a08e2901eb2421848a641feb258c",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "WBYFC Diavola U10",
+      "away_team": "Spirit Celtic Red U10",
+      "venue": "Gresham Park  NG2 7YF",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Spirit Celtic Red U10",
+      "home_away": "away",
+      "opponent": "WBYFC Diavola U10"
+    },
+    {
       "id": "6ce595659f36c99843fd3a771bd1d0f2",
       "date": "2026-04-26",
       "time": "10:00",
@@ -186,6 +173,23 @@
     }
   ],
   "results": [
+    {
+      "id": "1387297eaf48d2850e02540cb77b2a16",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Southwell City Flames U12",
+      "away_team": "Spirit Celtic U12",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sat YEL Challenge Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Spirit Celtic U12",
+      "home_away": "away",
+      "opponent": "Southwell City Flames U12",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "30874ef27bee2300cc96f6887d52cf40",
       "date": "2026-04-19",

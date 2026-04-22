@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "03db302abaf99444c515803db2e6e233",
-      "date": "2026-04-21",
-      "time": "19:30",
-      "home_team": "Cotgrave FC",
-      "away_team": "Arnold Town FC",
-      "venue": "COTGRAVE WELFARE CLUB #1",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Cotgrave FC"
-    },
     {
       "id": "65505c67fc659f2cfd0a3859909a5595",
       "date": "2026-04-25",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "03db302abaf99444c515803db2e6e233",
+      "date": "2026-04-21",
+      "time": "19:30",
+      "home_team": "Cotgrave FC",
+      "away_team": "Arnold Town FC",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Cotgrave FC",
+      "goals_for": 1,
+      "goals_against": 6
+    },
     {
       "id": "f5a46a2ab9f8d39df1e30828e9f16f1f",
       "date": "2026-04-18",

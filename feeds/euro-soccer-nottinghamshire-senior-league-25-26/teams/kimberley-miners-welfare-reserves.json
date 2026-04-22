@@ -1,19 +1,8 @@
 {
   "team": "Kimberley Miners Welfare Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "6226394bc1bf619c00539223388006d9",
-      "date": "2026-04-21",
-      "time": "19:45",
-      "home_team": "Kimberley Miners Welfare Reserves",
-      "away_team": "Keyworth United FC",
-      "venue": "STAG RECREATION GROUND",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "home",
-      "opponent": "Keyworth United FC"
-    },
     {
       "id": "d6962ddf4f08b5d54c11378d699b12c2",
       "date": "2026-04-25",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6226394bc1bf619c00539223388006d9",
+      "date": "2026-04-21",
+      "time": "19:45",
+      "home_team": "Kimberley Miners Welfare Reserves",
+      "away_team": "Keyworth United FC",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "home",
+      "opponent": "Keyworth United FC",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "d7d2b2423fb2a63cbfff9ea0cf4232df",
       "date": "2026-04-18",

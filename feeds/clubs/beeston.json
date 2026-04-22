@@ -1,20 +1,7 @@
 {
   "club": "Beeston",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "36f768890440b499eecd5eca02bb018a",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Ruddington Village FC",
-      "away_team": "Beeston FC",
-      "venue": "ELMS PARK",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Beeston FC",
-      "home_away": "away",
-      "opponent": "Ruddington Village FC"
-    },
     {
       "id": "22459c95c0278d7059cff4bc131214dd",
       "date": "2026-04-22",
@@ -433,6 +420,23 @@
     }
   ],
   "results": [
+    {
+      "id": "36f768890440b499eecd5eca02bb018a",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Ruddington Village FC",
+      "away_team": "Beeston FC",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Beeston FC",
+      "home_away": "away",
+      "opponent": "Ruddington Village FC",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "cdbc7241da98ecb48097758441178c37",
       "date": "2026-04-19",

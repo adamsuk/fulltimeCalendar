@@ -1,19 +1,8 @@
 {
   "team": "Club FDNA Madrid U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "07b1b14c9805342b9955f7f014e564a8",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "Club FDNA Madrid U10",
-      "away_team": "Stapleford Town Saxons U10",
-      "venue": "Bilborough College NG8 4DQ",
-      "division": "U10 Sat Spring Div 3 Green",
-      "home_away": "home",
-      "opponent": "Stapleford Town Saxons U10"
-    },
     {
       "id": "fff8c2eb08b91a8d768834e777824f2b",
       "date": "2026-04-25",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "07b1b14c9805342b9955f7f014e564a8",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "Club FDNA Madrid U10",
+      "away_team": "Stapleford Town Saxons U10",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sat Spring Div 3 Green",
+      "home_away": "home",
+      "opponent": "Stapleford Town Saxons U10",
+      "goals_for": 4,
+      "goals_against": 3
+    },
     {
       "id": "b188a65f92fd779c8da420d6f326cb6c",
       "date": "2026-04-18",

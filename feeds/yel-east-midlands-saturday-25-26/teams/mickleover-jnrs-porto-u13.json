@@ -1,19 +1,8 @@
 {
   "team": "Mickleover Jnrs Porto U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
-    {
-      "id": "b401678212552af5412f559b448da0b3",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Basford United Madrid U13",
-      "away_team": "Mickleover Jnrs Porto U13",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U13 Sat YEL Inter Cup",
-      "home_away": "away",
-      "opponent": "Basford United Madrid U13"
-    },
     {
       "id": "2029d6be0fd7f32de2d7823f44e64ac9",
       "date": "2026-04-28",
@@ -24,9 +13,35 @@
       "division": "U13 Sat Spring Div 4 Blue",
       "home_away": "home",
       "opponent": "Mickleover Country Park U13"
+    },
+    {
+      "id": "b663b82b159da8b04cc14f64fc5a1ae7",
+      "date": "2026-05-02",
+      "time": "10:00",
+      "home_team": "Mickleover Jnrs Porto U13",
+      "away_team": "Eastwood Athletic Eagles U13",
+      "venue": "Varsity Grange Football Complex DE3 9EB",
+      "division": "U13 Sat YEL Inter Cup",
+      "home_away": "home",
+      "opponent": "Eastwood Athletic Eagles U13"
     }
   ],
   "results": [
+    {
+      "id": "b401678212552af5412f559b448da0b3",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "home_team": "Basford United Madrid U13",
+      "away_team": "Mickleover Jnrs Porto U13",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat YEL Inter Cup",
+      "home_away": "away",
+      "opponent": "Basford United Madrid U13",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "76b7921bffa106ed71a858c147823434",
       "date": "2026-04-18",

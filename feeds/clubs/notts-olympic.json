@@ -1,6 +1,6 @@
 {
   "club": "Notts Olympic",
-  "generated": "2026-04-21T07:21:23Z",
+  "generated": "2026-04-22T07:19:09Z",
   "fixtures": [
     {
       "id": "082583a9f18d4f91a7ce49b0197eb07c",
@@ -27,19 +27,6 @@
       "team": "Notts Olympic FC U14",
       "home_away": "away",
       "opponent": "Attenborough Colts Yellow U14"
-    },
-    {
-      "id": "be9b83f7be590e41b92b28d1e5d48833",
-      "date": "2026-04-21",
-      "time": "18:30",
-      "home_team": "Awsworth Villa FC",
-      "away_team": "Notts Olympic FC",
-      "venue": "SHILO PARK ZINDA GROUND",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Notts Olympic FC",
-      "home_away": "away",
-      "opponent": "Awsworth Villa FC"
     },
     {
       "id": "ca3f478d810a885398b17c4fe95ec9eb",
@@ -94,6 +81,19 @@
       "opponent": "Aslockton & Orston FC"
     },
     {
+      "id": "75df7ad42fef6e74c9ba714fa8431a04",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Blidworth Bengals B/W U12",
+      "away_team": "Notts Olympic FC U12",
+      "venue": "Bilsthorpe Football Ground NG22 8PY",
+      "division": "U12 Sun Spring Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Notts Olympic FC U12",
+      "home_away": "away",
+      "opponent": "Blidworth Bengals B/W U12"
+    },
+    {
       "id": "ca5f1627765dfa79305542ce8b40407d",
       "date": "2026-04-26",
       "time": "11:00",
@@ -105,19 +105,6 @@
       "team": "Notts Olympic FC U14",
       "home_away": "home",
       "opponent": "Teversal FC U14"
-    },
-    {
-      "id": "75df7ad42fef6e74c9ba714fa8431a04",
-      "date": "2026-04-26",
-      "time": "11:30",
-      "home_team": "Blidworth Bengals B/W U12",
-      "away_team": "Notts Olympic FC U12",
-      "venue": "Bilsthorpe Football Ground NG22 8PY",
-      "division": "U12 Sun Spring Div 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Notts Olympic FC U12",
-      "home_away": "away",
-      "opponent": "Blidworth Bengals B/W U12"
     },
     {
       "id": "0aa3255e551698344a7a2f86476ce642",
@@ -173,6 +160,23 @@
     }
   ],
   "results": [
+    {
+      "id": "be9b83f7be590e41b92b28d1e5d48833",
+      "date": "2026-04-21",
+      "time": "18:30",
+      "home_team": "Awsworth Villa FC",
+      "away_team": "Notts Olympic FC",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Notts Olympic FC",
+      "home_away": "away",
+      "opponent": "Awsworth Villa FC",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "f2d6e01e181f9dfb92f6a898eaf7352c",
       "date": "2026-04-19",
