@@ -1,6 +1,6 @@
 {
   "club": "Cotgrave",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
     {
       "id": "79d6475167647c45466880f59e64b50d",
@@ -14,32 +14,6 @@
       "team": "Cotgrave Development",
       "home_away": "away",
       "opponent": "Beaufort United F.C. Development"
-    },
-    {
-      "id": "5d9916c064a55793abf5a0aa5549e0c3",
-      "date": "2026-04-22",
-      "time": "19:30",
-      "home_team": "Cotgrave Development",
-      "away_team": "AFC Warriors Development",
-      "venue": "COTGRAVE WELFARE CLUB #1",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Cotgrave Development",
-      "home_away": "home",
-      "opponent": "AFC Warriors Development"
-    },
-    {
-      "id": "e4333144e60d46ee691d05459a10c8f1",
-      "date": "2026-04-22",
-      "time": "20:40",
-      "home_team": "AFC Warriors Development",
-      "away_team": "Cotgrave Development",
-      "venue": "COTGRAVE WELFARE CLUB #1",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Cotgrave Development",
-      "home_away": "away",
-      "opponent": "AFC Warriors Development"
     },
     {
       "id": "6b42078e5c6289b62692c0f643cf7ebb",
@@ -120,6 +94,19 @@
       "opponent": "Clay Cross Town Bulldogs U11"
     },
     {
+      "id": "78fd74faf7dc4f1981f1271d2b4eacbf",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Ruddington Village U12",
+      "away_team": "Cotgrave FC Claret U12",
+      "venue": "Jubilee Fields NG11 6NX",
+      "division": "U12 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Cotgrave FC Claret U12",
+      "home_away": "away",
+      "opponent": "Ruddington Village U12"
+    },
+    {
       "id": "2a4f5d14b09d3a8e6d7d101b808bbee7",
       "date": "2026-04-25",
       "time": "10:00",
@@ -170,19 +157,6 @@
       "team": "Cotgrave FC Blue U13",
       "home_away": "home",
       "opponent": "Silva FC Rushcliffe Reds U13"
-    },
-    {
-      "id": "78fd74faf7dc4f1981f1271d2b4eacbf",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Ruddington Village U12",
-      "away_team": "Cotgrave FC Claret U12",
-      "venue": "Jubilee Fields NG11 6NX",
-      "division": "U12 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Cotgrave FC Claret U12",
-      "home_away": "away",
-      "opponent": "Ruddington Village U12"
     },
     {
       "id": "300d1841aee03b1399e829e972ce40c9",
@@ -527,6 +501,40 @@
       "opponent": "Heanor Town Dragons U8",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "e4333144e60d46ee691d05459a10c8f1",
+      "date": "2026-04-22",
+      "time": "20:40",
+      "home_team": "AFC Warriors Development",
+      "away_team": "Cotgrave Development",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave Development",
+      "home_away": "away",
+      "opponent": "AFC Warriors Development",
+      "goals_for": 0,
+      "goals_against": 2
+    },
+    {
+      "id": "5d9916c064a55793abf5a0aa5549e0c3",
+      "date": "2026-04-22",
+      "time": "19:30",
+      "home_team": "Cotgrave Development",
+      "away_team": "AFC Warriors Development",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave Development",
+      "home_away": "home",
+      "opponent": "AFC Warriors Development",
+      "goals_for": 0,
+      "goals_against": 5
     },
     {
       "id": "03db302abaf99444c515803db2e6e233",

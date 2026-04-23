@@ -1,6 +1,6 @@
 {
   "club": "East Leake",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
     {
       "id": "232c23c34a36206fe3c1dadd6b93e35f",
@@ -27,19 +27,6 @@
       "team": "East Leake Bantams Orange U11",
       "home_away": "away",
       "opponent": "East Leake Bantams Black U11"
-    },
-    {
-      "id": "5e85c8922eb33e64bfe309999b4539a0",
-      "date": "2026-04-22",
-      "time": "18:30",
-      "home_team": "East Leake Robins Reserves",
-      "away_team": "City United FC",
-      "venue": "EAST LEAKE PLAYING FIELDS",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "East Leake Robins Reserves",
-      "home_away": "home",
-      "opponent": "City United FC"
     },
     {
       "id": "0fd52a2c547a1ab686d41c5cca99d420",
@@ -381,6 +368,23 @@
     }
   ],
   "results": [
+    {
+      "id": "5e85c8922eb33e64bfe309999b4539a0",
+      "date": "2026-04-22",
+      "time": "18:30",
+      "home_team": "East Leake Robins Reserves",
+      "away_team": "City United FC",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "East Leake Robins Reserves",
+      "home_away": "home",
+      "opponent": "City United FC",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "8d292fe588b9e12d955b971eec01b483",
       "date": "2026-04-21",

@@ -1,19 +1,8 @@
 {
   "team": "Southwell City Reds U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
-    {
-      "id": "d6d0817bd1b4cc23931a4ed7ecc32b71",
-      "date": "2026-04-22",
-      "time": "18:30",
-      "home_team": "Southwell City Reds U10",
-      "away_team": "Newark Brazil Santos U10",
-      "venue": "Southwell City FC  NG25 0JP",
-      "division": "U10 Sat Spring Div 3 Blue",
-      "home_away": "home",
-      "opponent": "Newark Brazil Santos U10"
-    },
     {
       "id": "9bf2e2ea69848771e773c6dbb746f349",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d6d0817bd1b4cc23931a4ed7ecc32b71",
+      "date": "2026-04-22",
+      "time": "18:30",
+      "home_team": "Southwell City Reds U10",
+      "away_team": "Newark Brazil Santos U10",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "",
+      "division": "U10 Sat Spring Div 3 Blue",
+      "home_away": "home",
+      "opponent": "Newark Brazil Santos U10",
+      "goals_for": 1,
+      "goals_against": 6
+    },
     {
       "id": "4168adb503be81579c7cf21ec9e87046",
       "date": "2026-04-18",

@@ -1,20 +1,7 @@
 {
   "club": "NG",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
-    {
-      "id": "2a09e7d4e61dac440043e420b7de2162",
-      "date": "2026-04-19",
-      "time": "09:30",
-      "home_team": "Newark Brazil Cruzeiro U10",
-      "away_team": "NG United U10",
-      "venue": "Claypole Playing Field NG23 5BQ",
-      "division": "U10 Sun YEL Trophy",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "NG United U10",
-      "home_away": "away",
-      "opponent": "Newark Brazil Cruzeiro U10"
-    },
     {
       "id": "b007aece8bf7a7f4773d32bc35c0078d",
       "date": "2026-04-23",
@@ -92,9 +79,39 @@
       "team": "NG United U10",
       "home_away": "home",
       "opponent": "Keyworth United Red U10"
+    },
+    {
+      "id": "10263650195c4310f6a2b6cfbc7918b1",
+      "date": "2026-05-10",
+      "time": "13:30",
+      "home_team": "Collingham FC Panthers U10",
+      "away_team": "NG United U10",
+      "venue": "Norman Archer Memorial Ground NG11 9AZ",
+      "division": "U10 Sun YEL Trophy",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "NG United U10",
+      "home_away": "away",
+      "opponent": "Collingham FC Panthers U10"
     }
   ],
   "results": [
+    {
+      "id": "2a09e7d4e61dac440043e420b7de2162",
+      "date": "2026-04-19",
+      "time": "09:30",
+      "home_team": "Newark Brazil Cruzeiro U10",
+      "away_team": "NG United U10",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sun YEL Trophy",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "NG United U10",
+      "home_away": "away",
+      "opponent": "Newark Brazil Cruzeiro U10",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "8e2fd8ca363ee112f5a6914e49488865",
       "date": "2026-04-18",

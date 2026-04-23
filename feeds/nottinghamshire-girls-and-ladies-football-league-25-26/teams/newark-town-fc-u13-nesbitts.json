@@ -1,19 +1,8 @@
 {
   "team": "Newark Town FC U13 Nesbitts",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
-    {
-      "id": "05b5a7da04587fd6efd1cefdb5e53906",
-      "date": "2026-04-22",
-      "time": "18:00",
-      "home_team": "Newark Town FC U13 Nesbitts",
-      "away_team": "Southwell City FC U13 All Whites",
-      "venue": "DEVON PARK",
-      "division": "U13 Div 1 11 v 11",
-      "home_away": "home",
-      "opponent": "Southwell City FC U13 All Whites"
-    },
     {
       "id": "3feda28c8d8fba765e6106b9e3659102",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "05b5a7da04587fd6efd1cefdb5e53906",
+      "date": "2026-04-22",
+      "time": "18:00",
+      "home_team": "Newark Town FC U13 Nesbitts",
+      "away_team": "Southwell City FC U13 All Whites",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Div 1 11 v 11",
+      "home_away": "home",
+      "opponent": "Southwell City FC U13 All Whites",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "0ad99481f3439fa9da9133f847e43f69",
       "date": "2026-03-22",

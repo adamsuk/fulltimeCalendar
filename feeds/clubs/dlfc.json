@@ -1,6 +1,6 @@
 {
   "club": "DLFC",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
     {
       "id": "5d97f3dcc1a111b67c0db33dbcf64cb8",
@@ -14,19 +14,6 @@
       "team": "DLFC Lions U9",
       "home_away": "home",
       "opponent": "Basford CFC Barca U9"
-    },
-    {
-      "id": "1db59f3d5b71601d7d5e051348d4b081",
-      "date": "2026-04-22",
-      "time": "18:00",
-      "home_team": "DLFC Orange U11",
-      "away_team": "Alfreton Town Eagles U11",
-      "venue": "Mellish Sports Centre  NG6 9FH",
-      "division": "U11 Sat Spring Div 7 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Orange U11",
-      "home_away": "home",
-      "opponent": "Alfreton Town Eagles U11"
     },
     {
       "id": "d4dc5df627cc370408d3c61b29ee736a",
@@ -523,6 +510,19 @@
       "opponent": "Calverton MW White U9"
     },
     {
+      "id": "87eb355a09d975b0c6d570a6f888b980",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "DLFC Lions U9",
+      "away_team": "Ruddington Village Yellow U9",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U9 Sun Spring Premier Div",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "DLFC Lions U9",
+      "home_away": "home",
+      "opponent": "Ruddington Village Yellow U9"
+    },
+    {
       "id": "ada0a457c23f325ebf374918bc06bd4d",
       "date": "2026-04-26",
       "time": "10:00",
@@ -573,19 +573,6 @@
       "team": "DLFC Black U11",
       "home_away": "away",
       "opponent": "Radcliffe Olympic U11"
-    },
-    {
-      "id": "87eb355a09d975b0c6d570a6f888b980",
-      "date": "2026-04-26",
-      "time": "10:30",
-      "home_team": "DLFC Lions U9",
-      "away_team": "Ruddington Village Yellow U9",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U9 Sun Spring Premier Div",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Lions U9",
-      "home_away": "home",
-      "opponent": "Ruddington Village Yellow U9"
     },
     {
       "id": "1a09b74cd0da35c8c94b2e1121ee1506",
@@ -771,6 +758,23 @@
     }
   ],
   "results": [
+    {
+      "id": "1db59f3d5b71601d7d5e051348d4b081",
+      "date": "2026-04-22",
+      "time": "18:00",
+      "home_team": "DLFC Orange U11",
+      "away_team": "Alfreton Town Eagles U11",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Orange U11",
+      "home_away": "home",
+      "opponent": "Alfreton Town Eagles U11",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "ab21d06577502438730530cb7b141170",
       "date": "2026-04-21",

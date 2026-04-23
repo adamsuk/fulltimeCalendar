@@ -1,20 +1,7 @@
 {
   "club": "Ravenshead Reds",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
-    {
-      "id": "22a153c2abbf9955f3c064cc27494143",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Ravenshead Reds FC",
-      "away_team": "Stapleford Town FC Ladies",
-      "venue": "RAVENSHEAD LEISURE CENTRE",
-      "division": "Senior Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ravenshead Reds FC",
-      "home_away": "home",
-      "opponent": "Stapleford Town FC Ladies"
-    },
     {
       "id": "5d277a31ecebc1b9bafa5bd36dd48d39",
       "date": "2026-04-19",
@@ -26,32 +13,6 @@
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Ravenshead Reds F.C. Youth U14",
       "home_away": "home",
-      "opponent": "Shirebrook Rangers & Juniors U14 Girls"
-    },
-    {
-      "id": "29c0bd61f269d0fe48ac323200172b69",
-      "date": "2026-04-19",
-      "time": "14:00",
-      "home_team": "Pelican Colts FC Ladies",
-      "away_team": "Ravenshead Reds FC",
-      "venue": "DAVE EASTWOOD SPORTS GROUND",
-      "division": "Senior Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ravenshead Reds FC",
-      "home_away": "away",
-      "opponent": "Pelican Colts FC Ladies"
-    },
-    {
-      "id": "4f3c1fc7b7fa6c299890caaa067c2c8a",
-      "date": "2026-04-22",
-      "time": "18:30",
-      "home_team": "Shirebrook Rangers & Juniors U14 Girls",
-      "away_team": "Ravenshead Reds F.C. Youth U14",
-      "venue": "SHIREBROOK ACADEMY",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ravenshead Reds F.C. Youth U14",
-      "home_away": "away",
       "opponent": "Shirebrook Rangers & Juniors U14 Girls"
     },
     {
@@ -224,19 +185,6 @@
       "opponent": "Carlton Town Lions U14"
     },
     {
-      "id": "3a826de1fc60bebac59f2ea286ba3532",
-      "date": "2026-04-26",
-      "time": "14:00",
-      "home_team": "Keyworth United FC Development",
-      "away_team": "Ravenshead Reds FC",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "Senior Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ravenshead Reds FC",
-      "home_away": "away",
-      "opponent": "Keyworth United FC Development"
-    },
-    {
       "id": "df0b6a4a6a00350c8b4a545b65f149e8",
       "date": "2026-04-26",
       "time": "16:30",
@@ -287,19 +235,6 @@
       "team": "Ravenshead Reds F.C. Youth U18",
       "home_away": "away",
       "opponent": "Sleetmoor United FC U18 Girls"
-    },
-    {
-      "id": "18f7316c710e1d8cc7133d1b34703871",
-      "date": "2026-05-10",
-      "time": "14:00",
-      "home_team": "Beeston FC Women",
-      "away_team": "Ravenshead Reds FC",
-      "venue": "TRENT VALE SPORTS ASSOCIATION",
-      "division": "Senior Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ravenshead Reds FC",
-      "home_away": "away",
-      "opponent": "Beeston FC Women"
     },
     {
       "id": "84bcad126dacc68c5c6d3b59bca8f455",
@@ -355,6 +290,23 @@
     }
   ],
   "results": [
+    {
+      "id": "4f3c1fc7b7fa6c299890caaa067c2c8a",
+      "date": "2026-04-22",
+      "time": "18:30",
+      "home_team": "Shirebrook Rangers & Juniors U14 Girls",
+      "away_team": "Ravenshead Reds F.C. Youth U14",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ravenshead Reds F.C. Youth U14",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers & Juniors U14 Girls",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "6be19606ed4d993e628d11379344a855",
       "date": "2026-04-20",

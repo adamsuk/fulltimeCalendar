@@ -1,19 +1,8 @@
 {
   "team": "Star Strike Tigers Black U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
-    {
-      "id": "be297e5abe45f180bf0a41d5b39f5f0c",
-      "date": "2026-04-22",
-      "time": "18:00",
-      "home_team": "Star Strike Tigers Black U14",
-      "away_team": "Nottingham FC U14",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U14 Sat YEL Inter Cup",
-      "home_away": "home",
-      "opponent": "Nottingham FC U14"
-    },
     {
       "id": "db76850d39dbddf73512eae790e2108a",
       "date": "2026-04-25",
@@ -24,9 +13,35 @@
       "division": "U14 Sat Spring Div 5 Red",
       "home_away": "away",
       "opponent": "Meden Vale Colts Gold U14"
+    },
+    {
+      "id": "e17b14a26ff20fefebfefde85ca47154",
+      "date": "2026-05-02",
+      "time": "10:00",
+      "home_team": "RHP Colts Green U14",
+      "away_team": "Star Strike Tigers Black U14",
+      "venue": "Newark Leisure Centre NG24 4DH",
+      "division": "U14 Sat YEL Inter Cup",
+      "home_away": "away",
+      "opponent": "RHP Colts Green U14"
     }
   ],
   "results": [
+    {
+      "id": "be297e5abe45f180bf0a41d5b39f5f0c",
+      "date": "2026-04-22",
+      "time": "18:00",
+      "home_team": "Star Strike Tigers Black U14",
+      "away_team": "Nottingham FC U14",
+      "home_score": 6,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sat YEL Inter Cup",
+      "home_away": "home",
+      "opponent": "Nottingham FC U14",
+      "goals_for": 6,
+      "goals_against": 2
+    },
     {
       "id": "f6181872aa296373349098047466ac46",
       "date": "2026-04-18",

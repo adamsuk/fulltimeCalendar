@@ -1,20 +1,7 @@
 {
   "club": "ASFC",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
-    {
-      "id": "73729c5d1ddec344e7238ccbff5b5d6a",
-      "date": "2026-04-22",
-      "time": "18:00",
-      "home_team": "ASFC U14",
-      "away_team": "Mansfield Town Grassroots U14",
-      "venue": "Park Road Recreation Ground NG20 8JG",
-      "division": "U14 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "ASFC U14",
-      "home_away": "home",
-      "opponent": "Mansfield Town Grassroots U14"
-    },
     {
       "id": "6e99a91717019b8eae11ced45750c6d2",
       "date": "2026-04-25",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "73729c5d1ddec344e7238ccbff5b5d6a",
+      "date": "2026-04-22",
+      "time": "18:00",
+      "home_team": "ASFC U14",
+      "away_team": "Mansfield Town Grassroots U14",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "ASFC U14",
+      "home_away": "home",
+      "opponent": "Mansfield Town Grassroots U14",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "278de941a3d1a6709e9eff0721d42108",
       "date": "2026-04-19",

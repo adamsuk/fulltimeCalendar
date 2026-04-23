@@ -1,20 +1,7 @@
 {
   "club": "Breaston Park",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
-    {
-      "id": "a4a4c56b0218f256830bc9bdab91bff0",
-      "date": "2026-04-22",
-      "time": "18:00",
-      "home_team": "Eastwood Athletic Vipers U14",
-      "away_team": "Breaston Park Green U14",
-      "venue": "Hall Park NG16 3AR",
-      "division": "U14 Sun Spring Div 3 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Breaston Park Green U14",
-      "home_away": "away",
-      "opponent": "Eastwood Athletic Vipers U14"
-    },
     {
       "id": "00ed875eb7e2cc0444fc0d9cfe38a008",
       "date": "2026-04-23",
@@ -186,6 +173,23 @@
     }
   ],
   "results": [
+    {
+      "id": "a4a4c56b0218f256830bc9bdab91bff0",
+      "date": "2026-04-22",
+      "time": "18:00",
+      "home_team": "Eastwood Athletic Vipers U14",
+      "away_team": "Breaston Park Green U14",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sun Spring Div 3 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Breaston Park Green U14",
+      "home_away": "away",
+      "opponent": "Eastwood Athletic Vipers U14",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "ac36d4ad8190aaafc2c5118f0921a681",
       "date": "2026-04-19",

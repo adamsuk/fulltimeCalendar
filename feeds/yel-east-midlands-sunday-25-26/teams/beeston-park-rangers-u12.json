@@ -1,19 +1,8 @@
 {
   "team": "Beeston Park Rangers U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
-    {
-      "id": "22459c95c0278d7059cff4bc131214dd",
-      "date": "2026-04-22",
-      "time": "18:30",
-      "home_team": "Riverside FC Rockets U12",
-      "away_team": "Beeston Park Rangers U12",
-      "venue": "Melbourne Court NG10 3EE",
-      "division": "U12 Sun YEL Challenge Trophy",
-      "home_away": "away",
-      "opponent": "Riverside FC Rockets U12"
-    },
     {
       "id": "0c26c6c7a3b0a23204d47fd937e06799",
       "date": "2026-04-26",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "22459c95c0278d7059cff4bc131214dd",
+      "date": "2026-04-22",
+      "time": "18:30",
+      "home_team": "Riverside FC Rockets U12",
+      "away_team": "Beeston Park Rangers U12",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sun YEL Challenge Trophy",
+      "home_away": "away",
+      "opponent": "Riverside FC Rockets U12",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "ac50be0920653a86fe9afdcd7e14701a",
       "date": "2026-04-19",

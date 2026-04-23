@@ -1,6 +1,6 @@
 {
   "club": "Basford",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
     {
       "id": "5d97f3dcc1a111b67c0db33dbcf64cb8",
@@ -14,19 +14,6 @@
       "team": "Basford CFC Barca U9",
       "home_away": "away",
       "opponent": "DLFC Lions U9"
-    },
-    {
-      "id": "007a277fbfd2888e9ae144d4cde50074",
-      "date": "2026-04-22",
-      "time": "18:15",
-      "home_team": "Bottesford Yellow U12",
-      "away_team": "Basford United Lions U12",
-      "venue": "Nottingham Rd, Bottesford  NG13 0AP",
-      "division": "U12 Sat Spring Div 1 Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford United Lions U12",
-      "home_away": "away",
-      "opponent": "Bottesford Yellow U12"
     },
     {
       "id": "03585626e7333125444ec3b90c4c23ef",
@@ -107,6 +94,19 @@
       "opponent": "Spondon Dynamos Blades U13"
     },
     {
+      "id": "32f50420fb23920875753c9da2b1295f",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Basford CFC Barca U9",
+      "away_team": "Woodborough Celtic U9",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U9 Sun Spring Premier Div",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford CFC Barca U9",
+      "home_away": "home",
+      "opponent": "Woodborough Celtic U9"
+    },
+    {
       "id": "8bae4d84d63757ff7ea293c4d7d052b5",
       "date": "2026-04-26",
       "time": "10:00",
@@ -133,6 +133,19 @@
       "opponent": "Stapleford Town Jaguars U10"
     },
     {
+      "id": "23691e7de6904a611efde4f35f1d21ce",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Basford United Girls U10 ^^",
+      "away_team": "Carlton Town Blue U10",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U10 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Girls U10 ^^",
+      "home_away": "home",
+      "opponent": "Carlton Town Blue U10"
+    },
+    {
       "id": "9fd912240ba67f647178e62a3c1d45bc",
       "date": "2026-04-26",
       "time": "10:00",
@@ -144,32 +157,6 @@
       "team": "Basford United F.C. U13 Girls",
       "home_away": "away",
       "opponent": "West Hallam Juniors U13 Diamonds"
-    },
-    {
-      "id": "32f50420fb23920875753c9da2b1295f",
-      "date": "2026-04-26",
-      "time": "10:30",
-      "home_team": "Basford CFC Barca U9",
-      "away_team": "Woodborough Celtic U9",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U9 Sun Spring Premier Div",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford CFC Barca U9",
-      "home_away": "home",
-      "opponent": "Woodborough Celtic U9"
-    },
-    {
-      "id": "23691e7de6904a611efde4f35f1d21ce",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Basford United Girls U10 ^^",
-      "away_team": "Carlton Town Blue U10",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U10 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford United Girls U10 ^^",
-      "home_away": "home",
-      "opponent": "Carlton Town Blue U10"
     },
     {
       "id": "24b281a21a6c635d713004ce098904cb",
@@ -216,7 +203,7 @@
       "time": "18:30",
       "home_team": "Basford United United U12",
       "away_team": "Darley Sports Lions 2 U12",
-      "venue": "Greenwich Avenue NG6 0LD",
+      "venue": "Mellish Sports Centre  NG6 9FH",
       "division": "U12 Sat Spring Div 1 Gold",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Basford United United U12",
@@ -226,7 +213,7 @@
     {
       "id": "9943653c33c83cf6c9bb2d07542f5bdb",
       "date": "2026-05-02",
-      "time": "11:00",
+      "time": "10:30",
       "home_team": "Basford United Ambers U14",
       "away_team": "Marlborough Rovers U14",
       "venue": "Greenwich Avenue NG6 0LD",
@@ -251,6 +238,23 @@
     }
   ],
   "results": [
+    {
+      "id": "007a277fbfd2888e9ae144d4cde50074",
+      "date": "2026-04-22",
+      "time": "18:15",
+      "home_team": "Bottesford Yellow U12",
+      "away_team": "Basford United Lions U12",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United Lions U12",
+      "home_away": "away",
+      "opponent": "Bottesford Yellow U12",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "3acebda611df7313ebe5f99130fc08d6",
       "date": "2026-04-19",

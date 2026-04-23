@@ -1,7 +1,7 @@
 {
   "team": "Awsworth Villa Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
     {
       "id": "9f4caf9fc4a9fc217a70e59ef0097a6a",
@@ -13,17 +13,6 @@
       "division": "NSL Division Three",
       "home_away": "away",
       "opponent": "Harrowby United Reserves"
-    },
-    {
-      "id": "66d342120a99bc2d507bc8d0da52640b",
-      "date": "2026-04-22",
-      "time": "20:00",
-      "home_team": "Calverton Miners Welfare Reserves",
-      "away_team": "Awsworth Villa Reserves",
-      "venue": "Hollinwood Lane Main Pitch",
-      "division": "NSL Division Three",
-      "home_away": "away",
-      "opponent": "Calverton Miners Welfare Reserves"
     },
     {
       "id": "caf0c0da9313cc747211fb58eb67f194",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "66d342120a99bc2d507bc8d0da52640b",
+      "date": "2026-04-22",
+      "time": "20:00",
+      "home_team": "Calverton Miners Welfare Reserves",
+      "away_team": "Awsworth Villa Reserves",
+      "home_score": 8,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "away",
+      "opponent": "Calverton Miners Welfare Reserves",
+      "goals_for": 1,
+      "goals_against": 8
+    },
     {
       "id": "b08dba3bf2b5dad3b4f378e7a9a88483",
       "date": "2026-04-15",

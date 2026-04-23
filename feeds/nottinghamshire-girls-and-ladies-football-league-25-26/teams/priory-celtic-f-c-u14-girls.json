@@ -1,19 +1,8 @@
 {
   "team": "Priory Celtic F.C. U14 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
-    {
-      "id": "bcc764829f7cd0cc5e7d05b99ebb0e89",
-      "date": "2026-04-22",
-      "time": "18:30",
-      "home_team": "Nottingham F.C. Youth U14 Girls",
-      "away_team": "Priory Celtic F.C. U14 Girls",
-      "venue": "MELBOURNE PARK",
-      "division": "U14 Div 3",
-      "home_away": "away",
-      "opponent": "Nottingham F.C. Youth U14 Girls"
-    },
     {
       "id": "4d1fb1f51edc53707395cef52e1bde53",
       "date": "2026-04-26",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "bcc764829f7cd0cc5e7d05b99ebb0e89",
+      "date": "2026-04-22",
+      "time": "18:30",
+      "home_team": "Nottingham F.C. Youth U14 Girls",
+      "away_team": "Priory Celtic F.C. U14 Girls",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Div 3",
+      "home_away": "away",
+      "opponent": "Nottingham F.C. Youth U14 Girls",
+      "goals_for": 4,
+      "goals_against": 3
+    },
     {
       "id": "94f60b2c2f8d23dbcd09bc172d965c19",
       "date": "2026-04-15",

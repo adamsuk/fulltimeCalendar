@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United F.C. U15 Kobras",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
-    {
-      "id": "bbd8d7c2e59744da5279f654cd6b5645",
-      "date": "2026-04-22",
-      "time": "18:00",
-      "home_team": "Sherwood Colliery F.C. Ladies U15",
-      "away_team": "Keyworth United F.C. U15 Kobras",
-      "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
-      "division": "U15 Div 2",
-      "home_away": "away",
-      "opponent": "Sherwood Colliery F.C. Ladies U15"
-    },
     {
       "id": "bacffefc71d3bec538c7d61a67f737a6",
       "date": "2026-04-29",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "bbd8d7c2e59744da5279f654cd6b5645",
+      "date": "2026-04-22",
+      "time": "18:00",
+      "home_team": "Sherwood Colliery F.C. Ladies U15",
+      "away_team": "Keyworth United F.C. U15 Kobras",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U15 Div 2",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery F.C. Ladies U15",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "d6705eaa0b0bd03715c0ba654e625872",
       "date": "2026-04-15",

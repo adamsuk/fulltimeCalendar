@@ -1,7 +1,7 @@
 {
   "team": "Newark Town FC U23's",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
     {
       "id": "fc8098c162e51af805d9f0ad00a5c2dd",
@@ -13,17 +13,6 @@
       "division": "Development Spring Division Two",
       "home_away": "away",
       "opponent": "Pegasus FC"
-    },
-    {
-      "id": "3f6ad886a6799b1c02d2577ea3d22a67",
-      "date": "2026-04-22",
-      "time": "20:00",
-      "home_team": "Linby Colliery Welfare Development",
-      "away_team": "Newark Town FC U23's",
-      "venue": "LINBY COLLIERY WELFARE FC",
-      "division": "Development Spring Division Two",
-      "home_away": "away",
-      "opponent": "Linby Colliery Welfare Development"
     },
     {
       "id": "532988e0eaf4e37491bc3c1453bef340",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "3f6ad886a6799b1c02d2577ea3d22a67",
+      "date": "2026-04-22",
+      "time": "20:00",
+      "home_team": "Linby Colliery Welfare Development",
+      "away_team": "Newark Town FC U23's",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "home_away": "away",
+      "opponent": "Linby Colliery Welfare Development",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "369193c259c00e50962a429ef28a06bc",
       "date": "2026-04-18",

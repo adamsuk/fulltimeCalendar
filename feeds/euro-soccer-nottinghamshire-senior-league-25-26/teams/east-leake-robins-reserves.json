@@ -1,19 +1,8 @@
 {
   "team": "East Leake Robins Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
-    {
-      "id": "5e85c8922eb33e64bfe309999b4539a0",
-      "date": "2026-04-22",
-      "time": "18:30",
-      "home_team": "East Leake Robins Reserves",
-      "away_team": "City United FC",
-      "venue": "EAST LEAKE PLAYING FIELDS",
-      "division": "NSL Division Three",
-      "home_away": "home",
-      "opponent": "City United FC"
-    },
     {
       "id": "6e308059291a5631ba7798cd06b6d34a",
       "date": "2026-05-02",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5e85c8922eb33e64bfe309999b4539a0",
+      "date": "2026-04-22",
+      "time": "18:30",
+      "home_team": "East Leake Robins Reserves",
+      "away_team": "City United FC",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "home",
+      "opponent": "City United FC",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "0fd05bcaa79520fcb28b2c1843c07563",
       "date": "2026-04-18",

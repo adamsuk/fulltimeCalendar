@@ -1,33 +1,7 @@
 {
   "club": "Newark Brazil",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
-    {
-      "id": "2a09e7d4e61dac440043e420b7de2162",
-      "date": "2026-04-19",
-      "time": "09:30",
-      "home_team": "Newark Brazil Cruzeiro U10",
-      "away_team": "NG United U10",
-      "venue": "Claypole Playing Field NG23 5BQ",
-      "division": "U10 Sun YEL Trophy",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Newark Brazil Cruzeiro U10",
-      "home_away": "home",
-      "opponent": "NG United U10"
-    },
-    {
-      "id": "d6d0817bd1b4cc23931a4ed7ecc32b71",
-      "date": "2026-04-22",
-      "time": "18:30",
-      "home_team": "Southwell City Reds U10",
-      "away_team": "Newark Brazil Santos U10",
-      "venue": "Southwell City FC  NG25 0JP",
-      "division": "U10 Sat Spring Div 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Newark Brazil Santos U10",
-      "home_away": "away",
-      "opponent": "Southwell City Reds U10"
-    },
     {
       "id": "fb32b2566df16e6fc2546c24b8ff2f19",
       "date": "2026-04-23",
@@ -105,6 +79,19 @@
       "team": "Newark Brazil Santos U10",
       "home_away": "away",
       "opponent": "Teversal FC Blue U10"
+    },
+    {
+      "id": "1aed692b1ba1d510d1ce5eaedc9c7172",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "St Anns & Sneinton U13",
+      "away_team": "Newark Brazil Santos U13",
+      "venue": "Magnus School Sports Centre NG24 4BZ",
+      "division": "U13 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Newark Brazil Santos U13",
+      "home_away": "away",
+      "opponent": "St Anns & Sneinton U13"
     },
     {
       "id": "3658b43c20584544fe1fefc7a093cd65",
@@ -211,19 +198,6 @@
       "opponent": "Shirebrook Rangers U11"
     },
     {
-      "id": "1aed692b1ba1d510d1ce5eaedc9c7172",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "St Anns & Sneinton U13",
-      "away_team": "Newark Brazil Santos U13",
-      "venue": "Jubilee Park NG4 2QG",
-      "division": "U13 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Newark Brazil Santos U13",
-      "home_away": "away",
-      "opponent": "St Anns & Sneinton U13"
-    },
-    {
       "id": "65fe403ce12956592f6cb5b9b079e96b",
       "date": "2026-04-25",
       "time": "11:00",
@@ -304,6 +278,23 @@
   ],
   "results": [
     {
+      "id": "d6d0817bd1b4cc23931a4ed7ecc32b71",
+      "date": "2026-04-22",
+      "time": "18:30",
+      "home_team": "Southwell City Reds U10",
+      "away_team": "Newark Brazil Santos U10",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "",
+      "division": "U10 Sat Spring Div 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Newark Brazil Santos U10",
+      "home_away": "away",
+      "opponent": "Southwell City Reds U10",
+      "goals_for": 6,
+      "goals_against": 1
+    },
+    {
       "id": "b6e988b26c64c70540507cbc86a3ee12",
       "date": "2026-04-21",
       "time": "18:30",
@@ -352,6 +343,23 @@
       "home_away": "away",
       "opponent": "Keyworth United Blue U12",
       "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "2a09e7d4e61dac440043e420b7de2162",
+      "date": "2026-04-19",
+      "time": "09:30",
+      "home_team": "Newark Brazil Cruzeiro U10",
+      "away_team": "NG United U10",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sun YEL Trophy",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Newark Brazil Cruzeiro U10",
+      "home_away": "home",
+      "opponent": "NG United U10",
+      "goals_for": 2,
       "goals_against": 2
     },
     {

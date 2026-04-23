@@ -1,6 +1,6 @@
 {
   "club": "Calverton Miners Welfare",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
     {
       "id": "aeff0b7aaa3e07f584218c506c17dfdd",
@@ -27,19 +27,6 @@
       "team": "Calverton Miners Welfare FC",
       "home_away": "home",
       "opponent": "Keyworth United FC First"
-    },
-    {
-      "id": "66d342120a99bc2d507bc8d0da52640b",
-      "date": "2026-04-22",
-      "time": "20:00",
-      "home_team": "Calverton Miners Welfare Reserves",
-      "away_team": "Awsworth Villa Reserves",
-      "venue": "Hollinwood Lane Main Pitch",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Calverton Miners Welfare Reserves",
-      "home_away": "home",
-      "opponent": "Awsworth Villa Reserves"
     },
     {
       "id": "05663d3aa4b7ab20b03cf9ef8b4b6a5f",
@@ -212,6 +199,23 @@
     }
   ],
   "results": [
+    {
+      "id": "66d342120a99bc2d507bc8d0da52640b",
+      "date": "2026-04-22",
+      "time": "20:00",
+      "home_team": "Calverton Miners Welfare Reserves",
+      "away_team": "Awsworth Villa Reserves",
+      "home_score": 8,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Calverton Miners Welfare Reserves",
+      "home_away": "home",
+      "opponent": "Awsworth Villa Reserves",
+      "goals_for": 8,
+      "goals_against": 1
+    },
     {
       "id": "b6e988b26c64c70540507cbc86a3ee12",
       "date": "2026-04-21",

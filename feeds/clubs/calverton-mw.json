@@ -1,20 +1,7 @@
 {
   "club": "Calverton MW",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
-    {
-      "id": "2cb8d2a53969584482808860d5f8f8d3",
-      "date": "2026-04-22",
-      "time": "18:15",
-      "home_team": "Calverton MW Blue U11",
-      "away_team": "AFC Warriors Vikings U11",
-      "venue": "Kinton Park NG14 6NR",
-      "division": "U11 Sat Spring Div 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Calverton MW Blue U11",
-      "home_away": "home",
-      "opponent": "AFC Warriors Vikings U11"
-    },
     {
       "id": "a7fb552ad014cbd041d2b5080761e0b3",
       "date": "2026-04-23",
@@ -57,7 +44,7 @@
     {
       "id": "2ff1480174747eca581410736e109de0",
       "date": "2026-04-25",
-      "time": "11:00",
+      "time": "10:00",
       "home_team": "Beeston FC U12",
       "away_team": "Calverton MW Blue U12",
       "venue": "Trent Vale Sports Ground  NG9 1ND",
@@ -186,6 +173,23 @@
     }
   ],
   "results": [
+    {
+      "id": "2cb8d2a53969584482808860d5f8f8d3",
+      "date": "2026-04-22",
+      "time": "18:15",
+      "home_team": "Calverton MW Blue U11",
+      "away_team": "AFC Warriors Vikings U11",
+      "home_score": 8,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat Spring Div 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Calverton MW Blue U11",
+      "home_away": "home",
+      "opponent": "AFC Warriors Vikings U11",
+      "goals_for": 8,
+      "goals_against": 2
+    },
     {
       "id": "3c9fea308911c6c663ffc4e7b4050986",
       "date": "2026-04-19",

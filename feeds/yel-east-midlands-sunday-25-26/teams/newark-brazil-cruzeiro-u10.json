@@ -1,19 +1,8 @@
 {
   "team": "Newark Brazil Cruzeiro U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
-    {
-      "id": "2a09e7d4e61dac440043e420b7de2162",
-      "date": "2026-04-19",
-      "time": "09:30",
-      "home_team": "Newark Brazil Cruzeiro U10",
-      "away_team": "NG United U10",
-      "venue": "Claypole Playing Field NG23 5BQ",
-      "division": "U10 Sun YEL Trophy",
-      "home_away": "home",
-      "opponent": "NG United U10"
-    },
     {
       "id": "8f9451f66089188158d37fb902133cba",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2a09e7d4e61dac440043e420b7de2162",
+      "date": "2026-04-19",
+      "time": "09:30",
+      "home_team": "Newark Brazil Cruzeiro U10",
+      "away_team": "NG United U10",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sun YEL Trophy",
+      "home_away": "home",
+      "opponent": "NG United U10",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "47b8370f146656273f15d7bc8c9b37bc",
       "date": "2026-03-29",

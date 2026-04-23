@@ -1,20 +1,7 @@
 {
   "club": "Nottingham",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
-    {
-      "id": "8051408102ccf9973fdcdfc43aaf2c82",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Matlock Town Juniors U14 Spartans Girls",
-      "away_team": "Nottingham F.C. Youth U14 Girls",
-      "venue": "CAVENDISH FIELDS SPORTS ASSOCIATION",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Nottingham F.C. Youth U14 Girls",
-      "home_away": "away",
-      "opponent": "Matlock Town Juniors U14 Spartans Girls"
-    },
     {
       "id": "415088ca6dbf75a992002efbd69d6faf",
       "date": "2026-04-19",
@@ -27,45 +14,6 @@
       "team": "Nottingham F.C. Youth U16 Piranhas",
       "home_away": "home",
       "opponent": "Brodsworth Welfare AFC- Warriors U16"
-    },
-    {
-      "id": "be297e5abe45f180bf0a41d5b39f5f0c",
-      "date": "2026-04-22",
-      "time": "18:00",
-      "home_team": "Star Strike Tigers Black U14",
-      "away_team": "Nottingham FC U14",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U14 Sat YEL Inter Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Nottingham FC U14",
-      "home_away": "away",
-      "opponent": "Star Strike Tigers Black U14"
-    },
-    {
-      "id": "4e179c575f2cd5d6ef9bc0775013e0f9",
-      "date": "2026-04-22",
-      "time": "18:30",
-      "home_team": "Nottingham FC Black U13",
-      "away_team": "Newhall FC Jaguars U13",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U13 Sat YEL Inter Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Nottingham FC Black U13",
-      "home_away": "home",
-      "opponent": "Newhall FC Jaguars U13"
-    },
-    {
-      "id": "bcc764829f7cd0cc5e7d05b99ebb0e89",
-      "date": "2026-04-22",
-      "time": "18:30",
-      "home_team": "Nottingham F.C. Youth U14 Girls",
-      "away_team": "Priory Celtic F.C. U14 Girls",
-      "venue": "MELBOURNE PARK",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Nottingham F.C. Youth U14 Girls",
-      "home_away": "home",
-      "opponent": "Priory Celtic F.C. U14 Girls"
     },
     {
       "id": "c3706460574d583d4f15ab9f91cc50d4",
@@ -354,6 +302,19 @@
       "opponent": "Spondon Dynamos Blades U13"
     },
     {
+      "id": "7ba5a6f4f59b1c6a538e7d0634b7a27f",
+      "date": "2026-05-02",
+      "time": "11:00",
+      "home_team": "Moorgreen Colts White U13",
+      "away_team": "Nottingham FC Black U13",
+      "venue": "Birnam Park  NG16 2DE",
+      "division": "U13 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Black U13",
+      "home_away": "away",
+      "opponent": "Moorgreen Colts White U13"
+    },
+    {
       "id": "81d1ba3a17b671cbf5a60032fe094389",
       "date": "2026-05-03",
       "time": "10:00",
@@ -433,6 +394,57 @@
     }
   ],
   "results": [
+    {
+      "id": "4e179c575f2cd5d6ef9bc0775013e0f9",
+      "date": "2026-04-22",
+      "time": "18:30",
+      "home_team": "Nottingham FC Black U13",
+      "away_team": "Newhall FC Jaguars U13",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Black U13",
+      "home_away": "home",
+      "opponent": "Newhall FC Jaguars U13",
+      "goals_for": 5,
+      "goals_against": 1
+    },
+    {
+      "id": "bcc764829f7cd0cc5e7d05b99ebb0e89",
+      "date": "2026-04-22",
+      "time": "18:30",
+      "home_team": "Nottingham F.C. Youth U14 Girls",
+      "away_team": "Priory Celtic F.C. U14 Girls",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Nottingham F.C. Youth U14 Girls",
+      "home_away": "home",
+      "opponent": "Priory Celtic F.C. U14 Girls",
+      "goals_for": 3,
+      "goals_against": 4
+    },
+    {
+      "id": "be297e5abe45f180bf0a41d5b39f5f0c",
+      "date": "2026-04-22",
+      "time": "18:00",
+      "home_team": "Star Strike Tigers Black U14",
+      "away_team": "Nottingham FC U14",
+      "home_score": 6,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC U14",
+      "home_away": "away",
+      "opponent": "Star Strike Tigers Black U14",
+      "goals_for": 2,
+      "goals_against": 6
+    },
     {
       "id": "dff9f0cfff11e4482183ad3d52eced7a",
       "date": "2026-04-21",

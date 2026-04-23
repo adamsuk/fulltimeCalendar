@@ -1,20 +1,7 @@
 {
   "club": "Heanor",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
-    {
-      "id": "3911dee43cb38e9dff0ecc8f44a64632",
-      "date": "2026-04-22",
-      "time": "18:00",
-      "home_team": "Pinxton United U13 Girls",
-      "away_team": "Heanor Juniors Spartans U12",
-      "venue": "Tom Pepper Ground NG16 6PU",
-      "division": "U12 Sat YEL Challenge Trophy",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Heanor Juniors Spartans U12",
-      "home_away": "away",
-      "opponent": "Pinxton United U13 Girls"
-    },
     {
       "id": "fea599d9433915efd03792d3281b75be",
       "date": "2026-04-25",
@@ -108,6 +95,23 @@
     }
   ],
   "results": [
+    {
+      "id": "3911dee43cb38e9dff0ecc8f44a64632",
+      "date": "2026-04-22",
+      "time": "18:00",
+      "home_team": "Pinxton United U13 Girls",
+      "away_team": "Heanor Juniors Spartans U12",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sat YEL Challenge Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Heanor Juniors Spartans U12",
+      "home_away": "away",
+      "opponent": "Pinxton United U13 Girls",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "c2f17bc0f1ab7c520dd2dfb010332202",
       "date": "2026-04-19",

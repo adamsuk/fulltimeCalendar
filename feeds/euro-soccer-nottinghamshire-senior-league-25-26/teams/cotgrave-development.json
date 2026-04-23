@@ -1,7 +1,7 @@
 {
   "team": "Cotgrave Development",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
     {
       "id": "79d6475167647c45466880f59e64b50d",
@@ -13,28 +13,6 @@
       "division": "Development Spring Division One",
       "home_away": "away",
       "opponent": "Beaufort United F.C. Development"
-    },
-    {
-      "id": "5d9916c064a55793abf5a0aa5549e0c3",
-      "date": "2026-04-22",
-      "time": "19:30",
-      "home_team": "Cotgrave Development",
-      "away_team": "AFC Warriors Development",
-      "venue": "COTGRAVE WELFARE CLUB #1",
-      "division": "Development Spring Division One",
-      "home_away": "home",
-      "opponent": "AFC Warriors Development"
-    },
-    {
-      "id": "e4333144e60d46ee691d05459a10c8f1",
-      "date": "2026-04-22",
-      "time": "20:40",
-      "home_team": "AFC Warriors Development",
-      "away_team": "Cotgrave Development",
-      "venue": "COTGRAVE WELFARE CLUB #1",
-      "division": "Development Spring Division One",
-      "home_away": "away",
-      "opponent": "AFC Warriors Development"
     },
     {
       "id": "88005a260ef3d6ee5e7588f924ee26d7",
@@ -60,6 +38,36 @@
     }
   ],
   "results": [
+    {
+      "id": "e4333144e60d46ee691d05459a10c8f1",
+      "date": "2026-04-22",
+      "time": "20:40",
+      "home_team": "AFC Warriors Development",
+      "away_team": "Cotgrave Development",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "away",
+      "opponent": "AFC Warriors Development",
+      "goals_for": 0,
+      "goals_against": 2
+    },
+    {
+      "id": "5d9916c064a55793abf5a0aa5549e0c3",
+      "date": "2026-04-22",
+      "time": "19:30",
+      "home_team": "Cotgrave Development",
+      "away_team": "AFC Warriors Development",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "home",
+      "opponent": "AFC Warriors Development",
+      "goals_for": 0,
+      "goals_against": 5
+    },
     {
       "id": "c12e74d4c39916cb478c5587fcde9f34",
       "date": "2026-04-15",

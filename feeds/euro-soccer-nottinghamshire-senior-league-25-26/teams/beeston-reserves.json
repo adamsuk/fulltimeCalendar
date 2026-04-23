@@ -1,19 +1,8 @@
 {
   "team": "Beeston Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
-    {
-      "id": "33a802ac9fa9a3bc05ecbf79a04d0c5b",
-      "date": "2026-04-22",
-      "time": "18:30",
-      "home_team": "Beeston Reserves",
-      "away_team": "AFC Parabellum",
-      "venue": "Trent Vale Road Sports Ground",
-      "division": "NSL Division Two",
-      "home_away": "home",
-      "opponent": "AFC Parabellum"
-    },
     {
       "id": "21a8853fb8bac5de22e59bf2301fddea",
       "date": "2026-04-25",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "33a802ac9fa9a3bc05ecbf79a04d0c5b",
+      "date": "2026-04-22",
+      "time": "18:30",
+      "home_team": "Beeston Reserves",
+      "away_team": "AFC Parabellum",
+      "home_score": 4,
+      "away_score": 5,
+      "venue": "",
+      "division": "NSL Division Two",
+      "home_away": "home",
+      "opponent": "AFC Parabellum",
+      "goals_for": 4,
+      "goals_against": 5
+    },
     {
       "id": "8024c79fd137e08e0713f0069de8f83f",
       "date": "2026-04-18",

@@ -1,46 +1,7 @@
 {
   "club": "Matlock Town",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
-    {
-      "id": "8051408102ccf9973fdcdfc43aaf2c82",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Matlock Town Juniors U14 Spartans Girls",
-      "away_team": "Nottingham F.C. Youth U14 Girls",
-      "venue": "CAVENDISH FIELDS SPORTS ASSOCIATION",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Matlock Town Juniors U14 Spartans Girls",
-      "home_away": "home",
-      "opponent": "Nottingham F.C. Youth U14 Girls"
-    },
-    {
-      "id": "7fdf2e9283240fd51c6438e1411f09ea",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "home_team": "Newark Town FC U15 Girls",
-      "away_team": "Matlock Town Juniors U15 Girls",
-      "venue": "DEVON PARK",
-      "division": "U15 Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Matlock Town Juniors U15 Girls",
-      "home_away": "away",
-      "opponent": "Newark Town FC U15 Girls"
-    },
-    {
-      "id": "bb41f0a3e801405b23edc1340493e1b9",
-      "date": "2026-04-22",
-      "time": "18:15",
-      "home_team": "Outwoods U15 Falcons",
-      "away_team": "Matlock Town Juniors U15 Girls",
-      "venue": "THE DE FERRERS ACADEMY - DOVE CAMPUS",
-      "division": "U15 Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Matlock Town Juniors U15 Girls",
-      "home_away": "away",
-      "opponent": "Outwoods U15 Falcons"
-    },
     {
       "id": "6bd28a85d7adaf6a7fe20dfae596841c",
       "date": "2026-04-26",
@@ -264,6 +225,23 @@
     }
   ],
   "results": [
+    {
+      "id": "bb41f0a3e801405b23edc1340493e1b9",
+      "date": "2026-04-22",
+      "time": "18:15",
+      "home_team": "Outwoods U15 Falcons",
+      "away_team": "Matlock Town Juniors U15 Girls",
+      "home_score": 7,
+      "away_score": 1,
+      "venue": "",
+      "division": "U15 Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Matlock Town Juniors U15 Girls",
+      "home_away": "away",
+      "opponent": "Outwoods U15 Falcons",
+      "goals_for": 1,
+      "goals_against": 7
+    },
     {
       "id": "417301c67c4d5a62805e73196760ffb3",
       "date": "2026-04-19",

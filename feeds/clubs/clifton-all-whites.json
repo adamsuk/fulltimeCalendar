@@ -1,6 +1,6 @@
 {
   "club": "Clifton All Whites",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
     {
       "id": "31f3feee10ccad217606b1b7fb69de08",
@@ -14,19 +14,6 @@
       "team": "Clifton All Whites Purple U11",
       "home_away": "home",
       "opponent": "Midway FC Vipers U11"
-    },
-    {
-      "id": "b7dba3af2d7adfdab0c288d713fe43ed",
-      "date": "2026-04-22",
-      "time": "18:00",
-      "home_team": "PMG Excel U12",
-      "away_team": "Clifton All Whites Black U12",
-      "venue": "Bulwell Hall Park NG6 8LF",
-      "division": "U12 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Clifton All Whites Black U12",
-      "home_away": "away",
-      "opponent": "PMG Excel U12"
     },
     {
       "id": "4667ed7bae04a759969237993fecae92",
@@ -303,6 +290,23 @@
     }
   ],
   "results": [
+    {
+      "id": "b7dba3af2d7adfdab0c288d713fe43ed",
+      "date": "2026-04-22",
+      "time": "18:00",
+      "home_team": "PMG Excel U12",
+      "away_team": "Clifton All Whites Black U12",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sun Spring Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Clifton All Whites Black U12",
+      "home_away": "away",
+      "opponent": "PMG Excel U12",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "5f3663c9b53d9160d289b4622569b324",
       "date": "2026-04-21",

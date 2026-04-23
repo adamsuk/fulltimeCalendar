@@ -1,19 +1,8 @@
 {
   "team": "Basford United Lions U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
-    {
-      "id": "007a277fbfd2888e9ae144d4cde50074",
-      "date": "2026-04-22",
-      "time": "18:15",
-      "home_team": "Bottesford Yellow U12",
-      "away_team": "Basford United Lions U12",
-      "venue": "Nottingham Rd, Bottesford  NG13 0AP",
-      "division": "U12 Sat Spring Div 1 Silver",
-      "home_away": "away",
-      "opponent": "Bottesford Yellow U12"
-    },
     {
       "id": "3c4e16e56b57912df50550b332e6f601",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "007a277fbfd2888e9ae144d4cde50074",
+      "date": "2026-04-22",
+      "time": "18:15",
+      "home_team": "Bottesford Yellow U12",
+      "away_team": "Basford United Lions U12",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 1 Silver",
+      "home_away": "away",
+      "opponent": "Bottesford Yellow U12",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "0b2b31a328330ebadc30db695ca1e60b",
       "date": "2026-03-28",

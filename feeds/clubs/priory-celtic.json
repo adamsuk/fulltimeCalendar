@@ -1,33 +1,7 @@
 {
   "club": "Priory Celtic",
-  "generated": "2026-04-22T07:19:09Z",
+  "generated": "2026-04-23T07:23:24Z",
   "fixtures": [
-    {
-      "id": "629d9e19b56a008d9df93aa79c2b0860",
-      "date": "2026-04-22",
-      "time": "18:00",
-      "home_team": "Borrowash Youth Rams U11",
-      "away_team": "Priory Celtic White U11",
-      "venue": "Derwent Meadow DE72 3NN",
-      "division": "U11 Sat Spring Div 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Priory Celtic White U11",
-      "home_away": "away",
-      "opponent": "Borrowash Youth Rams U11"
-    },
-    {
-      "id": "bcc764829f7cd0cc5e7d05b99ebb0e89",
-      "date": "2026-04-22",
-      "time": "18:30",
-      "home_team": "Nottingham F.C. Youth U14 Girls",
-      "away_team": "Priory Celtic F.C. U14 Girls",
-      "venue": "MELBOURNE PARK",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Priory Celtic F.C. U14 Girls",
-      "home_away": "away",
-      "opponent": "Nottingham F.C. Youth U14 Girls"
-    },
     {
       "id": "89a22940aa1670233d0c4fe335996944",
       "date": "2026-04-25",
@@ -537,6 +511,40 @@
     }
   ],
   "results": [
+    {
+      "id": "bcc764829f7cd0cc5e7d05b99ebb0e89",
+      "date": "2026-04-22",
+      "time": "18:30",
+      "home_team": "Nottingham F.C. Youth U14 Girls",
+      "away_team": "Priory Celtic F.C. U14 Girls",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Girls",
+      "home_away": "away",
+      "opponent": "Nottingham F.C. Youth U14 Girls",
+      "goals_for": 4,
+      "goals_against": 3
+    },
+    {
+      "id": "629d9e19b56a008d9df93aa79c2b0860",
+      "date": "2026-04-22",
+      "time": "18:00",
+      "home_team": "Borrowash Youth Rams U11",
+      "away_team": "Priory Celtic White U11",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Priory Celtic White U11",
+      "home_away": "away",
+      "opponent": "Borrowash Youth Rams U11",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "d741e50cf4a846e38f065381a7dbe799",
       "date": "2026-04-21",
