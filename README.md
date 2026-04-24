@@ -1,4 +1,4 @@
-# Fulltime Scraper — Fixture Calendars & JSON Feeds
+# Fulltime Feeds — Fixture Calendars & JSON Feeds
 
 Automatically scrapes fixture data from [FA Full-Time](https://fulltime.thefa.com) and generates:
 
@@ -16,7 +16,7 @@ Updated daily via GitHub Actions.
 The calendar will auto-refresh (Google typically polls every 12–24 hours).
 
 > **Tip:** The raw URL looks like:
-> `https://raw.githubusercontent.com/adamsuk/fulltimeCalendar/main/calendars/yel-east-midlands-sunday-25-26/eastwood-athletic-atalanta-u10.ics`
+> `https://raw.githubusercontent.com/touchlineHQ/fulltimeFeeds/main/calendars/yel-east-midlands-sunday-25-26/eastwood-athletic-atalanta-u10.ics`
 
 ## JSON feeds
 
@@ -77,7 +77,7 @@ Team and club feeds additionally include `league`, `team`, `home_away` (`"home"`
 ### Using a feed on a static site
 
 ```js
-const url = 'https://raw.githubusercontent.com/adamsuk/fulltimeCalendar/main/feeds/clubs/arnold-town.json';
+const url = 'https://raw.githubusercontent.com/touchlineHQ/fulltimeFeeds/main/feeds/clubs/arnold-town.json';
 const { club, fixtures } = await fetch(url).then(r => r.json());
 ```
 
@@ -122,7 +122,7 @@ The GitHub Actions workflow runs daily at 06:00 UTC. You can also trigger it man
 ## Notes
 
 - Kick-off times default to **10:00** if Full-Time doesn't list a time (common for youth Sunday football)
-- Event duration is set to **90 minutes**
+- Event duration is set to **60 minutes**
 - Team names are taken verbatim from Full-Time
 - The scraper uses `curl-cffi` with browser impersonation to fetch the page reliably
 - Stale calendars and feeds (removed teams/leagues) are automatically cleaned up on each run
