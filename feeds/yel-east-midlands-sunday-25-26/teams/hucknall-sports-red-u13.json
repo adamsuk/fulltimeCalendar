@@ -1,19 +1,8 @@
 {
   "team": "Hucknall Sports Red U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-24T07:47:37Z",
+  "generated": "2026-04-24T19:28:51Z",
   "fixtures": [
-    {
-      "id": "f02773513c9517b835c5563aa7406f7f",
-      "date": "2026-04-24",
-      "time": "18:30",
-      "home_team": "Hucknall Sports Red U13",
-      "away_team": "Sports Gateway Phoenix U13",
-      "venue": "Engine Rooms NG15 6EP",
-      "division": "U13 Sun YEL Challenge Trophy",
-      "home_away": "home",
-      "opponent": "Sports Gateway Phoenix U13"
-    },
     {
       "id": "f91eaae87dcfa5d4b67006d8308c2e72",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f02773513c9517b835c5563aa7406f7f",
+      "date": "2026-04-24",
+      "time": "18:30",
+      "home_team": "Hucknall Sports Red U13",
+      "away_team": "Sports Gateway Phoenix U13",
+      "home_score": 6,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sun YEL Challenge Trophy",
+      "home_away": "home",
+      "opponent": "Sports Gateway Phoenix U13",
+      "goals_for": 6,
+      "goals_against": 2
+    },
     {
       "id": "04e2d7d769bade49af4acd65e28572cc",
       "date": "2026-04-19",
