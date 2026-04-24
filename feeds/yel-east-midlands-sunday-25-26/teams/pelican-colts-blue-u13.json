@@ -1,19 +1,8 @@
 {
   "team": "Pelican Colts Blue U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "beff5ced5942746c31b4257c6eabfdd2",
-      "date": "2026-04-23",
-      "time": "18:00",
-      "home_team": "Pelican Colts Blue U13",
-      "away_team": "Keyworth United Yellow U13",
-      "venue": "Dave Eastwood Sports Ground NG7 2SA",
-      "division": "U13 Sun Spring Div 1 Silver",
-      "home_away": "home",
-      "opponent": "Keyworth United Yellow U13"
-    },
     {
       "id": "d2156595859d5bb40723c379e1a47568",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "beff5ced5942746c31b4257c6eabfdd2",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "Pelican Colts Blue U13",
+      "away_team": "Keyworth United Yellow U13",
+      "home_score": 6,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sun Spring Div 1 Silver",
+      "home_away": "home",
+      "opponent": "Keyworth United Yellow U13",
+      "goals_for": 6,
+      "goals_against": 3
+    },
     {
       "id": "788860ed5d476125250b44a9d604cc9e",
       "date": "2026-04-19",

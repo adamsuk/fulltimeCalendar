@@ -1,33 +1,7 @@
 {
   "club": "Beeston",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "f77b3615f3662c2bc33def80cb8cc290",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Gedling Southbank White U13",
-      "away_team": "Beeston FC Black U13",
-      "venue": "Richard Herrod Centre  Ng41RL",
-      "division": "U13 Sun YEL Inter Cup",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Beeston FC Black U13",
-      "home_away": "away",
-      "opponent": "Gedling Southbank White U13"
-    },
-    {
-      "id": "9900f86e6609ed19d2626fc68f67e4bc",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Beeston FC U10",
-      "away_team": "Attenborough Colts Green U10",
-      "venue": "Round Hill Primary School NG9 1AE",
-      "division": "U10 Sun Spring Div 5 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Beeston FC U10",
-      "home_away": "home",
-      "opponent": "Attenborough Colts Green U10"
-    },
     {
       "id": "2ff1480174747eca581410736e109de0",
       "date": "2026-04-25",
@@ -40,19 +14,6 @@
       "team": "Beeston FC U12",
       "home_away": "home",
       "opponent": "Calverton MW Blue U12"
-    },
-    {
-      "id": "ad85fa01639ca0dbc9b59b05c67f459f",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Beeston FC U14",
-      "away_team": "Attenborough Colts Yellow U14",
-      "venue": "Trent Vale Sports Ground  NG9 1ND",
-      "division": "U14 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Beeston FC U14",
-      "home_away": "home",
-      "opponent": "Attenborough Colts Yellow U14"
     },
     {
       "id": "65505c67fc659f2cfd0a3859909a5595",
@@ -381,6 +342,40 @@
     }
   ],
   "results": [
+    {
+      "id": "f77b3615f3662c2bc33def80cb8cc290",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Gedling Southbank White U13",
+      "away_team": "Beeston FC Black U13",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sun YEL Inter Cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Beeston FC Black U13",
+      "home_away": "away",
+      "opponent": "Gedling Southbank White U13",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
+      "id": "9900f86e6609ed19d2626fc68f67e4bc",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Beeston FC U10",
+      "away_team": "Attenborough Colts Green U10",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sun Spring Div 5 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Beeston FC U10",
+      "home_away": "home",
+      "opponent": "Attenborough Colts Green U10",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "22459c95c0278d7059cff4bc131214dd",
       "date": "2026-04-22",

@@ -1,20 +1,7 @@
 {
   "club": "West Bridgford Colts",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "de07d1793070faa83f6912c5c6b1c9e2",
-      "date": "2026-04-23",
-      "time": "18:45",
-      "home_team": "ATFA Brinsley FC U12",
-      "away_team": "West Bridgford Colts U12 Flames",
-      "venue": "BRINSLEY RECREATION GROUND",
-      "division": "U12 Div 3 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "West Bridgford Colts U12 Flames",
-      "home_away": "away",
-      "opponent": "ATFA Brinsley FC U12"
-    },
     {
       "id": "1712c3a76ac9846358c6b65abf2389f7",
       "date": "2026-04-26",
@@ -44,10 +31,10 @@
     {
       "id": "0d554517cc3ec60b762fa78ffd396023",
       "date": "2026-05-03",
-      "time": "10:00",
+      "time": "12:00",
       "home_team": "Priory Celtic F.C. U14 Lionesses",
       "away_team": "West Bridgford Colts U14 Pacific",
-      "venue": "THE KIMBERLEY SCHOOL",
+      "venue": "KIMBERLEY SCHOOL SPORTS CENTRE",
       "division": "U14 Div 2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "West Bridgford Colts U14 Pacific",
@@ -108,6 +95,23 @@
     }
   ],
   "results": [
+    {
+      "id": "de07d1793070faa83f6912c5c6b1c9e2",
+      "date": "2026-04-23",
+      "time": "18:45",
+      "home_team": "ATFA Brinsley FC U12",
+      "away_team": "West Bridgford Colts U12 Flames",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Div 3 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "West Bridgford Colts U12 Flames",
+      "home_away": "away",
+      "opponent": "ATFA Brinsley FC U12",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "cc72bf14111bad8526254d61a2a6a7cd",
       "date": "2026-04-19",

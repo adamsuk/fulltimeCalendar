@@ -1,6 +1,6 @@
 {
   "club": "Pelican",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
     {
       "id": "30ca6cb54aa4519f419c8085c7a771ce",
@@ -14,19 +14,6 @@
       "team": "Pelican Colts FC Ladies",
       "home_away": "home",
       "opponent": "Lowdham Colts FC Development"
-    },
-    {
-      "id": "beff5ced5942746c31b4257c6eabfdd2",
-      "date": "2026-04-23",
-      "time": "18:00",
-      "home_team": "Pelican Colts Blue U13",
-      "away_team": "Keyworth United Yellow U13",
-      "venue": "Dave Eastwood Sports Ground NG7 2SA",
-      "division": "U13 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Pelican Colts Blue U13",
-      "home_away": "home",
-      "opponent": "Keyworth United Yellow U13"
     },
     {
       "id": "228420da7c5ed62548497031de159537",
@@ -147,6 +134,23 @@
     }
   ],
   "results": [
+    {
+      "id": "beff5ced5942746c31b4257c6eabfdd2",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "Pelican Colts Blue U13",
+      "away_team": "Keyworth United Yellow U13",
+      "home_score": 6,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sun Spring Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Pelican Colts Blue U13",
+      "home_away": "home",
+      "opponent": "Keyworth United Yellow U13",
+      "goals_for": 6,
+      "goals_against": 3
+    },
     {
       "id": "5f3663c9b53d9160d289b4622569b324",
       "date": "2026-04-21",

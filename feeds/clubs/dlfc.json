@@ -1,6 +1,6 @@
 {
   "club": "DLFC",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
     {
       "id": "5d97f3dcc1a111b67c0db33dbcf64cb8",
@@ -27,19 +27,6 @@
       "team": "DLFC SFK U13",
       "home_away": "away",
       "opponent": "Mansfield Athletic U13"
-    },
-    {
-      "id": "b007aece8bf7a7f4773d32bc35c0078d",
-      "date": "2026-04-23",
-      "time": "18:00",
-      "home_team": "DLFC Purple U9",
-      "away_team": "NG United U9",
-      "venue": "Mellish Sports Centre  NG6 9FH",
-      "division": "U9 Sat Spring Div 9 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Purple U9",
-      "home_away": "home",
-      "opponent": "NG United U9"
     },
     {
       "id": "8139a719ce0a97f4dbca204f26cb3adb",
@@ -289,19 +276,6 @@
       "opponent": "Sherwood Colliery U11"
     },
     {
-      "id": "f71eedbebea9c55bd07283238d6b683a",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Sports Gateway Arcs U11",
-      "away_team": "DLFC Blue U11",
-      "venue": "Papplewick Green NG15 8HZ",
-      "division": "U11 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Blue U11",
-      "home_away": "away",
-      "opponent": "Sports Gateway Arcs U11"
-    },
-    {
       "id": "dd2cd401a41475c7fd1cc08f13531288",
       "date": "2026-04-25",
       "time": "11:00",
@@ -482,19 +456,6 @@
       "team": "DLFC Boca U8",
       "home_away": "away",
       "opponent": "Southwell City Devils U8"
-    },
-    {
-      "id": "338fe3b63c9185e6f71135bc1712722c",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "WBYFC Courage Black U8",
-      "away_team": "DLFC Green U8",
-      "venue": "Alford Road, NG2 6HP",
-      "division": "U8 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "DLFC Green U8",
-      "home_away": "away",
-      "opponent": "WBYFC Courage Black U8"
     },
     {
       "id": "941720964a53145b5992a279a4124d98",
@@ -758,6 +719,23 @@
     }
   ],
   "results": [
+    {
+      "id": "b007aece8bf7a7f4773d32bc35c0078d",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "DLFC Purple U9",
+      "away_team": "NG United U9",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sat Spring Div 9 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Purple U9",
+      "home_away": "home",
+      "opponent": "NG United U9",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "1db59f3d5b71601d7d5e051348d4b081",
       "date": "2026-04-22",

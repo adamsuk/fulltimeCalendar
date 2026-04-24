@@ -1,19 +1,8 @@
 {
   "team": "Edwalton Cavaliers Blue U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "4fcacdb325acf9b4f057ea4835850ed8",
-      "date": "2026-04-23",
-      "time": "18:00",
-      "home_team": "Willington FC Rams CM U11",
-      "away_team": "Edwalton Cavaliers Blue U11",
-      "venue": "Twyford Road DE65 6PP",
-      "division": "U11 Sat Spring Div 2 Blue",
-      "home_away": "away",
-      "opponent": "Willington FC Rams CM U11"
-    },
     {
       "id": "3ba79a44ebdcb4847ca8c088b1654681",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "4fcacdb325acf9b4f057ea4835850ed8",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "Willington FC Rams CM U11",
+      "away_team": "Edwalton Cavaliers Blue U11",
+      "home_score": 10,
+      "away_score": 0,
+      "venue": "",
+      "division": "U11 Sat Spring Div 2 Blue",
+      "home_away": "away",
+      "opponent": "Willington FC Rams CM U11",
+      "goals_for": 0,
+      "goals_against": 10
+    },
     {
       "id": "ef95f6fd4882c2a7a2cffd15b3ca8734",
       "date": "2026-03-14",

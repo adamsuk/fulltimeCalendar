@@ -1,19 +1,8 @@
 {
   "team": "Eastwood CFC Black U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "c3706460574d583d4f15ab9f91cc50d4",
-      "date": "2026-04-23",
-      "time": "18:00",
-      "home_team": "Eastwood CFC Black U13",
-      "away_team": "Nottingham FC Green U13",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U13 Sun Spring Div 1 Gold",
-      "home_away": "home",
-      "opponent": "Nottingham FC Green U13"
-    },
     {
       "id": "24b281a21a6c635d713004ce098904cb",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c3706460574d583d4f15ab9f91cc50d4",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "Eastwood CFC Black U13",
+      "away_team": "Nottingham FC Green U13",
+      "home_score": 0,
+      "away_score": 10,
+      "venue": "",
+      "division": "U13 Sun Spring Div 1 Gold",
+      "home_away": "home",
+      "opponent": "Nottingham FC Green U13",
+      "goals_for": 0,
+      "goals_against": 10
+    },
     {
       "id": "d6764ce60634b86055ae53120d329816",
       "date": "2026-04-19",

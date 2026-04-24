@@ -1,6 +1,6 @@
 {
   "club": "East Leake",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
     {
       "id": "232c23c34a36206fe3c1dadd6b93e35f",
@@ -29,30 +29,17 @@
       "opponent": "East Leake Bantams Black U11"
     },
     {
-      "id": "0fd52a2c547a1ab686d41c5cca99d420",
-      "date": "2026-04-23",
-      "time": "18:00",
+      "id": "f002200f4b10a7b77f654d8143ec2193",
+      "date": "2026-04-19",
+      "time": "11:00",
       "home_team": "East Leake Bantams Orange U14",
-      "away_team": "Phoenix Inham Blaze U14",
+      "away_team": "Attenborough Colts Yellow U14",
       "venue": "Costock Road LE12 6LY",
       "division": "U14 Sun YEL Trophy",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "East Leake Bantams Orange U14",
       "home_away": "home",
-      "opponent": "Phoenix Inham Blaze U14"
-    },
-    {
-      "id": "f81548ae22d841dc56735c48224596b2",
-      "date": "2026-04-23",
-      "time": "18:00",
-      "home_team": "Priory Celtic 1967 U9",
-      "away_team": "East Leake Bantams Red U9",
-      "venue": "Kimberley Leisure Centre NG16 2NJ",
-      "division": "U9 Sun Spring Div 6 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "East Leake Bantams Red U9",
-      "home_away": "away",
-      "opponent": "Priory Celtic 1967 U9"
+      "opponent": "Attenborough Colts Yellow U14"
     },
     {
       "id": "c1098a648269bcb18c689aa28d256579",
@@ -144,19 +131,6 @@
       "team": "East Leake Bantams Black U9",
       "home_away": "away",
       "opponent": "AJ Sport White U9"
-    },
-    {
-      "id": "4333b8564f909f9fee7c07d90ebcbf68",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "East Leake Bantams Orange U11",
-      "away_team": "Spirit Celtic White U11",
-      "venue": "Costock Road LE12 6LY",
-      "division": "U11 Sun Spring Div 5 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "East Leake Bantams Orange U11",
-      "home_away": "home",
-      "opponent": "Spirit Celtic White U11"
     },
     {
       "id": "d5110226fccc34b3baf37e07e4bd7306",
@@ -276,6 +250,19 @@
       "opponent": "Cotgrave FC Green U10"
     },
     {
+      "id": "4333b8564f909f9fee7c07d90ebcbf68",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "East Leake Bantams Orange U11",
+      "away_team": "Spirit Celtic White U11",
+      "venue": "Costock Road LE12 6LY",
+      "division": "U11 Sun Spring Div 5 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "East Leake Bantams Orange U11",
+      "home_away": "home",
+      "opponent": "Spirit Celtic White U11"
+    },
+    {
       "id": "af2c7278668a2ddc7bacc79fdd14f7ca",
       "date": "2026-04-26",
       "time": "11:00",
@@ -368,6 +355,40 @@
     }
   ],
   "results": [
+    {
+      "id": "0fd52a2c547a1ab686d41c5cca99d420",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "East Leake Bantams Orange U14",
+      "away_team": "Phoenix Inham Blaze U14",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Sun YEL Trophy",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "East Leake Bantams Orange U14",
+      "home_away": "home",
+      "opponent": "Phoenix Inham Blaze U14",
+      "goals_for": 1,
+      "goals_against": 0
+    },
+    {
+      "id": "f81548ae22d841dc56735c48224596b2",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "Priory Celtic 1967 U9",
+      "away_team": "East Leake Bantams Red U9",
+      "home_score": 2,
+      "away_score": 8,
+      "venue": "",
+      "division": "U9 Sun Spring Div 6 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "East Leake Bantams Red U9",
+      "home_away": "away",
+      "opponent": "Priory Celtic 1967 U9",
+      "goals_for": 8,
+      "goals_against": 2
+    },
     {
       "id": "5e85c8922eb33e64bfe309999b4539a0",
       "date": "2026-04-22",

@@ -1,19 +1,8 @@
 {
   "team": "Breaston Park Green U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "21e8242ecb1a62f2055d16e6a305879e",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Breaston Park Green U13",
-      "away_team": "Riverside FC Panthers U13",
-      "venue": "Perk’s Park - DE72 3EH",
-      "division": "U13 Sun Spring Div 6",
-      "home_away": "home",
-      "opponent": "Riverside FC Panthers U13"
-    },
     {
       "id": "39eca744827f348db726635bee6203c1",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "21e8242ecb1a62f2055d16e6a305879e",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Breaston Park Green U13",
+      "away_team": "Riverside FC Panthers U13",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "",
+      "division": "U13 Sun Spring Div 6",
+      "home_away": "home",
+      "opponent": "Riverside FC Panthers U13",
+      "goals_for": 2,
+      "goals_against": 6
+    },
     {
       "id": "8b4c6e1b3fd6ce9232166b087b1e3713",
       "date": "2026-04-19",

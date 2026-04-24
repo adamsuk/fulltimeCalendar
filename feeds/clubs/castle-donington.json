@@ -1,20 +1,7 @@
 {
   "club": "Castle Donington",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "443b8e16f005fecb4ec872e785ef89fc",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Castle Donington Lions U14",
-      "away_team": "Attenborough Colts Green U14",
-      "venue": "Spital Park DE74 2NQ",
-      "division": "U14 Sun YEL Shield",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Castle Donington Lions U14",
-      "home_away": "home",
-      "opponent": "Attenborough Colts Green U14"
-    },
     {
       "id": "499bfa53684364d4d2acc5efbb954b2b",
       "date": "2026-04-25",
@@ -173,6 +160,23 @@
     }
   ],
   "results": [
+    {
+      "id": "443b8e16f005fecb4ec872e785ef89fc",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Castle Donington Lions U14",
+      "away_team": "Attenborough Colts Green U14",
+      "home_score": 4,
+      "away_score": 6,
+      "venue": "",
+      "division": "U14 Sun YEL Shield",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Castle Donington Lions U14",
+      "home_away": "home",
+      "opponent": "Attenborough Colts Green U14",
+      "goals_for": 4,
+      "goals_against": 6
+    },
     {
       "id": "26ba591723f57ed1aaee169a3cfb4de3",
       "date": "2026-04-21",

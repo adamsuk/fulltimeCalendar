@@ -1,6 +1,6 @@
 {
   "club": "Ilkeston Town",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
     {
       "id": "f2446ea0d8b96927e1a1e1cbeb268646",
@@ -14,19 +14,6 @@
       "team": "Ilkeston Town White Star U14",
       "home_away": "away",
       "opponent": "Eastwood CFC Aces U14"
-    },
-    {
-      "id": "00ed875eb7e2cc0444fc0d9cfe38a008",
-      "date": "2026-04-23",
-      "time": "18:00",
-      "home_team": "Ilkeston Town Titans U9",
-      "away_team": "Breaston Park Green U9",
-      "venue": "Booths Playing Fields DE7 8JF",
-      "division": "U9 Sun Spring Div 4 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ilkeston Town Titans U9",
-      "home_away": "home",
-      "opponent": "Breaston Park Green U9"
     },
     {
       "id": "fb04abde10409c6e534b640fb9a68442",
@@ -81,32 +68,6 @@
       "opponent": "Cotgrave FC Blue U11"
     },
     {
-      "id": "9350f005705809abf5f4229fb466ee97",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Tibshelf Community U10",
-      "away_team": "Ilkeston Town PSG U10",
-      "venue": "Newton Parish Ground DE55 5SH",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ilkeston Town PSG U10",
-      "home_away": "away",
-      "opponent": "Tibshelf Community U10"
-    },
-    {
-      "id": "ac1077a78be3198f97dd4c3a89b2ab5a",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Littleover Dazzlers U12",
-      "away_team": "Ilkeston Town Robins U12",
-      "venue": "Bemrose School DE223HU",
-      "division": "U12 Sat Spring Div 3 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ilkeston Town Robins U12",
-      "home_away": "away",
-      "opponent": "Littleover Dazzlers U12"
-    },
-    {
       "id": "df97cdc64a0148a984faa68593ab9b77",
       "date": "2026-04-25",
       "time": "10:00",
@@ -157,6 +118,19 @@
       "team": "Ilkeston Town Valens U11",
       "home_away": "away",
       "opponent": "Beaumont Park Lions U11"
+    },
+    {
+      "id": "ac1077a78be3198f97dd4c3a89b2ab5a",
+      "date": "2026-04-25",
+      "time": "11:30",
+      "home_team": "Littleover Dazzlers U12",
+      "away_team": "Ilkeston Town Robins U12",
+      "venue": "Booths Playing Fields, Ilkeston DE7 8JF",
+      "division": "U12 Sat Spring Div 3 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ilkeston Town Robins U12",
+      "home_away": "away",
+      "opponent": "Littleover Dazzlers U12"
     },
     {
       "id": "45a3aa166292c4711a6a730f42fcac80",
@@ -368,6 +342,23 @@
     }
   ],
   "results": [
+    {
+      "id": "00ed875eb7e2cc0444fc0d9cfe38a008",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "Ilkeston Town Titans U9",
+      "away_team": "Breaston Park Green U9",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sun Spring Div 4 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ilkeston Town Titans U9",
+      "home_away": "home",
+      "opponent": "Breaston Park Green U9",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "21993f401e417b6fb7e8477294b2b057",
       "date": "2026-04-19",
@@ -843,6 +834,23 @@
       "opponent": "Quarrydale United U10",
       "goals_for": 2,
       "goals_against": 5
+    },
+    {
+      "id": "901588587bbded3f7f60cc61f81ab3e4",
+      "date": "2026-03-29",
+      "time": "10:00",
+      "home_team": "Ilkeston Town Bears U14",
+      "away_team": "Bestwood Colliery U14",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sun Spring Premier Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ilkeston Town Bears U14",
+      "home_away": "home",
+      "opponent": "Bestwood Colliery U14",
+      "goals_for": 2,
+      "goals_against": 2
     },
     {
       "id": "8bd79d5121d9a61777b680fe93257b7d",

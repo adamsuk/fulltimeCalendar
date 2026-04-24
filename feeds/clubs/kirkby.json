@@ -1,33 +1,7 @@
 {
   "club": "Kirkby",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "228bf65a50009a93a3e58bb5166c505a",
-      "date": "2026-04-23",
-      "time": "18:00",
-      "home_team": "Kirkby Colts U13",
-      "away_team": "Ollerton Town U13",
-      "venue": "Mansfield Road NG17 3EE",
-      "division": "U13 Sun YEL Inter Cup",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Kirkby Colts U13",
-      "home_away": "home",
-      "opponent": "Ollerton Town U13"
-    },
-    {
-      "id": "ef64966accfe395a9841fa7f5d77ec01",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Basford United Iconz U12",
-      "away_team": "Kirkby Colts Red U12",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U12 Sun YEL Trophy",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Kirkby Colts Red U12",
-      "home_away": "away",
-      "opponent": "Basford United Iconz U12"
-    },
     {
       "id": "a4e7104e466f1a984f1e2236678c3ed1",
       "date": "2026-04-26",
@@ -121,6 +95,40 @@
     }
   ],
   "results": [
+    {
+      "id": "ef64966accfe395a9841fa7f5d77ec01",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Basford United Iconz U12",
+      "away_team": "Kirkby Colts Red U12",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sun YEL Trophy",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Kirkby Colts Red U12",
+      "home_away": "away",
+      "opponent": "Basford United Iconz U12",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "228bf65a50009a93a3e58bb5166c505a",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "Kirkby Colts U13",
+      "away_team": "Ollerton Town U13",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sun YEL Inter Cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Kirkby Colts U13",
+      "home_away": "home",
+      "opponent": "Ollerton Town U13",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "c7e248deb705b15a77e3715c9124b77f",
       "date": "2026-04-19",

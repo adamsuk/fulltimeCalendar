@@ -1,6 +1,6 @@
 {
   "club": "Lowdham",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
     {
       "id": "30ca6cb54aa4519f419c8085c7a771ce",
@@ -14,32 +14,6 @@
       "team": "Lowdham Colts FC Development",
       "home_away": "away",
       "opponent": "Pelican Colts FC Ladies"
-    },
-    {
-      "id": "30c179fa91c07574445d236f92964d93",
-      "date": "2026-04-23",
-      "time": "18:00",
-      "home_team": "Lowdham FC Blue U11",
-      "away_team": "Nottingham FC Onyx U11",
-      "venue": "Epperstone Village Hall NG14 6AY",
-      "division": "U11 Sat YEL Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Lowdham FC Blue U11",
-      "home_away": "home",
-      "opponent": "Nottingham FC Onyx U11"
-    },
-    {
-      "id": "d0bbece313e9031e8a09d499c67f6c58",
-      "date": "2026-04-25",
-      "time": "09:30",
-      "home_team": "Winthorpe & Cod T Black U11",
-      "away_team": "Lowdham FC Black U11",
-      "venue": "Stapleford Lane NG24 2QZ",
-      "division": "U11 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Lowdham FC Black U11",
-      "home_away": "away",
-      "opponent": "Winthorpe & Cod T Black U11"
     },
     {
       "id": "8385a52bcd76eae1874563c14efd3824",
@@ -255,7 +229,7 @@
       "time": "12:00",
       "home_team": "Priory Celtic F.C. U12 Girls",
       "away_team": "Lowdham Colts F.C. Youth U12 Girls",
-      "venue": "THE KIMBERLEY SCHOOL",
+      "venue": "KIMBERLEY SCHOOL SPORTS CENTRE",
       "division": "U12 Div 4 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Lowdham Colts F.C. Youth U12 Girls",
@@ -276,8 +250,8 @@
       "opponent": "Southwell City Titans U12"
     },
     {
-      "id": "a2c52388706bed115ebe930870b23f62",
-      "date": "2026-04-30",
+      "id": "44bb321cb1f04d2a269ec64f02b4072d",
+      "date": "2026-04-29",
       "time": "18:30",
       "home_team": "AJ Sport FC U14",
       "away_team": "Lowdham FC Red U14",
@@ -446,6 +420,23 @@
     }
   ],
   "results": [
+    {
+      "id": "30c179fa91c07574445d236f92964d93",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "Lowdham FC Blue U11",
+      "away_team": "Nottingham FC Onyx U11",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat YEL Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Lowdham FC Blue U11",
+      "home_away": "home",
+      "opponent": "Nottingham FC Onyx U11",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "b003c8b9487c741dd03c6103fdc51a77",
       "date": "2026-04-19",

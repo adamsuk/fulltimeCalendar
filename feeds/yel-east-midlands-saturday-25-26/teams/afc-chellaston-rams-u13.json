@@ -1,19 +1,8 @@
 {
   "team": "AFC Chellaston Rams U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "a7fb552ad014cbd041d2b5080761e0b3",
-      "date": "2026-04-23",
-      "time": "18:15",
-      "home_team": "Calverton MW Red U13",
-      "away_team": "AFC Chellaston Rams U13",
-      "venue": "Borrowash Victoria AFC DE21 7PH",
-      "division": "U13 Sat YEL Trophy",
-      "home_away": "away",
-      "opponent": "Calverton MW Red U13"
-    },
     {
       "id": "702309be8ff8785d87300b5886c0b36d",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a7fb552ad014cbd041d2b5080761e0b3",
+      "date": "2026-04-23",
+      "time": "18:15",
+      "home_team": "Calverton MW Red U13",
+      "away_team": "AFC Chellaston Rams U13",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat YEL Trophy",
+      "home_away": "away",
+      "opponent": "Calverton MW Red U13",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "cdf31b169f35ca3ea6615d52b452b487",
       "date": "2026-04-20",

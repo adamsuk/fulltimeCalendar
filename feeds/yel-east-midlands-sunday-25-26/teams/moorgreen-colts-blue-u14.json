@@ -1,19 +1,8 @@
 {
   "team": "Moorgreen Colts Blue U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "6b42078e5c6289b62692c0f643cf7ebb",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Cotgrave FC Claret U14",
-      "away_team": "Moorgreen Colts Blue U14",
-      "venue": "Cotgrave Welfare NG12 3PJ",
-      "division": "U14 Sun Spring Div 4",
-      "home_away": "away",
-      "opponent": "Cotgrave FC Claret U14"
-    },
     {
       "id": "8f2283b4bf96cdfa12319d439f622352",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6b42078e5c6289b62692c0f643cf7ebb",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Cotgrave FC Claret U14",
+      "away_team": "Moorgreen Colts Blue U14",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Sun Spring Div 4",
+      "home_away": "away",
+      "opponent": "Cotgrave FC Claret U14",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "b2e3b6a6601b9e49e9ef913e88a98647",
       "date": "2026-03-22",

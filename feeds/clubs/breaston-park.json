@@ -1,33 +1,7 @@
 {
   "club": "Breaston Park",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "00ed875eb7e2cc0444fc0d9cfe38a008",
-      "date": "2026-04-23",
-      "time": "18:00",
-      "home_team": "Ilkeston Town Titans U9",
-      "away_team": "Breaston Park Green U9",
-      "venue": "Booths Playing Fields DE7 8JF",
-      "division": "U9 Sun Spring Div 4 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Breaston Park Green U9",
-      "home_away": "away",
-      "opponent": "Ilkeston Town Titans U9"
-    },
-    {
-      "id": "21e8242ecb1a62f2055d16e6a305879e",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Breaston Park Green U13",
-      "away_team": "Riverside FC Panthers U13",
-      "venue": "Perk’s Park - DE72 3EH",
-      "division": "U13 Sun Spring Div 6",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Breaston Park Green U13",
-      "home_away": "home",
-      "opponent": "Riverside FC Panthers U13"
-    },
     {
       "id": "36c3e9be2a6bd0510a45d44786c148a4",
       "date": "2026-04-25",
@@ -173,6 +147,40 @@
     }
   ],
   "results": [
+    {
+      "id": "21e8242ecb1a62f2055d16e6a305879e",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Breaston Park Green U13",
+      "away_team": "Riverside FC Panthers U13",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "",
+      "division": "U13 Sun Spring Div 6",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Breaston Park Green U13",
+      "home_away": "home",
+      "opponent": "Riverside FC Panthers U13",
+      "goals_for": 2,
+      "goals_against": 6
+    },
+    {
+      "id": "00ed875eb7e2cc0444fc0d9cfe38a008",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "Ilkeston Town Titans U9",
+      "away_team": "Breaston Park Green U9",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sun Spring Div 4 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Breaston Park Green U9",
+      "home_away": "away",
+      "opponent": "Ilkeston Town Titans U9",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "a4a4c56b0218f256830bc9bdab91bff0",
       "date": "2026-04-22",

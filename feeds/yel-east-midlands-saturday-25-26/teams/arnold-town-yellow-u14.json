@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town Yellow U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "6c6b0c2c7350cb1d626b0ff3839b7a81",
-      "date": "2026-04-23",
-      "time": "18:00",
-      "home_team": "Arnold Town Yellow U14",
-      "away_team": "Sherwood Colliery Blue U14",
-      "venue": "Eagle Valley NG5 8PS",
-      "division": "U14 Sat Spring Div 2 Red",
-      "home_away": "home",
-      "opponent": "Sherwood Colliery Blue U14"
-    },
     {
       "id": "6d514d06708549b30d5f0a42b157f895",
       "date": "2026-04-25",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6c6b0c2c7350cb1d626b0ff3839b7a81",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "Arnold Town Yellow U14",
+      "away_team": "Sherwood Colliery Blue U14",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U14 Sat Spring Div 2 Red",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery Blue U14",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "459945f5ea87a542e125f73fb538bc5f",
       "date": "2026-03-21",

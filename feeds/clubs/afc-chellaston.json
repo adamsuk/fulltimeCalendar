@@ -1,20 +1,7 @@
 {
   "club": "AFC Chellaston",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "a7fb552ad014cbd041d2b5080761e0b3",
-      "date": "2026-04-23",
-      "time": "18:15",
-      "home_team": "Calverton MW Red U13",
-      "away_team": "AFC Chellaston Rams U13",
-      "venue": "Borrowash Victoria AFC DE21 7PH",
-      "division": "U13 Sat YEL Trophy",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "AFC Chellaston Rams U13",
-      "home_away": "away",
-      "opponent": "Calverton MW Red U13"
-    },
     {
       "id": "f175d7276786835d66ec1ed3eb2185d3",
       "date": "2026-04-25",
@@ -95,6 +82,23 @@
     }
   ],
   "results": [
+    {
+      "id": "a7fb552ad014cbd041d2b5080761e0b3",
+      "date": "2026-04-23",
+      "time": "18:15",
+      "home_team": "Calverton MW Red U13",
+      "away_team": "AFC Chellaston Rams U13",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat YEL Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "AFC Chellaston Rams U13",
+      "home_away": "away",
+      "opponent": "Calverton MW Red U13",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "7dadb249ca700e97b5c88fbc76df47d0",
       "date": "2026-04-21",
@@ -385,6 +389,23 @@
       "goals_against": 1
     },
     {
+      "id": "ec0e062fc20cf8b14d4983772d03dad8",
+      "date": "2026-03-14",
+      "time": "12:30",
+      "home_team": "DJFC U12",
+      "away_team": "AFC Chellaston Raiders U12",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "AFC Chellaston Raiders U12",
+      "home_away": "away",
+      "opponent": "DJFC U12",
+      "goals_for": 0,
+      "goals_against": 5
+    },
+    {
       "id": "b4538f402a328b5bfa0fa44d21a5841b",
       "date": "2026-03-14",
       "time": "10:45",
@@ -536,6 +557,23 @@
       "opponent": "Silva FC Rushcliffe Black U13",
       "goals_for": 7,
       "goals_against": 0
+    },
+    {
+      "id": "5c2da3f3dcba4266d06eb95864c0b82d",
+      "date": "2026-03-07",
+      "time": "10:00",
+      "home_team": "AFC Chellaston Chiefs U12",
+      "away_team": "PMG Excel U12",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "AFC Chellaston Chiefs U12",
+      "home_away": "home",
+      "opponent": "PMG Excel U12",
+      "goals_for": 2,
+      "goals_against": 1
     },
     {
       "id": "1e8343a0ad9237302af004ea553b4865",

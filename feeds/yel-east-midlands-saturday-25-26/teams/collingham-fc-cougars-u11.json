@@ -1,19 +1,8 @@
 {
   "team": "Collingham FC Cougars U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "fb32b2566df16e6fc2546c24b8ff2f19",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Collingham FC Cougars U11",
-      "away_team": "Newark Brazil Corinthians U11",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U11 Sat Spring Div 4 Green",
-      "home_away": "home",
-      "opponent": "Newark Brazil Corinthians U11"
-    },
     {
       "id": "cef6c5dea70f7286dec0638653de6c3a",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "fb32b2566df16e6fc2546c24b8ff2f19",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Collingham FC Cougars U11",
+      "away_team": "Newark Brazil Corinthians U11",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 4 Green",
+      "home_away": "home",
+      "opponent": "Newark Brazil Corinthians U11",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "db9955a454aaa693ba4232a159433254",
       "date": "2026-03-14",

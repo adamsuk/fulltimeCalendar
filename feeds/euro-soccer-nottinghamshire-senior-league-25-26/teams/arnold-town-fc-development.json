@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town FC Development",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "bf50d56f342b53036d067788f4d3778b",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Arnold Town FC Development",
-      "away_team": "Beaufort United F.C. Development",
-      "venue": "EAGLE VALLEY #3",
-      "division": "Development Spring Division One",
-      "home_away": "home",
-      "opponent": "Beaufort United F.C. Development"
-    },
     {
       "id": "a79cd14be91fbc8c7a27d2ac1adcc74d",
       "date": "2026-04-25",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "bf50d56f342b53036d067788f4d3778b",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Arnold Town FC Development",
+      "away_team": "Beaufort United F.C. Development",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "home",
+      "opponent": "Beaufort United F.C. Development",
+      "goals_for": 2,
+      "goals_against": 6
+    },
     {
       "id": "2f37df879c39f2bc564f59d8b1fcf1c4",
       "date": "2026-04-18",

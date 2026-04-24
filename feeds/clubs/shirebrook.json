@@ -1,6 +1,6 @@
 {
   "club": "Shirebrook",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
     {
       "id": "5d277a31ecebc1b9bafa5bd36dd48d39",
@@ -14,19 +14,6 @@
       "team": "Shirebrook Rangers & Juniors U14 Girls",
       "home_away": "away",
       "opponent": "Ravenshead Reds F.C. Youth U14"
-    },
-    {
-      "id": "1d3a1d29b0df7ba8129dffb9e1079d3d",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Shirebrook Rangers Blue U11",
-      "away_team": "Gonerby Yellow U11",
-      "venue": "Harby Playing Fields NG23 7ED",
-      "division": "U11 Sun YEL Inter cup",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Shirebrook Rangers Blue U11",
-      "home_away": "home",
-      "opponent": "Gonerby Yellow U11"
     },
     {
       "id": "77dada54066d4c32b70551f348a550fd",
@@ -79,19 +66,6 @@
       "team": "Shirebrook Rangers U7",
       "home_away": "home",
       "opponent": "Blidworth Bengals U7"
-    },
-    {
-      "id": "15222fad3bebb2051b73232a2725fde4",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Nottingham FC Emeralds U11",
-      "away_team": "Shirebrook Rangers U11",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U11 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Shirebrook Rangers U11",
-      "home_away": "away",
-      "opponent": "Nottingham FC Emeralds U11"
     },
     {
       "id": "89c451755a3c7c83568be2ea56402933",
@@ -381,6 +355,23 @@
     }
   ],
   "results": [
+    {
+      "id": "1d3a1d29b0df7ba8129dffb9e1079d3d",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Shirebrook Rangers Blue U11",
+      "away_team": "Gonerby Yellow U11",
+      "home_score": 5,
+      "away_score": 4,
+      "venue": "",
+      "division": "U11 Sun YEL Inter cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Shirebrook Rangers Blue U11",
+      "home_away": "home",
+      "opponent": "Gonerby Yellow U11",
+      "goals_for": 5,
+      "goals_against": 4
+    },
     {
       "id": "4f3c1fc7b7fa6c299890caaa067c2c8a",
       "date": "2026-04-22",

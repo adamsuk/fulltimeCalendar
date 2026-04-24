@@ -1,6 +1,6 @@
 {
   "club": "Riverside",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
     {
       "id": "524bb809788a0ea7aad32bce72e2e863",
@@ -27,19 +27,6 @@
       "team": "Riverside Junior U14 Rubies",
       "home_away": "away",
       "opponent": "Arnold Eagles F.C. Girls U14 Hurricanes"
-    },
-    {
-      "id": "21e8242ecb1a62f2055d16e6a305879e",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Breaston Park Green U13",
-      "away_team": "Riverside FC Panthers U13",
-      "venue": "Perk’s Park - DE72 3EH",
-      "division": "U13 Sun Spring Div 6",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Riverside FC Panthers U13",
-      "home_away": "away",
-      "opponent": "Breaston Park Green U13"
     },
     {
       "id": "fff8c2eb08b91a8d768834e777824f2b",
@@ -212,6 +199,23 @@
     }
   ],
   "results": [
+    {
+      "id": "21e8242ecb1a62f2055d16e6a305879e",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Breaston Park Green U13",
+      "away_team": "Riverside FC Panthers U13",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "",
+      "division": "U13 Sun Spring Div 6",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Riverside FC Panthers U13",
+      "home_away": "away",
+      "opponent": "Breaston Park Green U13",
+      "goals_for": 6,
+      "goals_against": 2
+    },
     {
       "id": "22459c95c0278d7059cff4bc131214dd",
       "date": "2026-04-22",

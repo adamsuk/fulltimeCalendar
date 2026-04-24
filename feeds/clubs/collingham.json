@@ -1,6 +1,6 @@
 {
   "club": "Collingham",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
     {
       "id": "87e7e3abbd34a18b404e9b0f26168080",
@@ -14,32 +14,6 @@
       "team": "Collingham FC Lions U14",
       "home_away": "away",
       "opponent": "Meden Vale Colts Red U14"
-    },
-    {
-      "id": "770dcd3805197d0ab6edfcd6b17182e8",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "PMG Excel U14",
-      "away_team": "Collingham FC Tigers U14",
-      "venue": "Bulwell Hall Park NG6 8LF",
-      "division": "U14 Sun YEL Shield",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Collingham FC Tigers U14",
-      "home_away": "away",
-      "opponent": "PMG Excel U14"
-    },
-    {
-      "id": "fb32b2566df16e6fc2546c24b8ff2f19",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Collingham FC Cougars U11",
-      "away_team": "Newark Brazil Corinthians U11",
-      "venue": "Collingham FC  NG23 7RA",
-      "division": "U11 Sat Spring Div 4 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Collingham FC Cougars U11",
-      "home_away": "home",
-      "opponent": "Newark Brazil Corinthians U11"
     },
     {
       "id": "b75c66b619f0af4ed7f1a3b2f1f61f5a",
@@ -261,19 +235,6 @@
       "team": "Collingham FC Development",
       "home_away": "home",
       "opponent": "Arnold Town FC Development"
-    },
-    {
-      "id": "949edbd1b24045b6c8378e2b38325ad9",
-      "date": "2026-04-25",
-      "time": "13:30",
-      "home_team": "Collingham FC Lions U13",
-      "away_team": "Winthorpe & Cod T U13",
-      "venue": "SOUTH CLIFTON SPORTS FIELD NG23 7AF",
-      "division": "U13 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Collingham FC Lions U13",
-      "home_away": "home",
-      "opponent": "Winthorpe & Cod T U13"
     },
     {
       "id": "ada6a2645f328c076067fc51fb3bbb03",
@@ -498,6 +459,40 @@
     }
   ],
   "results": [
+    {
+      "id": "770dcd3805197d0ab6edfcd6b17182e8",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "PMG Excel U14",
+      "away_team": "Collingham FC Tigers U14",
+      "home_score": 7,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sun YEL Shield",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Collingham FC Tigers U14",
+      "home_away": "away",
+      "opponent": "PMG Excel U14",
+      "goals_for": 4,
+      "goals_against": 7
+    },
+    {
+      "id": "fb32b2566df16e6fc2546c24b8ff2f19",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Collingham FC Cougars U11",
+      "away_team": "Newark Brazil Corinthians U11",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 4 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Collingham FC Cougars U11",
+      "home_away": "home",
+      "opponent": "Newark Brazil Corinthians U11",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "5149d20191340949084f359a7fad1d66",
       "date": "2026-04-21",

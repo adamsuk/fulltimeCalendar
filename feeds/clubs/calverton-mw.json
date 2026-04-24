@@ -1,20 +1,7 @@
 {
   "club": "Calverton MW",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "a7fb552ad014cbd041d2b5080761e0b3",
-      "date": "2026-04-23",
-      "time": "18:15",
-      "home_team": "Calverton MW Red U13",
-      "away_team": "AFC Chellaston Rams U13",
-      "venue": "Borrowash Victoria AFC DE21 7PH",
-      "division": "U13 Sat YEL Trophy",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Calverton MW Red U13",
-      "home_away": "home",
-      "opponent": "AFC Chellaston Rams U13"
-    },
     {
       "id": "cc509873c481e38fd3fe893645168475",
       "date": "2026-04-25",
@@ -53,19 +40,6 @@
       "team": "Calverton MW Blue U12",
       "home_away": "away",
       "opponent": "Beeston FC U12"
-    },
-    {
-      "id": "4072041c0d0c2c0a7344ca7c14368f50",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Calverton MW White U14",
-      "away_team": "Ravenshead Reds U14",
-      "venue": "Kinton Park NG14 6NR",
-      "division": "U14 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Calverton MW White U14",
-      "home_away": "home",
-      "opponent": "Ravenshead Reds U14"
     },
     {
       "id": "8c1408fd7000f3bb23f2ab989d1b38d0",
@@ -173,6 +147,23 @@
     }
   ],
   "results": [
+    {
+      "id": "a7fb552ad014cbd041d2b5080761e0b3",
+      "date": "2026-04-23",
+      "time": "18:15",
+      "home_team": "Calverton MW Red U13",
+      "away_team": "AFC Chellaston Rams U13",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat YEL Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Calverton MW Red U13",
+      "home_away": "home",
+      "opponent": "AFC Chellaston Rams U13",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "2cb8d2a53969584482808860d5f8f8d3",
       "date": "2026-04-22",

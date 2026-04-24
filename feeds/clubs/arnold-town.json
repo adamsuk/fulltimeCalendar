@@ -1,6 +1,6 @@
 {
   "club": "Arnold Town",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
     {
       "id": "082583a9f18d4f91a7ce49b0197eb07c",
@@ -14,45 +14,6 @@
       "team": "Arnold Town Reserves",
       "home_away": "away",
       "opponent": "Notts Olympic Reserves"
-    },
-    {
-      "id": "6c6b0c2c7350cb1d626b0ff3839b7a81",
-      "date": "2026-04-23",
-      "time": "18:00",
-      "home_team": "Arnold Town Yellow U14",
-      "away_team": "Sherwood Colliery Blue U14",
-      "venue": "Eagle Valley NG5 8PS",
-      "division": "U14 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Arnold Town Yellow U14",
-      "home_away": "home",
-      "opponent": "Sherwood Colliery Blue U14"
-    },
-    {
-      "id": "46d49fefa4eedae80ee308c2edce5b97",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Bobbersmill FC U13",
-      "away_team": "Arnold Town Yellow U13",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U13 Sat Spring Div 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Arnold Town Yellow U13",
-      "home_away": "away",
-      "opponent": "Bobbersmill FC U13"
-    },
-    {
-      "id": "bf50d56f342b53036d067788f4d3778b",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Arnold Town FC Development",
-      "away_team": "Beaufort United F.C. Development",
-      "venue": "EAGLE VALLEY #3",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Arnold Town FC Development",
-      "home_away": "home",
-      "opponent": "Beaufort United F.C. Development"
     },
     {
       "id": "18a30087a97abe59b598296675ad2be8",
@@ -398,7 +359,7 @@
       "time": "10:00",
       "home_team": "Priory Celtic FC Ladies First Team",
       "away_team": "Arnold Town FC Women",
-      "venue": "THE KIMBERLEY SCHOOL",
+      "venue": "KIMBERLEY SCHOOL SPORTS CENTRE",
       "division": "Seniors Div 2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Arnold Town FC Women",
@@ -472,6 +433,57 @@
     }
   ],
   "results": [
+    {
+      "id": "46d49fefa4eedae80ee308c2edce5b97",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Bobbersmill FC U13",
+      "away_team": "Arnold Town Yellow U13",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat Spring Div 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Arnold Town Yellow U13",
+      "home_away": "away",
+      "opponent": "Bobbersmill FC U13",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
+      "id": "bf50d56f342b53036d067788f4d3778b",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Arnold Town FC Development",
+      "away_team": "Beaufort United F.C. Development",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Arnold Town FC Development",
+      "home_away": "home",
+      "opponent": "Beaufort United F.C. Development",
+      "goals_for": 2,
+      "goals_against": 6
+    },
+    {
+      "id": "6c6b0c2c7350cb1d626b0ff3839b7a81",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "Arnold Town Yellow U14",
+      "away_team": "Sherwood Colliery Blue U14",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U14 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Arnold Town Yellow U14",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery Blue U14",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "03db302abaf99444c515803db2e6e233",
       "date": "2026-04-21",

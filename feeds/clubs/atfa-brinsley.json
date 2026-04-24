@@ -1,20 +1,7 @@
 {
   "club": "ATFA Brinsley",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "de07d1793070faa83f6912c5c6b1c9e2",
-      "date": "2026-04-23",
-      "time": "18:45",
-      "home_team": "ATFA Brinsley FC U12",
-      "away_team": "West Bridgford Colts U12 Flames",
-      "venue": "BRINSLEY RECREATION GROUND",
-      "division": "U12 Div 3 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "ATFA Brinsley FC U12",
-      "home_away": "home",
-      "opponent": "West Bridgford Colts U12 Flames"
-    },
     {
       "id": "499bfa53684364d4d2acc5efbb954b2b",
       "date": "2026-04-25",
@@ -160,6 +147,23 @@
     }
   ],
   "results": [
+    {
+      "id": "de07d1793070faa83f6912c5c6b1c9e2",
+      "date": "2026-04-23",
+      "time": "18:45",
+      "home_team": "ATFA Brinsley FC U12",
+      "away_team": "West Bridgford Colts U12 Flames",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Div 3 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "ATFA Brinsley FC U12",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U12 Flames",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "452bf79528a4bf51aed64c0f78c48217",
       "date": "2026-04-19",

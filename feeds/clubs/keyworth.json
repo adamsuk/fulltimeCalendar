@@ -1,6 +1,6 @@
 {
   "club": "Keyworth",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
     {
       "id": "67bc4be566a984541f88c71aa3c3fc04",
@@ -29,19 +29,6 @@
       "opponent": "Calverton Miners Welfare FC"
     },
     {
-      "id": "971a421aecb8d1f3b3d3cb4f0a855478",
-      "date": "2026-04-16",
-      "time": "18:30",
-      "home_team": "Keyworth Utd Fanzines U12",
-      "away_team": "Bestwood Colliery Red U12",
-      "venue": "Platt Lane NG12 5GE",
-      "division": "U12 Sun Spring Div 3 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Keyworth Utd Fanzines U12",
-      "home_away": "home",
-      "opponent": "Bestwood Colliery Red U12"
-    },
-    {
       "id": "7ad09b4e281ab2b113e90987aadda1c3",
       "date": "2026-04-19",
       "time": "10:30",
@@ -53,19 +40,6 @@
       "team": "Keyworth United F.C. U14 Thunder",
       "home_away": "away",
       "opponent": "Market Warsop F.C. Youth U14 Lionesses"
-    },
-    {
-      "id": "beff5ced5942746c31b4257c6eabfdd2",
-      "date": "2026-04-23",
-      "time": "18:00",
-      "home_team": "Pelican Colts Blue U13",
-      "away_team": "Keyworth United Yellow U13",
-      "venue": "Dave Eastwood Sports Ground NG7 2SA",
-      "division": "U13 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Keyworth United Yellow U13",
-      "home_away": "away",
-      "opponent": "Pelican Colts Blue U13"
     },
     {
       "id": "5873c692d616ef3e097e11bf626663c4",
@@ -391,19 +365,6 @@
       "team": "Keyworth United White U9",
       "home_away": "away",
       "opponent": "Radcliffe Olympic Blue U9"
-    },
-    {
-      "id": "4a3667d81ca986f102099ebd849df976",
-      "date": "2026-04-25",
-      "time": "12:30",
-      "home_team": "Southwell City Panthers U11",
-      "away_team": "Keyworth United White U11",
-      "venue": "Southwell City FC  NG25 0JP",
-      "division": "U11 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Keyworth United White U11",
-      "home_away": "away",
-      "opponent": "Southwell City Panthers U11"
     },
     {
       "id": "825299f390c05f557df92374979f51fe",
@@ -979,6 +940,23 @@
     }
   ],
   "results": [
+    {
+      "id": "beff5ced5942746c31b4257c6eabfdd2",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "Pelican Colts Blue U13",
+      "away_team": "Keyworth United Yellow U13",
+      "home_score": 6,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sun Spring Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Keyworth United Yellow U13",
+      "home_away": "away",
+      "opponent": "Pelican Colts Blue U13",
+      "goals_for": 3,
+      "goals_against": 6
+    },
     {
       "id": "bbd8d7c2e59744da5279f654cd6b5645",
       "date": "2026-04-22",

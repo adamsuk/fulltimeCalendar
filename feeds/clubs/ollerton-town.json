@@ -1,20 +1,7 @@
 {
   "club": "Ollerton Town",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "228bf65a50009a93a3e58bb5166c505a",
-      "date": "2026-04-23",
-      "time": "18:00",
-      "home_team": "Kirkby Colts U13",
-      "away_team": "Ollerton Town U13",
-      "venue": "Mansfield Road NG17 3EE",
-      "division": "U13 Sun YEL Inter Cup",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ollerton Town U13",
-      "home_away": "away",
-      "opponent": "Kirkby Colts U13"
-    },
     {
       "id": "4ac14d9dddc5d61d0c09c98fb22a8783",
       "date": "2026-04-25",
@@ -134,6 +121,23 @@
     }
   ],
   "results": [
+    {
+      "id": "228bf65a50009a93a3e58bb5166c505a",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "Kirkby Colts U13",
+      "away_team": "Ollerton Town U13",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sun YEL Inter Cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ollerton Town U13",
+      "home_away": "away",
+      "opponent": "Kirkby Colts U13",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "3c395006faad298453be4f3cf815a458",
       "date": "2026-04-21",

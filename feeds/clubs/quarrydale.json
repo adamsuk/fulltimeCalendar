@@ -1,20 +1,7 @@
 {
   "club": "Quarrydale",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "a19ee68824f3a5729a4a527292338c1d",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Quarrydale United U9",
-      "away_team": "Selston FC Black U9",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U9 Sat Spring Div 8 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Quarrydale United U9",
-      "home_away": "home",
-      "opponent": "Selston FC Black U9"
-    },
     {
       "id": "822c44e82666d090e0676fb404d2c2d0",
       "date": "2026-04-25",
@@ -172,19 +159,6 @@
       "opponent": "Priory Celtic Hoops U10"
     },
     {
-      "id": "b1c6431de82c59dd12fdc352fe0c04ce",
-      "date": "2026-04-26",
-      "time": "11:30",
-      "home_team": "Quarrydale United U8",
-      "away_team": "G3A FC Miami U8",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U8 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Quarrydale United U8",
-      "home_away": "home",
-      "opponent": "G3A FC Miami U8"
-    },
-    {
       "id": "c791772aacccfb3cc05e6507e5657bfd",
       "date": "2026-04-26",
       "time": "12:15",
@@ -316,6 +290,23 @@
     }
   ],
   "results": [
+    {
+      "id": "a19ee68824f3a5729a4a527292338c1d",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Quarrydale United U9",
+      "away_team": "Selston FC Black U9",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sat Spring Div 8 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United U9",
+      "home_away": "home",
+      "opponent": "Selston FC Black U9",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "f1677a0d00536a2bba5bb625fee68456",
       "date": "2026-04-21",

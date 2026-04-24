@@ -1,19 +1,8 @@
 {
   "team": "DLFC Purple U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "b007aece8bf7a7f4773d32bc35c0078d",
-      "date": "2026-04-23",
-      "time": "18:00",
-      "home_team": "DLFC Purple U9",
-      "away_team": "NG United U9",
-      "venue": "Mellish Sports Centre  NG6 9FH",
-      "division": "U9 Sat Spring Div 9 Red",
-      "home_away": "home",
-      "opponent": "NG United U9"
-    },
     {
       "id": "9024c8c2aa3772d51df9c2a8cb81780b",
       "date": "2026-04-25",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b007aece8bf7a7f4773d32bc35c0078d",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "DLFC Purple U9",
+      "away_team": "NG United U9",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sat Spring Div 9 Red",
+      "home_away": "home",
+      "opponent": "NG United U9",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "9e31ebc5cff1b60084aa86b20332f0a0",
       "date": "2026-04-18",

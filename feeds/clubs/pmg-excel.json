@@ -1,20 +1,7 @@
 {
   "club": "PMG Excel",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "770dcd3805197d0ab6edfcd6b17182e8",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "PMG Excel U14",
-      "away_team": "Collingham FC Tigers U14",
-      "venue": "Bulwell Hall Park NG6 8LF",
-      "division": "U14 Sun YEL Shield",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "PMG Excel U14",
-      "home_away": "home",
-      "opponent": "Collingham FC Tigers U14"
-    },
     {
       "id": "0e8b8d1c7b7b1e001a51ad4ace26674a",
       "date": "2026-04-25",
@@ -73,7 +60,7 @@
       "time": "10:00",
       "home_team": "Gedling Southbank Reds U10",
       "away_team": "PMG Excel U10",
-      "venue": "Redhill Academy NG5 8GX",
+      "venue": "Trevor Carter Pavillion NG4 1RL",
       "division": "U10 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "PMG Excel U10",
@@ -144,9 +131,39 @@
       "team": "PMG Excel U13",
       "home_away": "home",
       "opponent": "Priory Celtic Hoops U13"
+    },
+    {
+      "id": "0575162c612c8e52345ecca8a9358306",
+      "date": "2026-05-03",
+      "time": "11:00",
+      "home_team": "Priory Celtic 1967 U14",
+      "away_team": "PMG Excel U14",
+      "venue": "Kimberley Leisure Centre NG16 2NJ",
+      "division": "U14 Sun YEL Shield",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "PMG Excel U14",
+      "home_away": "away",
+      "opponent": "Priory Celtic 1967 U14"
     }
   ],
   "results": [
+    {
+      "id": "770dcd3805197d0ab6edfcd6b17182e8",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "PMG Excel U14",
+      "away_team": "Collingham FC Tigers U14",
+      "home_score": 7,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sun YEL Shield",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "PMG Excel U14",
+      "home_away": "home",
+      "opponent": "Collingham FC Tigers U14",
+      "goals_for": 7,
+      "goals_against": 4
+    },
     {
       "id": "b7dba3af2d7adfdab0c288d713fe43ed",
       "date": "2026-04-22",
@@ -911,6 +928,23 @@
       "opponent": "Club FDNA Madrid U10",
       "goals_for": null,
       "goals_against": null
+    },
+    {
+      "id": "5c2da3f3dcba4266d06eb95864c0b82d",
+      "date": "2026-03-07",
+      "time": "10:00",
+      "home_team": "AFC Chellaston Chiefs U12",
+      "away_team": "PMG Excel U12",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "PMG Excel U12",
+      "home_away": "away",
+      "opponent": "AFC Chellaston Chiefs U12",
+      "goals_for": 1,
+      "goals_against": 2
     },
     {
       "id": "701f4f317f6954b9280c2068d9c37434",

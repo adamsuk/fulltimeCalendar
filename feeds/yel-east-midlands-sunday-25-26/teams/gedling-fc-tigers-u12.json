@@ -1,19 +1,8 @@
 {
   "team": "Gedling FC Tigers U12 *",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "44cca9b9cf7ff4a94bfa6f301033bfd4",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Nottingham FC Blue U12",
-      "away_team": "Gedling FC Tigers U12 *",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U12 Sun YEL Trophy",
-      "home_away": "away",
-      "opponent": "Nottingham FC Blue U12"
-    },
     {
       "id": "8d4e89065965a1bfd7571b6d6ab5dcb9",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "44cca9b9cf7ff4a94bfa6f301033bfd4",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Nottingham FC Blue U12",
+      "away_team": "Gedling FC Tigers U12 *",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sun YEL Trophy",
+      "home_away": "away",
+      "opponent": "Nottingham FC Blue U12",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "ebd11c3213d346e34d648378dfba9133",
       "date": "2026-04-19",

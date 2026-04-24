@@ -1,19 +1,8 @@
 {
   "team": "Bobbersmill FC U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "46d49fefa4eedae80ee308c2edce5b97",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Bobbersmill FC U13",
-      "away_team": "Arnold Town Yellow U13",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U13 Sat Spring Div 4 Red",
-      "home_away": "home",
-      "opponent": "Arnold Town Yellow U13"
-    },
     {
       "id": "92fc741b7aeef456af09a561eb0514da",
       "date": "2026-04-25",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "46d49fefa4eedae80ee308c2edce5b97",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Bobbersmill FC U13",
+      "away_team": "Arnold Town Yellow U13",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat Spring Div 4 Red",
+      "home_away": "home",
+      "opponent": "Arnold Town Yellow U13",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "3d2dc0cad9dfa52e521b728def0c9c08",
       "date": "2026-04-18",

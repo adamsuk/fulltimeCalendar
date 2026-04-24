@@ -1,19 +1,8 @@
 {
   "team": "Attenborough Colts Green U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "9900f86e6609ed19d2626fc68f67e4bc",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Beeston FC U10",
-      "away_team": "Attenborough Colts Green U10",
-      "venue": "Round Hill Primary School NG9 1AE",
-      "division": "U10 Sun Spring Div 5 Red",
-      "home_away": "away",
-      "opponent": "Beeston FC U10"
-    },
     {
       "id": "e4824361f59c9309f1f2723532a0365b",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "9900f86e6609ed19d2626fc68f67e4bc",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Beeston FC U10",
+      "away_team": "Attenborough Colts Green U10",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sun Spring Div 5 Red",
+      "home_away": "away",
+      "opponent": "Beeston FC U10",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "a9323557b0ffabb57a349359d8e3917e",
       "date": "2026-04-19",

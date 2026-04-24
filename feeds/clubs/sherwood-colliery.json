@@ -1,20 +1,7 @@
 {
   "club": "Sherwood Colliery",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "6c6b0c2c7350cb1d626b0ff3839b7a81",
-      "date": "2026-04-23",
-      "time": "18:00",
-      "home_team": "Arnold Town Yellow U14",
-      "away_team": "Sherwood Colliery Blue U14",
-      "venue": "Eagle Valley NG5 8PS",
-      "division": "U14 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sherwood Colliery Blue U14",
-      "home_away": "away",
-      "opponent": "Arnold Town Yellow U14"
-    },
     {
       "id": "2817847610d8fec1504390aa638d1f87",
       "date": "2026-04-25",
@@ -118,19 +105,6 @@
       "team": "Sherwood Colliery U11",
       "home_away": "away",
       "opponent": "DLFC Pink U11"
-    },
-    {
-      "id": "26eb46c294e283cd93eb7a2356f889ea",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Sherwood Colliery Blue U14",
-      "away_team": "Mickleover Jnrs Galaxy U14",
-      "venue": "Debdale Park & Sports Ground NG19 7NS",
-      "division": "U14 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Sherwood Colliery Blue U14",
-      "home_away": "home",
-      "opponent": "Mickleover Jnrs Galaxy U14"
     },
     {
       "id": "7adb25f44aa61fd4d54d8e64ee6b578e",
@@ -485,6 +459,23 @@
     }
   ],
   "results": [
+    {
+      "id": "6c6b0c2c7350cb1d626b0ff3839b7a81",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "Arnold Town Yellow U14",
+      "away_team": "Sherwood Colliery Blue U14",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U14 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Sherwood Colliery Blue U14",
+      "home_away": "away",
+      "opponent": "Arnold Town Yellow U14",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "bbd8d7c2e59744da5279f654cd6b5645",
       "date": "2026-04-22",

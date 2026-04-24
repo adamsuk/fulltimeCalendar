@@ -1,19 +1,8 @@
 {
   "team": "Nottingham FC Onyx U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "30c179fa91c07574445d236f92964d93",
-      "date": "2026-04-23",
-      "time": "18:00",
-      "home_team": "Lowdham FC Blue U11",
-      "away_team": "Nottingham FC Onyx U11",
-      "venue": "Epperstone Village Hall NG14 6AY",
-      "division": "U11 Sat YEL Cup",
-      "home_away": "away",
-      "opponent": "Lowdham FC Blue U11"
-    },
     {
       "id": "d0f24228d47abf5a0312f1583c07f0f8",
       "date": "2026-04-25",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "30c179fa91c07574445d236f92964d93",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "Lowdham FC Blue U11",
+      "away_team": "Nottingham FC Onyx U11",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat YEL Cup",
+      "home_away": "away",
+      "opponent": "Lowdham FC Blue U11",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "81de4db96052918260f3cc790e35fea8",
       "date": "2026-04-18",

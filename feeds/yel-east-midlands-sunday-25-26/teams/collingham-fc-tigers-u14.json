@@ -1,19 +1,8 @@
 {
   "team": "Collingham FC Tigers U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "770dcd3805197d0ab6edfcd6b17182e8",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "PMG Excel U14",
-      "away_team": "Collingham FC Tigers U14",
-      "venue": "Bulwell Hall Park NG6 8LF",
-      "division": "U14 Sun YEL Shield",
-      "home_away": "away",
-      "opponent": "PMG Excel U14"
-    },
     {
       "id": "240c172327617313fac0959415e284b6",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "770dcd3805197d0ab6edfcd6b17182e8",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "PMG Excel U14",
+      "away_team": "Collingham FC Tigers U14",
+      "home_score": 7,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sun YEL Shield",
+      "home_away": "away",
+      "opponent": "PMG Excel U14",
+      "goals_for": 4,
+      "goals_against": 7
+    },
     {
       "id": "ac1cc4cc559ffca6594b8c696166c914",
       "date": "2026-03-15",

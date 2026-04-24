@@ -1,19 +1,8 @@
 {
   "team": "Bestwood Colliery U11",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "7061fe5b63793ce9bb7a1137d20a6f94",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Kirkby Garibaldi Reds U11",
-      "away_team": "Bestwood Colliery U11",
-      "venue": "Calladine Park NG17 1NJ",
-      "division": "U11 Sun YEL Inter cup",
-      "home_away": "away",
-      "opponent": "Kirkby Garibaldi Reds U11"
-    },
     {
       "id": "5fad19a9da56e16034b2fbb189bbd41f",
       "date": "2026-04-26",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7061fe5b63793ce9bb7a1137d20a6f94",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Kirkby Garibaldi Reds U11",
+      "away_team": "Bestwood Colliery U11",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sun YEL Inter cup",
+      "home_away": "away",
+      "opponent": "Kirkby Garibaldi Reds U11",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "2ecffe52820f8f2222441edc5d0d144f",
       "date": "2026-04-19",

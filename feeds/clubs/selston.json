@@ -1,20 +1,7 @@
 {
   "club": "Selston",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "a19ee68824f3a5729a4a527292338c1d",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Quarrydale United U9",
-      "away_team": "Selston FC Black U9",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U9 Sat Spring Div 8 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Selston FC Black U9",
-      "home_away": "away",
-      "opponent": "Quarrydale United U9"
-    },
     {
       "id": "afcac9960082e9269ab79ca4b39cc6ce",
       "date": "2026-04-25",
@@ -199,6 +186,23 @@
     }
   ],
   "results": [
+    {
+      "id": "a19ee68824f3a5729a4a527292338c1d",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Quarrydale United U9",
+      "away_team": "Selston FC Black U9",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sat Spring Div 8 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Selston FC Black U9",
+      "home_away": "away",
+      "opponent": "Quarrydale United U9",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "7ba8fa91f1f6bb3db10f01922f0215c0",
       "date": "2026-04-19",

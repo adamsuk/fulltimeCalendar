@@ -1,6 +1,6 @@
 {
   "club": "Stapleford Town",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
     {
       "id": "71ff33cc0a0c78af145dd7dfe9f0bd6b",
@@ -27,19 +27,6 @@
       "team": "Stapleford Town Saxons U12",
       "home_away": "home",
       "opponent": "WBYFC Palmeiras U12"
-    },
-    {
-      "id": "9b49033515e43f02acf7afcd771dac95",
-      "date": "2026-04-23",
-      "time": "18:00",
-      "home_team": "Stapleford Town Saxons U12",
-      "away_team": "Melbourne Dynamo Rangers U12",
-      "venue": "Hickings Lane NG9 8PG",
-      "division": "U12 Sun Spring Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Stapleford Town Saxons U12",
-      "home_away": "home",
-      "opponent": "Melbourne Dynamo Rangers U12"
     },
     {
       "id": "cb9595876fd6637c98a8be78da756ebc",
@@ -356,7 +343,7 @@
     {
       "id": "ad2bf85d613b925007df1cd3a0a460ba",
       "date": "2026-05-10",
-      "time": "10:00",
+      "time": "11:30",
       "home_team": "Stapleford Town FC U15 Girls",
       "away_team": "Arnold Eagles F.C. Girls U15 Avengers",
       "venue": "STAPLEFORD COMMUNITY PAVILION",
@@ -459,6 +446,23 @@
     }
   ],
   "results": [
+    {
+      "id": "9b49033515e43f02acf7afcd771dac95",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "home_team": "Stapleford Town Saxons U12",
+      "away_team": "Melbourne Dynamo Rangers U12",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U12 Sun Spring Div 2 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Stapleford Town Saxons U12",
+      "home_away": "home",
+      "opponent": "Melbourne Dynamo Rangers U12",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "07b1b14c9805342b9955f7f014e564a8",
       "date": "2026-04-21",

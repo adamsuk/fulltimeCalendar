@@ -1,6 +1,6 @@
 {
   "club": "Gedling Southbank",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
     {
       "id": "ccc1c625a4efe370701dbbbe9f239166",
@@ -14,19 +14,6 @@
       "team": "Gedling Southbank Titans U11",
       "home_away": "away",
       "opponent": "Codnor Sports Juniors U11"
-    },
-    {
-      "id": "f77b3615f3662c2bc33def80cb8cc290",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Gedling Southbank White U13",
-      "away_team": "Beeston FC Black U13",
-      "venue": "Richard Herrod Centre  Ng41RL",
-      "division": "U13 Sun YEL Inter Cup",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Gedling Southbank White U13",
-      "home_away": "home",
-      "opponent": "Beeston FC Black U13"
     },
     {
       "id": "f24ce20f3cb13de417156755f95cf2f3",
@@ -446,6 +433,23 @@
     }
   ],
   "results": [
+    {
+      "id": "f77b3615f3662c2bc33def80cb8cc290",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Gedling Southbank White U13",
+      "away_team": "Beeston FC Black U13",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sun YEL Inter Cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank White U13",
+      "home_away": "home",
+      "opponent": "Beeston FC Black U13",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "c8cb47562e4a649d0b8afc062101e719",
       "date": "2026-04-21",

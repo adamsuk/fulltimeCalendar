@@ -1,20 +1,7 @@
 {
   "club": "Gonerby",
-  "generated": "2026-04-23T07:23:24Z",
+  "generated": "2026-04-24T07:47:37Z",
   "fixtures": [
-    {
-      "id": "1d3a1d29b0df7ba8129dffb9e1079d3d",
-      "date": "2026-04-23",
-      "time": "18:30",
-      "home_team": "Shirebrook Rangers Blue U11",
-      "away_team": "Gonerby Yellow U11",
-      "venue": "Harby Playing Fields NG23 7ED",
-      "division": "U11 Sun YEL Inter cup",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Gonerby Yellow U11",
-      "home_away": "away",
-      "opponent": "Shirebrook Rangers Blue U11"
-    },
     {
       "id": "732bb1d3650f40d0d3d4434349e28106",
       "date": "2026-04-25",
@@ -60,7 +47,7 @@
       "time": "11:00",
       "home_team": "Wollaton H & B Wolves U13",
       "away_team": "Gonerby FC Yellow U13",
-      "venue": "The Trinity Catholic School NG8 3EZ",
+      "venue": "Highfields NG7 2PS",
       "division": "U13 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Gonerby FC Yellow U13",
@@ -173,6 +160,23 @@
     }
   ],
   "results": [
+    {
+      "id": "1d3a1d29b0df7ba8129dffb9e1079d3d",
+      "date": "2026-04-23",
+      "time": "18:30",
+      "home_team": "Shirebrook Rangers Blue U11",
+      "away_team": "Gonerby Yellow U11",
+      "home_score": 5,
+      "away_score": 4,
+      "venue": "",
+      "division": "U11 Sun YEL Inter cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gonerby Yellow U11",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers Blue U11",
+      "goals_for": 4,
+      "goals_against": 5
+    },
     {
       "id": "33df9f95fd0bd893e8a5888b5b913ca3",
       "date": "2026-04-19",
