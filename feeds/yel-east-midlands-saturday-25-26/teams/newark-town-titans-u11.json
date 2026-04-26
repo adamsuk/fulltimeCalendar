@@ -1,21 +1,36 @@
 {
   "team": "Newark Town Titans U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
+    {
+      "id": "5f5144cd71ba1bf3bfe28ea60c25897a",
+      "date": "2026-04-28",
+      "time": "18:30",
+      "home_team": "Bottesford Blue U11",
+      "away_team": "Newark Town Titans U11",
+      "venue": "Nottingham Rd, Bottesford  NG13 0AP",
+      "division": "U11 Sat Spring Div 4 Green",
+      "home_away": "away",
+      "opponent": "Bottesford Blue U11"
+    }
+  ],
+  "results": [
     {
       "id": "3a65107e8a87c8eeebe402e85bb0e9a9",
       "date": "2026-04-25",
       "time": "12:00",
       "home_team": "Moorgreen Colts White U11",
       "away_team": "Newark Town Titans U11",
-      "venue": "Birnam Park  NG16 2DE",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
       "division": "U11 Saturday",
       "home_away": "away",
-      "opponent": "Moorgreen Colts White U11"
-    }
-  ],
-  "results": [
+      "opponent": "Moorgreen Colts White U11",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "bbca7511b4ac6010d4d8ea8779c8dfd3",
       "date": "2026-04-18",

@@ -1,6 +1,6 @@
 {
   "club": "Awsworth Villa",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
     {
       "id": "9f4caf9fc4a9fc217a70e59ef0097a6a",
@@ -14,32 +14,6 @@
       "team": "Awsworth Villa Reserves",
       "home_away": "away",
       "opponent": "Harrowby United Reserves"
-    },
-    {
-      "id": "a3ad15a25506a3d522b66f4cfa4cf054",
-      "date": "2026-04-25",
-      "time": "15:00",
-      "home_team": "Awsworth Villa FC",
-      "away_team": "Southwell City Reserves",
-      "venue": "SHILO PARK ZINDA GROUND",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Awsworth Villa FC",
-      "home_away": "home",
-      "opponent": "Southwell City Reserves"
-    },
-    {
-      "id": "caf0c0da9313cc747211fb58eb67f194",
-      "date": "2026-04-25",
-      "time": "15:00",
-      "home_team": "Awsworth Villa Reserves",
-      "away_team": "Robin Hood Colts FC",
-      "venue": "SHILO PARK ZINDA GROUND",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Awsworth Villa Reserves",
-      "home_away": "home",
-      "opponent": "Robin Hood Colts FC"
     },
     {
       "id": "6efdf577b171fb3c9ae630de9456541e",
@@ -121,6 +95,40 @@
     }
   ],
   "results": [
+    {
+      "id": "a3ad15a25506a3d522b66f4cfa4cf054",
+      "date": "2026-04-25",
+      "time": "15:00",
+      "home_team": "Awsworth Villa FC",
+      "away_team": "Southwell City Reserves",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Awsworth Villa FC",
+      "home_away": "home",
+      "opponent": "Southwell City Reserves",
+      "goals_for": 6,
+      "goals_against": 1
+    },
+    {
+      "id": "caf0c0da9313cc747211fb58eb67f194",
+      "date": "2026-04-25",
+      "time": "15:00",
+      "home_team": "Awsworth Villa Reserves",
+      "away_team": "Robin Hood Colts FC",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Awsworth Villa Reserves",
+      "home_away": "home",
+      "opponent": "Robin Hood Colts FC",
+      "goals_for": 6,
+      "goals_against": 1
+    },
     {
       "id": "66d342120a99bc2d507bc8d0da52640b",
       "date": "2026-04-22",

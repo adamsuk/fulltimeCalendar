@@ -1,30 +1,8 @@
 {
   "team": "Arnold Town FC Development",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "a79cd14be91fbc8c7a27d2ac1adcc74d",
-      "date": "2026-04-25",
-      "time": "10:30",
-      "home_team": "Arnold Town FC Development",
-      "away_team": "Collingham FC Development",
-      "venue": "EAGLE VALLEY #1",
-      "division": "Development Spring Division One",
-      "home_away": "home",
-      "opponent": "Collingham FC Development"
-    },
-    {
-      "id": "d63d73c24b3f0311b9ee614e079241de",
-      "date": "2026-04-25",
-      "time": "11:40",
-      "home_team": "Collingham FC Development",
-      "away_team": "Arnold Town FC Development",
-      "venue": "EAGLE VALLEY #1",
-      "division": "Development Spring Division One",
-      "home_away": "away",
-      "opponent": "Collingham FC Development"
-    },
     {
       "id": "4d366e9d545880c3ea48a5cf27d2f02b",
       "date": "2026-04-29",
@@ -49,6 +27,36 @@
     }
   ],
   "results": [
+    {
+      "id": "d63d73c24b3f0311b9ee614e079241de",
+      "date": "2026-04-25",
+      "time": "11:40",
+      "home_team": "Collingham FC Development",
+      "away_team": "Arnold Town FC Development",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "away",
+      "opponent": "Collingham FC Development",
+      "goals_for": 1,
+      "goals_against": 4
+    },
+    {
+      "id": "a79cd14be91fbc8c7a27d2ac1adcc74d",
+      "date": "2026-04-25",
+      "time": "10:30",
+      "home_team": "Arnold Town FC Development",
+      "away_team": "Collingham FC Development",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "home",
+      "opponent": "Collingham FC Development",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "bf50d56f342b53036d067788f4d3778b",
       "date": "2026-04-23",

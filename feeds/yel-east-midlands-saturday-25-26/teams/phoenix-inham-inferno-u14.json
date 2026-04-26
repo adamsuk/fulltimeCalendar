@@ -1,30 +1,8 @@
 {
   "team": "Phoenix Inham Inferno U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "15620af1e5226172ead47670a917cd90",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Phoenix Inham Inferno U14",
-      "away_team": "WBYFC Sportivo U14",
-      "venue": "Inham Nook Recreation Ground NG9 4GQ",
-      "division": "u14 Sat Spring Div 3 Blue",
-      "home_away": "home",
-      "opponent": "WBYFC Sportivo U14"
-    },
-    {
-      "id": "ba56c4248dc0b42f7270d19b7d29b0ff",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Phoenix Inham Inferno U14",
-      "away_team": "AFC Market Bosworth U14",
-      "venue": "Inham Nook Recreation Ground NG9 4GQ",
-      "division": "u14 Sat Spring Div 3 Blue",
-      "home_away": "home",
-      "opponent": "AFC Market Bosworth U14"
-    },
     {
       "id": "bb76e029d4cebd9440b48ec803adb957",
       "date": "2026-04-28",
@@ -38,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ba56c4248dc0b42f7270d19b7d29b0ff",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Phoenix Inham Inferno U14",
+      "away_team": "AFC Market Bosworth U14",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "u14 Sat Spring Div 3 Blue",
+      "home_away": "home",
+      "opponent": "AFC Market Bosworth U14",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "d9bf80ef8da5f4ecb45dc6ab1888e774",
       "date": "2026-04-14",

@@ -1,19 +1,8 @@
 {
   "team": "Muskham Cougars U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "52e59b32bc70dcd6fca096c9abe96de5",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Newark Brazil Santos U9",
-      "away_team": "Muskham Cougars U9",
-      "venue": "Claypole Playing Field NG23 5BQ",
-      "division": "U9 Sat Spring Div 6 Red",
-      "home_away": "away",
-      "opponent": "Newark Brazil Santos U9"
-    },
     {
       "id": "a7d58e6dc3f7bdc9fbfd912c5684b772",
       "date": "2026-05-09",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "52e59b32bc70dcd6fca096c9abe96de5",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Newark Brazil Santos U9",
+      "away_team": "Muskham Cougars U9",
+      "home_score": 1,
+      "away_score": 8,
+      "venue": "",
+      "division": "U9 Sat Spring Div 6 Red",
+      "home_away": "away",
+      "opponent": "Newark Brazil Santos U9",
+      "goals_for": 8,
+      "goals_against": 1
+    },
     {
       "id": "d9c7050cd24fd2c4cc3867266dc81147",
       "date": "2026-04-18",

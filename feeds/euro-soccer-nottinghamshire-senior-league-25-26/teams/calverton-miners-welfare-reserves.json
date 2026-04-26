@@ -1,7 +1,7 @@
 {
   "team": "Calverton Miners Welfare Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
     {
       "id": "aeff0b7aaa3e07f584218c506c17dfdd",
@@ -13,17 +13,6 @@
       "division": "NSL Division Three",
       "home_away": "away",
       "opponent": "Pass Move Grin Reserves"
-    },
-    {
-      "id": "f55f0fe14683b9f1b1d152ba43f73762",
-      "date": "2026-04-25",
-      "time": "15:00",
-      "home_team": "Harrowby United Reserves",
-      "away_team": "Calverton Miners Welfare Reserves",
-      "venue": "FRUEHAUF STADIUM",
-      "division": "NSL Division Three",
-      "home_away": "away",
-      "opponent": "Harrowby United Reserves"
     },
     {
       "id": "50017d644f1c9e82ea63fa86a1d9232c",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f55f0fe14683b9f1b1d152ba43f73762",
+      "date": "2026-04-25",
+      "time": "15:00",
+      "home_team": "Harrowby United Reserves",
+      "away_team": "Calverton Miners Welfare Reserves",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "away",
+      "opponent": "Harrowby United Reserves",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "66d342120a99bc2d507bc8d0da52640b",
       "date": "2026-04-22",

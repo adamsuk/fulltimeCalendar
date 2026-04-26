@@ -1,19 +1,8 @@
 {
   "team": "Woodthorpe Park Rangers FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "29be0c8463a1b1e81f777bb03bbd2a85",
-      "date": "2026-04-25",
-      "time": "15:00",
-      "home_team": "Ruddington Village FC",
-      "away_team": "Woodthorpe Park Rangers FC",
-      "venue": "ELMS PARK",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Ruddington Village FC"
-    },
     {
       "id": "dbdeb26074082fc150d2002aa84c72ea",
       "date": "2026-04-28",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "29be0c8463a1b1e81f777bb03bbd2a85",
+      "date": "2026-04-25",
+      "time": "15:00",
+      "home_team": "Ruddington Village FC",
+      "away_team": "Woodthorpe Park Rangers FC",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Ruddington Village FC",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "2e592a7238548ba8c9532e897acc5e2f",
       "date": "2026-04-21",

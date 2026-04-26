@@ -1,19 +1,8 @@
 {
   "team": "Quarrydale United U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "1731aa6444ec48c19d9276f0ed133bdf",
-      "date": "2026-04-25",
-      "time": "11:30",
-      "home_team": "Quarrydale United U9",
-      "away_team": "Arnold Town Blue U9",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U9 Sat Spring Div 8 Red",
-      "home_away": "home",
-      "opponent": "Arnold Town Blue U9"
-    },
     {
       "id": "739ec9a339876fb1d50dcf3d53893d6c",
       "date": "2026-05-09",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "1731aa6444ec48c19d9276f0ed133bdf",
+      "date": "2026-04-25",
+      "time": "11:30",
+      "home_team": "Quarrydale United U9",
+      "away_team": "Arnold Town Blue U9",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat Spring Div 8 Red",
+      "home_away": "home",
+      "opponent": "Arnold Town Blue U9",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "a19ee68824f3a5729a4a527292338c1d",
       "date": "2026-04-23",

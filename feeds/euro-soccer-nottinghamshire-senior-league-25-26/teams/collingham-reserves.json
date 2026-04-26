@@ -1,19 +1,8 @@
 {
   "team": "Collingham Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "6a7129f35477aed0e9fc21c34591b22d",
-      "date": "2026-04-25",
-      "time": "15:00",
-      "home_team": "Collingham Reserves",
-      "away_team": "Cotgrave Reserves",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "NSL Division Two",
-      "home_away": "home",
-      "opponent": "Cotgrave Reserves"
-    },
     {
       "id": "50874dbeb92b9671554114c191f11c35",
       "date": "2026-05-02",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6a7129f35477aed0e9fc21c34591b22d",
+      "date": "2026-04-25",
+      "time": "15:00",
+      "home_team": "Collingham Reserves",
+      "away_team": "Cotgrave Reserves",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "NSL Division Two",
+      "home_away": "home",
+      "opponent": "Cotgrave Reserves",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "cc810706633749ff02779bb22fd7330c",
       "date": "2026-04-18",

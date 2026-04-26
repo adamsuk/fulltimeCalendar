@@ -1,19 +1,8 @@
 {
   "team": "Beeston Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "21a8853fb8bac5de22e59bf2301fddea",
-      "date": "2026-04-25",
-      "time": "15:00",
-      "home_team": "Beeston Reserves",
-      "away_team": "Southwell City Development",
-      "venue": "Trent Vale Road Sports Ground",
-      "division": "NSL Division Two",
-      "home_away": "home",
-      "opponent": "Southwell City Development"
-    },
     {
       "id": "5a4d6a6c708dfc951a36789c23ac9216",
       "date": "2026-04-29",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "21a8853fb8bac5de22e59bf2301fddea",
+      "date": "2026-04-25",
+      "time": "15:00",
+      "home_team": "Beeston Reserves",
+      "away_team": "Southwell City Development",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "",
+      "division": "NSL Division Two",
+      "home_away": "home",
+      "opponent": "Southwell City Development",
+      "goals_for": 4,
+      "goals_against": 3
+    },
     {
       "id": "33a802ac9fa9a3bc05ecbf79a04d0c5b",
       "date": "2026-04-22",

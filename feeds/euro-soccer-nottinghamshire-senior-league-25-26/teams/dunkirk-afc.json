@@ -1,19 +1,8 @@
 {
   "team": "Dunkirk AFC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "2916d0f64eede55a820fbc62eca92869",
-      "date": "2026-04-25",
-      "time": "15:00",
-      "home_team": "Dunkirk AFC",
-      "away_team": "Wollaton FC",
-      "venue": "RON STEEL SPORTS GROUND #1",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "home",
-      "opponent": "Wollaton FC"
-    },
     {
       "id": "dbdeb26074082fc150d2002aa84c72ea",
       "date": "2026-04-28",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2916d0f64eede55a820fbc62eca92869",
+      "date": "2026-04-25",
+      "time": "15:00",
+      "home_team": "Dunkirk AFC",
+      "away_team": "Wollaton FC",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "home",
+      "opponent": "Wollaton FC",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "618f885bd9158fe830d56270ec92114d",
       "date": "2026-04-17",

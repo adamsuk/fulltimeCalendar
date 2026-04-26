@@ -1,33 +1,7 @@
 {
   "club": "Holbrook Sports",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "4bc777e0eb3133d8fc5ed6d7d995e12f",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Holbrook Sports U11",
-      "away_team": "Darley Sports Corinthians U11",
-      "venue": "Kirk Hallam Community Academy DE7 4HH",
-      "division": "U11 Sat Spring Premier Division",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Holbrook Sports U11",
-      "home_away": "home",
-      "opponent": "Darley Sports Corinthians U11"
-    },
-    {
-      "id": "cf0b851a8d6a902440d0f8ed51f38ff6",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Holbrook Sports U10",
-      "away_team": "Priory Celtic 1967 U10",
-      "venue": "Kirk Hallam Community Academy DE7 4HH",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Holbrook Sports U10",
-      "home_away": "home",
-      "opponent": "Priory Celtic 1967 U10"
-    },
     {
       "id": "be6225bb8d4cf2bca1434de764115c44",
       "date": "2026-04-28",
@@ -43,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "4bc777e0eb3133d8fc5ed6d7d995e12f",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Holbrook Sports U11",
+      "away_team": "Darley Sports Corinthians U11",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "",
+      "division": "U11 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Holbrook Sports U11",
+      "home_away": "home",
+      "opponent": "Darley Sports Corinthians U11",
+      "goals_for": 0,
+      "goals_against": 0
+    },
     {
       "id": "1d8e5c104d7e68e59b64e4bc1e5fb759",
       "date": "2026-04-18",

@@ -1,7 +1,7 @@
 {
   "team": "Beaufort United F.C. Development",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
     {
       "id": "4675a1e8a2a2fa41268b0645c51b8239",
@@ -24,17 +24,6 @@
       "division": "Development Spring Division One",
       "home_away": "home",
       "opponent": "Cotgrave Development"
-    },
-    {
-      "id": "3b7874a75a135c404b75ef28a1c78109",
-      "date": "2026-04-25",
-      "time": "10:30",
-      "home_team": "AFC Warriors Development",
-      "away_team": "Beaufort United F.C. Development",
-      "venue": "NEWARK ACADEMY",
-      "division": "Development Spring Division One",
-      "home_away": "away",
-      "opponent": "AFC Warriors Development"
     },
     {
       "id": "6eae730aa2656192f5c74185378b87a9",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "3b7874a75a135c404b75ef28a1c78109",
+      "date": "2026-04-25",
+      "time": "10:30",
+      "home_team": "AFC Warriors Development",
+      "away_team": "Beaufort United F.C. Development",
+      "home_score": 7,
+      "away_score": 2,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "away",
+      "opponent": "AFC Warriors Development",
+      "goals_for": 2,
+      "goals_against": 7
+    },
     {
       "id": "bf50d56f342b53036d067788f4d3778b",
       "date": "2026-04-23",

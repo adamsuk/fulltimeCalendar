@@ -1,19 +1,8 @@
 {
   "team": "Radcliffe Olympic FC U23",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "0420f7dafb98766e9b442586e4076c16",
-      "date": "2026-04-25",
-      "time": "10:30",
-      "home_team": "Radcliffe Olympic FC U23",
-      "away_team": "Walesby F.C. U23s",
-      "venue": "Walesby F.C. Walesby FC U23s",
-      "division": "Development Spring Division Two",
-      "home_away": "home",
-      "opponent": "Walesby F.C. U23s"
-    },
     {
       "id": "06da3c6290f5cb9dfc99cb2050f5da8d",
       "date": "2026-05-02",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0420f7dafb98766e9b442586e4076c16",
+      "date": "2026-04-25",
+      "time": "10:30",
+      "home_team": "Radcliffe Olympic FC U23",
+      "away_team": "Walesby F.C. U23s",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "home_away": "home",
+      "opponent": "Walesby F.C. U23s",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "f72e81ebcbefdaa01e6c50af5c97fe47",
       "date": "2026-04-18",

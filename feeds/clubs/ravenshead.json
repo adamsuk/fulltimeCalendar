@@ -1,33 +1,7 @@
 {
   "club": "Ravenshead",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "5cdc3d126b4fe0fe48236fe97bcde681",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Lowdham FC Red U10",
-      "away_team": "Ravenshead FC U10",
-      "venue": "Caythorpe Cricket Club NG14 7EB",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ravenshead FC U10",
-      "home_away": "away",
-      "opponent": "Lowdham FC Red U10"
-    },
-    {
-      "id": "2798b21d74f5689d26d5970abeedbd77",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Ravenshead Red Devils U8",
-      "away_team": "Bingham Town Red U8",
-      "venue": "Ravenshead Leisure Centre NG15 9AG",
-      "division": "U8 Sat Spring 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ravenshead Red Devils U8",
-      "home_away": "home",
-      "opponent": "Bingham Town Red U8"
-    },
     {
       "id": "62e45d6f03ea86666f5dac0fdb4c7822",
       "date": "2026-04-26",
@@ -56,6 +30,40 @@
     }
   ],
   "results": [
+    {
+      "id": "5cdc3d126b4fe0fe48236fe97bcde681",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Lowdham FC Red U10",
+      "away_team": "Ravenshead FC U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ravenshead FC U10",
+      "home_away": "away",
+      "opponent": "Lowdham FC Red U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "2798b21d74f5689d26d5970abeedbd77",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Ravenshead Red Devils U8",
+      "away_team": "Bingham Town Red U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ravenshead Red Devils U8",
+      "home_away": "home",
+      "opponent": "Bingham Town Red U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "29956ee10fd0524902e7c837003a712b",
       "date": "2026-04-19",

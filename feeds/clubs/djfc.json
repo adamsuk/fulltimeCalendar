@@ -1,6 +1,6 @@
 {
   "club": "DJFC",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
     {
       "id": "4d1af04a52fd49ea2eee51d3f3559037",
@@ -14,19 +14,6 @@
       "team": "DJFC U10",
       "home_away": "home",
       "opponent": "Silva FC Brunts U10"
-    },
-    {
-      "id": "a65ebfee9b71e04af1b92e08df6dfb94",
-      "date": "2026-04-25",
-      "time": "11:15",
-      "home_team": "ATFA Brinsley Devils U12",
-      "away_team": "DJFC U12",
-      "venue": "Brinsley Recreation Ground NG16 5AY",
-      "division": "U12 Sat Spring Div 6 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DJFC U12",
-      "home_away": "away",
-      "opponent": "ATFA Brinsley Devils U12"
     },
     {
       "id": "b058465bd0ae2d59d2fc30ebe951e135",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "a65ebfee9b71e04af1b92e08df6dfb94",
+      "date": "2026-04-25",
+      "time": "11:15",
+      "home_team": "ATFA Brinsley Devils U12",
+      "away_team": "DJFC U12",
+      "home_score": 1,
+      "away_score": 9,
+      "venue": "",
+      "division": "U12 Sat Spring Div 6 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DJFC U12",
+      "home_away": "away",
+      "opponent": "ATFA Brinsley Devils U12",
+      "goals_for": 9,
+      "goals_against": 1
+    },
     {
       "id": "e6e9754ee3a29e2bea08720dcd0ba437",
       "date": "2026-04-19",

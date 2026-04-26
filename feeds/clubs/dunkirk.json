@@ -1,46 +1,7 @@
 {
   "club": "Dunkirk",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "f83f1787ebba4c57dc4278b956e30d0a",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "WBYFC Crusaders Black U8",
-      "away_team": "Dunkirk U8",
-      "venue": "Alford Road, NG2 6HP",
-      "division": "U8 Sat Spring 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Dunkirk U8",
-      "home_away": "away",
-      "opponent": "WBYFC Crusaders Black U8"
-    },
-    {
-      "id": "4405e2cef9327f33baef87739bff2a7a",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Dunkirk U14",
-      "away_team": "Hilton Harriers Bears U14",
-      "venue": "Ron Steel Sports Ground  NG7 2SA",
-      "division": "u14 Sat Spring Div 1 Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Dunkirk U14",
-      "home_away": "home",
-      "opponent": "Hilton Harriers Bears U14"
-    },
-    {
-      "id": "2916d0f64eede55a820fbc62eca92869",
-      "date": "2026-04-25",
-      "time": "15:00",
-      "home_team": "Dunkirk AFC",
-      "away_team": "Wollaton FC",
-      "venue": "RON STEEL SPORTS GROUND #1",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Dunkirk AFC",
-      "home_away": "home",
-      "opponent": "Wollaton FC"
-    },
     {
       "id": "40ad400c30bb6c765bcbc1238a5c9ec7",
       "date": "2026-04-26",
@@ -107,19 +68,6 @@
       "opponent": "Woodthorpe Park Rangers FC"
     },
     {
-      "id": "e5e7aa46d7f9cd58f319b02f98c6066e",
-      "date": "2026-05-02",
-      "time": "10:00",
-      "home_team": "Dunkirk U14",
-      "away_team": "Quarrydale United Yellow U14",
-      "venue": "Ron Steel Sports Ground  NG7 2SA",
-      "division": "U14 Sat YEL Trophy (Revised)",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Dunkirk U14",
-      "home_away": "home",
-      "opponent": "Quarrydale United Yellow U14"
-    },
-    {
       "id": "3b33fc547d01ebc77e161f1509820f2d",
       "date": "2026-05-02",
       "time": "15:00",
@@ -131,9 +79,73 @@
       "team": "Dunkirk AFC",
       "home_away": "home",
       "opponent": "Keyworth United FC"
+    },
+    {
+      "id": "845a17383c437ef1668cf6552dd8acba",
+      "date": "2026-05-07",
+      "time": "18:30",
+      "home_team": "Dunkirk U14",
+      "away_team": "Quarrydale United Yellow U14",
+      "venue": "Ron Steel Sports Ground  NG7 2SA",
+      "division": "U14 Sat YEL Trophy (Revised)",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Dunkirk U14",
+      "home_away": "home",
+      "opponent": "Quarrydale United Yellow U14"
     }
   ],
   "results": [
+    {
+      "id": "2916d0f64eede55a820fbc62eca92869",
+      "date": "2026-04-25",
+      "time": "15:00",
+      "home_team": "Dunkirk AFC",
+      "away_team": "Wollaton FC",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Dunkirk AFC",
+      "home_away": "home",
+      "opponent": "Wollaton FC",
+      "goals_for": 1,
+      "goals_against": 5
+    },
+    {
+      "id": "4405e2cef9327f33baef87739bff2a7a",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Dunkirk U14",
+      "away_team": "Hilton Harriers Bears U14",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "u14 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Dunkirk U14",
+      "home_away": "home",
+      "opponent": "Hilton Harriers Bears U14",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
+      "id": "f83f1787ebba4c57dc4278b956e30d0a",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "WBYFC Crusaders Black U8",
+      "away_team": "Dunkirk U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Dunkirk U8",
+      "home_away": "away",
+      "opponent": "WBYFC Crusaders Black U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "5ca59def59e35f94649e7b2e731d17bb",
       "date": "2026-04-21",

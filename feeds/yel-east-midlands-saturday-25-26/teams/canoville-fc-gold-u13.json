@@ -1,21 +1,36 @@
 {
   "team": "Canoville FC Gold U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
+    {
+      "id": "e456ea3a5d0bdb81a0635c40833088a6",
+      "date": "2026-04-28",
+      "time": "18:30",
+      "home_team": "Canoville FC Gold U13",
+      "away_team": "Inspire Nottingham FC Red U13",
+      "venue": "William Lee Memorial Park NG14 6SA",
+      "division": "U13 Sat Spring Div 1",
+      "home_away": "home",
+      "opponent": "Inspire Nottingham FC Red U13"
+    }
+  ],
+  "results": [
     {
       "id": "6a8ef45d0f5560fe34efa7811e30741f",
       "date": "2026-04-25",
       "time": "10:00",
       "home_team": "Market Warsop Stags U13",
       "away_team": "Canoville FC Gold U13",
-      "venue": "John Fretwell Centre NG19 8LL",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
       "division": "U13 Sat Spring Div 1",
       "home_away": "away",
-      "opponent": "Market Warsop Stags U13"
-    }
-  ],
-  "results": [
+      "opponent": "Market Warsop Stags U13",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "b5fcc52bc42847394b1a2cec2062ad6c",
       "date": "2026-04-18",

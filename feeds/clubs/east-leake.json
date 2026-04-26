@@ -1,6 +1,6 @@
 {
   "club": "East Leake",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
     {
       "id": "232c23c34a36206fe3c1dadd6b93e35f",
@@ -40,45 +40,6 @@
       "team": "East Leake Bantams Orange U14",
       "home_away": "home",
       "opponent": "Attenborough Colts Yellow U14"
-    },
-    {
-      "id": "c1098a648269bcb18c689aa28d256579",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "East Leake Bantams Orange U13",
-      "away_team": "Eastwood Athletic Eagles U13",
-      "venue": "Costock Road LE12 6LY",
-      "division": "U13 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "East Leake Bantams Orange U13",
-      "home_away": "home",
-      "opponent": "Eastwood Athletic Eagles U13"
-    },
-    {
-      "id": "48fa9a46716eaefe8de2cc42843f72b0",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Stanton Ilkeston Mustangs U14",
-      "away_team": "East Leake Bantams Red U14",
-      "venue": "Ron Brooks Pavilion DE7 4LD",
-      "division": "U14 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "East Leake Bantams Red U14",
-      "home_away": "away",
-      "opponent": "Stanton Ilkeston Mustangs U14"
-    },
-    {
-      "id": "be4ad4d4045b6f1f0a08ce76b57efeab",
-      "date": "2026-04-25",
-      "time": "15:00",
-      "home_team": "Hucknall Town Reserves",
-      "away_team": "East Leake Robins FC",
-      "venue": "HUCKNALL TOWN FOOTBALL CLUB",
-      "division": "NSL Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "East Leake Robins FC",
-      "home_away": "away",
-      "opponent": "Hucknall Town Reserves"
     },
     {
       "id": "743026e530583d2e41a938809e7f0e3f",
@@ -342,6 +303,57 @@
     }
   ],
   "results": [
+    {
+      "id": "be4ad4d4045b6f1f0a08ce76b57efeab",
+      "date": "2026-04-25",
+      "time": "15:00",
+      "home_team": "Hucknall Town Reserves",
+      "away_team": "East Leake Robins FC",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "NSL Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "East Leake Robins FC",
+      "home_away": "away",
+      "opponent": "Hucknall Town Reserves",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
+      "id": "c1098a648269bcb18c689aa28d256579",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "East Leake Bantams Orange U13",
+      "away_team": "Eastwood Athletic Eagles U13",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "East Leake Bantams Orange U13",
+      "home_away": "home",
+      "opponent": "Eastwood Athletic Eagles U13",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "48fa9a46716eaefe8de2cc42843f72b0",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Stanton Ilkeston Mustangs U14",
+      "away_team": "East Leake Bantams Red U14",
+      "home_score": 6,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "East Leake Bantams Red U14",
+      "home_away": "away",
+      "opponent": "Stanton Ilkeston Mustangs U14",
+      "goals_for": 4,
+      "goals_against": 6
+    },
     {
       "id": "0fd52a2c547a1ab686d41c5cca99d420",
       "date": "2026-04-23",

@@ -1,7 +1,7 @@
 {
   "team": "Collingham FC Development",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
     {
       "id": "b75c66b619f0af4ed7f1a3b2f1f61f5a",
@@ -13,28 +13,6 @@
       "division": "Development Spring Division One",
       "home_away": "home",
       "opponent": "Quorn FC Methodists"
-    },
-    {
-      "id": "a79cd14be91fbc8c7a27d2ac1adcc74d",
-      "date": "2026-04-25",
-      "time": "10:30",
-      "home_team": "Arnold Town FC Development",
-      "away_team": "Collingham FC Development",
-      "venue": "EAGLE VALLEY #1",
-      "division": "Development Spring Division One",
-      "home_away": "away",
-      "opponent": "Arnold Town FC Development"
-    },
-    {
-      "id": "d63d73c24b3f0311b9ee614e079241de",
-      "date": "2026-04-25",
-      "time": "11:40",
-      "home_team": "Collingham FC Development",
-      "away_team": "Arnold Town FC Development",
-      "venue": "EAGLE VALLEY #1",
-      "division": "Development Spring Division One",
-      "home_away": "home",
-      "opponent": "Arnold Town FC Development"
     },
     {
       "id": "88005a260ef3d6ee5e7588f924ee26d7",
@@ -104,6 +82,36 @@
     }
   ],
   "results": [
+    {
+      "id": "d63d73c24b3f0311b9ee614e079241de",
+      "date": "2026-04-25",
+      "time": "11:40",
+      "home_team": "Collingham FC Development",
+      "away_team": "Arnold Town FC Development",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "home",
+      "opponent": "Arnold Town FC Development",
+      "goals_for": 4,
+      "goals_against": 1
+    },
+    {
+      "id": "a79cd14be91fbc8c7a27d2ac1adcc74d",
+      "date": "2026-04-25",
+      "time": "10:30",
+      "home_team": "Arnold Town FC Development",
+      "away_team": "Collingham FC Development",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "away",
+      "opponent": "Arnold Town FC Development",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "a5b3059fc1f0c9ce6c63efa702877db1",
       "date": "2026-04-18",

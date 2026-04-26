@@ -1,33 +1,7 @@
 {
   "club": "Mickleover",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "826c0ec5e467b0692b916ad9826a4785",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Mickleover Country Park U13",
-      "away_team": "Loughborough Eml Foxes U13",
-      "venue": "Mickleover Country Park DE3 0UJ",
-      "division": "U13 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Mickleover Country Park U13",
-      "home_away": "home",
-      "opponent": "Loughborough Eml Foxes U13"
-    },
-    {
-      "id": "d8233a37a690261ef8dde417f065fbc5",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Mickleover RBL Giants U11",
-      "away_team": "AFC Warriors Knights U11",
-      "venue": "Rolls Royce Leisure DE24 9HY",
-      "division": "U11 Sat Spring Div 1",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Mickleover RBL Giants U11",
-      "home_away": "home",
-      "opponent": "AFC Warriors Knights U11"
-    },
     {
       "id": "3400855c118a228b72d08838b505266d",
       "date": "2026-04-26",
@@ -82,6 +56,40 @@
     }
   ],
   "results": [
+    {
+      "id": "d8233a37a690261ef8dde417f065fbc5",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Mickleover RBL Giants U11",
+      "away_team": "AFC Warriors Knights U11",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sat Spring Div 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mickleover RBL Giants U11",
+      "home_away": "home",
+      "opponent": "AFC Warriors Knights U11",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
+      "id": "826c0ec5e467b0692b916ad9826a4785",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Mickleover Country Park U13",
+      "away_team": "Loughborough Eml Foxes U13",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mickleover Country Park U13",
+      "home_away": "home",
+      "opponent": "Loughborough Eml Foxes U13",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "daabe746380f6dbb40bc028c90aad240",
       "date": "2026-04-21",

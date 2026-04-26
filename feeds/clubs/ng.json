@@ -1,33 +1,7 @@
 {
   "club": "NG",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "bac80c4ede621e52748c43ae3d501153",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "NG United U9",
-      "away_team": "Eastwood Athletic Trojans U9",
-      "venue": "Robin Hood Road NG5 8NP",
-      "division": "U9 Sat Spring Div 9 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "NG United U9",
-      "home_away": "home",
-      "opponent": "Eastwood Athletic Trojans U9"
-    },
-    {
-      "id": "183147fce60b11f99fe65973f10b11e8",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "NG United U10",
-      "away_team": "Hucknall Sports Red U10",
-      "venue": "Engine Rooms NG15 6EP",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "NG United U10",
-      "home_away": "home",
-      "opponent": "Hucknall Sports Red U10"
-    },
     {
       "id": "4bebf7374f2edb98bd5f5347278cece0",
       "date": "2026-04-26",
@@ -82,6 +56,40 @@
     }
   ],
   "results": [
+    {
+      "id": "183147fce60b11f99fe65973f10b11e8",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "NG United U10",
+      "away_team": "Hucknall Sports Red U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "NG United U10",
+      "home_away": "home",
+      "opponent": "Hucknall Sports Red U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "bac80c4ede621e52748c43ae3d501153",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "NG United U9",
+      "away_team": "Eastwood Athletic Trojans U9",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat Spring Div 9 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "NG United U9",
+      "home_away": "home",
+      "opponent": "Eastwood Athletic Trojans U9",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "b007aece8bf7a7f4773d32bc35c0078d",
       "date": "2026-04-23",

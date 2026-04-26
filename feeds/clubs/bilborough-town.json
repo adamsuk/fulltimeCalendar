@@ -1,19 +1,24 @@
 {
   "club": "Bilborough Town",
-  "generated": "2026-04-25T07:01:30Z",
-  "fixtures": [
+  "generated": "2026-04-26T07:16:00Z",
+  "fixtures": [],
+  "results": [
     {
       "id": "305a52608441c58e89dba7a7ec617506",
       "date": "2026-04-25",
       "time": "10:00",
       "home_team": "Eastwood Ath Red Devils U12",
       "away_team": "Bilborough Town U12",
-      "venue": "Hall Park NG16 3AR",
+      "home_score": 7,
+      "away_score": 0,
+      "venue": "",
       "division": "U12 Sat Spring Div 7 Gold",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Bilborough Town U12",
       "home_away": "away",
-      "opponent": "Eastwood Ath Red Devils U12"
+      "opponent": "Eastwood Ath Red Devils U12",
+      "goals_for": 0,
+      "goals_against": 7
     },
     {
       "id": "e48ce890c493516440cfdc61e8a4ecd6",
@@ -21,15 +26,17 @@
       "time": "10:00",
       "home_team": "Gedling Southbank Reds U9",
       "away_team": "Bilborough Town U9",
-      "venue": "Brocklewood School NG8 3AJ",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
       "division": "U9 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Bilborough Town U9",
       "home_away": "away",
-      "opponent": "Gedling Southbank Reds U9"
-    }
-  ],
-  "results": [
+      "opponent": "Gedling Southbank Reds U9",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "ef521e7beb2ccfcd1162ce946362f727",
       "date": "2026-04-18",

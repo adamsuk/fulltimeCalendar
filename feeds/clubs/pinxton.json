@@ -1,20 +1,7 @@
 {
   "club": "Pinxton",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "5c4c40226a9eb9115c368633a00bdad7",
-      "date": "2026-04-25",
-      "time": "11:30",
-      "home_team": "Sandiacre Town Scorpions U12",
-      "away_team": "Pinxton United U13 Girls",
-      "venue": "Friesland School NG10 5AF",
-      "division": "U12 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Pinxton United U13 Girls",
-      "home_away": "away",
-      "opponent": "Sandiacre Town Scorpions U12"
-    },
     {
       "id": "10d92740ddcfe33ea5e4599b72cf6321",
       "date": "2026-04-28",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "5c4c40226a9eb9115c368633a00bdad7",
+      "date": "2026-04-25",
+      "time": "11:30",
+      "home_team": "Sandiacre Town Scorpions U12",
+      "away_team": "Pinxton United U13 Girls",
+      "home_score": 4,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Pinxton United U13 Girls",
+      "home_away": "away",
+      "opponent": "Sandiacre Town Scorpions U12",
+      "goals_for": 3,
+      "goals_against": 4
+    },
     {
       "id": "3911dee43cb38e9dff0ecc8f44a64632",
       "date": "2026-04-22",

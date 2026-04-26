@@ -1,21 +1,36 @@
 {
   "team": "Ruddington Village Black U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
+    {
+      "id": "f7e3d047893290ee7e1bffc1a530ba58",
+      "date": "2026-04-28",
+      "time": "18:30",
+      "home_team": "WBYFC Sportivo U14",
+      "away_team": "Ruddington Village Black U14",
+      "venue": "Regatta Way NG2 5AT",
+      "division": "u14 Sat Spring Div 3 Blue",
+      "home_away": "away",
+      "opponent": "WBYFC Sportivo U14"
+    }
+  ],
+  "results": [
     {
       "id": "ecd624d7f0dc6d707903a977f68f4c2c",
       "date": "2026-04-25",
       "time": "11:00",
       "home_team": "Ruddington Village Black U14",
       "away_team": "WBYFC Sportivo U14",
-      "venue": "Jubilee Fields NG11 6NX",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
       "division": "u14 Sat Spring Div 3 Blue",
       "home_away": "home",
-      "opponent": "WBYFC Sportivo U14"
-    }
-  ],
-  "results": [
+      "opponent": "WBYFC Sportivo U14",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "2b9e2ac20f8910f08cf0cbc026518fc0",
       "date": "2026-04-18",

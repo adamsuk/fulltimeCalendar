@@ -1,20 +1,7 @@
 {
   "club": "Aspire",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "8eb7aa45bf616f059775d974168696c1",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Aspire FC U9",
-      "away_team": "Sherwood Colliery Red U9",
-      "venue": "Nottingham Trent University NG11 8NS",
-      "division": "U9 Sat Spring Premier Division",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Aspire FC U9",
-      "home_away": "home",
-      "opponent": "Sherwood Colliery Red U9"
-    },
     {
       "id": "9a49fc267e25636336c8ce9da6d1e299",
       "date": "2026-04-26",
@@ -82,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "8eb7aa45bf616f059775d974168696c1",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Aspire FC U9",
+      "away_team": "Sherwood Colliery Red U9",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U9 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Aspire FC U9",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery Red U9",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "c396185199211bb47183e567aabd035d",
       "date": "2026-04-19",

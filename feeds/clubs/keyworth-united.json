@@ -1,20 +1,7 @@
 {
   "club": "Keyworth United",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "17356d67e18be1eeed9505170b157b5e",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Woodthorpe Cty Energy U12",
-      "away_team": "Keyworth United Lightning U12",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U12 Sat Spring Div 8",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Keyworth United Lightning U12",
-      "home_away": "away",
-      "opponent": "Woodthorpe Cty Energy U12"
-    },
     {
       "id": "1400295487b21451e0e6386ca8d95a0d",
       "date": "2026-04-25",
@@ -82,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "17356d67e18be1eeed9505170b157b5e",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Woodthorpe Cty Energy U12",
+      "away_team": "Keyworth United Lightning U12",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 8",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Keyworth United Lightning U12",
+      "home_away": "away",
+      "opponent": "Woodthorpe Cty Energy U12",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "934f6cad04a2eb6ed1a56343238a8ca8",
       "date": "2026-04-19",

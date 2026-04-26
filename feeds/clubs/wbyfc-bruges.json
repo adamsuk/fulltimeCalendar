@@ -1,32 +1,24 @@
 {
   "club": "WBYFC Bruges",
-  "generated": "2026-04-25T07:01:30Z",
-  "fixtures": [
-    {
-      "id": "bff1196586b5ff0637c2516d8d18282f",
-      "date": "2026-04-25",
-      "time": "09:00",
-      "home_team": "WBYFC Bruges Black U7",
-      "away_team": "Long Eaton United Blue U7",
-      "venue": "Gresham Park  NG2 7YF",
-      "division": "U7 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "WBYFC Bruges Black U7",
-      "home_away": "home",
-      "opponent": "Long Eaton United Blue U7"
-    },
+  "generated": "2026-04-26T07:16:00Z",
+  "fixtures": [],
+  "results": [
     {
       "id": "512e681f5ce1e1b2946a8692a0a9f3a6",
       "date": "2026-04-25",
       "time": "10:00",
       "home_team": "WBYFC Bruges Stripes U7",
       "away_team": "Woodthorpe Community Union U7",
-      "venue": "Gresham Park  NG2 7YF",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
       "division": "U7 Saturday",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "WBYFC Bruges Stripes U7",
       "home_away": "home",
-      "opponent": "Woodthorpe Community Union U7"
+      "opponent": "Woodthorpe Community Union U7",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "b680dbe45bf615a28d644d2a39806f00",
@@ -34,15 +26,34 @@
       "time": "10:00",
       "home_team": "Bottesford U7 Blue",
       "away_team": "WBYFC Bruges White U7",
-      "venue": "Nottingham Rd, Bottesford  NG13 0AP",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
       "division": "U7 Sat Spring 3 Blue",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "WBYFC Bruges White U7",
       "home_away": "away",
-      "opponent": "Bottesford U7 Blue"
-    }
-  ],
-  "results": [
+      "opponent": "Bottesford U7 Blue",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "bff1196586b5ff0637c2516d8d18282f",
+      "date": "2026-04-25",
+      "time": "09:00",
+      "home_team": "WBYFC Bruges Black U7",
+      "away_team": "Long Eaton United Blue U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "WBYFC Bruges Black U7",
+      "home_away": "home",
+      "opponent": "Long Eaton United Blue U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "55a6d8ac018eb1c40b3754d53ec3aaa8",
       "date": "2026-04-18",

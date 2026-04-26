@@ -1,19 +1,8 @@
 {
   "team": "Darley Sports Lions 2 U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "c52c59459ab6f368c3b06abe723e1c15",
-      "date": "2026-04-25",
-      "time": "10:45",
-      "home_team": "AFC Chellaston Chargers U12",
-      "away_team": "Darley Sports Lions 2 U12",
-      "venue": "Chellaston Park DE73 6TQ #2",
-      "division": "U12 Sat YEL Cup",
-      "home_away": "away",
-      "opponent": "AFC Chellaston Chargers U12"
-    },
     {
       "id": "5b98bb81036cf3559a692b849070fd59",
       "date": "2026-04-28",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "c52c59459ab6f368c3b06abe723e1c15",
+      "date": "2026-04-25",
+      "time": "10:45",
+      "home_team": "AFC Chellaston Chargers U12",
+      "away_team": "Darley Sports Lions 2 U12",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sat YEL Cup",
+      "home_away": "away",
+      "opponent": "AFC Chellaston Chargers U12",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "179b3d4f8e0bf8a8f7c1265a4096fb98",
       "date": "2026-04-18",

@@ -1,33 +1,7 @@
 {
   "club": "Woodthorpe",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "512e681f5ce1e1b2946a8692a0a9f3a6",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "WBYFC Bruges Stripes U7",
-      "away_team": "Woodthorpe Community Union U7",
-      "venue": "Gresham Park  NG2 7YF",
-      "division": "U7 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Woodthorpe Community Union U7",
-      "home_away": "away",
-      "opponent": "WBYFC Bruges Stripes U7"
-    },
-    {
-      "id": "29be0c8463a1b1e81f777bb03bbd2a85",
-      "date": "2026-04-25",
-      "time": "15:00",
-      "home_team": "Ruddington Village FC",
-      "away_team": "Woodthorpe Park Rangers FC",
-      "venue": "ELMS PARK",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Woodthorpe Park Rangers FC",
-      "home_away": "away",
-      "opponent": "Ruddington Village FC"
-    },
     {
       "id": "f25deb6083638ce895d54c323c54ca4a",
       "date": "2026-04-26",
@@ -108,6 +82,40 @@
     }
   ],
   "results": [
+    {
+      "id": "29be0c8463a1b1e81f777bb03bbd2a85",
+      "date": "2026-04-25",
+      "time": "15:00",
+      "home_team": "Ruddington Village FC",
+      "away_team": "Woodthorpe Park Rangers FC",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Woodthorpe Park Rangers FC",
+      "home_away": "away",
+      "opponent": "Ruddington Village FC",
+      "goals_for": 4,
+      "goals_against": 2
+    },
+    {
+      "id": "512e681f5ce1e1b2946a8692a0a9f3a6",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "WBYFC Bruges Stripes U7",
+      "away_team": "Woodthorpe Community Union U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Woodthorpe Community Union U7",
+      "home_away": "away",
+      "opponent": "WBYFC Bruges Stripes U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "2e592a7238548ba8c9532e897acc5e2f",
       "date": "2026-04-21",

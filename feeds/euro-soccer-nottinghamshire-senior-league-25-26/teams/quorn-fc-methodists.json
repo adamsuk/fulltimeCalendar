@@ -1,7 +1,7 @@
 {
   "team": "Quorn FC Methodists",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
     {
       "id": "b75c66b619f0af4ed7f1a3b2f1f61f5a",
@@ -13,17 +13,6 @@
       "division": "Development Spring Division One",
       "home_away": "away",
       "opponent": "Collingham FC Development"
-    },
-    {
-      "id": "22941a9f53c5a5a800d6e3ad6be316d8",
-      "date": "2026-04-25",
-      "time": "11:30",
-      "home_team": "Calverton Miners Welfare U23",
-      "away_team": "Quorn FC Methodists",
-      "venue": "Hollinwood Lane 2",
-      "division": "Development Spring Division One",
-      "home_away": "away",
-      "opponent": "Calverton Miners Welfare U23"
     },
     {
       "id": "50017d644f1c9e82ea63fa86a1d9232c",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "22941a9f53c5a5a800d6e3ad6be316d8",
+      "date": "2026-04-25",
+      "time": "11:30",
+      "home_team": "Calverton Miners Welfare U23",
+      "away_team": "Quorn FC Methodists",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "away",
+      "opponent": "Calverton Miners Welfare U23",
+      "goals_for": 6,
+      "goals_against": 1
+    },
     {
       "id": "2f37df879c39f2bc564f59d8b1fcf1c4",
       "date": "2026-04-18",

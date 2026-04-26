@@ -1,19 +1,8 @@
 {
   "team": "Marlborough Rovers U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "59b864a73d2f9c88616645721a700a9f",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Cotgrave FC Blue U14",
-      "away_team": "Marlborough Rovers U14",
-      "venue": "Cotgrave Welfare NG12 3PJ",
-      "division": "U14 Sat Spring Premier Division",
-      "home_away": "away",
-      "opponent": "Cotgrave FC Blue U14"
-    },
     {
       "id": "064e88a589114521b1b88f62e040f62d",
       "date": "2026-04-28",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "59b864a73d2f9c88616645721a700a9f",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Cotgrave FC Blue U14",
+      "away_team": "Marlborough Rovers U14",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sat Spring Premier Division",
+      "home_away": "away",
+      "opponent": "Cotgrave FC Blue U14",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "da11d0f82fbc919bb7a58aafd1d8c4ba",
       "date": "2026-04-18",

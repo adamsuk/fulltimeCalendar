@@ -1,19 +1,8 @@
 {
   "team": "Calverton Miners Welfare FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "f47ec04fb024eed8bb19b5bc77708eb9",
-      "date": "2026-04-25",
-      "time": "15:00",
-      "home_team": "Grantham Town Reserves",
-      "away_team": "Calverton Miners Welfare FC",
-      "venue": "GRANTHAM MERES LEISURE CENTRE",
-      "division": "NSL Division One",
-      "home_away": "away",
-      "opponent": "Grantham Town Reserves"
-    },
     {
       "id": "8ede9cb2d4daf7664dfffb2fe50c98ee",
       "date": "2026-05-08",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f47ec04fb024eed8bb19b5bc77708eb9",
+      "date": "2026-04-25",
+      "time": "15:00",
+      "home_team": "Grantham Town Reserves",
+      "away_team": "Calverton Miners Welfare FC",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Division One",
+      "home_away": "away",
+      "opponent": "Grantham Town Reserves",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "d1a3a55e053326bd9da5c9314d40bb89",
       "date": "2026-04-18",

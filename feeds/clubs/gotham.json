@@ -1,33 +1,7 @@
 {
   "club": "Gotham",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "cb9595876fd6637c98a8be78da756ebc",
-      "date": "2026-04-25",
-      "time": "09:30",
-      "home_team": "Gotham Rangers U10",
-      "away_team": "Stapleford Town Saxons U10",
-      "venue": "Gotham Recreation NG11 0HE",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Gotham Rangers U10",
-      "home_away": "home",
-      "opponent": "Stapleford Town Saxons U10"
-    },
-    {
-      "id": "e80b1309ff0d47afe6fb20d7a07521fb",
-      "date": "2026-04-25",
-      "time": "10:30",
-      "home_team": "Gotham Rangers U9",
-      "away_team": "Lowdham FC Red U9",
-      "venue": "Gotham Recreation NG11 0HE",
-      "division": "U9 Sat Spring Div 6 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Gotham Rangers U9",
-      "home_away": "home",
-      "opponent": "Lowdham FC Red U9"
-    },
     {
       "id": "0c673e1beb28634e2ce3241487229de5",
       "date": "2026-04-26",
@@ -40,9 +14,56 @@
       "team": "Gotham Rangers U11",
       "home_away": "home",
       "opponent": "Silva FC Southglade Knights U11"
+    },
+    {
+      "id": "6cd92ec151bc70ab87bfd1f6c2753d56",
+      "date": "2026-04-28",
+      "time": "18:30",
+      "home_team": "Gotham Rangers U10",
+      "away_team": "DLFC Grey U10",
+      "venue": "Gotham Recreation NG11 0HE",
+      "division": "U10 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gotham Rangers U10",
+      "home_away": "home",
+      "opponent": "DLFC Grey U10"
     }
   ],
   "results": [
+    {
+      "id": "e80b1309ff0d47afe6fb20d7a07521fb",
+      "date": "2026-04-25",
+      "time": "10:30",
+      "home_team": "Gotham Rangers U9",
+      "away_team": "Lowdham FC Red U9",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U9 Sat Spring Div 6 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gotham Rangers U9",
+      "home_away": "home",
+      "opponent": "Lowdham FC Red U9",
+      "goals_for": 1,
+      "goals_against": 4
+    },
+    {
+      "id": "cb9595876fd6637c98a8be78da756ebc",
+      "date": "2026-04-25",
+      "time": "09:30",
+      "home_team": "Gotham Rangers U10",
+      "away_team": "Stapleford Town Saxons U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gotham Rangers U10",
+      "home_away": "home",
+      "opponent": "Stapleford Town Saxons U10",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "8235d48b02c8c3b2470e7f12c9002ef2",
       "date": "2026-04-19",

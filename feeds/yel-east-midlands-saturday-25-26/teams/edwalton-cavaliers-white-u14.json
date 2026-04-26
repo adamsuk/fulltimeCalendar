@@ -1,19 +1,8 @@
 {
   "team": "Edwalton Cavaliers White U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "26fe23e04de4d38c011756150c063db3",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Edwalton Cavaliers White U14",
-      "away_team": "Collingham FC Cougars U14",
-      "venue": "Alford Road, NG2 6HP",
-      "division": "U14 Saturday",
-      "home_away": "home",
-      "opponent": "Collingham FC Cougars U14"
-    },
     {
       "id": "0eb66582d36fb47564b9ec7b675fdd6d",
       "date": "2026-04-30",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "26fe23e04de4d38c011756150c063db3",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Edwalton Cavaliers White U14",
+      "away_team": "Collingham FC Cougars U14",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Saturday",
+      "home_away": "home",
+      "opponent": "Collingham FC Cougars U14",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "3379f0ebb5817d16b4ff6eb19f6ab698",
       "date": "2026-04-18",

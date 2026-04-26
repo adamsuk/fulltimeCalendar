@@ -1,19 +1,8 @@
 {
   "team": "Grantham Town FC U23",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "ef0561f9a4d8ade8ffd8561b200ef1ce",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Grantham Town FC U23",
-      "away_team": "Burton Joyce F.C. U23",
-      "venue": "GRANTHAM MERES LEISURE CENTRE",
-      "division": "Development Spring Division Two",
-      "home_away": "home",
-      "opponent": "Burton Joyce F.C. U23"
-    },
     {
       "id": "ecaf0cea45ebaf5ecf6386b3f32dae79",
       "date": "2026-05-13",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ef0561f9a4d8ade8ffd8561b200ef1ce",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Grantham Town FC U23",
+      "away_team": "Burton Joyce F.C. U23",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "home_away": "home",
+      "opponent": "Burton Joyce F.C. U23",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "30d97aa45e2eb529836af5bc0963b8bf",
       "date": "2026-04-18",

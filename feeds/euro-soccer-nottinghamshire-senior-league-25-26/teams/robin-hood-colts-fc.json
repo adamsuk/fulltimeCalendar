@@ -1,19 +1,8 @@
 {
   "team": "Robin Hood Colts FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "caf0c0da9313cc747211fb58eb67f194",
-      "date": "2026-04-25",
-      "time": "15:00",
-      "home_team": "Awsworth Villa Reserves",
-      "away_team": "Robin Hood Colts FC",
-      "venue": "SHILO PARK ZINDA GROUND",
-      "division": "NSL Division Three",
-      "home_away": "away",
-      "opponent": "Awsworth Villa Reserves"
-    },
     {
       "id": "9da44c726799106062c73def1ee53b45",
       "date": "2026-05-02",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "caf0c0da9313cc747211fb58eb67f194",
+      "date": "2026-04-25",
+      "time": "15:00",
+      "home_team": "Awsworth Villa Reserves",
+      "away_team": "Robin Hood Colts FC",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "away",
+      "opponent": "Awsworth Villa Reserves",
+      "goals_for": 1,
+      "goals_against": 6
+    },
     {
       "id": "a5f7462df57d9d566152fe3ceff88644",
       "date": "2026-04-18",

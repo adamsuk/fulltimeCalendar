@@ -1,20 +1,7 @@
 {
   "club": "Gedling",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "a60fb932ec6d5b618434f60adecf8a04",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Gedling FC Tigers U12 *",
-      "away_team": "Alfreton Town Jnrs Goats U12",
-      "venue": "The Riverside Ground NG14 5HX",
-      "division": "U12 Sat Spring Div 1 Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Gedling FC Tigers U12 *",
-      "home_away": "home",
-      "opponent": "Alfreton Town Jnrs Goats U12"
-    },
     {
       "id": "8d4e89065965a1bfd7571b6d6ab5dcb9",
       "date": "2026-04-26",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "a60fb932ec6d5b618434f60adecf8a04",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Gedling FC Tigers U12 *",
+      "away_team": "Alfreton Town Jnrs Goats U12",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling FC Tigers U12 *",
+      "home_away": "home",
+      "opponent": "Alfreton Town Jnrs Goats U12",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "44cca9b9cf7ff4a94bfa6f301033bfd4",
       "date": "2026-04-23",

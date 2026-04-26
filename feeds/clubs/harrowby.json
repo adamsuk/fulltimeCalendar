@@ -1,6 +1,6 @@
 {
   "club": "Harrowby",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
     {
       "id": "9f4caf9fc4a9fc217a70e59ef0097a6a",
@@ -14,19 +14,6 @@
       "team": "Harrowby United Reserves",
       "home_away": "home",
       "opponent": "Awsworth Villa Reserves"
-    },
-    {
-      "id": "f55f0fe14683b9f1b1d152ba43f73762",
-      "date": "2026-04-25",
-      "time": "15:00",
-      "home_team": "Harrowby United Reserves",
-      "away_team": "Calverton Miners Welfare Reserves",
-      "venue": "FRUEHAUF STADIUM",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Harrowby United Reserves",
-      "home_away": "home",
-      "opponent": "Calverton Miners Welfare Reserves"
     },
     {
       "id": "3118f3da533c5baaf0515b0cb0f0cfd7",
@@ -82,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "f55f0fe14683b9f1b1d152ba43f73762",
+      "date": "2026-04-25",
+      "time": "15:00",
+      "home_team": "Harrowby United Reserves",
+      "away_team": "Calverton Miners Welfare Reserves",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Harrowby United Reserves",
+      "home_away": "home",
+      "opponent": "Calverton Miners Welfare Reserves",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "c90910b2e2492892270270ef9307b44b",
       "date": "2026-04-19",

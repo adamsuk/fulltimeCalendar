@@ -1,6 +1,6 @@
 {
   "club": "Pegasus",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
     {
       "id": "fc8098c162e51af805d9f0ad00a5c2dd",
@@ -14,32 +14,6 @@
       "team": "Pegasus FC",
       "home_away": "home",
       "opponent": "Newark Town FC U23's"
-    },
-    {
-      "id": "dce847cb6b339a76b48ae5e3ea43b1ed",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic Rangers U10",
-      "away_team": "Pegasus FC U10",
-      "venue": "Pasture Road Recreation Ground  NG9 8GN",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Pegasus FC U10",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic Rangers U10"
-    },
-    {
-      "id": "78410a0630cc1e0f56384f9f199e4a01",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Pegasus FC U11",
-      "away_team": "Mountsorrel Juniors U11",
-      "venue": "Pasture Road Recreation Ground  NG9 8GN",
-      "division": "U11 Sat Spring Div 7 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Pegasus FC U11",
-      "home_away": "home",
-      "opponent": "Mountsorrel Juniors U11"
     },
     {
       "id": "f9fb75850d2fccdcdd9a4d84f3e7407a",
@@ -82,6 +56,40 @@
     }
   ],
   "results": [
+    {
+      "id": "dce847cb6b339a76b48ae5e3ea43b1ed",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic Rangers U10",
+      "away_team": "Pegasus FC U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Pegasus FC U10",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic Rangers U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "78410a0630cc1e0f56384f9f199e4a01",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Pegasus FC U11",
+      "away_team": "Mountsorrel Juniors U11",
+      "home_score": 4,
+      "away_score": 9,
+      "venue": "",
+      "division": "U11 Sat Spring Div 7 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Pegasus FC U11",
+      "home_away": "home",
+      "opponent": "Mountsorrel Juniors U11",
+      "goals_for": 4,
+      "goals_against": 9
+    },
     {
       "id": "0e88fcd74e681a52ab779c5341581e1e",
       "date": "2026-04-19",

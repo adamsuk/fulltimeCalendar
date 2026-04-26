@@ -1,7 +1,7 @@
 {
   "team": "AJ Sport F.C. Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
     {
       "id": "6cf2b543cd315c5e29610b0673c1a237",
@@ -24,17 +24,6 @@
       "division": "NSL Division Three",
       "home_away": "away",
       "opponent": "Rolls Royce FC"
-    },
-    {
-      "id": "37fabc6224775ce4093267d74bbf149c",
-      "date": "2026-04-25",
-      "time": "15:00",
-      "home_team": "Ravenshead Reds FC",
-      "away_team": "AJ Sport F.C. Reserves",
-      "venue": "RAVENSHEAD LEISURE CENTRE",
-      "division": "NSL Division Three",
-      "home_away": "away",
-      "opponent": "Ravenshead Reds FC"
     },
     {
       "id": "cc7fd06a7dc5bbbbb6c2d721e79fee31",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "37fabc6224775ce4093267d74bbf149c",
+      "date": "2026-04-25",
+      "time": "15:00",
+      "home_team": "Ravenshead Reds FC",
+      "away_team": "AJ Sport F.C. Reserves",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "away",
+      "opponent": "Ravenshead Reds FC",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "4eebd4153b92ef09ba799c8c081f9c34",
       "date": "2026-04-21",

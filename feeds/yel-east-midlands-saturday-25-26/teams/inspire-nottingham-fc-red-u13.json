@@ -1,21 +1,36 @@
 {
   "team": "Inspire Nottingham FC Red U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
+    {
+      "id": "e456ea3a5d0bdb81a0635c40833088a6",
+      "date": "2026-04-28",
+      "time": "18:30",
+      "home_team": "Canoville FC Gold U13",
+      "away_team": "Inspire Nottingham FC Red U13",
+      "venue": "William Lee Memorial Park NG14 6SA",
+      "division": "U13 Sat Spring Div 1",
+      "home_away": "away",
+      "opponent": "Canoville FC Gold U13"
+    }
+  ],
+  "results": [
     {
       "id": "b1feb7b7442cd8f9d273d16e7cf838d9",
       "date": "2026-04-25",
       "time": "11:30",
       "home_team": "Inspire Nottingham FC Red U13",
       "away_team": "Long Eaton United White U13",
-      "venue": "Powerleague Arnold NG5 6NZ",
+      "home_score": 4,
+      "away_score": 5,
+      "venue": "",
       "division": "U13 Sat YEL Trophy",
       "home_away": "home",
-      "opponent": "Long Eaton United White U13"
-    }
-  ],
-  "results": [
+      "opponent": "Long Eaton United White U13",
+      "goals_for": 4,
+      "goals_against": 5
+    },
     {
       "id": "262a574b93a648fa4bfe28f988e3b279",
       "date": "2026-04-18",

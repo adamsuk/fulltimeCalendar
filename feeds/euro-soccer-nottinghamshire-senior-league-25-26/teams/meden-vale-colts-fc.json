@@ -1,19 +1,8 @@
 {
   "team": "Meden Vale Colts FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "825299f390c05f557df92374979f51fe",
-      "date": "2026-04-25",
-      "time": "15:00",
-      "home_team": "Meden Vale Colts FC",
-      "away_team": "Keyworth United Reserves",
-      "venue": "ELKESLEY ROAD GROUND",
-      "division": "NSL Division One",
-      "home_away": "home",
-      "opponent": "Keyworth United Reserves"
-    },
     {
       "id": "f5df0a098f5e354a90ba5c13f893ab6f",
       "date": "2026-05-02",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "825299f390c05f557df92374979f51fe",
+      "date": "2026-04-25",
+      "time": "15:00",
+      "home_team": "Meden Vale Colts FC",
+      "away_team": "Keyworth United Reserves",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "NSL Division One",
+      "home_away": "home",
+      "opponent": "Keyworth United Reserves",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "399d8eea03004bab6718abab15852080",
       "date": "2026-04-18",

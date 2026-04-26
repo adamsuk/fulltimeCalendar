@@ -1,19 +1,8 @@
 {
   "team": "Fernwood Foxes Red U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "9a7f321bc4ee5b6abd4c40b7b186f496",
-      "date": "2026-04-25",
-      "time": "09:30",
-      "home_team": "Newark Brazil Rio U10",
-      "away_team": "Fernwood Foxes Red U10",
-      "venue": "Claypole Playing Field NG23 5BQ",
-      "division": "U10 Sat Spring Div 9 Red",
-      "home_away": "away",
-      "opponent": "Newark Brazil Rio U10"
-    },
     {
       "id": "611444bd4e9d9a18e1a5f3ca2eaacfd1",
       "date": "2026-05-09",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "9a7f321bc4ee5b6abd4c40b7b186f496",
+      "date": "2026-04-25",
+      "time": "09:30",
+      "home_team": "Newark Brazil Rio U10",
+      "away_team": "Fernwood Foxes Red U10",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U10 Sat Spring Div 9 Red",
+      "home_away": "away",
+      "opponent": "Newark Brazil Rio U10",
+      "goals_for": 5,
+      "goals_against": 0
+    },
     {
       "id": "770e6a213bd2d66e55642fdbbce2ec81",
       "date": "2026-04-18",

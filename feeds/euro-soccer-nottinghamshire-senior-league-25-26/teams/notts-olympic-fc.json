@@ -1,19 +1,8 @@
 {
   "team": "Notts Olympic FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "521be4d92088e53253184f3027dd024c",
-      "date": "2026-04-25",
-      "time": "15:00",
-      "home_team": "Notts Olympic FC",
-      "away_team": "Aslockton & Orston FC",
-      "venue": "RADFORD FOOTBALL CLUB",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "home",
-      "opponent": "Aslockton & Orston FC"
-    },
     {
       "id": "0aa3255e551698344a7a2f86476ce642",
       "date": "2026-04-28",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "521be4d92088e53253184f3027dd024c",
+      "date": "2026-04-25",
+      "time": "15:00",
+      "home_team": "Notts Olympic FC",
+      "away_team": "Aslockton & Orston FC",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "home",
+      "opponent": "Aslockton & Orston FC",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "be9b83f7be590e41b92b28d1e5d48833",
       "date": "2026-04-21",

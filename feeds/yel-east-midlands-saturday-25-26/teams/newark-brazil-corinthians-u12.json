@@ -1,19 +1,8 @@
 {
   "team": "Newark Brazil Corinthians U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "181c95e936a478843ac4a1bcbd467ccb",
-      "date": "2026-04-25",
-      "time": "11:30",
-      "home_team": "Newark Brazil Corinthians U12",
-      "away_team": "Long Bennington FC U12",
-      "venue": "Magnus School Sports Centre NG24 4BZ",
-      "division": "U12 Sat Spring Div 7 Red",
-      "home_away": "home",
-      "opponent": "Long Bennington FC U12"
-    },
     {
       "id": "4814515fad8ac79ae467fbb9806f321b",
       "date": "2026-04-28",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "181c95e936a478843ac4a1bcbd467ccb",
+      "date": "2026-04-25",
+      "time": "11:30",
+      "home_team": "Newark Brazil Corinthians U12",
+      "away_team": "Long Bennington FC U12",
+      "home_score": 5,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Sat Spring Div 7 Red",
+      "home_away": "home",
+      "opponent": "Long Bennington FC U12",
+      "goals_for": 5,
+      "goals_against": 4
+    },
     {
       "id": "0dff962c4d218340ac94bfa7d9d3a693",
       "date": "2026-03-21",

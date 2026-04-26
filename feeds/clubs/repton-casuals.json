@@ -1,19 +1,24 @@
 {
   "club": "Repton Casuals",
-  "generated": "2026-04-25T07:01:30Z",
-  "fixtures": [
+  "generated": "2026-04-26T07:16:00Z",
+  "fixtures": [],
+  "results": [
     {
       "id": "719f14f97ba287fb73f1a4e526202a71",
       "date": "2026-04-25",
       "time": "10:00",
       "home_team": "Willington FC Rams CM U11",
       "away_team": "Repton Casuals U11",
-      "venue": "Twyford Road DE65 6PP",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
       "division": "U11 Sat Spring Div 2 Blue",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Repton Casuals U11",
       "home_away": "away",
-      "opponent": "Willington FC Rams CM U11"
+      "opponent": "Willington FC Rams CM U11",
+      "goals_for": 0,
+      "goals_against": 4
     },
     {
       "id": "b037bd67a934bd9950543319213c231b",
@@ -21,15 +26,17 @@
       "time": "10:00",
       "home_team": "Duffield Dynamo United U13",
       "away_team": "Repton Casuals U13",
-      "venue": "Eyes Meadow DE56 4JD",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
       "division": "U13 Sat Spring Div 2 Blue",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Repton Casuals U13",
       "home_away": "away",
-      "opponent": "Duffield Dynamo United U13"
-    }
-  ],
-  "results": [
+      "opponent": "Duffield Dynamo United U13",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "baa88826db4aafa3590b6793ce638844",
       "date": "2026-04-18",

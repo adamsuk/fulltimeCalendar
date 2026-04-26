@@ -1,7 +1,7 @@
 {
   "team": "Pass Move Grin Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
     {
       "id": "aeff0b7aaa3e07f584218c506c17dfdd",
@@ -24,20 +24,24 @@
       "division": "NSL Division Three",
       "home_away": "away",
       "opponent": "AJ Sport F.C. Reserves"
-    },
+    }
+  ],
+  "results": [
     {
       "id": "ed443212c01e93fea0973850cf01bad1",
       "date": "2026-04-25",
       "time": "15:00",
       "home_team": "Pass Move Grin Reserves",
       "away_team": "Attenborough FC",
-      "venue": "ARNOLD HILL SCHOOL POWERLEAGUE",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
       "division": "NSL Division Three",
       "home_away": "home",
-      "opponent": "Attenborough FC"
-    }
-  ],
-  "results": [
+      "opponent": "Attenborough FC",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "d30d7f9324d95fb80f71cd57305e0810",
       "date": "2026-04-18",

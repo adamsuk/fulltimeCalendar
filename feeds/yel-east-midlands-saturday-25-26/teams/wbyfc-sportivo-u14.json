@@ -1,32 +1,36 @@
 {
   "team": "WBYFC Sportivo U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
     {
-      "id": "15620af1e5226172ead47670a917cd90",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "home_team": "Phoenix Inham Inferno U14",
-      "away_team": "WBYFC Sportivo U14",
-      "venue": "Inham Nook Recreation Ground NG9 4GQ",
+      "id": "f7e3d047893290ee7e1bffc1a530ba58",
+      "date": "2026-04-28",
+      "time": "18:30",
+      "home_team": "WBYFC Sportivo U14",
+      "away_team": "Ruddington Village Black U14",
+      "venue": "Regatta Way NG2 5AT",
       "division": "u14 Sat Spring Div 3 Blue",
-      "home_away": "away",
-      "opponent": "Phoenix Inham Inferno U14"
-    },
+      "home_away": "home",
+      "opponent": "Ruddington Village Black U14"
+    }
+  ],
+  "results": [
     {
       "id": "ecd624d7f0dc6d707903a977f68f4c2c",
       "date": "2026-04-25",
       "time": "11:00",
       "home_team": "Ruddington Village Black U14",
       "away_team": "WBYFC Sportivo U14",
-      "venue": "Jubilee Fields NG11 6NX",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
       "division": "u14 Sat Spring Div 3 Blue",
       "home_away": "away",
-      "opponent": "Ruddington Village Black U14"
-    }
-  ],
-  "results": [
+      "opponent": "Ruddington Village Black U14",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "459945f5ea87a542e125f73fb538bc5f",
       "date": "2026-03-21",

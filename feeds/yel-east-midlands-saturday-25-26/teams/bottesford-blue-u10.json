@@ -1,19 +1,8 @@
 {
   "team": "Bottesford Blue U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "e16f351f93feb0a4cb3a91f5b17d2fb6",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Bottesford Blue U10",
-      "away_team": "Winthorpe & Cod T U10",
-      "venue": "Nottingham Rd, Bottesford  NG13 0AP",
-      "division": "U10 Sat Spring Div 7 Blue",
-      "home_away": "home",
-      "opponent": "Winthorpe & Cod T U10"
-    },
     {
       "id": "611444bd4e9d9a18e1a5f3ca2eaacfd1",
       "date": "2026-05-09",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e16f351f93feb0a4cb3a91f5b17d2fb6",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Bottesford Blue U10",
+      "away_team": "Winthorpe & Cod T U10",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat Spring Div 7 Blue",
+      "home_away": "home",
+      "opponent": "Winthorpe & Cod T U10",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "45222f810881b022be7fc4fb74985efb",
       "date": "2026-04-18",

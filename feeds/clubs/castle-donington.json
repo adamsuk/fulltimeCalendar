@@ -1,33 +1,7 @@
 {
   "club": "Castle Donington",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "499bfa53684364d4d2acc5efbb954b2b",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "ATFA Brinsley Eagles U8",
-      "away_team": "Castle Donington Raptors U8",
-      "venue": "Brinsley Parish Council NG163HB",
-      "division": "U8 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Castle Donington Raptors U8",
-      "home_away": "away",
-      "opponent": "ATFA Brinsley Eagles U8"
-    },
-    {
-      "id": "aa7d0faaff5ac2aff8b5dd2c35f130b6",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Castle Donington Rex's U8",
-      "away_team": "WBYFC Knights Black U8",
-      "venue": "Spital Park DE74 2NQ",
-      "division": "U8 Sat Spring 8",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Castle Donington Rex's U8",
-      "home_away": "home",
-      "opponent": "WBYFC Knights Black U8"
-    },
     {
       "id": "b863217989d28fb29ccf584085a595c1",
       "date": "2026-04-26",
@@ -147,6 +121,40 @@
     }
   ],
   "results": [
+    {
+      "id": "499bfa53684364d4d2acc5efbb954b2b",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "ATFA Brinsley Eagles U8",
+      "away_team": "Castle Donington Raptors U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Castle Donington Raptors U8",
+      "home_away": "away",
+      "opponent": "ATFA Brinsley Eagles U8",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "aa7d0faaff5ac2aff8b5dd2c35f130b6",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Castle Donington Rex's U8",
+      "away_team": "WBYFC Knights Black U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sat Spring 8",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Castle Donington Rex's U8",
+      "home_away": "home",
+      "opponent": "WBYFC Knights Black U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "443b8e16f005fecb4ec872e785ef89fc",
       "date": "2026-04-23",

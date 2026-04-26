@@ -1,19 +1,8 @@
 {
   "team": "Nottingham FC Green U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "4d2a97689522f769a3aaa4f71078b1a1",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Loughborough Eml Beacons U12",
-      "away_team": "Nottingham FC Green U12",
-      "venue": "Charnwood College, Loughborough LE11 4SQ",
-      "division": "U12 Saturday",
-      "home_away": "away",
-      "opponent": "Loughborough Eml Beacons U12"
-    },
     {
       "id": "e4d94ad7195a2b48ebe01ec8138dbd18",
       "date": "2026-04-30",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "4d2a97689522f769a3aaa4f71078b1a1",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Loughborough Eml Beacons U12",
+      "away_team": "Nottingham FC Green U12",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Saturday",
+      "home_away": "away",
+      "opponent": "Loughborough Eml Beacons U12",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "dff9f0cfff11e4482183ad3d52eced7a",
       "date": "2026-04-21",

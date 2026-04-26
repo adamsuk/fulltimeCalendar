@@ -1,21 +1,36 @@
 {
   "team": "Arnold Town Yellow U12",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
+    {
+      "id": "4238974e7ac46b17504e2cd6d6f2f4be",
+      "date": "2026-04-28",
+      "time": "18:30",
+      "home_team": "Arnold Town Yellow U12",
+      "away_team": "Eastwood CFC Black U12",
+      "venue": "Eagle Valley NG5 8PS",
+      "division": "U12 Sat Spring Div 4",
+      "home_away": "home",
+      "opponent": "Eastwood CFC Black U12"
+    }
+  ],
+  "results": [
     {
       "id": "18a30087a97abe59b598296675ad2be8",
       "date": "2026-04-25",
       "time": "09:45",
       "home_team": "Eastwood CFC Black U12",
       "away_team": "Arnold Town Yellow U12",
-      "venue": "Coronation Park  NG16 3HB",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
       "division": "U12 Sat Spring Div 4",
       "home_away": "away",
-      "opponent": "Eastwood CFC Black U12"
-    }
-  ],
-  "results": [
+      "opponent": "Eastwood CFC Black U12",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "fbb47577dfcc8811deb073623a7913de",
       "date": "2026-04-18",

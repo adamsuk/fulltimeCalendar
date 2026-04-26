@@ -1,7 +1,7 @@
 {
   "team": "Eastwood Ath Dynamos U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
     {
       "id": "94db3c5cbadf3882f4ec49451ee07652",
@@ -13,20 +13,24 @@
       "division": "U14 Sat Spring Div 5 Blue",
       "home_away": "home",
       "opponent": "West Hallam Wanderers U14"
-    },
+    }
+  ],
+  "results": [
     {
       "id": "7b176c0a757ab5045dc2dd044b64fcf4",
       "date": "2026-04-25",
       "time": "12:00",
       "home_team": "Bingham Town Red U14",
       "away_team": "Eastwood Ath Dynamos U14",
-      "venue": "Hose Village Hall LE14 4JT",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
       "division": "U14 Sat Spring Div 5 Blue",
       "home_away": "away",
-      "opponent": "Bingham Town Red U14"
-    }
-  ],
-  "results": [
+      "opponent": "Bingham Town Red U14",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "440e5ea84b08ca467e9efdc513558a86",
       "date": "2026-04-18",

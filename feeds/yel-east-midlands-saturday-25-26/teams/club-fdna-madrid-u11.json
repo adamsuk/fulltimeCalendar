@@ -1,21 +1,36 @@
 {
   "team": "Club FDNA Madrid U11",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
+    {
+      "id": "9819513a43822a0a1ed349c9eb679d54",
+      "date": "2026-04-28",
+      "time": "18:30",
+      "home_team": "Heanor Juniors Rams U11",
+      "away_team": "Club FDNA Madrid U11",
+      "venue": "Charles Hill DE75 7RN",
+      "division": "U11 Sat Spring Div 2 Red",
+      "home_away": "away",
+      "opponent": "Heanor Juniors Rams U11"
+    }
+  ],
+  "results": [
     {
       "id": "9cc4f5e51a26b5489beff0b15df7251d",
       "date": "2026-04-25",
       "time": "10:00",
       "home_team": "Club FDNA Madrid U11",
       "away_team": "Market Warsop Mavericks U11",
-      "venue": "Bilborough College NG8 4DQ",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
       "division": "U11 Sat Spring Div 2 Red",
       "home_away": "home",
-      "opponent": "Market Warsop Mavericks U11"
-    }
-  ],
-  "results": [
+      "opponent": "Market Warsop Mavericks U11",
+      "goals_for": 5,
+      "goals_against": 3
+    },
     {
       "id": "0812637df12c93f72ca224631985e9de",
       "date": "2026-04-18",

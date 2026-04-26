@@ -1,7 +1,7 @@
 {
   "team": "Collingham FC Lions U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
     {
       "id": "87e7e3abbd34a18b404e9b0f26168080",
@@ -13,20 +13,24 @@
       "division": "U14 Sat YEL Trophy (Revised)",
       "home_away": "away",
       "opponent": "Meden Vale Colts Red U14"
-    },
+    }
+  ],
+  "results": [
     {
       "id": "032148229da085c61a8d3b06179e327a",
       "date": "2026-04-25",
       "time": "10:30",
       "home_team": "Collingham FC Lions U14",
       "away_team": "Lowdham FC Red U14",
-      "venue": "Collingham FC  NG23 7RA",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
       "division": "u14 Sat Spring Div 1 Silver",
       "home_away": "home",
-      "opponent": "Lowdham FC Red U14"
-    }
-  ],
-  "results": [
+      "opponent": "Lowdham FC Red U14",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "d961c0e0288ac176b506680e171e1680",
       "date": "2026-04-18",

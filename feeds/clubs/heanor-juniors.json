@@ -1,33 +1,7 @@
 {
   "club": "Heanor Juniors",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "3ba79a44ebdcb4847ca8c088b1654681",
-      "date": "2026-04-25",
-      "time": "09:30",
-      "home_team": "Edwalton Cavaliers Blue U11",
-      "away_team": "Heanor Juniors Rams U11",
-      "venue": "Rushcliffe School  NG2 7BW",
-      "division": "U11 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Heanor Juniors Rams U11",
-      "home_away": "away",
-      "opponent": "Edwalton Cavaliers Blue U11"
-    },
-    {
-      "id": "78bd2f434c812f9eb9928c7acb186319",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Heanor Juniors Badgers U14",
-      "away_team": "Bestwood Colliery U14",
-      "venue": "Kilburn Welfare Social Club DE56 0NR",
-      "division": "U14 Sat Spring Premier Division",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Heanor Juniors Badgers U14",
-      "home_away": "home",
-      "opponent": "Bestwood Colliery U14"
-    },
     {
       "id": "064e88a589114521b1b88f62e040f62d",
       "date": "2026-04-28",
@@ -40,9 +14,56 @@
       "team": "Heanor Juniors Badgers U14",
       "home_away": "away",
       "opponent": "Marlborough Rovers U14"
+    },
+    {
+      "id": "9819513a43822a0a1ed349c9eb679d54",
+      "date": "2026-04-28",
+      "time": "18:30",
+      "home_team": "Heanor Juniors Rams U11",
+      "away_team": "Club FDNA Madrid U11",
+      "venue": "Charles Hill DE75 7RN",
+      "division": "U11 Sat Spring Div 2 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Heanor Juniors Rams U11",
+      "home_away": "home",
+      "opponent": "Club FDNA Madrid U11"
     }
   ],
   "results": [
+    {
+      "id": "78bd2f434c812f9eb9928c7acb186319",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Heanor Juniors Badgers U14",
+      "away_team": "Bestwood Colliery U14",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Heanor Juniors Badgers U14",
+      "home_away": "home",
+      "opponent": "Bestwood Colliery U14",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
+      "id": "3ba79a44ebdcb4847ca8c088b1654681",
+      "date": "2026-04-25",
+      "time": "09:30",
+      "home_team": "Edwalton Cavaliers Blue U11",
+      "away_team": "Heanor Juniors Rams U11",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Heanor Juniors Rams U11",
+      "home_away": "away",
+      "opponent": "Edwalton Cavaliers Blue U11",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "94b3fa5dea6a4a414af5e126ece2cfb5",
       "date": "2026-04-18",

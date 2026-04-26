@@ -1,19 +1,8 @@
 {
   "team": "Hucknall Sports Red U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "ed7a220a1f148eeb1d2c00586a2c9c91",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Hucknall Sports Red U14",
-      "away_team": "Mapperley All Stars United U14",
-      "venue": "Goosedale Sports Club NG6 8UJ",
-      "division": "u14 Sat Spring Div 3 Red",
-      "home_away": "home",
-      "opponent": "Mapperley All Stars United U14"
-    },
     {
       "id": "4a61fb77a0adb0d056afc800da1a8631",
       "date": "2026-04-28",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ed7a220a1f148eeb1d2c00586a2c9c91",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "Hucknall Sports Red U14",
+      "away_team": "Mapperley All Stars United U14",
+      "home_score": 1,
+      "away_score": 7,
+      "venue": "",
+      "division": "u14 Sat Spring Div 3 Red",
+      "home_away": "home",
+      "opponent": "Mapperley All Stars United U14",
+      "goals_for": 1,
+      "goals_against": 7
+    },
     {
       "id": "f964fca89de2a131ffecb6099d192f6e",
       "date": "2026-04-21",

@@ -1,7 +1,7 @@
 {
   "team": "Rolls Royce FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
     {
       "id": "21fcbb6d427eb3f685837cf0c3114a5c",
@@ -13,17 +13,6 @@
       "division": "NSL Division Three",
       "home_away": "home",
       "opponent": "AJ Sport F.C. Reserves"
-    },
-    {
-      "id": "44806999b5aa70b9e0d7bd684c411b5d",
-      "date": "2026-04-25",
-      "time": "15:00",
-      "home_team": "Phoenix Athletic FC",
-      "away_team": "Rolls Royce FC",
-      "venue": "GRESHAM SPORTS PARK #1",
-      "division": "NSL Division Three",
-      "home_away": "away",
-      "opponent": "Phoenix Athletic FC"
     },
     {
       "id": "79ec0ab337d7759117b1390ec59d71d8",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "44806999b5aa70b9e0d7bd684c411b5d",
+      "date": "2026-04-25",
+      "time": "15:00",
+      "home_team": "Phoenix Athletic FC",
+      "away_team": "Rolls Royce FC",
+      "home_score": 9,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "away",
+      "opponent": "Phoenix Athletic FC",
+      "goals_for": 1,
+      "goals_against": 9
+    },
     {
       "id": "e082998e40ae29338323273e20242cc1",
       "date": "2026-04-11",

@@ -1,19 +1,8 @@
 {
   "team": "PMG Excel U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "f461e260c51abc64184e4619e1f12470",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "FC Cavaliers U13",
-      "away_team": "PMG Excel U13",
-      "venue": "Vernon Park  NG6 0AE",
-      "division": "U13 Saturday",
-      "home_away": "away",
-      "opponent": "FC Cavaliers U13"
-    },
     {
       "id": "97678de5caf9af01e56dd74b74cf3bed",
       "date": "2026-04-28",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f461e260c51abc64184e4619e1f12470",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "FC Cavaliers U13",
+      "away_team": "PMG Excel U13",
+      "home_score": 2,
+      "away_score": 8,
+      "venue": "",
+      "division": "U13 Saturday",
+      "home_away": "away",
+      "opponent": "FC Cavaliers U13",
+      "goals_for": 8,
+      "goals_against": 2
+    },
     {
       "id": "e132a025ed6fe461e0ef1ea4307c2cf3",
       "date": "2026-04-18",

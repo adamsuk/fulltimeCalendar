@@ -1,20 +1,7 @@
 {
   "club": "Nottingham Second Chance",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "3284bef1e109c098e56ed3e061d3b1a3",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Clifton All Whites Red U10",
-      "away_team": "Nottingham Second Chance U10",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U10 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Nottingham Second Chance U10",
-      "home_away": "away",
-      "opponent": "Clifton All Whites Red U10"
-    },
     {
       "id": "0bd00f17f9ebd48bcd134f53994103db",
       "date": "2026-04-25",
@@ -27,22 +14,43 @@
       "team": "Nottingham Second Chance U13",
       "home_away": "away",
       "opponent": "Loughborough Eml Blues U13"
-    },
+    }
+  ],
+  "results": [
     {
       "id": "27a965875b0600e50da9364ae3822c74",
       "date": "2026-04-25",
       "time": "11:30",
       "home_team": "Winthorpe & Cod T Amber U11",
       "away_team": "Nottingham Second Chance U11",
-      "venue": "Stapleford Lane NG24 2QZ",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
       "division": "U11 Sat YEL Foundation Shield",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Nottingham Second Chance U11",
       "home_away": "away",
-      "opponent": "Winthorpe & Cod T Amber U11"
-    }
-  ],
-  "results": [
+      "opponent": "Winthorpe & Cod T Amber U11",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "3284bef1e109c098e56ed3e061d3b1a3",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Clifton All Whites Red U10",
+      "away_team": "Nottingham Second Chance U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham Second Chance U10",
+      "home_away": "away",
+      "opponent": "Clifton All Whites Red U10",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "50448b2a1af5c15dadbdc1720a05f557",
       "date": "2026-04-18",

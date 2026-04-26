@@ -1,19 +1,8 @@
 {
   "team": "Awsworth Villa FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "a3ad15a25506a3d522b66f4cfa4cf054",
-      "date": "2026-04-25",
-      "time": "15:00",
-      "home_team": "Awsworth Villa FC",
-      "away_team": "Southwell City Reserves",
-      "venue": "SHILO PARK ZINDA GROUND",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "home",
-      "opponent": "Southwell City Reserves"
-    },
     {
       "id": "6efdf577b171fb3c9ae630de9456541e",
       "date": "2026-04-28",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a3ad15a25506a3d522b66f4cfa4cf054",
+      "date": "2026-04-25",
+      "time": "15:00",
+      "home_team": "Awsworth Villa FC",
+      "away_team": "Southwell City Reserves",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "home",
+      "opponent": "Southwell City Reserves",
+      "goals_for": 6,
+      "goals_against": 1
+    },
     {
       "id": "be9b83f7be590e41b92b28d1e5d48833",
       "date": "2026-04-21",

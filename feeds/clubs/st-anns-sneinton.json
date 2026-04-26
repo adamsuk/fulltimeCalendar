@@ -1,6 +1,6 @@
 {
   "club": "St Anns & Sneinton",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
     {
       "id": "ce8e72740da3bb83e538e35d59e5d3ed",
@@ -14,19 +14,6 @@
       "team": "St Anns & Sneinton U13",
       "home_away": "home",
       "opponent": "WBYFC Apollo U13"
-    },
-    {
-      "id": "1aed692b1ba1d510d1ce5eaedc9c7172",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "St Anns & Sneinton U13",
-      "away_team": "Newark Brazil Santos U13",
-      "venue": "Magnus School Sports Centre NG24 4BZ",
-      "division": "U13 Saturday",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "St Anns & Sneinton U13",
-      "home_away": "home",
-      "opponent": "Newark Brazil Santos U13"
     },
     {
       "id": "07b71f8b122ee1c42f01556254674733",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "1aed692b1ba1d510d1ce5eaedc9c7172",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "home_team": "St Anns & Sneinton U13",
+      "away_team": "Newark Brazil Santos U13",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Saturday",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "St Anns & Sneinton U13",
+      "home_away": "home",
+      "opponent": "Newark Brazil Santos U13",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "a51b3eb25d2b9aec677d0e58760b26a9",
       "date": "2026-04-14",

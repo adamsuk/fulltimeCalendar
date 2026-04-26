@@ -1,19 +1,8 @@
 {
   "team": "Wollaton H & B Wolves U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "74a75c66e5693ccbd8deb34aed22f6ee",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Wollaton H & B Wolves U13",
-      "away_team": "Gonerby FC Yellow U13",
-      "venue": "Highfields NG7 2PS",
-      "division": "U13 Saturday",
-      "home_away": "home",
-      "opponent": "Gonerby FC Yellow U13"
-    },
     {
       "id": "80d1e4d1d32e25efdddf23480d61827e",
       "date": "2026-04-30",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "74a75c66e5693ccbd8deb34aed22f6ee",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Wollaton H & B Wolves U13",
+      "away_team": "Gonerby FC Yellow U13",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U13 Saturday",
+      "home_away": "home",
+      "opponent": "Gonerby FC Yellow U13",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "2412adfb513eb29e4acf4de02a660e33",
       "date": "2026-04-18",

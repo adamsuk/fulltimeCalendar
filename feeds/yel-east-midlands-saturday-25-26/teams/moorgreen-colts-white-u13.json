@@ -1,19 +1,8 @@
 {
   "team": "Moorgreen Colts White U13",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "456aff3877cf6f4c909841b3d87a151b",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Moorgreen Colts White U13",
-      "away_team": "AJ Sport FC U13",
-      "venue": "The Dale Club NG16 5HR",
-      "division": "U13 Sat Spring Div 4 Blue",
-      "home_away": "home",
-      "opponent": "AJ Sport FC U13"
-    },
     {
       "id": "8fdb50ffebe302db426fa87303a0fa73",
       "date": "2026-05-05",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "456aff3877cf6f4c909841b3d87a151b",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "home_team": "Moorgreen Colts White U13",
+      "away_team": "AJ Sport FC U13",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sat Spring Div 4 Blue",
+      "home_away": "home",
+      "opponent": "AJ Sport FC U13",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "8d292fe588b9e12d955b971eec01b483",
       "date": "2026-04-21",

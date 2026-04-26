@@ -1,19 +1,8 @@
 {
   "team": "Collingham FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
-    {
-      "id": "ada6a2645f328c076067fc51fb3bbb03",
-      "date": "2026-04-25",
-      "time": "15:00",
-      "home_team": "FC Cavaliers",
-      "away_team": "Collingham FC",
-      "venue": "THE FOREST SPORTS ZONE #1",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "FC Cavaliers"
-    },
     {
       "id": "2025936f30759699be8c847340d1346c",
       "date": "2026-04-28",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ada6a2645f328c076067fc51fb3bbb03",
+      "date": "2026-04-25",
+      "time": "15:00",
+      "home_team": "FC Cavaliers",
+      "away_team": "Collingham FC",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "FC Cavaliers",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "5149d20191340949084f359a7fad1d66",
       "date": "2026-04-21",

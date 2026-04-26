@@ -1,6 +1,6 @@
 {
   "club": "Priory Celtic Hoops",
-  "generated": "2026-04-25T07:01:30Z",
+  "generated": "2026-04-26T07:16:00Z",
   "fixtures": [
     {
       "id": "36afaeb9c0ad8ab9ff1560f6e6206614",
@@ -14,32 +14,6 @@
       "team": "Priory Celtic Hoops U11",
       "home_away": "home",
       "opponent": "Toton Tornados Typhoons U11"
-    },
-    {
-      "id": "cc954c1053496d599709d4afe7ba9fed",
-      "date": "2026-04-25",
-      "time": "10:00",
-      "home_team": "Priory Celtic Hoops U13",
-      "away_team": "Quarrydale United U13",
-      "venue": "Kimberley Leisure Centre NG16 2NJ 3G 9v9 Pitch",
-      "division": "U13 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Priory Celtic Hoops U13",
-      "home_away": "home",
-      "opponent": "Quarrydale United U13"
-    },
-    {
-      "id": "24fb65027bc5c7506709bd08471ba232",
-      "date": "2026-04-25",
-      "time": "11:30",
-      "home_team": "Priory Celtic Hoops U9",
-      "away_team": "Moorgreen Colts U9",
-      "venue": "Kimberley Leisure Centre NG16 2NJ GP1",
-      "division": "U9 Sat Spring Div 5 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Priory Celtic Hoops U9",
-      "home_away": "home",
-      "opponent": "Moorgreen Colts U9"
     },
     {
       "id": "498c18070c889998af294bd855264656",
@@ -95,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "24fb65027bc5c7506709bd08471ba232",
+      "date": "2026-04-25",
+      "time": "11:30",
+      "home_team": "Priory Celtic Hoops U9",
+      "away_team": "Moorgreen Colts U9",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat Spring Div 5 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Priory Celtic Hoops U9",
+      "home_away": "home",
+      "opponent": "Moorgreen Colts U9",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "1932ec5eecad014895464c4436a1f686",
       "date": "2026-04-21",
