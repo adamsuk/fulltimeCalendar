@@ -1,26 +1,15 @@
 {
   "team": "West Bridgford Colts U13 Lions",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "6f872eddb7f11f38049bff6a5bd56216",
-      "date": "2026-04-26",
-      "time": "09:00",
-      "home_team": "West Bridgford Colts U13 Lions",
-      "away_team": "Calverton Miners Welfare FC U13",
-      "venue": "GRESHAM SPORTS PARK",
-      "division": "U13 Div 1 9 v 9",
-      "home_away": "home",
-      "opponent": "Calverton Miners Welfare FC U13"
-    },
     {
       "id": "7c3c2fcce59871ebab511fa7a5fb5997",
       "date": "2026-05-03",
-      "time": "10:00",
+      "time": "09:00",
       "home_team": "West Bridgford Colts U13 Lions",
       "away_team": "Keyworth United F.C. U13 Girls",
-      "venue": "REGATTA WAY SPORTS GROUND",
+      "venue": "GRESHAM SPORTS PARK",
       "division": "U13 Div 1 9 v 9",
       "home_away": "home",
       "opponent": "Keyworth United F.C. U13 Girls"
@@ -53,13 +42,28 @@
       "time": "10:00",
       "home_team": "West Bridgford Colts U13 Lions",
       "away_team": "Sandiacre Town Youth U13 Diamonds",
-      "venue": "REGATTA WAY SPORTS GROUND",
+      "venue": "GRESHAM SPORTS PARK",
       "division": "U13 Div 1 9 v 9",
       "home_away": "home",
       "opponent": "Sandiacre Town Youth U13 Diamonds"
     }
   ],
   "results": [
+    {
+      "id": "6f872eddb7f11f38049bff6a5bd56216",
+      "date": "2026-04-26",
+      "time": "09:00",
+      "home_team": "West Bridgford Colts U13 Lions",
+      "away_team": "Calverton Miners Welfare FC U13",
+      "home_score": 10,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Div 1 9 v 9",
+      "home_away": "home",
+      "opponent": "Calverton Miners Welfare FC U13",
+      "goals_for": 10,
+      "goals_against": 3
+    },
     {
       "id": "c0d62bb71b24addfbf00394c116a5452",
       "date": "2026-04-19",

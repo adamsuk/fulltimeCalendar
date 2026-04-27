@@ -1,6 +1,6 @@
 {
   "club": "Clifton All Whites",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
     {
       "id": "31f3feee10ccad217606b1b7fb69de08",
@@ -16,32 +16,6 @@
       "opponent": "Midway FC Vipers U11"
     },
     {
-      "id": "501af5ca509238756b49d985fed64190",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Clifton All Whites Silver U12",
-      "away_team": "Sherwood Colliery Outlaws U12",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U12 Sun Spring Div 1 Gold",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Clifton All Whites Silver U12",
-      "home_away": "home",
-      "opponent": "Sherwood Colliery Outlaws U12"
-    },
-    {
-      "id": "3feda28c8d8fba765e6106b9e3659102",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Clifton All Whites U13",
-      "away_team": "Newark Town FC U13 Nesbitts",
-      "venue": "CLIFTON FOOTBALL CENTRE",
-      "division": "U13 Div 1 11 v 11",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Clifton All Whites U13",
-      "home_away": "home",
-      "opponent": "Newark Town FC U13 Nesbitts"
-    },
-    {
       "id": "90c8b3e6784ccef47f3bcf8ae40aa7dc",
       "date": "2026-04-26",
       "time": "11:00",
@@ -53,19 +27,6 @@
       "team": "Clifton All Whites Black U12",
       "home_away": "home",
       "opponent": "Moorgreen Colts Blue U12"
-    },
-    {
-      "id": "c8943f67e392d8df93bfe53e88834422",
-      "date": "2026-04-26",
-      "time": "13:00",
-      "home_team": "Clifton All Whites U16 Girls",
-      "away_team": "Heanor Town Juniors U16 Tornados",
-      "venue": "RH ACADEMY",
-      "division": "U16 Div 3 League Cup",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Clifton All Whites U16 Girls",
-      "home_away": "home",
-      "opponent": "Heanor Town Juniors U16 Tornados"
     },
     {
       "id": "8b1d193a31baf3580025c14b98401c4e",
@@ -134,6 +95,57 @@
     }
   ],
   "results": [
+    {
+      "id": "c8943f67e392d8df93bfe53e88834422",
+      "date": "2026-04-26",
+      "time": "13:00",
+      "home_team": "Clifton All Whites U16 Girls",
+      "away_team": "Heanor Town Juniors U16 Tornados",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U16 Div 3 League Cup",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U16 Girls",
+      "home_away": "home",
+      "opponent": "Heanor Town Juniors U16 Tornados",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "501af5ca509238756b49d985fed64190",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Clifton All Whites Silver U12",
+      "away_team": "Sherwood Colliery Outlaws U12",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sun Spring Div 1 Gold",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Clifton All Whites Silver U12",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery Outlaws U12",
+      "goals_for": 5,
+      "goals_against": 0
+    },
+    {
+      "id": "3feda28c8d8fba765e6106b9e3659102",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U13",
+      "away_team": "Newark Town FC U13 Nesbitts",
+      "home_score": 4,
+      "away_score": 5,
+      "venue": "",
+      "division": "U13 Div 1 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clifton All Whites U13",
+      "home_away": "home",
+      "opponent": "Newark Town FC U13 Nesbitts",
+      "goals_for": 4,
+      "goals_against": 5
+    },
     {
       "id": "4038b9b77e1c388d2ec61845c02fa9d5",
       "date": "2026-04-25",

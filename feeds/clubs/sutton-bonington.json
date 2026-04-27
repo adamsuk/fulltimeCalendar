@@ -1,20 +1,7 @@
 {
   "club": "Sutton Bonington",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "47c9c0e23521d86aaa91139e1e4dcff5",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Tansley Juniors U12 Girls",
-      "away_team": "Sutton Bonington U12 Comets",
-      "venue": "THE FETE FIELD",
-      "division": "U12 Div 5 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sutton Bonington U12 Comets",
-      "home_away": "away",
-      "opponent": "Tansley Juniors U12 Girls"
-    },
     {
       "id": "6291cac56befb46c134091e22c924d25",
       "date": "2026-05-03",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "47c9c0e23521d86aaa91139e1e4dcff5",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Tansley Juniors U12 Girls",
+      "away_team": "Sutton Bonington U12 Comets",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U12 Div 5 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sutton Bonington U12 Comets",
+      "home_away": "away",
+      "opponent": "Tansley Juniors U12 Girls",
+      "goals_for": 5,
+      "goals_against": 2
+    },
     {
       "id": "7ddbd3f7060d85057791318b3f50ede4",
       "date": "2026-04-25",

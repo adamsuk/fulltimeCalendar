@@ -1,35 +1,42 @@
 {
   "club": "Newton & Blackwell",
-  "generated": "2026-04-26T07:16:00Z",
-  "fixtures": [
-    {
-      "id": "93e46bb0be359c37ec4136b33ba951dc",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Newton & Blackwell Cosmos U13",
-      "away_team": "Aslockton & Orston Black U13",
-      "venue": "Scanderlands Pavilion DE55 5JJ",
-      "division": "U13 Sun Spring Div 1 Gold",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Newton & Blackwell Cosmos U13",
-      "home_away": "home",
-      "opponent": "Aslockton & Orston Black U13"
-    },
+  "generated": "2026-04-27T08:03:43Z",
+  "fixtures": [],
+  "results": [
     {
       "id": "b00a16171524a47e5755344d95dae2ed",
       "date": "2026-04-26",
       "time": "11:30",
       "home_team": "Newton & Blackwell U12",
       "away_team": "Kirkby Colts Red U12",
-      "venue": "Scanderlands Pavilion DE55 5JJ",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
       "division": "U12 Sun Spring Div 1 Silver",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Newton & Blackwell U12",
       "home_away": "home",
-      "opponent": "Kirkby Colts Red U12"
-    }
-  ],
-  "results": [
+      "opponent": "Kirkby Colts Red U12",
+      "goals_for": 4,
+      "goals_against": 1
+    },
+    {
+      "id": "93e46bb0be359c37ec4136b33ba951dc",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Newton & Blackwell Cosmos U13",
+      "away_team": "Aslockton & Orston Black U13",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sun Spring Div 1 Gold",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Newton & Blackwell Cosmos U13",
+      "home_away": "home",
+      "opponent": "Aslockton & Orston Black U13",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "08c16a324a1d9cbb502382bee5d46a54",
       "date": "2026-04-25",

@@ -1,19 +1,41 @@
 {
   "club": "Gonerby",
-  "generated": "2026-04-26T07:16:00Z",
-  "fixtures": [
+  "generated": "2026-04-27T08:03:43Z",
+  "fixtures": [],
+  "results": [
+    {
+      "id": "4c977bd5f4824675da260e199d8bffba",
+      "date": "2026-04-26",
+      "time": "11:30",
+      "home_team": "Mansfield Athletic Blue U14",
+      "away_team": "Gonerby U14",
+      "home_score": 5,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gonerby U14",
+      "home_away": "away",
+      "opponent": "Mansfield Athletic Blue U14",
+      "goals_for": 4,
+      "goals_against": 5
+    },
     {
       "id": "97e8acff6104070a0ec5660a3ef623cb",
       "date": "2026-04-26",
       "time": "10:00",
       "home_team": "WBYFC Leverkusen U10",
       "away_team": "Gonerby Blue U10",
-      "venue": "Gresham Sports Pitch NG2 7YF",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
       "division": "U10 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Gonerby Blue U10",
       "home_away": "away",
-      "opponent": "WBYFC Leverkusen U10"
+      "opponent": "WBYFC Leverkusen U10",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "21e0e2cb982b6285fe563a5a3712bc14",
@@ -21,12 +43,16 @@
       "time": "10:00",
       "home_team": "Gonerby Blue U11",
       "away_team": "Long Eaton United Silver U11",
-      "venue": "Grantham Meres Leisure Centre NG31 7XQ",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
       "division": "U11 Sun Spring Div 6 Gold",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Gonerby Blue U11",
       "home_away": "home",
-      "opponent": "Long Eaton United Silver U11"
+      "opponent": "Long Eaton United Silver U11",
+      "goals_for": 1,
+      "goals_against": 2
     },
     {
       "id": "26db1e08ff4220bb1658bd515d765bee",
@@ -34,12 +60,16 @@
       "time": "10:00",
       "home_team": "Gonerby Blue U13",
       "away_team": "Keyworth United Red U13",
-      "venue": "Hougham & Marston Playing Field NG32 2HL",
+      "home_score": 4,
+      "away_score": 7,
+      "venue": "",
       "division": "U13 Sun Spring Div 5 Gold",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Gonerby Blue U13",
       "home_away": "home",
-      "opponent": "Keyworth United Red U13"
+      "opponent": "Keyworth United Red U13",
+      "goals_for": 4,
+      "goals_against": 7
     },
     {
       "id": "495f74f9bf11d7b771936c6ae8b39efa",
@@ -47,12 +77,16 @@
       "time": "10:00",
       "home_team": "Gonerby FC Yellow U8",
       "away_team": "Barrowby FC Black U8",
-      "venue": "Gonerby Recreation Ground NG31 8PP",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
       "division": "U8 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Gonerby FC Yellow U8",
       "home_away": "home",
-      "opponent": "Barrowby FC Black U8"
+      "opponent": "Barrowby FC Black U8",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "2c399c2b8e341cc2837f0793212f87fa",
@@ -60,12 +94,16 @@
       "time": "10:00",
       "home_team": "Cotgrave FC White U10",
       "away_team": "Gonerby Yellow U10",
-      "venue": "Ridley Sports Ground NG12 3HA",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
       "division": "U10 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Gonerby Yellow U10",
       "home_away": "away",
-      "opponent": "Cotgrave FC White U10"
+      "opponent": "Cotgrave FC White U10",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "5fad19a9da56e16034b2fbb189bbd41f",
@@ -73,12 +111,16 @@
       "time": "10:00",
       "home_team": "Bestwood Colliery U11",
       "away_team": "Gonerby Yellow U11",
-      "venue": "High Main Drive NG6 8YX",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
       "division": "U11 Sun Spring Div 4 Red",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Gonerby Yellow U11",
       "home_away": "away",
-      "opponent": "Bestwood Colliery U11"
+      "opponent": "Bestwood Colliery U11",
+      "goals_for": 1,
+      "goals_against": 6
     },
     {
       "id": "f144930ec54b50111c2abb4773f3d92d",
@@ -86,28 +128,17 @@
       "time": "10:00",
       "home_team": "Ruddington Village Yellow U12",
       "away_team": "Gonerby Yellow U12",
-      "venue": "Jubilee Fields NG11 6NX",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
       "division": "U12 Sun Spring Div 3 Blue",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Gonerby Yellow U12",
       "home_away": "away",
-      "opponent": "Ruddington Village Yellow U12"
+      "opponent": "Ruddington Village Yellow U12",
+      "goals_for": 2,
+      "goals_against": 4
     },
-    {
-      "id": "4c977bd5f4824675da260e199d8bffba",
-      "date": "2026-04-26",
-      "time": "11:30",
-      "home_team": "Mansfield Athletic Blue U14",
-      "away_team": "Gonerby U14",
-      "venue": "Polly Bowls NG17 4HN",
-      "division": "U14 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Gonerby U14",
-      "home_away": "away",
-      "opponent": "Mansfield Athletic Blue U14"
-    }
-  ],
-  "results": [
     {
       "id": "74a75c66e5693ccbd8deb34aed22f6ee",
       "date": "2026-04-25",

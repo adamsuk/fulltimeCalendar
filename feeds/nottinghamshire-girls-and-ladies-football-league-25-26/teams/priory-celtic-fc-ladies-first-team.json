@@ -1,19 +1,8 @@
 {
   "team": "Priory Celtic FC Ladies First Team",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "080b03d31c6231faa7f75de36f088362",
-      "date": "2026-04-26",
-      "time": "12:00",
-      "home_team": "Priory Celtic FC Ladies First Team",
-      "away_team": "Sherwood FC Development Women",
-      "venue": "KIMBERLEY SCHOOL SPORTS CENTRE",
-      "division": "Seniors Div 2",
-      "home_away": "home",
-      "opponent": "Sherwood FC Development Women"
-    },
     {
       "id": "d85b4c8669efd2721fa4dda00975fc91",
       "date": "2026-05-03",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "080b03d31c6231faa7f75de36f088362",
+      "date": "2026-04-26",
+      "time": "12:00",
+      "home_team": "Priory Celtic FC Ladies First Team",
+      "away_team": "Sherwood FC Development Women",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "home_away": "home",
+      "opponent": "Sherwood FC Development Women",
+      "goals_for": 0,
+      "goals_against": 5
+    },
     {
       "id": "2c90e56109c88987cf6f2758e4b0c0df",
       "date": "2026-04-19",

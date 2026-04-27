@@ -1,7 +1,7 @@
 {
   "team": "DLFC SFK U13",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
     {
       "id": "d4dc5df627cc370408d3c61b29ee736a",
@@ -13,20 +13,24 @@
       "division": "U13 Sun Spring Div 5 Silver",
       "home_away": "away",
       "opponent": "Mansfield Athletic U13"
-    },
+    }
+  ],
+  "results": [
     {
       "id": "29f9d0c2147348551a3dc79f72d872d2",
       "date": "2026-04-26",
       "time": "12:30",
       "home_team": "DLFC SFK U13",
       "away_team": "Pegasus FC U13",
-      "venue": "Greenwich Avenue NG6 0LD",
+      "home_score": 8,
+      "away_score": 4,
+      "venue": "",
       "division": "U13 Sun Spring Div 5 Silver",
       "home_away": "home",
-      "opponent": "Pegasus FC U13"
-    }
-  ],
-  "results": [
+      "opponent": "Pegasus FC U13",
+      "goals_for": 8,
+      "goals_against": 4
+    },
     {
       "id": "d3e4a4bba07ade7ed46dc5546d3a6563",
       "date": "2026-04-19",

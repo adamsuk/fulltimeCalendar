@@ -1,19 +1,8 @@
 {
   "team": "Arnold Eagles F.C. Girls U14 Storm",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "96416c3796df6c60495d56c0e10db8fe",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Burton Joyce F.C. Girls U14",
-      "away_team": "Arnold Eagles F.C. Girls U14 Storm",
-      "venue": "POPLARS SPORTS GROUND",
-      "division": "U14 Div 4",
-      "home_away": "away",
-      "opponent": "Burton Joyce F.C. Girls U14"
-    },
     {
       "id": "a73370b3f1e5b9ba9325c19dd7fbd394",
       "date": "2026-05-10",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "96416c3796df6c60495d56c0e10db8fe",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Burton Joyce F.C. Girls U14",
+      "away_team": "Arnold Eagles F.C. Girls U14 Storm",
+      "home_score": 4,
+      "away_score": 7,
+      "venue": "",
+      "division": "U14 Div 4",
+      "home_away": "away",
+      "opponent": "Burton Joyce F.C. Girls U14",
+      "goals_for": 7,
+      "goals_against": 4
+    },
     {
       "id": "d196d6e1d5574fbb15cc31c6a27b01e0",
       "date": "2026-04-12",

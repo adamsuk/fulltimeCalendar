@@ -1,7 +1,7 @@
 {
   "team": "Market Warsop F.C. Youth U14 Lionesses",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
     {
       "id": "7ad09b4e281ab2b113e90987aadda1c3",
@@ -13,17 +13,6 @@
       "division": "U14 Div 1",
       "home_away": "home",
       "opponent": "Keyworth United F.C. U14 Thunder"
-    },
-    {
-      "id": "69fccce072c294164f7764c5beaa4fb7",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Beeston F.C. U14 Girls",
-      "away_team": "Market Warsop F.C. Youth U14 Lionesses",
-      "venue": "TRENT VALE SPORTS ASSOCIATION",
-      "division": "U14 Div 1",
-      "home_away": "away",
-      "opponent": "Beeston F.C. U14 Girls"
     },
     {
       "id": "269a7122ab1837765a02b1b26145680c",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "69fccce072c294164f7764c5beaa4fb7",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Beeston F.C. U14 Girls",
+      "away_team": "Market Warsop F.C. Youth U14 Lionesses",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U14 Div 1",
+      "home_away": "away",
+      "opponent": "Beeston F.C. U14 Girls",
+      "goals_for": 5,
+      "goals_against": 0
+    },
     {
       "id": "2b664bb5ea7eb6648ef86f8bb05a60d0",
       "date": "2026-03-22",

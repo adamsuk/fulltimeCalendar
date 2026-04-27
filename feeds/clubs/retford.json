@@ -1,37 +1,11 @@
 {
   "club": "Retford",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "cf27f7beaefe1f497588c5209ddd5705",
-      "date": "2026-04-26",
-      "time": "10:30",
-      "home_team": "Retford FC Juniors U15 GIRLS",
-      "away_team": "Stapleford Town FC U15 Girls",
-      "venue": "Retford FC Juniors U15 GIRLS",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Retford FC Juniors U15 GIRLS",
-      "home_away": "home",
-      "opponent": "Stapleford Town FC U15 Girls"
-    },
-    {
-      "id": "37d7ede49cf6b812f2edac486e425419",
-      "date": "2026-04-26",
-      "time": "14:00",
-      "home_team": "Eastwood & Kimberley FC",
-      "away_team": "Retford FC Ladies",
-      "venue": "JACKSDALE MINERS WELFARE SPORTS GROUND",
-      "division": "Seniors Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Retford FC Ladies",
-      "home_away": "away",
-      "opponent": "Eastwood & Kimberley FC"
-    },
     {
       "id": "53e750dbd2a1647730d73da992c63189",
       "date": "2026-04-29",
-      "time": "18:30",
+      "time": "18:45",
       "home_team": "Shirebrook Rangers Women",
       "away_team": "Retford FC Ladies",
       "venue": "SHIREBROOK ACADEMY",
@@ -134,6 +108,40 @@
     }
   ],
   "results": [
+    {
+      "id": "37d7ede49cf6b812f2edac486e425419",
+      "date": "2026-04-26",
+      "time": "14:00",
+      "home_team": "Eastwood & Kimberley FC",
+      "away_team": "Retford FC Ladies",
+      "home_score": 9,
+      "away_score": 2,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Retford FC Ladies",
+      "home_away": "away",
+      "opponent": "Eastwood & Kimberley FC",
+      "goals_for": 2,
+      "goals_against": 9
+    },
+    {
+      "id": "cf27f7beaefe1f497588c5209ddd5705",
+      "date": "2026-04-26",
+      "time": "10:30",
+      "home_team": "Retford FC Juniors U15 GIRLS",
+      "away_team": "Stapleford Town FC U15 Girls",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Retford FC Juniors U15 GIRLS",
+      "home_away": "home",
+      "opponent": "Stapleford Town FC U15 Girls",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "4091f3eb030c8ecfa662390e24df2413",
       "date": "2026-04-19",

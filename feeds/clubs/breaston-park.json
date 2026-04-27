@@ -1,46 +1,7 @@
 {
   "club": "Breaston Park",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "9eaa4382769e340b132bf5c2b70288a1",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Codnor Sports Chargers U13",
-      "away_team": "Breaston Park Black U13",
-      "venue": "Codnor Rec Ground DE5 9QY",
-      "division": "U13 Sun Spring Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Breaston Park Black U13",
-      "home_away": "away",
-      "opponent": "Codnor Sports Chargers U13"
-    },
-    {
-      "id": "caf3ef755a6c94cc9cb4e4701c83da79",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Breaston Park Green U9",
-      "away_team": "Silva FC Rushcliffe Reds U9",
-      "venue": "Soldiers and Sailors Pitch DE72 3TT",
-      "division": "U9 Sun Spring Div 4 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Breaston Park Green U9",
-      "home_away": "home",
-      "opponent": "Silva FC Rushcliffe Reds U9"
-    },
-    {
-      "id": "686014bfb6764374b68997f6d763e6f0",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Breaston Park U8",
-      "away_team": "WBYFC Spirit Black U8",
-      "venue": "Soldiers and Sailors Pitch DE72 3TT",
-      "division": "U8 Sun Spring 5 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Breaston Park U8",
-      "home_away": "home",
-      "opponent": "WBYFC Spirit Black U8"
-    },
     {
       "id": "39eca744827f348db726635bee6203c1",
       "date": "2026-04-26",
@@ -69,6 +30,40 @@
     }
   ],
   "results": [
+    {
+      "id": "caf3ef755a6c94cc9cb4e4701c83da79",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Breaston Park Green U9",
+      "away_team": "Silva FC Rushcliffe Reds U9",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sun Spring Div 4 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Breaston Park Green U9",
+      "home_away": "home",
+      "opponent": "Silva FC Rushcliffe Reds U9",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
+      "id": "686014bfb6764374b68997f6d763e6f0",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Breaston Park U8",
+      "away_team": "WBYFC Spirit Black U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sun Spring 5 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Breaston Park U8",
+      "home_away": "home",
+      "opponent": "WBYFC Spirit Black U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "fb24ed061ffa688f04fc4203d0eb90c3",
       "date": "2026-04-25",

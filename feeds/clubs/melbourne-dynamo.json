@@ -1,35 +1,42 @@
 {
   "club": "Melbourne Dynamo",
-  "generated": "2026-04-26T07:16:00Z",
-  "fixtures": [
-    {
-      "id": "4f36d0cc83a9305079d83aebc49d5236",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Notts County Women U10 ^",
-      "away_team": "Melbourne Dynamo U10 Tigers",
-      "venue": "Southglade Leisure Centre NG5 5GU",
-      "division": "U10 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Melbourne Dynamo U10 Tigers",
-      "home_away": "away",
-      "opponent": "Notts County Women U10 ^"
-    },
+  "generated": "2026-04-27T08:03:43Z",
+  "fixtures": [],
+  "results": [
     {
       "id": "9a42d9d05172d333ac07859652087747",
       "date": "2026-04-26",
       "time": "10:30",
       "home_team": "Melbourne Dynamo Rangers U12",
       "away_team": "Basford United Iconz U12",
-      "venue": "Rolls Royce Leisure DE24 9HY",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
       "division": "U12 Sun Spring Div 2 Blue",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Melbourne Dynamo Rangers U12",
       "home_away": "home",
-      "opponent": "Basford United Iconz U12"
-    }
-  ],
-  "results": [
+      "opponent": "Basford United Iconz U12",
+      "goals_for": 5,
+      "goals_against": 1
+    },
+    {
+      "id": "4f36d0cc83a9305079d83aebc49d5236",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Notts County Women U10 ^",
+      "away_team": "Melbourne Dynamo U10 Tigers",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Melbourne Dynamo U10 Tigers",
+      "home_away": "away",
+      "opponent": "Notts County Women U10 ^",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "9b49033515e43f02acf7afcd771dac95",
       "date": "2026-04-23",

@@ -1,19 +1,8 @@
 {
   "team": "Ernehale Colts Black U12",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "4340d967053e19f501c311fabb53df67",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Ernehale Colts Black U12",
-      "away_team": "Arnold Town White U12",
-      "venue": "King George V Park NG5 6TD",
-      "division": "U12 Sun Spring Div 6 Gold",
-      "home_away": "home",
-      "opponent": "Arnold Town White U12"
-    },
     {
       "id": "b9019fab91e08d6ea03caf7defeb0efd",
       "date": "2026-04-29",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "4340d967053e19f501c311fabb53df67",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Ernehale Colts Black U12",
+      "away_team": "Arnold Town White U12",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sun Spring Div 6 Gold",
+      "home_away": "home",
+      "opponent": "Arnold Town White U12",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "de1e604ea34d2eb9e41bdb9cc703972d",
       "date": "2026-04-19",

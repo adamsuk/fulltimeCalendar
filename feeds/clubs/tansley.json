@@ -1,6 +1,6 @@
 {
   "club": "Tansley",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
     {
       "id": "e673be93c6c2d5021fbe55b662000d93",
@@ -14,32 +14,6 @@
       "team": "Tansley Juniors U15 Girls",
       "home_away": "home",
       "opponent": "Willow Wanderers F.C. Youth U15 Amazons"
-    },
-    {
-      "id": "47c9c0e23521d86aaa91139e1e4dcff5",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Tansley Juniors U12 Girls",
-      "away_team": "Sutton Bonington U12 Comets",
-      "venue": "THE FETE FIELD",
-      "division": "U12 Div 5 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Tansley Juniors U12 Girls",
-      "home_away": "home",
-      "opponent": "Sutton Bonington U12 Comets"
-    },
-    {
-      "id": "adc8efc59b7af4ca13de31155dd114f5",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Woodlands Women U15",
-      "away_team": "Tansley Juniors U15 Girls",
-      "venue": "ALLESTREE WOODLANDS SCHOOL",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Tansley Juniors U15 Girls",
-      "home_away": "away",
-      "opponent": "Woodlands Women U15"
     },
     {
       "id": "2aec737e0c61a75ccbbe226ad0ae8c2d",
@@ -134,6 +108,40 @@
     }
   ],
   "results": [
+    {
+      "id": "47c9c0e23521d86aaa91139e1e4dcff5",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Tansley Juniors U12 Girls",
+      "away_team": "Sutton Bonington U12 Comets",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U12 Div 5 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Tansley Juniors U12 Girls",
+      "home_away": "home",
+      "opponent": "Sutton Bonington U12 Comets",
+      "goals_for": 2,
+      "goals_against": 5
+    },
+    {
+      "id": "adc8efc59b7af4ca13de31155dd114f5",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Woodlands Women U15",
+      "away_team": "Tansley Juniors U15 Girls",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U15 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Tansley Juniors U15 Girls",
+      "home_away": "away",
+      "opponent": "Woodlands Women U15",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "919e098027722c595554150173f6ec30",
       "date": "2026-04-19",

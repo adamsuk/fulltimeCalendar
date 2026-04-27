@@ -1,6 +1,6 @@
 {
   "club": "Club FDNA",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
     {
       "id": "ba263bc03b5f747409934f6f8877b390",
@@ -14,19 +14,25 @@
       "team": "Club FDNA Forest U7",
       "home_away": "home",
       "opponent": "Sherwood Colliery U7"
-    },
+    }
+  ],
+  "results": [
     {
       "id": "63e937ed98f0ddb8b42bd8eb0e0870fe",
       "date": "2026-04-26",
       "time": "10:00",
       "home_team": "Club FDNA Marseille U8",
       "away_team": "Mapperley All Stars Blue U8",
-      "venue": "Bilborough College NG8 4DQ",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
       "division": "U8 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Club FDNA Marseille U8",
       "home_away": "home",
-      "opponent": "Mapperley All Stars Blue U8"
+      "opponent": "Mapperley All Stars Blue U8",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "40ad400c30bb6c765bcbc1238a5c9ec7",
@@ -34,12 +40,16 @@
       "time": "10:00",
       "home_team": "Club FDNA Munich U9",
       "away_team": "Dunkirk Colts U8 ^",
-      "venue": "Bilborough College NG8 4DQ",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
       "division": "U9 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Club FDNA Munich U9",
       "home_away": "home",
-      "opponent": "Dunkirk Colts U8 ^"
+      "opponent": "Dunkirk Colts U8 ^",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "86f11db426b346b05d9bf13ce6a28d40",
@@ -47,15 +57,17 @@
       "time": "10:00",
       "home_team": "Bottesford Yellow U9",
       "away_team": "Club FDNA Santos U9",
-      "venue": "Nottingham Road NG13 0AP",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
       "division": "U9 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Club FDNA Santos U9",
       "home_away": "away",
-      "opponent": "Bottesford Yellow U9"
-    }
-  ],
-  "results": [
+      "opponent": "Bottesford Yellow U9",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "71ec6223aac4f7292b034ac3bebc76ab",
       "date": "2026-04-25",

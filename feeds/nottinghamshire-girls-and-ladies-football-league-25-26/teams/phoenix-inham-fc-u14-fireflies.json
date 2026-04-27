@@ -1,19 +1,8 @@
 {
   "team": "Phoenix Inham FC U14 Fireflies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "5d591aa731d4e2855acd601e35dad679",
-      "date": "2026-04-26",
-      "time": "11:45",
-      "home_team": "Cotgrave FC U14 White",
-      "away_team": "Phoenix Inham FC U14 Fireflies",
-      "venue": "COTGRAVE WELFARE CLUB",
-      "division": "U14 Div 4",
-      "home_away": "away",
-      "opponent": "Cotgrave FC U14 White"
-    },
     {
       "id": "a97643cf9e5be54d3d01fedbeac17c6b",
       "date": "2026-05-03",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5d591aa731d4e2855acd601e35dad679",
+      "date": "2026-04-26",
+      "time": "11:45",
+      "home_team": "Cotgrave FC U14 White",
+      "away_team": "Phoenix Inham FC U14 Fireflies",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Div 4",
+      "home_away": "away",
+      "opponent": "Cotgrave FC U14 White",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "a9396e33cd6dfbbff0668c8feaf034fe",
       "date": "2026-04-19",

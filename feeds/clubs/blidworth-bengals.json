@@ -1,20 +1,7 @@
 {
   "club": "Blidworth Bengals",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "75df7ad42fef6e74c9ba714fa8431a04",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Blidworth Bengals B/W U12",
-      "away_team": "Notts Olympic FC U12",
-      "venue": "Bilsthorpe Football Ground NG22 8PY",
-      "division": "U12 Sun Spring Div 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Blidworth Bengals B/W U12",
-      "home_away": "home",
-      "opponent": "Notts Olympic FC U12"
-    },
     {
       "id": "91f4594c680a57c4440b1f1177d1ea51",
       "date": "2026-04-26",
@@ -40,32 +27,6 @@
       "team": "Blidworth Bengals Orange U14",
       "home_away": "away",
       "opponent": "Ilkeston Town Raptors U14"
-    },
-    {
-      "id": "c7330ff19f01b0d06789f5451b118fb5",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Blidworth Bengals U9",
-      "away_team": "Ruddington Village Black U9",
-      "venue": "Eakring Road NG22 8QW",
-      "division": "U9 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Blidworth Bengals U9",
-      "home_away": "home",
-      "opponent": "Ruddington Village Black U9"
-    },
-    {
-      "id": "1171054344e2b3a78f232e24ea735c7f",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Newark Town FC U12 Girls",
-      "away_team": "Blidworth Bengals F.C. U12",
-      "venue": "DEVON PARK",
-      "division": "U12 Div 3 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Blidworth Bengals F.C. U12",
-      "home_away": "away",
-      "opponent": "Newark Town FC U12 Girls"
     },
     {
       "id": "7cdf7199f5162ec41859a991431c6577",
@@ -147,6 +108,57 @@
     }
   ],
   "results": [
+    {
+      "id": "75df7ad42fef6e74c9ba714fa8431a04",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Blidworth Bengals B/W U12",
+      "away_team": "Notts Olympic FC U12",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sun Spring Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Blidworth Bengals B/W U12",
+      "home_away": "home",
+      "opponent": "Notts Olympic FC U12",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
+      "id": "c7330ff19f01b0d06789f5451b118fb5",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Blidworth Bengals U9",
+      "away_team": "Ruddington Village Black U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Blidworth Bengals U9",
+      "home_away": "home",
+      "opponent": "Ruddington Village Black U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "1171054344e2b3a78f232e24ea735c7f",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Newark Town FC U12 Girls",
+      "away_team": "Blidworth Bengals F.C. U12",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Div 3 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Blidworth Bengals F.C. U12",
+      "home_away": "away",
+      "opponent": "Newark Town FC U12 Girls",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "caf8ab470862951c04daebd27ddd5004",
       "date": "2026-04-25",

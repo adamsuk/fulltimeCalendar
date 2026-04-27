@@ -1,7 +1,7 @@
 {
   "team": "Sherwood Colliery F.C. Ladies U15",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
     {
       "id": "53fe904066630492ea6c870488e52375",
@@ -15,28 +15,6 @@
       "opponent": "Allenton United FC U15 Ladies Bees"
     },
     {
-      "id": "8d30873b6b364e22c65784d2ddbfec5e",
-      "date": "2026-04-26",
-      "time": "10:50",
-      "home_team": "Sherwood Colliery F.C. Ladies U15",
-      "away_team": "Allenton United FC U15 Ladies Bees",
-      "venue": "Allenton United FC U15 Ladies Bees",
-      "division": "U15 Div 2",
-      "home_away": "home",
-      "opponent": "Allenton United FC U15 Ladies Bees"
-    },
-    {
-      "id": "00cb79d10d1085763ef5e87ae447a4cd",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Sandiacre Town Youth U15 Girls Sparkle",
-      "away_team": "Sherwood Colliery F.C. Ladies U15",
-      "venue": "SANDIACRE FRIESLAND SPORTS CENTRE",
-      "division": "U15 Div 2",
-      "home_away": "away",
-      "opponent": "Sandiacre Town Youth U15 Girls Sparkle"
-    },
-    {
       "id": "61d451721cc6126f743a9f075834e28e",
       "date": "2026-05-03",
       "time": "10:00",
@@ -45,6 +23,17 @@
       "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
       "division": "U15 Div 2",
       "home_away": "home",
+      "opponent": "Sandiacre Town Youth U15 Girls Sparkle"
+    },
+    {
+      "id": "00cb79d10d1085763ef5e87ae447a4cd",
+      "date": "2026-05-03",
+      "time": "10:30",
+      "home_team": "Sandiacre Town Youth U15 Girls Sparkle",
+      "away_team": "Sherwood Colliery F.C. Ladies U15",
+      "venue": "DRAYCOTT RECREATION GROUND",
+      "division": "U15 Div 2",
+      "home_away": "away",
       "opponent": "Sandiacre Town Youth U15 Girls Sparkle"
     },
     {
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8d30873b6b364e22c65784d2ddbfec5e",
+      "date": "2026-04-26",
+      "time": "10:50",
+      "home_team": "Sherwood Colliery F.C. Ladies U15",
+      "away_team": "Allenton United FC U15 Ladies Bees",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U15 Div 2",
+      "home_away": "home",
+      "opponent": "Allenton United FC U15 Ladies Bees",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "bbd8d7c2e59744da5279f654cd6b5645",
       "date": "2026-04-22",

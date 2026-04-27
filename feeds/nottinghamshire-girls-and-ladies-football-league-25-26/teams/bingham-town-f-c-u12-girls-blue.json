@@ -1,19 +1,8 @@
 {
   "team": "Bingham Town F.C. U12 Girls Blue",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "33b9ce84032fafe086e4ea977365b5fa",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Gedling Southbank FC U12 Hunters",
-      "away_team": "Bingham Town F.C. U12 Girls Blue",
-      "venue": "THE TREVOR CARTER PAVILION",
-      "division": "U12 Div 4 P2",
-      "home_away": "away",
-      "opponent": "Gedling Southbank FC U12 Hunters"
-    },
     {
       "id": "614b7cf6311a8321a6cfb928374d1fb6",
       "date": "2026-05-03",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "33b9ce84032fafe086e4ea977365b5fa",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Gedling Southbank FC U12 Hunters",
+      "away_team": "Bingham Town F.C. U12 Girls Blue",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 4 P2",
+      "home_away": "away",
+      "opponent": "Gedling Southbank FC U12 Hunters",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "75d689631ce49aa71936d14ce424727b",
       "date": "2026-04-19",

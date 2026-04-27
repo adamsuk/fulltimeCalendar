@@ -1,7 +1,7 @@
 {
   "team": "Hilton Harriers U15 Girls Sunday",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
     {
       "id": "3f81f8c266768f981ad56049f2cb76e7",
@@ -13,17 +13,6 @@
       "division": "U15 Div 2",
       "home_away": "away",
       "opponent": "Allenton United FC U15 Ladies Bees"
-    },
-    {
-      "id": "584b4b11e4d92730876104edb62f3e73",
-      "date": "2026-04-26",
-      "time": "13:00",
-      "home_team": "Hilton Harriers U15 Girls Sunday",
-      "away_team": "Willow Wanderers F.C. Youth U15 Amazons",
-      "venue": "RH ACADEMY",
-      "division": "U15 Div 2 League Cup",
-      "home_away": "home",
-      "opponent": "Willow Wanderers F.C. Youth U15 Amazons"
     },
     {
       "id": "6c326df27268e443abaf8cdd9bfddc04",
@@ -50,7 +39,7 @@
     {
       "id": "58cfa5e62c7b4f8d7ee75c85b6a5642a",
       "date": "2026-05-13",
-      "time": "10:00",
+      "time": "18:30",
       "home_team": "Sandiacre Town Youth U15 Girls Sparkle",
       "away_team": "Hilton Harriers U15 Girls Sunday",
       "venue": "DRAYCOTT RECREATION GROUND",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "584b4b11e4d92730876104edb62f3e73",
+      "date": "2026-04-26",
+      "time": "13:00",
+      "home_team": "Hilton Harriers U15 Girls Sunday",
+      "away_team": "Willow Wanderers F.C. Youth U15 Amazons",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U15 Div 2 League Cup",
+      "home_away": "home",
+      "opponent": "Willow Wanderers F.C. Youth U15 Amazons",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "68e3b7bf19b9bfbe48f382028311d075",
       "date": "2026-04-19",

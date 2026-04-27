@@ -1,19 +1,8 @@
 {
   "team": "Priory Celtic F.C. U14 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "4d1fb1f51edc53707395cef52e1bde53",
-      "date": "2026-04-26",
-      "time": "09:30",
-      "home_team": "Priory Celtic F.C. U14 Girls",
-      "away_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
-      "venue": "KIMBERLEY SCHOOL SPORTS CENTRE",
-      "division": "U14 Div 3",
-      "home_away": "home",
-      "opponent": "Arnold Eagles F.C. Girls U14 Hurricanes"
-    },
     {
       "id": "e176b50a3c2a9365c19a9945145456bd",
       "date": "2026-05-03",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "4d1fb1f51edc53707395cef52e1bde53",
+      "date": "2026-04-26",
+      "time": "09:30",
+      "home_team": "Priory Celtic F.C. U14 Girls",
+      "away_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
+      "home_score": 0,
+      "away_score": 8,
+      "venue": "",
+      "division": "U14 Div 3",
+      "home_away": "home",
+      "opponent": "Arnold Eagles F.C. Girls U14 Hurricanes",
+      "goals_for": 0,
+      "goals_against": 8
+    },
     {
       "id": "bcc764829f7cd0cc5e7d05b99ebb0e89",
       "date": "2026-04-22",

@@ -1,19 +1,8 @@
 {
   "team": "Gedling Southbank FC U12 Hunters",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "33b9ce84032fafe086e4ea977365b5fa",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Gedling Southbank FC U12 Hunters",
-      "away_team": "Bingham Town F.C. U12 Girls Blue",
-      "venue": "THE TREVOR CARTER PAVILION",
-      "division": "U12 Div 4 P2",
-      "home_away": "home",
-      "opponent": "Bingham Town F.C. U12 Girls Blue"
-    },
     {
       "id": "bc37d399fd5dd7a7236d839eb205fe2e",
       "date": "2026-05-03",
@@ -42,7 +31,7 @@
       "time": "10:00",
       "home_team": "Gedling Southbank FC U12 Hunters",
       "away_team": "Phoenix Inham F.C. U12 Sparkles",
-      "venue": "ARNOLD HILL SPENCER ACADEMY",
+      "venue": "THE TREVOR CARTER PAVILION",
       "division": "U12 Div 4 P2",
       "home_away": "home",
       "opponent": "Phoenix Inham F.C. U12 Sparkles"
@@ -53,13 +42,28 @@
       "time": "10:00",
       "home_team": "Gedling Southbank FC U12 Hunters",
       "away_team": "Lowdham Colts F.C. Youth U12 Girls",
-      "venue": "ARNOLD HILL SPENCER ACADEMY",
+      "venue": "THE TREVOR CARTER PAVILION",
       "division": "U12 Div 4 P2",
       "home_away": "home",
       "opponent": "Lowdham Colts F.C. Youth U12 Girls"
     }
   ],
   "results": [
+    {
+      "id": "33b9ce84032fafe086e4ea977365b5fa",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Gedling Southbank FC U12 Hunters",
+      "away_team": "Bingham Town F.C. U12 Girls Blue",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 4 P2",
+      "home_away": "home",
+      "opponent": "Bingham Town F.C. U12 Girls Blue",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "eac2ec9a5494110e08615ac5a379da91",
       "date": "2026-04-19",

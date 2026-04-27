@@ -1,33 +1,7 @@
 {
   "club": "Hasland",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "9b2876ca33460612944813c0e2e33d22",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Hasland Community U11 Girls",
-      "away_team": "Cotgrave FC U11 Girls",
-      "venue": "Hasland Community U11 Girls",
-      "division": "U11 Development",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Hasland Community U11 Girls",
-      "home_away": "home",
-      "opponent": "Cotgrave FC U11 Girls"
-    },
-    {
-      "id": "6ddd3e47e008c47cca322f275902bf8b",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Hasland Community U14 Girls Sunday",
-      "away_team": "Gedling Southbank FC U14 Reds",
-      "venue": "Hasland Community U14 Girls Sunday",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Hasland Community U14 Girls Sunday",
-      "home_away": "home",
-      "opponent": "Gedling Southbank FC U14 Reds"
-    },
     {
       "id": "e176b50a3c2a9365c19a9945145456bd",
       "date": "2026-05-03",
@@ -95,6 +69,40 @@
     }
   ],
   "results": [
+    {
+      "id": "9b2876ca33460612944813c0e2e33d22",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Hasland Community U11 Girls",
+      "away_team": "Cotgrave FC U11 Girls",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Development",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hasland Community U11 Girls",
+      "home_away": "home",
+      "opponent": "Cotgrave FC U11 Girls",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "6ddd3e47e008c47cca322f275902bf8b",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Hasland Community U14 Girls Sunday",
+      "away_team": "Gedling Southbank FC U14 Reds",
+      "home_score": 9,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hasland Community U14 Girls Sunday",
+      "home_away": "home",
+      "opponent": "Gedling Southbank FC U14 Reds",
+      "goals_for": 9,
+      "goals_against": 1
+    },
     {
       "id": "0c4c6abaeef056ef96f5f9001ef1c8a5",
       "date": "2026-04-19",

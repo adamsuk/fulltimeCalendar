@@ -1,21 +1,36 @@
 {
   "team": "Bagthorpe Athletic U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
+    {
+      "id": "b347cd3c727f27557183c1595b7519af",
+      "date": "2026-04-29",
+      "time": "18:30",
+      "home_team": "Alfreton Town Lions U9",
+      "away_team": "Bagthorpe Athletic U9",
+      "venue": "David Nieper Academy DE55 7JA",
+      "division": "U9 Sun Spring Div 4 Red",
+      "home_away": "away",
+      "opponent": "Alfreton Town Lions U9"
+    }
+  ],
+  "results": [
     {
       "id": "13f5c59146a05081e978aaac23dce552",
       "date": "2026-04-26",
       "time": "10:00",
       "home_team": "Bagthorpe Athletic U9",
       "away_team": "Beaufort United White U9",
-      "venue": "Dixies Arms Park NG16 5HF",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
       "division": "U9 Sun Spring Div 4 Red",
       "home_away": "home",
-      "opponent": "Beaufort United White U9"
-    }
-  ],
-  "results": [
+      "opponent": "Beaufort United White U9",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "000a1b43a92918972b4d50ff823edb8e",
       "date": "2026-04-19",

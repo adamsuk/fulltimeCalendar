@@ -1,20 +1,7 @@
 {
   "club": "Bilborough",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "c677c91c172d529d6d1f10a7098572b0",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Bilborough TRD FC U12",
-      "away_team": "West Hallam Knights U12",
-      "venue": "Harvey Hadden NG8 4PB",
-      "division": "U12 Sun Spring Div 6 Gold",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Bilborough TRD FC U12",
-      "home_away": "home",
-      "opponent": "West Hallam Knights U12"
-    },
     {
       "id": "f5df0a098f5e354a90ba5c13f893ab6f",
       "date": "2026-05-02",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "c677c91c172d529d6d1f10a7098572b0",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "Bilborough TRD FC U12",
+      "away_team": "West Hallam Knights U12",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sun Spring Div 6 Gold",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Bilborough TRD FC U12",
+      "home_away": "home",
+      "opponent": "West Hallam Knights U12",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "d37cf77dea6aca132d19f789a3395376",
       "date": "2026-04-19",

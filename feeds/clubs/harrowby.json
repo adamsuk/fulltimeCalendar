@@ -1,6 +1,6 @@
 {
   "club": "Harrowby",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
     {
       "id": "9f4caf9fc4a9fc217a70e59ef0097a6a",
@@ -14,19 +14,6 @@
       "team": "Harrowby United Reserves",
       "home_away": "home",
       "opponent": "Awsworth Villa Reserves"
-    },
-    {
-      "id": "3118f3da533c5baaf0515b0cb0f0cfd7",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Mansfield Town Grassroots Blue U11",
-      "away_team": "Harrowby United U11",
-      "venue": "One Call Stadium NG18 5DA",
-      "division": "U11 Sun Spring Div 1",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Harrowby United U11",
-      "home_away": "away",
-      "opponent": "Mansfield Town Grassroots Blue U11"
     },
     {
       "id": "af2c7278668a2ddc7bacc79fdd14f7ca",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "3118f3da533c5baaf0515b0cb0f0cfd7",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "Mansfield Town Grassroots Blue U11",
+      "away_team": "Harrowby United U11",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U11 Sun Spring Div 1",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Harrowby United U11",
+      "home_away": "away",
+      "opponent": "Mansfield Town Grassroots Blue U11",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "f55f0fe14683b9f1b1d152ba43f73762",
       "date": "2026-04-25",

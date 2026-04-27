@@ -1,6 +1,6 @@
 {
   "club": "Phoenix Inham FC",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
     {
       "id": "4aeb9b46959fec64d6b8987e877b88e3",
@@ -14,45 +14,6 @@
       "team": "Phoenix Inham F.C. U12 Sparkles",
       "home_away": "home",
       "opponent": "Clipstone Welfare Colts F.C. Youth U12"
-    },
-    {
-      "id": "1fe3504fa29520bdc1da710f232d886f",
-      "date": "2026-04-26",
-      "time": "09:45",
-      "home_team": "Phoenix Inham F.C. U12 Sparkles",
-      "away_team": "Muskham Cougars F.C. Youth U12",
-      "venue": "INHAM NOOK RECREATION GROUND",
-      "division": "U12 Div 4 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Phoenix Inham F.C. U12 Sparkles",
-      "home_away": "home",
-      "opponent": "Muskham Cougars F.C. Youth U12"
-    },
-    {
-      "id": "fa4e33179ba5d6cf825cd19a6d9d774e",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Phoenix Inham F.C. U13 Starfire",
-      "away_team": "Radcliffe Olympic FC U13 Ravens",
-      "venue": "INHAM NOOK RECREATION GROUND",
-      "division": "U13 Div 1 11 v 11",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Phoenix Inham F.C. U13 Starfire",
-      "home_away": "home",
-      "opponent": "Radcliffe Olympic FC U13 Ravens"
-    },
-    {
-      "id": "5d591aa731d4e2855acd601e35dad679",
-      "date": "2026-04-26",
-      "time": "11:45",
-      "home_team": "Cotgrave FC U14 White",
-      "away_team": "Phoenix Inham FC U14 Fireflies",
-      "venue": "COTGRAVE WELFARE CLUB",
-      "division": "U14 Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Phoenix Inham FC U14 Fireflies",
-      "home_away": "away",
-      "opponent": "Cotgrave FC U14 White"
     },
     {
       "id": "c03e2b8a4f4558f3b1a9fb04ee55308f",
@@ -151,7 +112,7 @@
       "time": "10:00",
       "home_team": "Gedling Southbank FC U12 Hunters",
       "away_team": "Phoenix Inham F.C. U12 Sparkles",
-      "venue": "ARNOLD HILL SPENCER ACADEMY",
+      "venue": "THE TREVOR CARTER PAVILION",
       "division": "U12 Div 4 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Phoenix Inham F.C. U12 Sparkles",
@@ -173,6 +134,57 @@
     }
   ],
   "results": [
+    {
+      "id": "5d591aa731d4e2855acd601e35dad679",
+      "date": "2026-04-26",
+      "time": "11:45",
+      "home_team": "Cotgrave FC U14 White",
+      "away_team": "Phoenix Inham FC U14 Fireflies",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Div 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Phoenix Inham FC U14 Fireflies",
+      "home_away": "away",
+      "opponent": "Cotgrave FC U14 White",
+      "goals_for": 1,
+      "goals_against": 0
+    },
+    {
+      "id": "fa4e33179ba5d6cf825cd19a6d9d774e",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Phoenix Inham F.C. U13 Starfire",
+      "away_team": "Radcliffe Olympic FC U13 Ravens",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Div 1 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Phoenix Inham F.C. U13 Starfire",
+      "home_away": "home",
+      "opponent": "Radcliffe Olympic FC U13 Ravens",
+      "goals_for": 0,
+      "goals_against": 0
+    },
+    {
+      "id": "1fe3504fa29520bdc1da710f232d886f",
+      "date": "2026-04-26",
+      "time": "09:45",
+      "home_team": "Phoenix Inham F.C. U12 Sparkles",
+      "away_team": "Muskham Cougars F.C. Youth U12",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Div 4 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Phoenix Inham F.C. U12 Sparkles",
+      "home_away": "home",
+      "opponent": "Muskham Cougars F.C. Youth U12",
+      "goals_for": 5,
+      "goals_against": 0
+    },
     {
       "id": "c3641e039cbee79bb2e62ec5a8fedd2f",
       "date": "2026-04-19",

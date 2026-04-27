@@ -1,6 +1,6 @@
 {
   "club": "Pegasus",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
     {
       "id": "fc8098c162e51af805d9f0ad00a5c2dd",
@@ -14,32 +14,6 @@
       "team": "Pegasus FC",
       "home_away": "home",
       "opponent": "Newark Town FC U23's"
-    },
-    {
-      "id": "f9fb75850d2fccdcdd9a4d84f3e7407a",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Pegasus FC U9",
-      "away_team": "East Leake Bantams Red U9",
-      "venue": "Pasture Road Recreation Ground NG9 8GN",
-      "division": "U9 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Pegasus FC U9",
-      "home_away": "home",
-      "opponent": "East Leake Bantams Red U9"
-    },
-    {
-      "id": "29f9d0c2147348551a3dc79f72d872d2",
-      "date": "2026-04-26",
-      "time": "12:30",
-      "home_team": "DLFC SFK U13",
-      "away_team": "Pegasus FC U13",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U13 Sun Spring Div 5 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Pegasus FC U13",
-      "home_away": "away",
-      "opponent": "DLFC SFK U13"
     },
     {
       "id": "e3eaf51a545804e1ddcdec6666f8c3d1",
@@ -56,6 +30,40 @@
     }
   ],
   "results": [
+    {
+      "id": "29f9d0c2147348551a3dc79f72d872d2",
+      "date": "2026-04-26",
+      "time": "12:30",
+      "home_team": "DLFC SFK U13",
+      "away_team": "Pegasus FC U13",
+      "home_score": 8,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Sun Spring Div 5 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Pegasus FC U13",
+      "home_away": "away",
+      "opponent": "DLFC SFK U13",
+      "goals_for": 4,
+      "goals_against": 8
+    },
+    {
+      "id": "f9fb75850d2fccdcdd9a4d84f3e7407a",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Pegasus FC U9",
+      "away_team": "East Leake Bantams Red U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Pegasus FC U9",
+      "home_away": "home",
+      "opponent": "East Leake Bantams Red U9",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "dce847cb6b339a76b48ae5e3ea43b1ed",
       "date": "2026-04-25",

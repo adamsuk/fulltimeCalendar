@@ -1,35 +1,42 @@
 {
   "club": "Asfordby",
-  "generated": "2026-04-26T07:16:00Z",
-  "fixtures": [
-    {
-      "id": "0cbce120900edb075794bbbe1f29fad4",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Keyworth United F.C. U13 Rockets",
-      "away_team": "Asfordby Amateurs LG&I U13 Diamonds",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "U13 Div 2 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Asfordby Amateurs LG&I U13 Diamonds",
-      "home_away": "away",
-      "opponent": "Keyworth United F.C. U13 Rockets"
-    },
+  "generated": "2026-04-27T08:03:43Z",
+  "fixtures": [],
+  "results": [
     {
       "id": "ca017352c86b699717945b7e92bc8537",
       "date": "2026-04-26",
       "time": "11:00",
       "home_team": "Phoenix Inham Flames U13",
       "away_team": "Asfordby Panthers U13",
-      "venue": "Inham Nook Recreation Ground NG9 4GQ",
+      "home_score": 0,
+      "away_score": 6,
+      "venue": "",
       "division": "U13 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Asfordby Panthers U13",
       "home_away": "away",
-      "opponent": "Phoenix Inham Flames U13"
-    }
-  ],
-  "results": [
+      "opponent": "Phoenix Inham Flames U13",
+      "goals_for": 6,
+      "goals_against": 0
+    },
+    {
+      "id": "0cbce120900edb075794bbbe1f29fad4",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Keyworth United F.C. U13 Rockets",
+      "away_team": "Asfordby Amateurs LG&I U13 Diamonds",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Div 2 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Asfordby Amateurs LG&I U13 Diamonds",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U13 Rockets",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "a14e6c2bf155279a09376a6a3fa253ce",
       "date": "2026-04-19",

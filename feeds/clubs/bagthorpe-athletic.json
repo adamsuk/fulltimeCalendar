@@ -1,6 +1,6 @@
 {
   "club": "Bagthorpe Athletic",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
     {
       "id": "3191b5a68a4d9890931473960f03c563",
@@ -16,45 +16,6 @@
       "opponent": "Bingham Town F.C. U14 Girls Red"
     },
     {
-      "id": "67815c80d9988f2d471c025298971436",
-      "date": "2026-04-26",
-      "time": "09:30",
-      "home_team": "Bagthorpe Athletic F.C. Youth U14 girls",
-      "away_team": "Hucknall & Linby Harriers FC U14",
-      "venue": "RH ACADEMY",
-      "division": "U14 Div 2 League Cup",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Bagthorpe Athletic F.C. Youth U14 girls",
-      "home_away": "home",
-      "opponent": "Hucknall & Linby Harriers FC U14"
-    },
-    {
-      "id": "13f5c59146a05081e978aaac23dce552",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Bagthorpe Athletic U9",
-      "away_team": "Beaufort United White U9",
-      "venue": "Dixies Arms Park NG16 5HF",
-      "division": "U9 Sun Spring Div 4 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Bagthorpe Athletic U9",
-      "home_away": "home",
-      "opponent": "Beaufort United White U9"
-    },
-    {
-      "id": "fe32b2f7b986473280fb0538acaf6832",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Bagthorpe Athletic U13",
-      "away_team": "Shirebrook Rangers Blue U13",
-      "venue": "Dixies Arms Park NG16 5HF",
-      "division": "U13 Sun Spring Div 4 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Bagthorpe Athletic U13",
-      "home_away": "home",
-      "opponent": "Shirebrook Rangers Blue U13"
-    },
-    {
       "id": "26b1a51710ae8d0a217e4718e420dfa2",
       "date": "2026-04-28",
       "time": "18:00",
@@ -66,6 +27,19 @@
       "team": "Bagthorpe Athletic U14",
       "home_away": "home",
       "opponent": "Arnold Town Yellow U14"
+    },
+    {
+      "id": "b347cd3c727f27557183c1595b7519af",
+      "date": "2026-04-29",
+      "time": "18:30",
+      "home_team": "Alfreton Town Lions U9",
+      "away_team": "Bagthorpe Athletic U9",
+      "venue": "David Nieper Academy DE55 7JA",
+      "division": "U9 Sun Spring Div 4 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Bagthorpe Athletic U9",
+      "home_away": "away",
+      "opponent": "Alfreton Town Lions U9"
     },
     {
       "id": "969af33c5953ee286ec4f98460389df7",
@@ -121,6 +95,57 @@
     }
   ],
   "results": [
+    {
+      "id": "fe32b2f7b986473280fb0538acaf6832",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "Bagthorpe Athletic U13",
+      "away_team": "Shirebrook Rangers Blue U13",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "",
+      "division": "U13 Sun Spring Div 4 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Bagthorpe Athletic U13",
+      "home_away": "home",
+      "opponent": "Shirebrook Rangers Blue U13",
+      "goals_for": 1,
+      "goals_against": 6
+    },
+    {
+      "id": "13f5c59146a05081e978aaac23dce552",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Bagthorpe Athletic U9",
+      "away_team": "Beaufort United White U9",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sun Spring Div 4 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Bagthorpe Athletic U9",
+      "home_away": "home",
+      "opponent": "Beaufort United White U9",
+      "goals_for": 3,
+      "goals_against": 2
+    },
+    {
+      "id": "67815c80d9988f2d471c025298971436",
+      "date": "2026-04-26",
+      "time": "09:30",
+      "home_team": "Bagthorpe Athletic F.C. Youth U14 girls",
+      "away_team": "Hucknall & Linby Harriers FC U14",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Div 2 League Cup",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Bagthorpe Athletic F.C. Youth U14 girls",
+      "home_away": "home",
+      "opponent": "Hucknall & Linby Harriers FC U14",
+      "goals_for": 5,
+      "goals_against": 0
+    },
     {
       "id": "1c04d535f9b21024286a93748ec3aa19",
       "date": "2026-04-25",

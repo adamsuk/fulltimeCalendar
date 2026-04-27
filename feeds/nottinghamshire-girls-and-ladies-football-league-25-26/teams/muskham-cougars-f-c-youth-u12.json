@@ -1,19 +1,8 @@
 {
   "team": "Muskham Cougars F.C. Youth U12",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "1fe3504fa29520bdc1da710f232d886f",
-      "date": "2026-04-26",
-      "time": "09:45",
-      "home_team": "Phoenix Inham F.C. U12 Sparkles",
-      "away_team": "Muskham Cougars F.C. Youth U12",
-      "venue": "INHAM NOOK RECREATION GROUND",
-      "division": "U12 Div 4 P2",
-      "home_away": "away",
-      "opponent": "Phoenix Inham F.C. U12 Sparkles"
-    },
     {
       "id": "ddf2630c06f1609215b375a43c074597",
       "date": "2026-05-03",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "1fe3504fa29520bdc1da710f232d886f",
+      "date": "2026-04-26",
+      "time": "09:45",
+      "home_team": "Phoenix Inham F.C. U12 Sparkles",
+      "away_team": "Muskham Cougars F.C. Youth U12",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Div 4 P2",
+      "home_away": "away",
+      "opponent": "Phoenix Inham F.C. U12 Sparkles",
+      "goals_for": 0,
+      "goals_against": 5
+    },
     {
       "id": "5cf21505f6dac47ce52a9b29350948c9",
       "date": "2026-04-19",

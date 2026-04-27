@@ -1,6 +1,6 @@
 {
   "club": "Calverton Miners Welfare",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
     {
       "id": "aeff0b7aaa3e07f584218c506c17dfdd",
@@ -27,19 +27,6 @@
       "team": "Calverton Miners Welfare FC",
       "home_away": "home",
       "opponent": "Keyworth United FC First"
-    },
-    {
-      "id": "6f872eddb7f11f38049bff6a5bd56216",
-      "date": "2026-04-26",
-      "time": "09:00",
-      "home_team": "West Bridgford Colts U13 Lions",
-      "away_team": "Calverton Miners Welfare FC U13",
-      "venue": "GRESHAM SPORTS PARK",
-      "division": "U13 Div 1 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Calverton Miners Welfare FC U13",
-      "home_away": "away",
-      "opponent": "West Bridgford Colts U13 Lions"
     },
     {
       "id": "50017d644f1c9e82ea63fa86a1d9232c",
@@ -147,6 +134,23 @@
     }
   ],
   "results": [
+    {
+      "id": "6f872eddb7f11f38049bff6a5bd56216",
+      "date": "2026-04-26",
+      "time": "09:00",
+      "home_team": "West Bridgford Colts U13 Lions",
+      "away_team": "Calverton Miners Welfare FC U13",
+      "home_score": 10,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Div 1 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Calverton Miners Welfare FC U13",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U13 Lions",
+      "goals_for": 3,
+      "goals_against": 10
+    },
     {
       "id": "f47ec04fb024eed8bb19b5bc77708eb9",
       "date": "2026-04-25",

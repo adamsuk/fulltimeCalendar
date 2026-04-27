@@ -1,20 +1,7 @@
 {
   "club": "Robin Hood",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "59b29e55b60a7464c7f5f61566aee364",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Robin Hood Colts Red U13",
-      "away_team": "Sports Gateway Phoenix U13",
-      "venue": "Sherwood Fields, Edwinstowe NG21 9PW",
-      "division": "U13 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Robin Hood Colts Red U13",
-      "home_away": "home",
-      "opponent": "Sports Gateway Phoenix U13"
-    },
     {
       "id": "9da44c726799106062c73def1ee53b45",
       "date": "2026-05-02",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "59b29e55b60a7464c7f5f61566aee364",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "Robin Hood Colts Red U13",
+      "away_team": "Sports Gateway Phoenix U13",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Robin Hood Colts Red U13",
+      "home_away": "home",
+      "opponent": "Sports Gateway Phoenix U13",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "caf0c0da9313cc747211fb58eb67f194",
       "date": "2026-04-25",

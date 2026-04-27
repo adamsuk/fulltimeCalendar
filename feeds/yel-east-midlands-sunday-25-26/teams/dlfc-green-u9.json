@@ -1,19 +1,8 @@
 {
   "team": "DLFC Green U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "941720964a53145b5992a279a4124d98",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Calverton MW White U9",
-      "away_team": "DLFC Green U9",
-      "venue": "Kinton Park NG14 6NR",
-      "division": "U9 Sun Spring Div 2 Red",
-      "home_away": "away",
-      "opponent": "Calverton MW White U9"
-    },
     {
       "id": "ee191e2d7a817fa5ad7587923051fd27",
       "date": "2026-05-10",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "941720964a53145b5992a279a4124d98",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Calverton MW White U9",
+      "away_team": "DLFC Green U9",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U9 Sun Spring Div 2 Red",
+      "home_away": "away",
+      "opponent": "Calverton MW White U9",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "5e8c3cdc50278d978ad41fa412592b0c",
       "date": "2026-04-19",

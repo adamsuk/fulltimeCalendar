@@ -1,19 +1,8 @@
 {
   "team": "Blidworth Bengals F.C. U12",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "1171054344e2b3a78f232e24ea735c7f",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Newark Town FC U12 Girls",
-      "away_team": "Blidworth Bengals F.C. U12",
-      "venue": "DEVON PARK",
-      "division": "U12 Div 3 P2",
-      "home_away": "away",
-      "opponent": "Newark Town FC U12 Girls"
-    },
     {
       "id": "ff20256d602ef98a54644a282e0525a5",
       "date": "2026-05-06",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "1171054344e2b3a78f232e24ea735c7f",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Newark Town FC U12 Girls",
+      "away_team": "Blidworth Bengals F.C. U12",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Div 3 P2",
+      "home_away": "away",
+      "opponent": "Newark Town FC U12 Girls",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "c8d55669cbcb8b7ff95f30b0b382dd37",
       "date": "2026-04-19",

@@ -1,19 +1,8 @@
 {
   "team": "ATFA Brinsley FC U12",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "3edfa2f9ad68de9b99118f5741ad9b5f",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Bingham Town F.C. U12 Girls Red",
-      "away_team": "ATFA Brinsley FC U12",
-      "venue": "BUTT FIELD SPORTS CLUB",
-      "division": "U12 Div 3 P2",
-      "home_away": "away",
-      "opponent": "Bingham Town F.C. U12 Girls Red"
-    },
     {
       "id": "2f355ea684cc7b310885f0574f47fa89",
       "date": "2026-05-03",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "3edfa2f9ad68de9b99118f5741ad9b5f",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Bingham Town F.C. U12 Girls Red",
+      "away_team": "ATFA Brinsley FC U12",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Div 3 P2",
+      "home_away": "away",
+      "opponent": "Bingham Town F.C. U12 Girls Red",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "de07d1793070faa83f6912c5c6b1c9e2",
       "date": "2026-04-23",

@@ -1,6 +1,6 @@
 {
   "club": "Rainworth",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
     {
       "id": "5540c54e92423eda4d2ebc4dd9090bae",
@@ -14,6 +14,25 @@
       "team": "Rainworth Juniors U10",
       "home_away": "away",
       "opponent": "Silva FC Carlton U10"
+    }
+  ],
+  "results": [
+    {
+      "id": "7057242e39f05a15900212024041818b",
+      "date": "2026-04-26",
+      "time": "11:30",
+      "home_team": "Attenborough Colts U13",
+      "away_team": "Rainworth Juniors U13",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Rainworth Juniors U13",
+      "home_away": "away",
+      "opponent": "Attenborough Colts U13",
+      "goals_for": 2,
+      "goals_against": 2
     },
     {
       "id": "5c118394697bd66949221a0b543eb0e9",
@@ -21,28 +40,17 @@
       "time": "10:00",
       "home_team": "ATFA Brinsley Warriors U14",
       "away_team": "Rainworth MW U14",
-      "venue": "Brinsley Park NG16 5AY",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "",
       "division": "U14 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Rainworth MW U14",
       "home_away": "away",
-      "opponent": "ATFA Brinsley Warriors U14"
+      "opponent": "ATFA Brinsley Warriors U14",
+      "goals_for": 6,
+      "goals_against": 1
     },
-    {
-      "id": "7057242e39f05a15900212024041818b",
-      "date": "2026-04-26",
-      "time": "11:30",
-      "home_team": "Attenborough Colts U13",
-      "away_team": "Rainworth Juniors U13",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U13 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Rainworth Juniors U13",
-      "home_away": "away",
-      "opponent": "Attenborough Colts U13"
-    }
-  ],
-  "results": [
     {
       "id": "b0d617c4bb5f9ac5a7f011016dfbe03a",
       "date": "2026-04-19",

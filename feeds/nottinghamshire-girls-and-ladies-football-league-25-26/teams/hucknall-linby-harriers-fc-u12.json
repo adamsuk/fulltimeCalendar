@@ -1,19 +1,8 @@
 {
   "team": "Hucknall & Linby Harriers FC U12",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "3917018f15209ae3fd842eac48ea9447",
-      "date": "2026-04-26",
-      "time": "09:30",
-      "home_team": "Long Eaton United U12 Girls",
-      "away_team": "Hucknall & Linby Harriers FC U12",
-      "venue": "GRANGE PARK",
-      "division": "U12 Div 1 P2",
-      "home_away": "away",
-      "opponent": "Long Eaton United U12 Girls"
-    },
     {
       "id": "37856c0102374038717ed1f3351115b7",
       "date": "2026-05-10",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "3917018f15209ae3fd842eac48ea9447",
+      "date": "2026-04-26",
+      "time": "09:30",
+      "home_team": "Long Eaton United U12 Girls",
+      "away_team": "Hucknall & Linby Harriers FC U12",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Div 1 P2",
+      "home_away": "away",
+      "opponent": "Long Eaton United U12 Girls",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "6ed4e89ea2b8b9efaf28c332793a5744",
       "date": "2026-04-19",

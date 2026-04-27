@@ -1,30 +1,8 @@
 {
   "team": "Hucknall & Linby Harriers FC U15",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "2fedcb0c6502bac945d3cc4ae709ba9b",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Hucknall & Linby Harriers FC U15",
-      "away_team": "Burton Joyce F.C. Girls U15 Green",
-      "venue": "HOLGATE ACADEMY",
-      "division": "U15 Div 3",
-      "home_away": "home",
-      "opponent": "Burton Joyce F.C. Girls U15 Green"
-    },
-    {
-      "id": "f28477716d9d5426da3aff3bf6382233",
-      "date": "2026-04-26",
-      "time": "10:50",
-      "home_team": "Burton Joyce F.C. Girls U15 Green",
-      "away_team": "Hucknall & Linby Harriers FC U15",
-      "venue": "HOLGATE ACADEMY",
-      "division": "U15 Div 3",
-      "home_away": "away",
-      "opponent": "Burton Joyce F.C. Girls U15 Green"
-    },
     {
       "id": "01a3c5bfc59ed351ab59ce2b0df3a619",
       "date": "2026-05-17",
@@ -49,6 +27,36 @@
     }
   ],
   "results": [
+    {
+      "id": "f28477716d9d5426da3aff3bf6382233",
+      "date": "2026-04-26",
+      "time": "10:50",
+      "home_team": "Burton Joyce F.C. Girls U15 Green",
+      "away_team": "Hucknall & Linby Harriers FC U15",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U15 Div 3",
+      "home_away": "away",
+      "opponent": "Burton Joyce F.C. Girls U15 Green",
+      "goals_for": 1,
+      "goals_against": 0
+    },
+    {
+      "id": "2fedcb0c6502bac945d3cc4ae709ba9b",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Hucknall & Linby Harriers FC U15",
+      "away_team": "Burton Joyce F.C. Girls U15 Green",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U15 Div 3",
+      "home_away": "home",
+      "opponent": "Burton Joyce F.C. Girls U15 Green",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "e8814218a132500be3e45f80c4dc48d4",
       "date": "2026-04-12",

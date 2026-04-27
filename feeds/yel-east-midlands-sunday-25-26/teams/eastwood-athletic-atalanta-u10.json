@@ -1,19 +1,8 @@
 {
   "team": "Eastwood Athletic Atalanta U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "e3bf58ee16f6a8d0657775a96b9bad96",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Eastwood Athletic Atalanta U10",
-      "away_team": "Toton Tornados Cyclones U10",
-      "venue": "Hall Park NG16 3AR",
-      "division": "U10 Sun Spring Div 5 Red",
-      "home_away": "home",
-      "opponent": "Toton Tornados Cyclones U10"
-    },
     {
       "id": "8f56ad48cdeaa28c20be68f541ca71bc",
       "date": "2026-05-10",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e3bf58ee16f6a8d0657775a96b9bad96",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Eastwood Athletic Atalanta U10",
+      "away_team": "Toton Tornados Cyclones U10",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sun Spring Div 5 Red",
+      "home_away": "home",
+      "opponent": "Toton Tornados Cyclones U10",
+      "goals_for": 5,
+      "goals_against": 3
+    },
     {
       "id": "78da2d03ee36efb9a28f3dd8ef518e81",
       "date": "2026-04-19",

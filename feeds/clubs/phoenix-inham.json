@@ -1,20 +1,7 @@
 {
   "club": "Phoenix Inham",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "fd005d5c04938502a6a69a195d206b3f",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Phoenix Inham Rising U8",
-      "away_team": "Coalville Town Ravens U8",
-      "venue": "Inham Nook Recreation Ground NG9 4GQ",
-      "division": "U8 Sun Spring 3 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Phoenix Inham Rising U8",
-      "home_away": "home",
-      "opponent": "Coalville Town Ravens U8"
-    },
     {
       "id": "910f0d0a5b009c3f2a0ca1f47efff3b9",
       "date": "2026-04-26",
@@ -27,19 +14,6 @@
       "team": "Phoenix Inham Blaze U14",
       "home_away": "home",
       "opponent": "Bottesford Yellow U14"
-    },
-    {
-      "id": "ca017352c86b699717945b7e92bc8537",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Phoenix Inham Flames U13",
-      "away_team": "Asfordby Panthers U13",
-      "venue": "Inham Nook Recreation Ground NG9 4GQ",
-      "division": "U13 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Phoenix Inham Flames U13",
-      "home_away": "home",
-      "opponent": "Asfordby Panthers U13"
     },
     {
       "id": "86b41233bb27b7386b812866b3c42a20",
@@ -69,6 +43,40 @@
     }
   ],
   "results": [
+    {
+      "id": "ca017352c86b699717945b7e92bc8537",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "Phoenix Inham Flames U13",
+      "away_team": "Asfordby Panthers U13",
+      "home_score": 0,
+      "away_score": 6,
+      "venue": "",
+      "division": "U13 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Phoenix Inham Flames U13",
+      "home_away": "home",
+      "opponent": "Asfordby Panthers U13",
+      "goals_for": 0,
+      "goals_against": 6
+    },
+    {
+      "id": "fd005d5c04938502a6a69a195d206b3f",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Phoenix Inham Rising U8",
+      "away_team": "Coalville Town Ravens U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sun Spring 3 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Phoenix Inham Rising U8",
+      "home_away": "home",
+      "opponent": "Coalville Town Ravens U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "b951c8b5cd8f2303d8f9e74d37e3a9a2",
       "date": "2026-04-25",

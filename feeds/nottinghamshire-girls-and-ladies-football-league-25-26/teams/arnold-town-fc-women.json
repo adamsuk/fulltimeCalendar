@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town FC Women",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "4985e721e9bb07dca33ebb6300c6b1c4",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Arnold Town FC Women",
-      "away_team": "Gedling Southbank FC Ladies",
-      "venue": "EAGLE VALLEY",
-      "division": "Seniors Div 2",
-      "home_away": "home",
-      "opponent": "Gedling Southbank FC Ladies"
-    },
     {
       "id": "d85b4c8669efd2721fa4dda00975fc91",
       "date": "2026-05-03",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "4985e721e9bb07dca33ebb6300c6b1c4",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Arnold Town FC Women",
+      "away_team": "Gedling Southbank FC Ladies",
+      "home_score": 0,
+      "away_score": 8,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "home_away": "home",
+      "opponent": "Gedling Southbank FC Ladies",
+      "goals_for": 0,
+      "goals_against": 8
+    },
     {
       "id": "68a3383d06f1dc48152fa3b4f7b5df38",
       "date": "2026-04-19",

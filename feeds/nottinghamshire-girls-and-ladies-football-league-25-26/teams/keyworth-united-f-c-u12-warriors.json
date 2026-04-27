@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United F.C. U12 Warriors",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "3854cea6f0115b595660092943747f4e",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Keyworth United F.C. U12 Warriors",
-      "away_team": "Arnold Eagles F.C. Girls U12 FC",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "U12 Div 1 P2",
-      "home_away": "home",
-      "opponent": "Arnold Eagles F.C. Girls U12 FC"
-    },
     {
       "id": "2250f211b95872903ad9bda42c24de0d",
       "date": "2026-05-03",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "3854cea6f0115b595660092943747f4e",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Keyworth United F.C. U12 Warriors",
+      "away_team": "Arnold Eagles F.C. Girls U12 FC",
+      "home_score": 10,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 1 P2",
+      "home_away": "home",
+      "opponent": "Arnold Eagles F.C. Girls U12 FC",
+      "goals_for": 10,
+      "goals_against": 1
+    },
     {
       "id": "c83cb856b21d5821e6b1e3b053d7f68d",
       "date": "2026-03-22",

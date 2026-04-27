@@ -1,6 +1,6 @@
 {
   "club": "Spirit Celtic",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
     {
       "id": "7d6ca736f1333eb3d305dbf932b6839c",
@@ -14,45 +14,6 @@
       "team": "Spirit Celtic White U14",
       "home_away": "away",
       "opponent": "Long Bennington U14"
-    },
-    {
-      "id": "6ce595659f36c99843fd3a771bd1d0f2",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Spirit Celtic Jets U12",
-      "away_team": "Heanor Town Tigers U12",
-      "venue": "Becket School NG2 7QY",
-      "division": "U12 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Spirit Celtic Jets U12",
-      "home_away": "home",
-      "opponent": "Heanor Town Tigers U12"
-    },
-    {
-      "id": "9fcadef0e4dcbb9a9e124f5bb7dadbd1",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Spirit Celtic Tigers U12",
-      "away_team": "Castle Donington Tigers U12",
-      "venue": "Becket School NG2 7QY",
-      "division": "U12 Sun Spring Div 5",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Spirit Celtic Tigers U12",
-      "home_away": "home",
-      "opponent": "Castle Donington Tigers U12"
-    },
-    {
-      "id": "4333b8564f909f9fee7c07d90ebcbf68",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "East Leake Bantams Orange U11",
-      "away_team": "Spirit Celtic White U11",
-      "venue": "Costock Road LE12 6LY",
-      "division": "U11 Sun Spring Div 5 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Spirit Celtic White U11",
-      "home_away": "away",
-      "opponent": "East Leake Bantams Orange U11"
     },
     {
       "id": "10d92740ddcfe33ea5e4599b72cf6321",
@@ -82,6 +43,57 @@
     }
   ],
   "results": [
+    {
+      "id": "4333b8564f909f9fee7c07d90ebcbf68",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "East Leake Bantams Orange U11",
+      "away_team": "Spirit Celtic White U11",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U11 Sun Spring Div 5 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Spirit Celtic White U11",
+      "home_away": "away",
+      "opponent": "East Leake Bantams Orange U11",
+      "goals_for": 5,
+      "goals_against": 0
+    },
+    {
+      "id": "6ce595659f36c99843fd3a771bd1d0f2",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Spirit Celtic Jets U12",
+      "away_team": "Heanor Town Tigers U12",
+      "home_score": 0,
+      "away_score": 8,
+      "venue": "",
+      "division": "U12 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Spirit Celtic Jets U12",
+      "home_away": "home",
+      "opponent": "Heanor Town Tigers U12",
+      "goals_for": 0,
+      "goals_against": 8
+    },
+    {
+      "id": "9fcadef0e4dcbb9a9e124f5bb7dadbd1",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Spirit Celtic Tigers U12",
+      "away_team": "Castle Donington Tigers U12",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sun Spring Div 5",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Spirit Celtic Tigers U12",
+      "home_away": "home",
+      "opponent": "Castle Donington Tigers U12",
+      "goals_for": 0,
+      "goals_against": 0
+    },
     {
       "id": "0ac6da11b48bed988cecadee24f28780",
       "date": "2026-04-25",

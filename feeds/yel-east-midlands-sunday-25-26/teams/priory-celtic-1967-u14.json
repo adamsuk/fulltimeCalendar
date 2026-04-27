@@ -1,19 +1,8 @@
 {
   "team": "Priory Celtic 1967 U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "d953c326265ec54b7438bc53890ad8cd",
-      "date": "2026-04-26",
-      "time": "11:15",
-      "home_team": "East Leake Bantams Orange U14",
-      "away_team": "Priory Celtic 1967 U14",
-      "venue": "Costock Road LE12 6LY",
-      "division": "U14 Sun Spring Div 2 Blue",
-      "home_away": "away",
-      "opponent": "East Leake Bantams Orange U14"
-    },
     {
       "id": "0575162c612c8e52345ecca8a9358306",
       "date": "2026-05-03",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d953c326265ec54b7438bc53890ad8cd",
+      "date": "2026-04-26",
+      "time": "11:15",
+      "home_team": "East Leake Bantams Orange U14",
+      "away_team": "Priory Celtic 1967 U14",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sun Spring Div 2 Blue",
+      "home_away": "away",
+      "opponent": "East Leake Bantams Orange U14",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "d1eaa49e3bc2be75b1ee50ddac77c8c0",
       "date": "2026-04-19",

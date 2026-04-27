@@ -1,6 +1,6 @@
 {
   "club": "Priory Celtic Hoops",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
     {
       "id": "36afaeb9c0ad8ab9ff1560f6e6206614",
@@ -14,45 +14,6 @@
       "team": "Priory Celtic Hoops U11",
       "home_away": "home",
       "opponent": "Toton Tornados Typhoons U11"
-    },
-    {
-      "id": "498c18070c889998af294bd855264656",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "WBYFC Atlantis U13",
-      "away_team": "Priory Celtic Hoops U13",
-      "venue": "Riverside Complex NG7 2SA",
-      "division": "U13 Sun Spring Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Priory Celtic Hoops U13",
-      "home_away": "away",
-      "opponent": "WBYFC Atlantis U13"
-    },
-    {
-      "id": "a4626ad5feca64904b34663e491d05fc",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Attenborough Colts Yellow U8",
-      "away_team": "Priory Celtic Hoops U8",
-      "venue": "Chilwell Olympia NG9 5HR",
-      "division": "U8 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Priory Celtic Hoops U8",
-      "home_away": "away",
-      "opponent": "Attenborough Colts Yellow U8"
-    },
-    {
-      "id": "6ff6af254e1a3ab4499b5c585f5acff6",
-      "date": "2026-04-26",
-      "time": "11:30",
-      "home_team": "Priory Celtic Hoops U10",
-      "away_team": "Quarrydale United U10",
-      "venue": "Kimberley Leisure Centre NG16 2NJ",
-      "division": "U10 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Priory Celtic Hoops U10",
-      "home_away": "home",
-      "opponent": "Quarrydale United U10"
     },
     {
       "id": "97678de5caf9af01e56dd74b74cf3bed",
@@ -69,6 +30,57 @@
     }
   ],
   "results": [
+    {
+      "id": "6ff6af254e1a3ab4499b5c585f5acff6",
+      "date": "2026-04-26",
+      "time": "11:30",
+      "home_team": "Priory Celtic Hoops U10",
+      "away_team": "Quarrydale United U10",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U10 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Priory Celtic Hoops U10",
+      "home_away": "home",
+      "opponent": "Quarrydale United U10",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "498c18070c889998af294bd855264656",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "WBYFC Atlantis U13",
+      "away_team": "Priory Celtic Hoops U13",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sun Spring Div 2 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Priory Celtic Hoops U13",
+      "home_away": "away",
+      "opponent": "WBYFC Atlantis U13",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
+      "id": "a4626ad5feca64904b34663e491d05fc",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Attenborough Colts Yellow U8",
+      "away_team": "Priory Celtic Hoops U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Priory Celtic Hoops U8",
+      "home_away": "away",
+      "opponent": "Attenborough Colts Yellow U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "24fb65027bc5c7506709bd08471ba232",
       "date": "2026-04-25",

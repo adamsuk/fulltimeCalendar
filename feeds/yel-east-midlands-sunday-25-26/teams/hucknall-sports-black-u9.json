@@ -1,19 +1,8 @@
 {
   "team": "Hucknall Sports Black U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "ead36796e5a1ac5435876d9352cfb041",
-      "date": "2026-04-26",
-      "time": "09:30",
-      "home_team": "Mapperley All Stars Blue U9",
-      "away_team": "Hucknall Sports Black U9",
-      "venue": "Colwick Recreation Ground NG4 2DW",
-      "division": "U9 Sun Spring Div 2 Red",
-      "home_away": "away",
-      "opponent": "Mapperley All Stars Blue U9"
-    },
     {
       "id": "ee191e2d7a817fa5ad7587923051fd27",
       "date": "2026-05-10",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ead36796e5a1ac5435876d9352cfb041",
+      "date": "2026-04-26",
+      "time": "09:30",
+      "home_team": "Mapperley All Stars Blue U9",
+      "away_team": "Hucknall Sports Black U9",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "U9 Sun Spring Div 2 Red",
+      "home_away": "away",
+      "opponent": "Mapperley All Stars Blue U9",
+      "goals_for": 5,
+      "goals_against": 2
+    },
     {
       "id": "68154a6af1527728e46a8d0a9b8a9da3",
       "date": "2026-04-19",

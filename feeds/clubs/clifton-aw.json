@@ -1,19 +1,55 @@
 {
   "club": "Clifton AW",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
+    {
+      "id": "704fe6aa8677376e3aac3f122836033b",
+      "date": "2026-04-29",
+      "time": "18:30",
+      "home_team": "Gedling Southbank Titans U10",
+      "away_team": "Clifton AW Purple U10",
+      "venue": "Arnold Hill Academy NG5 6NZ",
+      "division": "U10 Sun Spring Div 5 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Clifton AW Purple U10",
+      "home_away": "away",
+      "opponent": "Gedling Southbank Titans U10"
+    }
+  ],
+  "results": [
+    {
+      "id": "9adfdf58e8723bde178bbe7b6a10dccb",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "Clifton AW Yellow U7",
+      "away_team": "Arnold Town U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Clifton AW Yellow U7",
+      "home_away": "home",
+      "opponent": "Arnold Town U7",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "66956edef165f189362e36481acf4cf8",
       "date": "2026-04-26",
       "time": "10:00",
       "home_team": "Clifton AW Diamonds U8",
       "away_team": "Carlton Town Blue U8",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
       "division": "U8 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Clifton AW Diamonds U8",
       "home_away": "home",
-      "opponent": "Carlton Town Blue U8"
+      "opponent": "Carlton Town Blue U8",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "3aa95efb9e0dfb6bec998d7b157709b8",
@@ -21,12 +57,16 @@
       "time": "10:00",
       "home_team": "Clifton AW Green U10",
       "away_team": "WBYFC Rosario U10",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
       "division": "U10 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Clifton AW Green U10",
       "home_away": "home",
-      "opponent": "WBYFC Rosario U10"
+      "opponent": "WBYFC Rosario U10",
+      "goals_for": null,
+      "goals_against": null
     },
     {
       "id": "cc85d3b740dd303f5a3e30cbff0138e4",
@@ -34,28 +74,17 @@
       "time": "10:00",
       "home_team": "Silva FC Rushcliffe Yellow U10",
       "away_team": "Clifton AW Purple U10",
-      "venue": "Rushcliffe School NG2 7BZ",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
       "division": "U10 Sunday",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Clifton AW Purple U10",
       "home_away": "away",
-      "opponent": "Silva FC Rushcliffe Yellow U10"
+      "opponent": "Silva FC Rushcliffe Yellow U10",
+      "goals_for": null,
+      "goals_against": null
     },
-    {
-      "id": "9adfdf58e8723bde178bbe7b6a10dccb",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Clifton AW Yellow U7",
-      "away_team": "Arnold Town U7",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U7 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Clifton AW Yellow U7",
-      "home_away": "home",
-      "opponent": "Arnold Town U7"
-    }
-  ],
-  "results": [
     {
       "id": "017a020d89c9e8a8b60c504e4096abef",
       "date": "2026-04-19",

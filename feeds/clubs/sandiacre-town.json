@@ -1,6 +1,6 @@
 {
   "club": "Sandiacre Town",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
     {
       "id": "98a728f161959bfc635d9547d685d668",
@@ -16,19 +16,6 @@
       "opponent": "Hilton Harriers U13 Girls"
     },
     {
-      "id": "4eddf5f7bf11f60ec7c00ba48ced6654",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Hucknall Town Warriors U9",
-      "away_team": "Sandiacre Town Titans U9",
-      "venue": "Flying High Academy NG15 6WU",
-      "division": "U9 Sun Spring Div 6 Green",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Sandiacre Town Titans U9",
-      "home_away": "away",
-      "opponent": "Hucknall Town Warriors U9"
-    },
-    {
       "id": "9aac7436c7a5bc268266c6c366c5b3e7",
       "date": "2026-04-26",
       "time": "10:00",
@@ -40,45 +27,6 @@
       "team": "Sandiacre Town Youth U12 Panthers Girls",
       "home_away": "home",
       "opponent": "Mansfield Town F.C. Girls U12"
-    },
-    {
-      "id": "3e5a9f48700c86e40a46a85b833897f0",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Heanor Town Harriers U11",
-      "away_team": "Sandiacre Town Red U11",
-      "venue": "Charles Hill DE75 7RN",
-      "division": "U11 Sun Spring Div 2 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Sandiacre Town Red U11",
-      "home_away": "away",
-      "opponent": "Heanor Town Harriers U11"
-    },
-    {
-      "id": "a89296c4ddfdf9c87249c0b5f72731fb",
-      "date": "2026-04-26",
-      "time": "11:30",
-      "home_team": "Sandiacre Town Cyclones U12",
-      "away_team": "DLFC Black U12",
-      "venue": "Friesland School NG10 5AF",
-      "division": "U12 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Sandiacre Town Cyclones U12",
-      "home_away": "home",
-      "opponent": "DLFC Black U12"
-    },
-    {
-      "id": "feaccb08f2a62694652963e36e711701",
-      "date": "2026-04-26",
-      "time": "12:15",
-      "home_team": "Basford United Lions U12",
-      "away_team": "Sandiacre Town Hurricanes U12",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U12 Sun YEL Shield",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Sandiacre Town Hurricanes U12",
-      "home_away": "away",
-      "opponent": "Basford United Lions U12"
     },
     {
       "id": "bb76e029d4cebd9440b48ec803adb957",
@@ -96,7 +44,7 @@
     {
       "id": "ac81fa4ef8090c6b9b9fdb4f8f45e630",
       "date": "2026-05-03",
-      "time": "10:00",
+      "time": "11:30",
       "home_team": "Sandiacre Town Youth U12 Panthers Girls",
       "away_team": "Cotgrave FC U12 Girls",
       "venue": "FRIESLAND SCHOOL",
@@ -151,7 +99,7 @@
       "time": "10:00",
       "home_team": "West Bridgford Colts U13 Lions",
       "away_team": "Sandiacre Town Youth U13 Diamonds",
-      "venue": "REGATTA WAY SPORTS GROUND",
+      "venue": "GRESHAM SPORTS PARK",
       "division": "U13 Div 1 9 v 9",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Sandiacre Town Youth U13 Diamonds",
@@ -160,6 +108,74 @@
     }
   ],
   "results": [
+    {
+      "id": "feaccb08f2a62694652963e36e711701",
+      "date": "2026-04-26",
+      "time": "12:15",
+      "home_team": "Basford United Lions U12",
+      "away_team": "Sandiacre Town Hurricanes U12",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sun YEL Shield",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sandiacre Town Hurricanes U12",
+      "home_away": "away",
+      "opponent": "Basford United Lions U12",
+      "goals_for": 0,
+      "goals_against": 4
+    },
+    {
+      "id": "a89296c4ddfdf9c87249c0b5f72731fb",
+      "date": "2026-04-26",
+      "time": "11:30",
+      "home_team": "Sandiacre Town Cyclones U12",
+      "away_team": "DLFC Black U12",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sandiacre Town Cyclones U12",
+      "home_away": "home",
+      "opponent": "DLFC Black U12",
+      "goals_for": 2,
+      "goals_against": 4
+    },
+    {
+      "id": "3e5a9f48700c86e40a46a85b833897f0",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "Heanor Town Harriers U11",
+      "away_team": "Sandiacre Town Red U11",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sun Spring Div 2 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sandiacre Town Red U11",
+      "home_away": "away",
+      "opponent": "Heanor Town Harriers U11",
+      "goals_for": 1,
+      "goals_against": 0
+    },
+    {
+      "id": "4eddf5f7bf11f60ec7c00ba48ced6654",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Hucknall Town Warriors U9",
+      "away_team": "Sandiacre Town Titans U9",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U9 Sun Spring Div 6 Green",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sandiacre Town Titans U9",
+      "home_away": "away",
+      "opponent": "Hucknall Town Warriors U9",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "0bb79f9c5a53938cb67cf8269762c199",
       "date": "2026-04-25",

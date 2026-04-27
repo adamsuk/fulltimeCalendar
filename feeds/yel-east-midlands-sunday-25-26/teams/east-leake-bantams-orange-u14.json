@@ -1,11 +1,11 @@
 {
   "team": "East Leake Bantams Orange U14",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
     {
-      "id": "f002200f4b10a7b77f654d8143ec2193",
-      "date": "2026-04-19",
+      "id": "d2cbd82526585fbfcf388b0863b01879",
+      "date": "2026-05-03",
       "time": "11:00",
       "home_team": "East Leake Bantams Orange U14",
       "away_team": "Attenborough Colts Yellow U14",
@@ -13,20 +13,24 @@
       "division": "U14 Sun YEL Trophy",
       "home_away": "home",
       "opponent": "Attenborough Colts Yellow U14"
-    },
+    }
+  ],
+  "results": [
     {
       "id": "d953c326265ec54b7438bc53890ad8cd",
       "date": "2026-04-26",
       "time": "11:15",
       "home_team": "East Leake Bantams Orange U14",
       "away_team": "Priory Celtic 1967 U14",
-      "venue": "Costock Road LE12 6LY",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
       "division": "U14 Sun Spring Div 2 Blue",
       "home_away": "home",
-      "opponent": "Priory Celtic 1967 U14"
-    }
-  ],
-  "results": [
+      "opponent": "Priory Celtic 1967 U14",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "0fd52a2c547a1ab686d41c5cca99d420",
       "date": "2026-04-23",

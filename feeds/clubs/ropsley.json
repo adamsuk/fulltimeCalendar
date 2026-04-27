@@ -1,6 +1,6 @@
 {
   "club": "Ropsley",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
     {
       "id": "f8733930fca7397a3afd5f23e3f2d7a3",
@@ -14,19 +14,25 @@
       "team": "Ropsley Colts U9",
       "home_away": "away",
       "opponent": "Silva FC Carlton Gold U9"
-    },
+    }
+  ],
+  "results": [
     {
-      "id": "9f38dadfb68da83798d149253a2ed9a8",
+      "id": "05368c807dfa8174ce25cb85994a4d6a",
       "date": "2026-04-26",
-      "time": "10:30",
-      "home_team": "Ropsley Colts Red U12",
-      "away_team": "Carlton Town Yellow U12",
-      "venue": "Ropsley Village Hall NG33 4BN",
-      "division": "U12 Sun Spring Div 6 Silver",
+      "time": "11:30",
+      "home_team": "Beaufort United Blue U12",
+      "away_team": "Ropsley Colts Blue U12",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sun Spring Div 4",
       "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ropsley Colts Red U12",
-      "home_away": "home",
-      "opponent": "Carlton Town Yellow U12"
+      "team": "Ropsley Colts Blue U12",
+      "home_away": "away",
+      "opponent": "Beaufort United Blue U12",
+      "goals_for": 2,
+      "goals_against": 3
     },
     {
       "id": "25501c9e59adf6253ba68dc13d4651dd",
@@ -34,28 +40,34 @@
       "time": "11:00",
       "home_team": "Ropsley Colts U13",
       "away_team": "Riverside FC Panthers U13",
-      "venue": "Ropsley Village Hall NG33 4BN",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
       "division": "U13 Sun Spring Div 6",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Ropsley Colts U13",
       "home_away": "home",
-      "opponent": "Riverside FC Panthers U13"
+      "opponent": "Riverside FC Panthers U13",
+      "goals_for": 0,
+      "goals_against": 3
     },
     {
-      "id": "05368c807dfa8174ce25cb85994a4d6a",
+      "id": "9f38dadfb68da83798d149253a2ed9a8",
       "date": "2026-04-26",
-      "time": "11:30",
-      "home_team": "Beaufort United Blue U12",
-      "away_team": "Ropsley Colts Blue U12",
-      "venue": "Unwin Road NG17 4HT",
-      "division": "U12 Sun Spring Div 4",
+      "time": "10:30",
+      "home_team": "Ropsley Colts Red U12",
+      "away_team": "Carlton Town Yellow U12",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sun Spring Div 6 Silver",
       "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ropsley Colts Blue U12",
-      "home_away": "away",
-      "opponent": "Beaufort United Blue U12"
-    }
-  ],
-  "results": [
+      "team": "Ropsley Colts Red U12",
+      "home_away": "home",
+      "opponent": "Carlton Town Yellow U12",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "fc0a7e19aa4a236199aadfbe634b6f64",
       "date": "2026-04-19",

@@ -1,19 +1,8 @@
 {
   "team": "Radcliffe Olympic FC U12 Girls Eagles",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "d79511c731ef6bcee38891366697eb83",
-      "date": "2026-04-26",
-      "time": "13:00",
-      "home_team": "Keyworth United F.C. U12 Vipers",
-      "away_team": "Radcliffe Olympic FC U12 Girls Eagles",
-      "venue": "RH ACADEMY",
-      "division": "U12 Cup 2",
-      "home_away": "away",
-      "opponent": "Keyworth United F.C. U12 Vipers"
-    },
     {
       "id": "812c678062580f65479eead833ca74cf",
       "date": "2026-05-03",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d79511c731ef6bcee38891366697eb83",
+      "date": "2026-04-26",
+      "time": "13:00",
+      "home_team": "Keyworth United F.C. U12 Vipers",
+      "away_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "",
+      "division": "U12 Cup 2",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U12 Vipers",
+      "goals_for": 6,
+      "goals_against": 2
+    },
     {
       "id": "5cd7f4793a9bf14f7bb45703d5c22ef1",
       "date": "2026-04-19",

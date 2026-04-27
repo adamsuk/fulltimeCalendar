@@ -1,20 +1,7 @@
 {
   "club": "Sporting Markfield",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "c8834834fab7284e2ef408412e0e92b6",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Sporting Markfield U14",
-      "away_team": "Ilkeston Town Bears U14",
-      "venue": "Jubilee Playing Fields LE67 9PX",
-      "division": "U14 Sun Spring Premier Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Sporting Markfield U14",
-      "home_away": "home",
-      "opponent": "Ilkeston Town Bears U14"
-    },
     {
       "id": "5fdcfc41c393b8388baf7dd4c5d1de45",
       "date": "2026-05-09",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "c8834834fab7284e2ef408412e0e92b6",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Sporting Markfield U14",
+      "away_team": "Ilkeston Town Bears U14",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sun Spring Premier Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sporting Markfield U14",
+      "home_away": "home",
+      "opponent": "Ilkeston Town Bears U14",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "815e72b3b059d3068ab290300c3b5790",
       "date": "2026-04-25",

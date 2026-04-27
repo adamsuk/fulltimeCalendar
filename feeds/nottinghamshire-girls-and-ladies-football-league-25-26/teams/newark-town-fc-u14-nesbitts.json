@@ -1,19 +1,8 @@
 {
   "team": "Newark Town FC U14 Nesbitts",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "2862e61299c034539693a3bba6858e31",
-      "date": "2026-04-26",
-      "time": "13:00",
-      "home_team": "Keyworth United F.C. U14 Raptors",
-      "away_team": "Newark Town FC U14 Nesbitts",
-      "venue": "RH ACADEMY",
-      "division": "U14 Div 4 League Cup",
-      "home_away": "away",
-      "opponent": "Keyworth United F.C. U14 Raptors"
-    },
     {
       "id": "cc91ad6d50203d8c853ff9255ba7821d",
       "date": "2026-05-03",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2862e61299c034539693a3bba6858e31",
+      "date": "2026-04-26",
+      "time": "13:00",
+      "home_team": "Keyworth United F.C. U14 Raptors",
+      "away_team": "Newark Town FC U14 Nesbitts",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Div 4 League Cup",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U14 Raptors",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "38228d8ba0a481efb42c9c6d91da2de3",
       "date": "2026-04-12",

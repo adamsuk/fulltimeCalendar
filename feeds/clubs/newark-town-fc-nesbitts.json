@@ -1,33 +1,7 @@
 {
   "club": "Newark Town FC Nesbitts",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "3feda28c8d8fba765e6106b9e3659102",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Clifton All Whites U13",
-      "away_team": "Newark Town FC U13 Nesbitts",
-      "venue": "CLIFTON FOOTBALL CENTRE",
-      "division": "U13 Div 1 11 v 11",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Newark Town FC U13 Nesbitts",
-      "home_away": "away",
-      "opponent": "Clifton All Whites U13"
-    },
-    {
-      "id": "2862e61299c034539693a3bba6858e31",
-      "date": "2026-04-26",
-      "time": "13:00",
-      "home_team": "Keyworth United F.C. U14 Raptors",
-      "away_team": "Newark Town FC U14 Nesbitts",
-      "venue": "RH ACADEMY",
-      "division": "U14 Div 4 League Cup",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Newark Town FC U14 Nesbitts",
-      "home_away": "away",
-      "opponent": "Keyworth United F.C. U14 Raptors"
-    },
     {
       "id": "cc91ad6d50203d8c853ff9255ba7821d",
       "date": "2026-05-03",
@@ -56,6 +30,40 @@
     }
   ],
   "results": [
+    {
+      "id": "2862e61299c034539693a3bba6858e31",
+      "date": "2026-04-26",
+      "time": "13:00",
+      "home_team": "Keyworth United F.C. U14 Raptors",
+      "away_team": "Newark Town FC U14 Nesbitts",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Div 4 League Cup",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Newark Town FC U14 Nesbitts",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U14 Raptors",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
+      "id": "3feda28c8d8fba765e6106b9e3659102",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Clifton All Whites U13",
+      "away_team": "Newark Town FC U13 Nesbitts",
+      "home_score": 4,
+      "away_score": 5,
+      "venue": "",
+      "division": "U13 Div 1 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Newark Town FC U13 Nesbitts",
+      "home_away": "away",
+      "opponent": "Clifton All Whites U13",
+      "goals_for": 5,
+      "goals_against": 4
+    },
     {
       "id": "05b5a7da04587fd6efd1cefdb5e53906",
       "date": "2026-04-22",

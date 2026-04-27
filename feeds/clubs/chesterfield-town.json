@@ -1,20 +1,7 @@
 {
   "club": "Chesterfield Town",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "0ba7ecf7a85ce2d50e63b8983134795c",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Chesterfield Town Blue U12",
-      "away_team": "Pelican Colts Yellow U12",
-      "venue": "Recreation ground S41 8SW",
-      "division": "U12 Sun Spring Div 5",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Chesterfield Town Blue U12",
-      "home_away": "home",
-      "opponent": "Pelican Colts Yellow U12"
-    },
     {
       "id": "6a157db23698db868273de136dba1e3d",
       "date": "2026-05-03",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "0ba7ecf7a85ce2d50e63b8983134795c",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "Chesterfield Town Blue U12",
+      "away_team": "Pelican Colts Yellow U12",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Sun Spring Div 5",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Chesterfield Town Blue U12",
+      "home_away": "home",
+      "opponent": "Pelican Colts Yellow U12",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "b49b38cff04a86342092d157c4a52baf",
       "date": "2026-04-19",

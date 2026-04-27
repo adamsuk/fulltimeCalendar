@@ -1,19 +1,8 @@
 {
   "team": "WBYFC Lyon U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "9ba4d7e9d5ff7f5611d621cfacc25a57",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Willow Wanderers Sharks U9",
-      "away_team": "WBYFC Lyon U9",
-      "venue": "Carlton le Willows School NG4 4AA",
-      "division": "U9 Sun Spring Div 5 Blue",
-      "home_away": "away",
-      "opponent": "Willow Wanderers Sharks U9"
-    },
     {
       "id": "cac361961179eb35c61eea378d2e40de",
       "date": "2026-05-10",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "9ba4d7e9d5ff7f5611d621cfacc25a57",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Willow Wanderers Sharks U9",
+      "away_team": "WBYFC Lyon U9",
+      "home_score": 3,
+      "away_score": 5,
+      "venue": "",
+      "division": "U9 Sun Spring Div 5 Blue",
+      "home_away": "away",
+      "opponent": "Willow Wanderers Sharks U9",
+      "goals_for": 5,
+      "goals_against": 3
+    },
     {
       "id": "291b0161fe5759933e4a6cba57c5344a",
       "date": "2026-04-19",

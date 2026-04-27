@@ -1,20 +1,7 @@
 {
   "club": "Wollaton",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "4e4faa673b06c93a94274b97bc6fca0b",
-      "date": "2026-04-26",
-      "time": "12:30",
-      "home_team": "Arnold Town FC U13 Girls",
-      "away_team": "Wollaton Hall & Bramcote F.C. Youth U13",
-      "venue": "EAGLE VALLEY",
-      "division": "U13 Div 2 11 v 11",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Wollaton Hall & Bramcote F.C. Youth U13",
-      "home_away": "away",
-      "opponent": "Arnold Town FC U13 Girls"
-    },
     {
       "id": "385a4f5e2e4a826ce232b5c87ac5dbda",
       "date": "2026-04-28",
@@ -95,6 +82,23 @@
     }
   ],
   "results": [
+    {
+      "id": "4e4faa673b06c93a94274b97bc6fca0b",
+      "date": "2026-04-26",
+      "time": "12:30",
+      "home_team": "Arnold Town FC U13 Girls",
+      "away_team": "Wollaton Hall & Bramcote F.C. Youth U13",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Div 2 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Wollaton Hall & Bramcote F.C. Youth U13",
+      "home_away": "away",
+      "opponent": "Arnold Town FC U13 Girls",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "2916d0f64eede55a820fbc62eca92869",
       "date": "2026-04-25",

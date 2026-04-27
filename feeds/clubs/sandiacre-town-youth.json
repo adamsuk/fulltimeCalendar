@@ -1,33 +1,7 @@
 {
   "club": "Sandiacre Town Youth",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "acc0c208b3a6359004a94e970f5a0b41",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Willow Wanderers F.C. Youth U13 Orcas",
-      "away_team": "Sandiacre Town Youth U13 Royals",
-      "venue": "CARLTON-LE-WILLOWS ACADEMY",
-      "division": "U13 Div 2 11 v 11",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sandiacre Town Youth U13 Royals",
-      "home_away": "away",
-      "opponent": "Willow Wanderers F.C. Youth U13 Orcas"
-    },
-    {
-      "id": "8b9753985036ab652d9e0b7f320cc9c5",
-      "date": "2026-04-26",
-      "time": "10:30",
-      "home_team": "Sandiacre Town Youth U15 Girls Sparkle",
-      "away_team": "Bottesford U15 Girls",
-      "venue": "FRIESLAND SCHOOL",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sandiacre Town Youth U15 Girls Sparkle",
-      "home_away": "home",
-      "opponent": "Bottesford U15 Girls"
-    },
     {
       "id": "28a4e1da4e2855b66d550369f5933bcc",
       "date": "2026-05-03",
@@ -40,19 +14,6 @@
       "team": "Sandiacre Town Youth U13 Royals",
       "home_away": "away",
       "opponent": "Hucknall & Linby Harriers FC U13"
-    },
-    {
-      "id": "00cb79d10d1085763ef5e87ae447a4cd",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Sandiacre Town Youth U15 Girls Sparkle",
-      "away_team": "Sherwood Colliery F.C. Ladies U15",
-      "venue": "SANDIACRE FRIESLAND SPORTS CENTRE",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sandiacre Town Youth U15 Girls Sparkle",
-      "home_away": "home",
-      "opponent": "Sherwood Colliery F.C. Ladies U15"
     },
     {
       "id": "61d451721cc6126f743a9f075834e28e",
@@ -68,9 +29,22 @@
       "opponent": "Sherwood Colliery F.C. Ladies U15"
     },
     {
+      "id": "00cb79d10d1085763ef5e87ae447a4cd",
+      "date": "2026-05-03",
+      "time": "10:30",
+      "home_team": "Sandiacre Town Youth U15 Girls Sparkle",
+      "away_team": "Sherwood Colliery F.C. Ladies U15",
+      "venue": "DRAYCOTT RECREATION GROUND",
+      "division": "U15 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sandiacre Town Youth U15 Girls Sparkle",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery F.C. Ladies U15"
+    },
+    {
       "id": "58cfa5e62c7b4f8d7ee75c85b6a5642a",
       "date": "2026-05-13",
-      "time": "10:00",
+      "time": "18:30",
       "home_team": "Sandiacre Town Youth U15 Girls Sparkle",
       "away_team": "Hilton Harriers U15 Girls Sunday",
       "venue": "DRAYCOTT RECREATION GROUND",
@@ -95,6 +69,40 @@
     }
   ],
   "results": [
+    {
+      "id": "8b9753985036ab652d9e0b7f320cc9c5",
+      "date": "2026-04-26",
+      "time": "10:30",
+      "home_team": "Sandiacre Town Youth U15 Girls Sparkle",
+      "away_team": "Bottesford U15 Girls",
+      "home_score": 0,
+      "away_score": 8,
+      "venue": "",
+      "division": "U15 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sandiacre Town Youth U15 Girls Sparkle",
+      "home_away": "home",
+      "opponent": "Bottesford U15 Girls",
+      "goals_for": 0,
+      "goals_against": 8
+    },
+    {
+      "id": "acc0c208b3a6359004a94e970f5a0b41",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Willow Wanderers F.C. Youth U13 Orcas",
+      "away_team": "Sandiacre Town Youth U13 Royals",
+      "home_score": 9,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Div 2 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sandiacre Town Youth U13 Royals",
+      "home_away": "away",
+      "opponent": "Willow Wanderers F.C. Youth U13 Orcas",
+      "goals_for": 2,
+      "goals_against": 9
+    },
     {
       "id": "b17c9cff5935ce03ab687f871b26f667",
       "date": "2026-04-19",

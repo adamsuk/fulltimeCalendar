@@ -1,19 +1,8 @@
 {
   "team": "Canoville FC U13 FC Bulldogs",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "a184dcaf7190d3ff68153a167a569154",
-      "date": "2026-04-26",
-      "time": "09:30",
-      "home_team": "Canoville FC U13 FC Bulldogs",
-      "away_team": "Southwell City FC U13 All Whites",
-      "venue": "RH ACADEMY",
-      "division": "U13 (11v11) Div 1 League Cup",
-      "home_away": "home",
-      "opponent": "Southwell City FC U13 All Whites"
-    },
     {
       "id": "1f2ff8f006bb953706057ab278b3ae87",
       "date": "2026-05-03",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a184dcaf7190d3ff68153a167a569154",
+      "date": "2026-04-26",
+      "time": "09:30",
+      "home_team": "Canoville FC U13 FC Bulldogs",
+      "away_team": "Southwell City FC U13 All Whites",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 (11v11) Div 1 League Cup",
+      "home_away": "home",
+      "opponent": "Southwell City FC U13 All Whites",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "1deeeed72e42251ed779f26d2a1d7a92",
       "date": "2026-04-12",

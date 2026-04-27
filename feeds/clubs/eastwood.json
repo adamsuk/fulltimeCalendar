@@ -1,33 +1,7 @@
 {
   "club": "Eastwood",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "c6c6db4b3f05a82183ace44bcd010784",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Willington FC Blue U12",
-      "away_team": "Eastwood CFC Eagles U12",
-      "venue": "Willington Power Station DE65 6DE",
-      "division": "U12 Sun Spring Premier Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Eastwood CFC Eagles U12",
-      "home_away": "away",
-      "opponent": "Willington FC Blue U12"
-    },
-    {
-      "id": "f3ef8d5fac647a7d0ba4947e0ef7e343",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Mansfield Town Grassroots U9",
-      "away_team": "Eastwood CFC Juventus U9",
-      "venue": "One Call Stadium NG18 5DA",
-      "division": "U9 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Eastwood CFC Juventus U9",
-      "home_away": "away",
-      "opponent": "Mansfield Town Grassroots U9"
-    },
     {
       "id": "2789a6c0e3824577183ab484edc7bff5",
       "date": "2026-04-26",
@@ -40,19 +14,6 @@
       "team": "Eastwood CFC Madrid U10",
       "home_away": "away",
       "opponent": "Aspire FC U10"
-    },
-    {
-      "id": "33126b52ed1764ee2f9dfebd89cdd51b",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Eastwood CFC Reds U8",
-      "away_team": "AJ Sport Gold U8",
-      "venue": "Coronation Park NG16 3HB",
-      "division": "U8 Sun Spring 1",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Eastwood CFC Reds U8",
-      "home_away": "home",
-      "opponent": "AJ Sport Gold U8"
     },
     {
       "id": "1ab1ea1f301bce0102ad583351f10bc4",
@@ -134,6 +95,57 @@
     }
   ],
   "results": [
+    {
+      "id": "c6c6db4b3f05a82183ace44bcd010784",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Willington FC Blue U12",
+      "away_team": "Eastwood CFC Eagles U12",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sun Spring Premier Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Eastwood CFC Eagles U12",
+      "home_away": "away",
+      "opponent": "Willington FC Blue U12",
+      "goals_for": 1,
+      "goals_against": 0
+    },
+    {
+      "id": "f3ef8d5fac647a7d0ba4947e0ef7e343",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Mansfield Town Grassroots U9",
+      "away_team": "Eastwood CFC Juventus U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Eastwood CFC Juventus U9",
+      "home_away": "away",
+      "opponent": "Mansfield Town Grassroots U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "33126b52ed1764ee2f9dfebd89cdd51b",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Eastwood CFC Reds U8",
+      "away_team": "AJ Sport Gold U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sun Spring 1",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Eastwood CFC Reds U8",
+      "home_away": "home",
+      "opponent": "AJ Sport Gold U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "5e1f24c56da5e108cf34dd42333713da",
       "date": "2026-04-25",

@@ -1,20 +1,7 @@
 {
   "club": "Mansfield Town Grassroots",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "e1a47ba36426ea4aad061e5b6f992301",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Cotgrave FC Blue U12",
-      "away_team": "Mansfield Town Grassroots Blue U12",
-      "venue": "Ridley Sports Ground NG12 3HA",
-      "division": "U12 Sun Spring Premier Division",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Mansfield Town Grassroots Blue U12",
-      "home_away": "away",
-      "opponent": "Cotgrave FC Blue U12"
-    },
     {
       "id": "17b7f1511baf70fcdc4aa4c58817bc1a",
       "date": "2026-04-26",
@@ -27,32 +14,6 @@
       "team": "Mansfield Town Grassroots U10",
       "home_away": "away",
       "opponent": "Eastwood CFC Aces U10"
-    },
-    {
-      "id": "f3ef8d5fac647a7d0ba4947e0ef7e343",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Mansfield Town Grassroots U9",
-      "away_team": "Eastwood CFC Juventus U9",
-      "venue": "One Call Stadium NG18 5DA",
-      "division": "U9 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Mansfield Town Grassroots U9",
-      "home_away": "home",
-      "opponent": "Eastwood CFC Juventus U9"
-    },
-    {
-      "id": "3118f3da533c5baaf0515b0cb0f0cfd7",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Mansfield Town Grassroots Blue U11",
-      "away_team": "Harrowby United U11",
-      "venue": "One Call Stadium NG18 5DA",
-      "division": "U11 Sun Spring Div 1",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Mansfield Town Grassroots Blue U11",
-      "home_away": "home",
-      "opponent": "Harrowby United U11"
     },
     {
       "id": "29ba83e4c31be9af508e4a1570165c5c",
@@ -82,6 +43,57 @@
     }
   ],
   "results": [
+    {
+      "id": "3118f3da533c5baaf0515b0cb0f0cfd7",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "Mansfield Town Grassroots Blue U11",
+      "away_team": "Harrowby United U11",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U11 Sun Spring Div 1",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Mansfield Town Grassroots Blue U11",
+      "home_away": "home",
+      "opponent": "Harrowby United U11",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "e1a47ba36426ea4aad061e5b6f992301",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Cotgrave FC Blue U12",
+      "away_team": "Mansfield Town Grassroots Blue U12",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sun Spring Premier Division",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Mansfield Town Grassroots Blue U12",
+      "home_away": "away",
+      "opponent": "Cotgrave FC Blue U12",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
+      "id": "f3ef8d5fac647a7d0ba4947e0ef7e343",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Mansfield Town Grassroots U9",
+      "away_team": "Eastwood CFC Juventus U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Mansfield Town Grassroots U9",
+      "home_away": "home",
+      "opponent": "Eastwood CFC Juventus U9",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "42c6f602b4e85027d551b822ee382bc3",
       "date": "2026-04-25",

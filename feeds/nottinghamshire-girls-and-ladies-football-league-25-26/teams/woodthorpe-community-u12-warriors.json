@@ -1,19 +1,8 @@
 {
   "team": "Woodthorpe Community U12 Warriors",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "f25deb6083638ce895d54c323c54ca4a",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Woodthorpe Community U12 Warriors",
-      "away_team": "Keyworth United F.C. U12 Shooting Stars",
-      "venue": "POWERLEAGUE (NOTTINGHAM ARNOLD)",
-      "division": "U12 Div 2 P2",
-      "home_away": "home",
-      "opponent": "Keyworth United F.C. U12 Shooting Stars"
-    },
     {
       "id": "f65d4f76765387c49128a2e578f29ac3",
       "date": "2026-05-10",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f25deb6083638ce895d54c323c54ca4a",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Woodthorpe Community U12 Warriors",
+      "away_team": "Keyworth United F.C. U12 Shooting Stars",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Div 2 P2",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U12 Shooting Stars",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "d8b2a555df1af83ff84c5dd093dc3b17",
       "date": "2026-04-19",

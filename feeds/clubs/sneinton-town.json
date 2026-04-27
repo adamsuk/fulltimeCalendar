@@ -1,33 +1,7 @@
 {
   "club": "Sneinton Town",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "d1f80d13795d583435d345f9653345d8",
-      "date": "2026-04-26",
-      "time": "10:30",
-      "home_team": "Sneinton Town U13",
-      "away_team": "Keyworth United Yellow U13",
-      "venue": "Carlton le Willows School NG4 4AA",
-      "division": "U13 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Sneinton Town U13",
-      "home_away": "home",
-      "opponent": "Keyworth United Yellow U13"
-    },
-    {
-      "id": "5f13b893884136b0314c654551aa3179",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Willow Wanderers Harriers U11",
-      "away_team": "Sneinton Town U11",
-      "venue": "Carlton le Willows School NG4 4AA",
-      "division": "U11 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Sneinton Town U11",
-      "home_away": "away",
-      "opponent": "Willow Wanderers Harriers U11"
-    },
     {
       "id": "4a61fb77a0adb0d056afc800da1a8631",
       "date": "2026-04-28",
@@ -43,6 +17,40 @@
     }
   ],
   "results": [
+    {
+      "id": "5f13b893884136b0314c654551aa3179",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "Willow Wanderers Harriers U11",
+      "away_team": "Sneinton Town U11",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sneinton Town U11",
+      "home_away": "away",
+      "opponent": "Willow Wanderers Harriers U11",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "d1f80d13795d583435d345f9653345d8",
+      "date": "2026-04-26",
+      "time": "10:30",
+      "home_team": "Sneinton Town U13",
+      "away_team": "Keyworth United Yellow U13",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sun Spring Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Sneinton Town U13",
+      "home_away": "home",
+      "opponent": "Keyworth United Yellow U13",
+      "goals_for": 5,
+      "goals_against": 2
+    },
     {
       "id": "8af9f57877b701d3c53d485f91d6ff02",
       "date": "2026-04-25",

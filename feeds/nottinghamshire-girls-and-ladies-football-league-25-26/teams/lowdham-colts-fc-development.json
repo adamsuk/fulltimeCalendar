@@ -1,19 +1,8 @@
 {
   "team": "Lowdham Colts FC Development",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "795c529123f64a2774fb517da6aaf44e",
-      "date": "2026-04-26",
-      "time": "10:30",
-      "home_team": "Lowdham Colts FC Development",
-      "away_team": "Bingham Town FC Women Red",
-      "venue": "GUNTHORPE PLAYING FIELD",
-      "division": "Senior Div 3 Phase 2",
-      "home_away": "home",
-      "opponent": "Bingham Town FC Women Red"
-    },
     {
       "id": "963e7905c1e5b147abc2ce60d13394f5",
       "date": "2026-05-03",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "795c529123f64a2774fb517da6aaf44e",
+      "date": "2026-04-26",
+      "time": "10:30",
+      "home_team": "Lowdham Colts FC Development",
+      "away_team": "Bingham Town FC Women Red",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "Senior Div 3 Phase 2",
+      "home_away": "home",
+      "opponent": "Bingham Town FC Women Red",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "b003c8b9487c741dd03c6103fdc51a77",
       "date": "2026-04-19",

@@ -1,6 +1,6 @@
 {
   "club": "Woodborough Celtic",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
     {
       "id": "25e8de35d9cfdb5319c79f3419fda7d4",
@@ -14,32 +14,6 @@
       "team": "Woodborough Celtic U7",
       "home_away": "home",
       "opponent": "DLFC Madrid U7"
-    },
-    {
-      "id": "32f50420fb23920875753c9da2b1295f",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Basford CFC Barca U9",
-      "away_team": "Woodborough Celtic U9",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U9 Sun Spring Premier Div",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Woodborough Celtic U9",
-      "home_away": "away",
-      "opponent": "Basford CFC Barca U9"
-    },
-    {
-      "id": "0c26c6c7a3b0a23204d47fd937e06799",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Woodborough Celtic U12",
-      "away_team": "Beeston Park Rangers U12",
-      "venue": "Eagle Valley NG5 8PS",
-      "division": "U12 Sun Spring Div 6 Gold",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Woodborough Celtic U12",
-      "home_away": "home",
-      "opponent": "Beeston Park Rangers U12"
     },
     {
       "id": "99a9fa7dac856538d699c4adc087c953",
@@ -56,6 +30,40 @@
     }
   ],
   "results": [
+    {
+      "id": "0c26c6c7a3b0a23204d47fd937e06799",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "Woodborough Celtic U12",
+      "away_team": "Beeston Park Rangers U12",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sun Spring Div 6 Gold",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Woodborough Celtic U12",
+      "home_away": "home",
+      "opponent": "Beeston Park Rangers U12",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "32f50420fb23920875753c9da2b1295f",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Basford CFC Barca U9",
+      "away_team": "Woodborough Celtic U9",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sun Spring Premier Div",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Woodborough Celtic U9",
+      "home_away": "away",
+      "opponent": "Basford CFC Barca U9",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "077cd0ba5b8f828fa0990d980a3e3400",
       "date": "2026-04-25",

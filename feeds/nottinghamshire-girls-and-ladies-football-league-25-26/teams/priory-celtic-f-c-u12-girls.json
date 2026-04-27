@@ -1,19 +1,8 @@
 {
   "team": "Priory Celtic F.C. U12 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "1c1d109bfde107f8c79063bf0143e3c6",
-      "date": "2026-04-26",
-      "time": "12:00",
-      "home_team": "Priory Celtic F.C. U12 Girls",
-      "away_team": "Lowdham Colts F.C. Youth U12 Girls",
-      "venue": "KIMBERLEY SCHOOL SPORTS CENTRE",
-      "division": "U12 Div 4 P2",
-      "home_away": "home",
-      "opponent": "Lowdham Colts F.C. Youth U12 Girls"
-    },
     {
       "id": "614b7cf6311a8321a6cfb928374d1fb6",
       "date": "2026-05-03",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "1c1d109bfde107f8c79063bf0143e3c6",
+      "date": "2026-04-26",
+      "time": "12:00",
+      "home_team": "Priory Celtic F.C. U12 Girls",
+      "away_team": "Lowdham Colts F.C. Youth U12 Girls",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 4 P2",
+      "home_away": "home",
+      "opponent": "Lowdham Colts F.C. Youth U12 Girls",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "eac2ec9a5494110e08615ac5a379da91",
       "date": "2026-04-19",

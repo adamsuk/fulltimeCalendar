@@ -1,19 +1,8 @@
 {
   "team": "Radcliffe Olympic FC Ladies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "5f5194ee4816a2bae8ad8971fa06c188",
-      "date": "2026-04-26",
-      "time": "14:00",
-      "home_team": "Arnold Eagles FC Development",
-      "away_team": "Radcliffe Olympic FC Ladies",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "Seniors Div 1",
-      "home_away": "away",
-      "opponent": "Arnold Eagles FC Development"
-    },
     {
       "id": "cfdfa56f7587cc887ce48c5198a5b3e3",
       "date": "2026-05-10",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5f5194ee4816a2bae8ad8971fa06c188",
+      "date": "2026-04-26",
+      "time": "14:00",
+      "home_team": "Arnold Eagles FC Development",
+      "away_team": "Radcliffe Olympic FC Ladies",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "Seniors Div 1",
+      "home_away": "away",
+      "opponent": "Arnold Eagles FC Development",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "6c76c7228e1752698b690d6caef85a09",
       "date": "2026-04-19",

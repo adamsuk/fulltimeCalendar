@@ -1,20 +1,7 @@
 {
   "club": "Basford United",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "e3b1f66f22697d7abcbd60b254e6618c",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Basford United Silva U12",
-      "away_team": "Calverton MW Blue U12",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U12 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford United Silva U12",
-      "home_away": "home",
-      "opponent": "Calverton MW Blue U12"
-    },
     {
       "id": "746f7543edb5d9ec3a799183609fef47",
       "date": "2026-04-29",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "e3b1f66f22697d7abcbd60b254e6618c",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Basford United Silva U12",
+      "away_team": "Calverton MW Blue U12",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Sunday",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United Silva U12",
+      "home_away": "home",
+      "opponent": "Calverton MW Blue U12",
+      "goals_for": 6,
+      "goals_against": 0
+    },
     {
       "id": "d22af38b44292bc9a6ce36618145912f",
       "date": "2026-04-25",

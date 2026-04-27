@@ -1,19 +1,8 @@
 {
   "team": "Priory Celtic 1967 U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "a661d5738c2a916678c5ec8c44beca0a",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Castle Donington Hawks U9",
-      "away_team": "Priory Celtic 1967 U9",
-      "venue": "Spital Park DE74 2NQ",
-      "division": "U9 Sun Spring Div 6 Blue",
-      "home_away": "away",
-      "opponent": "Castle Donington Hawks U9"
-    },
     {
       "id": "cac361961179eb35c61eea378d2e40de",
       "date": "2026-05-10",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a661d5738c2a916678c5ec8c44beca0a",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Castle Donington Hawks U9",
+      "away_team": "Priory Celtic 1967 U9",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sun Spring Div 6 Blue",
+      "home_away": "away",
+      "opponent": "Castle Donington Hawks U9",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "f81548ae22d841dc56735c48224596b2",
       "date": "2026-04-23",

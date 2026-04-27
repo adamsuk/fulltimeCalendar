@@ -1,6 +1,6 @@
 {
   "club": "Long Bennington",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
     {
       "id": "7d6ca736f1333eb3d305dbf932b6839c",
@@ -14,19 +14,6 @@
       "team": "Long Bennington U14",
       "home_away": "home",
       "opponent": "Spirit Celtic White U14"
-    },
-    {
-      "id": "30c09042266fbc4a80ccf355c4729780",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "ASFC Wolves U10",
-      "away_team": "Long Bennington U10",
-      "venue": "Park Road Recreation Ground NG20 8JG",
-      "division": "U10 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Long Bennington U10",
-      "home_away": "away",
-      "opponent": "ASFC Wolves U10"
     },
     {
       "id": "5ca5322bc7e9b3f7751f6aff4a5effef",
@@ -95,6 +82,23 @@
     }
   ],
   "results": [
+    {
+      "id": "30c09042266fbc4a80ccf355c4729780",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "ASFC Wolves U10",
+      "away_team": "Long Bennington U10",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sun Spring Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Long Bennington U10",
+      "home_away": "away",
+      "opponent": "ASFC Wolves U10",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "181c95e936a478843ac4a1bcbd467ccb",
       "date": "2026-04-25",

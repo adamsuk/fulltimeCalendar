@@ -1,20 +1,7 @@
 {
   "club": "Aspire",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
-    {
-      "id": "9a49fc267e25636336c8ce9da6d1e299",
-      "date": "2026-04-26",
-      "time": "09:00",
-      "home_team": "DLFC Black U8",
-      "away_team": "Aspire FC U8",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U8 Sun Spring 1",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Aspire FC U8",
-      "home_away": "away",
-      "opponent": "DLFC Black U8"
-    },
     {
       "id": "2789a6c0e3824577183ab484edc7bff5",
       "date": "2026-04-26",
@@ -27,32 +14,6 @@
       "team": "Aspire FC U10",
       "home_away": "home",
       "opponent": "Eastwood CFC Madrid U10"
-    },
-    {
-      "id": "86077cd60e0643bfabfcce9bbacdf609",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Aspire FC U7",
-      "away_team": "AJ Sport Gold U7",
-      "venue": "Nottingham Trent University NG11 8NS",
-      "division": "U7 Sun Spring Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Aspire FC U7",
-      "home_away": "home",
-      "opponent": "AJ Sport Gold U7"
-    },
-    {
-      "id": "272e7862dcc10d759f44ac231e632991",
-      "date": "2026-04-26",
-      "time": "10:30",
-      "home_team": "Aspire U13",
-      "away_team": "Moorgreen Colts Blue U13",
-      "venue": "Nottingham Trent University NG11 8NS",
-      "division": "U13 Sun Spring Div 1 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Aspire U13",
-      "home_away": "home",
-      "opponent": "Moorgreen Colts Blue U13"
     },
     {
       "id": "c5014f08bf9c252dc8f2451fc7d62f5f",
@@ -69,6 +30,57 @@
     }
   ],
   "results": [
+    {
+      "id": "272e7862dcc10d759f44ac231e632991",
+      "date": "2026-04-26",
+      "time": "10:30",
+      "home_team": "Aspire U13",
+      "away_team": "Moorgreen Colts Blue U13",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sun Spring Div 1 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Aspire U13",
+      "home_away": "home",
+      "opponent": "Moorgreen Colts Blue U13",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
+      "id": "86077cd60e0643bfabfcce9bbacdf609",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Aspire FC U7",
+      "away_team": "AJ Sport Gold U7",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U7 Sun Spring Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Aspire FC U7",
+      "home_away": "home",
+      "opponent": "AJ Sport Gold U7",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "9a49fc267e25636336c8ce9da6d1e299",
+      "date": "2026-04-26",
+      "time": "09:00",
+      "home_team": "DLFC Black U8",
+      "away_team": "Aspire FC U8",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U8 Sun Spring 1",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Aspire FC U8",
+      "home_away": "away",
+      "opponent": "DLFC Black U8",
+      "goals_for": null,
+      "goals_against": null
+    },
     {
       "id": "8eb7aa45bf616f059775d974168696c1",
       "date": "2026-04-25",

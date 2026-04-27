@@ -1,6 +1,6 @@
 {
   "club": "West Bridgford",
-  "generated": "2026-04-26T07:16:00Z",
+  "generated": "2026-04-27T08:03:43Z",
   "fixtures": [
     {
       "id": "3c2f4d185182fa444977a45747ad1f51",
@@ -14,32 +14,6 @@
       "team": "West Bridgford Development",
       "home_away": "home",
       "opponent": "South Notts AFC Development"
-    },
-    {
-      "id": "6f872eddb7f11f38049bff6a5bd56216",
-      "date": "2026-04-26",
-      "time": "09:00",
-      "home_team": "West Bridgford Colts U13 Lions",
-      "away_team": "Calverton Miners Welfare FC U13",
-      "venue": "GRESHAM SPORTS PARK",
-      "division": "U13 Div 1 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "West Bridgford Colts U13 Lions",
-      "home_away": "home",
-      "opponent": "Calverton Miners Welfare FC U13"
-    },
-    {
-      "id": "4aee879539e634feb40f2a7fba2390db",
-      "date": "2026-04-26",
-      "time": "09:30",
-      "home_team": "Keyworth United F.C. U11 Tigers",
-      "away_team": "West Bridgford Colts U11 Hurricanes",
-      "venue": "RH ACADEMY",
-      "division": "U11 CUP 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "West Bridgford Colts U11 Hurricanes",
-      "home_away": "away",
-      "opponent": "Keyworth United F.C. U11 Tigers"
     },
     {
       "id": "aebfc2ff1228c3f4587a9f8f493e9fc0",
@@ -66,19 +40,6 @@
       "team": "West Bridgford Colts U15 Lionesses",
       "home_away": "home",
       "opponent": "Matlock Town Juniors U15 Girls"
-    },
-    {
-      "id": "df0b6a4a6a00350c8b4a545b65f149e8",
-      "date": "2026-04-26",
-      "time": "16:30",
-      "home_team": "Ravenshead Reds F.C. Youth U18",
-      "away_team": "West Bridgford Colts U18 Rangers Girls",
-      "venue": "RH ACADEMY",
-      "division": "U18 Div 2 League Cup",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "West Bridgford Colts U18 Rangers Girls",
-      "home_away": "away",
-      "opponent": "Ravenshead Reds F.C. Youth U18"
     },
     {
       "id": "6eae730aa2656192f5c74185378b87a9",
@@ -122,10 +83,10 @@
     {
       "id": "7c3c2fcce59871ebab511fa7a5fb5997",
       "date": "2026-05-03",
-      "time": "10:00",
+      "time": "09:00",
       "home_team": "West Bridgford Colts U13 Lions",
       "away_team": "Keyworth United F.C. U13 Girls",
-      "venue": "REGATTA WAY SPORTS GROUND",
+      "venue": "GRESHAM SPORTS PARK",
       "division": "U13 Div 1 9 v 9",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "West Bridgford Colts U13 Lions",
@@ -281,7 +242,7 @@
       "time": "10:00",
       "home_team": "West Bridgford Colts U13 Lions",
       "away_team": "Sandiacre Town Youth U13 Diamonds",
-      "venue": "REGATTA WAY SPORTS GROUND",
+      "venue": "GRESHAM SPORTS PARK",
       "division": "U13 Div 1 9 v 9",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "West Bridgford Colts U13 Lions",
@@ -290,6 +251,57 @@
     }
   ],
   "results": [
+    {
+      "id": "df0b6a4a6a00350c8b4a545b65f149e8",
+      "date": "2026-04-26",
+      "time": "16:30",
+      "home_team": "Ravenshead Reds F.C. Youth U18",
+      "away_team": "West Bridgford Colts U18 Rangers Girls",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "U18 Div 2 League Cup",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "West Bridgford Colts U18 Rangers Girls",
+      "home_away": "away",
+      "opponent": "Ravenshead Reds F.C. Youth U18",
+      "goals_for": 0,
+      "goals_against": 4
+    },
+    {
+      "id": "4aee879539e634feb40f2a7fba2390db",
+      "date": "2026-04-26",
+      "time": "09:30",
+      "home_team": "Keyworth United F.C. U11 Tigers",
+      "away_team": "West Bridgford Colts U11 Hurricanes",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U11 CUP 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "West Bridgford Colts U11 Hurricanes",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U11 Tigers",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "6f872eddb7f11f38049bff6a5bd56216",
+      "date": "2026-04-26",
+      "time": "09:00",
+      "home_team": "West Bridgford Colts U13 Lions",
+      "away_team": "Calverton Miners Welfare FC U13",
+      "home_score": 10,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Div 1 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "West Bridgford Colts U13 Lions",
+      "home_away": "home",
+      "opponent": "Calverton Miners Welfare FC U13",
+      "goals_for": 10,
+      "goals_against": 3
+    },
     {
       "id": "5149d20191340949084f359a7fad1d66",
       "date": "2026-04-21",
