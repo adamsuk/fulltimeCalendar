@@ -1,7 +1,7 @@
 {
   "team": "Allenton United FC U15 Ladies Bees",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-27T08:03:43Z",
+  "generated": "2026-04-28T08:05:16Z",
   "fixtures": [
     {
       "id": "3f81f8c266768f981ad56049f2cb76e7",
@@ -15,39 +15,6 @@
       "opponent": "Hilton Harriers U15 Girls Sunday"
     },
     {
-      "id": "53fe904066630492ea6c870488e52375",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Allenton United FC U15 Ladies Bees",
-      "away_team": "Sherwood Colliery F.C. Ladies U15",
-      "venue": "Allenton United FC U15 Ladies Bees",
-      "division": "U15 Div 2",
-      "home_away": "home",
-      "opponent": "Sherwood Colliery F.C. Ladies U15"
-    },
-    {
-      "id": "2aec737e0c61a75ccbbe226ad0ae8c2d",
-      "date": "2026-04-29",
-      "time": "18:00",
-      "home_team": "Allenton United FC U15 Ladies Bees",
-      "away_team": "Tansley Juniors U15 Girls",
-      "venue": "Allenton United FC U15 Ladies Bees",
-      "division": "U15 Div 2",
-      "home_away": "home",
-      "opponent": "Tansley Juniors U15 Girls"
-    },
-    {
-      "id": "2bf976c156efff8895b856ca84998626",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Allenton United FC U15 Ladies Bees",
-      "away_team": "Willow Wanderers F.C. Youth U15 Amazons",
-      "venue": "CARLTON-LE-WILLOWS ACADEMY",
-      "division": "U15 Div 2",
-      "home_away": "home",
-      "opponent": "Willow Wanderers F.C. Youth U15 Amazons"
-    },
-    {
       "id": "7686ef4cff72e42f879554dd7dd68096",
       "date": "2026-05-03",
       "time": "10:00",
@@ -57,6 +24,28 @@
       "division": "U15 Div 2",
       "home_away": "away",
       "opponent": "Willow Wanderers F.C. Youth U15 Amazons"
+    },
+    {
+      "id": "2bf976c156efff8895b856ca84998626",
+      "date": "2026-05-03",
+      "time": "10:50",
+      "home_team": "Allenton United FC U15 Ladies Bees",
+      "away_team": "Willow Wanderers F.C. Youth U15 Amazons",
+      "venue": "CARLTON-LE-WILLOWS ACADEMY",
+      "division": "U15 Div 2",
+      "home_away": "home",
+      "opponent": "Willow Wanderers F.C. Youth U15 Amazons"
+    },
+    {
+      "id": "dedcde36ff882248c4bd062c15fecdda",
+      "date": "2026-05-05",
+      "time": "18:00",
+      "home_team": "Allenton United FC U15 Ladies Bees",
+      "away_team": "Tansley Juniors U15 Girls",
+      "venue": "Allenton United FC U15 Ladies Bees",
+      "division": "U15 Div 2",
+      "home_away": "home",
+      "opponent": "Tansley Juniors U15 Girls"
     },
     {
       "id": "7bf979affcb0da46c3eeaf5a57dcb8be",
@@ -118,6 +107,21 @@
       "opponent": "Sherwood Colliery F.C. Ladies U15",
       "goals_for": 0,
       "goals_against": 4
+    },
+    {
+      "id": "53fe904066630492ea6c870488e52375",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Allenton United FC U15 Ladies Bees",
+      "away_team": "Sherwood Colliery F.C. Ladies U15",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U15 Div 2",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery F.C. Ladies U15",
+      "goals_for": 1,
+      "goals_against": 2
     },
     {
       "id": "73255dfe4dc667e417a3f9d01a5063d2",

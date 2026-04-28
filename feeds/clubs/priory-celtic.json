@@ -1,6 +1,6 @@
 {
   "club": "Priory Celtic",
-  "generated": "2026-04-27T08:03:43Z",
+  "generated": "2026-04-28T08:05:16Z",
   "fixtures": [
     {
       "id": "a3101d313fe3f2e6eefdfed9a03a9537",
@@ -34,7 +34,7 @@
       "time": "10:00",
       "home_team": "Bingham Town F.C. U12 Girls Blue",
       "away_team": "Priory Celtic F.C. U12 Girls",
-      "venue": "BUTT FIELD SPORTS CLUB",
+      "venue": "KIMBERLEY SCHOOL SPORTS CENTRE",
       "division": "U12 Div 4 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Priory Celtic F.C. U12 Girls",
@@ -81,19 +81,6 @@
       "opponent": "Hilton Harriers U15 Girls Sunday"
     },
     {
-      "id": "0cf7c38c711d1b986ec6396d9be63fa8",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Willow Wanderers F.C. Youth U15 Amazons",
-      "away_team": "Priory Celtic F.C. U15 Girls",
-      "venue": "CARLTON-LE-WILLOWS ACADEMY",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Priory Celtic F.C. U15 Girls",
-      "home_away": "away",
-      "opponent": "Willow Wanderers F.C. Youth U15 Amazons"
-    },
-    {
       "id": "a4c6a226d762d28c944c7c112f5f2bba",
       "date": "2026-05-03",
       "time": "10:00",
@@ -107,19 +94,6 @@
       "opponent": "Bingham Town F.C. U16 Girls"
     },
     {
-      "id": "d85b4c8669efd2721fa4dda00975fc91",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Priory Celtic FC Ladies First Team",
-      "away_team": "Arnold Town FC Women",
-      "venue": "KIMBERLEY SCHOOL SPORTS CENTRE",
-      "division": "Seniors Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Priory Celtic FC Ladies First Team",
-      "home_away": "home",
-      "opponent": "Arnold Town FC Women"
-    },
-    {
       "id": "0d554517cc3ec60b762fa78ffd396023",
       "date": "2026-05-03",
       "time": "12:00",
@@ -131,6 +105,32 @@
       "team": "Priory Celtic F.C. U14 Lionesses",
       "home_away": "home",
       "opponent": "West Bridgford Colts U14 Pacific"
+    },
+    {
+      "id": "3ebdf3b8dba4b696ecd60dc90b93b68c",
+      "date": "2026-05-06",
+      "time": "18:00",
+      "home_team": "Willow Wanderers F.C. Youth U15 Amazons",
+      "away_team": "Priory Celtic F.C. U15 Girls",
+      "venue": "CARLTON-LE-WILLOWS ACADEMY",
+      "division": "U15 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U15 Girls",
+      "home_away": "away",
+      "opponent": "Willow Wanderers F.C. Youth U15 Amazons"
+    },
+    {
+      "id": "150ff0d733b4062cacc2409bae93935a",
+      "date": "2026-05-07",
+      "time": "18:30",
+      "home_team": "Priory Celtic FC Ladies First Team",
+      "away_team": "Arnold Town FC Women",
+      "venue": "KIMBERLEY SCHOOL SPORTS CENTRE",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic FC Ladies First Team",
+      "home_away": "home",
+      "opponent": "Arnold Town FC Women"
     },
     {
       "id": "e7f6bf73eda0275c3a7a6fb24a37b175",
@@ -329,7 +329,7 @@
       "time": "10:30",
       "home_team": "Priory Celtic F.C. U16 Girls",
       "away_team": "Radcliffe Olympic FC U16 Girls",
-      "home_score": 5,
+      "home_score": 6,
       "away_score": 1,
       "venue": "",
       "division": "U16 Div 2",
@@ -337,7 +337,7 @@
       "team": "Priory Celtic F.C. U16 Girls",
       "home_away": "home",
       "opponent": "Radcliffe Olympic FC U16 Girls",
-      "goals_for": 5,
+      "goals_for": 6,
       "goals_against": 1
     },
     {
