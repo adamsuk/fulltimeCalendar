@@ -1,6 +1,6 @@
 {
   "club": "Bingham Town",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
     {
       "id": "3191b5a68a4d9890931473960f03c563",
@@ -14,32 +14,6 @@
       "team": "Bingham Town F.C. U14 Girls Red",
       "home_away": "away",
       "opponent": "Bagthorpe Athletic F.C. Youth U14 girls"
-    },
-    {
-      "id": "35821b50c17a08138b4ad053e73831f3",
-      "date": "2026-04-28",
-      "time": "18:00",
-      "home_team": "Arnold Town Yellow U13",
-      "away_team": "Bingham Town Red U13",
-      "venue": "Eagle Valley NG5 8PS",
-      "division": "U13 Sat YEL Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Bingham Town Red U13",
-      "home_away": "away",
-      "opponent": "Arnold Town Yellow U13"
-    },
-    {
-      "id": "0aa3255e551698344a7a2f86476ce642",
-      "date": "2026-04-28",
-      "time": "19:30",
-      "home_team": "Notts Olympic FC",
-      "away_team": "Bingham Town FC",
-      "venue": "RADFORD FOOTBALL CLUB",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Bingham Town FC",
-      "home_away": "away",
-      "opponent": "Notts Olympic FC"
     },
     {
       "id": "4e267fa8a6d985108f3f5dc48b9936c8",
@@ -251,6 +225,40 @@
     }
   ],
   "results": [
+    {
+      "id": "0aa3255e551698344a7a2f86476ce642",
+      "date": "2026-04-28",
+      "time": "19:30",
+      "home_team": "Notts Olympic FC",
+      "away_team": "Bingham Town FC",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Bingham Town FC",
+      "home_away": "away",
+      "opponent": "Notts Olympic FC",
+      "goals_for": 0,
+      "goals_against": 2
+    },
+    {
+      "id": "35821b50c17a08138b4ad053e73831f3",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "home_team": "Arnold Town Yellow U13",
+      "away_team": "Bingham Town Red U13",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Bingham Town Red U13",
+      "home_away": "away",
+      "opponent": "Arnold Town Yellow U13",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "e9ff96b901b55a4c3689b404a077d303",
       "date": "2026-04-26",

@@ -1,19 +1,8 @@
 {
   "team": "DLFC Grey U10",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
-    {
-      "id": "6cd92ec151bc70ab87bfd1f6c2753d56",
-      "date": "2026-04-28",
-      "time": "18:30",
-      "home_team": "Gotham Rangers U10",
-      "away_team": "DLFC Grey U10",
-      "venue": "Gotham Recreation NG11 0HE",
-      "division": "U10 Sat Spring Div 4 Blue",
-      "home_away": "away",
-      "opponent": "Gotham Rangers U10"
-    },
     {
       "id": "29607ad0c51c113d4cd8989db88f7dae",
       "date": "2026-05-09",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6cd92ec151bc70ab87bfd1f6c2753d56",
+      "date": "2026-04-28",
+      "time": "18:30",
+      "home_team": "Gotham Rangers U10",
+      "away_team": "DLFC Grey U10",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U10 Sat Spring Div 4 Blue",
+      "home_away": "away",
+      "opponent": "Gotham Rangers U10",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "f82e68a0f93770d8a7f78b66a0dad1f9",
       "date": "2026-04-25",

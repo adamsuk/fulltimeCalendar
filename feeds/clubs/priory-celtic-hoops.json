@@ -1,6 +1,6 @@
 {
   "club": "Priory Celtic Hoops",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
     {
       "id": "36afaeb9c0ad8ab9ff1560f6e6206614",
@@ -14,22 +14,26 @@
       "team": "Priory Celtic Hoops U11",
       "home_away": "home",
       "opponent": "Toton Tornados Typhoons U11"
-    },
+    }
+  ],
+  "results": [
     {
       "id": "97678de5caf9af01e56dd74b74cf3bed",
       "date": "2026-04-28",
       "time": "18:00",
       "home_team": "PMG Excel U13",
       "away_team": "Priory Celtic Hoops U13",
-      "venue": "Bulwell Hall Park NG6 8LF",
+      "home_score": 4,
+      "away_score": 4,
+      "venue": "",
       "division": "U13 Sat Spring Div 2 Red",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Priory Celtic Hoops U13",
       "home_away": "away",
-      "opponent": "PMG Excel U13"
-    }
-  ],
-  "results": [
+      "opponent": "PMG Excel U13",
+      "goals_for": 4,
+      "goals_against": 4
+    },
     {
       "id": "6ff6af254e1a3ab4499b5c585f5acff6",
       "date": "2026-04-26",

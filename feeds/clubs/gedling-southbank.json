@@ -1,6 +1,6 @@
 {
   "club": "Gedling Southbank",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
     {
       "id": "ccc1c625a4efe370701dbbbe9f239166",
@@ -27,19 +27,6 @@
       "team": "Gedling Southbank Lynx U12",
       "home_away": "away",
       "opponent": "Manor FC Red U12"
-    },
-    {
-      "id": "86b41233bb27b7386b812866b3c42a20",
-      "date": "2026-04-28",
-      "time": "18:00",
-      "home_team": "Phoenix Inham Firebirds U12",
-      "away_team": "Gedling Southbank Athletic U12",
-      "venue": "Inham Nook Recreation Ground NG9 4GQ",
-      "division": "U12 Sat Spring Div 7 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Gedling Southbank Athletic U12",
-      "home_away": "away",
-      "opponent": "Phoenix Inham Firebirds U12"
     },
     {
       "id": "033d801a932f0ad4e764064161ccf979",
@@ -238,6 +225,23 @@
     }
   ],
   "results": [
+    {
+      "id": "86b41233bb27b7386b812866b3c42a20",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "home_team": "Phoenix Inham Firebirds U12",
+      "away_team": "Gedling Southbank Athletic U12",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 7 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank Athletic U12",
+      "home_away": "away",
+      "opponent": "Phoenix Inham Firebirds U12",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "62205f7e9d4aee24beb79d62abc6c516",
       "date": "2026-04-26",

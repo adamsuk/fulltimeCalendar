@@ -1,19 +1,8 @@
 {
   "team": "Wollaton FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
-    {
-      "id": "385a4f5e2e4a826ce232b5c87ac5dbda",
-      "date": "2026-04-28",
-      "time": "18:45",
-      "home_team": "Kimberley Miners Welfare Reserves",
-      "away_team": "Wollaton FC",
-      "venue": "STAG RECREATION GROUND",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Kimberley Miners Welfare Reserves"
-    },
     {
       "id": "6140713f767d1c3d251ec78f40193b2f",
       "date": "2026-05-02",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "385a4f5e2e4a826ce232b5c87ac5dbda",
+      "date": "2026-04-28",
+      "time": "18:45",
+      "home_team": "Kimberley Miners Welfare Reserves",
+      "away_team": "Wollaton FC",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Kimberley Miners Welfare Reserves",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "2916d0f64eede55a820fbc62eca92869",
       "date": "2026-04-25",

@@ -1,6 +1,6 @@
 {
   "club": "Ruddington Village",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
     {
       "id": "728393015694333a48360ad5452c500b",
@@ -14,32 +14,6 @@
       "team": "Ruddington Village FC",
       "home_away": "away",
       "opponent": "Southwell City Reserves"
-    },
-    {
-      "id": "16d5a6b79b84a582353bcf893536ce61",
-      "date": "2026-04-28",
-      "time": "18:30",
-      "home_team": "Ruddington Village U12",
-      "away_team": "Edwalton Cavaliers White U12",
-      "venue": "Jubilee Fields NG11 6NX",
-      "division": "U12 Sat Spring Div 3 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ruddington Village U12",
-      "home_away": "home",
-      "opponent": "Edwalton Cavaliers White U12"
-    },
-    {
-      "id": "2016ee3f2a8ade65962b50b4f7324045",
-      "date": "2026-04-28",
-      "time": "18:45",
-      "home_team": "Ruddington Village FC",
-      "away_team": "FC Cavaliers",
-      "venue": "ELMS PARK",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Ruddington Village FC",
-      "home_away": "home",
-      "opponent": "FC Cavaliers"
     },
     {
       "id": "0eb66582d36fb47564b9ec7b675fdd6d",
@@ -69,6 +43,40 @@
     }
   ],
   "results": [
+    {
+      "id": "2016ee3f2a8ade65962b50b4f7324045",
+      "date": "2026-04-28",
+      "time": "18:45",
+      "home_team": "Ruddington Village FC",
+      "away_team": "FC Cavaliers",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Ruddington Village FC",
+      "home_away": "home",
+      "opponent": "FC Cavaliers",
+      "goals_for": 3,
+      "goals_against": 1
+    },
+    {
+      "id": "16d5a6b79b84a582353bcf893536ce61",
+      "date": "2026-04-28",
+      "time": "18:30",
+      "home_team": "Ruddington Village U12",
+      "away_team": "Edwalton Cavaliers White U12",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 3 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ruddington Village U12",
+      "home_away": "home",
+      "opponent": "Edwalton Cavaliers White U12",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "62205f7e9d4aee24beb79d62abc6c516",
       "date": "2026-04-26",

@@ -1,33 +1,7 @@
 {
   "club": "Dunkirk",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
-    {
-      "id": "ed2b82bedc14865a59d19854465574c1",
-      "date": "2026-04-28",
-      "time": "18:00",
-      "home_team": "Ilkeston Town Robins U14",
-      "away_team": "Dunkirk U14",
-      "venue": "Booths Playing Fields, Ilkeston DE7 8JF",
-      "division": "u14 Sat Spring Div 1 Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Dunkirk U14",
-      "home_away": "away",
-      "opponent": "Ilkeston Town Robins U14"
-    },
-    {
-      "id": "dbdeb26074082fc150d2002aa84c72ea",
-      "date": "2026-04-28",
-      "time": "19:30",
-      "home_team": "Dunkirk AFC",
-      "away_team": "Woodthorpe Park Rangers FC",
-      "venue": "RON STEEL SPORTS GROUND #1",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Dunkirk AFC",
-      "home_away": "home",
-      "opponent": "Woodthorpe Park Rangers FC"
-    },
     {
       "id": "3b33fc547d01ebc77e161f1509820f2d",
       "date": "2026-05-02",
@@ -56,6 +30,40 @@
     }
   ],
   "results": [
+    {
+      "id": "dbdeb26074082fc150d2002aa84c72ea",
+      "date": "2026-04-28",
+      "time": "19:30",
+      "home_team": "Dunkirk AFC",
+      "away_team": "Woodthorpe Park Rangers FC",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Dunkirk AFC",
+      "home_away": "home",
+      "opponent": "Woodthorpe Park Rangers FC",
+      "goals_for": 1,
+      "goals_against": 4
+    },
+    {
+      "id": "ed2b82bedc14865a59d19854465574c1",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "home_team": "Ilkeston Town Robins U14",
+      "away_team": "Dunkirk U14",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "u14 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Dunkirk U14",
+      "home_away": "away",
+      "opponent": "Ilkeston Town Robins U14",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "f3b6c45ba2bbb7bfe5d7f449c0bb4591",
       "date": "2026-04-26",

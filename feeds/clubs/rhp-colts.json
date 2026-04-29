@@ -1,20 +1,7 @@
 {
   "club": "RHP Colts",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
-    {
-      "id": "c0954149bed992d16bcb96182e506943",
-      "date": "2026-04-28",
-      "time": "18:30",
-      "home_team": "Newark Town Cavaliers U14",
-      "away_team": "RHP Colts White U14",
-      "venue": "Devon Park NG24 4QN",
-      "division": "u14 Sat Spring Div 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "RHP Colts White U14",
-      "home_away": "away",
-      "opponent": "Newark Town Cavaliers U14"
-    },
     {
       "id": "e17b14a26ff20fefebfefde85ca47154",
       "date": "2026-05-02",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "c0954149bed992d16bcb96182e506943",
+      "date": "2026-04-28",
+      "time": "18:30",
+      "home_team": "Newark Town Cavaliers U14",
+      "away_team": "RHP Colts White U14",
+      "home_score": 3,
+      "away_score": 6,
+      "venue": "",
+      "division": "u14 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "RHP Colts White U14",
+      "home_away": "away",
+      "opponent": "Newark Town Cavaliers U14",
+      "goals_for": 6,
+      "goals_against": 3
+    },
     {
       "id": "e79c4fe099e39d5f0b2c6abc7594d3f0",
       "date": "2026-04-26",

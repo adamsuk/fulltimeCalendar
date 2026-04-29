@@ -1,19 +1,8 @@
 {
   "team": "Bingham Town FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
-    {
-      "id": "0aa3255e551698344a7a2f86476ce642",
-      "date": "2026-04-28",
-      "time": "19:30",
-      "home_team": "Notts Olympic FC",
-      "away_team": "Bingham Town FC",
-      "venue": "RADFORD FOOTBALL CLUB",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Notts Olympic FC"
-    },
     {
       "id": "6140713f767d1c3d251ec78f40193b2f",
       "date": "2026-05-02",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0aa3255e551698344a7a2f86476ce642",
+      "date": "2026-04-28",
+      "time": "19:30",
+      "home_team": "Notts Olympic FC",
+      "away_team": "Bingham Town FC",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Notts Olympic FC",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "d6962ddf4f08b5d54c11378d699b12c2",
       "date": "2026-04-25",

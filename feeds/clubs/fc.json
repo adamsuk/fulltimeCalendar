@@ -1,6 +1,6 @@
 {
   "club": "FC",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
     {
       "id": "2b5afe88c7130df2247fb967f4576b7d",
@@ -14,32 +14,6 @@
       "team": "FC Cavaliers U12",
       "home_away": "away",
       "opponent": "WBYFC Palmeiras U12"
-    },
-    {
-      "id": "bb2934e5d7aa84514888cd890b0468fa",
-      "date": "2026-04-28",
-      "time": "18:00",
-      "home_team": "Mickleover C P Athletic U14",
-      "away_team": "FC Cavaliers U14",
-      "venue": "Merlin Way DE30UJ",
-      "division": "U14 Sat Spring Div 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "FC Cavaliers U14",
-      "home_away": "away",
-      "opponent": "Mickleover C P Athletic U14"
-    },
-    {
-      "id": "2016ee3f2a8ade65962b50b4f7324045",
-      "date": "2026-04-28",
-      "time": "18:45",
-      "home_team": "Ruddington Village FC",
-      "away_team": "FC Cavaliers",
-      "venue": "ELMS PARK",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "FC Cavaliers",
-      "home_away": "away",
-      "opponent": "Ruddington Village FC"
     },
     {
       "id": "3719d062aa15ea46083e3268812bd4e3",
@@ -56,6 +30,40 @@
     }
   ],
   "results": [
+    {
+      "id": "2016ee3f2a8ade65962b50b4f7324045",
+      "date": "2026-04-28",
+      "time": "18:45",
+      "home_team": "Ruddington Village FC",
+      "away_team": "FC Cavaliers",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "FC Cavaliers",
+      "home_away": "away",
+      "opponent": "Ruddington Village FC",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
+      "id": "bb2934e5d7aa84514888cd890b0468fa",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "home_team": "Mickleover C P Athletic U14",
+      "away_team": "FC Cavaliers U14",
+      "home_score": 2,
+      "away_score": 7,
+      "venue": "",
+      "division": "U14 Sat Spring Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "FC Cavaliers U14",
+      "home_away": "away",
+      "opponent": "Mickleover C P Athletic U14",
+      "goals_for": 7,
+      "goals_against": 2
+    },
     {
       "id": "ada6a2645f328c076067fc51fb3bbb03",
       "date": "2026-04-25",

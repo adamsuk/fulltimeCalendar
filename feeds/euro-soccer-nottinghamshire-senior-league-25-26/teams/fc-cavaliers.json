@@ -1,19 +1,8 @@
 {
   "team": "FC Cavaliers",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
-    {
-      "id": "2016ee3f2a8ade65962b50b4f7324045",
-      "date": "2026-04-28",
-      "time": "18:45",
-      "home_team": "Ruddington Village FC",
-      "away_team": "FC Cavaliers",
-      "venue": "ELMS PARK",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Ruddington Village FC"
-    },
     {
       "id": "3719d062aa15ea46083e3268812bd4e3",
       "date": "2026-05-02",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2016ee3f2a8ade65962b50b4f7324045",
+      "date": "2026-04-28",
+      "time": "18:45",
+      "home_team": "Ruddington Village FC",
+      "away_team": "FC Cavaliers",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Ruddington Village FC",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "ada6a2645f328c076067fc51fb3bbb03",
       "date": "2026-04-25",

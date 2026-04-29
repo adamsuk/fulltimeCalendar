@@ -1,6 +1,6 @@
 {
   "club": "Attenborough",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
     {
       "id": "67d7c44309c11b0fff087d9eef3b5541",
@@ -14,32 +14,6 @@
       "team": "Attenborough Colts Green U14",
       "home_away": "away",
       "opponent": "PMG Excel U14"
-    },
-    {
-      "id": "a3101d313fe3f2e6eefdfed9a03a9537",
-      "date": "2026-04-28",
-      "time": "18:00",
-      "home_team": "Priory Celtic White U14",
-      "away_team": "Attenborough Colts Yellow U14",
-      "venue": "Kimberley Leisure Centre NG16 2NJ GP4",
-      "division": "U14 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Attenborough Colts Yellow U14",
-      "home_away": "away",
-      "opponent": "Priory Celtic White U14"
-    },
-    {
-      "id": "9c4029a3734f707fa7836449db555500",
-      "date": "2026-05-02",
-      "time": "15:00",
-      "home_team": "Phoenix Athletic FC",
-      "away_team": "Attenborough FC",
-      "venue": "GRESHAM SPORTS PARK #1",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Attenborough FC",
-      "home_away": "away",
-      "opponent": "Phoenix Athletic FC"
     },
     {
       "id": "99a9fa7dac856538d699c4adc087c953",
@@ -66,9 +40,39 @@
       "team": "Attenborough Colts Yellow U14",
       "home_away": "away",
       "opponent": "East Leake Bantams Orange U14"
+    },
+    {
+      "id": "7a6e077d99a9f051049f572fec1920d4",
+      "date": "2026-05-07",
+      "time": "18:30",
+      "home_team": "Phoenix Athletic FC",
+      "away_team": "Attenborough FC",
+      "venue": "GRESHAM SPORTS PARK #1",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Attenborough FC",
+      "home_away": "away",
+      "opponent": "Phoenix Athletic FC"
     }
   ],
   "results": [
+    {
+      "id": "a3101d313fe3f2e6eefdfed9a03a9537",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "home_team": "Priory Celtic White U14",
+      "away_team": "Attenborough Colts Yellow U14",
+      "home_score": 5,
+      "away_score": 6,
+      "venue": "",
+      "division": "U14 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Attenborough Colts Yellow U14",
+      "home_away": "away",
+      "opponent": "Priory Celtic White U14",
+      "goals_for": 6,
+      "goals_against": 5
+    },
     {
       "id": "94f9da9d7a500e1b22669171d5372e67",
       "date": "2026-04-26",

@@ -1,6 +1,6 @@
 {
   "club": "Eastwood",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
     {
       "id": "2789a6c0e3824577183ab484edc7bff5",
@@ -27,19 +27,6 @@
       "team": "Eastwood CFC U12 Girls",
       "home_away": "away",
       "opponent": "Southwell City FC U12 Swans"
-    },
-    {
-      "id": "4238974e7ac46b17504e2cd6d6f2f4be",
-      "date": "2026-04-28",
-      "time": "18:30",
-      "home_team": "Arnold Town Yellow U12",
-      "away_team": "Eastwood CFC Black U12",
-      "venue": "Eagle Valley NG5 8PS",
-      "division": "U12 Sat Spring Div 4",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Eastwood CFC Black U12",
-      "home_away": "away",
-      "opponent": "Arnold Town Yellow U12"
     },
     {
       "id": "bc37d399fd5dd7a7236d839eb205fe2e",
@@ -95,6 +82,23 @@
     }
   ],
   "results": [
+    {
+      "id": "4238974e7ac46b17504e2cd6d6f2f4be",
+      "date": "2026-04-28",
+      "time": "18:30",
+      "home_team": "Arnold Town Yellow U12",
+      "away_team": "Eastwood CFC Black U12",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 4",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Eastwood CFC Black U12",
+      "home_away": "away",
+      "opponent": "Arnold Town Yellow U12",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "c6c6db4b3f05a82183ace44bcd010784",
       "date": "2026-04-26",

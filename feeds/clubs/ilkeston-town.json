@@ -1,6 +1,6 @@
 {
   "club": "Ilkeston Town",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
     {
       "id": "f2446ea0d8b96927e1a1e1cbeb268646",
@@ -14,19 +14,6 @@
       "team": "Ilkeston Town White Star U14",
       "home_away": "away",
       "opponent": "Eastwood CFC Aces U14"
-    },
-    {
-      "id": "ed2b82bedc14865a59d19854465574c1",
-      "date": "2026-04-28",
-      "time": "18:00",
-      "home_team": "Ilkeston Town Robins U14",
-      "away_team": "Dunkirk U14",
-      "venue": "Booths Playing Fields, Ilkeston DE7 8JF",
-      "division": "u14 Sat Spring Div 1 Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Ilkeston Town Robins U14",
-      "home_away": "home",
-      "opponent": "Dunkirk U14"
     },
     {
       "id": "e825be2a29fcb7779d484ec2d3756b2a",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "ed2b82bedc14865a59d19854465574c1",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "home_team": "Ilkeston Town Robins U14",
+      "away_team": "Dunkirk U14",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "u14 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Ilkeston Town Robins U14",
+      "home_away": "home",
+      "opponent": "Dunkirk U14",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "a63a70c82341ffc6b7dc93481e05e7ad",
       "date": "2026-04-26",

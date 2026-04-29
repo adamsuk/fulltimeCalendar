@@ -1,33 +1,7 @@
 {
   "club": "Mickleover",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
-    {
-      "id": "bb2934e5d7aa84514888cd890b0468fa",
-      "date": "2026-04-28",
-      "time": "18:00",
-      "home_team": "Mickleover C P Athletic U14",
-      "away_team": "FC Cavaliers U14",
-      "venue": "Merlin Way DE30UJ",
-      "division": "U14 Sat Spring Div 2 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Mickleover C P Athletic U14",
-      "home_away": "home",
-      "opponent": "FC Cavaliers U14"
-    },
-    {
-      "id": "2029d6be0fd7f32de2d7823f44e64ac9",
-      "date": "2026-04-28",
-      "time": "18:00",
-      "home_team": "Mickleover Jnrs Porto U13",
-      "away_team": "Mickleover Country Park U13",
-      "venue": "Varsity Grange Football Complex DE3 9EB",
-      "division": "U13 Sat Spring Div 4 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Mickleover Country Park U13",
-      "home_away": "away",
-      "opponent": "Mickleover Jnrs Porto U13"
-    },
     {
       "id": "e571e15c66d9da53573fbfd44e8e63dd",
       "date": "2026-05-09",
@@ -43,6 +17,40 @@
     }
   ],
   "results": [
+    {
+      "id": "bb2934e5d7aa84514888cd890b0468fa",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "home_team": "Mickleover C P Athletic U14",
+      "away_team": "FC Cavaliers U14",
+      "home_score": 2,
+      "away_score": 7,
+      "venue": "",
+      "division": "U14 Sat Spring Div 2 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mickleover C P Athletic U14",
+      "home_away": "home",
+      "opponent": "FC Cavaliers U14",
+      "goals_for": 2,
+      "goals_against": 7
+    },
+    {
+      "id": "2029d6be0fd7f32de2d7823f44e64ac9",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "home_team": "Mickleover Jnrs Porto U13",
+      "away_team": "Mickleover Country Park U13",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat Spring Div 4 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Mickleover Country Park U13",
+      "home_away": "away",
+      "opponent": "Mickleover Jnrs Porto U13",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "3400855c118a228b72d08838b505266d",
       "date": "2026-04-26",

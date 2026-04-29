@@ -1,6 +1,6 @@
 {
   "club": "AJ Sport",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
     {
       "id": "6cf2b543cd315c5e29610b0673c1a237",
@@ -40,32 +40,6 @@
       "team": "AJ Sport White U9",
       "home_away": "home",
       "opponent": "East Leake Bantams Black U9"
-    },
-    {
-      "id": "41bd8b84068a9a44bcf51854212eeb03",
-      "date": "2026-04-28",
-      "time": "18:00",
-      "home_team": "Hilton Harriers Bears U14",
-      "away_team": "AJ Sport FC U14",
-      "venue": "The Mease Pavilion DE65 5LS",
-      "division": "u14 Sat Spring Div 1 Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "AJ Sport FC U14",
-      "home_away": "away",
-      "opponent": "Hilton Harriers Bears U14"
-    },
-    {
-      "id": "cc7fd06a7dc5bbbbb6c2d721e79fee31",
-      "date": "2026-04-28",
-      "time": "18:45",
-      "home_team": "AJ Sport F.C. Reserves",
-      "away_team": "Phoenix Athletic FC",
-      "venue": "LEYTON CRESCENT RECREATION GROUND",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "AJ Sport F.C. Reserves",
-      "home_away": "home",
-      "opponent": "Phoenix Athletic FC"
     },
     {
       "id": "44bb321cb1f04d2a269ec64f02b4072d",
@@ -108,6 +82,40 @@
     }
   ],
   "results": [
+    {
+      "id": "cc7fd06a7dc5bbbbb6c2d721e79fee31",
+      "date": "2026-04-28",
+      "time": "18:45",
+      "home_team": "AJ Sport F.C. Reserves",
+      "away_team": "Phoenix Athletic FC",
+      "home_score": 1,
+      "away_score": 7,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "AJ Sport F.C. Reserves",
+      "home_away": "home",
+      "opponent": "Phoenix Athletic FC",
+      "goals_for": 1,
+      "goals_against": 7
+    },
+    {
+      "id": "41bd8b84068a9a44bcf51854212eeb03",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "home_team": "Hilton Harriers Bears U14",
+      "away_team": "AJ Sport FC U14",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "u14 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "AJ Sport FC U14",
+      "home_away": "away",
+      "opponent": "Hilton Harriers Bears U14",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "487bb04797a0799fc3c2bbf5e350e991",
       "date": "2026-04-26",

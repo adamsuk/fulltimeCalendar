@@ -1,20 +1,7 @@
 {
   "club": "Quarrydale",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
-    {
-      "id": "d6e2c0fef1227188bc67b96b5995f77e",
-      "date": "2026-04-28",
-      "time": "18:15",
-      "home_team": "G3A PSG U11",
-      "away_team": "Quarrydale United U11",
-      "venue": "Bentinck Miners Welfare NG17 8GS",
-      "division": "U11 Sat Spring Div 4 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Quarrydale United U11",
-      "home_away": "away",
-      "opponent": "G3A PSG U11"
-    },
     {
       "id": "e3a74c3978ff0b5de75458a6c4ca0918",
       "date": "2026-05-03",
@@ -108,6 +95,23 @@
     }
   ],
   "results": [
+    {
+      "id": "d6e2c0fef1227188bc67b96b5995f77e",
+      "date": "2026-04-28",
+      "time": "18:15",
+      "home_team": "G3A PSG U11",
+      "away_team": "Quarrydale United U11",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U11 Sat Spring Div 4 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United U11",
+      "home_away": "away",
+      "opponent": "G3A PSG U11",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "b9bcafbb46e2fa7bfecc36f41b2b74cb",
       "date": "2026-04-26",

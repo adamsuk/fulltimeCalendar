@@ -1,6 +1,6 @@
 {
   "club": "Inspire Nottingham",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
     {
       "id": "6ab01a75bd8b174794581c895da8de2b",
@@ -29,19 +29,6 @@
       "opponent": "Long Eaton United Atalanta U8"
     },
     {
-      "id": "e456ea3a5d0bdb81a0635c40833088a6",
-      "date": "2026-04-28",
-      "time": "18:30",
-      "home_team": "Canoville FC Gold U13",
-      "away_team": "Inspire Nottingham FC Red U13",
-      "venue": "William Lee Memorial Park NG14 6SA",
-      "division": "U13 Sat Spring Div 1",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Inspire Nottingham FC Red U13",
-      "home_away": "away",
-      "opponent": "Canoville FC Gold U13"
-    },
-    {
       "id": "81bd480b30acb8886b553f7104405c38",
       "date": "2026-05-09",
       "time": "12:00",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "e456ea3a5d0bdb81a0635c40833088a6",
+      "date": "2026-04-28",
+      "time": "18:30",
+      "home_team": "Canoville FC Gold U13",
+      "away_team": "Inspire Nottingham FC Red U13",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Sat Spring Div 1",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Inspire Nottingham FC Red U13",
+      "home_away": "away",
+      "opponent": "Canoville FC Gold U13",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "cfa9d7d7ed325fedab8ab17419593367",
       "date": "2026-04-26",

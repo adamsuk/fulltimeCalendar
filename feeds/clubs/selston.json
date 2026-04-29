@@ -1,6 +1,6 @@
 {
   "club": "Selston",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
     {
       "id": "6ab01a75bd8b174794581c895da8de2b",
@@ -14,19 +14,6 @@
       "team": "Selston FC U7",
       "home_away": "home",
       "opponent": "Inspire Nottingham Black U7"
-    },
-    {
-      "id": "2025936f30759699be8c847340d1346c",
-      "date": "2026-04-28",
-      "time": "19:30",
-      "home_team": "Selston F.C. First",
-      "away_team": "Collingham FC",
-      "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
-      "division": "Saturday Senior Trophy",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Selston F.C. First",
-      "home_away": "home",
-      "opponent": "Collingham FC"
     },
     {
       "id": "4f3dc4100f0cbcacb627b6650dd1d39f",
@@ -82,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "2025936f30759699be8c847340d1346c",
+      "date": "2026-04-28",
+      "time": "19:30",
+      "home_team": "Selston F.C. First",
+      "away_team": "Collingham FC",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "Saturday Senior Trophy",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Selston F.C. First",
+      "home_away": "home",
+      "opponent": "Collingham FC",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "e040eaa25279ed53bd9787e2d4264f02",
       "date": "2026-04-26",

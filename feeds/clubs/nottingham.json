@@ -1,6 +1,6 @@
 {
   "club": "Nottingham",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
     {
       "id": "415088ca6dbf75a992002efbd69d6faf",
@@ -16,19 +16,6 @@
       "opponent": "Brodsworth Welfare AFC- Warriors U16"
     },
     {
-      "id": "40485f9c874c4f5edbe84b1befcc827c",
-      "date": "2026-04-28",
-      "time": "18:00",
-      "home_team": "Nottingham FC Blue U12",
-      "away_team": "Basford United Silva U12",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U12 Sun Spring Div 1 Gold",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Nottingham FC Blue U12",
-      "home_away": "home",
-      "opponent": "Basford United Silva U12"
-    },
-    {
       "id": "f96cbade50141c5a39f040969ced60f3",
       "date": "2026-04-28",
       "time": "18:00",
@@ -40,19 +27,6 @@
       "team": "Nottingham FC Black U13",
       "home_away": "away",
       "opponent": "Newton & Blkwl Tornadoes U13"
-    },
-    {
-      "id": "be6225bb8d4cf2bca1434de764115c44",
-      "date": "2026-04-28",
-      "time": "18:00",
-      "home_team": "Nottingham FC Onyx U11",
-      "away_team": "Holbrook Sports U11",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U11 Sat Spring Premier Division",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Nottingham FC Onyx U11",
-      "home_away": "home",
-      "opponent": "Holbrook Sports U11"
     },
     {
       "id": "e4d94ad7195a2b48ebe01ec8138dbd18",
@@ -173,6 +147,40 @@
     }
   ],
   "results": [
+    {
+      "id": "40485f9c874c4f5edbe84b1befcc827c",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "home_team": "Nottingham FC Blue U12",
+      "away_team": "Basford United Silva U12",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "",
+      "division": "U12 Sun Spring Div 1 Gold",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Nottingham FC Blue U12",
+      "home_away": "home",
+      "opponent": "Basford United Silva U12",
+      "goals_for": 1,
+      "goals_against": 6
+    },
+    {
+      "id": "be6225bb8d4cf2bca1434de764115c44",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "home_team": "Nottingham FC Onyx U11",
+      "away_team": "Holbrook Sports U11",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Premier Division",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Onyx U11",
+      "home_away": "home",
+      "opponent": "Holbrook Sports U11",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "6b03bdae9fb2703d12f894a2dbba872e",
       "date": "2026-04-26",

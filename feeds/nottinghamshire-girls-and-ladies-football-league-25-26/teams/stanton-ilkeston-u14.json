@@ -1,19 +1,8 @@
 {
   "team": "Stanton Ilkeston U14",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
-    {
-      "id": "06ff050aaa3004dd7868cd1a675ba4d3",
-      "date": "2026-04-28",
-      "time": "18:30",
-      "home_team": "Stanton Ilkeston U14",
-      "away_team": "Matlock Town Juniors U14 's Gladiators",
-      "venue": "RON BROOKS PLAYING FIELD",
-      "division": "U14 Div 1",
-      "home_away": "home",
-      "opponent": "Matlock Town Juniors U14 's Gladiators"
-    },
     {
       "id": "0b4212a5f561e46d63b995ebdc6dcb1f",
       "date": "2026-05-03",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "06ff050aaa3004dd7868cd1a675ba4d3",
+      "date": "2026-04-28",
+      "time": "18:30",
+      "home_team": "Stanton Ilkeston U14",
+      "away_team": "Matlock Town Juniors U14 's Gladiators",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Div 1",
+      "home_away": "home",
+      "opponent": "Matlock Town Juniors U14 's Gladiators",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "e6020b60f1f83a2629a87c86b279236d",
       "date": "2026-04-26",

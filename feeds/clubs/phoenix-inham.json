@@ -1,6 +1,6 @@
 {
   "club": "Phoenix Inham",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
     {
       "id": "910f0d0a5b009c3f2a0ca1f47efff3b9",
@@ -14,19 +14,6 @@
       "team": "Phoenix Inham Blaze U14",
       "home_away": "home",
       "opponent": "Bottesford Yellow U14"
-    },
-    {
-      "id": "86b41233bb27b7386b812866b3c42a20",
-      "date": "2026-04-28",
-      "time": "18:00",
-      "home_team": "Phoenix Inham Firebirds U12",
-      "away_team": "Gedling Southbank Athletic U12",
-      "venue": "Inham Nook Recreation Ground NG9 4GQ",
-      "division": "U12 Sat Spring Div 7 Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Phoenix Inham Firebirds U12",
-      "home_away": "home",
-      "opponent": "Gedling Southbank Athletic U12"
     },
     {
       "id": "bb76e029d4cebd9440b48ec803adb957",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "86b41233bb27b7386b812866b3c42a20",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "home_team": "Phoenix Inham Firebirds U12",
+      "away_team": "Gedling Southbank Athletic U12",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 7 Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Phoenix Inham Firebirds U12",
+      "home_away": "home",
+      "opponent": "Gedling Southbank Athletic U12",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "ca017352c86b699717945b7e92bc8537",
       "date": "2026-04-26",

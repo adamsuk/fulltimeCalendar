@@ -1,43 +1,47 @@
 {
   "team": "Phoenix Athletic FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
-    {
-      "id": "cc7fd06a7dc5bbbbb6c2d721e79fee31",
-      "date": "2026-04-28",
-      "time": "18:45",
-      "home_team": "AJ Sport F.C. Reserves",
-      "away_team": "Phoenix Athletic FC",
-      "venue": "LEYTON CRESCENT RECREATION GROUND",
-      "division": "NSL Division Three",
-      "home_away": "away",
-      "opponent": "AJ Sport F.C. Reserves"
-    },
-    {
-      "id": "9c4029a3734f707fa7836449db555500",
-      "date": "2026-05-02",
-      "time": "15:00",
-      "home_team": "Phoenix Athletic FC",
-      "away_team": "Attenborough FC",
-      "venue": "GRESHAM SPORTS PARK #1",
-      "division": "NSL Division Three",
-      "home_away": "home",
-      "opponent": "Attenborough FC"
-    },
     {
       "id": "97fdbcd429983422f343fa9ade2398e4",
       "date": "2026-05-05",
-      "time": "19:00",
+      "time": "18:30",
       "home_team": "Phoenix Athletic FC",
       "away_team": "Awsworth Villa Reserves",
       "venue": "GRESHAM SPORTS PARK #1",
       "division": "NSL Division Three",
       "home_away": "home",
       "opponent": "Awsworth Villa Reserves"
+    },
+    {
+      "id": "7a6e077d99a9f051049f572fec1920d4",
+      "date": "2026-05-07",
+      "time": "18:30",
+      "home_team": "Phoenix Athletic FC",
+      "away_team": "Attenborough FC",
+      "venue": "GRESHAM SPORTS PARK #1",
+      "division": "NSL Division Three",
+      "home_away": "home",
+      "opponent": "Attenborough FC"
     }
   ],
   "results": [
+    {
+      "id": "cc7fd06a7dc5bbbbb6c2d721e79fee31",
+      "date": "2026-04-28",
+      "time": "18:45",
+      "home_team": "AJ Sport F.C. Reserves",
+      "away_team": "Phoenix Athletic FC",
+      "home_score": 1,
+      "away_score": 7,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "away",
+      "opponent": "AJ Sport F.C. Reserves",
+      "goals_for": 7,
+      "goals_against": 1
+    },
     {
       "id": "44806999b5aa70b9e0d7bd684c411b5d",
       "date": "2026-04-25",

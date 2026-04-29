@@ -1,19 +1,8 @@
 {
   "team": "Dunkirk U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
-    {
-      "id": "ed2b82bedc14865a59d19854465574c1",
-      "date": "2026-04-28",
-      "time": "18:00",
-      "home_team": "Ilkeston Town Robins U14",
-      "away_team": "Dunkirk U14",
-      "venue": "Booths Playing Fields, Ilkeston DE7 8JF",
-      "division": "u14 Sat Spring Div 1 Silver",
-      "home_away": "away",
-      "opponent": "Ilkeston Town Robins U14"
-    },
     {
       "id": "845a17383c437ef1668cf6552dd8acba",
       "date": "2026-05-07",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ed2b82bedc14865a59d19854465574c1",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "home_team": "Ilkeston Town Robins U14",
+      "away_team": "Dunkirk U14",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "u14 Sat Spring Div 1 Silver",
+      "home_away": "away",
+      "opponent": "Ilkeston Town Robins U14",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "4405e2cef9327f33baef87739bff2a7a",
       "date": "2026-04-25",

@@ -1,7 +1,7 @@
 {
   "team": "AJ Sport F.C. Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
     {
       "id": "6cf2b543cd315c5e29610b0673c1a237",
@@ -26,17 +26,6 @@
       "opponent": "Rolls Royce FC"
     },
     {
-      "id": "cc7fd06a7dc5bbbbb6c2d721e79fee31",
-      "date": "2026-04-28",
-      "time": "18:45",
-      "home_team": "AJ Sport F.C. Reserves",
-      "away_team": "Phoenix Athletic FC",
-      "venue": "LEYTON CRESCENT RECREATION GROUND",
-      "division": "NSL Division Three",
-      "home_away": "home",
-      "opponent": "Phoenix Athletic FC"
-    },
-    {
       "id": "9da44c726799106062c73def1ee53b45",
       "date": "2026-05-02",
       "time": "15:00",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "cc7fd06a7dc5bbbbb6c2d721e79fee31",
+      "date": "2026-04-28",
+      "time": "18:45",
+      "home_team": "AJ Sport F.C. Reserves",
+      "away_team": "Phoenix Athletic FC",
+      "home_score": 1,
+      "away_score": 7,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "home",
+      "opponent": "Phoenix Athletic FC",
+      "goals_for": 1,
+      "goals_against": 7
+    },
     {
       "id": "37fabc6224775ce4093267d74bbf149c",
       "date": "2026-04-25",

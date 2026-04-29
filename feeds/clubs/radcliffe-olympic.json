@@ -1,6 +1,6 @@
 {
   "club": "Radcliffe Olympic",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
     {
       "id": "e5d78556f73c8beb876ad4111db2e5c0",
@@ -27,19 +27,6 @@
       "team": "Radcliffe Olympic Leopards U8",
       "home_away": "home",
       "opponent": "WBYFC Dynamos Red U8"
-    },
-    {
-      "id": "4814515fad8ac79ae467fbb9806f321b",
-      "date": "2026-04-28",
-      "time": "18:00",
-      "home_team": "Radcliffe Olympic Blue U12",
-      "away_team": "Newark Brazil Corinthians U12",
-      "venue": "Bingham Road NG12 2GP",
-      "division": "U12 Sat Spring Div 7 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Radcliffe Olympic Blue U12",
-      "home_away": "home",
-      "opponent": "Newark Brazil Corinthians U12"
     },
     {
       "id": "06da3c6290f5cb9dfc99cb2050f5da8d",
@@ -186,6 +173,23 @@
     }
   ],
   "results": [
+    {
+      "id": "4814515fad8ac79ae467fbb9806f321b",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "home_team": "Radcliffe Olympic Blue U12",
+      "away_team": "Newark Brazil Corinthians U12",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Radcliffe Olympic Blue U12",
+      "home_away": "home",
+      "opponent": "Newark Brazil Corinthians U12",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "5f5194ee4816a2bae8ad8971fa06c188",
       "date": "2026-04-26",

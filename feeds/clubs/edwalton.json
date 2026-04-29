@@ -1,20 +1,7 @@
 {
   "club": "Edwalton",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
-    {
-      "id": "16d5a6b79b84a582353bcf893536ce61",
-      "date": "2026-04-28",
-      "time": "18:30",
-      "home_team": "Ruddington Village U12",
-      "away_team": "Edwalton Cavaliers White U12",
-      "venue": "Jubilee Fields NG11 6NX",
-      "division": "U12 Sat Spring Div 3 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Edwalton Cavaliers White U12",
-      "home_away": "away",
-      "opponent": "Ruddington Village U12"
-    },
     {
       "id": "e4d94ad7195a2b48ebe01ec8138dbd18",
       "date": "2026-04-30",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "16d5a6b79b84a582353bcf893536ce61",
+      "date": "2026-04-28",
+      "time": "18:30",
+      "home_team": "Ruddington Village U12",
+      "away_team": "Edwalton Cavaliers White U12",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sat Spring Div 3 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Edwalton Cavaliers White U12",
+      "home_away": "away",
+      "opponent": "Ruddington Village U12",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "42100e464375d05bfdb877af593169fd",
       "date": "2026-04-25",

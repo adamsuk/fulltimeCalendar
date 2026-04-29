@@ -1,6 +1,6 @@
 {
   "club": "Newark Town",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
     {
       "id": "fc8098c162e51af805d9f0ad00a5c2dd",
@@ -40,32 +40,6 @@
       "team": "Newark Town FC Saxons U14",
       "home_away": "away",
       "opponent": "Carlton Town Wolves U14"
-    },
-    {
-      "id": "07d4c0631fa6f97feb852122e93a3109",
-      "date": "2026-04-28",
-      "time": "18:15",
-      "home_team": "Newark Town Saxons U11",
-      "away_team": "Winthorpe & Cod T Amber U11",
-      "venue": "Devon Park NG24 4QN",
-      "division": "U11 Sat Spring Div 8",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Newark Town Saxons U11",
-      "home_away": "home",
-      "opponent": "Winthorpe & Cod T Amber U11"
-    },
-    {
-      "id": "c0954149bed992d16bcb96182e506943",
-      "date": "2026-04-28",
-      "time": "18:30",
-      "home_team": "Newark Town Cavaliers U14",
-      "away_team": "RHP Colts White U14",
-      "venue": "Devon Park NG24 4QN",
-      "division": "u14 Sat Spring Div 3 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Newark Town Cavaliers U14",
-      "home_away": "home",
-      "opponent": "RHP Colts White U14"
     },
     {
       "id": "2ad52337d573ecf20cc659a549458412",
@@ -173,6 +147,40 @@
     }
   ],
   "results": [
+    {
+      "id": "c0954149bed992d16bcb96182e506943",
+      "date": "2026-04-28",
+      "time": "18:30",
+      "home_team": "Newark Town Cavaliers U14",
+      "away_team": "RHP Colts White U14",
+      "home_score": 3,
+      "away_score": 6,
+      "venue": "",
+      "division": "u14 Sat Spring Div 3 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Newark Town Cavaliers U14",
+      "home_away": "home",
+      "opponent": "RHP Colts White U14",
+      "goals_for": 3,
+      "goals_against": 6
+    },
+    {
+      "id": "07d4c0631fa6f97feb852122e93a3109",
+      "date": "2026-04-28",
+      "time": "18:15",
+      "home_team": "Newark Town Saxons U11",
+      "away_team": "Winthorpe & Cod T Amber U11",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat Spring Div 8",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Newark Town Saxons U11",
+      "home_away": "home",
+      "opponent": "Winthorpe & Cod T Amber U11",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "2c7a191f3ceeee648aef9b686ce8bfa1",
       "date": "2026-04-26",

@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-28T08:05:16Z",
+  "generated": "2026-04-29T07:58:25Z",
   "fixtures": [
-    {
-      "id": "6efdf577b171fb3c9ae630de9456541e",
-      "date": "2026-04-28",
-      "time": "18:45",
-      "home_team": "Awsworth Villa FC",
-      "away_team": "Arnold Town FC",
-      "venue": "SHILO PARK ZINDA GROUND",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
-      "opponent": "Awsworth Villa FC"
-    },
     {
       "id": "3719d062aa15ea46083e3268812bd4e3",
       "date": "2026-05-02",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "6efdf577b171fb3c9ae630de9456541e",
+      "date": "2026-04-28",
+      "time": "18:45",
+      "home_team": "Awsworth Villa FC",
+      "away_team": "Arnold Town FC",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Awsworth Villa FC",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "65505c67fc659f2cfd0a3859909a5595",
       "date": "2026-04-25",
