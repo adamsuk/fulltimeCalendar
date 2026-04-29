@@ -1,7 +1,7 @@
 {
   "team": "Demo FC U8",
   "league": "Demo FC",
-  "generated": "2026-04-29T15:36:20Z",
+  "generated": "2026-04-29T20:15:29Z",
   "fixtures": [
     {
       "id": "11e02273212be9c9105d861051f68b11",
@@ -48,5 +48,51 @@
       "opponent": "Valley United U8"
     }
   ],
-  "results": []
+  "results": [
+    {
+      "id": "7b2597c0bae3d37a7c7f21fcabd18437",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Southbrook Colts U8",
+      "away_team": "Demo FC U8",
+      "home_score": 3,
+      "away_score": 5,
+      "venue": "",
+      "division": "U8 Sunday",
+      "home_away": "away",
+      "opponent": "Southbrook Colts U8",
+      "goals_for": 5,
+      "goals_against": 3
+    },
+    {
+      "id": "7a1ff952199d051e28007d68575e2223",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Demo FC U8",
+      "away_team": "Westfield Youth U8",
+      "home_score": 2,
+      "away_score": 7,
+      "venue": "Demo FC Ground",
+      "division": "U8 Sunday",
+      "home_away": "home",
+      "opponent": "Westfield Youth U8",
+      "goals_for": 2,
+      "goals_against": 7
+    },
+    {
+      "id": "9bca48ebb1ae7864a934adc9e52071de",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Castleton Juniors U8",
+      "away_team": "Demo FC U8",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U8 Sunday",
+      "home_away": "away",
+      "opponent": "Castleton Juniors U8",
+      "goals_for": 2,
+      "goals_against": 3
+    }
+  ]
 }

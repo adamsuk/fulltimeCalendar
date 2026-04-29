@@ -1,7 +1,7 @@
 {
   "team": "Demo FC Reserves",
   "league": "Demo FC",
-  "generated": "2026-04-29T15:36:20Z",
+  "generated": "2026-04-29T20:15:29Z",
   "fixtures": [
     {
       "id": "90e4ef860fcdf53d0a297d9b7ea25ba2",
@@ -10,7 +10,7 @@
       "home_team": "Westfield United Reserves",
       "away_team": "Demo FC Reserves",
       "venue": "",
-      "division": "Senior Men's Reserves League",
+      "division": "Senior Men's Reserves",
       "home_away": "away",
       "opponent": "Westfield United Reserves"
     },
@@ -21,7 +21,7 @@
       "home_team": "Demo FC Reserves",
       "away_team": "Northgate Athletic Reserves",
       "venue": "Demo FC Ground",
-      "division": "Senior Men's Reserves League",
+      "division": "Senior Men's Reserves",
       "home_away": "home",
       "opponent": "Northgate Athletic Reserves"
     },
@@ -32,7 +32,7 @@
       "home_team": "Castleton Rovers Reserves",
       "away_team": "Demo FC Reserves",
       "venue": "",
-      "division": "Senior Men's Reserves League",
+      "division": "Senior Men's Reserves",
       "home_away": "away",
       "opponent": "Castleton Rovers Reserves"
     },
@@ -43,10 +43,56 @@
       "home_team": "Demo FC Reserves",
       "away_team": "Valley Town Reserves",
       "venue": "Demo FC Ground",
-      "division": "Senior Men's Reserves League",
+      "division": "Senior Men's Reserves",
       "home_away": "home",
       "opponent": "Valley Town Reserves"
     }
   ],
-  "results": []
+  "results": [
+    {
+      "id": "b67a180846daef2f6bea063536bcfcb9",
+      "date": "2026-04-25",
+      "time": "15:00",
+      "home_team": "Demo FC Reserves",
+      "away_team": "Millfield City Reserves",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "Demo FC Ground",
+      "division": "Senior Men's Reserves",
+      "home_away": "home",
+      "opponent": "Millfield City Reserves",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
+      "id": "87b0c074467b59145cd11b981fdf5839",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "home_team": "Southbrook FC Reserves",
+      "away_team": "Demo FC Reserves",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "Senior Men's Reserves",
+      "home_away": "away",
+      "opponent": "Southbrook FC Reserves",
+      "goals_for": 2,
+      "goals_against": 3
+    },
+    {
+      "id": "0df61d14d9f9db8f6913dfffc1bba39f",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "home_team": "Demo FC Reserves",
+      "away_team": "Riverside Town Reserves",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "Demo FC Ground",
+      "division": "Senior Men's Reserves",
+      "home_away": "home",
+      "opponent": "Riverside Town Reserves",
+      "goals_for": 1,
+      "goals_against": 0
+    }
+  ]
 }
