@@ -1,8 +1,20 @@
 {
   "team": "Underwood Villa Tigres U9",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-29T07:58:25Z",
-  "fixtures": [],
+  "generated": "2026-04-29T15:35:16Z",
+  "fixtures": [
+    {
+      "id": "1426a3ac9ce9115845145732851e332d",
+      "date": "2026-05-09",
+      "time": "12:00",
+      "home_team": "Underwood Villa Tigres U9",
+      "away_team": "Inspire Nottingham U9",
+      "venue": "Bracken Park NG16 5FG",
+      "division": "U9 Sat YEL Trophy",
+      "home_away": "home",
+      "opponent": "Inspire Nottingham U9"
+    }
+  ],
   "results": [
     {
       "id": "8e4b5eccbd08610c18ca0daf0ccb09d8",
@@ -70,14 +82,14 @@
       "time": "09:15",
       "home_team": "DLFC Red U9",
       "away_team": "Underwood Villa Tigres U9",
-      "home_score": 4,
-      "away_score": 3,
+      "home_score": 3,
+      "away_score": 4,
       "venue": "",
       "division": "U9 Sat YEL Trophy",
       "home_away": "away",
       "opponent": "DLFC Red U9",
-      "goals_for": 3,
-      "goals_against": 4
+      "goals_for": 4,
+      "goals_against": 3
     },
     {
       "id": "543c9380a3be4e463b09f755e65bee39",

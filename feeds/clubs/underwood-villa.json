@@ -1,6 +1,6 @@
 {
   "club": "Underwood Villa",
-  "generated": "2026-04-29T07:58:25Z",
+  "generated": "2026-04-29T15:35:16Z",
   "fixtures": [
     {
       "id": "fd34a9555ec4fba79a003bee57810559",
@@ -14,6 +14,19 @@
       "team": "Underwood Villa FC Youth Ladies",
       "home_away": "home",
       "opponent": "Sherwood Colliery FC Ladies"
+    },
+    {
+      "id": "1426a3ac9ce9115845145732851e332d",
+      "date": "2026-05-09",
+      "time": "12:00",
+      "home_team": "Underwood Villa Tigres U9",
+      "away_team": "Inspire Nottingham U9",
+      "venue": "Bracken Park NG16 5FG",
+      "division": "U9 Sat YEL Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Underwood Villa Tigres U9",
+      "home_away": "home",
+      "opponent": "Inspire Nottingham U9"
     },
     {
       "id": "6994147c370aa296be2f4af9859717f1",
@@ -342,16 +355,16 @@
       "time": "10:00",
       "home_team": "Silva FC Rushcliffe Spirit U11",
       "away_team": "Underwood Villa Tigers U11",
-      "home_score": 3,
-      "away_score": 0,
+      "home_score": 0,
+      "away_score": 3,
       "venue": "",
       "division": "U11 Sun YEL Cup",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "Underwood Villa Tigers U11",
       "home_away": "away",
       "opponent": "Silva FC Rushcliffe Spirit U11",
-      "goals_for": 0,
-      "goals_against": 3
+      "goals_for": 3,
+      "goals_against": 0
     },
     {
       "id": "68759d8c1c908716067359952bf5e902",
@@ -512,16 +525,16 @@
       "time": "09:15",
       "home_team": "DLFC Red U9",
       "away_team": "Underwood Villa Tigres U9",
-      "home_score": 4,
-      "away_score": 3,
+      "home_score": 3,
+      "away_score": 4,
       "venue": "",
       "division": "U9 Sat YEL Trophy",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Underwood Villa Tigres U9",
       "home_away": "away",
       "opponent": "DLFC Red U9",
-      "goals_for": 3,
-      "goals_against": 4
+      "goals_for": 4,
+      "goals_against": 3
     },
     {
       "id": "c6ccb71a39695653da82bab629b1212c",
