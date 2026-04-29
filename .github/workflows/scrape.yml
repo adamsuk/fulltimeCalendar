@@ -45,6 +45,7 @@ jobs:
           # Clear old calendars and feeds so removed teams/leagues don't linger
           rm -rf calendars/ feeds/
           python scraper/scrape.py
+          python scraper/demo.py
 
       - name: Commit updated calendars and feeds
         run: |
