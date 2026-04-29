@@ -1,6 +1,6 @@
 {
   "club": "Lowdham",
-  "generated": "2026-04-29T15:35:16Z",
+  "generated": "2026-04-29T20:21:24Z",
   "fixtures": [
     {
       "id": "0b065754bb4599ce5c4995a1fb1bdd06",
@@ -14,19 +14,6 @@
       "team": "Lowdham FC Rossoneri U11",
       "home_away": "home",
       "opponent": "Ravenshead Reds U11"
-    },
-    {
-      "id": "44bb321cb1f04d2a269ec64f02b4072d",
-      "date": "2026-04-29",
-      "time": "18:30",
-      "home_team": "AJ Sport FC U14",
-      "away_team": "Lowdham FC Red U14",
-      "venue": "Beeston Fields Recreation Ground NG9 2QT",
-      "division": "u14 Sat Spring Div 1 Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Lowdham FC Red U14",
-      "home_away": "away",
-      "opponent": "AJ Sport FC U14"
     },
     {
       "id": "c03e2b8a4f4558f3b1a9fb04ee55308f",
@@ -186,6 +173,23 @@
     }
   ],
   "results": [
+    {
+      "id": "44bb321cb1f04d2a269ec64f02b4072d",
+      "date": "2026-04-29",
+      "time": "18:30",
+      "home_team": "AJ Sport FC U14",
+      "away_team": "Lowdham FC Red U14",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "u14 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Lowdham FC Red U14",
+      "home_away": "away",
+      "opponent": "AJ Sport FC U14",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "a9c3000ddaee045007c915ea739721c1",
       "date": "2026-04-27",

@@ -1,6 +1,6 @@
 {
   "club": "Walesby",
-  "generated": "2026-04-29T15:35:16Z",
+  "generated": "2026-04-29T20:21:24Z",
   "fixtures": [
     {
       "id": "fb7f2e23bffc080111771c4501208991",
@@ -14,19 +14,6 @@
       "team": "Walesby Juniors United U11",
       "home_away": "home",
       "opponent": "Alfreton Town Cobras U11"
-    },
-    {
-      "id": "ba5070a3bae32d8841fc1c75195e36b5",
-      "date": "2026-04-29",
-      "time": "18:00",
-      "home_team": "G3A FC Ajax U11",
-      "away_team": "Walesby Juniors United U11",
-      "venue": "Brunts Academy NG18 2AT",
-      "division": "U11 Sun Spring Div 2 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Walesby Juniors United U11",
-      "home_away": "away",
-      "opponent": "G3A FC Ajax U11"
     },
     {
       "id": "4e4f50506ae2be3e23ab980dc723b1b9",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "ba5070a3bae32d8841fc1c75195e36b5",
+      "date": "2026-04-29",
+      "time": "18:00",
+      "home_team": "G3A FC Ajax U11",
+      "away_team": "Walesby Juniors United U11",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U11 Sun Spring Div 2 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Walesby Juniors United U11",
+      "home_away": "away",
+      "opponent": "G3A FC Ajax U11",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "6335db6a2f8f2ad6d002bb69703bd805",
       "date": "2026-04-26",

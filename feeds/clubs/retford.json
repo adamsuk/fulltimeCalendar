@@ -1,20 +1,7 @@
 {
   "club": "Retford",
-  "generated": "2026-04-29T15:35:16Z",
+  "generated": "2026-04-29T20:21:24Z",
   "fixtures": [
-    {
-      "id": "53e750dbd2a1647730d73da992c63189",
-      "date": "2026-04-29",
-      "time": "19:00",
-      "home_team": "Shirebrook Rangers Women",
-      "away_team": "Retford FC Ladies",
-      "venue": "SHIREBROOK ACADEMY",
-      "division": "Seniors Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Retford FC Ladies",
-      "home_away": "away",
-      "opponent": "Shirebrook Rangers Women"
-    },
     {
       "id": "ecd70f3bd008eab997ce4669e69f2bb1",
       "date": "2026-05-03",
@@ -108,6 +95,23 @@
     }
   ],
   "results": [
+    {
+      "id": "53e750dbd2a1647730d73da992c63189",
+      "date": "2026-04-29",
+      "time": "19:00",
+      "home_team": "Shirebrook Rangers Women",
+      "away_team": "Retford FC Ladies",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Retford FC Ladies",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers Women",
+      "goals_for": 0,
+      "goals_against": 5
+    },
     {
       "id": "37d7ede49cf6b812f2edac486e425419",
       "date": "2026-04-26",

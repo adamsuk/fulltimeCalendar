@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United F.C. U15 Kobras",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-04-29T15:35:16Z",
+  "generated": "2026-04-29T20:21:24Z",
   "fixtures": [
-    {
-      "id": "bacffefc71d3bec538c7d61a67f737a6",
-      "date": "2026-04-29",
-      "time": "18:00",
-      "home_team": "Willow Wanderers F.C. Youth U15 Amazons",
-      "away_team": "Keyworth United F.C. U15 Kobras",
-      "venue": "CARLTON-LE-WILLOWS ACADEMY",
-      "division": "U15 Div 2",
-      "home_away": "away",
-      "opponent": "Willow Wanderers F.C. Youth U15 Amazons"
-    },
     {
       "id": "7bf979affcb0da46c3eeaf5a57dcb8be",
       "date": "2026-05-10",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "bacffefc71d3bec538c7d61a67f737a6",
+      "date": "2026-04-29",
+      "time": "18:00",
+      "home_team": "Willow Wanderers F.C. Youth U15 Amazons",
+      "away_team": "Keyworth United F.C. U15 Kobras",
+      "home_score": 4,
+      "away_score": 4,
+      "venue": "",
+      "division": "U15 Div 2",
+      "home_away": "away",
+      "opponent": "Willow Wanderers F.C. Youth U15 Amazons",
+      "goals_for": 4,
+      "goals_against": 4
+    },
     {
       "id": "bbd8d7c2e59744da5279f654cd6b5645",
       "date": "2026-04-22",

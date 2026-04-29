@@ -1,6 +1,6 @@
 {
   "club": "Gedling Southbank",
-  "generated": "2026-04-29T15:35:16Z",
+  "generated": "2026-04-29T20:21:24Z",
   "fixtures": [
     {
       "id": "ccc1c625a4efe370701dbbbe9f239166",
@@ -27,45 +27,6 @@
       "team": "Gedling Southbank Lynx U12",
       "home_away": "away",
       "opponent": "Manor FC Red U12"
-    },
-    {
-      "id": "033d801a932f0ad4e764064161ccf979",
-      "date": "2026-04-29",
-      "time": "18:00",
-      "home_team": "G3A FC Leipzig U10",
-      "away_team": "Gedling Southbank Whites U10",
-      "venue": "Joseph Whitaker School NG21 0AG",
-      "division": "u10 Sun Spring Div 5 Green",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Gedling Southbank Whites U10",
-      "home_away": "away",
-      "opponent": "G3A FC Leipzig U10"
-    },
-    {
-      "id": "40ee471b058836beb17facb17d307dfc",
-      "date": "2026-04-29",
-      "time": "18:00",
-      "home_team": "Star Strike Tigers Black U14",
-      "away_team": "Gedling Southbank United U14",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U14 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Gedling Southbank United U14",
-      "home_away": "away",
-      "opponent": "Star Strike Tigers Black U14"
-    },
-    {
-      "id": "704fe6aa8677376e3aac3f122836033b",
-      "date": "2026-04-29",
-      "time": "18:30",
-      "home_team": "Gedling Southbank Titans U10",
-      "away_team": "Clifton AW Purple U10",
-      "venue": "Trevor Carter Pavillion NG4 1RL",
-      "division": "U10 Sun Spring Div 5 Blue",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Gedling Southbank Titans U10",
-      "home_away": "home",
-      "opponent": "Clifton AW Purple U10"
     },
     {
       "id": "bc37d399fd5dd7a7236d839eb205fe2e",
@@ -225,6 +186,57 @@
     }
   ],
   "results": [
+    {
+      "id": "704fe6aa8677376e3aac3f122836033b",
+      "date": "2026-04-29",
+      "time": "18:30",
+      "home_team": "Gedling Southbank Titans U10",
+      "away_team": "Clifton AW Purple U10",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sun Spring Div 5 Blue",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank Titans U10",
+      "home_away": "home",
+      "opponent": "Clifton AW Purple U10",
+      "goals_for": 5,
+      "goals_against": 1
+    },
+    {
+      "id": "033d801a932f0ad4e764064161ccf979",
+      "date": "2026-04-29",
+      "time": "18:00",
+      "home_team": "G3A FC Leipzig U10",
+      "away_team": "Gedling Southbank Whites U10",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "u10 Sun Spring Div 5 Green",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Gedling Southbank Whites U10",
+      "home_away": "away",
+      "opponent": "G3A FC Leipzig U10",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
+      "id": "40ee471b058836beb17facb17d307dfc",
+      "date": "2026-04-29",
+      "time": "18:00",
+      "home_team": "Star Strike Tigers Black U14",
+      "away_team": "Gedling Southbank United U14",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Gedling Southbank United U14",
+      "home_away": "away",
+      "opponent": "Star Strike Tigers Black U14",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "86b41233bb27b7386b812866b3c42a20",
       "date": "2026-04-28",

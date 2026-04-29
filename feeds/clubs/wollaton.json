@@ -1,20 +1,7 @@
 {
   "club": "Wollaton",
-  "generated": "2026-04-29T15:35:16Z",
+  "generated": "2026-04-29T20:21:24Z",
   "fixtures": [
-    {
-      "id": "5a4d6a6c708dfc951a36789c23ac9216",
-      "date": "2026-04-29",
-      "time": "18:30",
-      "home_team": "Beeston Reserves",
-      "away_team": "Wollaton Reserves",
-      "venue": "Trent Vale Road Sports Ground",
-      "division": "NSL Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Wollaton Reserves",
-      "home_away": "away",
-      "opponent": "Beeston Reserves"
-    },
     {
       "id": "6140713f767d1c3d251ec78f40193b2f",
       "date": "2026-05-02",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "5a4d6a6c708dfc951a36789c23ac9216",
+      "date": "2026-04-29",
+      "time": "18:30",
+      "home_team": "Beeston Reserves",
+      "away_team": "Wollaton Reserves",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Wollaton Reserves",
+      "home_away": "away",
+      "opponent": "Beeston Reserves",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "385a4f5e2e4a826ce232b5c87ac5dbda",
       "date": "2026-04-28",

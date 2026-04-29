@@ -1,6 +1,6 @@
 {
   "club": "AJ Sport",
-  "generated": "2026-04-29T15:35:16Z",
+  "generated": "2026-04-29T20:21:24Z",
   "fixtures": [
     {
       "id": "6cf2b543cd315c5e29610b0673c1a237",
@@ -42,19 +42,6 @@
       "opponent": "East Leake Bantams Black U9"
     },
     {
-      "id": "44bb321cb1f04d2a269ec64f02b4072d",
-      "date": "2026-04-29",
-      "time": "18:30",
-      "home_team": "AJ Sport FC U14",
-      "away_team": "Lowdham FC Red U14",
-      "venue": "Beeston Fields Recreation Ground NG9 2QT",
-      "division": "u14 Sat Spring Div 1 Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "AJ Sport FC U14",
-      "home_away": "home",
-      "opponent": "Lowdham FC Red U14"
-    },
-    {
       "id": "9da44c726799106062c73def1ee53b45",
       "date": "2026-05-02",
       "time": "15:00",
@@ -82,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "44bb321cb1f04d2a269ec64f02b4072d",
+      "date": "2026-04-29",
+      "time": "18:30",
+      "home_team": "AJ Sport FC U14",
+      "away_team": "Lowdham FC Red U14",
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "",
+      "division": "u14 Sat Spring Div 1 Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "AJ Sport FC U14",
+      "home_away": "home",
+      "opponent": "Lowdham FC Red U14",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "cc7fd06a7dc5bbbbb6c2d721e79fee31",
       "date": "2026-04-28",

@@ -1,20 +1,7 @@
 {
   "club": "Matlock Town",
-  "generated": "2026-04-29T15:35:16Z",
+  "generated": "2026-04-29T20:21:24Z",
   "fixtures": [
-    {
-      "id": "e825be2a29fcb7779d484ec2d3756b2a",
-      "date": "2026-04-29",
-      "time": "18:45",
-      "home_team": "Matlock Town Juniors U15 Girls",
-      "away_team": "Ilkeston Town Juniors U15 Robins",
-      "venue": "CAVENDISH FIELDS SPORTS ASSOCIATION",
-      "division": "U15 Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Matlock Town Juniors U15 Girls",
-      "home_away": "home",
-      "opponent": "Ilkeston Town Juniors U15 Robins"
-    },
     {
       "id": "e3a74c3978ff0b5de75458a6c4ca0918",
       "date": "2026-05-03",
@@ -147,6 +134,23 @@
     }
   ],
   "results": [
+    {
+      "id": "e825be2a29fcb7779d484ec2d3756b2a",
+      "date": "2026-04-29",
+      "time": "18:45",
+      "home_team": "Matlock Town Juniors U15 Girls",
+      "away_team": "Ilkeston Town Juniors U15 Robins",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U15 Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Matlock Town Juniors U15 Girls",
+      "home_away": "home",
+      "opponent": "Ilkeston Town Juniors U15 Robins",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "06ff050aaa3004dd7868cd1a675ba4d3",
       "date": "2026-04-28",

@@ -1,6 +1,6 @@
 {
   "club": "DLFC",
-  "generated": "2026-04-29T15:35:16Z",
+  "generated": "2026-04-29T20:21:24Z",
   "fixtures": [
     {
       "id": "d4dc5df627cc370408d3c61b29ee736a",
@@ -27,19 +27,6 @@
       "team": "DLFC Madrid U7",
       "home_away": "away",
       "opponent": "Woodborough Celtic U7"
-    },
-    {
-      "id": "07925cc5c9f267e323b9d70e28421c95",
-      "date": "2026-04-29",
-      "time": "18:30",
-      "home_team": "Bobbersmill FC Warriors U10",
-      "away_team": "DLFC Black U10",
-      "venue": "Melbourne Park NG8 5HL",
-      "division": "U10 Sat Spring Div 7 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Black U10",
-      "home_away": "away",
-      "opponent": "Bobbersmill FC Warriors U10"
     },
     {
       "id": "96b56e1a938884ffbd1cd4b318003dc0",
@@ -82,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "07925cc5c9f267e323b9d70e28421c95",
+      "date": "2026-04-29",
+      "time": "18:30",
+      "home_team": "Bobbersmill FC Warriors U10",
+      "away_team": "DLFC Black U10",
+      "home_score": 7,
+      "away_score": 4,
+      "venue": "",
+      "division": "U10 Sat Spring Div 7 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Black U10",
+      "home_away": "away",
+      "opponent": "Bobbersmill FC Warriors U10",
+      "goals_for": 4,
+      "goals_against": 7
+    },
     {
       "id": "6cd92ec151bc70ab87bfd1f6c2753d56",
       "date": "2026-04-28",

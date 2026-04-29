@@ -1,19 +1,8 @@
 {
   "team": "Alfreton Town Lions U9",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-29T15:35:16Z",
+  "generated": "2026-04-29T20:21:24Z",
   "fixtures": [
-    {
-      "id": "b347cd3c727f27557183c1595b7519af",
-      "date": "2026-04-29",
-      "time": "18:30",
-      "home_team": "Alfreton Town Lions U9",
-      "away_team": "Bagthorpe Athletic U9",
-      "venue": "Clay Cross Active 3G  S45 9LX",
-      "division": "U9 Sun Spring Div 4 Red",
-      "home_away": "home",
-      "opponent": "Bagthorpe Athletic U9"
-    },
     {
       "id": "6994147c370aa296be2f4af9859717f1",
       "date": "2026-05-10",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b347cd3c727f27557183c1595b7519af",
+      "date": "2026-04-29",
+      "time": "18:30",
+      "home_team": "Alfreton Town Lions U9",
+      "away_team": "Bagthorpe Athletic U9",
+      "home_score": 3,
+      "away_score": 5,
+      "venue": "",
+      "division": "U9 Sun Spring Div 4 Red",
+      "home_away": "home",
+      "opponent": "Bagthorpe Athletic U9",
+      "goals_for": 3,
+      "goals_against": 5
+    },
     {
       "id": "516c31d80776590b379bd31f745a447c",
       "date": "2026-04-26",

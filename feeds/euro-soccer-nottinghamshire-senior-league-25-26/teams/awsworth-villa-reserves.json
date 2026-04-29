@@ -1,7 +1,7 @@
 {
   "team": "Awsworth Villa Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-29T15:35:16Z",
+  "generated": "2026-04-29T20:21:24Z",
   "fixtures": [
     {
       "id": "9f4caf9fc4a9fc217a70e59ef0097a6a",
@@ -13,17 +13,6 @@
       "division": "NSL Division Three",
       "home_away": "away",
       "opponent": "Harrowby United Reserves"
-    },
-    {
-      "id": "79ec0ab337d7759117b1390ec59d71d8",
-      "date": "2026-04-29",
-      "time": "18:30",
-      "home_team": "Awsworth Villa Reserves",
-      "away_team": "Rolls Royce FC",
-      "venue": "SHILO PARK ZINDA GROUND",
-      "division": "NSL Division Three",
-      "home_away": "home",
-      "opponent": "Rolls Royce FC"
     },
     {
       "id": "d8f8be658381102e4fde9570a227d3e5",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "79ec0ab337d7759117b1390ec59d71d8",
+      "date": "2026-04-29",
+      "time": "18:30",
+      "home_team": "Awsworth Villa Reserves",
+      "away_team": "Rolls Royce FC",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Division Three",
+      "home_away": "home",
+      "opponent": "Rolls Royce FC",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "66d342120a99bc2d507bc8d0da52640b",
       "date": "2026-04-22",

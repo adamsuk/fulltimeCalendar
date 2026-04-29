@@ -1,20 +1,7 @@
 {
   "club": "Star Strike",
-  "generated": "2026-04-29T15:35:16Z",
+  "generated": "2026-04-29T20:21:24Z",
   "fixtures": [
-    {
-      "id": "40ee471b058836beb17facb17d307dfc",
-      "date": "2026-04-29",
-      "time": "18:00",
-      "home_team": "Star Strike Tigers Black U14",
-      "away_team": "Gedling Southbank United U14",
-      "venue": "Southglade Leisure Centre  NG5 5GU",
-      "division": "U14 Sat Spring Div 5 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Star Strike Tigers Black U14",
-      "home_away": "home",
-      "opponent": "Gedling Southbank United U14"
-    },
     {
       "id": "e17b14a26ff20fefebfefde85ca47154",
       "date": "2026-05-02",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "40ee471b058836beb17facb17d307dfc",
+      "date": "2026-04-29",
+      "time": "18:00",
+      "home_team": "Star Strike Tigers Black U14",
+      "away_team": "Gedling Southbank United U14",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sat Spring Div 5 Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Star Strike Tigers Black U14",
+      "home_away": "home",
+      "opponent": "Gedling Southbank United U14",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "4773438a9968122ca19bca44b9a69cbd",
       "date": "2026-04-25",

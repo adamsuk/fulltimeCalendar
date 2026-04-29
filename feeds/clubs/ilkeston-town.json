@@ -1,6 +1,6 @@
 {
   "club": "Ilkeston Town",
-  "generated": "2026-04-29T15:35:16Z",
+  "generated": "2026-04-29T20:21:24Z",
   "fixtures": [
     {
       "id": "f2446ea0d8b96927e1a1e1cbeb268646",
@@ -14,22 +14,26 @@
       "team": "Ilkeston Town White Star U14",
       "home_away": "away",
       "opponent": "Eastwood CFC Aces U14"
-    },
+    }
+  ],
+  "results": [
     {
       "id": "e825be2a29fcb7779d484ec2d3756b2a",
       "date": "2026-04-29",
       "time": "18:45",
       "home_team": "Matlock Town Juniors U15 Girls",
       "away_team": "Ilkeston Town Juniors U15 Robins",
-      "venue": "CAVENDISH FIELDS SPORTS ASSOCIATION",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
       "division": "U15 Div 1",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Ilkeston Town Juniors U15 Robins",
       "home_away": "away",
-      "opponent": "Matlock Town Juniors U15 Girls"
-    }
-  ],
-  "results": [
+      "opponent": "Matlock Town Juniors U15 Girls",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "ed2b82bedc14865a59d19854465574c1",
       "date": "2026-04-28",

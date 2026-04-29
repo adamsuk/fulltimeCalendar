@@ -1,6 +1,6 @@
 {
   "club": "Shirebrook",
-  "generated": "2026-04-29T15:35:16Z",
+  "generated": "2026-04-29T20:21:24Z",
   "fixtures": [
     {
       "id": "5d277a31ecebc1b9bafa5bd36dd48d39",
@@ -27,19 +27,6 @@
       "team": "Shirebrook Rangers & Juniors U9 Girls",
       "home_away": "home",
       "opponent": "Hucknall & Linby Harriers FC U9"
-    },
-    {
-      "id": "53e750dbd2a1647730d73da992c63189",
-      "date": "2026-04-29",
-      "time": "19:00",
-      "home_team": "Shirebrook Rangers Women",
-      "away_team": "Retford FC Ladies",
-      "venue": "SHIREBROOK ACADEMY",
-      "division": "Seniors Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Shirebrook Rangers Women",
-      "home_away": "home",
-      "opponent": "Retford FC Ladies"
     },
     {
       "id": "455fc5d08fb24befd2e78d76203a22d2",
@@ -147,6 +134,23 @@
     }
   ],
   "results": [
+    {
+      "id": "53e750dbd2a1647730d73da992c63189",
+      "date": "2026-04-29",
+      "time": "19:00",
+      "home_team": "Shirebrook Rangers Women",
+      "away_team": "Retford FC Ladies",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Shirebrook Rangers Women",
+      "home_away": "home",
+      "opponent": "Retford FC Ladies",
+      "goals_for": 5,
+      "goals_against": 0
+    },
     {
       "id": "70c6cc958c431d4df066743dff65df21",
       "date": "2026-04-26",

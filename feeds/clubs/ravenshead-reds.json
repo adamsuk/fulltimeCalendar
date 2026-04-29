@@ -1,6 +1,6 @@
 {
   "club": "Ravenshead Reds",
-  "generated": "2026-04-29T15:35:16Z",
+  "generated": "2026-04-29T20:21:24Z",
   "fixtures": [
     {
       "id": "5d277a31ecebc1b9bafa5bd36dd48d39",
@@ -27,19 +27,6 @@
       "team": "Ravenshead Reds U11",
       "home_away": "away",
       "opponent": "Lowdham FC Rossoneri U11"
-    },
-    {
-      "id": "bdd436866f42d6adda9ef5f4c5efd1d7",
-      "date": "2026-04-29",
-      "time": "18:30",
-      "home_team": "Ravenshead Reds U9",
-      "away_team": "Calverton MW Blue U9",
-      "venue": "Ravenshead leisure Centre NG15 9AG",
-      "division": "U9 Sun Spring Div 5 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Ravenshead Reds U9",
-      "home_away": "home",
-      "opponent": "Calverton MW Blue U9"
     },
     {
       "id": "f995f0e24cf15a6cb7876a2d259ef049",
@@ -134,6 +121,23 @@
     }
   ],
   "results": [
+    {
+      "id": "bdd436866f42d6adda9ef5f4c5efd1d7",
+      "date": "2026-04-29",
+      "time": "18:30",
+      "home_team": "Ravenshead Reds U9",
+      "away_team": "Calverton MW Blue U9",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sun Spring Div 5 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Ravenshead Reds U9",
+      "home_away": "home",
+      "opponent": "Calverton MW Blue U9",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "df0b6a4a6a00350c8b4a545b65f149e8",
       "date": "2026-04-26",

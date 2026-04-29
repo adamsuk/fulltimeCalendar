@@ -1,6 +1,6 @@
 {
   "club": "Beeston",
-  "generated": "2026-04-29T15:35:16Z",
+  "generated": "2026-04-29T20:21:24Z",
   "fixtures": [
     {
       "id": "670d3b5fa7029f9ed20210479cb35b84",
@@ -27,32 +27,6 @@
       "team": "Beeston FC Women",
       "home_away": "away",
       "opponent": "Pelican Colts FC Ladies"
-    },
-    {
-      "id": "b9019fab91e08d6ea03caf7defeb0efd",
-      "date": "2026-04-29",
-      "time": "18:30",
-      "home_team": "Ernehale Colts Black U12",
-      "away_team": "Beeston Park Rangers U12",
-      "venue": "King George V Park NG5 6TD",
-      "division": "U12 Sun Spring Div 6 Gold",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Beeston Park Rangers U12",
-      "home_away": "away",
-      "opponent": "Ernehale Colts Black U12"
-    },
-    {
-      "id": "5a4d6a6c708dfc951a36789c23ac9216",
-      "date": "2026-04-29",
-      "time": "18:30",
-      "home_team": "Beeston Reserves",
-      "away_team": "Wollaton Reserves",
-      "venue": "Trent Vale Road Sports Ground",
-      "division": "NSL Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Beeston Reserves",
-      "home_away": "home",
-      "opponent": "Wollaton Reserves"
     },
     {
       "id": "d20eec2cd02d6593fc183fa0bd97ca6e",
@@ -199,6 +173,40 @@
     }
   ],
   "results": [
+    {
+      "id": "b9019fab91e08d6ea03caf7defeb0efd",
+      "date": "2026-04-29",
+      "time": "18:30",
+      "home_team": "Ernehale Colts Black U12",
+      "away_team": "Beeston Park Rangers U12",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Sun Spring Div 6 Gold",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Beeston Park Rangers U12",
+      "home_away": "away",
+      "opponent": "Ernehale Colts Black U12",
+      "goals_for": 3,
+      "goals_against": 5
+    },
+    {
+      "id": "5a4d6a6c708dfc951a36789c23ac9216",
+      "date": "2026-04-29",
+      "time": "18:30",
+      "home_team": "Beeston Reserves",
+      "away_team": "Wollaton Reserves",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Beeston Reserves",
+      "home_away": "home",
+      "opponent": "Wollaton Reserves",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "a63a70c82341ffc6b7dc93481e05e7ad",
       "date": "2026-04-26",

@@ -1,6 +1,6 @@
 {
   "club": "Bagthorpe Athletic",
-  "generated": "2026-04-29T15:35:16Z",
+  "generated": "2026-04-29T20:21:24Z",
   "fixtures": [
     {
       "id": "3191b5a68a4d9890931473960f03c563",
@@ -14,19 +14,6 @@
       "team": "Bagthorpe Athletic F.C. Youth U14 girls",
       "home_away": "home",
       "opponent": "Bingham Town F.C. U14 Girls Red"
-    },
-    {
-      "id": "b347cd3c727f27557183c1595b7519af",
-      "date": "2026-04-29",
-      "time": "18:30",
-      "home_team": "Alfreton Town Lions U9",
-      "away_team": "Bagthorpe Athletic U9",
-      "venue": "Clay Cross Active 3G  S45 9LX",
-      "division": "U9 Sun Spring Div 4 Red",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Bagthorpe Athletic U9",
-      "home_away": "away",
-      "opponent": "Alfreton Town Lions U9"
     },
     {
       "id": "969af33c5953ee286ec4f98460389df7",
@@ -82,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "b347cd3c727f27557183c1595b7519af",
+      "date": "2026-04-29",
+      "time": "18:30",
+      "home_team": "Alfreton Town Lions U9",
+      "away_team": "Bagthorpe Athletic U9",
+      "home_score": 3,
+      "away_score": 5,
+      "venue": "",
+      "division": "U9 Sun Spring Div 4 Red",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Bagthorpe Athletic U9",
+      "home_away": "away",
+      "opponent": "Alfreton Town Lions U9",
+      "goals_for": 5,
+      "goals_against": 3
+    },
     {
       "id": "26b1a51710ae8d0a217e4718e420dfa2",
       "date": "2026-04-28",

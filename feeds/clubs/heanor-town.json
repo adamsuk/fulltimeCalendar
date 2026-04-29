@@ -1,33 +1,7 @@
 {
   "club": "Heanor Town",
-  "generated": "2026-04-29T15:35:16Z",
+  "generated": "2026-04-29T20:21:24Z",
   "fixtures": [
-    {
-      "id": "8ea9a70bc9bd1374249945ce24cff32f",
-      "date": "2026-04-29",
-      "time": "18:30",
-      "home_team": "Heanor Town Hurricanes U11",
-      "away_team": "Tibshelf Community Spiders U11",
-      "venue": "Riddings Park DE55 4EW",
-      "division": "U11 Sun Spring Div 6 Silver",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Heanor Town Hurricanes U11",
-      "home_away": "home",
-      "opponent": "Tibshelf Community Spiders U11"
-    },
-    {
-      "id": "e0ce9d05261ef4f4813d3308a004a7e8",
-      "date": "2026-04-29",
-      "time": "18:30",
-      "home_team": "Codnor Sports Real U10",
-      "away_team": "Heanor Town Titans U10",
-      "venue": "Codnor Recreation Ground DE5 9QY",
-      "division": "U10 Sat Spring Div 4 Green",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Heanor Town Titans U10",
-      "home_away": "away",
-      "opponent": "Codnor Sports Real U10"
-    },
     {
       "id": "f8de3446c0641c78945ef1619bc66e0f",
       "date": "2026-05-03",
@@ -56,6 +30,40 @@
     }
   ],
   "results": [
+    {
+      "id": "8ea9a70bc9bd1374249945ce24cff32f",
+      "date": "2026-04-29",
+      "time": "18:30",
+      "home_team": "Heanor Town Hurricanes U11",
+      "away_team": "Tibshelf Community Spiders U11",
+      "home_score": 6,
+      "away_score": 0,
+      "venue": "",
+      "division": "U11 Sun Spring Div 6 Silver",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Heanor Town Hurricanes U11",
+      "home_away": "home",
+      "opponent": "Tibshelf Community Spiders U11",
+      "goals_for": 6,
+      "goals_against": 0
+    },
+    {
+      "id": "e0ce9d05261ef4f4813d3308a004a7e8",
+      "date": "2026-04-29",
+      "time": "18:30",
+      "home_team": "Codnor Sports Real U10",
+      "away_team": "Heanor Town Titans U10",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sat Spring Div 4 Green",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Heanor Town Titans U10",
+      "home_away": "away",
+      "opponent": "Codnor Sports Real U10",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "c3411c3d3da4b0c367f5864b09829547",
       "date": "2026-04-28",

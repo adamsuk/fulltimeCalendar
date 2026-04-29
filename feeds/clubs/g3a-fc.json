@@ -1,19 +1,24 @@
 {
   "club": "G3A FC",
-  "generated": "2026-04-29T15:35:16Z",
-  "fixtures": [
+  "generated": "2026-04-29T20:21:24Z",
+  "fixtures": [],
+  "results": [
     {
       "id": "ba5070a3bae32d8841fc1c75195e36b5",
       "date": "2026-04-29",
       "time": "18:00",
       "home_team": "G3A FC Ajax U11",
       "away_team": "Walesby Juniors United U11",
-      "venue": "Brunts Academy NG18 2AT",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
       "division": "U11 Sun Spring Div 2 Red",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "G3A FC Ajax U11",
       "home_away": "home",
-      "opponent": "Walesby Juniors United U11"
+      "opponent": "Walesby Juniors United U11",
+      "goals_for": 3,
+      "goals_against": 0
     },
     {
       "id": "033d801a932f0ad4e764064161ccf979",
@@ -21,15 +26,17 @@
       "time": "18:00",
       "home_team": "G3A FC Leipzig U10",
       "away_team": "Gedling Southbank Whites U10",
-      "venue": "Joseph Whitaker School NG21 0AG",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
       "division": "u10 Sun Spring Div 5 Green",
       "league": "YEL East Midlands Sunday 25/26",
       "team": "G3A FC Leipzig U10",
       "home_away": "home",
-      "opponent": "Gedling Southbank Whites U10"
-    }
-  ],
-  "results": [
+      "opponent": "Gedling Southbank Whites U10",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "a9e5527dea15fb57680080f648f89861",
       "date": "2026-04-26",

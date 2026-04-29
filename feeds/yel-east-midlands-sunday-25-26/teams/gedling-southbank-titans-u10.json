@@ -1,19 +1,8 @@
 {
   "team": "Gedling Southbank Titans U10",
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-29T15:35:16Z",
+  "generated": "2026-04-29T20:21:24Z",
   "fixtures": [
-    {
-      "id": "704fe6aa8677376e3aac3f122836033b",
-      "date": "2026-04-29",
-      "time": "18:30",
-      "home_team": "Gedling Southbank Titans U10",
-      "away_team": "Clifton AW Purple U10",
-      "venue": "Trevor Carter Pavillion NG4 1RL",
-      "division": "U10 Sun Spring Div 5 Blue",
-      "home_away": "home",
-      "opponent": "Clifton AW Purple U10"
-    },
     {
       "id": "71e48f88abe7dd7e46a02f6b2994aa0e",
       "date": "2026-05-10",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "704fe6aa8677376e3aac3f122836033b",
+      "date": "2026-04-29",
+      "time": "18:30",
+      "home_team": "Gedling Southbank Titans U10",
+      "away_team": "Clifton AW Purple U10",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sun Spring Div 5 Blue",
+      "home_away": "home",
+      "opponent": "Clifton AW Purple U10",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "08d0878d8dcc2c24f18e5bd09c2a230d",
       "date": "2026-04-26",

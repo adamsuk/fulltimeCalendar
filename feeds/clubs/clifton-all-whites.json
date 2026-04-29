@@ -1,6 +1,6 @@
 {
   "club": "Clifton All Whites",
-  "generated": "2026-04-29T15:35:16Z",
+  "generated": "2026-04-29T20:21:24Z",
   "fixtures": [
     {
       "id": "90c8b3e6784ccef47f3bcf8ae40aa7dc",
@@ -14,19 +14,6 @@
       "team": "Clifton All Whites Black U12",
       "home_away": "home",
       "opponent": "Moorgreen Colts Blue U12"
-    },
-    {
-      "id": "746f7543edb5d9ec3a799183609fef47",
-      "date": "2026-04-29",
-      "time": "18:30",
-      "home_team": "Clifton All Whites Silver U12",
-      "away_team": "Basford United Silva U12",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U12 Sun Spring Div 1 Gold",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Clifton All Whites Silver U12",
-      "home_away": "home",
-      "opponent": "Basford United Silva U12"
     },
     {
       "id": "540cbe83420f9be4c1ececc8515e9200",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "746f7543edb5d9ec3a799183609fef47",
+      "date": "2026-04-29",
+      "time": "18:30",
+      "home_team": "Clifton All Whites Silver U12",
+      "away_team": "Basford United Silva U12",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Sun Spring Div 1 Gold",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Clifton All Whites Silver U12",
+      "home_away": "home",
+      "opponent": "Basford United Silva U12",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "8b1d193a31baf3580025c14b98401c4e",
       "date": "2026-04-27",

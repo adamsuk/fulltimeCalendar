@@ -1,6 +1,6 @@
 {
   "club": "Rolls Royce",
-  "generated": "2026-04-29T15:35:16Z",
+  "generated": "2026-04-29T20:21:24Z",
   "fixtures": [
     {
       "id": "21fcbb6d427eb3f685837cf0c3114a5c",
@@ -14,19 +14,6 @@
       "team": "Rolls Royce FC",
       "home_away": "home",
       "opponent": "AJ Sport F.C. Reserves"
-    },
-    {
-      "id": "79ec0ab337d7759117b1390ec59d71d8",
-      "date": "2026-04-29",
-      "time": "18:30",
-      "home_team": "Awsworth Villa Reserves",
-      "away_team": "Rolls Royce FC",
-      "venue": "SHILO PARK ZINDA GROUND",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Rolls Royce FC",
-      "home_away": "away",
-      "opponent": "Awsworth Villa Reserves"
     },
     {
       "id": "8a250edcf3e5d3946a3f807ab0422ac6",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "79ec0ab337d7759117b1390ec59d71d8",
+      "date": "2026-04-29",
+      "time": "18:30",
+      "home_team": "Awsworth Villa Reserves",
+      "away_team": "Rolls Royce FC",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Rolls Royce FC",
+      "home_away": "away",
+      "opponent": "Awsworth Villa Reserves",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "44806999b5aa70b9e0d7bd684c411b5d",
       "date": "2026-04-25",

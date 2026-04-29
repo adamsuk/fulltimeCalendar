@@ -1,6 +1,6 @@
 {
   "club": "West Bridgford",
-  "generated": "2026-04-29T15:35:16Z",
+  "generated": "2026-04-29T20:21:24Z",
   "fixtures": [
     {
       "id": "3c2f4d185182fa444977a45747ad1f51",
@@ -27,19 +27,6 @@
       "team": "West Bridgford Colts U16 Vipers",
       "home_away": "home",
       "opponent": "Southwell City FC U16 Girls"
-    },
-    {
-      "id": "6eae730aa2656192f5c74185378b87a9",
-      "date": "2026-04-29",
-      "time": "18:30",
-      "home_team": "Beaufort United F.C. Development",
-      "away_team": "West Bridgford Development",
-      "venue": "Unwin Road",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "West Bridgford Development",
-      "home_away": "away",
-      "opponent": "Beaufort United F.C. Development"
     },
     {
       "id": "845bb2bdaf1a462d4e85ac6e73ee0699",
@@ -238,6 +225,23 @@
     }
   ],
   "results": [
+    {
+      "id": "6eae730aa2656192f5c74185378b87a9",
+      "date": "2026-04-29",
+      "time": "18:30",
+      "home_team": "Beaufort United F.C. Development",
+      "away_team": "West Bridgford Development",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "West Bridgford Development",
+      "home_away": "away",
+      "opponent": "Beaufort United F.C. Development",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "df0b6a4a6a00350c8b4a545b65f149e8",
       "date": "2026-04-26",
