@@ -1,7 +1,7 @@
 {
   "team": "Demo FC Women",
   "league": "Demo FC",
-  "generated": "2026-04-29T15:36:20Z",
+  "generated": "2026-04-29T20:15:29Z",
   "fixtures": [
     {
       "id": "418967a4eddf2c2b404ea503ee51e848",
@@ -48,5 +48,51 @@
       "opponent": "Valley Town Women"
     }
   ],
-  "results": []
+  "results": [
+    {
+      "id": "8f6dda50f9914a6e4b4b4cd73cfa9393",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "Demo FC Women",
+      "away_team": "Millfield City Women",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "Demo FC Ground",
+      "division": "Senior Women's League",
+      "home_away": "home",
+      "opponent": "Millfield City Women",
+      "goals_for": 5,
+      "goals_against": 1
+    },
+    {
+      "id": "212cf2402b2edeec89f5fa36ba31afe6",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Southbrook Women",
+      "away_team": "Demo FC Women",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "Senior Women's League",
+      "home_away": "away",
+      "opponent": "Southbrook Women",
+      "goals_for": 2,
+      "goals_against": 3
+    },
+    {
+      "id": "12169521239bf3c3c15fa8dd22f29cf7",
+      "date": "2026-04-12",
+      "time": "11:00",
+      "home_team": "Demo FC Women",
+      "away_team": "Riverside Ladies",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "Demo FC Ground",
+      "division": "Senior Women's League",
+      "home_away": "home",
+      "opponent": "Riverside Ladies",
+      "goals_for": 0,
+      "goals_against": 4
+    }
+  ]
 }

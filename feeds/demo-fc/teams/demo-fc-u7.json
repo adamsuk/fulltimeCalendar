@@ -1,7 +1,7 @@
 {
   "team": "Demo FC U7",
   "league": "Demo FC",
-  "generated": "2026-04-29T15:36:20Z",
+  "generated": "2026-04-29T20:15:29Z",
   "fixtures": [
     {
       "id": "f9d621b011d89f6f2204eb9aecb72ef9",
@@ -48,5 +48,51 @@
       "opponent": "Valley United U7"
     }
   ],
-  "results": []
+  "results": [
+    {
+      "id": "ec357330eb90c911aa795793d739e3a5",
+      "date": "2026-04-26",
+      "time": "10:00",
+      "home_team": "Demo FC U7",
+      "away_team": "Southbrook Colts U7",
+      "home_score": 4,
+      "away_score": 5,
+      "venue": "Demo FC Ground",
+      "division": "U7 Sunday",
+      "home_away": "home",
+      "opponent": "Southbrook Colts U7",
+      "goals_for": 4,
+      "goals_against": 5
+    },
+    {
+      "id": "237d5750c53a0c94ac055b6622b42b5d",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "home_team": "Westfield Youth U7",
+      "away_team": "Demo FC U7",
+      "home_score": 3,
+      "away_score": 5,
+      "venue": "",
+      "division": "U7 Sunday",
+      "home_away": "away",
+      "opponent": "Westfield Youth U7",
+      "goals_for": 5,
+      "goals_against": 3
+    },
+    {
+      "id": "319a527609471b442db4b7377247f70e",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "home_team": "Demo FC U7",
+      "away_team": "Castleton Juniors U7",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "Demo FC Ground",
+      "division": "U7 Sunday",
+      "home_away": "home",
+      "opponent": "Castleton Juniors U7",
+      "goals_for": 1,
+      "goals_against": 2
+    }
+  ]
 }

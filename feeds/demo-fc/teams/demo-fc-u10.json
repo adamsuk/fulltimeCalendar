@@ -1,7 +1,7 @@
 {
   "team": "Demo FC U10",
   "league": "Demo FC",
-  "generated": "2026-04-29T15:36:20Z",
+  "generated": "2026-04-29T20:15:29Z",
   "fixtures": [
     {
       "id": "fc47186b42b1ba5bfcc8cc57de1782b0",
@@ -48,5 +48,51 @@
       "opponent": "Valley United U10"
     }
   ],
-  "results": []
+  "results": [
+    {
+      "id": "77d8720f1ea1c90d58c16d4c0159cbd1",
+      "date": "2026-04-26",
+      "time": "10:30",
+      "home_team": "Southbrook Colts U10",
+      "away_team": "Demo FC U10",
+      "home_score": 7,
+      "away_score": 0,
+      "venue": "",
+      "division": "U10 Sunday",
+      "home_away": "away",
+      "opponent": "Southbrook Colts U10",
+      "goals_for": 0,
+      "goals_against": 7
+    },
+    {
+      "id": "f918058c3484da57bd6ad2189301650c",
+      "date": "2026-04-19",
+      "time": "10:30",
+      "home_team": "Demo FC U10",
+      "away_team": "Westfield Youth U10",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "Demo FC Ground",
+      "division": "U10 Sunday",
+      "home_away": "home",
+      "opponent": "Westfield Youth U10",
+      "goals_for": 1,
+      "goals_against": 0
+    },
+    {
+      "id": "96019c7e773d09df6998f941c631a062",
+      "date": "2026-04-12",
+      "time": "10:30",
+      "home_team": "Castleton Juniors U10",
+      "away_team": "Demo FC U10",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sunday",
+      "home_away": "away",
+      "opponent": "Castleton Juniors U10",
+      "goals_for": 1,
+      "goals_against": 6
+    }
+  ]
 }

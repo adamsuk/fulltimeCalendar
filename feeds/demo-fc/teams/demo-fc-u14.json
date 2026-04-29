@@ -1,7 +1,7 @@
 {
   "team": "Demo FC U14",
   "league": "Demo FC",
-  "generated": "2026-04-29T15:36:20Z",
+  "generated": "2026-04-29T20:15:29Z",
   "fixtures": [
     {
       "id": "03e8a02c44fdb3d1a942b4808fdfd454",
@@ -48,5 +48,51 @@
       "opponent": "Valley United U14"
     }
   ],
-  "results": []
+  "results": [
+    {
+      "id": "174fbcf142282d07914b6cd8c6164798",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "home_team": "Southbrook Colts U14",
+      "away_team": "Demo FC U14",
+      "home_score": 7,
+      "away_score": 7,
+      "venue": "",
+      "division": "U14 Sunday",
+      "home_away": "away",
+      "opponent": "Southbrook Colts U14",
+      "goals_for": 7,
+      "goals_against": 7
+    },
+    {
+      "id": "43fc5aaadb5db85a4525873569f61ece",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "home_team": "Demo FC U14",
+      "away_team": "Westfield Youth U14",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "Demo FC Ground",
+      "division": "U14 Sunday",
+      "home_away": "home",
+      "opponent": "Westfield Youth U14",
+      "goals_for": 3,
+      "goals_against": 4
+    },
+    {
+      "id": "e48dc4a5835af702fb404091d9b01c9b",
+      "date": "2026-04-12",
+      "time": "11:00",
+      "home_team": "Castleton Juniors U14",
+      "away_team": "Demo FC U14",
+      "home_score": 4,
+      "away_score": 5,
+      "venue": "",
+      "division": "U14 Sunday",
+      "home_away": "away",
+      "opponent": "Castleton Juniors U14",
+      "goals_for": 5,
+      "goals_against": 4
+    }
+  ]
 }
