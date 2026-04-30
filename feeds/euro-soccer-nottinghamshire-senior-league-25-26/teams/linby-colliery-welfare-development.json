@@ -1,19 +1,8 @@
 {
   "team": "Linby Colliery Welfare Development",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-04-29T20:21:24Z",
+  "generated": "2026-04-30T08:02:02Z",
   "fixtures": [
-    {
-      "id": "4e4f50506ae2be3e23ab980dc723b1b9",
-      "date": "2026-04-29",
-      "time": "19:45",
-      "home_team": "Linby Colliery Welfare Development",
-      "away_team": "Walesby F.C. U23s",
-      "venue": "LINBY COLLIERY WELFARE FC",
-      "division": "Development Spring Division Two",
-      "home_away": "home",
-      "opponent": "Walesby F.C. U23s"
-    },
     {
       "id": "06da3c6290f5cb9dfc99cb2050f5da8d",
       "date": "2026-05-02",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "4e4f50506ae2be3e23ab980dc723b1b9",
+      "date": "2026-04-29",
+      "time": "19:45",
+      "home_team": "Linby Colliery Welfare Development",
+      "away_team": "Walesby F.C. U23s",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "home_away": "home",
+      "opponent": "Walesby F.C. U23s",
+      "goals_for": 4,
+      "goals_against": 0
+    },
     {
       "id": "79a2152d3f70d8291d0303a9b8a16186",
       "date": "2026-04-25",

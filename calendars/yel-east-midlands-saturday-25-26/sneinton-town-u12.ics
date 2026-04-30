@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YEL East Midlands//Fixture Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sneinton Town U12
+X-WR-CALDESC:Fixtures for Sneinton Town U12 — YEL East Midlands
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:a43578235ec0c4141a98334adfb93fdb@yel-calendar
+DTSTAMP:20260430T080249Z
+DTSTART;TZID=Europe/London:20260516T100000
+DTEND;TZID=Europe/London:20260516T110000
+SUMMARY:⚽ Sneinton Town U12 vs Keyworth United Lightning U12 (Home)
+DESCRIPTION:Division: U12 Sat YEL Foundation Shield\nSneinton Town U12 v Keyworth United Lightning U12\nKO: 10:00
+LOCATION:Nottingham Football Centre NG2 7BW
+END:VEVENT
+END:VCALENDAR

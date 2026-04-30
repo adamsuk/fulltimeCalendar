@@ -1,20 +1,7 @@
 {
   "club": "Radcliffe Olympic",
-  "generated": "2026-04-29T20:21:24Z",
+  "generated": "2026-04-30T08:02:02Z",
   "fixtures": [
-    {
-      "id": "e5d78556f73c8beb876ad4111db2e5c0",
-      "date": "2026-03-29",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic FC U16 Girls",
-      "away_team": "Southwell City FC U16 Girls",
-      "venue": "BINGHAM ROAD PLAYING FIELDS",
-      "division": "U16 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Radcliffe Olympic FC U16 Girls",
-      "home_away": "home",
-      "opponent": "Southwell City FC U16 Girls"
-    },
     {
       "id": "f84cf0c32ef6395e8fcf6bbccb58ed31",
       "date": "2026-04-25",
@@ -170,6 +157,19 @@
       "team": "Radcliffe Olympic FC U12 Girls Eagles",
       "home_away": "away",
       "opponent": "Ollerton Town Community FC U12 Girls"
+    },
+    {
+      "id": "9b620731612b1b3d3b12962447122217",
+      "date": "2026-05-17",
+      "time": "12:00",
+      "home_team": "Radcliffe Olympic U11",
+      "away_team": "Mansfield Town Grassroots Blue U11",
+      "venue": "Norman Archer Memorial Ground NG11 9AZ",
+      "division": "U11 Sun YEL Trophy",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Radcliffe Olympic U11",
+      "home_away": "home",
+      "opponent": "Mansfield Town Grassroots Blue U11"
     }
   ],
   "results": [
@@ -5393,23 +5393,6 @@
       "goals_against": 5
     },
     {
-      "id": "246d2ad9f47c7868c47d442b6ac54e1d",
-      "date": "2025-12-14",
-      "time": "10:00",
-      "home_team": "Southwell City FC U16 Girls",
-      "away_team": "Radcliffe Olympic FC U16 Girls",
-      "home_score": 2,
-      "away_score": 5,
-      "venue": "",
-      "division": "U16 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Radcliffe Olympic FC U16 Girls",
-      "home_away": "away",
-      "opponent": "Southwell City FC U16 Girls",
-      "goals_for": 5,
-      "goals_against": 2
-    },
-    {
       "id": "0873d02a39abb4570096c8f5969ab45a",
       "date": "2025-12-14",
       "time": "09:00",
@@ -7090,23 +7073,6 @@
       "home_away": "away",
       "opponent": "Keyworth United F.C. U12 Vipers",
       "goals_for": 2,
-      "goals_against": 1
-    },
-    {
-      "id": "a97581781c608bd3058bbee57df1c513",
-      "date": "2025-11-09",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic FC U16 Girls",
-      "away_team": "Southwell City FC U16 Girls",
-      "home_score": 5,
-      "away_score": 1,
-      "venue": "",
-      "division": "U16 Div 2 League Cup",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Radcliffe Olympic FC U16 Girls",
-      "home_away": "home",
-      "opponent": "Southwell City FC U16 Girls",
-      "goals_for": 5,
       "goals_against": 1
     },
     {
