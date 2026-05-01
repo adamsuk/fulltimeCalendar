@@ -1,25 +1,7 @@
 {
   "league": "YEL East Midlands Sunday 25/26",
-  "generated": "2026-04-30T08:02:02Z",
+  "generated": "2026-05-01T08:00:25Z",
   "fixtures": [
-    {
-      "id": "d4dc5df627cc370408d3c61b29ee736a",
-      "date": "2026-04-23",
-      "time": "18:00",
-      "home_team": "Mansfield Athletic U13",
-      "away_team": "DLFC SFK U13",
-      "venue": "Unwin Road NG17 4HT",
-      "division": "U13 Sun Spring Div 5 Silver"
-    },
-    {
-      "id": "ccc1c625a4efe370701dbbbe9f239166",
-      "date": "2026-04-23",
-      "time": "18:00",
-      "home_team": "Codnor Sports Juniors U11",
-      "away_team": "Gedling Southbank Titans U11",
-      "venue": "Mill Lane Recreation Ground DE5 9QF",
-      "division": "U11 Sun Spring Div 3"
-    },
     {
       "id": "670d3b5fa7029f9ed20210479cb35b84",
       "date": "2026-04-26",
@@ -93,15 +75,6 @@
       "division": "U9 Sunday"
     },
     {
-      "id": "62d74c47a75a447983ac3851d4c7ca02",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Beaufort United Red U9",
-      "away_team": "Silva FC Brunts Black U9",
-      "venue": "Polly Bowls NG17 4HN",
-      "division": "U9 Sun Spring Div 4 Red"
-    },
-    {
       "id": "0d1738944b8c983be12f54c3c5ce3bb0",
       "date": "2026-04-26",
       "time": "10:00",
@@ -154,15 +127,6 @@
       "away_team": "Bottesford Yellow U14",
       "venue": "Inham Nook Recreation Ground NG9 4GQ",
       "division": "U14 Sunday"
-    },
-    {
-      "id": "67d7c44309c11b0fff087d9eef3b5541",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "PMG Excel U14",
-      "away_team": "Attenborough Colts Green U14",
-      "venue": "Bulwell Hall Park NG6 8LF",
-      "division": "U14 Sun Spring Div 3 Blue"
     },
     {
       "id": "8f2283b4bf96cdfa12319d439f622352",
@@ -246,24 +210,6 @@
       "division": "U14 Sun Spring Premier Division"
     },
     {
-      "id": "a2b0f1bd2bd0b6ef301121bc8362f171",
-      "date": "2026-04-30",
-      "time": "18:00",
-      "home_team": "Mansfield Athletic U13",
-      "away_team": "Sports Gateway Phoenix U13",
-      "venue": "Unwin Road NG17 4HT",
-      "division": "U13 Sun Spring Div 5 Silver"
-    },
-    {
-      "id": "31ca795dde78231a651ea376e1aabf71",
-      "date": "2026-04-30",
-      "time": "18:30",
-      "home_team": "Spondon Dynamos Blades U13",
-      "away_team": "Nottingham FC Green U13",
-      "venue": "Spondon Sports Association DE21 7PH",
-      "division": "U13 Sun YEL Cup"
-    },
-    {
       "id": "99a9fa7dac856538d699c4adc087c953",
       "date": "2026-05-03",
       "time": "09:00",
@@ -345,6 +291,15 @@
       "division": "U10 Sun YEL Trophy"
     },
     {
+      "id": "2dee6a2d42b1e9c3ee7856441c713a4a",
+      "date": "2026-05-10",
+      "time": "12:00",
+      "home_team": "Keyworth United Yellow U13",
+      "away_team": "WBYFC Atlantis U13",
+      "venue": "Ilkeston Town FC DE7 8JF",
+      "division": "U13 Sun YEL Shield"
+    },
+    {
       "id": "7b71501b8e76233ed4be36cc5cd444f2",
       "date": "2026-05-10",
       "time": "12:00",
@@ -381,6 +336,51 @@
       "division": "U9 Sun YEL Shield"
     },
     {
+      "id": "402ddd93af081919383886aa53c78a09",
+      "date": "2026-05-10",
+      "time": "14:00",
+      "home_team": "Priory Celtic Hoops U13",
+      "away_team": "Long Eaton United Black U13",
+      "venue": "Ilkeston Town FC DE7 8JF",
+      "division": "U13 Sun YEL Trophy"
+    },
+    {
+      "id": "e798ef05413ec5af0e293af2e14a2e34",
+      "date": "2026-05-10",
+      "time": "16:00",
+      "home_team": "Cotgrave FC Claret U14",
+      "away_team": "Beeston FC U14",
+      "venue": "Ilkeston Town FC DE7 8JF",
+      "division": "U14 Sun YEL Inter Cup"
+    },
+    {
+      "id": "150db8b3487abd0d278708b71308e8a7",
+      "date": "2026-05-17",
+      "time": "10:00",
+      "home_team": "Beeston FC Black U13",
+      "away_team": "Ollerton Town U13",
+      "venue": "Ilkeston Town FC DE7 8JF",
+      "division": "U13 Sun YEL Inter Cup"
+    },
+    {
+      "id": "a212b6b4cc270fa730bc8c7f7bd36a24",
+      "date": "2026-05-17",
+      "time": "10:00",
+      "home_team": "Clifton All Whites Silver U12",
+      "away_team": "Willington FC Blue U12",
+      "venue": "Nottingham Football Centre NG2 7BW",
+      "division": "U12 Sun YEL Cup"
+    },
+    {
+      "id": "8f6f8c9e2721e4593b20e9c9c9b33320",
+      "date": "2026-05-17",
+      "time": "10:00",
+      "home_team": "Beeston FC U12",
+      "away_team": "G3A FC Milan U12",
+      "venue": "Nottingham Football Centre NG2 7BW",
+      "division": "U12 Sun YEL Foundation Shield"
+    },
+    {
       "id": "75a1dd6c7b80e2817bd74654ae91e6d2",
       "date": "2026-05-17",
       "time": "10:00",
@@ -399,6 +399,33 @@
       "division": "U11 Sun YEL Foundation Shield"
     },
     {
+      "id": "96b178b3d5cfd7c9f9bf7580b5ff7234",
+      "date": "2026-05-17",
+      "time": "12:00",
+      "home_team": "Bestwood Colliery U14",
+      "away_team": "Basford United FC Amber U14",
+      "venue": "Ilkeston Town FC DE7 8JF",
+      "division": "U14 Sun YEL Cup"
+    },
+    {
+      "id": "a4d200ec0f810c9d8049427e027f431d",
+      "date": "2026-05-17",
+      "time": "12:00",
+      "home_team": "Basford United Iconz U12",
+      "away_team": "Gedling FC Tigers U12 *",
+      "venue": "Nottingham Football Centre NG2 7BW",
+      "division": "U12 Sun YEL Trophy"
+    },
+    {
+      "id": "763de73194718c4a182a3c5c6c7eeb34",
+      "date": "2026-05-17",
+      "time": "12:00",
+      "home_team": "Riverside FC Rockets U12",
+      "away_team": "Harrowby United U12",
+      "venue": "Nottingham Football Centre NG2 7BW",
+      "division": "U12 Sun YEL Challenge Trophy"
+    },
+    {
       "id": "9b620731612b1b3d3b12962447122217",
       "date": "2026-05-17",
       "time": "12:00",
@@ -415,6 +442,33 @@
       "away_team": "Shirebrook Rangers Red U11",
       "venue": "Norman Archer Memorial Ground NG11 9AZ",
       "division": "U11 Sun YEL Challenge Trophy"
+    },
+    {
+      "id": "a3094e474c0ae52fa7ce6133d942ed32",
+      "date": "2026-05-17",
+      "time": "14:00",
+      "home_team": "Barrowby Junior Green U13",
+      "away_team": "Hucknall Sports Red U13",
+      "venue": "Ilkeston Town FC DE7 8JF",
+      "division": "U13 Sun YEL Challenge Trophy"
+    },
+    {
+      "id": "17e37c99c63db515b781071cc02db280",
+      "date": "2026-05-17",
+      "time": "14:00",
+      "home_team": "Basford United Lions U12",
+      "away_team": "Melbourne Dynamo Rangers U12",
+      "venue": "Nottingham Football Centre NG2 7BW",
+      "division": "U12 Sun YEL Shield"
+    },
+    {
+      "id": "8ab8fc598e85654c3d466a2e14ecba40",
+      "date": "2026-05-17",
+      "time": "14:00",
+      "home_team": "Ollerton Town U12",
+      "away_team": "Woodhouse Colts Yellow U12",
+      "venue": "Nottingham Football Centre NG2 7BW",
+      "division": "U12 Sun YEL Inter Cup"
     },
     {
       "id": "0ee2326f8535bc6176cb6276b7469814",

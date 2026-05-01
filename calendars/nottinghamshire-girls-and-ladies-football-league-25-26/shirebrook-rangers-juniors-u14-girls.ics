@@ -7,17 +7,8 @@ X-WR-CALNAME:Shirebrook Rangers & Juniors U14 Girls
 X-WR-CALDESC:Fixtures for Shirebrook Rangers & Juniors U14 Girls — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:5d277a31ecebc1b9bafa5bd36dd48d39@yel-calendar
-DTSTAMP:20260430T080305Z
-DTSTART;TZID=Europe/London:20260419T113000
-DTEND;TZID=Europe/London:20260419T120000
-SUMMARY:⚽ Shirebrook Rangers & Juniors U14 Girls vs Ravenshead Reds F.C. Youth U14 (Away)
-DESCRIPTION:Division: U14 Div 3\nRavenshead Reds F.C. Youth U14 v Shirebrook Rangers & Juniors U14 Girls\nKO: 11:30
-LOCATION:THE SUMMIT CENTRE
-END:VEVENT
-BEGIN:VEVENT
 UID:c61a058871aafbacf1318ade9f29ea32@yel-calendar
-DTSTAMP:20260430T080305Z
+DTSTAMP:20260501T080130Z
 DTSTART;TZID=Europe/London:20260503T100000
 DTEND;TZID=Europe/London:20260503T110000
 SUMMARY:⚽ Shirebrook Rangers & Juniors U14 Girls vs Riverside Junior U14 Rubies (Home)
@@ -25,12 +16,21 @@ DESCRIPTION:Division: U14 Div 3\nShirebrook Rangers & Juniors U14 Girls v Rivers
 LOCATION:SHIREBROOK ACADEMY
 END:VEVENT
 BEGIN:VEVENT
-UID:4ac14e77d4b2bd26ac12def3691ebefd@yel-calendar
-DTSTAMP:20260430T080305Z
+UID:43fb8e68f1cca7fd55cb7682aa2bf24f@yel-calendar
+DTSTAMP:20260501T080130Z
 DTSTART;TZID=Europe/London:20260510T100000
 DTEND;TZID=Europe/London:20260510T110000
+SUMMARY:⚽ Shirebrook Rangers & Juniors U14 Girls vs Ravenshead Reds F.C. Youth U14 (Away)
+DESCRIPTION:Division: U14 Div 3\nRavenshead Reds F.C. Youth U14 v Shirebrook Rangers & Juniors U14 Girls\nKO: 10:00
+LOCATION:THE SUMMIT CENTRE
+END:VEVENT
+BEGIN:VEVENT
+UID:3951f5a749064e233436dc025db2b78f@yel-calendar
+DTSTAMP:20260501T080130Z
+DTSTART;TZID=Europe/London:20260520T180000
+DTEND;TZID=Europe/London:20260520T190000
 SUMMARY:⚽ Shirebrook Rangers & Juniors U14 Girls vs Hasland Community U14 Girls Sunday (Home)
-DESCRIPTION:Division: U14 Div 3\nShirebrook Rangers & Juniors U14 Girls v Hasland Community U14 Girls Sunday\nKO: 10:00
+DESCRIPTION:Division: U14 Div 3\nShirebrook Rangers & Juniors U14 Girls v Hasland Community U14 Girls Sunday\nKO: 18:00
 LOCATION:SHIREBROOK ACADEMY
 END:VEVENT
 END:VCALENDAR

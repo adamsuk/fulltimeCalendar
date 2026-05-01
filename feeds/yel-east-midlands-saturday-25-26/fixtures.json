@@ -1,34 +1,7 @@
 {
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-04-30T08:02:02Z",
+  "generated": "2026-05-01T08:00:25Z",
   "fixtures": [
-    {
-      "id": "f2446ea0d8b96927e1a1e1cbeb268646",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Eastwood CFC Aces U14",
-      "away_team": "Ilkeston Town White Star U14",
-      "venue": "Coronation Park  NG16 3HB",
-      "division": "u14 Sat Spring Div 1 Gold"
-    },
-    {
-      "id": "87e7e3abbd34a18b404e9b0f26168080",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home_team": "Meden Vale Colts Red U14",
-      "away_team": "Collingham FC Lions U14",
-      "venue": "Manor Sport & Recreation Cntre  NG19 8JY",
-      "division": "U14 Sat YEL Trophy (Revised)"
-    },
-    {
-      "id": "94db3c5cbadf3882f4ec49451ee07652",
-      "date": "2026-04-23",
-      "time": "18:00",
-      "home_team": "Eastwood Ath Dynamos U14",
-      "away_team": "West Hallam Wanderers U14",
-      "venue": "Hall Park NG16 3AR",
-      "division": "U14 Sat Spring Div 5 Blue"
-    },
     {
       "id": "b2f2d826ec977687b04b1a0ee3b8d87d",
       "date": "2026-04-25",
@@ -100,15 +73,6 @@
       "away_team": "Spirit Celtic White U14",
       "venue": "Long Bennington QE2 Plyng Fld  NG23 5DJ",
       "division": "U14 Sat Spring Div 7"
-    },
-    {
-      "id": "2b5afe88c7130df2247fb967f4576b7d",
-      "date": "2026-04-25",
-      "time": "10:45",
-      "home_team": "WBYFC Palmeiras U12",
-      "away_team": "FC Cavaliers U12",
-      "venue": "Gresham Park  NG2 7YF",
-      "division": "U12 Sat Spring Div 2 Blue"
     },
     {
       "id": "6d514d06708549b30d5f0a42b157f895",
@@ -264,6 +228,24 @@
       "division": "U14 Sat YEL Cup"
     },
     {
+      "id": "d49e62a09a9d0f55af4ef36f052cf351",
+      "date": "2026-05-09",
+      "time": "10:00",
+      "home_team": "AJ Sport FC U14",
+      "away_team": "Meden Vale Colts Red U14",
+      "venue": "Beeston Fields Recreation Ground NG9 2QT",
+      "division": "U14 Sat YEL Trophy (Revised)"
+    },
+    {
+      "id": "bc88f433be4dc8640aecbe97367ac291",
+      "date": "2026-05-09",
+      "time": "10:00",
+      "home_team": "G3A FC Zenit U13",
+      "away_team": "Muskham Cougars U13",
+      "venue": "Ilkeston Town FC DE7 8JF",
+      "division": "U13 Sat YEL Foundation Shield"
+    },
+    {
       "id": "e571e15c66d9da53573fbfd44e8e63dd",
       "date": "2026-05-09",
       "time": "10:00",
@@ -327,6 +309,15 @@
       "division": "U9 Sat YEL Inter Silver"
     },
     {
+      "id": "6f35368c6442b59dd9a680fac018d6e3",
+      "date": "2026-05-09",
+      "time": "12:00",
+      "home_team": "Walesby FC White U14",
+      "away_team": "Arnold Town Blue U14",
+      "venue": "Ilkeston Town FC DE7 8JF",
+      "division": "U14 Sat YEL Challenge Trophy"
+    },
+    {
       "id": "611444bd4e9d9a18e1a5f3ca2eaacfd1",
       "date": "2026-05-09",
       "time": "12:00",
@@ -381,6 +372,15 @@
       "division": "U9 Sat YEL Foundation"
     },
     {
+      "id": "b0563993fba3527b7f7260583ff3d464",
+      "date": "2026-05-09",
+      "time": "14:00",
+      "home_team": "Silva FC Rushcliffe Reds U13",
+      "away_team": "Silva FC Rushcliffe Gold U13",
+      "venue": "Ilkeston Town FC DE7 8JF",
+      "division": "U13 Sat YEL Cup"
+    },
+    {
       "id": "d407e335fda5c2126b10bb06de2ab9a7",
       "date": "2026-05-09",
       "time": "15:00",
@@ -415,6 +415,33 @@
       "away_team": "AJ Sport Red U9",
       "venue": "Norman Archer Memorial Ground NG11 9AZ",
       "division": "U9 Sat YEL Shield"
+    },
+    {
+      "id": "33d1956e9f58b85e74825eb89a127eff",
+      "date": "2026-05-09",
+      "time": "16:00",
+      "home_team": "ASFC U14",
+      "away_team": "RHP Colts White U14",
+      "venue": "Ilkeston Town FC DE7 8JF",
+      "division": "U14 Sat YEL Shield"
+    },
+    {
+      "id": "94914daa596effac9639913bca63e908",
+      "date": "2026-05-12",
+      "time": "18:15",
+      "home_team": "Long Eaton United White U13",
+      "away_team": "Calverton MW Red U13",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U13 Sat YEL Trophy"
+    },
+    {
+      "id": "369c279ec4e070c32c3610e1f1743df1",
+      "date": "2026-05-12",
+      "time": "20:00",
+      "home_team": "Annesley AFC U13",
+      "away_team": "Newark Brazil Corinthians U13",
+      "venue": "Greenwich Avenue NG6 0LD",
+      "division": "U13 Sat YEL Challenge Trophy"
     },
     {
       "id": "21dfb5a9866734afcbdace7adc64cc13",
@@ -453,15 +480,6 @@
       "division": "U12 Sat YEL Trophy"
     },
     {
-      "id": "4e2a31f9adeb57bf294ae2d69c9e0347",
-      "date": "2026-05-16",
-      "time": "12:00",
-      "home_team": "Keyworth United Blue U12",
-      "away_team": "Clifton All Whites Yellow U12",
-      "venue": "Nottingham Football Centre NG2 7BW",
-      "division": "U12 Sat YEL Inter Cup"
-    },
-    {
       "id": "7328e44d8b86406d0ad72543f52ce367",
       "date": "2026-05-16",
       "time": "12:00",
@@ -496,6 +514,15 @@
       "away_team": "Etwall FC U12",
       "venue": "Nottingham Football Centre NG2 7BW",
       "division": "U12 Sat YEL Shield"
+    },
+    {
+      "id": "4e2a31f9adeb57bf294ae2d69c9e0347",
+      "date": "2026-05-16",
+      "time": "14:00",
+      "home_team": "Keyworth United Blue U12",
+      "away_team": "Clifton All Whites Yellow U12",
+      "venue": "Nottingham Football Centre NG2 7BW",
+      "division": "U12 Sat YEL Inter Cup"
     },
     {
       "id": "573b4d23f7ed39093e7d275f792cbf65",

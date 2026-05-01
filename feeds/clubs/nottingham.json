@@ -1,6 +1,6 @@
 {
   "club": "Nottingham",
-  "generated": "2026-04-30T08:02:02Z",
+  "generated": "2026-05-01T08:00:25Z",
   "fixtures": [
     {
       "id": "415088ca6dbf75a992002efbd69d6faf",
@@ -40,19 +40,6 @@
       "team": "Nottingham FC Green U12",
       "home_away": "home",
       "opponent": "Edwalton Cavaliers White U12"
-    },
-    {
-      "id": "31ca795dde78231a651ea376e1aabf71",
-      "date": "2026-04-30",
-      "time": "18:30",
-      "home_team": "Spondon Dynamos Blades U13",
-      "away_team": "Nottingham FC Green U13",
-      "venue": "Spondon Sports Association DE21 7PH",
-      "division": "U13 Sun YEL Cup",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Nottingham FC Green U13",
-      "home_away": "away",
-      "opponent": "Spondon Dynamos Blades U13"
     },
     {
       "id": "81d1ba3a17b671cbf5a60032fe094389",
@@ -160,6 +147,23 @@
     }
   ],
   "results": [
+    {
+      "id": "31ca795dde78231a651ea376e1aabf71",
+      "date": "2026-04-30",
+      "time": "18:30",
+      "home_team": "Spondon Dynamos Blades U13",
+      "away_team": "Nottingham FC Green U13",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sun YEL Cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Nottingham FC Green U13",
+      "home_away": "away",
+      "opponent": "Spondon Dynamos Blades U13",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "40485f9c874c4f5edbe84b1befcc827c",
       "date": "2026-04-28",
