@@ -1,6 +1,6 @@
 {
   "club": "Quorn",
-  "generated": "2026-05-01T08:00:25Z",
+  "generated": "2026-05-02T07:20:34Z",
   "fixtures": [
     {
       "id": "b75c66b619f0af4ed7f1a3b2f1f61f5a",
@@ -14,19 +14,6 @@
       "team": "Quorn FC Methodists",
       "home_away": "away",
       "opponent": "Collingham FC Development"
-    },
-    {
-      "id": "50017d644f1c9e82ea63fa86a1d9232c",
-      "date": "2026-05-01",
-      "time": "19:45",
-      "home_team": "Calverton Miners Welfare Reserves",
-      "away_team": "Quorn FC Methodists",
-      "venue": "STAG RECREATION GROUND",
-      "division": "NSL Junior Cup",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Quorn FC Methodists",
-      "home_away": "away",
-      "opponent": "Calverton Miners Welfare Reserves"
     },
     {
       "id": "e0198ca061ef8046fb24bd25cce0349f",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "50017d644f1c9e82ea63fa86a1d9232c",
+      "date": "2026-05-01",
+      "time": "19:45",
+      "home_team": "Calverton Miners Welfare Reserves",
+      "away_team": "Quorn FC Methodists",
+      "home_score": 2,
+      "away_score": 5,
+      "venue": "",
+      "division": "NSL Junior Cup",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Quorn FC Methodists",
+      "home_away": "away",
+      "opponent": "Calverton Miners Welfare Reserves",
+      "goals_for": 5,
+      "goals_against": 2
+    },
     {
       "id": "22941a9f53c5a5a800d6e3ad6be316d8",
       "date": "2026-04-25",

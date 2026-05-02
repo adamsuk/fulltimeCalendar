@@ -1,6 +1,6 @@
 {
   "club": "Hucknall & Linby Harriers",
-  "generated": "2026-05-01T08:00:25Z",
+  "generated": "2026-05-02T07:20:34Z",
   "fixtures": [
     {
       "id": "c31ba664ed5f991aeb8b202c4e9b5ae8",
@@ -27,19 +27,6 @@
       "team": "Hucknall & Linby Harriers FC U13",
       "home_away": "away",
       "opponent": "AFC Warriors Youth U13"
-    },
-    {
-      "id": "a25a388eaf761a54394869b6b9aee00d",
-      "date": "2026-05-01",
-      "time": "18:00",
-      "home_team": "Priory Celtic F.C. U14 Lionesses",
-      "away_team": "Hucknall & Linby Harriers FC U14",
-      "venue": "KIMBERLEY SCHOOL SPORTS CENTRE",
-      "division": "U14 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Hucknall & Linby Harriers FC U14",
-      "home_away": "away",
-      "opponent": "Priory Celtic F.C. U14 Lionesses"
     },
     {
       "id": "2f355ea684cc7b310885f0574f47fa89",
@@ -199,6 +186,23 @@
     }
   ],
   "results": [
+    {
+      "id": "a25a388eaf761a54394869b6b9aee00d",
+      "date": "2026-05-01",
+      "time": "18:00",
+      "home_team": "Priory Celtic F.C. U14 Lionesses",
+      "away_team": "Hucknall & Linby Harriers FC U14",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall & Linby Harriers FC U14",
+      "home_away": "away",
+      "opponent": "Priory Celtic F.C. U14 Lionesses",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "f28477716d9d5426da3aff3bf6382233",
       "date": "2026-04-26",
