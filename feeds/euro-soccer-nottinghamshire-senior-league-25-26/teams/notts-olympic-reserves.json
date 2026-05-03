@@ -1,7 +1,7 @@
 {
   "team": "Notts Olympic Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-05-02T07:20:34Z",
+  "generated": "2026-05-03T07:46:10Z",
   "fixtures": [
     {
       "id": "082583a9f18d4f91a7ce49b0197eb07c",
@@ -13,20 +13,24 @@
       "division": "NSL Division Two",
       "home_away": "home",
       "opponent": "Arnold Town Reserves"
-    },
+    }
+  ],
+  "results": [
     {
       "id": "b4aeff6b9b1383b2983cb1b25baf608b",
       "date": "2026-05-02",
       "time": "15:00",
       "home_team": "Notts Olympic Reserves",
       "away_team": "Beeston Reserves",
-      "venue": "Birchover Park",
+      "home_score": 8,
+      "away_score": 3,
+      "venue": "",
       "division": "NSL Division Two",
       "home_away": "home",
-      "opponent": "Beeston Reserves"
-    }
-  ],
-  "results": [
+      "opponent": "Beeston Reserves",
+      "goals_for": 8,
+      "goals_against": 3
+    },
     {
       "id": "ee880537b7328f346c2b574bcd322500",
       "date": "2026-04-18",

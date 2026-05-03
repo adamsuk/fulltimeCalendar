@@ -1,6 +1,6 @@
 {
   "club": "AJ Sport",
-  "generated": "2026-05-02T07:20:34Z",
+  "generated": "2026-05-03T07:46:10Z",
   "fixtures": [
     {
       "id": "6cf2b543cd315c5e29610b0673c1a237",
@@ -42,19 +42,6 @@
       "opponent": "East Leake Bantams Black U9"
     },
     {
-      "id": "9da44c726799106062c73def1ee53b45",
-      "date": "2026-05-02",
-      "time": "15:00",
-      "home_team": "AJ Sport F.C. Reserves",
-      "away_team": "Robin Hood Colts FC",
-      "venue": "LEYTON CRESCENT RECREATION GROUND",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "AJ Sport F.C. Reserves",
-      "home_away": "home",
-      "opponent": "Robin Hood Colts FC"
-    },
-    {
       "id": "d49e62a09a9d0f55af4ef36f052cf351",
       "date": "2026-05-09",
       "time": "10:00",
@@ -82,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "9da44c726799106062c73def1ee53b45",
+      "date": "2026-05-02",
+      "time": "15:00",
+      "home_team": "AJ Sport F.C. Reserves",
+      "away_team": "Robin Hood Colts FC",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "AJ Sport F.C. Reserves",
+      "home_away": "home",
+      "opponent": "Robin Hood Colts FC",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "44bb321cb1f04d2a269ec64f02b4072d",
       "date": "2026-04-29",

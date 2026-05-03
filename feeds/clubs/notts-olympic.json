@@ -1,6 +1,6 @@
 {
   "club": "Notts Olympic",
-  "generated": "2026-05-02T07:20:34Z",
+  "generated": "2026-05-03T07:46:10Z",
   "fixtures": [
     {
       "id": "082583a9f18d4f91a7ce49b0197eb07c",
@@ -42,19 +42,6 @@
       "opponent": "Collingham FC"
     },
     {
-      "id": "b4aeff6b9b1383b2983cb1b25baf608b",
-      "date": "2026-05-02",
-      "time": "15:00",
-      "home_team": "Notts Olympic Reserves",
-      "away_team": "Beeston Reserves",
-      "venue": "Birchover Park",
-      "division": "NSL Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Notts Olympic Reserves",
-      "home_away": "home",
-      "opponent": "Beeston Reserves"
-    },
-    {
       "id": "44c2c3e09df6ff291815ddc0d2284bde",
       "date": "2026-05-05",
       "time": "19:30",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "b4aeff6b9b1383b2983cb1b25baf608b",
+      "date": "2026-05-02",
+      "time": "15:00",
+      "home_team": "Notts Olympic Reserves",
+      "away_team": "Beeston Reserves",
+      "home_score": 8,
+      "away_score": 3,
+      "venue": "",
+      "division": "NSL Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Notts Olympic Reserves",
+      "home_away": "home",
+      "opponent": "Beeston Reserves",
+      "goals_for": 8,
+      "goals_against": 3
+    },
     {
       "id": "0aa3255e551698344a7a2f86476ce642",
       "date": "2026-04-28",

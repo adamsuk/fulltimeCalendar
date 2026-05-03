@@ -1,6 +1,6 @@
 {
   "club": "Collingham",
-  "generated": "2026-05-02T07:20:34Z",
+  "generated": "2026-05-03T07:46:10Z",
   "fixtures": [
     {
       "id": "b75c66b619f0af4ed7f1a3b2f1f61f5a",
@@ -53,32 +53,6 @@
       "team": "Collingham FC Development",
       "home_away": "away",
       "opponent": "Cotgrave Development"
-    },
-    {
-      "id": "3b98b7a418d75af24374a6b8cc8b04c3",
-      "date": "2026-05-02",
-      "time": "15:00",
-      "home_team": "Kimberley Miners Welfare Reserves",
-      "away_team": "Collingham FC",
-      "venue": "STAG RECREATION GROUND",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Collingham FC",
-      "home_away": "away",
-      "opponent": "Kimberley Miners Welfare Reserves"
-    },
-    {
-      "id": "50874dbeb92b9671554114c191f11c35",
-      "date": "2026-05-02",
-      "time": "15:00",
-      "home_team": "Collingham Reserves",
-      "away_team": "AFC Parabellum",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "NSL Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Collingham Reserves",
-      "home_away": "home",
-      "opponent": "AFC Parabellum"
     },
     {
       "id": "70a0708cd2a0b65346cd28f697ea9c76",
@@ -173,6 +147,40 @@
     }
   ],
   "results": [
+    {
+      "id": "3b98b7a418d75af24374a6b8cc8b04c3",
+      "date": "2026-05-02",
+      "time": "15:00",
+      "home_team": "Kimberley Miners Welfare Reserves",
+      "away_team": "Collingham FC",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Collingham FC",
+      "home_away": "away",
+      "opponent": "Kimberley Miners Welfare Reserves",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
+      "id": "50874dbeb92b9671554114c191f11c35",
+      "date": "2026-05-02",
+      "time": "15:00",
+      "home_team": "Collingham Reserves",
+      "away_team": "AFC Parabellum",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "NSL Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Collingham Reserves",
+      "home_away": "home",
+      "opponent": "AFC Parabellum",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "2025936f30759699be8c847340d1346c",
       "date": "2026-04-28",

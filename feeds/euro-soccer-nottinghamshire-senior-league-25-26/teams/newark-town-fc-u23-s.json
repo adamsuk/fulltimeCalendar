@@ -1,7 +1,7 @@
 {
   "team": "Newark Town FC U23's",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-05-02T07:20:34Z",
+  "generated": "2026-05-03T07:46:10Z",
   "fixtures": [
     {
       "id": "fc8098c162e51af805d9f0ad00a5c2dd",
@@ -13,17 +13,6 @@
       "division": "Development Spring Division Two",
       "home_away": "away",
       "opponent": "Pegasus FC"
-    },
-    {
-      "id": "532988e0eaf4e37491bc3c1453bef340",
-      "date": "2026-05-02",
-      "time": "10:00",
-      "home_team": "Newark Town FC U23's",
-      "away_team": "Stapleford Town FC U23",
-      "venue": "YMCA NEWARK & SHERWOOD SPORTS COMMUNITY AND ACTIVITY VILLAGE",
-      "division": "Development Spring Division Two",
-      "home_away": "home",
-      "opponent": "Stapleford Town FC U23"
     },
     {
       "id": "20265529930af737a319efba901efa5a",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "532988e0eaf4e37491bc3c1453bef340",
+      "date": "2026-05-02",
+      "time": "10:00",
+      "home_team": "Newark Town FC U23's",
+      "away_team": "Stapleford Town FC U23",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "home_away": "home",
+      "opponent": "Stapleford Town FC U23",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "3f6ad886a6799b1c02d2577ea3d22a67",
       "date": "2026-04-22",

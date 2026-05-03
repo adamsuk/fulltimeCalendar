@@ -1,20 +1,7 @@
 {
   "club": "Robin Hood",
-  "generated": "2026-05-02T07:20:34Z",
+  "generated": "2026-05-03T07:46:10Z",
   "fixtures": [
-    {
-      "id": "9da44c726799106062c73def1ee53b45",
-      "date": "2026-05-02",
-      "time": "15:00",
-      "home_team": "AJ Sport F.C. Reserves",
-      "away_team": "Robin Hood Colts FC",
-      "venue": "LEYTON CRESCENT RECREATION GROUND",
-      "division": "NSL Division Three",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Robin Hood Colts FC",
-      "home_away": "away",
-      "opponent": "AJ Sport F.C. Reserves"
-    },
     {
       "id": "1a255d74ce9b4129454b7d09c3f78d7b",
       "date": "2026-05-03",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "9da44c726799106062c73def1ee53b45",
+      "date": "2026-05-02",
+      "time": "15:00",
+      "home_team": "AJ Sport F.C. Reserves",
+      "away_team": "Robin Hood Colts FC",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division Three",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Robin Hood Colts FC",
+      "home_away": "away",
+      "opponent": "AJ Sport F.C. Reserves",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "59b29e55b60a7464c7f5f61566aee364",
       "date": "2026-04-26",

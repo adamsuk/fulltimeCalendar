@@ -1,20 +1,7 @@
 {
   "club": "Meden Vale",
-  "generated": "2026-05-02T07:20:34Z",
+  "generated": "2026-05-03T07:46:10Z",
   "fixtures": [
-    {
-      "id": "f5df0a098f5e354a90ba5c13f893ab6f",
-      "date": "2026-05-02",
-      "time": "15:00",
-      "home_team": "Meden Vale Colts FC",
-      "away_team": "Bilborough TRD FC",
-      "venue": "ELKESLEY ROAD GROUND",
-      "division": "NSL Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Meden Vale Colts FC",
-      "home_away": "home",
-      "opponent": "Bilborough TRD FC"
-    },
     {
       "id": "a97643cf9e5be54d3d01fedbeac17c6b",
       "date": "2026-05-03",
@@ -121,6 +108,23 @@
     }
   ],
   "results": [
+    {
+      "id": "f5df0a098f5e354a90ba5c13f893ab6f",
+      "date": "2026-05-02",
+      "time": "15:00",
+      "home_team": "Meden Vale Colts FC",
+      "away_team": "Bilborough TRD FC",
+      "home_score": 10,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Meden Vale Colts FC",
+      "home_away": "home",
+      "opponent": "Bilborough TRD FC",
+      "goals_for": 10,
+      "goals_against": 1
+    },
     {
       "id": "1483b7afe0a939967a3a7207dae3ec4d",
       "date": "2026-04-26",

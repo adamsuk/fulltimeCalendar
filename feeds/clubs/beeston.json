@@ -1,6 +1,6 @@
 {
   "club": "Beeston",
-  "generated": "2026-05-02T07:20:34Z",
+  "generated": "2026-05-03T07:46:10Z",
   "fixtures": [
     {
       "id": "670d3b5fa7029f9ed20210479cb35b84",
@@ -27,32 +27,6 @@
       "team": "Beeston FC Women",
       "home_away": "away",
       "opponent": "Pelican Colts FC Ladies"
-    },
-    {
-      "id": "d20eec2cd02d6593fc183fa0bd97ca6e",
-      "date": "2026-05-02",
-      "time": "15:00",
-      "home_team": "Beeston FC",
-      "away_team": "West Bridgford Reserves",
-      "venue": "Trent Vale Road Sports Ground",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Beeston FC",
-      "home_away": "home",
-      "opponent": "West Bridgford Reserves"
-    },
-    {
-      "id": "b4aeff6b9b1383b2983cb1b25baf608b",
-      "date": "2026-05-02",
-      "time": "15:00",
-      "home_team": "Notts Olympic Reserves",
-      "away_team": "Beeston Reserves",
-      "venue": "Birchover Park",
-      "division": "NSL Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Beeston Reserves",
-      "home_away": "away",
-      "opponent": "Notts Olympic Reserves"
     },
     {
       "id": "269a7122ab1837765a02b1b26145680c",
@@ -212,6 +186,40 @@
     }
   ],
   "results": [
+    {
+      "id": "d20eec2cd02d6593fc183fa0bd97ca6e",
+      "date": "2026-05-02",
+      "time": "15:00",
+      "home_team": "Beeston FC",
+      "away_team": "West Bridgford Reserves",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Beeston FC",
+      "home_away": "home",
+      "opponent": "West Bridgford Reserves",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
+      "id": "b4aeff6b9b1383b2983cb1b25baf608b",
+      "date": "2026-05-02",
+      "time": "15:00",
+      "home_team": "Notts Olympic Reserves",
+      "away_team": "Beeston Reserves",
+      "home_score": 8,
+      "away_score": 3,
+      "venue": "",
+      "division": "NSL Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Beeston Reserves",
+      "home_away": "away",
+      "opponent": "Notts Olympic Reserves",
+      "goals_for": 3,
+      "goals_against": 8
+    },
     {
       "id": "b9019fab91e08d6ea03caf7defeb0efd",
       "date": "2026-04-29",

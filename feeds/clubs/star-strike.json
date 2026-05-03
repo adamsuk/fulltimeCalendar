@@ -1,20 +1,7 @@
 {
   "club": "Star Strike",
-  "generated": "2026-05-02T07:20:34Z",
+  "generated": "2026-05-03T07:46:10Z",
   "fixtures": [
-    {
-      "id": "e17b14a26ff20fefebfefde85ca47154",
-      "date": "2026-05-02",
-      "time": "10:00",
-      "home_team": "RHP Colts Green U14",
-      "away_team": "Star Strike Tigers Black U14",
-      "venue": "Newark Leisure Centre NG24 4DH",
-      "division": "U14 Sat YEL Inter Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Star Strike Tigers Black U14",
-      "home_away": "away",
-      "opponent": "RHP Colts Green U14"
-    },
     {
       "id": "0c9270a3ecc7e6b3b09349f6d3fe707a",
       "date": "2026-05-09",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "e17b14a26ff20fefebfefde85ca47154",
+      "date": "2026-05-02",
+      "time": "10:00",
+      "home_team": "RHP Colts Green U14",
+      "away_team": "Star Strike Tigers Black U14",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U14 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Star Strike Tigers Black U14",
+      "home_away": "away",
+      "opponent": "RHP Colts Green U14",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "40ee471b058836beb17facb17d307dfc",
       "date": "2026-04-29",

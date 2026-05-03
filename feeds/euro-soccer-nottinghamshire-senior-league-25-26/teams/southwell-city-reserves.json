@@ -1,7 +1,7 @@
 {
   "team": "Southwell City Reserves",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-05-02T07:20:34Z",
+  "generated": "2026-05-03T07:46:10Z",
   "fixtures": [
     {
       "id": "728393015694333a48360ad5452c500b",
@@ -12,17 +12,6 @@
       "venue": "CENTENARY SPORTS GROUND",
       "division": "Euro Soccer Premier Division",
       "home_away": "home",
-      "opponent": "Ruddington Village FC"
-    },
-    {
-      "id": "ec4f5ebd2503c11fb09768dc97d53e47",
-      "date": "2026-05-02",
-      "time": "15:00",
-      "home_team": "Ruddington Village FC",
-      "away_team": "Southwell City Reserves",
-      "venue": "ELMS PARK",
-      "division": "Euro Soccer Premier Division",
-      "home_away": "away",
       "opponent": "Ruddington Village FC"
     },
     {
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ec4f5ebd2503c11fb09768dc97d53e47",
+      "date": "2026-05-02",
+      "time": "15:00",
+      "home_team": "Ruddington Village FC",
+      "away_team": "Southwell City Reserves",
+      "home_score": 0,
+      "away_score": 8,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "home_away": "away",
+      "opponent": "Ruddington Village FC",
+      "goals_for": 8,
+      "goals_against": 0
+    },
     {
       "id": "a3ad15a25506a3d522b66f4cfa4cf054",
       "date": "2026-04-25",

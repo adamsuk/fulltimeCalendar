@@ -1,6 +1,6 @@
 {
   "club": "Eastwood Athletic",
-  "generated": "2026-05-02T07:20:34Z",
+  "generated": "2026-05-03T07:46:10Z",
   "fixtures": [
     {
       "id": "5c3e1d379a3447428bc2f59c42269e10",
@@ -29,19 +29,6 @@
       "opponent": "Wollaton H & B Wolves U13"
     },
     {
-      "id": "b663b82b159da8b04cc14f64fc5a1ae7",
-      "date": "2026-05-02",
-      "time": "10:00",
-      "home_team": "Mickleover Jnrs Porto U13",
-      "away_team": "Eastwood Athletic Eagles U13",
-      "venue": "Varsity Grange Football Complex DE3 9EB",
-      "division": "U13 Sat YEL Inter Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Eastwood Athletic Eagles U13",
-      "home_away": "away",
-      "opponent": "Mickleover Jnrs Porto U13"
-    },
-    {
       "id": "8f56ad48cdeaa28c20be68f541ca71bc",
       "date": "2026-05-10",
       "time": "13:30",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "b663b82b159da8b04cc14f64fc5a1ae7",
+      "date": "2026-05-02",
+      "time": "10:00",
+      "home_team": "Mickleover Jnrs Porto U13",
+      "away_team": "Eastwood Athletic Eagles U13",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Eastwood Athletic Eagles U13",
+      "home_away": "away",
+      "opponent": "Mickleover Jnrs Porto U13",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "07b71f8b122ee1c42f01556254674733",
       "date": "2026-04-26",

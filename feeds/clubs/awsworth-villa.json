@@ -1,6 +1,6 @@
 {
   "club": "Awsworth Villa",
-  "generated": "2026-05-02T07:20:34Z",
+  "generated": "2026-05-03T07:46:10Z",
   "fixtures": [
     {
       "id": "9f4caf9fc4a9fc217a70e59ef0097a6a",
@@ -14,19 +14,6 @@
       "team": "Awsworth Villa Reserves",
       "home_away": "away",
       "opponent": "Harrowby United Reserves"
-    },
-    {
-      "id": "f69d723e01e512d9f874c6c56251f629",
-      "date": "2026-05-02",
-      "time": "15:00",
-      "home_team": "Cotgrave FC",
-      "away_team": "Awsworth Villa FC",
-      "venue": "Hollinwood Lane Main Pitch",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Awsworth Villa FC",
-      "home_away": "away",
-      "opponent": "Cotgrave FC"
     },
     {
       "id": "d8f8be658381102e4fde9570a227d3e5",
@@ -82,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "f69d723e01e512d9f874c6c56251f629",
+      "date": "2026-05-02",
+      "time": "15:00",
+      "home_team": "Cotgrave FC",
+      "away_team": "Awsworth Villa FC",
+      "home_score": 3,
+      "away_score": 3,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Awsworth Villa FC",
+      "home_away": "away",
+      "opponent": "Cotgrave FC",
+      "goals_for": 3,
+      "goals_against": 3
+    },
     {
       "id": "79ec0ab337d7759117b1390ec59d71d8",
       "date": "2026-04-29",

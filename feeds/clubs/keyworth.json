@@ -1,20 +1,7 @@
 {
   "club": "Keyworth",
-  "generated": "2026-05-02T07:20:34Z",
+  "generated": "2026-05-03T07:46:10Z",
   "fixtures": [
-    {
-      "id": "3b33fc547d01ebc77e161f1509820f2d",
-      "date": "2026-05-02",
-      "time": "15:00",
-      "home_team": "Dunkirk AFC",
-      "away_team": "Keyworth United FC",
-      "venue": "RON STEEL SPORTS GROUND #1",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Keyworth United FC",
-      "home_away": "away",
-      "opponent": "Dunkirk AFC"
-    },
     {
       "id": "7c3c2fcce59871ebab511fa7a5fb5997",
       "date": "2026-05-03",
@@ -368,6 +355,23 @@
     }
   ],
   "results": [
+    {
+      "id": "3b33fc547d01ebc77e161f1509820f2d",
+      "date": "2026-05-02",
+      "time": "15:00",
+      "home_team": "Dunkirk AFC",
+      "away_team": "Keyworth United FC",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Keyworth United FC",
+      "home_away": "away",
+      "opponent": "Dunkirk AFC",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "bacffefc71d3bec538c7d61a67f737a6",
       "date": "2026-04-29",

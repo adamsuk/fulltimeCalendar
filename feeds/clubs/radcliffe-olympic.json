@@ -1,6 +1,6 @@
 {
   "club": "Radcliffe Olympic",
-  "generated": "2026-05-02T07:20:34Z",
+  "generated": "2026-05-03T07:46:10Z",
   "fixtures": [
     {
       "id": "f84cf0c32ef6395e8fcf6bbccb58ed31",
@@ -14,19 +14,6 @@
       "team": "Radcliffe Olympic Leopards U8",
       "home_away": "home",
       "opponent": "WBYFC Dynamos Red U8"
-    },
-    {
-      "id": "06da3c6290f5cb9dfc99cb2050f5da8d",
-      "date": "2026-05-02",
-      "time": "10:30",
-      "home_team": "Radcliffe Olympic FC U23",
-      "away_team": "Linby Colliery Welfare Development",
-      "venue": "LINBY COLLIERY WELFARE FC",
-      "division": "Development Spring Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Radcliffe Olympic FC U23",
-      "home_away": "home",
-      "opponent": "Linby Colliery Welfare Development"
     },
     {
       "id": "812c678062580f65479eead833ca74cf",
@@ -173,6 +160,23 @@
     }
   ],
   "results": [
+    {
+      "id": "06da3c6290f5cb9dfc99cb2050f5da8d",
+      "date": "2026-05-02",
+      "time": "10:30",
+      "home_team": "Radcliffe Olympic FC U23",
+      "away_team": "Linby Colliery Welfare Development",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Radcliffe Olympic FC U23",
+      "home_away": "home",
+      "opponent": "Linby Colliery Welfare Development",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "4814515fad8ac79ae467fbb9806f321b",
       "date": "2026-04-28",
