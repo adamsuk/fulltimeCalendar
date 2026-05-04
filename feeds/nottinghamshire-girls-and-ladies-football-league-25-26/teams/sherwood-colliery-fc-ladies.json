@@ -1,19 +1,8 @@
 {
   "team": "Sherwood Colliery FC Ladies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "fd34a9555ec4fba79a003bee57810559",
-      "date": "2026-05-03",
-      "time": "13:30",
-      "home_team": "Underwood Villa FC Youth Ladies",
-      "away_team": "Sherwood Colliery FC Ladies",
-      "venue": "BRACKEN PARK (UNDERWOOD VILLA FC)",
-      "division": "Seniors Div 2",
-      "home_away": "away",
-      "opponent": "Underwood Villa FC Youth Ladies"
-    },
     {
       "id": "35b99ab97434574f35644377d1a41f87",
       "date": "2026-05-10",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "fd34a9555ec4fba79a003bee57810559",
+      "date": "2026-05-03",
+      "time": "13:30",
+      "home_team": "Underwood Villa FC Youth Ladies",
+      "away_team": "Sherwood Colliery FC Ladies",
+      "home_score": 0,
+      "away_score": 10,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "home_away": "away",
+      "opponent": "Underwood Villa FC Youth Ladies",
+      "goals_for": 10,
+      "goals_against": 0
+    },
     {
       "id": "dbe0589c7f3b43fc759eacdaebd2dc63",
       "date": "2026-03-29",

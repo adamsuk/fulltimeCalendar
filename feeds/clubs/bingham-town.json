@@ -1,6 +1,6 @@
 {
   "club": "Bingham Town",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
     {
       "id": "3191b5a68a4d9890931473960f03c563",
@@ -42,19 +42,6 @@
       "opponent": "Beaufort United F.C. Development"
     },
     {
-      "id": "614b7cf6311a8321a6cfb928374d1fb6",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Bingham Town F.C. U12 Girls Blue",
-      "away_team": "Priory Celtic F.C. U12 Girls",
-      "venue": "KIMBERLEY SCHOOL SPORTS CENTRE",
-      "division": "U12 Div 4 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Bingham Town F.C. U12 Girls Blue",
-      "home_away": "home",
-      "opponent": "Priory Celtic F.C. U12 Girls"
-    },
-    {
       "id": "a4c6a226d762d28c944c7c112f5f2bba",
       "date": "2026-05-03",
       "time": "10:00",
@@ -66,6 +53,19 @@
       "team": "Bingham Town F.C. U16 Girls",
       "home_away": "home",
       "opponent": "Priory Celtic F.C. U16 Girls"
+    },
+    {
+      "id": "ace9a95c0c2040b9cc833f14054c6955",
+      "date": "2026-05-05",
+      "time": "18:30",
+      "home_team": "Gedling Southbank FC U16 Dynamos",
+      "away_team": "Bingham Town F.C. U16 Girls",
+      "venue": "THE TREVOR CARTER PAVILION",
+      "division": "U16 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Bingham Town F.C. U16 Girls",
+      "home_away": "away",
+      "opponent": "Gedling Southbank FC U16 Dynamos"
     },
     {
       "id": "efb889fe04225625ce42fbdc8da079db",
@@ -120,25 +120,12 @@
       "opponent": "Cotgrave FC Ladies"
     },
     {
-      "id": "44ed724bf322db40bee1b74ab3a212d1",
-      "date": "2026-05-10",
-      "time": "11:00",
-      "home_team": "Gedling Southbank FC U16 Dynamos",
-      "away_team": "Bingham Town F.C. U16 Girls",
-      "venue": "THE TREVOR CARTER PAVILION",
-      "division": "U16 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Bingham Town F.C. U16 Girls",
-      "home_away": "away",
-      "opponent": "Gedling Southbank FC U16 Dynamos"
-    },
-    {
       "id": "d75a890082d7ced234934dcff70e3a74",
       "date": "2026-05-11",
       "time": "18:30",
       "home_team": "Bingham Town F.C. U12 Girls Blue",
       "away_team": "Southwell City FC U12 Swans",
-      "venue": "BUTT FIELD SPORTS CLUB",
+      "venue": "HOSE VILLAGE HALL",
       "division": "U12 Div 4 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Bingham Town F.C. U12 Girls Blue",
@@ -177,7 +164,7 @@
       "time": "10:00",
       "home_team": "Bingham Town F.C. U12 Girls Blue",
       "away_team": "Lowdham Colts F.C. Youth U12 Girls",
-      "venue": "BUTT FIELD SPORTS CLUB",
+      "venue": "EPPERSTONE PLAYING FIELDS",
       "division": "U12 Div 4 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Bingham Town F.C. U12 Girls Blue",
@@ -212,6 +199,23 @@
     }
   ],
   "results": [
+    {
+      "id": "614b7cf6311a8321a6cfb928374d1fb6",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Bingham Town F.C. U12 Girls Blue",
+      "away_team": "Priory Celtic F.C. U12 Girls",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 4 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Bingham Town F.C. U12 Girls Blue",
+      "home_away": "home",
+      "opponent": "Priory Celtic F.C. U12 Girls",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "6140713f767d1c3d251ec78f40193b2f",
       "date": "2026-05-02",

@@ -1,20 +1,7 @@
 {
   "club": "Robin Hood",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "1a255d74ce9b4129454b7d09c3f78d7b",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Wollaton Hall & Bramcote F.C. Youth U13",
-      "away_team": "Robin Hood Colts FC Youth U13",
-      "venue": "THE TRINITY CATHOLIC SCHOOL",
-      "division": "U13 Div 2 11 v 11",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Robin Hood Colts FC Youth U13",
-      "home_away": "away",
-      "opponent": "Wollaton Hall & Bramcote F.C. Youth U13"
-    },
     {
       "id": "fd9e2da03ab670f766d8ed5733ec593f",
       "date": "2026-05-07",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "1a255d74ce9b4129454b7d09c3f78d7b",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Wollaton Hall & Bramcote F.C. Youth U13",
+      "away_team": "Robin Hood Colts FC Youth U13",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U13 Div 2 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Robin Hood Colts FC Youth U13",
+      "home_away": "away",
+      "opponent": "Wollaton Hall & Bramcote F.C. Youth U13",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "9da44c726799106062c73def1ee53b45",
       "date": "2026-05-02",

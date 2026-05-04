@@ -1,6 +1,6 @@
 {
   "club": "Shirebrook",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
     {
       "id": "c31ba664ed5f991aeb8b202c4e9b5ae8",
@@ -27,32 +27,6 @@
       "team": "Shirebrook Rangers & Juniors U13 Girls",
       "home_away": "away",
       "opponent": "Willow Wanderers F.C. Youth U13 Orcas"
-    },
-    {
-      "id": "c61a058871aafbacf1318ade9f29ea32",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Shirebrook Rangers & Juniors U14 Girls",
-      "away_team": "Riverside Junior U14 Rubies",
-      "venue": "SHIREBROOK ACADEMY",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Shirebrook Rangers & Juniors U14 Girls",
-      "home_away": "home",
-      "opponent": "Riverside Junior U14 Rubies"
-    },
-    {
-      "id": "efd0043b94a0561b3a108067dcb983a6",
-      "date": "2026-05-03",
-      "time": "14:00",
-      "home_team": "Gedling Southbank FC Ladies",
-      "away_team": "Shirebrook Rangers Women",
-      "venue": "RICHARD HERROD CENTRE",
-      "division": "Seniors Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Shirebrook Rangers Women",
-      "home_away": "away",
-      "opponent": "Gedling Southbank FC Ladies"
     },
     {
       "id": "43fb8e68f1cca7fd55cb7682aa2bf24f",
@@ -160,6 +134,40 @@
     }
   ],
   "results": [
+    {
+      "id": "efd0043b94a0561b3a108067dcb983a6",
+      "date": "2026-05-03",
+      "time": "14:00",
+      "home_team": "Gedling Southbank FC Ladies",
+      "away_team": "Shirebrook Rangers Women",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Shirebrook Rangers Women",
+      "home_away": "away",
+      "opponent": "Gedling Southbank FC Ladies",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
+      "id": "c61a058871aafbacf1318ade9f29ea32",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers & Juniors U14 Girls",
+      "away_team": "Riverside Junior U14 Rubies",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Shirebrook Rangers & Juniors U14 Girls",
+      "home_away": "home",
+      "opponent": "Riverside Junior U14 Rubies",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "53e750dbd2a1647730d73da992c63189",
       "date": "2026-04-29",

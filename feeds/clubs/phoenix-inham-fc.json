@@ -1,6 +1,6 @@
 {
   "club": "Phoenix Inham FC",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
     {
       "id": "4aeb9b46959fec64d6b8987e877b88e3",
@@ -29,32 +29,6 @@
       "opponent": "Lowdham Colts F.C. Youth U12 Girls"
     },
     {
-      "id": "a97643cf9e5be54d3d01fedbeac17c6b",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Meden Vale Colts F.C. U14 Girls",
-      "away_team": "Phoenix Inham FC U14 Fireflies",
-      "venue": "ELKESLEY ROAD GROUND",
-      "division": "U14 Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Phoenix Inham FC U14 Fireflies",
-      "home_away": "away",
-      "opponent": "Meden Vale Colts F.C. U14 Girls"
-    },
-    {
-      "id": "e673c1ee0dcdf3be9f02102db18c6979",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Phoenix Inham FC U14 Fireflies",
-      "away_team": "Meden Vale Colts F.C. U14 Girls",
-      "venue": "CARR LANE PARK",
-      "division": "U14 Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Phoenix Inham FC U14 Fireflies",
-      "home_away": "home",
-      "opponent": "Meden Vale Colts F.C. U14 Girls"
-    },
-    {
       "id": "e7f6bf73eda0275c3a7a6fb24a37b175",
       "date": "2026-05-10",
       "time": "10:00",
@@ -66,19 +40,6 @@
       "team": "Phoenix Inham F.C. U12 Sparkles",
       "home_away": "away",
       "opponent": "Priory Celtic F.C. U12 Girls"
-    },
-    {
-      "id": "26583fb60cce2f85ae53771e606489ad",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Phoenix Inham F.C. U13 Starfire",
-      "away_team": "Southwell City FC U13 All Whites",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "U13 Div 1 11 v 11",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Phoenix Inham F.C. U13 Starfire",
-      "home_away": "home",
-      "opponent": "Southwell City FC U13 All Whites"
     },
     {
       "id": "d1e1d6a52a4efb9f3363c03acca62b13",
@@ -105,6 +66,19 @@
       "team": "Phoenix Inham FC U14 Fireflies",
       "home_away": "home",
       "opponent": "Arnold Eagles F.C. Girls U14 Storm"
+    },
+    {
+      "id": "26583fb60cce2f85ae53771e606489ad",
+      "date": "2026-05-10",
+      "time": "10:45",
+      "home_team": "Phoenix Inham F.C. U13 Starfire",
+      "away_team": "Southwell City FC U13 All Whites",
+      "venue": "CENTENARY SPORTS GROUND",
+      "division": "U13 Div 1 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Phoenix Inham F.C. U13 Starfire",
+      "home_away": "home",
+      "opponent": "Southwell City FC U13 All Whites"
     },
     {
       "id": "096ba3bd7a308228d9f42ea5ae7b7f8c",
@@ -134,6 +108,40 @@
     }
   ],
   "results": [
+    {
+      "id": "a97643cf9e5be54d3d01fedbeac17c6b",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Meden Vale Colts F.C. U14 Girls",
+      "away_team": "Phoenix Inham FC U14 Fireflies",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Div 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Phoenix Inham FC U14 Fireflies",
+      "home_away": "away",
+      "opponent": "Meden Vale Colts F.C. U14 Girls",
+      "goals_for": 0,
+      "goals_against": 2
+    },
+    {
+      "id": "e673c1ee0dcdf3be9f02102db18c6979",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Phoenix Inham FC U14 Fireflies",
+      "away_team": "Meden Vale Colts F.C. U14 Girls",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Div 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Phoenix Inham FC U14 Fireflies",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts F.C. U14 Girls",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "5d591aa731d4e2855acd601e35dad679",
       "date": "2026-04-26",

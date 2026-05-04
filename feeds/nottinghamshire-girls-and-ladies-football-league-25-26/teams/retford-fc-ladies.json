@@ -1,19 +1,8 @@
 {
   "team": "Retford FC Ladies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "bff8a803e47f188f7ea1775a440a69ea",
-      "date": "2026-05-03",
-      "time": "14:00",
-      "home_team": "Retford FC Ladies",
-      "away_team": "Sherwood FC Development Women",
-      "venue": "RETFORD FC (THE RAIL)",
-      "division": "Seniors Div 2",
-      "home_away": "home",
-      "opponent": "Sherwood FC Development Women"
-    },
     {
       "id": "6130391408b8aafb50709478c4db2e94",
       "date": "2026-05-24",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "bff8a803e47f188f7ea1775a440a69ea",
+      "date": "2026-05-03",
+      "time": "14:00",
+      "home_team": "Retford FC Ladies",
+      "away_team": "Sherwood FC Development Women",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "home_away": "home",
+      "opponent": "Sherwood FC Development Women",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "53e750dbd2a1647730d73da992c63189",
       "date": "2026-04-29",

@@ -1,23 +1,12 @@
 {
   "team": "Burton Joyce F.C. Girls U15 Green",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "658c76cb5c90d154edfd193038cd9342",
-      "date": "2026-05-03",
-      "time": "09:30",
-      "home_team": "Burton Joyce F.C. Girls U15 Green",
-      "away_team": "Arnold Eagles F.C. Girls U15 Avengers",
-      "venue": "POPLARS SPORTS GROUND",
-      "division": "U15 Div 3",
-      "home_away": "home",
-      "opponent": "Arnold Eagles F.C. Girls U15 Avengers"
-    },
     {
       "id": "58083cebb05268011d7fa9fe25456112",
       "date": "2026-05-06",
-      "time": "18:30",
+      "time": "18:45",
       "home_team": "Keyworth United F.C. U15 Predators",
       "away_team": "Burton Joyce F.C. Girls U15 Green",
       "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
@@ -39,7 +28,7 @@
     {
       "id": "d3d4dcbfd44a24079ab1cbf81d6a8926",
       "date": "2026-05-17",
-      "time": "10:00",
+      "time": "12:00",
       "home_team": "Beeston F.C. U15 Girls Sun",
       "away_team": "Burton Joyce F.C. Girls U15 Green",
       "venue": "TRENT VALE SPORTS ASSOCIATION",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "658c76cb5c90d154edfd193038cd9342",
+      "date": "2026-05-03",
+      "time": "09:30",
+      "home_team": "Burton Joyce F.C. Girls U15 Green",
+      "away_team": "Arnold Eagles F.C. Girls U15 Avengers",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U15 Div 3",
+      "home_away": "home",
+      "opponent": "Arnold Eagles F.C. Girls U15 Avengers",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "f28477716d9d5426da3aff3bf6382233",
       "date": "2026-04-26",

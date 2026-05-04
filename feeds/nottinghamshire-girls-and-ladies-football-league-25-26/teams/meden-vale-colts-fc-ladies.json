@@ -1,19 +1,8 @@
 {
   "team": "Meden Vale Colts FC Ladies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "963e7905c1e5b147abc2ce60d13394f5",
-      "date": "2026-05-03",
-      "time": "10:30",
-      "home_team": "Lowdham Colts FC Development",
-      "away_team": "Meden Vale Colts FC Ladies",
-      "venue": "GUNTHORPE PLAYING FIELD",
-      "division": "Senior Div 3 Phase 2",
-      "home_away": "away",
-      "opponent": "Lowdham Colts FC Development"
-    },
     {
       "id": "45688a8f47dbc72eb614a1c759ee03e8",
       "date": "2026-05-14",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "963e7905c1e5b147abc2ce60d13394f5",
+      "date": "2026-05-03",
+      "time": "10:30",
+      "home_team": "Lowdham Colts FC Development",
+      "away_team": "Meden Vale Colts FC Ladies",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "Senior Div 3 Phase 2",
+      "home_away": "away",
+      "opponent": "Lowdham Colts FC Development",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "1483b7afe0a939967a3a7207dae3ec4d",
       "date": "2026-04-26",

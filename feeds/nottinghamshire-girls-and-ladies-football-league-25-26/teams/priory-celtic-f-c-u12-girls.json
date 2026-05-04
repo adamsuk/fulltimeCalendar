@@ -1,19 +1,8 @@
 {
   "team": "Priory Celtic F.C. U12 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "614b7cf6311a8321a6cfb928374d1fb6",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Bingham Town F.C. U12 Girls Blue",
-      "away_team": "Priory Celtic F.C. U12 Girls",
-      "venue": "KIMBERLEY SCHOOL SPORTS CENTRE",
-      "division": "U12 Div 4 P2",
-      "home_away": "away",
-      "opponent": "Bingham Town F.C. U12 Girls Blue"
-    },
     {
       "id": "e7f6bf73eda0275c3a7a6fb24a37b175",
       "date": "2026-05-10",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "614b7cf6311a8321a6cfb928374d1fb6",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Bingham Town F.C. U12 Girls Blue",
+      "away_team": "Priory Celtic F.C. U12 Girls",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 4 P2",
+      "home_away": "away",
+      "opponent": "Bingham Town F.C. U12 Girls Blue",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "1c1d109bfde107f8c79063bf0143e3c6",
       "date": "2026-04-26",

@@ -1,7 +1,7 @@
 {
   "team": "Allenton United FC U15 Ladies Bees",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
     {
       "id": "7686ef4cff72e42f879554dd7dd68096",
@@ -12,17 +12,6 @@
       "venue": "CARLTON-LE-WILLOWS ACADEMY",
       "division": "U15 Div 2",
       "home_away": "away",
-      "opponent": "Willow Wanderers F.C. Youth U15 Amazons"
-    },
-    {
-      "id": "2bf976c156efff8895b856ca84998626",
-      "date": "2026-05-03",
-      "time": "10:50",
-      "home_team": "Allenton United FC U15 Ladies Bees",
-      "away_team": "Willow Wanderers F.C. Youth U15 Amazons",
-      "venue": "CARLTON-LE-WILLOWS ACADEMY",
-      "division": "U15 Div 2",
-      "home_away": "home",
       "opponent": "Willow Wanderers F.C. Youth U15 Amazons"
     },
     {
@@ -39,7 +28,7 @@
     {
       "id": "7bf979affcb0da46c3eeaf5a57dcb8be",
       "date": "2026-05-10",
-      "time": "10:00",
+      "time": "10:45",
       "home_team": "Allenton United FC U15 Ladies Bees",
       "away_team": "Keyworth United F.C. U15 Kobras",
       "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
@@ -50,7 +39,7 @@
     {
       "id": "e4cc4998770f20a8c2882ea048dc5981",
       "date": "2026-05-10",
-      "time": "10:00",
+      "time": "12:30",
       "home_team": "Keyworth United F.C. U15 Kobras",
       "away_team": "Allenton United FC U15 Ladies Bees",
       "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
@@ -93,6 +82,21 @@
     }
   ],
   "results": [
+    {
+      "id": "2bf976c156efff8895b856ca84998626",
+      "date": "2026-05-03",
+      "time": "10:50",
+      "home_team": "Allenton United FC U15 Ladies Bees",
+      "away_team": "Willow Wanderers F.C. Youth U15 Amazons",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U15 Div 2",
+      "home_away": "home",
+      "opponent": "Willow Wanderers F.C. Youth U15 Amazons",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "8d30873b6b364e22c65784d2ddbfec5e",
       "date": "2026-04-26",

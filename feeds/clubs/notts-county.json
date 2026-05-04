@@ -1,6 +1,6 @@
 {
   "club": "Notts County",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
     {
       "id": "49cffaeb0b0352e72afe642e2e700165",
@@ -14,19 +14,6 @@
       "team": "Notts County Women U11 ^",
       "home_away": "away",
       "opponent": "Manor FC U11"
-    },
-    {
-      "id": "f74bd3828795fb55a942d2c9376b167b",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Notts County F.C. Girls U16",
-      "away_team": "Pilsley Community U17 Ladies",
-      "venue": "SOUTHGLADE PARK HUB FOOTBALL CENTRE",
-      "division": "U18 Div 1 Phase 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Notts County F.C. Girls U16",
-      "home_away": "home",
-      "opponent": "Pilsley Community U17 Ladies"
     },
     {
       "id": "71e48f88abe7dd7e46a02f6b2994aa0e",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "f74bd3828795fb55a942d2c9376b167b",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Notts County F.C. Girls U16",
+      "away_team": "Pilsley Community U17 Ladies",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "U18 Div 1 Phase 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Notts County F.C. Girls U16",
+      "home_away": "home",
+      "opponent": "Pilsley Community U17 Ladies",
+      "goals_for": 6,
+      "goals_against": 1
+    },
     {
       "id": "2c7a191f3ceeee648aef9b686ce8bfa1",
       "date": "2026-04-26",

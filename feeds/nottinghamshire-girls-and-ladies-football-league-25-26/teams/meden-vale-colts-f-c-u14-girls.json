@@ -1,18 +1,23 @@
 {
   "team": "Meden Vale Colts F.C. U14 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
-  "fixtures": [
+  "generated": "2026-05-04T08:16:50Z",
+  "fixtures": [],
+  "results": [
     {
       "id": "a97643cf9e5be54d3d01fedbeac17c6b",
       "date": "2026-05-03",
       "time": "10:00",
       "home_team": "Meden Vale Colts F.C. U14 Girls",
       "away_team": "Phoenix Inham FC U14 Fireflies",
-      "venue": "ELKESLEY ROAD GROUND",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
       "division": "U14 Div 4",
       "home_away": "home",
-      "opponent": "Phoenix Inham FC U14 Fireflies"
+      "opponent": "Phoenix Inham FC U14 Fireflies",
+      "goals_for": 2,
+      "goals_against": 0
     },
     {
       "id": "e673c1ee0dcdf3be9f02102db18c6979",
@@ -20,13 +25,15 @@
       "time": "10:00",
       "home_team": "Phoenix Inham FC U14 Fireflies",
       "away_team": "Meden Vale Colts F.C. U14 Girls",
-      "venue": "CARR LANE PARK",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
       "division": "U14 Div 4",
       "home_away": "away",
-      "opponent": "Phoenix Inham FC U14 Fireflies"
-    }
-  ],
-  "results": [
+      "opponent": "Phoenix Inham FC U14 Fireflies",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "f5bddad19cd50ee39b0ffcddb33aec2c",
       "date": "2026-04-19",

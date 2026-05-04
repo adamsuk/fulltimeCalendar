@@ -1,19 +1,8 @@
 {
   "team": "Sherwood FC U12 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "812c678062580f65479eead833ca74cf",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
-      "away_team": "Sherwood FC U12 Girls",
-      "venue": "BINGHAM ROAD PLAYING FIELDS",
-      "division": "U12 Div 2 P2",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic FC U12 Girls Eagles"
-    },
     {
       "id": "9d451b718899d97f1d6191c69cd8665d",
       "date": "2026-05-17",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "812c678062580f65479eead833ca74cf",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "away_team": "Sherwood FC U12 Girls",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Div 2 P2",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC U12 Girls Eagles",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "9fb5d1d9b57fd010c826c6952c95350a",
       "date": "2026-04-26",

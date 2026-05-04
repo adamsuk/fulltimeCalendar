@@ -1,6 +1,6 @@
 {
   "club": "Eastwood",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
     {
       "id": "2789a6c0e3824577183ab484edc7bff5",
@@ -14,32 +14,6 @@
       "team": "Eastwood CFC Madrid U10",
       "home_away": "away",
       "opponent": "Aspire FC U10"
-    },
-    {
-      "id": "1ab1ea1f301bce0102ad583351f10bc4",
-      "date": "2026-04-26",
-      "time": "16:30",
-      "home_team": "Southwell City FC U12 Swans",
-      "away_team": "Eastwood CFC U12 Girls",
-      "venue": "RH ACADEMY",
-      "division": "U12 Cup 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Eastwood CFC U12 Girls",
-      "home_away": "away",
-      "opponent": "Southwell City FC U12 Swans"
-    },
-    {
-      "id": "bc37d399fd5dd7a7236d839eb205fe2e",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Eastwood CFC U12 Girls",
-      "away_team": "Gedling Southbank FC U12 Hunters",
-      "venue": "CORONATION PARK",
-      "division": "U12 Div 4 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Eastwood CFC U12 Girls",
-      "home_away": "home",
-      "opponent": "Gedling Southbank FC U12 Hunters"
     },
     {
       "id": "7b51107b1803216f1ddb48af5b5a589b",
@@ -83,6 +57,23 @@
   ],
   "results": [
     {
+      "id": "bc37d399fd5dd7a7236d839eb205fe2e",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Eastwood CFC U12 Girls",
+      "away_team": "Gedling Southbank FC U12 Hunters",
+      "home_score": 0,
+      "away_score": 7,
+      "venue": "",
+      "division": "U12 Div 4 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Eastwood CFC U12 Girls",
+      "home_away": "home",
+      "opponent": "Gedling Southbank FC U12 Hunters",
+      "goals_for": 0,
+      "goals_against": 7
+    },
+    {
       "id": "4238974e7ac46b17504e2cd6d6f2f4be",
       "date": "2026-04-28",
       "time": "18:30",
@@ -98,6 +89,23 @@
       "opponent": "Arnold Town Yellow U12",
       "goals_for": 1,
       "goals_against": 3
+    },
+    {
+      "id": "1ab1ea1f301bce0102ad583351f10bc4",
+      "date": "2026-04-26",
+      "time": "16:30",
+      "home_team": "Southwell City FC U12 Swans",
+      "away_team": "Eastwood CFC U12 Girls",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Cup 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Eastwood CFC U12 Girls",
+      "home_away": "away",
+      "opponent": "Southwell City FC U12 Swans",
+      "goals_for": 0,
+      "goals_against": 0
     },
     {
       "id": "c6c6db4b3f05a82183ace44bcd010784",

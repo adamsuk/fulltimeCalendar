@@ -1,19 +1,8 @@
 {
   "team": "Nottingham F.C. Youth U14 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "81d1ba3a17b671cbf5a60032fe094389",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Gedling Southbank FC U14 Warriors",
-      "away_team": "Nottingham F.C. Youth U14 Girls",
-      "venue": "THE TREVOR CARTER PAVILION",
-      "division": "U14 Div 3",
-      "home_away": "away",
-      "opponent": "Gedling Southbank FC U14 Warriors"
-    },
     {
       "id": "ecbb6351c0edcf0a6cd75be06c5162f7",
       "date": "2026-05-10",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "81d1ba3a17b671cbf5a60032fe094389",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Gedling Southbank FC U14 Warriors",
+      "away_team": "Nottingham F.C. Youth U14 Girls",
+      "home_score": 8,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Div 3",
+      "home_away": "away",
+      "opponent": "Gedling Southbank FC U14 Warriors",
+      "goals_for": 0,
+      "goals_against": 8
+    },
     {
       "id": "ca9138c5d5dcdcec6c73f787e49dd5d9",
       "date": "2026-04-26",

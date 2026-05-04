@@ -1,33 +1,7 @@
 {
   "club": "Southwell City FC",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "1ab1ea1f301bce0102ad583351f10bc4",
-      "date": "2026-04-26",
-      "time": "16:30",
-      "home_team": "Southwell City FC U12 Swans",
-      "away_team": "Eastwood CFC U12 Girls",
-      "venue": "RH ACADEMY",
-      "division": "U12 Cup 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Southwell City FC U12 Swans",
-      "home_away": "home",
-      "opponent": "Eastwood CFC U12 Girls"
-    },
-    {
-      "id": "b7328169852a61855adc429f092c435d",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Southwell City FC U13 All Whites",
-      "away_team": "Radcliffe Olympic FC U13 Ravens",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "U13 Div 1 11 v 11",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Southwell City FC U13 All Whites",
-      "home_away": "home",
-      "opponent": "Radcliffe Olympic FC U13 Ravens"
-    },
     {
       "id": "db37ba3e57ab04b2b355f65ed19c33cf",
       "date": "2026-05-10",
@@ -40,19 +14,6 @@
       "team": "Southwell City FC U12 Swans",
       "home_away": "home",
       "opponent": "Gedling Southbank FC U12 Hunters"
-    },
-    {
-      "id": "26583fb60cce2f85ae53771e606489ad",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Phoenix Inham F.C. U13 Starfire",
-      "away_team": "Southwell City FC U13 All Whites",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "U13 Div 1 11 v 11",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Southwell City FC U13 All Whites",
-      "home_away": "away",
-      "opponent": "Phoenix Inham F.C. U13 Starfire"
     },
     {
       "id": "d1e1d6a52a4efb9f3363c03acca62b13",
@@ -68,12 +29,25 @@
       "opponent": "Phoenix Inham F.C. U13 Starfire"
     },
     {
+      "id": "26583fb60cce2f85ae53771e606489ad",
+      "date": "2026-05-10",
+      "time": "10:45",
+      "home_team": "Phoenix Inham F.C. U13 Starfire",
+      "away_team": "Southwell City FC U13 All Whites",
+      "venue": "CENTENARY SPORTS GROUND",
+      "division": "U13 Div 1 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Southwell City FC U13 All Whites",
+      "home_away": "away",
+      "opponent": "Phoenix Inham F.C. U13 Starfire"
+    },
+    {
       "id": "d75a890082d7ced234934dcff70e3a74",
       "date": "2026-05-11",
       "time": "18:30",
       "home_team": "Bingham Town F.C. U12 Girls Blue",
       "away_team": "Southwell City FC U12 Swans",
-      "venue": "BUTT FIELD SPORTS CLUB",
+      "venue": "HOSE VILLAGE HALL",
       "division": "U12 Div 4 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Southwell City FC U12 Swans",
@@ -160,6 +134,40 @@
     }
   ],
   "results": [
+    {
+      "id": "b7328169852a61855adc429f092c435d",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Southwell City FC U13 All Whites",
+      "away_team": "Radcliffe Olympic FC U13 Ravens",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Div 1 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Southwell City FC U13 All Whites",
+      "home_away": "home",
+      "opponent": "Radcliffe Olympic FC U13 Ravens",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "1ab1ea1f301bce0102ad583351f10bc4",
+      "date": "2026-04-26",
+      "time": "16:30",
+      "home_team": "Southwell City FC U12 Swans",
+      "away_team": "Eastwood CFC U12 Girls",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Cup 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Southwell City FC U12 Swans",
+      "home_away": "home",
+      "opponent": "Eastwood CFC U12 Girls",
+      "goals_for": 0,
+      "goals_against": 0
+    },
     {
       "id": "a184dcaf7190d3ff68153a167a569154",
       "date": "2026-04-26",

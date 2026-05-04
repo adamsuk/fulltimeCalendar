@@ -1,30 +1,8 @@
 {
   "team": "Phoenix Inham FC U14 Fireflies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "a97643cf9e5be54d3d01fedbeac17c6b",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Meden Vale Colts F.C. U14 Girls",
-      "away_team": "Phoenix Inham FC U14 Fireflies",
-      "venue": "ELKESLEY ROAD GROUND",
-      "division": "U14 Div 4",
-      "home_away": "away",
-      "opponent": "Meden Vale Colts F.C. U14 Girls"
-    },
-    {
-      "id": "e673c1ee0dcdf3be9f02102db18c6979",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Phoenix Inham FC U14 Fireflies",
-      "away_team": "Meden Vale Colts F.C. U14 Girls",
-      "venue": "CARR LANE PARK",
-      "division": "U14 Div 4",
-      "home_away": "home",
-      "opponent": "Meden Vale Colts F.C. U14 Girls"
-    },
     {
       "id": "a73370b3f1e5b9ba9325c19dd7fbd394",
       "date": "2026-05-10",
@@ -49,6 +27,36 @@
     }
   ],
   "results": [
+    {
+      "id": "a97643cf9e5be54d3d01fedbeac17c6b",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Meden Vale Colts F.C. U14 Girls",
+      "away_team": "Phoenix Inham FC U14 Fireflies",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Div 4",
+      "home_away": "away",
+      "opponent": "Meden Vale Colts F.C. U14 Girls",
+      "goals_for": 0,
+      "goals_against": 2
+    },
+    {
+      "id": "e673c1ee0dcdf3be9f02102db18c6979",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Phoenix Inham FC U14 Fireflies",
+      "away_team": "Meden Vale Colts F.C. U14 Girls",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Div 4",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts F.C. U14 Girls",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "5d591aa731d4e2855acd601e35dad679",
       "date": "2026-04-26",

@@ -1,30 +1,8 @@
 {
   "team": "Lowdham Colts F.C. Youth U15 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "573d0c51c9b74580059a6ce257dad5db",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Woodlands Women U15",
-      "away_team": "Lowdham Colts F.C. Youth U15 Girls",
-      "venue": "ALLESTREE WOODLANDS SCHOOL",
-      "division": "U15 Div 2",
-      "home_away": "away",
-      "opponent": "Woodlands Women U15"
-    },
-    {
-      "id": "6a645affeb8e70bfa34507b62a624e14",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Hilton Harriers U15 Girls Sunday",
-      "away_team": "Lowdham Colts F.C. Youth U15 Girls",
-      "venue": "EPPERSTONE PLAYING FIELDS",
-      "division": "U15 Div 2",
-      "home_away": "away",
-      "opponent": "Hilton Harriers U15 Girls Sunday"
-    },
     {
       "id": "c3078d5e637f8b8dcabec6f035733803",
       "date": "2026-05-10",
@@ -34,6 +12,17 @@
       "venue": "EPPERSTONE PLAYING FIELDS",
       "division": "U15 Div 2",
       "home_away": "home",
+      "opponent": "Hilton Harriers U15 Girls Sunday"
+    },
+    {
+      "id": "6a645affeb8e70bfa34507b62a624e14",
+      "date": "2026-05-10",
+      "time": "11:15",
+      "home_team": "Hilton Harriers U15 Girls Sunday",
+      "away_team": "Lowdham Colts F.C. Youth U15 Girls",
+      "venue": "EPPERSTONE PLAYING FIELDS",
+      "division": "U15 Div 2",
+      "home_away": "away",
       "opponent": "Hilton Harriers U15 Girls Sunday"
     },
     {
@@ -50,7 +39,7 @@
     {
       "id": "093591f73180045a6147b5eddab2fd18",
       "date": "2026-05-24",
-      "time": "10:00",
+      "time": "11:00",
       "home_team": "Sherwood Colliery F.C. Ladies U15",
       "away_team": "Lowdham Colts F.C. Youth U15 Girls",
       "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "573d0c51c9b74580059a6ce257dad5db",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Woodlands Women U15",
+      "away_team": "Lowdham Colts F.C. Youth U15 Girls",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U15 Div 2",
+      "home_away": "away",
+      "opponent": "Woodlands Women U15",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "73255dfe4dc667e417a3f9d01a5063d2",
       "date": "2026-04-19",

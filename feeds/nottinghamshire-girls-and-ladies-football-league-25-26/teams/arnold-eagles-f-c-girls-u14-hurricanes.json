@@ -1,7 +1,7 @@
 {
   "team": "Arnold Eagles F.C. Girls U14 Hurricanes",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
     {
       "id": "2a2c9a1a0ce2374ab2e3ae665f52094d",
@@ -13,17 +13,6 @@
       "division": "U14 Div 3",
       "home_away": "home",
       "opponent": "Riverside Junior U14 Rubies"
-    },
-    {
-      "id": "3b3dfed04ff40b4dce38c7316ec4a1c1",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Matlock Town Juniors U14 Spartans Girls",
-      "away_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
-      "venue": "CAVENDISH FIELDS SPORTS ASSOCIATION",
-      "division": "U14 Div 3",
-      "home_away": "away",
-      "opponent": "Matlock Town Juniors U14 Spartans Girls"
     },
     {
       "id": "d0fda5e7b6cb1700bce5b5d9b2298d2f",
@@ -60,6 +49,21 @@
     }
   ],
   "results": [
+    {
+      "id": "3b3dfed04ff40b4dce38c7316ec4a1c1",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Matlock Town Juniors U14 Spartans Girls",
+      "away_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U14 Div 3",
+      "home_away": "away",
+      "opponent": "Matlock Town Juniors U14 Spartans Girls",
+      "goals_for": 5,
+      "goals_against": 0
+    },
     {
       "id": "4d1fb1f51edc53707395cef52e1bde53",
       "date": "2026-04-26",

@@ -1,7 +1,7 @@
 {
   "team": "Beeston FC Women",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
     {
       "id": "6301c7e957b431f6692747d97d239d58",
@@ -13,20 +13,24 @@
       "division": "Senior Div 4",
       "home_away": "away",
       "opponent": "Pelican Colts FC Ladies"
-    },
+    }
+  ],
+  "results": [
     {
       "id": "7ac47dc06410504a756920e99443f66e",
       "date": "2026-05-03",
       "time": "10:00",
       "home_team": "Keyworth United FC Development",
       "away_team": "Beeston FC Women",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
       "division": "Senior Div 4",
       "home_away": "away",
-      "opponent": "Keyworth United FC Development"
-    }
-  ],
-  "results": [
+      "opponent": "Keyworth United FC Development",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "e372a5675d2100b238150b45d1f4d330",
       "date": "2026-03-22",

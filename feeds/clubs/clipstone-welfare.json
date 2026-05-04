@@ -1,6 +1,6 @@
 {
   "club": "Clipstone Welfare",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
     {
       "id": "4aeb9b46959fec64d6b8987e877b88e3",
@@ -14,19 +14,6 @@
       "team": "Clipstone Welfare Colts F.C. Youth U12",
       "home_away": "away",
       "opponent": "Phoenix Inham F.C. U12 Sparkles"
-    },
-    {
-      "id": "6291cac56befb46c134091e22c924d25",
-      "date": "2026-05-03",
-      "time": "11:00",
-      "home_team": "Sutton Bonington U12 Comets",
-      "away_team": "Clipstone Welfare Colts F.C. Youth U12",
-      "venue": "SUTTON BONINGTON PLAYING FIELDS",
-      "division": "U12 Div 5 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Clipstone Welfare Colts F.C. Youth U12",
-      "home_away": "away",
-      "opponent": "Sutton Bonington U12 Comets"
     },
     {
       "id": "30850019e1823268911c9eabe8f1ea7e",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "6291cac56befb46c134091e22c924d25",
+      "date": "2026-05-03",
+      "time": "11:00",
+      "home_team": "Sutton Bonington U12 Comets",
+      "away_team": "Clipstone Welfare Colts F.C. Youth U12",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Div 5 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Clipstone Welfare Colts F.C. Youth U12",
+      "home_away": "away",
+      "opponent": "Sutton Bonington U12 Comets",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "d83fd622a36466d59cde0e9b38038b60",
       "date": "2026-04-26",

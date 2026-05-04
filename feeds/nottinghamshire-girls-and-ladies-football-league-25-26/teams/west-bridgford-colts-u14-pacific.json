@@ -1,19 +1,8 @@
 {
   "team": "West Bridgford Colts U14 Pacific",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "0d554517cc3ec60b762fa78ffd396023",
-      "date": "2026-05-03",
-      "time": "12:00",
-      "home_team": "Priory Celtic F.C. U14 Lionesses",
-      "away_team": "West Bridgford Colts U14 Pacific",
-      "venue": "KIMBERLEY SCHOOL SPORTS CENTRE",
-      "division": "U14 Div 2",
-      "home_away": "away",
-      "opponent": "Priory Celtic F.C. U14 Lionesses"
-    },
     {
       "id": "2d29cba0efad200fe2fea1d03b8fd17c",
       "date": "2026-05-10",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0d554517cc3ec60b762fa78ffd396023",
+      "date": "2026-05-03",
+      "time": "12:00",
+      "home_team": "Priory Celtic F.C. U14 Lionesses",
+      "away_team": "West Bridgford Colts U14 Pacific",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Div 2",
+      "home_away": "away",
+      "opponent": "Priory Celtic F.C. U14 Lionesses",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "cc72bf14111bad8526254d61a2a6a7cd",
       "date": "2026-04-19",

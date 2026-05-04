@@ -1,19 +1,8 @@
 {
   "team": "Lowdham Colts FC Ladies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "499f793f314e011376a4c40ca3dd68bc",
-      "date": "2026-05-03",
-      "time": "10:30",
-      "home_team": "Lowdham Colts FC Ladies",
-      "away_team": "Hucknall Town FC Women",
-      "venue": "MAGNA MEADOWS PLAYING FIELD",
-      "division": "Seniors Div 1",
-      "home_away": "home",
-      "opponent": "Hucknall Town FC Women"
-    },
     {
       "id": "cfdfa56f7587cc887ce48c5198a5b3e3",
       "date": "2026-05-10",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "499f793f314e011376a4c40ca3dd68bc",
+      "date": "2026-05-03",
+      "time": "10:30",
+      "home_team": "Lowdham Colts FC Ladies",
+      "away_team": "Hucknall Town FC Women",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "Seniors Div 1",
+      "home_away": "home",
+      "opponent": "Hucknall Town FC Women",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "8bb3e49a38a3e0349a7c7cac93432844",
       "date": "2026-04-19",

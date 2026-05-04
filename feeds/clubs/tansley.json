@@ -1,6 +1,6 @@
 {
   "club": "Tansley",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
     {
       "id": "e673be93c6c2d5021fbe55b662000d93",
@@ -14,32 +14,6 @@
       "team": "Tansley Juniors U15 Girls",
       "home_away": "home",
       "opponent": "Willow Wanderers F.C. Youth U15 Amazons"
-    },
-    {
-      "id": "f995f0e24cf15a6cb7876a2d259ef049",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Tansley Juniors U12 Girls",
-      "away_team": "Ravenshead Reds F.C. Youth U12",
-      "venue": "THE FETE FIELD",
-      "division": "U12 Div 5 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Tansley Juniors U12 Girls",
-      "home_away": "home",
-      "opponent": "Ravenshead Reds F.C. Youth U12"
-    },
-    {
-      "id": "9eefa7b1f5846a8be9117847a5012796",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Tansley Juniors U15 Girls",
-      "away_team": "Bottesford U15 Girls",
-      "venue": "THE FETE FIELD",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Tansley Juniors U15 Girls",
-      "home_away": "home",
-      "opponent": "Bottesford U15 Girls"
     },
     {
       "id": "dedcde36ff882248c4bd062c15fecdda",
@@ -108,6 +82,40 @@
     }
   ],
   "results": [
+    {
+      "id": "f995f0e24cf15a6cb7876a2d259ef049",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Tansley Juniors U12 Girls",
+      "away_team": "Ravenshead Reds F.C. Youth U12",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Div 5 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Tansley Juniors U12 Girls",
+      "home_away": "home",
+      "opponent": "Ravenshead Reds F.C. Youth U12",
+      "goals_for": 1,
+      "goals_against": 4
+    },
+    {
+      "id": "9eefa7b1f5846a8be9117847a5012796",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Tansley Juniors U15 Girls",
+      "away_team": "Bottesford U15 Girls",
+      "home_score": 2,
+      "away_score": 11,
+      "venue": "",
+      "division": "U15 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Tansley Juniors U15 Girls",
+      "home_away": "home",
+      "opponent": "Bottesford U15 Girls",
+      "goals_for": 2,
+      "goals_against": 11
+    },
     {
       "id": "47c9c0e23521d86aaa91139e1e4dcff5",
       "date": "2026-04-26",

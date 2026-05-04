@@ -1,20 +1,7 @@
 {
   "club": "Sandiacre Town Youth",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "28a4e1da4e2855b66d550369f5933bcc",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Hucknall & Linby Harriers FC U13",
-      "away_team": "Sandiacre Town Youth U13 Royals",
-      "venue": "HOLGATE ACADEMY",
-      "division": "U13 Div 2 11 v 11",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sandiacre Town Youth U13 Royals",
-      "home_away": "away",
-      "opponent": "Hucknall & Linby Harriers FC U13"
-    },
     {
       "id": "00cb79d10d1085763ef5e87ae447a4cd",
       "date": "2026-05-03",
@@ -57,10 +44,10 @@
     {
       "id": "5cacac23374b1147e3fe63a0225af1f9",
       "date": "2026-05-24",
-      "time": "10:30",
+      "time": "10:00",
       "home_team": "Sandiacre Town Youth U15 Girls Sparkle",
       "away_team": "Hilton Harriers U15 Girls Sunday",
-      "venue": "DRAYCOTT RECREATION GROUND",
+      "venue": "FRIESLAND SCHOOL",
       "division": "U15 Div 2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Sandiacre Town Youth U15 Girls Sparkle",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "28a4e1da4e2855b66d550369f5933bcc",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Hucknall & Linby Harriers FC U13",
+      "away_team": "Sandiacre Town Youth U13 Royals",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Div 2 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sandiacre Town Youth U13 Royals",
+      "home_away": "away",
+      "opponent": "Hucknall & Linby Harriers FC U13",
+      "goals_for": 0,
+      "goals_against": 5
+    },
     {
       "id": "8b9753985036ab652d9e0b7f320cc9c5",
       "date": "2026-04-26",

@@ -1,20 +1,7 @@
 {
   "club": "Barlborough",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "82fa2489bd2e9ff2c9f3900f09453baa",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Beeston F.C. U15 Girls Sun",
-      "away_team": "Barlborough Juniors U15 Lionesses",
-      "venue": "TRENT VALE SPORTS ASSOCIATION",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Barlborough Juniors U15 Lionesses",
-      "home_away": "away",
-      "opponent": "Beeston F.C. U15 Girls Sun"
-    },
     {
       "id": "2cbc93508bf028cb5e98d99071088d3c",
       "date": "2026-05-10",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "82fa2489bd2e9ff2c9f3900f09453baa",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Beeston F.C. U15 Girls Sun",
+      "away_team": "Barlborough Juniors U15 Lionesses",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Barlborough Juniors U15 Lionesses",
+      "home_away": "away",
+      "opponent": "Beeston F.C. U15 Girls Sun",
+      "goals_for": 1,
+      "goals_against": 6
+    },
     {
       "id": "6e8a27a9d0ecb3af93366465830f2779",
       "date": "2026-04-19",

@@ -1,20 +1,7 @@
 {
   "club": "Priory Celtic 1967",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "0575162c612c8e52345ecca8a9358306",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Priory Celtic 1967 U14",
-      "away_team": "PMG Excel U14",
-      "venue": "Kimberley Leisure Centre NG16 2NJ",
-      "division": "U14 Sun YEL Shield",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Priory Celtic 1967 U14",
-      "home_away": "home",
-      "opponent": "PMG Excel U14"
-    },
     {
       "id": "cac361961179eb35c61eea378d2e40de",
       "date": "2026-05-10",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "0575162c612c8e52345ecca8a9358306",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Priory Celtic 1967 U14",
+      "away_team": "PMG Excel U14",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U14 Sun YEL Shield",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Priory Celtic 1967 U14",
+      "home_away": "home",
+      "opponent": "PMG Excel U14",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "d953c326265ec54b7438bc53890ad8cd",
       "date": "2026-04-26",

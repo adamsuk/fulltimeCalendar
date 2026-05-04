@@ -1,6 +1,6 @@
 {
   "club": "Hucknall Town",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
     {
       "id": "b2f2d826ec977687b04b1a0ee3b8d87d",
@@ -14,19 +14,6 @@
       "team": "Hucknall Town Warriors U12",
       "home_away": "home",
       "opponent": "Muskham Cougars U12"
-    },
-    {
-      "id": "499f793f314e011376a4c40ca3dd68bc",
-      "date": "2026-05-03",
-      "time": "10:30",
-      "home_team": "Lowdham Colts FC Ladies",
-      "away_team": "Hucknall Town FC Women",
-      "venue": "MAGNA MEADOWS PLAYING FIELD",
-      "division": "Seniors Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Hucknall Town FC Women",
-      "home_away": "away",
-      "opponent": "Lowdham Colts FC Ladies"
     },
     {
       "id": "d407e335fda5c2126b10bb06de2ab9a7",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "499f793f314e011376a4c40ca3dd68bc",
+      "date": "2026-05-03",
+      "time": "10:30",
+      "home_team": "Lowdham Colts FC Ladies",
+      "away_team": "Hucknall Town FC Women",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "Seniors Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall Town FC Women",
+      "home_away": "away",
+      "opponent": "Lowdham Colts FC Ladies",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "12c5d1f538c6f5c8fab6d17bd5d10da9",
       "date": "2026-05-02",

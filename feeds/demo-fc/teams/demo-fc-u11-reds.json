@@ -1,7 +1,7 @@
 {
   "team": "Demo FC U11 Reds",
   "league": "Demo FC",
-  "generated": "2026-05-03T07:47:17Z",
+  "generated": "2026-05-04T08:17:52Z",
   "fixtures": [
     {
       "id": "9ade389d54c8ed465fab9292f900de68",
@@ -50,49 +50,49 @@
   ],
   "results": [
     {
-      "id": "8835933395bbc0a41beb46e3971647a4",
-      "date": "2026-04-26",
+      "id": "fe1c62c72991e7b0b2ec84ccdcf8cd46",
+      "date": "2026-05-03",
       "time": "10:30",
       "home_team": "Southbrook Colts U11",
       "away_team": "Demo FC U11 Reds",
-      "home_score": 0,
-      "away_score": 5,
-      "venue": "",
-      "division": "U11 Sunday",
-      "home_away": "away",
-      "opponent": "Southbrook Colts U11",
-      "goals_for": 5,
-      "goals_against": 0
-    },
-    {
-      "id": "70b604ff853ed7b0eb75aaa16c66811f",
-      "date": "2026-04-19",
-      "time": "10:30",
-      "home_team": "Demo FC U11 Reds",
-      "away_team": "Westfield Youth U11",
-      "home_score": 0,
-      "away_score": 6,
-      "venue": "Demo FC Ground",
-      "division": "U11 Sunday",
-      "home_away": "home",
-      "opponent": "Westfield Youth U11",
-      "goals_for": 0,
-      "goals_against": 6
-    },
-    {
-      "id": "681c202b632b70a968a95d5804f9ce9d",
-      "date": "2026-04-12",
-      "time": "10:30",
-      "home_team": "Castleton Juniors U11",
-      "away_team": "Demo FC U11 Reds",
-      "home_score": 0,
+      "home_score": 6,
       "away_score": 4,
       "venue": "",
       "division": "U11 Sunday",
       "home_away": "away",
-      "opponent": "Castleton Juniors U11",
+      "opponent": "Southbrook Colts U11",
       "goals_for": 4,
-      "goals_against": 0
+      "goals_against": 6
+    },
+    {
+      "id": "42828423df91528e133a9931e454ef01",
+      "date": "2026-04-26",
+      "time": "10:30",
+      "home_team": "Demo FC U11 Reds",
+      "away_team": "Westfield Youth U11",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "Demo FC Ground",
+      "division": "U11 Sunday",
+      "home_away": "home",
+      "opponent": "Westfield Youth U11",
+      "goals_for": 2,
+      "goals_against": 2
+    },
+    {
+      "id": "6f42d4f142ec173a97706165caadb2a0",
+      "date": "2026-04-19",
+      "time": "10:30",
+      "home_team": "Castleton Juniors U11",
+      "away_team": "Demo FC U11 Reds",
+      "home_score": 7,
+      "away_score": 2,
+      "venue": "",
+      "division": "U11 Sunday",
+      "home_away": "away",
+      "opponent": "Castleton Juniors U11",
+      "goals_for": 2,
+      "goals_against": 7
     }
   ]
 }

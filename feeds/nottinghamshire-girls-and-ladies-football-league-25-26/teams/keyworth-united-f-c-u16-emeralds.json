@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United F.C. U16 Emeralds",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "f8025b403cc6c4bb29a9fa62c9692935",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Nottingham F.C. Youth U16 Diamonds",
-      "away_team": "Keyworth United F.C. U16 Emeralds",
-      "venue": "MELBOURNE PARK",
-      "division": "U16 Div 3",
-      "home_away": "away",
-      "opponent": "Nottingham F.C. Youth U16 Diamonds"
-    },
     {
       "id": "b0587f4709121e9438eea992274d8abf",
       "date": "2026-05-10",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f8025b403cc6c4bb29a9fa62c9692935",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Nottingham F.C. Youth U16 Diamonds",
+      "away_team": "Keyworth United F.C. U16 Emeralds",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U16 Div 3",
+      "home_away": "away",
+      "opponent": "Nottingham F.C. Youth U16 Diamonds",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "aca25d02fed70b68d9ac0ca7e89df20b",
       "date": "2026-04-19",

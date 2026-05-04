@@ -1,6 +1,6 @@
 {
   "club": "Riverside",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
     {
       "id": "2a2c9a1a0ce2374ab2e3ae665f52094d",
@@ -29,19 +29,6 @@
       "opponent": "Carlton Town Blue U12"
     },
     {
-      "id": "c61a058871aafbacf1318ade9f29ea32",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Shirebrook Rangers & Juniors U14 Girls",
-      "away_team": "Riverside Junior U14 Rubies",
-      "venue": "SHIREBROOK ACADEMY",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Riverside Junior U14 Rubies",
-      "home_away": "away",
-      "opponent": "Shirebrook Rangers & Juniors U14 Girls"
-    },
-    {
       "id": "521aa69d3c4c6369dae3ee86f8eef4f7",
       "date": "2026-05-10",
       "time": "10:00",
@@ -57,28 +44,15 @@
     {
       "id": "836fd1a86ede195daa9afb128ba08349",
       "date": "2026-05-10",
-      "time": "10:00",
+      "time": "10:30",
       "home_team": "Riverside Junior U14 Rubies",
       "away_team": "Priory Celtic F.C. U14 Girls",
-      "venue": "THE LONG EATON SCHOOL",
+      "venue": "SAWLEY PARK",
       "division": "U14 Div 3",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Riverside Junior U14 Rubies",
       "home_away": "home",
       "opponent": "Priory Celtic F.C. U14 Girls"
-    },
-    {
-      "id": "df8d97a5c107e825a1a3c11501e3dbb2",
-      "date": "2026-05-17",
-      "time": "10:00",
-      "home_team": "Riverside Junior U13 Sapphires",
-      "away_team": "Meden Vale Colts F.C. U13 Girls",
-      "venue": "SAWLEY PARK",
-      "division": "U13 Div 3 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Riverside Junior U13 Sapphires",
-      "home_away": "home",
-      "opponent": "Meden Vale Colts F.C. U13 Girls"
     },
     {
       "id": "94da195892ce12d18cc97e116d77551c",
@@ -105,6 +79,19 @@
       "team": "Riverside Junior U14 Rubies",
       "home_away": "away",
       "opponent": "Sherwood Colliery F.C. Ladies U14"
+    },
+    {
+      "id": "df8d97a5c107e825a1a3c11501e3dbb2",
+      "date": "2026-05-17",
+      "time": "11:30",
+      "home_team": "Riverside Junior U13 Sapphires",
+      "away_team": "Meden Vale Colts F.C. U13 Girls",
+      "venue": "HADDON WAY PUBLIC OPEN SPACE",
+      "division": "U13 Div 3 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Riverside Junior U13 Sapphires",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts F.C. U13 Girls"
     },
     {
       "id": "763de73194718c4a182a3c5c6c7eeb34",
@@ -147,6 +134,23 @@
     }
   ],
   "results": [
+    {
+      "id": "c61a058871aafbacf1318ade9f29ea32",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers & Juniors U14 Girls",
+      "away_team": "Riverside Junior U14 Rubies",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Riverside Junior U14 Rubies",
+      "home_away": "away",
+      "opponent": "Shirebrook Rangers & Juniors U14 Girls",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "25501c9e59adf6253ba68dc13d4651dd",
       "date": "2026-04-26",

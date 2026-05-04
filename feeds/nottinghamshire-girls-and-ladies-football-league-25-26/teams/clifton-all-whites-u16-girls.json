@@ -1,19 +1,8 @@
 {
   "team": "Clifton All Whites U16 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "540cbe83420f9be4c1ececc8515e9200",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Burton Joyce F.C. Girls U16",
-      "away_team": "Clifton All Whites U16 Girls",
-      "venue": "POPLARS SPORTS GROUND",
-      "division": "U16 Div 3",
-      "home_away": "away",
-      "opponent": "Burton Joyce F.C. Girls U16"
-    },
     {
       "id": "05c29d667278832aa8605b534cddf34d",
       "date": "2026-05-10",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "540cbe83420f9be4c1ececc8515e9200",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Burton Joyce F.C. Girls U16",
+      "away_team": "Clifton All Whites U16 Girls",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "U16 Div 3",
+      "home_away": "away",
+      "opponent": "Burton Joyce F.C. Girls U16",
+      "goals_for": 1,
+      "goals_against": 6
+    },
     {
       "id": "c8943f67e392d8df93bfe53e88834422",
       "date": "2026-04-26",

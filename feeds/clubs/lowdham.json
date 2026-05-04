@@ -1,6 +1,6 @@
 {
   "club": "Lowdham",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
     {
       "id": "0b065754bb4599ce5c4995a1fb1bdd06",
@@ -27,58 +27,6 @@
       "team": "Lowdham Colts F.C. Youth U12 Girls",
       "home_away": "home",
       "opponent": "Phoenix Inham F.C. U12 Sparkles"
-    },
-    {
-      "id": "573d0c51c9b74580059a6ce257dad5db",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Woodlands Women U15",
-      "away_team": "Lowdham Colts F.C. Youth U15 Girls",
-      "venue": "ALLESTREE WOODLANDS SCHOOL",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Lowdham Colts F.C. Youth U15 Girls",
-      "home_away": "away",
-      "opponent": "Woodlands Women U15"
-    },
-    {
-      "id": "963e7905c1e5b147abc2ce60d13394f5",
-      "date": "2026-05-03",
-      "time": "10:30",
-      "home_team": "Lowdham Colts FC Development",
-      "away_team": "Meden Vale Colts FC Ladies",
-      "venue": "GUNTHORPE PLAYING FIELD",
-      "division": "Senior Div 3 Phase 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Lowdham Colts FC Development",
-      "home_away": "home",
-      "opponent": "Meden Vale Colts FC Ladies"
-    },
-    {
-      "id": "499f793f314e011376a4c40ca3dd68bc",
-      "date": "2026-05-03",
-      "time": "10:30",
-      "home_team": "Lowdham Colts FC Ladies",
-      "away_team": "Hucknall Town FC Women",
-      "venue": "MAGNA MEADOWS PLAYING FIELD",
-      "division": "Seniors Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Lowdham Colts FC Ladies",
-      "home_away": "home",
-      "opponent": "Hucknall Town FC Women"
-    },
-    {
-      "id": "6a645affeb8e70bfa34507b62a624e14",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Hilton Harriers U15 Girls Sunday",
-      "away_team": "Lowdham Colts F.C. Youth U15 Girls",
-      "venue": "EPPERSTONE PLAYING FIELDS",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Lowdham Colts F.C. Youth U15 Girls",
-      "home_away": "away",
-      "opponent": "Hilton Harriers U15 Girls Sunday"
     },
     {
       "id": "e7bb6cd7a5b617626faa529af388d8e9",
@@ -120,12 +68,25 @@
       "opponent": "Radcliffe Olympic FC Ladies"
     },
     {
+      "id": "6a645affeb8e70bfa34507b62a624e14",
+      "date": "2026-05-10",
+      "time": "11:15",
+      "home_team": "Hilton Harriers U15 Girls Sunday",
+      "away_team": "Lowdham Colts F.C. Youth U15 Girls",
+      "venue": "EPPERSTONE PLAYING FIELDS",
+      "division": "U15 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Lowdham Colts F.C. Youth U15 Girls",
+      "home_away": "away",
+      "opponent": "Hilton Harriers U15 Girls Sunday"
+    },
+    {
       "id": "a25350aab2547f3ccf6da193e2dface0",
       "date": "2026-05-17",
       "time": "10:00",
       "home_team": "Bingham Town F.C. U12 Girls Blue",
       "away_team": "Lowdham Colts F.C. Youth U12 Girls",
-      "venue": "BUTT FIELD SPORTS CLUB",
+      "venue": "EPPERSTONE PLAYING FIELDS",
       "division": "U12 Div 4 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Lowdham Colts F.C. Youth U12 Girls",
@@ -161,7 +122,7 @@
     {
       "id": "093591f73180045a6147b5eddab2fd18",
       "date": "2026-05-24",
-      "time": "10:00",
+      "time": "11:00",
       "home_team": "Sherwood Colliery F.C. Ladies U15",
       "away_team": "Lowdham Colts F.C. Youth U15 Girls",
       "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
@@ -173,6 +134,57 @@
     }
   ],
   "results": [
+    {
+      "id": "963e7905c1e5b147abc2ce60d13394f5",
+      "date": "2026-05-03",
+      "time": "10:30",
+      "home_team": "Lowdham Colts FC Development",
+      "away_team": "Meden Vale Colts FC Ladies",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "Senior Div 3 Phase 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Lowdham Colts FC Development",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts FC Ladies",
+      "goals_for": 2,
+      "goals_against": 4
+    },
+    {
+      "id": "499f793f314e011376a4c40ca3dd68bc",
+      "date": "2026-05-03",
+      "time": "10:30",
+      "home_team": "Lowdham Colts FC Ladies",
+      "away_team": "Hucknall Town FC Women",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "Seniors Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Lowdham Colts FC Ladies",
+      "home_away": "home",
+      "opponent": "Hucknall Town FC Women",
+      "goals_for": 1,
+      "goals_against": 4
+    },
+    {
+      "id": "573d0c51c9b74580059a6ce257dad5db",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Woodlands Women U15",
+      "away_team": "Lowdham Colts F.C. Youth U15 Girls",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U15 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Lowdham Colts F.C. Youth U15 Girls",
+      "home_away": "away",
+      "opponent": "Woodlands Women U15",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "44bb321cb1f04d2a269ec64f02b4072d",
       "date": "2026-04-29",

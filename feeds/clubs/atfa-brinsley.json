@@ -1,20 +1,7 @@
 {
   "club": "ATFA Brinsley",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "2f355ea684cc7b310885f0574f47fa89",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Hucknall & Linby Harriers FC U12 Jets",
-      "away_team": "ATFA Brinsley FC U12",
-      "venue": "HOLGATE ACADEMY",
-      "division": "U12 Div 3 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "ATFA Brinsley FC U12",
-      "home_away": "away",
-      "opponent": "Hucknall & Linby Harriers FC U12 Jets"
-    },
     {
       "id": "422410ae0ced72594a91f0323c128413",
       "date": "2026-05-10",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "2f355ea684cc7b310885f0574f47fa89",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Hucknall & Linby Harriers FC U12 Jets",
+      "away_team": "ATFA Brinsley FC U12",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 3 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "ATFA Brinsley FC U12",
+      "home_away": "away",
+      "opponent": "Hucknall & Linby Harriers FC U12 Jets",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "15dac044892e1ebe6832123a2a328a9e",
       "date": "2026-04-26",

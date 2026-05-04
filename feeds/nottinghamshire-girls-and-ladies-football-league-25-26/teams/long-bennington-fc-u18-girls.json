@@ -1,19 +1,8 @@
 {
   "team": "Long Bennington FC U18 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "bdc511c84931b49ffd1c1c94b208ab5a",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Long Bennington FC U18 Girls",
-      "away_team": "AFC Minister U18 Development",
-      "venue": "LONG BENNINGTON QE2 PLAYING FIELDS",
-      "division": "U18 Div 1 Phase 2",
-      "home_away": "home",
-      "opponent": "AFC Minister U18 Development"
-    },
     {
       "id": "b0f0ae97d413910b2151a3f206d30b32",
       "date": "2026-05-10",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "bdc511c84931b49ffd1c1c94b208ab5a",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Long Bennington FC U18 Girls",
+      "away_team": "AFC Minister U18 Development",
+      "home_score": 4,
+      "away_score": 6,
+      "venue": "",
+      "division": "U18 Div 1 Phase 2",
+      "home_away": "home",
+      "opponent": "AFC Minister U18 Development",
+      "goals_for": 4,
+      "goals_against": 6
+    },
     {
       "id": "418dcfb55de876ece64baf8a1055dd98",
       "date": "2026-04-19",

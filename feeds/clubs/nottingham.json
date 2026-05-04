@@ -1,6 +1,6 @@
 {
   "club": "Nottingham",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
     {
       "id": "415088ca6dbf75a992002efbd69d6faf",
@@ -40,32 +40,6 @@
       "team": "Nottingham FC Green U12",
       "home_away": "home",
       "opponent": "Edwalton Cavaliers White U12"
-    },
-    {
-      "id": "81d1ba3a17b671cbf5a60032fe094389",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Gedling Southbank FC U14 Warriors",
-      "away_team": "Nottingham F.C. Youth U14 Girls",
-      "venue": "THE TREVOR CARTER PAVILION",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Nottingham F.C. Youth U14 Girls",
-      "home_away": "away",
-      "opponent": "Gedling Southbank FC U14 Warriors"
-    },
-    {
-      "id": "f8025b403cc6c4bb29a9fa62c9692935",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Nottingham F.C. Youth U16 Diamonds",
-      "away_team": "Keyworth United F.C. U16 Emeralds",
-      "venue": "MELBOURNE PARK",
-      "division": "U16 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Nottingham F.C. Youth U16 Diamonds",
-      "home_away": "home",
-      "opponent": "Keyworth United F.C. U16 Emeralds"
     },
     {
       "id": "8fdb50ffebe302db426fa87303a0fa73",
@@ -147,6 +121,40 @@
     }
   ],
   "results": [
+    {
+      "id": "81d1ba3a17b671cbf5a60032fe094389",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Gedling Southbank FC U14 Warriors",
+      "away_team": "Nottingham F.C. Youth U14 Girls",
+      "home_score": 8,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Nottingham F.C. Youth U14 Girls",
+      "home_away": "away",
+      "opponent": "Gedling Southbank FC U14 Warriors",
+      "goals_for": 0,
+      "goals_against": 8
+    },
+    {
+      "id": "f8025b403cc6c4bb29a9fa62c9692935",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Nottingham F.C. Youth U16 Diamonds",
+      "away_team": "Keyworth United F.C. U16 Emeralds",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U16 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Nottingham F.C. Youth U16 Diamonds",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U16 Emeralds",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "31ca795dde78231a651ea376e1aabf71",
       "date": "2026-04-30",

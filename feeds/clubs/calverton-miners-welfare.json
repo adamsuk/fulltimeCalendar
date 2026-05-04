@@ -1,6 +1,6 @@
 {
   "club": "Calverton Miners Welfare",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
     {
       "id": "aeff0b7aaa3e07f584218c506c17dfdd",
@@ -14,19 +14,6 @@
       "team": "Calverton Miners Welfare Reserves",
       "home_away": "away",
       "opponent": "Pass Move Grin Reserves"
-    },
-    {
-      "id": "d87a6152218cbb158f0379b758ecc855",
-      "date": "2026-05-03",
-      "time": "13:00",
-      "home_team": "Mansfield Town Ladies FC Development",
-      "away_team": "Calverton Miners Welfare FC",
-      "venue": "RH ACADEMY",
-      "division": "Seniors Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Calverton Miners Welfare FC",
-      "home_away": "away",
-      "opponent": "Mansfield Town Ladies FC Development"
     },
     {
       "id": "8ede9cb2d4daf7664dfffb2fe50c98ee",
@@ -44,7 +31,7 @@
     {
       "id": "ecb1175a6eb7334cbed0651aac232f96",
       "date": "2026-05-09",
-      "time": "10:30",
+      "time": "13:30",
       "home_team": "Calverton Miners Welfare U23",
       "away_team": "West Bridgford Development",
       "venue": "Hollinwood Lane 2",
@@ -108,6 +95,23 @@
     }
   ],
   "results": [
+    {
+      "id": "d87a6152218cbb158f0379b758ecc855",
+      "date": "2026-05-03",
+      "time": "13:00",
+      "home_team": "Mansfield Town Ladies FC Development",
+      "away_team": "Calverton Miners Welfare FC",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "Seniors Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Calverton Miners Welfare FC",
+      "home_away": "away",
+      "opponent": "Mansfield Town Ladies FC Development",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "50017d644f1c9e82ea63fa86a1d9232c",
       "date": "2026-05-01",

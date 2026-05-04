@@ -1,19 +1,8 @@
 {
   "team": "Radcliffe Olympic FC U13 Ravens",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "b7328169852a61855adc429f092c435d",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Southwell City FC U13 All Whites",
-      "away_team": "Radcliffe Olympic FC U13 Ravens",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "U13 Div 1 11 v 11",
-      "home_away": "away",
-      "opponent": "Southwell City FC U13 All Whites"
-    },
     {
       "id": "4aa36cfeeaae392fc99120026f723de2",
       "date": "2026-05-17",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b7328169852a61855adc429f092c435d",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Southwell City FC U13 All Whites",
+      "away_team": "Radcliffe Olympic FC U13 Ravens",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Div 1 11 v 11",
+      "home_away": "away",
+      "opponent": "Southwell City FC U13 All Whites",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "fa4e33179ba5d6cf825cd19a6d9d774e",
       "date": "2026-04-26",

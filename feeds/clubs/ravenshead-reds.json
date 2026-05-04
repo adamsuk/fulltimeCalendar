@@ -1,6 +1,6 @@
 {
   "club": "Ravenshead Reds",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
     {
       "id": "0b065754bb4599ce5c4995a1fb1bdd06",
@@ -14,19 +14,6 @@
       "team": "Ravenshead Reds U11",
       "home_away": "away",
       "opponent": "Lowdham FC Rossoneri U11"
-    },
-    {
-      "id": "f995f0e24cf15a6cb7876a2d259ef049",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Tansley Juniors U12 Girls",
-      "away_team": "Ravenshead Reds F.C. Youth U12",
-      "venue": "THE FETE FIELD",
-      "division": "U12 Div 5 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Ravenshead Reds F.C. Youth U12",
-      "home_away": "away",
-      "opponent": "Tansley Juniors U12 Girls"
     },
     {
       "id": "f38bb7c1693f6f03ec6caea3c4ccb1e7",
@@ -121,6 +108,23 @@
     }
   ],
   "results": [
+    {
+      "id": "f995f0e24cf15a6cb7876a2d259ef049",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Tansley Juniors U12 Girls",
+      "away_team": "Ravenshead Reds F.C. Youth U12",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Div 5 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Ravenshead Reds F.C. Youth U12",
+      "home_away": "away",
+      "opponent": "Tansley Juniors U12 Girls",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "bdd436866f42d6adda9ef5f4c5efd1d7",
       "date": "2026-04-29",

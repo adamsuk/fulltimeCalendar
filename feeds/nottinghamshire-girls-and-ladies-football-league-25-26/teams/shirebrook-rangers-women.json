@@ -1,19 +1,8 @@
 {
   "team": "Shirebrook Rangers Women",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "efd0043b94a0561b3a108067dcb983a6",
-      "date": "2026-05-03",
-      "time": "14:00",
-      "home_team": "Gedling Southbank FC Ladies",
-      "away_team": "Shirebrook Rangers Women",
-      "venue": "RICHARD HERROD CENTRE",
-      "division": "Seniors Div 2",
-      "home_away": "away",
-      "opponent": "Gedling Southbank FC Ladies"
-    },
     {
       "id": "35b99ab97434574f35644377d1a41f87",
       "date": "2026-05-10",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "efd0043b94a0561b3a108067dcb983a6",
+      "date": "2026-05-03",
+      "time": "14:00",
+      "home_team": "Gedling Southbank FC Ladies",
+      "away_team": "Shirebrook Rangers Women",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "home_away": "away",
+      "opponent": "Gedling Southbank FC Ladies",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "53e750dbd2a1647730d73da992c63189",
       "date": "2026-04-29",

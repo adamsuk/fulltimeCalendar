@@ -1,6 +1,6 @@
 {
   "club": "Mansfield Town",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
     {
       "id": "9aac7436c7a5bc268266c6c366c5b3e7",
@@ -14,19 +14,6 @@
       "team": "Mansfield Town F.C. Girls U12",
       "home_away": "away",
       "opponent": "Sandiacre Town Youth U12 Panthers Girls"
-    },
-    {
-      "id": "d87a6152218cbb158f0379b758ecc855",
-      "date": "2026-05-03",
-      "time": "13:00",
-      "home_team": "Mansfield Town Ladies FC Development",
-      "away_team": "Calverton Miners Welfare FC",
-      "venue": "RH ACADEMY",
-      "division": "Seniors Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Mansfield Town Ladies FC Development",
-      "home_away": "home",
-      "opponent": "Calverton Miners Welfare FC"
     },
     {
       "id": "939a51f6dc6d07122300abfd14e58837",
@@ -147,6 +134,23 @@
     }
   ],
   "results": [
+    {
+      "id": "d87a6152218cbb158f0379b758ecc855",
+      "date": "2026-05-03",
+      "time": "13:00",
+      "home_team": "Mansfield Town Ladies FC Development",
+      "away_team": "Calverton Miners Welfare FC",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "Seniors Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Mansfield Town Ladies FC Development",
+      "home_away": "home",
+      "opponent": "Calverton Miners Welfare FC",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "17a2015bf61e2e4db44ae57d2bc71df4",
       "date": "2026-04-26",

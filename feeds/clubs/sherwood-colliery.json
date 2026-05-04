@@ -1,6 +1,6 @@
 {
   "club": "Sherwood Colliery",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
     {
       "id": "ba263bc03b5f747409934f6f8877b390",
@@ -53,19 +53,6 @@
       "team": "Sherwood Colliery F.C. Ladies U15",
       "home_away": "home",
       "opponent": "Sandiacre Town Youth U15 Girls Sparkle"
-    },
-    {
-      "id": "fd34a9555ec4fba79a003bee57810559",
-      "date": "2026-05-03",
-      "time": "13:30",
-      "home_team": "Underwood Villa FC Youth Ladies",
-      "away_team": "Sherwood Colliery FC Ladies",
-      "venue": "BRACKEN PARK (UNDERWOOD VILLA FC)",
-      "division": "Seniors Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sherwood Colliery FC Ladies",
-      "home_away": "away",
-      "opponent": "Underwood Villa FC Youth Ladies"
     },
     {
       "id": "8a54a40700e0f038bc682c4fa96cd837",
@@ -187,7 +174,7 @@
     {
       "id": "093591f73180045a6147b5eddab2fd18",
       "date": "2026-05-24",
-      "time": "10:00",
+      "time": "11:00",
       "home_team": "Sherwood Colliery F.C. Ladies U15",
       "away_team": "Lowdham Colts F.C. Youth U15 Girls",
       "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
@@ -212,6 +199,23 @@
     }
   ],
   "results": [
+    {
+      "id": "fd34a9555ec4fba79a003bee57810559",
+      "date": "2026-05-03",
+      "time": "13:30",
+      "home_team": "Underwood Villa FC Youth Ladies",
+      "away_team": "Sherwood Colliery FC Ladies",
+      "home_score": 0,
+      "away_score": 10,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood Colliery FC Ladies",
+      "home_away": "away",
+      "opponent": "Underwood Villa FC Youth Ladies",
+      "goals_for": 10,
+      "goals_against": 0
+    },
     {
       "id": "8d4e89065965a1bfd7571b6d6ab5dcb9",
       "date": "2026-04-26",

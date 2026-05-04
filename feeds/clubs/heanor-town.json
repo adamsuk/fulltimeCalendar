@@ -1,20 +1,7 @@
 {
   "club": "Heanor Town",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "f8de3446c0641c78945ef1619bc66e0f",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Heanor Town Juniors U16 Tornados",
-      "away_team": "Woodlands Women U16 Greensocks",
-      "venue": "ALDERCAR RECREATION GROUND",
-      "division": "U16 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Heanor Town Juniors U16 Tornados",
-      "home_away": "home",
-      "opponent": "Woodlands Women U16 Greensocks"
-    },
     {
       "id": "b0587f4709121e9438eea992274d8abf",
       "date": "2026-05-10",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "f8de3446c0641c78945ef1619bc66e0f",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Heanor Town Juniors U16 Tornados",
+      "away_team": "Woodlands Women U16 Greensocks",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U16 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Heanor Town Juniors U16 Tornados",
+      "home_away": "home",
+      "opponent": "Woodlands Women U16 Greensocks",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "8ea9a70bc9bd1374249945ce24cff32f",
       "date": "2026-04-29",

@@ -1,6 +1,6 @@
 {
   "club": "East Leake",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
     {
       "id": "b9973fab046bf9a07be05270f0e33337",
@@ -42,19 +42,6 @@
       "opponent": "Harrowby United U12"
     },
     {
-      "id": "8b6c40f7719fe8726e367a114b4ead23",
-      "date": "2026-05-03",
-      "time": "14:00",
-      "home_team": "Cotgrave FC Ladies",
-      "away_team": "East Leake FC Ladies",
-      "venue": "COTGRAVE WELFARE CLUB",
-      "division": "Senior Div 3 Phase 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "East Leake FC Ladies",
-      "home_away": "away",
-      "opponent": "Cotgrave FC Ladies"
-    },
-    {
       "id": "9af5f3635013b2fe825cfca069a4ea80",
       "date": "2026-05-06",
       "time": "18:00",
@@ -82,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "8b6c40f7719fe8726e367a114b4ead23",
+      "date": "2026-05-03",
+      "time": "14:00",
+      "home_team": "Cotgrave FC Ladies",
+      "away_team": "East Leake FC Ladies",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "Senior Div 3 Phase 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "East Leake FC Ladies",
+      "home_away": "away",
+      "opponent": "Cotgrave FC Ladies",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "6e308059291a5631ba7798cd06b6d34a",
       "date": "2026-05-02",

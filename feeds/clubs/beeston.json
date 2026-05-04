@@ -1,6 +1,6 @@
 {
   "club": "Beeston",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
     {
       "id": "670d3b5fa7029f9ed20210479cb35b84",
@@ -27,45 +27,6 @@
       "team": "Beeston FC Women",
       "home_away": "away",
       "opponent": "Pelican Colts FC Ladies"
-    },
-    {
-      "id": "269a7122ab1837765a02b1b26145680c",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Market Warsop F.C. Youth U14 Lionesses",
-      "away_team": "Beeston F.C. U14 Girls",
-      "venue": "THE JOHN FRETWELL SPORTING COMPLEX",
-      "division": "U14 Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Beeston F.C. U14 Girls",
-      "home_away": "away",
-      "opponent": "Market Warsop F.C. Youth U14 Lionesses"
-    },
-    {
-      "id": "82fa2489bd2e9ff2c9f3900f09453baa",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Beeston F.C. U15 Girls Sun",
-      "away_team": "Barlborough Juniors U15 Lionesses",
-      "venue": "TRENT VALE SPORTS ASSOCIATION",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Beeston F.C. U15 Girls Sun",
-      "home_away": "home",
-      "opponent": "Barlborough Juniors U15 Lionesses"
-    },
-    {
-      "id": "7ac47dc06410504a756920e99443f66e",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Keyworth United FC Development",
-      "away_team": "Beeston FC Women",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "Senior Div 4",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Beeston FC Women",
-      "home_away": "away",
-      "opponent": "Keyworth United FC Development"
     },
     {
       "id": "2056e9e550d574e5b60a9fb7182211a8",
@@ -161,7 +122,7 @@
     {
       "id": "d3d4dcbfd44a24079ab1cbf81d6a8926",
       "date": "2026-05-17",
-      "time": "10:00",
+      "time": "12:00",
       "home_team": "Beeston F.C. U15 Girls Sun",
       "away_team": "Burton Joyce F.C. Girls U15 Green",
       "venue": "TRENT VALE SPORTS ASSOCIATION",
@@ -186,6 +147,57 @@
     }
   ],
   "results": [
+    {
+      "id": "269a7122ab1837765a02b1b26145680c",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Market Warsop F.C. Youth U14 Lionesses",
+      "away_team": "Beeston F.C. U14 Girls",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Beeston F.C. U14 Girls",
+      "home_away": "away",
+      "opponent": "Market Warsop F.C. Youth U14 Lionesses",
+      "goals_for": 0,
+      "goals_against": 3
+    },
+    {
+      "id": "82fa2489bd2e9ff2c9f3900f09453baa",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Beeston F.C. U15 Girls Sun",
+      "away_team": "Barlborough Juniors U15 Lionesses",
+      "home_score": 6,
+      "away_score": 1,
+      "venue": "",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Beeston F.C. U15 Girls Sun",
+      "home_away": "home",
+      "opponent": "Barlborough Juniors U15 Lionesses",
+      "goals_for": 6,
+      "goals_against": 1
+    },
+    {
+      "id": "7ac47dc06410504a756920e99443f66e",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Keyworth United FC Development",
+      "away_team": "Beeston FC Women",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "Senior Div 4",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Beeston FC Women",
+      "home_away": "away",
+      "opponent": "Keyworth United FC Development",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "d20eec2cd02d6593fc183fa0bd97ca6e",
       "date": "2026-05-02",

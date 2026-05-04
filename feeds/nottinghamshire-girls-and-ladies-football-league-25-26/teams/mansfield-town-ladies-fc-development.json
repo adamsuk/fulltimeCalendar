@@ -1,19 +1,8 @@
 {
   "team": "Mansfield Town Ladies FC Development",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "d87a6152218cbb158f0379b758ecc855",
-      "date": "2026-05-03",
-      "time": "13:00",
-      "home_team": "Mansfield Town Ladies FC Development",
-      "away_team": "Calverton Miners Welfare FC",
-      "venue": "RH ACADEMY",
-      "division": "Seniors Div 1",
-      "home_away": "home",
-      "opponent": "Calverton Miners Welfare FC"
-    },
     {
       "id": "272618c9dcbc8d3354384112f7768c9a",
       "date": "2026-05-10",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "d87a6152218cbb158f0379b758ecc855",
+      "date": "2026-05-03",
+      "time": "13:00",
+      "home_team": "Mansfield Town Ladies FC Development",
+      "away_team": "Calverton Miners Welfare FC",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "Seniors Div 1",
+      "home_away": "home",
+      "opponent": "Calverton Miners Welfare FC",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "6c76c7228e1752698b690d6caef85a09",
       "date": "2026-04-19",

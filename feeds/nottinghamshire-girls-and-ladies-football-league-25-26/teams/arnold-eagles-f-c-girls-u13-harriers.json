@@ -1,19 +1,8 @@
 {
   "team": "Arnold Eagles F.C. Girls U13 Harriers",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "9f2655283db3ee64092a96d53db888b0",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Moorgreen Colts F.C. Youth U13",
-      "away_team": "Arnold Eagles F.C. Girls U13 Harriers",
-      "venue": "Moorgreen Colts F.C. Youth U13",
-      "division": "U13 Div 3 9 v 9",
-      "home_away": "away",
-      "opponent": "Moorgreen Colts F.C. Youth U13"
-    },
     {
       "id": "fa336e12658fee0be6cf585dba3619b6",
       "date": "2026-05-17",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "9f2655283db3ee64092a96d53db888b0",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Moorgreen Colts F.C. Youth U13",
+      "away_team": "Arnold Eagles F.C. Girls U13 Harriers",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Div 3 9 v 9",
+      "home_away": "away",
+      "opponent": "Moorgreen Colts F.C. Youth U13",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "5a12026ae651a9442301a3e1512eec92",
       "date": "2026-03-22",

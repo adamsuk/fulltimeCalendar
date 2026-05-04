@@ -1,19 +1,8 @@
 {
   "team": "Ollerton Town Community FC U12 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "e95bf87952e91d2154468c3d5a9864ab",
-      "date": "2026-05-03",
-      "time": "11:15",
-      "home_team": "Keyworth United F.C. U12 Shooting Stars",
-      "away_team": "Ollerton Town Community FC U12 Girls",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "U12 Div 2 P2",
-      "home_away": "away",
-      "opponent": "Keyworth United F.C. U12 Shooting Stars"
-    },
     {
       "id": "a493311c5b9d4973c1b2c7aedb24ba78",
       "date": "2026-05-10",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e95bf87952e91d2154468c3d5a9864ab",
+      "date": "2026-05-03",
+      "time": "11:15",
+      "home_team": "Keyworth United F.C. U12 Shooting Stars",
+      "away_team": "Ollerton Town Community FC U12 Girls",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 2 P2",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U12 Shooting Stars",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "9fb5d1d9b57fd010c826c6952c95350a",
       "date": "2026-04-26",

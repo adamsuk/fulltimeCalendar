@@ -1,20 +1,7 @@
 {
   "club": "Chesterfield Town",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "6a157db23698db868273de136dba1e3d",
-      "date": "2026-05-03",
-      "time": "12:15",
-      "home_team": "West Bridgford Colts U18 Comets",
-      "away_team": "Chesterfield Town U17 Girls",
-      "venue": "GRESHAM SPORTS PARK",
-      "division": "U18 Div 2 Phase 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Chesterfield Town U17 Girls",
-      "home_away": "away",
-      "opponent": "West Bridgford Colts U18 Comets"
-    },
     {
       "id": "45c2016091511019ffcdf9a610a49dc6",
       "date": "2026-05-10",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "6a157db23698db868273de136dba1e3d",
+      "date": "2026-05-03",
+      "time": "12:15",
+      "home_team": "West Bridgford Colts U18 Comets",
+      "away_team": "Chesterfield Town U17 Girls",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U18 Div 2 Phase 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Chesterfield Town U17 Girls",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U18 Comets",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "0ba7ecf7a85ce2d50e63b8983134795c",
       "date": "2026-04-26",

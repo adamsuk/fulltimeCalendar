@@ -1,19 +1,8 @@
 {
   "team": "Selston F.C. Youth U15 FC",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-03T07:46:10Z",
+  "generated": "2026-05-04T08:16:50Z",
   "fixtures": [
-    {
-      "id": "ecd70f3bd008eab997ce4669e69f2bb1",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Selston F.C. Youth U15 FC",
-      "away_team": "Retford FC Juniors U15 GIRLS",
-      "venue": "Selston F.C. Youth Selston FC U14 Girls",
-      "division": "U15 Div 3",
-      "home_away": "home",
-      "opponent": "Retford FC Juniors U15 GIRLS"
-    },
     {
       "id": "734917839e15aa5b8f746362a6c13bf9",
       "date": "2026-05-13",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ecd70f3bd008eab997ce4669e69f2bb1",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Selston F.C. Youth U15 FC",
+      "away_team": "Retford FC Juniors U15 GIRLS",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U15 Div 3",
+      "home_away": "home",
+      "opponent": "Retford FC Juniors U15 GIRLS",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "478663cafef300d8a4905a4b64852f96",
       "date": "2026-04-19",
