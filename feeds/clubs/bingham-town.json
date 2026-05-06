@@ -1,20 +1,7 @@
 {
   "club": "Bingham Town",
-  "generated": "2026-05-05T07:54:35Z",
+  "generated": "2026-05-06T08:05:03Z",
   "fixtures": [
-    {
-      "id": "3191b5a68a4d9890931473960f03c563",
-      "date": "2026-04-19",
-      "time": "09:30",
-      "home_team": "Bagthorpe Athletic F.C. Youth U14 girls",
-      "away_team": "Bingham Town F.C. U14 Girls Red",
-      "venue": "DIXIES ARMS PARK",
-      "division": "U14 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Bingham Town F.C. U14 Girls Red",
-      "home_away": "away",
-      "opponent": "Bagthorpe Athletic F.C. Youth U14 girls"
-    },
     {
       "id": "4e267fa8a6d985108f3f5dc48b9936c8",
       "date": "2026-05-02",
@@ -55,17 +42,17 @@
       "opponent": "Priory Celtic F.C. U16 Girls"
     },
     {
-      "id": "ace9a95c0c2040b9cc833f14054c6955",
+      "id": "f3a371bc43272c76248fc09cb6c12e7f",
       "date": "2026-05-05",
-      "time": "18:30",
-      "home_team": "Gedling Southbank FC U16 Dynamos",
-      "away_team": "Bingham Town F.C. U16 Girls",
-      "venue": "THE TREVOR CARTER PAVILION",
-      "division": "U16 Div 2",
+      "time": "19:00",
+      "home_team": "Bagthorpe Athletic F.C. Youth U14 girls",
+      "away_team": "Bingham Town F.C. U14 Girls Red",
+      "venue": "BUTT FIELD SPORTS CLUB",
+      "division": "U14 Div 2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Bingham Town F.C. U16 Girls",
+      "team": "Bingham Town F.C. U14 Girls Red",
       "home_away": "away",
-      "opponent": "Gedling Southbank FC U16 Dynamos"
+      "opponent": "Bagthorpe Athletic F.C. Youth U14 girls"
     },
     {
       "id": "efb889fe04225625ce42fbdc8da079db",
@@ -159,6 +146,19 @@
       "opponent": "FC Cavaliers U11"
     },
     {
+      "id": "1d484529e299c4b3b83518bbde52ebbe",
+      "date": "2026-05-16",
+      "time": "14:45",
+      "home_team": "Bingham Town Red U13",
+      "away_team": "Alfreton Town Tigers U13",
+      "venue": "Ilkeston Town FC DE7 8JF",
+      "division": "U13 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Bingham Town Red U13",
+      "home_away": "home",
+      "opponent": "Alfreton Town Tigers U13"
+    },
+    {
       "id": "a25350aab2547f3ccf6da193e2dface0",
       "date": "2026-05-17",
       "time": "10:00",
@@ -187,10 +187,10 @@
     {
       "id": "3f156588f1a2d819b14a18b77efa1215",
       "date": "2026-05-19",
-      "time": "18:30",
+      "time": "18:45",
       "home_team": "West Bridgford Colts U12 Lightning",
       "away_team": "Bingham Town F.C. U12 Girls Red",
-      "venue": "GRESHAM SPORTS PARK",
+      "venue": "REGATTA WAY SPORTS GROUND",
       "division": "U12 Div 3 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Bingham Town F.C. U12 Girls Red",
@@ -199,6 +199,23 @@
     }
   ],
   "results": [
+    {
+      "id": "ace9a95c0c2040b9cc833f14054c6955",
+      "date": "2026-05-05",
+      "time": "18:30",
+      "home_team": "Gedling Southbank FC U16 Dynamos",
+      "away_team": "Bingham Town F.C. U16 Girls",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U16 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Bingham Town F.C. U16 Girls",
+      "home_away": "away",
+      "opponent": "Gedling Southbank FC U16 Dynamos",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "614b7cf6311a8321a6cfb928374d1fb6",
       "date": "2026-05-03",

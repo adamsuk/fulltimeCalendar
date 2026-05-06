@@ -1,20 +1,7 @@
 {
   "club": "Gedling Southbank",
-  "generated": "2026-05-05T07:54:35Z",
+  "generated": "2026-05-06T08:05:03Z",
   "fixtures": [
-    {
-      "id": "ace9a95c0c2040b9cc833f14054c6955",
-      "date": "2026-05-05",
-      "time": "18:30",
-      "home_team": "Gedling Southbank FC U16 Dynamos",
-      "away_team": "Bingham Town F.C. U16 Girls",
-      "venue": "THE TREVOR CARTER PAVILION",
-      "division": "U16 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Gedling Southbank FC U16 Dynamos",
-      "home_away": "home",
-      "opponent": "Bingham Town F.C. U16 Girls"
-    },
     {
       "id": "71e48f88abe7dd7e46a02f6b2994aa0e",
       "date": "2026-05-10",
@@ -121,6 +108,23 @@
     }
   ],
   "results": [
+    {
+      "id": "ace9a95c0c2040b9cc833f14054c6955",
+      "date": "2026-05-05",
+      "time": "18:30",
+      "home_team": "Gedling Southbank FC U16 Dynamos",
+      "away_team": "Bingham Town F.C. U16 Girls",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U16 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Gedling Southbank FC U16 Dynamos",
+      "home_away": "home",
+      "opponent": "Bingham Town F.C. U16 Girls",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "efd0043b94a0561b3a108067dcb983a6",
       "date": "2026-05-03",

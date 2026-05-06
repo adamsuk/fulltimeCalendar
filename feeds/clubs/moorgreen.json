@@ -1,59 +1,7 @@
 {
   "club": "Moorgreen",
-  "generated": "2026-05-05T07:54:35Z",
+  "generated": "2026-05-06T08:05:03Z",
   "fixtures": [
-    {
-      "id": "f3054e711ef845bae561ef682b57409b",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "home_team": "Moorgreen Colts Blue U7",
-      "away_team": "WBYFC Feyanoord Black U7",
-      "venue": "Birnham Pk A610 Estwd/Kim Bypss NG16 2DE",
-      "division": "U7 Sun Spring Yellow",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Moorgreen Colts Blue U7",
-      "home_away": "home",
-      "opponent": "WBYFC Feyanoord Black U7"
-    },
-    {
-      "id": "90c8b3e6784ccef47f3bcf8ae40aa7dc",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "Clifton All Whites Black U12",
-      "away_team": "Moorgreen Colts Blue U12",
-      "venue": "Farnborough Academy NG11 8JW",
-      "division": "U12 Sunday",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Moorgreen Colts Blue U12",
-      "home_away": "away",
-      "opponent": "Clifton All Whites Black U12"
-    },
-    {
-      "id": "8f2283b4bf96cdfa12319d439f622352",
-      "date": "2026-04-26",
-      "time": "11:00",
-      "home_team": "East Leake Bantams Black U14",
-      "away_team": "Moorgreen Colts Blue U14",
-      "venue": "Costock Road LE12 6LY",
-      "division": "U14 Sun Spring Div 4",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Moorgreen Colts Blue U14",
-      "home_away": "away",
-      "opponent": "East Leake Bantams Black U14"
-    },
-    {
-      "id": "8fdb50ffebe302db426fa87303a0fa73",
-      "date": "2026-05-05",
-      "time": "18:00",
-      "home_team": "Moorgreen Colts White U13",
-      "away_team": "Nottingham FC Black U13",
-      "venue": "Birnam Park  NG16 2DE",
-      "division": "U13 Sat YEL Inter Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Moorgreen Colts White U13",
-      "home_away": "home",
-      "opponent": "Nottingham FC Black U13"
-    },
     {
       "id": "521aa69d3c4c6369dae3ee86f8eef4f7",
       "date": "2026-05-10",
@@ -82,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "8fdb50ffebe302db426fa87303a0fa73",
+      "date": "2026-05-05",
+      "time": "18:00",
+      "home_team": "Moorgreen Colts White U13",
+      "away_team": "Nottingham FC Black U13",
+      "home_score": 3,
+      "away_score": 6,
+      "venue": "",
+      "division": "U13 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Moorgreen Colts White U13",
+      "home_away": "home",
+      "opponent": "Nottingham FC Black U13",
+      "goals_for": 3,
+      "goals_against": 6
+    },
     {
       "id": "9f2655283db3ee64092a96d53db888b0",
       "date": "2026-05-03",

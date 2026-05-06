@@ -1,7 +1,7 @@
 {
   "team": "Notts Olympic FC",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-05-05T07:54:35Z",
+  "generated": "2026-05-06T08:05:03Z",
   "fixtures": [
     {
       "id": "c9d09575c2f7069286a704c010f9d19a",
@@ -13,20 +13,24 @@
       "division": "Euro Soccer Premier Division",
       "home_away": "away",
       "opponent": "Collingham FC"
-    },
+    }
+  ],
+  "results": [
     {
       "id": "44c2c3e09df6ff291815ddc0d2284bde",
       "date": "2026-05-05",
       "time": "19:30",
       "home_team": "Notts Olympic FC",
       "away_team": "Keyworth United FC",
-      "venue": "RADFORD FOOTBALL CLUB",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
       "division": "Euro Soccer Premier Division",
       "home_away": "home",
-      "opponent": "Keyworth United FC"
-    }
-  ],
-  "results": [
+      "opponent": "Keyworth United FC",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "0aa3255e551698344a7a2f86476ce642",
       "date": "2026-04-28",

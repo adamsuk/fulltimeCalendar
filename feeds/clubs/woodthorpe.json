@@ -1,20 +1,7 @@
 {
   "club": "Woodthorpe",
-  "generated": "2026-05-05T07:54:35Z",
+  "generated": "2026-05-06T08:05:03Z",
   "fixtures": [
-    {
-      "id": "37479ddb7193361c5e397b3542f99d1f",
-      "date": "2026-05-05",
-      "time": "19:00",
-      "home_team": "Woodthorpe Park Rangers FC",
-      "away_team": "Southwell City Reserves",
-      "venue": "EAGLE VALLEY #1",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Woodthorpe Park Rangers FC",
-      "home_away": "home",
-      "opponent": "Southwell City Reserves"
-    },
     {
       "id": "f65d4f76765387c49128a2e578f29ac3",
       "date": "2026-05-10",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "37479ddb7193361c5e397b3542f99d1f",
+      "date": "2026-05-05",
+      "time": "19:00",
+      "home_team": "Woodthorpe Park Rangers FC",
+      "away_team": "Southwell City Reserves",
+      "home_score": 5,
+      "away_score": 7,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Woodthorpe Park Rangers FC",
+      "home_away": "home",
+      "opponent": "Southwell City Reserves",
+      "goals_for": 5,
+      "goals_against": 7
+    },
     {
       "id": "9f2510d34ddae89d8cb5d49b2039fadd",
       "date": "2026-05-02",

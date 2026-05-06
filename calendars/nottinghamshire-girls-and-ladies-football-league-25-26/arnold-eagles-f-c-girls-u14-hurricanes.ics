@@ -7,26 +7,8 @@ X-WR-CALNAME:Arnold Eagles F.C. Girls U14 Hurricanes
 X-WR-CALDESC:Fixtures for Arnold Eagles F.C. Girls U14 Hurricanes — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:2a2c9a1a0ce2374ab2e3ae665f52094d@yel-calendar
-DTSTAMP:20260505T075537Z
-DTSTART;TZID=Europe/London:20260422T180000
-DTEND;TZID=Europe/London:20260422T190000
-SUMMARY:⚽ Arnold Eagles F.C. Girls U14 Hurricanes vs Riverside Junior U14 Rubies (Home)
-DESCRIPTION:Division: U14 Div 3\nArnold Eagles F.C. Girls U14 Hurricanes v Riverside Junior U14 Rubies\nKO: 18:00
-LOCATION:CALVERTON MINERS WELFARE TRUST
-END:VEVENT
-BEGIN:VEVENT
-UID:d0fda5e7b6cb1700bce5b5d9b2298d2f@yel-calendar
-DTSTAMP:20260505T075537Z
-DTSTART;TZID=Europe/London:20260506T183000
-DTEND;TZID=Europe/London:20260506T190000
-SUMMARY:⚽ Arnold Eagles F.C. Girls U14 Hurricanes vs Gedling Southbank FC U14 Reds (Home)
-DESCRIPTION:Division: U14 Div 3\nArnold Eagles F.C. Girls U14 Hurricanes v Gedling Southbank FC U14 Reds\nKO: 18:30
-LOCATION:CALVERTON MINERS WELFARE TRUST
-END:VEVENT
-BEGIN:VEVENT
 UID:ecbb6351c0edcf0a6cd75be06c5162f7@yel-calendar
-DTSTAMP:20260505T075537Z
+DTSTAMP:20260506T080554Z
 DTSTART;TZID=Europe/London:20260510T100000
 DTEND;TZID=Europe/London:20260510T110000
 SUMMARY:⚽ Arnold Eagles F.C. Girls U14 Hurricanes vs Nottingham F.C. Youth U14 Girls (Away)
@@ -35,11 +17,29 @@ LOCATION:MELBOURNE PARK
 END:VEVENT
 BEGIN:VEVENT
 UID:84bcad126dacc68c5c6d3b59bca8f455@yel-calendar
-DTSTAMP:20260505T075537Z
+DTSTAMP:20260506T080554Z
 DTSTART;TZID=Europe/London:20260517T100000
 DTEND;TZID=Europe/London:20260517T110000
 SUMMARY:⚽ Arnold Eagles F.C. Girls U14 Hurricanes vs Ravenshead Reds F.C. Youth U14 (Home)
 DESCRIPTION:Division: U14 Div 3\nArnold Eagles F.C. Girls U14 Hurricanes v Ravenshead Reds F.C. Youth U14\nKO: 10:00
+LOCATION:CALVERTON MINERS WELFARE TRUST
+END:VEVENT
+BEGIN:VEVENT
+UID:90fd901d4d13b52d26b0c03b9c38610a@yel-calendar
+DTSTAMP:20260506T080554Z
+DTSTART;TZID=Europe/London:20260520T183000
+DTEND;TZID=Europe/London:20260520T190000
+SUMMARY:⚽ Arnold Eagles F.C. Girls U14 Hurricanes vs Riverside Junior U14 Rubies (Home)
+DESCRIPTION:Division: U14 Div 3\nArnold Eagles F.C. Girls U14 Hurricanes v Riverside Junior U14 Rubies\nKO: 18:30
+LOCATION:CALVERTON MINERS WELFARE TRUST
+END:VEVENT
+BEGIN:VEVENT
+UID:eb4175a8bba74f379824d3ae66e434dd@yel-calendar
+DTSTAMP:20260506T080554Z
+DTSTART;TZID=Europe/London:20260531T100000
+DTEND;TZID=Europe/London:20260531T110000
+SUMMARY:⚽ Arnold Eagles F.C. Girls U14 Hurricanes vs Gedling Southbank FC U14 Reds (Home)
+DESCRIPTION:Division: U14 Div 3\nArnold Eagles F.C. Girls U14 Hurricanes v Gedling Southbank FC U14 Reds\nKO: 10:00
 LOCATION:CALVERTON MINERS WELFARE TRUST
 END:VEVENT
 END:VCALENDAR

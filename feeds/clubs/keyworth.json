@@ -1,6 +1,6 @@
 {
   "club": "Keyworth",
-  "generated": "2026-05-05T07:54:35Z",
+  "generated": "2026-05-06T08:05:03Z",
   "fixtures": [
     {
       "id": "d7df231aa7a05f6abcd1316826191a31",
@@ -14,19 +14,6 @@
       "team": "Keyworth United F.C. U12 Vipers",
       "home_away": "home",
       "opponent": "Langwith Whitestar U12 United"
-    },
-    {
-      "id": "44c2c3e09df6ff291815ddc0d2284bde",
-      "date": "2026-05-05",
-      "time": "19:30",
-      "home_team": "Notts Olympic FC",
-      "away_team": "Keyworth United FC",
-      "venue": "RADFORD FOOTBALL CLUB",
-      "division": "Euro Soccer Premier Division",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Keyworth United FC",
-      "home_away": "away",
-      "opponent": "Notts Olympic FC"
     },
     {
       "id": "58083cebb05268011d7fa9fe25456112",
@@ -277,6 +264,23 @@
     }
   ],
   "results": [
+    {
+      "id": "44c2c3e09df6ff291815ddc0d2284bde",
+      "date": "2026-05-05",
+      "time": "19:30",
+      "home_team": "Notts Olympic FC",
+      "away_team": "Keyworth United FC",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "Euro Soccer Premier Division",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Keyworth United FC",
+      "home_away": "away",
+      "opponent": "Notts Olympic FC",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "2250f211b95872903ad9bda42c24de0d",
       "date": "2026-05-03",
