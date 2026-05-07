@@ -1,6 +1,6 @@
 {
   "club": "Phoenix Inham FC",
-  "generated": "2026-05-06T08:05:03Z",
+  "generated": "2026-05-07T08:13:03Z",
   "fixtures": [
     {
       "id": "4aeb9b46959fec64d6b8987e877b88e3",
@@ -14,19 +14,6 @@
       "team": "Phoenix Inham F.C. U12 Sparkles",
       "home_away": "home",
       "opponent": "Clipstone Welfare Colts F.C. Youth U12"
-    },
-    {
-      "id": "c03e2b8a4f4558f3b1a9fb04ee55308f",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Lowdham Colts F.C. Youth U12 Girls",
-      "away_team": "Phoenix Inham F.C. U12 Sparkles",
-      "venue": "Lowdham Colts F.C. Youth U10 Girls",
-      "division": "U12 Div 4 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Phoenix Inham F.C. U12 Sparkles",
-      "home_away": "away",
-      "opponent": "Lowdham Colts F.C. Youth U12 Girls"
     },
     {
       "id": "e7f6bf73eda0275c3a7a6fb24a37b175",
@@ -108,6 +95,23 @@
     }
   ],
   "results": [
+    {
+      "id": "6858a369e2b956af906972cdb26b0a88",
+      "date": "2026-05-06",
+      "time": "18:30",
+      "home_team": "Lowdham Colts F.C. Youth U12 Girls",
+      "away_team": "Phoenix Inham F.C. U12 Sparkles",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 4 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Phoenix Inham F.C. U12 Sparkles",
+      "home_away": "away",
+      "opponent": "Lowdham Colts F.C. Youth U12 Girls",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "a97643cf9e5be54d3d01fedbeac17c6b",
       "date": "2026-05-03",

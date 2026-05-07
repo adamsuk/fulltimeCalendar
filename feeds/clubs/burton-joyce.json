@@ -1,33 +1,7 @@
 {
   "club": "Burton Joyce",
-  "generated": "2026-05-06T08:05:03Z",
+  "generated": "2026-05-07T08:13:03Z",
   "fixtures": [
-    {
-      "id": "6d514d06708549b30d5f0a42b157f895",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "home_team": "Arnold Town Yellow U14",
-      "away_team": "Burton Joyce Blue U14",
-      "venue": "Eagle Valley NG5 8PS",
-      "division": "U14 Sat Spring Div 2 Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Burton Joyce Blue U14",
-      "home_away": "away",
-      "opponent": "Arnold Town Yellow U14"
-    },
-    {
-      "id": "58083cebb05268011d7fa9fe25456112",
-      "date": "2026-05-06",
-      "time": "18:45",
-      "home_team": "Keyworth United F.C. U15 Predators",
-      "away_team": "Burton Joyce F.C. Girls U15 Green",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Burton Joyce F.C. Girls U15 Green",
-      "home_away": "away",
-      "opponent": "Keyworth United F.C. U15 Predators"
-    },
     {
       "id": "aff54714a4a353790b339d003780965b",
       "date": "2026-05-09",
@@ -173,6 +147,23 @@
     }
   ],
   "results": [
+    {
+      "id": "58083cebb05268011d7fa9fe25456112",
+      "date": "2026-05-06",
+      "time": "18:45",
+      "home_team": "Keyworth United F.C. U15 Predators",
+      "away_team": "Burton Joyce F.C. Girls U15 Green",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Burton Joyce F.C. Girls U15 Green",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U15 Predators",
+      "goals_for": 4,
+      "goals_against": 3
+    },
     {
       "id": "2250f211b95872903ad9bda42c24de0d",
       "date": "2026-05-03",

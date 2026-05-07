@@ -1,7 +1,7 @@
 {
   "team": "Allenton United FC U15 Ladies Bees",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-06T08:05:03Z",
+  "generated": "2026-05-07T08:13:03Z",
   "fixtures": [
     {
       "id": "7686ef4cff72e42f879554dd7dd68096",
@@ -13,17 +13,6 @@
       "division": "U15 Div 2",
       "home_away": "away",
       "opponent": "Willow Wanderers F.C. Youth U15 Amazons"
-    },
-    {
-      "id": "b2a239786e8d84ab87b70a956f69e5e4",
-      "date": "2026-05-06",
-      "time": "18:00",
-      "home_team": "Allenton United FC U15 Ladies Bees",
-      "away_team": "Tansley Juniors U15 Girls",
-      "venue": "Allenton United FC U15 Ladies Bees",
-      "division": "U15 Div 2",
-      "home_away": "home",
-      "opponent": "Tansley Juniors U15 Girls"
     },
     {
       "id": "7bf979affcb0da46c3eeaf5a57dcb8be",
@@ -82,6 +71,21 @@
     }
   ],
   "results": [
+    {
+      "id": "b2a239786e8d84ab87b70a956f69e5e4",
+      "date": "2026-05-06",
+      "time": "18:00",
+      "home_team": "Allenton United FC U15 Ladies Bees",
+      "away_team": "Tansley Juniors U15 Girls",
+      "home_score": 1,
+      "away_score": 13,
+      "venue": "",
+      "division": "U15 Div 2",
+      "home_away": "home",
+      "opponent": "Tansley Juniors U15 Girls",
+      "goals_for": 1,
+      "goals_against": 13
+    },
     {
       "id": "2bf976c156efff8895b856ca84998626",
       "date": "2026-05-03",

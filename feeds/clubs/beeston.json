@@ -1,20 +1,7 @@
 {
   "club": "Beeston",
-  "generated": "2026-05-06T08:05:03Z",
+  "generated": "2026-05-07T08:13:03Z",
   "fixtures": [
-    {
-      "id": "2056e9e550d574e5b60a9fb7182211a8",
-      "date": "2026-05-06",
-      "time": "18:00",
-      "home_team": "Beeston F.C. U15 Girls Sun",
-      "away_team": "Holy Spirit Celtic FC U15",
-      "venue": "TRENT VALE SPORTS ASSOCIATION",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Beeston F.C. U15 Girls Sun",
-      "home_away": "home",
-      "opponent": "Holy Spirit Celtic FC U15"
-    },
     {
       "id": "91d26b227d70777951301734445e75fa",
       "date": "2026-05-10",
@@ -121,6 +108,23 @@
     }
   ],
   "results": [
+    {
+      "id": "2056e9e550d574e5b60a9fb7182211a8",
+      "date": "2026-05-06",
+      "time": "18:00",
+      "home_team": "Beeston F.C. U15 Girls Sun",
+      "away_team": "Holy Spirit Celtic FC U15",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Beeston F.C. U15 Girls Sun",
+      "home_away": "home",
+      "opponent": "Holy Spirit Celtic FC U15",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "269a7122ab1837765a02b1b26145680c",
       "date": "2026-05-03",
