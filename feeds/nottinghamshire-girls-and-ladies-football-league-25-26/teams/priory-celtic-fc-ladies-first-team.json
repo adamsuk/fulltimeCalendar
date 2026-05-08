@@ -1,19 +1,8 @@
 {
   "team": "Priory Celtic FC Ladies First Team",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-07T08:13:03Z",
+  "generated": "2026-05-08T07:14:26Z",
   "fixtures": [
-    {
-      "id": "150ff0d733b4062cacc2409bae93935a",
-      "date": "2026-05-07",
-      "time": "18:30",
-      "home_team": "Priory Celtic FC Ladies First Team",
-      "away_team": "Arnold Town FC Women",
-      "venue": "DIGBY STREET PITCH",
-      "division": "Seniors Div 2",
-      "home_away": "home",
-      "opponent": "Arnold Town FC Women"
-    },
     {
       "id": "81551561090c137036f826675e0c100b",
       "date": "2026-05-10",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "150ff0d733b4062cacc2409bae93935a",
+      "date": "2026-05-07",
+      "time": "18:30",
+      "home_team": "Priory Celtic FC Ladies First Team",
+      "away_team": "Arnold Town FC Women",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "home_away": "home",
+      "opponent": "Arnold Town FC Women",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "080b03d31c6231faa7f75de36f088362",
       "date": "2026-04-26",

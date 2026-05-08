@@ -1,22 +1,39 @@
 {
   "club": "Attenborough",
-  "generated": "2026-05-07T08:13:03Z",
+  "generated": "2026-05-08T07:14:26Z",
   "fixtures": [
+    {
+      "id": "4eef89ded2f0b44607bf471c48cdcf18",
+      "date": "2026-05-17",
+      "time": "16:00",
+      "home_team": "Attenborough Colts Yellow U14",
+      "away_team": "Heanor Town Sambas U14",
+      "venue": "Ilkeston Town FC DE7 8JF",
+      "division": "U14 Sun YEL Trophy",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Attenborough Colts Yellow U14",
+      "home_away": "home",
+      "opponent": "Heanor Town Sambas U14"
+    }
+  ],
+  "results": [
     {
       "id": "7a6e077d99a9f051049f572fec1920d4",
       "date": "2026-05-07",
       "time": "18:30",
       "home_team": "Phoenix Athletic FC",
       "away_team": "Attenborough FC",
-      "venue": "GRESHAM SPORTS PARK #1",
+      "home_score": 0,
+      "away_score": 8,
+      "venue": "",
       "division": "NSL Division Three",
       "league": "Euro Soccer Nottinghamshire Senior League 25/26",
       "team": "Attenborough FC",
       "home_away": "away",
-      "opponent": "Phoenix Athletic FC"
-    }
-  ],
-  "results": [
+      "opponent": "Phoenix Athletic FC",
+      "goals_for": 8,
+      "goals_against": 0
+    },
     {
       "id": "9af5f3635013b2fe825cfca069a4ea80",
       "date": "2026-05-06",
