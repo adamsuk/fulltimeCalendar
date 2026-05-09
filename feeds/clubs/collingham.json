@@ -1,6 +1,6 @@
 {
   "club": "Collingham",
-  "generated": "2026-05-08T07:14:26Z",
+  "generated": "2026-05-09T07:31:48Z",
   "fixtures": [
     {
       "id": "b75c66b619f0af4ed7f1a3b2f1f61f5a",
@@ -66,19 +66,6 @@
       "team": "Collingham FC Development",
       "home_away": "home",
       "opponent": "West Bridgford Development"
-    },
-    {
-      "id": "8ede9cb2d4daf7664dfffb2fe50c98ee",
-      "date": "2026-05-08",
-      "time": "19:45",
-      "home_team": "Calverton Miners Welfare FC",
-      "away_team": "Collingham Reserves",
-      "venue": "STAG RECREATION GROUND",
-      "division": "NSL Intermediate Cup",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Collingham Reserves",
-      "home_away": "away",
-      "opponent": "Calverton Miners Welfare FC"
     },
     {
       "id": "efb889fe04225625ce42fbdc8da079db",
@@ -147,6 +134,23 @@
     }
   ],
   "results": [
+    {
+      "id": "8ede9cb2d4daf7664dfffb2fe50c98ee",
+      "date": "2026-05-08",
+      "time": "19:45",
+      "home_team": "Calverton Miners Welfare FC",
+      "away_team": "Collingham Reserves",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "NSL Intermediate Cup",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Collingham Reserves",
+      "home_away": "away",
+      "opponent": "Calverton Miners Welfare FC",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "3b98b7a418d75af24374a6b8cc8b04c3",
       "date": "2026-05-02",

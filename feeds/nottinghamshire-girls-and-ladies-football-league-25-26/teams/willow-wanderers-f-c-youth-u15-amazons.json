@@ -1,19 +1,8 @@
 {
   "team": "Willow Wanderers F.C. Youth U15 Amazons",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-08T07:14:26Z",
+  "generated": "2026-05-09T07:31:48Z",
   "fixtures": [
-    {
-      "id": "7686ef4cff72e42f879554dd7dd68096",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "home_team": "Willow Wanderers F.C. Youth U15 Amazons",
-      "away_team": "Allenton United FC U15 Ladies Bees",
-      "venue": "CARLTON-LE-WILLOWS ACADEMY",
-      "division": "U15 Div 2",
-      "home_away": "home",
-      "opponent": "Allenton United FC U15 Ladies Bees"
-    },
     {
       "id": "29b55b8392837609238824e4d9be6cb6",
       "date": "2026-05-10",
@@ -60,6 +49,21 @@
       "venue": "",
       "division": "U15 Div 2",
       "home_away": "away",
+      "opponent": "Allenton United FC U15 Ladies Bees",
+      "goals_for": 1,
+      "goals_against": 0
+    },
+    {
+      "id": "7686ef4cff72e42f879554dd7dd68096",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "home_team": "Willow Wanderers F.C. Youth U15 Amazons",
+      "away_team": "Allenton United FC U15 Ladies Bees",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U15 Div 2",
+      "home_away": "home",
       "opponent": "Allenton United FC U15 Ladies Bees",
       "goals_for": 1,
       "goals_against": 0
