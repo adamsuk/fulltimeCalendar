@@ -1,20 +1,7 @@
 {
   "club": "Newark Town",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
-    {
-      "id": "20265529930af737a319efba901efa5a",
-      "date": "2026-05-09",
-      "time": "10:30",
-      "home_team": "Radcliffe Olympic FC U23",
-      "away_team": "Newark Town FC U23's",
-      "venue": "Bingham Road Playing Fields",
-      "division": "Development Spring Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Newark Town FC U23's",
-      "home_away": "away",
-      "opponent": "Radcliffe Olympic FC U23"
-    },
     {
       "id": "7a606f82eae995193b96b843499ba6d6",
       "date": "2026-05-10",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "20265529930af737a319efba901efa5a",
+      "date": "2026-05-09",
+      "time": "10:30",
+      "home_team": "Radcliffe Olympic FC U23",
+      "away_team": "Newark Town FC U23's",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Newark Town FC U23's",
+      "home_away": "away",
+      "opponent": "Radcliffe Olympic FC U23",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "6c125b308381a340a2177f8853d61468",
       "date": "2026-05-03",

@@ -1,20 +1,7 @@
 {
   "club": "Meden Vale",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
-    {
-      "id": "d49e62a09a9d0f55af4ef36f052cf351",
-      "date": "2026-05-09",
-      "time": "10:00",
-      "home_team": "AJ Sport FC U14",
-      "away_team": "Meden Vale Colts Red U14",
-      "venue": "Beeston Fields Recreation Ground NG9 2QT",
-      "division": "U14 Sat YEL Trophy (Revised)",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Meden Vale Colts Red U14",
-      "home_away": "away",
-      "opponent": "AJ Sport FC U14"
-    },
     {
       "id": "bb248e49164f0e060e0ed13ef0c422ad",
       "date": "2026-05-10",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "d49e62a09a9d0f55af4ef36f052cf351",
+      "date": "2026-05-09",
+      "time": "10:00",
+      "home_team": "AJ Sport FC U14",
+      "away_team": "Meden Vale Colts Red U14",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sat YEL Trophy (Revised)",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Meden Vale Colts Red U14",
+      "home_away": "away",
+      "opponent": "AJ Sport FC U14",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "963e7905c1e5b147abc2ce60d13394f5",
       "date": "2026-05-03",

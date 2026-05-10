@@ -1,20 +1,7 @@
 {
   "club": "Underwood Villa",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
-    {
-      "id": "1426a3ac9ce9115845145732851e332d",
-      "date": "2026-05-09",
-      "time": "12:00",
-      "home_team": "Underwood Villa Tigres U9",
-      "away_team": "Inspire Nottingham U9",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U9 Sat YEL Trophy",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Underwood Villa Tigres U9",
-      "home_away": "home",
-      "opponent": "Inspire Nottingham U9"
-    },
     {
       "id": "6994147c370aa296be2f4af9859717f1",
       "date": "2026-05-10",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "1426a3ac9ce9115845145732851e332d",
+      "date": "2026-05-09",
+      "time": "12:00",
+      "home_team": "Underwood Villa Tigres U9",
+      "away_team": "Inspire Nottingham U9",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat YEL Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Underwood Villa Tigres U9",
+      "home_away": "home",
+      "opponent": "Inspire Nottingham U9",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "fd34a9555ec4fba79a003bee57810559",
       "date": "2026-05-03",

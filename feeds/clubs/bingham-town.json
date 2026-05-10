@@ -1,59 +1,7 @@
 {
   "club": "Bingham Town",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
-    {
-      "id": "4e267fa8a6d985108f3f5dc48b9936c8",
-      "date": "2026-05-02",
-      "time": "10:30",
-      "home_team": "Beaufort United F.C. Development",
-      "away_team": "Bingham Town F.C. Development",
-      "venue": "Unwin Road",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Bingham Town F.C. Development",
-      "home_away": "away",
-      "opponent": "Beaufort United F.C. Development"
-    },
-    {
-      "id": "d9789175c200df9d7e0ac165485d2393",
-      "date": "2026-05-02",
-      "time": "11:40",
-      "home_team": "Bingham Town F.C. Development",
-      "away_team": "Beaufort United F.C. Development",
-      "venue": "Unwin Road",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Bingham Town F.C. Development",
-      "home_away": "home",
-      "opponent": "Beaufort United F.C. Development"
-    },
-    {
-      "id": "f3a371bc43272c76248fc09cb6c12e7f",
-      "date": "2026-05-05",
-      "time": "19:00",
-      "home_team": "Bagthorpe Athletic F.C. Youth U14 girls",
-      "away_team": "Bingham Town F.C. U14 Girls Red",
-      "venue": "BUTT FIELD SPORTS CLUB",
-      "division": "U14 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Bingham Town F.C. U14 Girls Red",
-      "home_away": "away",
-      "opponent": "Bagthorpe Athletic F.C. Youth U14 girls"
-    },
-    {
-      "id": "efb889fe04225625ce42fbdc8da079db",
-      "date": "2026-05-09",
-      "time": "10:30",
-      "home_team": "Collingham FC Development",
-      "away_team": "Bingham Town F.C. Development",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Bingham Town F.C. Development",
-      "home_away": "away",
-      "opponent": "Collingham FC Development"
-    },
     {
       "id": "7b51107b1803216f1ddb48af5b5a589b",
       "date": "2026-05-10",
@@ -186,6 +134,40 @@
     }
   ],
   "results": [
+    {
+      "id": "efb889fe04225625ce42fbdc8da079db",
+      "date": "2026-05-09",
+      "time": "10:30",
+      "home_team": "Collingham FC Development",
+      "away_team": "Bingham Town F.C. Development",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Bingham Town F.C. Development",
+      "home_away": "away",
+      "opponent": "Collingham FC Development",
+      "goals_for": 5,
+      "goals_against": 0
+    },
+    {
+      "id": "f3a371bc43272c76248fc09cb6c12e7f",
+      "date": "2026-05-05",
+      "time": "19:00",
+      "home_team": "Bagthorpe Athletic F.C. Youth U14 girls",
+      "away_team": "Bingham Town F.C. U14 Girls Red",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Bingham Town F.C. U14 Girls Red",
+      "home_away": "away",
+      "opponent": "Bagthorpe Athletic F.C. Youth U14 girls",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "ace9a95c0c2040b9cc833f14054c6955",
       "date": "2026-05-05",

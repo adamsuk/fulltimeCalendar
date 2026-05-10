@@ -1,7 +1,7 @@
 {
   "team": "Demo FC",
   "league": "Demo FC",
-  "generated": "2026-05-09T07:32:44Z",
+  "generated": "2026-05-10T07:56:42Z",
   "fixtures": [
     {
       "id": "31da08e1e03a55c4bcf8e381ef37a51e",
@@ -50,49 +50,49 @@
   ],
   "results": [
     {
-      "id": "cb0cb928bb61ef7e0aa472dd23ab5237",
-      "date": "2026-05-02",
+      "id": "2393ac3bfd1a41a77f7d88bcf5bc2923",
+      "date": "2026-05-09",
       "time": "15:00",
       "home_team": "Millfield City",
       "away_team": "Demo FC",
       "home_score": 5,
-      "away_score": 0,
+      "away_score": 3,
       "venue": "",
       "division": "Senior Men's League",
       "home_away": "away",
       "opponent": "Millfield City",
-      "goals_for": 0,
+      "goals_for": 3,
       "goals_against": 5
     },
     {
-      "id": "e6db99fc58b867400551a10e31ee278f",
-      "date": "2026-04-25",
+      "id": "96d6ea10619c16e9b67b33c5553628bc",
+      "date": "2026-05-02",
       "time": "15:00",
       "home_team": "Demo FC",
       "away_team": "Southbrook FC",
-      "home_score": 2,
-      "away_score": 3,
+      "home_score": 0,
+      "away_score": 4,
       "venue": "Demo FC Ground",
       "division": "Senior Men's League",
       "home_away": "home",
       "opponent": "Southbrook FC",
-      "goals_for": 2,
-      "goals_against": 3
+      "goals_for": 0,
+      "goals_against": 4
     },
     {
-      "id": "e28d14bc1d43cd2643f4a6339ebb80f2",
-      "date": "2026-04-18",
+      "id": "198bdfd22e810b4451327ef8af3eada2",
+      "date": "2026-04-25",
       "time": "15:00",
       "home_team": "Riverside Town",
       "away_team": "Demo FC",
-      "home_score": 4,
-      "away_score": 3,
+      "home_score": 1,
+      "away_score": 1,
       "venue": "",
       "division": "Senior Men's League",
       "home_away": "away",
       "opponent": "Riverside Town",
-      "goals_for": 3,
-      "goals_against": 4
+      "goals_for": 1,
+      "goals_against": 1
     }
   ]
 }

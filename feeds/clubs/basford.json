@@ -1,20 +1,7 @@
 {
   "club": "Basford",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
-    {
-      "id": "3c82af7d97f6cbf223c38c45e6341980",
-      "date": "2026-05-09",
-      "time": "10:00",
-      "home_team": "Basford United Ambers U14",
-      "away_team": "Marlborough Rovers U14",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U14 Sat YEL Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Basford United Ambers U14",
-      "home_away": "home",
-      "opponent": "Marlborough Rovers U14"
-    },
     {
       "id": "f644d11450c188682c8e804a1dfaf09f",
       "date": "2026-05-10",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "3c82af7d97f6cbf223c38c45e6341980",
+      "date": "2026-05-09",
+      "time": "10:00",
+      "home_team": "Basford United Ambers U14",
+      "away_team": "Marlborough Rovers U14",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Sat YEL Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Basford United Ambers U14",
+      "home_away": "home",
+      "opponent": "Marlborough Rovers U14",
+      "goals_for": 0,
+      "goals_against": 1
+    },
     {
       "id": "9c8da2dc4f134d1765c2746da41e2d14",
       "date": "2026-04-26",

@@ -1,20 +1,7 @@
 {
   "club": "Newark Brazil",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
-    {
-      "id": "d407e335fda5c2126b10bb06de2ab9a7",
-      "date": "2026-05-09",
-      "time": "15:00",
-      "home_team": "Hucknall Town Warriors U10",
-      "away_team": "Newark Brazil Corinthians U10",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U10 Sat YEL Challenge Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Newark Brazil Corinthians U10",
-      "home_away": "away",
-      "opponent": "Hucknall Town Warriors U10"
-    },
     {
       "id": "369c279ec4e070c32c3610e1f1743df1",
       "date": "2026-05-12",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "d407e335fda5c2126b10bb06de2ab9a7",
+      "date": "2026-05-09",
+      "time": "15:00",
+      "home_team": "Hucknall Town Warriors U10",
+      "away_team": "Newark Brazil Corinthians U10",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U10 Sat YEL Challenge Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Newark Brazil Corinthians U10",
+      "home_away": "away",
+      "opponent": "Hucknall Town Warriors U10",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "4814515fad8ac79ae467fbb9806f321b",
       "date": "2026-04-28",

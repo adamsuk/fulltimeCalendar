@@ -1,33 +1,7 @@
 {
   "club": "Muskham",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
-    {
-      "id": "bc88f433be4dc8640aecbe97367ac291",
-      "date": "2026-05-09",
-      "time": "10:00",
-      "home_team": "G3A FC Zenit U13",
-      "away_team": "Muskham Cougars U13",
-      "venue": "Ilkeston Town FC DE7 8JF",
-      "division": "U13 Sat YEL Foundation Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Muskham Cougars U13",
-      "home_away": "away",
-      "opponent": "G3A FC Zenit U13"
-    },
-    {
-      "id": "a7d58e6dc3f7bdc9fbfd912c5684b772",
-      "date": "2026-05-09",
-      "time": "11:45",
-      "home_team": "Muskham Cougars U9",
-      "away_team": "Mapperley All Stars Yellow U9",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U9 Sat YEL Inter Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Muskham Cougars U9",
-      "home_away": "home",
-      "opponent": "Mapperley All Stars Yellow U9"
-    },
     {
       "id": "d9ae4598fc71bb7ae5ceb9cc269e85fc",
       "date": "2026-05-31",
@@ -43,6 +17,40 @@
     }
   ],
   "results": [
+    {
+      "id": "a7d58e6dc3f7bdc9fbfd912c5684b772",
+      "date": "2026-05-09",
+      "time": "11:45",
+      "home_team": "Muskham Cougars U9",
+      "away_team": "Mapperley All Stars Yellow U9",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat YEL Inter Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Muskham Cougars U9",
+      "home_away": "home",
+      "opponent": "Mapperley All Stars Yellow U9",
+      "goals_for": 5,
+      "goals_against": 1
+    },
+    {
+      "id": "bc88f433be4dc8640aecbe97367ac291",
+      "date": "2026-05-09",
+      "time": "10:00",
+      "home_team": "G3A FC Zenit U13",
+      "away_team": "Muskham Cougars U13",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat YEL Foundation Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Muskham Cougars U13",
+      "home_away": "away",
+      "opponent": "G3A FC Zenit U13",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "1fe3504fa29520bdc1da710f232d886f",
       "date": "2026-04-26",

@@ -1,6 +1,6 @@
 {
   "club": "Marlborough Rovers",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
     {
       "id": "064e88a589114521b1b88f62e040f62d",
@@ -16,20 +16,37 @@
       "opponent": "Heanor Juniors Badgers U14"
     },
     {
+      "id": "e46e1173e817ae3334e17f9d28f08584",
+      "date": "2026-05-16",
+      "time": "09:30",
+      "home_team": "Marlborough Rovers U14",
+      "away_team": "Ilkeston Town White Star U14",
+      "venue": "Ilkeston Town FC DE7 8JF",
+      "division": "U14 Sat YEL Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Marlborough Rovers U14",
+      "home_away": "home",
+      "opponent": "Ilkeston Town White Star U14"
+    }
+  ],
+  "results": [
+    {
       "id": "3c82af7d97f6cbf223c38c45e6341980",
       "date": "2026-05-09",
       "time": "10:00",
       "home_team": "Basford United Ambers U14",
       "away_team": "Marlborough Rovers U14",
-      "venue": "Greenwich Avenue NG6 0LD",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
       "division": "U14 Sat YEL Cup",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "Marlborough Rovers U14",
       "home_away": "away",
-      "opponent": "Basford United Ambers U14"
-    }
-  ],
-  "results": [
+      "opponent": "Basford United Ambers U14",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "59b864a73d2f9c88616645721a700a9f",
       "date": "2026-04-25",

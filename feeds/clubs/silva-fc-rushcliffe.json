@@ -1,20 +1,7 @@
 {
   "club": "Silva FC Rushcliffe",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
-    {
-      "id": "b0563993fba3527b7f7260583ff3d464",
-      "date": "2026-05-09",
-      "time": "14:00",
-      "home_team": "Silva FC Rushcliffe Reds U13",
-      "away_team": "Silva FC Rushcliffe Gold U13",
-      "venue": "Ilkeston Town FC DE7 8JF",
-      "division": "U13 Sat YEL Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Silva FC Rushcliffe Gold U13",
-      "home_away": "away",
-      "opponent": "Silva FC Rushcliffe Reds U13"
-    },
     {
       "id": "8e48437ad9d770e60573bf8ea2dcb569",
       "date": "2026-05-17",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "b0563993fba3527b7f7260583ff3d464",
+      "date": "2026-05-09",
+      "time": "14:00",
+      "home_team": "Silva FC Rushcliffe Reds U13",
+      "away_team": "Silva FC Rushcliffe Gold U13",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat YEL Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Silva FC Rushcliffe Gold U13",
+      "home_away": "away",
+      "opponent": "Silva FC Rushcliffe Reds U13",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "9222b441c10f3c8547c80b055823b02b",
       "date": "2026-04-28",

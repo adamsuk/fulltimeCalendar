@@ -1,19 +1,8 @@
 {
   "team": "Collingham FC Development",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
-    {
-      "id": "b75c66b619f0af4ed7f1a3b2f1f61f5a",
-      "date": "2026-04-23",
-      "time": "19:45",
-      "home_team": "Collingham FC Development",
-      "away_team": "Quorn FC Methodists",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "Development Spring Division One",
-      "home_away": "home",
-      "opponent": "Quorn FC Methodists"
-    },
     {
       "id": "88005a260ef3d6ee5e7588f924ee26d7",
       "date": "2026-05-02",
@@ -48,17 +37,6 @@
       "opponent": "West Bridgford Development"
     },
     {
-      "id": "efb889fe04225625ce42fbdc8da079db",
-      "date": "2026-05-09",
-      "time": "10:30",
-      "home_team": "Collingham FC Development",
-      "away_team": "Bingham Town F.C. Development",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "Development Spring Division One",
-      "home_away": "home",
-      "opponent": "Bingham Town F.C. Development"
-    },
-    {
       "id": "ced5933ac660e66163d032b2fe7e37a5",
       "date": "2026-05-12",
       "time": "19:45",
@@ -82,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "efb889fe04225625ce42fbdc8da079db",
+      "date": "2026-05-09",
+      "time": "10:30",
+      "home_team": "Collingham FC Development",
+      "away_team": "Bingham Town F.C. Development",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "home_away": "home",
+      "opponent": "Bingham Town F.C. Development",
+      "goals_for": 0,
+      "goals_against": 5
+    },
     {
       "id": "d63d73c24b3f0311b9ee614e079241de",
       "date": "2026-04-25",

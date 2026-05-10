@@ -1,20 +1,7 @@
 {
   "club": "G3A FC",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
-    {
-      "id": "bc88f433be4dc8640aecbe97367ac291",
-      "date": "2026-05-09",
-      "time": "10:00",
-      "home_team": "G3A FC Zenit U13",
-      "away_team": "Muskham Cougars U13",
-      "venue": "Ilkeston Town FC DE7 8JF",
-      "division": "U13 Sat YEL Foundation Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "G3A FC Zenit U13",
-      "home_away": "home",
-      "opponent": "Muskham Cougars U13"
-    },
     {
       "id": "8f6f8c9e2721e4593b20e9c9c9b33320",
       "date": "2026-05-17",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "bc88f433be4dc8640aecbe97367ac291",
+      "date": "2026-05-09",
+      "time": "10:00",
+      "home_team": "G3A FC Zenit U13",
+      "away_team": "Muskham Cougars U13",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Sat YEL Foundation Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "G3A FC Zenit U13",
+      "home_away": "home",
+      "opponent": "Muskham Cougars U13",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "ba5070a3bae32d8841fc1c75195e36b5",
       "date": "2026-04-29",

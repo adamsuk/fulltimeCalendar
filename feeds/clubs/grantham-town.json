@@ -1,20 +1,7 @@
 {
   "club": "Grantham Town",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
-    {
-      "id": "3cb9d996f8aca30625a03d92c128ad43",
-      "date": "2026-05-09",
-      "time": "13:30",
-      "home_team": "Cotgrave FC Blue U9",
-      "away_team": "Grantham Town White U9",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U9 Sat YEL Inter Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Grantham Town White U9",
-      "home_away": "away",
-      "opponent": "Cotgrave FC Blue U9"
-    },
     {
       "id": "ecaf0cea45ebaf5ecf6386b3f32dae79",
       "date": "2026-05-13",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "3cb9d996f8aca30625a03d92c128ad43",
+      "date": "2026-05-09",
+      "time": "13:30",
+      "home_team": "Cotgrave FC Blue U9",
+      "away_team": "Grantham Town White U9",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat YEL Inter Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Grantham Town White U9",
+      "home_away": "away",
+      "opponent": "Cotgrave FC Blue U9",
+      "goals_for": 3,
+      "goals_against": 5
+    },
     {
       "id": "9222b441c10f3c8547c80b055823b02b",
       "date": "2026-04-28",

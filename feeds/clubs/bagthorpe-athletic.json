@@ -1,20 +1,7 @@
 {
   "club": "Bagthorpe Athletic",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
-    {
-      "id": "f3a371bc43272c76248fc09cb6c12e7f",
-      "date": "2026-05-05",
-      "time": "19:00",
-      "home_team": "Bagthorpe Athletic F.C. Youth U14 girls",
-      "away_team": "Bingham Town F.C. U14 Girls Red",
-      "venue": "BUTT FIELD SPORTS CLUB",
-      "division": "U14 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Bagthorpe Athletic F.C. Youth U14 girls",
-      "home_away": "home",
-      "opponent": "Bingham Town F.C. U14 Girls Red"
-    },
     {
       "id": "2d29cba0efad200fe2fea1d03b8fd17c",
       "date": "2026-05-10",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "f3a371bc43272c76248fc09cb6c12e7f",
+      "date": "2026-05-05",
+      "time": "19:00",
+      "home_team": "Bagthorpe Athletic F.C. Youth U14 girls",
+      "away_team": "Bingham Town F.C. U14 Girls Red",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Bagthorpe Athletic F.C. Youth U14 girls",
+      "home_away": "home",
+      "opponent": "Bingham Town F.C. U14 Girls Red",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "969af33c5953ee286ec4f98460389df7",
       "date": "2026-04-30",

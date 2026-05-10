@@ -1,33 +1,7 @@
 {
   "club": "Keyworth",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
-    {
-      "id": "48432f99aa9c730ba14d82ef646e4999",
-      "date": "2026-05-09",
-      "time": "10:15",
-      "home_team": "NG United U10",
-      "away_team": "Keyworth United Red U10",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U10 Sat YEL Challenge Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Keyworth United Red U10",
-      "home_away": "away",
-      "opponent": "NG United U10"
-    },
-    {
-      "id": "0c9270a3ecc7e6b3b09349f6d3fe707a",
-      "date": "2026-05-09",
-      "time": "13:45",
-      "home_team": "Star Strike Tigers U9",
-      "away_team": "Keyworth United White U9",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U9 Sat YEL Foundation",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Keyworth United White U9",
-      "home_away": "away",
-      "opponent": "Star Strike Tigers U9"
-    },
     {
       "id": "5cc20ae37068f34ac5a57fbe883c7cc2",
       "date": "2026-05-10",
@@ -238,6 +212,40 @@
     }
   ],
   "results": [
+    {
+      "id": "0c9270a3ecc7e6b3b09349f6d3fe707a",
+      "date": "2026-05-09",
+      "time": "13:45",
+      "home_team": "Star Strike Tigers U9",
+      "away_team": "Keyworth United White U9",
+      "home_score": null,
+      "away_score": null,
+      "venue": "",
+      "division": "U9 Sat YEL Foundation",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Keyworth United White U9",
+      "home_away": "away",
+      "opponent": "Star Strike Tigers U9",
+      "goals_for": null,
+      "goals_against": null
+    },
+    {
+      "id": "48432f99aa9c730ba14d82ef646e4999",
+      "date": "2026-05-09",
+      "time": "10:15",
+      "home_team": "NG United U10",
+      "away_team": "Keyworth United Red U10",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat YEL Challenge Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Keyworth United Red U10",
+      "home_away": "away",
+      "opponent": "NG United U10",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "58083cebb05268011d7fa9fe25456112",
       "date": "2026-05-06",

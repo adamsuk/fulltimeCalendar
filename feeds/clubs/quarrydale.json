@@ -1,20 +1,7 @@
 {
   "club": "Quarrydale",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
-    {
-      "id": "739ec9a339876fb1d50dcf3d53893d6c",
-      "date": "2026-05-09",
-      "time": "15:00",
-      "home_team": "Hucknall Sports White U9",
-      "away_team": "Quarrydale United U9",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U9 Sat YEL Challenge Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Quarrydale United U9",
-      "home_away": "away",
-      "opponent": "Hucknall Sports White U9"
-    },
     {
       "id": "44a3ae02a08204c996d4a632c38231d4",
       "date": "2026-05-10",
@@ -40,6 +27,19 @@
       "team": "Quarrydale United Rangers U9",
       "home_away": "away",
       "opponent": "Sherwood FC Arrows U9"
+    },
+    {
+      "id": "afa28634caace991d680728988aa23ca",
+      "date": "2026-05-16",
+      "time": "11:15",
+      "home_team": "AJ Sport FC U14",
+      "away_team": "Quarrydale United Yellow U14",
+      "venue": "Ilkeston Town FC DE7 8JF",
+      "division": "U14 Sat YEL Trophy (Revised)",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United Yellow U14",
+      "home_away": "away",
+      "opponent": "AJ Sport FC U14"
     },
     {
       "id": "52a9a5fab44064a4de91e3924cbe681d",
@@ -69,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "739ec9a339876fb1d50dcf3d53893d6c",
+      "date": "2026-05-09",
+      "time": "15:00",
+      "home_team": "Hucknall Sports White U9",
+      "away_team": "Quarrydale United U9",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat YEL Challenge Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United U9",
+      "home_away": "away",
+      "opponent": "Hucknall Sports White U9",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "845a17383c437ef1668cf6552dd8acba",
       "date": "2026-05-07",

@@ -1,6 +1,6 @@
 {
   "club": "Cotgrave",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
     {
       "id": "79d6475167647c45466880f59e64b50d",
@@ -40,32 +40,6 @@
       "team": "Cotgrave Development",
       "home_away": "home",
       "opponent": "Collingham FC Development"
-    },
-    {
-      "id": "3cb9d996f8aca30625a03d92c128ad43",
-      "date": "2026-05-09",
-      "time": "13:30",
-      "home_team": "Cotgrave FC Blue U9",
-      "away_team": "Grantham Town White U9",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U9 Sat YEL Inter Gold",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Cotgrave FC Blue U9",
-      "home_away": "home",
-      "opponent": "Grantham Town White U9"
-    },
-    {
-      "id": "6af3f1c50f73b803e65d264718bfcc6e",
-      "date": "2026-05-09",
-      "time": "15:00",
-      "home_team": "Awsworth Villa FC",
-      "away_team": "Cotgrave FC",
-      "venue": "HUCKNALL TOWN FOOTBALL CLUB",
-      "division": "NSL Senior Cup",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Cotgrave FC",
-      "home_away": "away",
-      "opponent": "Awsworth Villa FC"
     },
     {
       "id": "96adf9cc029d91c948b808b7633e4b93",
@@ -108,6 +82,40 @@
     }
   ],
   "results": [
+    {
+      "id": "6af3f1c50f73b803e65d264718bfcc6e",
+      "date": "2026-05-09",
+      "time": "15:00",
+      "home_team": "Awsworth Villa FC",
+      "away_team": "Cotgrave FC",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "NSL Senior Cup",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Cotgrave FC",
+      "home_away": "away",
+      "opponent": "Awsworth Villa FC",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
+      "id": "3cb9d996f8aca30625a03d92c128ad43",
+      "date": "2026-05-09",
+      "time": "13:30",
+      "home_team": "Cotgrave FC Blue U9",
+      "away_team": "Grantham Town White U9",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat YEL Inter Gold",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Cotgrave FC Blue U9",
+      "home_away": "home",
+      "opponent": "Grantham Town White U9",
+      "goals_for": 5,
+      "goals_against": 3
+    },
     {
       "id": "8b6c40f7719fe8726e367a114b4ead23",
       "date": "2026-05-03",

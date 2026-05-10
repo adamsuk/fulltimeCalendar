@@ -1,20 +1,7 @@
 {
   "club": "Collingham",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
-    {
-      "id": "b75c66b619f0af4ed7f1a3b2f1f61f5a",
-      "date": "2026-04-23",
-      "time": "19:45",
-      "home_team": "Collingham FC Development",
-      "away_team": "Quorn FC Methodists",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Collingham FC Development",
-      "home_away": "home",
-      "opponent": "Quorn FC Methodists"
-    },
     {
       "id": "c9d09575c2f7069286a704c010f9d19a",
       "date": "2026-04-30",
@@ -68,32 +55,6 @@
       "opponent": "West Bridgford Development"
     },
     {
-      "id": "efb889fe04225625ce42fbdc8da079db",
-      "date": "2026-05-09",
-      "time": "10:30",
-      "home_team": "Collingham FC Development",
-      "away_team": "Bingham Town F.C. Development",
-      "venue": "COLLINGHAM FOOTBALL CLUB",
-      "division": "Development Spring Division One",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Collingham FC Development",
-      "home_away": "home",
-      "opponent": "Bingham Town F.C. Development"
-    },
-    {
-      "id": "93acb25dfe6b1741c362d5c04e1881ce",
-      "date": "2026-05-09",
-      "time": "15:15",
-      "home_team": "Collingham FC Cougars U9",
-      "away_team": "AJ Sport Red U9",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U9 Sat YEL Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Collingham FC Cougars U9",
-      "home_away": "home",
-      "opponent": "AJ Sport Red U9"
-    },
-    {
       "id": "10263650195c4310f6a2b6cfbc7918b1",
       "date": "2026-05-10",
       "time": "11:45",
@@ -134,6 +95,40 @@
     }
   ],
   "results": [
+    {
+      "id": "93acb25dfe6b1741c362d5c04e1881ce",
+      "date": "2026-05-09",
+      "time": "15:15",
+      "home_team": "Collingham FC Cougars U9",
+      "away_team": "AJ Sport Red U9",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U9 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Collingham FC Cougars U9",
+      "home_away": "home",
+      "opponent": "AJ Sport Red U9",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "efb889fe04225625ce42fbdc8da079db",
+      "date": "2026-05-09",
+      "time": "10:30",
+      "home_team": "Collingham FC Development",
+      "away_team": "Bingham Town F.C. Development",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "Development Spring Division One",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Collingham FC Development",
+      "home_away": "home",
+      "opponent": "Bingham Town F.C. Development",
+      "goals_for": 0,
+      "goals_against": 5
+    },
     {
       "id": "8ede9cb2d4daf7664dfffb2fe50c98ee",
       "date": "2026-05-08",

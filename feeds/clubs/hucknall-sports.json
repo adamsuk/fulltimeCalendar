@@ -1,33 +1,7 @@
 {
   "club": "Hucknall Sports",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
-    {
-      "id": "5fdcfc41c393b8388baf7dd4c5d1de45",
-      "date": "2026-05-09",
-      "time": "11:45",
-      "home_team": "Hucknall Sports Black U10",
-      "away_team": "Sporting Markfield U10",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U10 Sat YEL Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Hucknall Sports Black U10",
-      "home_away": "home",
-      "opponent": "Sporting Markfield U10"
-    },
-    {
-      "id": "739ec9a339876fb1d50dcf3d53893d6c",
-      "date": "2026-05-09",
-      "time": "15:00",
-      "home_team": "Hucknall Sports White U9",
-      "away_team": "Quarrydale United U9",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U9 Sat YEL Challenge Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Hucknall Sports White U9",
-      "home_away": "home",
-      "opponent": "Quarrydale United U9"
-    },
     {
       "id": "ee191e2d7a817fa5ad7587923051fd27",
       "date": "2026-05-10",
@@ -56,6 +30,40 @@
     }
   ],
   "results": [
+    {
+      "id": "739ec9a339876fb1d50dcf3d53893d6c",
+      "date": "2026-05-09",
+      "time": "15:00",
+      "home_team": "Hucknall Sports White U9",
+      "away_team": "Quarrydale United U9",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "U9 Sat YEL Challenge Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hucknall Sports White U9",
+      "home_away": "home",
+      "opponent": "Quarrydale United U9",
+      "goals_for": 0,
+      "goals_against": 3
+    },
+    {
+      "id": "5fdcfc41c393b8388baf7dd4c5d1de45",
+      "date": "2026-05-09",
+      "time": "11:45",
+      "home_team": "Hucknall Sports Black U10",
+      "away_team": "Sporting Markfield U10",
+      "home_score": 0,
+      "away_score": 5,
+      "venue": "",
+      "division": "U10 Sat YEL Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Hucknall Sports Black U10",
+      "home_away": "home",
+      "opponent": "Sporting Markfield U10",
+      "goals_for": 0,
+      "goals_against": 5
+    },
     {
       "id": "a271bcd1051ffec968ad5f197e0d8667",
       "date": "2026-04-28",

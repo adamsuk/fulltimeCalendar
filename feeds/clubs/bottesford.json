@@ -1,20 +1,7 @@
 {
   "club": "Bottesford",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
-    {
-      "id": "611444bd4e9d9a18e1a5f3ca2eaacfd1",
-      "date": "2026-05-09",
-      "time": "12:00",
-      "home_team": "Fernwood Foxes Red U10",
-      "away_team": "Bottesford Blue U10",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U10 Sat YEL Foundation Silver",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Bottesford Blue U10",
-      "home_away": "away",
-      "opponent": "Fernwood Foxes Red U10"
-    },
     {
       "id": "64aea5629750cd5efc83190f346147ff",
       "date": "2026-05-10",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "611444bd4e9d9a18e1a5f3ca2eaacfd1",
+      "date": "2026-05-09",
+      "time": "12:00",
+      "home_team": "Fernwood Foxes Red U10",
+      "away_team": "Bottesford Blue U10",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "U10 Sat YEL Foundation Silver",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Bottesford Blue U10",
+      "home_away": "away",
+      "opponent": "Fernwood Foxes Red U10",
+      "goals_for": 4,
+      "goals_against": 1
+    },
     {
       "id": "9eefa7b1f5846a8be9117847a5012796",
       "date": "2026-05-03",

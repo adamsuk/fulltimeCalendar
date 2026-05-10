@@ -1,6 +1,6 @@
 {
   "club": "AJ Sport",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
     {
       "id": "6cf2b543cd315c5e29610b0673c1a237",
@@ -29,33 +29,54 @@
       "opponent": "Rolls Royce FC"
     },
     {
-      "id": "d49e62a09a9d0f55af4ef36f052cf351",
-      "date": "2026-05-09",
-      "time": "10:00",
+      "id": "afa28634caace991d680728988aa23ca",
+      "date": "2026-05-16",
+      "time": "11:15",
       "home_team": "AJ Sport FC U14",
-      "away_team": "Meden Vale Colts Red U14",
-      "venue": "Beeston Fields Recreation Ground NG9 2QT",
+      "away_team": "Quarrydale United Yellow U14",
+      "venue": "Ilkeston Town FC DE7 8JF",
       "division": "U14 Sat YEL Trophy (Revised)",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "AJ Sport FC U14",
       "home_away": "home",
-      "opponent": "Meden Vale Colts Red U14"
-    },
+      "opponent": "Quarrydale United Yellow U14"
+    }
+  ],
+  "results": [
     {
       "id": "93acb25dfe6b1741c362d5c04e1881ce",
       "date": "2026-05-09",
       "time": "15:15",
       "home_team": "Collingham FC Cougars U9",
       "away_team": "AJ Sport Red U9",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
       "division": "U9 Sat YEL Shield",
       "league": "YEL East Midlands Saturday 25/26",
       "team": "AJ Sport Red U9",
       "home_away": "away",
-      "opponent": "Collingham FC Cougars U9"
-    }
-  ],
-  "results": [
+      "opponent": "Collingham FC Cougars U9",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
+      "id": "d49e62a09a9d0f55af4ef36f052cf351",
+      "date": "2026-05-09",
+      "time": "10:00",
+      "home_team": "AJ Sport FC U14",
+      "away_team": "Meden Vale Colts Red U14",
+      "home_score": 4,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sat YEL Trophy (Revised)",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "AJ Sport FC U14",
+      "home_away": "home",
+      "opponent": "Meden Vale Colts Red U14",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "9da44c726799106062c73def1ee53b45",
       "date": "2026-05-02",

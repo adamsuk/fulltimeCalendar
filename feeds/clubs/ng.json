@@ -1,20 +1,7 @@
 {
   "club": "NG",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
-    {
-      "id": "48432f99aa9c730ba14d82ef646e4999",
-      "date": "2026-05-09",
-      "time": "10:15",
-      "home_team": "NG United U10",
-      "away_team": "Keyworth United Red U10",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U10 Sat YEL Challenge Blue",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "NG United U10",
-      "home_away": "home",
-      "opponent": "Keyworth United Red U10"
-    },
     {
       "id": "10263650195c4310f6a2b6cfbc7918b1",
       "date": "2026-05-10",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "48432f99aa9c730ba14d82ef646e4999",
+      "date": "2026-05-09",
+      "time": "10:15",
+      "home_team": "NG United U10",
+      "away_team": "Keyworth United Red U10",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sat YEL Challenge Blue",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "NG United U10",
+      "home_away": "home",
+      "opponent": "Keyworth United Red U10",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "4bebf7374f2edb98bd5f5347278cece0",
       "date": "2026-04-26",

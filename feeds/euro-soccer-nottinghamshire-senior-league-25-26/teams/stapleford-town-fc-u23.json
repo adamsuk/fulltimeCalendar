@@ -1,7 +1,7 @@
 {
   "team": "Stapleford Town FC U23",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
     {
       "id": "71ff33cc0a0c78af145dd7dfe9f0bd6b",
@@ -13,17 +13,6 @@
       "division": "NSL Development Cup",
       "home_away": "home",
       "opponent": "South Notts AFC Development"
-    },
-    {
-      "id": "aff54714a4a353790b339d003780965b",
-      "date": "2026-05-09",
-      "time": "10:30",
-      "home_team": "Stapleford Town FC U23",
-      "away_team": "Burton Joyce F.C. U23",
-      "venue": "STAPLEFORD COMMUNITY PAVILION",
-      "division": "Development Spring Division Two",
-      "home_away": "home",
-      "opponent": "Burton Joyce F.C. U23"
     },
     {
       "id": "93842200449c88bc794f1f9faa0c4cef",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "aff54714a4a353790b339d003780965b",
+      "date": "2026-05-09",
+      "time": "10:30",
+      "home_team": "Stapleford Town FC U23",
+      "away_team": "Burton Joyce F.C. U23",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "home_away": "home",
+      "opponent": "Burton Joyce F.C. U23",
+      "goals_for": 1,
+      "goals_against": 4
+    },
     {
       "id": "532988e0eaf4e37491bc3c1453bef340",
       "date": "2026-05-02",

@@ -1,6 +1,6 @@
 {
   "club": "AFC Warriors",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
     {
       "id": "4675a1e8a2a2fa41268b0645c51b8239",
@@ -55,32 +55,6 @@
       "opponent": "Quorn FC Methodists"
     },
     {
-      "id": "e571e15c66d9da53573fbfd44e8e63dd",
-      "date": "2026-05-09",
-      "time": "10:00",
-      "home_team": "AFC Warriors Knights U11",
-      "away_team": "Mickleover RBL Giants U11",
-      "venue": "Newark Academy  NG24 3AL",
-      "division": "U11 Sat YEL Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "AFC Warriors Knights U11",
-      "home_away": "home",
-      "opponent": "Mickleover RBL Giants U11"
-    },
-    {
-      "id": "803ea0adc140d5720288ed1fc1b91cd5",
-      "date": "2026-05-09",
-      "time": "10:30",
-      "home_team": "AFC Warriors Development",
-      "away_team": "Quorn FC Methodists",
-      "venue": "HUCKNALL TOWN FOOTBALL CLUB",
-      "division": "NSL Development Cup",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "AFC Warriors Development",
-      "home_away": "home",
-      "opponent": "Quorn FC Methodists"
-    },
-    {
       "id": "5a5ca6d86c1090eba883993836c6bd61",
       "date": "2026-05-10",
       "time": "10:00",
@@ -92,6 +66,19 @@
       "team": "AFC Warriors Youth U13",
       "home_away": "away",
       "opponent": "Willow Wanderers F.C. Youth U13 Orcas"
+    },
+    {
+      "id": "f11df89d1372deda1885e375bc015584",
+      "date": "2026-05-16",
+      "time": "10:00",
+      "home_team": "Nottingham FC Onyx U11",
+      "away_team": "AFC Warriors Knights U11",
+      "venue": "Norman Archer Memorial Ground NG11 9AZ",
+      "division": "U11 Sat YEL Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "AFC Warriors Knights U11",
+      "home_away": "away",
+      "opponent": "Nottingham FC Onyx U11"
     },
     {
       "id": "213431f0cd9158b4844319f42a40931f",
@@ -108,6 +95,40 @@
     }
   ],
   "results": [
+    {
+      "id": "803ea0adc140d5720288ed1fc1b91cd5",
+      "date": "2026-05-09",
+      "time": "10:30",
+      "home_team": "AFC Warriors Development",
+      "away_team": "Quorn FC Methodists",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "NSL Development Cup",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "AFC Warriors Development",
+      "home_away": "home",
+      "opponent": "Quorn FC Methodists",
+      "goals_for": 2,
+      "goals_against": 3
+    },
+    {
+      "id": "e571e15c66d9da53573fbfd44e8e63dd",
+      "date": "2026-05-09",
+      "time": "10:00",
+      "home_team": "AFC Warriors Knights U11",
+      "away_team": "Mickleover RBL Giants U11",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U11 Sat YEL Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "AFC Warriors Knights U11",
+      "home_away": "home",
+      "opponent": "Mickleover RBL Giants U11",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "a2b22bb1fa87fb272b28e9806b5ab204",
       "date": "2026-04-29",

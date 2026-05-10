@@ -1,7 +1,7 @@
 {
   "team": "AFC Warriors Development",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
     {
       "id": "4675a1e8a2a2fa41268b0645c51b8239",
@@ -46,20 +46,24 @@
       "division": "Development Spring Division One",
       "home_away": "away",
       "opponent": "Quorn FC Methodists"
-    },
+    }
+  ],
+  "results": [
     {
       "id": "803ea0adc140d5720288ed1fc1b91cd5",
       "date": "2026-05-09",
       "time": "10:30",
       "home_team": "AFC Warriors Development",
       "away_team": "Quorn FC Methodists",
-      "venue": "HUCKNALL TOWN FOOTBALL CLUB",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
       "division": "NSL Development Cup",
       "home_away": "home",
-      "opponent": "Quorn FC Methodists"
-    }
-  ],
-  "results": [
+      "opponent": "Quorn FC Methodists",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "3b7874a75a135c404b75ef28a1c78109",
       "date": "2026-04-25",

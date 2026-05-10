@@ -1,33 +1,7 @@
 {
   "club": "DLFC",
-  "generated": "2026-05-09T07:31:48Z",
+  "generated": "2026-05-10T07:55:08Z",
   "fixtures": [
-    {
-      "id": "96b56e1a938884ffbd1cd4b318003dc0",
-      "date": "2026-05-09",
-      "time": "10:15",
-      "home_team": "Loughborough Emmanuel U9",
-      "away_team": "DLFC Purple U9",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U9 Sat YEL Challenge Red",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Purple U9",
-      "home_away": "away",
-      "opponent": "Loughborough Emmanuel U9"
-    },
-    {
-      "id": "29607ad0c51c113d4cd8989db88f7dae",
-      "date": "2026-05-09",
-      "time": "13:30",
-      "home_team": "DLFC Grey U10",
-      "away_team": "Edwalton Cavaliers Blue U10",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U10 Sat YEL Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "DLFC Grey U10",
-      "home_away": "home",
-      "opponent": "Edwalton Cavaliers Blue U10"
-    },
     {
       "id": "ee191e2d7a817fa5ad7587923051fd27",
       "date": "2026-05-10",
@@ -56,6 +30,40 @@
     }
   ],
   "results": [
+    {
+      "id": "29607ad0c51c113d4cd8989db88f7dae",
+      "date": "2026-05-09",
+      "time": "13:30",
+      "home_team": "DLFC Grey U10",
+      "away_team": "Edwalton Cavaliers Blue U10",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "U10 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Grey U10",
+      "home_away": "home",
+      "opponent": "Edwalton Cavaliers Blue U10",
+      "goals_for": 2,
+      "goals_against": 3
+    },
+    {
+      "id": "96b56e1a938884ffbd1cd4b318003dc0",
+      "date": "2026-05-09",
+      "time": "10:15",
+      "home_team": "Loughborough Emmanuel U9",
+      "away_team": "DLFC Purple U9",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U9 Sat YEL Challenge Red",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "DLFC Purple U9",
+      "home_away": "away",
+      "opponent": "Loughborough Emmanuel U9",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "07925cc5c9f267e323b9d70e28421c95",
       "date": "2026-04-29",
