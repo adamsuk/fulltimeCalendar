@@ -1,6 +1,6 @@
 {
   "club": "Collingham",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
     {
       "id": "c9d09575c2f7069286a704c010f9d19a",
@@ -55,19 +55,6 @@
       "opponent": "West Bridgford Development"
     },
     {
-      "id": "10263650195c4310f6a2b6cfbc7918b1",
-      "date": "2026-05-10",
-      "time": "11:45",
-      "home_team": "Collingham FC Panthers U10",
-      "away_team": "NG United U10",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U10 Sun YEL Trophy",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Collingham FC Panthers U10",
-      "home_away": "home",
-      "opponent": "NG United U10"
-    },
-    {
       "id": "ced5933ac660e66163d032b2fe7e37a5",
       "date": "2026-05-12",
       "time": "19:45",
@@ -95,6 +82,23 @@
     }
   ],
   "results": [
+    {
+      "id": "10263650195c4310f6a2b6cfbc7918b1",
+      "date": "2026-05-10",
+      "time": "11:45",
+      "home_team": "Collingham FC Panthers U10",
+      "away_team": "NG United U10",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U10 Sun YEL Trophy",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Collingham FC Panthers U10",
+      "home_away": "home",
+      "opponent": "NG United U10",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "93acb25dfe6b1741c362d5c04e1881ce",
       "date": "2026-05-09",

@@ -1,33 +1,7 @@
 {
   "club": "Willow Wanderers FC Youth",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "5a5ca6d86c1090eba883993836c6bd61",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Willow Wanderers F.C. Youth U13 Orcas",
-      "away_team": "AFC Warriors Youth U13",
-      "venue": "CARLTON-LE-WILLOWS ACADEMY",
-      "division": "U13 Div 2 11 v 11",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Willow Wanderers F.C. Youth U13 Orcas",
-      "home_away": "home",
-      "opponent": "AFC Warriors Youth U13"
-    },
-    {
-      "id": "29b55b8392837609238824e4d9be6cb6",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Willow Wanderers F.C. Youth U15 Amazons",
-      "away_team": "Sherwood Colliery F.C. Ladies U15",
-      "venue": "CARLTON-LE-WILLOWS ACADEMY",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Willow Wanderers F.C. Youth U15 Amazons",
-      "home_away": "home",
-      "opponent": "Sherwood Colliery F.C. Ladies U15"
-    },
     {
       "id": "afd0161270773648deb73290f0628791",
       "date": "2026-05-17",
@@ -69,6 +43,40 @@
     }
   ],
   "results": [
+    {
+      "id": "5a5ca6d86c1090eba883993836c6bd61",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Willow Wanderers F.C. Youth U13 Orcas",
+      "away_team": "AFC Warriors Youth U13",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Div 2 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Willow Wanderers F.C. Youth U13 Orcas",
+      "home_away": "home",
+      "opponent": "AFC Warriors Youth U13",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "29b55b8392837609238824e4d9be6cb6",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Willow Wanderers F.C. Youth U15 Amazons",
+      "away_team": "Sherwood Colliery F.C. Ladies U15",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
+      "division": "U15 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Willow Wanderers F.C. Youth U15 Amazons",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery F.C. Ladies U15",
+      "goals_for": 5,
+      "goals_against": 3
+    },
     {
       "id": "2bf976c156efff8895b856ca84998626",
       "date": "2026-05-03",

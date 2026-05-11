@@ -1,19 +1,8 @@
 {
   "team": "Nottingham F.C. Youth U16 Diamonds",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "12e339d5bb6cd28845c60d4a547dbec0",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Nottingham F.C. Youth U16 Diamonds",
-      "away_team": "Woodlands Women U16 Greensocks",
-      "venue": "MELBOURNE PARK",
-      "division": "U16 Div 3",
-      "home_away": "home",
-      "opponent": "Woodlands Women U16 Greensocks"
-    },
     {
       "id": "3a92c7b2d831f182a442a452b9137ef3",
       "date": "2026-05-17",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "12e339d5bb6cd28845c60d4a547dbec0",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Nottingham F.C. Youth U16 Diamonds",
+      "away_team": "Woodlands Women U16 Greensocks",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U16 Div 3",
+      "home_away": "home",
+      "opponent": "Woodlands Women U16 Greensocks",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "f8025b403cc6c4bb29a9fa62c9692935",
       "date": "2026-05-03",

@@ -1,19 +1,8 @@
 {
   "team": "Southwell City FC U12 Swans",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "db37ba3e57ab04b2b355f65ed19c33cf",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Southwell City FC U12 Swans",
-      "away_team": "Gedling Southbank FC U12 Hunters",
-      "venue": "SOUTHWELL MEMORIAL GROUND",
-      "division": "U12 Div 4 P2",
-      "home_away": "home",
-      "opponent": "Gedling Southbank FC U12 Hunters"
-    },
     {
       "id": "d75a890082d7ced234934dcff70e3a74",
       "date": "2026-05-11",
@@ -71,6 +60,21 @@
     }
   ],
   "results": [
+    {
+      "id": "db37ba3e57ab04b2b355f65ed19c33cf",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Southwell City FC U12 Swans",
+      "away_team": "Gedling Southbank FC U12 Hunters",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 4 P2",
+      "home_away": "home",
+      "opponent": "Gedling Southbank FC U12 Hunters",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "1ab1ea1f301bce0102ad583351f10bc4",
       "date": "2026-04-26",

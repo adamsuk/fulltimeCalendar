@@ -1,6 +1,6 @@
 {
   "club": "Southwell City",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
     {
       "id": "728393015694333a48360ad5452c500b",
@@ -14,45 +14,6 @@
       "team": "Southwell City Reserves",
       "home_away": "home",
       "opponent": "Ruddington Village FC"
-    },
-    {
-      "id": "91d26b227d70777951301734445e75fa",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Beeston F.C. U15 Girls Sun",
-      "away_team": "Southwell City FC U15 Girls",
-      "venue": "TRENT VALE SPORTS ASSOCIATION",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Southwell City FC U15 Girls",
-      "home_away": "away",
-      "opponent": "Beeston F.C. U15 Girls Sun"
-    },
-    {
-      "id": "1ae56c7eb2cf9aa0a8c803733f01d051",
-      "date": "2026-05-10",
-      "time": "12:00",
-      "home_team": "Southwell City FC U18 Girls",
-      "away_team": "Shirebrook Rangers & Juniors U18 Girls",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "U18 Div 2 Phase 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Southwell City FC U18 Girls",
-      "home_away": "home",
-      "opponent": "Shirebrook Rangers & Juniors U18 Girls"
-    },
-    {
-      "id": "81551561090c137036f826675e0c100b",
-      "date": "2026-05-10",
-      "time": "14:00",
-      "home_team": "Southwell City FC Ladies",
-      "away_team": "Priory Celtic FC Ladies First Team",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "Seniors Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Southwell City FC Ladies",
-      "home_away": "home",
-      "opponent": "Priory Celtic FC Ladies First Team"
     },
     {
       "id": "ebb3264f8f8840899af08ac3139857f3",
@@ -69,6 +30,40 @@
     }
   ],
   "results": [
+    {
+      "id": "1ae56c7eb2cf9aa0a8c803733f01d051",
+      "date": "2026-05-10",
+      "time": "12:00",
+      "home_team": "Southwell City FC U18 Girls",
+      "away_team": "Shirebrook Rangers & Juniors U18 Girls",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "",
+      "division": "U18 Div 2 Phase 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Southwell City FC U18 Girls",
+      "home_away": "home",
+      "opponent": "Shirebrook Rangers & Juniors U18 Girls",
+      "goals_for": 1,
+      "goals_against": 6
+    },
+    {
+      "id": "91d26b227d70777951301734445e75fa",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Beeston F.C. U15 Girls Sun",
+      "away_team": "Southwell City FC U15 Girls",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Southwell City FC U15 Girls",
+      "home_away": "away",
+      "opponent": "Beeston F.C. U15 Girls Sun",
+      "goals_for": 0,
+      "goals_against": 5
+    },
     {
       "id": "37479ddb7193361c5e397b3542f99d1f",
       "date": "2026-05-05",

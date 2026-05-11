@@ -1,19 +1,8 @@
 {
   "team": "Newark Town FC U12 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "7a606f82eae995193b96b843499ba6d6",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Newark Town FC U12 Girls",
-      "away_team": "Bingham Town F.C. U12 Girls Red",
-      "venue": "DEVON PARK",
-      "division": "U12 Div 3 P2",
-      "home_away": "home",
-      "opponent": "Bingham Town F.C. U12 Girls Red"
-    },
     {
       "id": "05eabb724ae3a07aee938247b9651898",
       "date": "2026-05-17",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "7a606f82eae995193b96b843499ba6d6",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Newark Town FC U12 Girls",
+      "away_team": "Bingham Town F.C. U12 Girls Red",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 3 P2",
+      "home_away": "home",
+      "opponent": "Bingham Town F.C. U12 Girls Red",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "1171054344e2b3a78f232e24ea735c7f",
       "date": "2026-04-26",

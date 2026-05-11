@@ -1,19 +1,8 @@
 {
   "team": "Sherwood Colliery F.C. Ladies U14",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "8a54a40700e0f038bc682c4fa96cd837",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Matlock Town Juniors U14 Spartans Girls",
-      "away_team": "Sherwood Colliery F.C. Ladies U14",
-      "venue": "CAVENDISH FIELDS SPORTS ASSOCIATION",
-      "division": "U14 Div 3",
-      "home_away": "away",
-      "opponent": "Matlock Town Juniors U14 Spartans Girls"
-    },
     {
       "id": "94da195892ce12d18cc97e116d77551c",
       "date": "2026-05-17",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "8a54a40700e0f038bc682c4fa96cd837",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Matlock Town Juniors U14 Spartans Girls",
+      "away_team": "Sherwood Colliery F.C. Ladies U14",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Div 3",
+      "home_away": "away",
+      "opponent": "Matlock Town Juniors U14 Spartans Girls",
+      "goals_for": 0,
+      "goals_against": 3
+    },
     {
       "id": "ca9138c5d5dcdcec6c73f787e49dd5d9",
       "date": "2026-04-26",

@@ -1,6 +1,6 @@
 {
   "club": "Sandiacre Town",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
     {
       "id": "9aac7436c7a5bc268266c6c366c5b3e7",
@@ -27,19 +27,6 @@
       "team": "Sandiacre Town Rockets U14",
       "home_away": "home",
       "opponent": "Phoenix Inham Inferno U14"
-    },
-    {
-      "id": "0dbdc37637d924515d04ea8ccb65b0a1",
-      "date": "2026-05-10",
-      "time": "11:00",
-      "home_team": "Sandiacre Town Youth U12 Panthers Girls",
-      "away_team": "Arnold Eagles F.C. Girls U12 FC",
-      "venue": "FRIESLAND SCHOOL",
-      "division": "U12 Div 1 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sandiacre Town Youth U12 Panthers Girls",
-      "home_away": "home",
-      "opponent": "Arnold Eagles F.C. Girls U12 FC"
     },
     {
       "id": "7328e44d8b86406d0ad72543f52ce367",
@@ -108,6 +95,23 @@
     }
   ],
   "results": [
+    {
+      "id": "0dbdc37637d924515d04ea8ccb65b0a1",
+      "date": "2026-05-10",
+      "time": "11:00",
+      "home_team": "Sandiacre Town Youth U12 Panthers Girls",
+      "away_team": "Arnold Eagles F.C. Girls U12 FC",
+      "home_score": 11,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Div 1 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sandiacre Town Youth U12 Panthers Girls",
+      "home_away": "home",
+      "opponent": "Arnold Eagles F.C. Girls U12 FC",
+      "goals_for": 11,
+      "goals_against": 2
+    },
     {
       "id": "feaccb08f2a62694652963e36e711701",
       "date": "2026-04-26",

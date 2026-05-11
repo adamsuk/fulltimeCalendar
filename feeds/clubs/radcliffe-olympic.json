@@ -1,33 +1,7 @@
 {
   "club": "Radcliffe Olympic",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "f65d4f76765387c49128a2e578f29ac3",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
-      "away_team": "Woodthorpe Community U12 Warriors",
-      "venue": "BINGHAM ROAD PLAYING FIELDS",
-      "division": "U12 Div 2 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Radcliffe Olympic FC U12 Girls Eagles",
-      "home_away": "home",
-      "opponent": "Woodthorpe Community U12 Warriors"
-    },
-    {
-      "id": "cfdfa56f7587cc887ce48c5198a5b3e3",
-      "date": "2026-05-10",
-      "time": "10:30",
-      "home_team": "Lowdham Colts FC Ladies",
-      "away_team": "Radcliffe Olympic FC Ladies",
-      "venue": "MAGNA MEADOWS PLAYING FIELD",
-      "division": "Seniors Div 1",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Radcliffe Olympic FC Ladies",
-      "home_away": "away",
-      "opponent": "Lowdham Colts FC Ladies"
-    },
     {
       "id": "9233619a3540ef62599140de9cfa5747",
       "date": "2026-05-13",
@@ -108,6 +82,40 @@
     }
   ],
   "results": [
+    {
+      "id": "cfdfa56f7587cc887ce48c5198a5b3e3",
+      "date": "2026-05-10",
+      "time": "10:30",
+      "home_team": "Lowdham Colts FC Ladies",
+      "away_team": "Radcliffe Olympic FC Ladies",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "",
+      "division": "Seniors Div 1",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Radcliffe Olympic FC Ladies",
+      "home_away": "away",
+      "opponent": "Lowdham Colts FC Ladies",
+      "goals_for": 3,
+      "goals_against": 0
+    },
+    {
+      "id": "f65d4f76765387c49128a2e578f29ac3",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "away_team": "Woodthorpe Community U12 Warriors",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 2 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Radcliffe Olympic FC U12 Girls Eagles",
+      "home_away": "home",
+      "opponent": "Woodthorpe Community U12 Warriors",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "20265529930af737a319efba901efa5a",
       "date": "2026-05-09",

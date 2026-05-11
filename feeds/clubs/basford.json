@@ -1,20 +1,7 @@
 {
   "club": "Basford",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "f644d11450c188682c8e804a1dfaf09f",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Basford United FC Yellow U13",
-      "away_team": "Nottingham FC Green U13",
-      "venue": "Ilkeston Town FC DE7 8JF",
-      "division": "U13 Sun YEL Cup",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Basford United FC Yellow U13",
-      "home_away": "home",
-      "opponent": "Nottingham FC Green U13"
-    },
     {
       "id": "29ba83e4c31be9af508e4a1570165c5c",
       "date": "2026-05-10",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "f644d11450c188682c8e804a1dfaf09f",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Basford United FC Yellow U13",
+      "away_team": "Nottingham FC Green U13",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sun YEL Cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Basford United FC Yellow U13",
+      "home_away": "home",
+      "opponent": "Nottingham FC Green U13",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "3c82af7d97f6cbf223c38c45e6341980",
       "date": "2026-05-09",

@@ -1,6 +1,6 @@
 {
   "club": "Nottingham",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
     {
       "id": "415088ca6dbf75a992002efbd69d6faf",
@@ -14,45 +14,6 @@
       "team": "Nottingham F.C. Youth U16 Piranhas",
       "home_away": "home",
       "opponent": "Brodsworth Welfare AFC- Warriors U16"
-    },
-    {
-      "id": "f644d11450c188682c8e804a1dfaf09f",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Basford United FC Yellow U13",
-      "away_team": "Nottingham FC Green U13",
-      "venue": "Ilkeston Town FC DE7 8JF",
-      "division": "U13 Sun YEL Cup",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Nottingham FC Green U13",
-      "home_away": "away",
-      "opponent": "Basford United FC Yellow U13"
-    },
-    {
-      "id": "ecbb6351c0edcf0a6cd75be06c5162f7",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Nottingham F.C. Youth U14 Girls",
-      "away_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
-      "venue": "MELBOURNE PARK",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Nottingham F.C. Youth U14 Girls",
-      "home_away": "home",
-      "opponent": "Arnold Eagles F.C. Girls U14 Hurricanes"
-    },
-    {
-      "id": "12e339d5bb6cd28845c60d4a547dbec0",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Nottingham F.C. Youth U16 Diamonds",
-      "away_team": "Woodlands Women U16 Greensocks",
-      "venue": "MELBOURNE PARK",
-      "division": "U16 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Nottingham F.C. Youth U16 Diamonds",
-      "home_away": "home",
-      "opponent": "Woodlands Women U16 Greensocks"
     },
     {
       "id": "d8661575d0187c0550b49dadf03675a6",
@@ -121,6 +82,57 @@
     }
   ],
   "results": [
+    {
+      "id": "f644d11450c188682c8e804a1dfaf09f",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Basford United FC Yellow U13",
+      "away_team": "Nottingham FC Green U13",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Sun YEL Cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Nottingham FC Green U13",
+      "home_away": "away",
+      "opponent": "Basford United FC Yellow U13",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
+      "id": "ecbb6351c0edcf0a6cd75be06c5162f7",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Nottingham F.C. Youth U14 Girls",
+      "away_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
+      "home_score": 1,
+      "away_score": 7,
+      "venue": "",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Nottingham F.C. Youth U14 Girls",
+      "home_away": "home",
+      "opponent": "Arnold Eagles F.C. Girls U14 Hurricanes",
+      "goals_for": 1,
+      "goals_against": 7
+    },
+    {
+      "id": "12e339d5bb6cd28845c60d4a547dbec0",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Nottingham F.C. Youth U16 Diamonds",
+      "away_team": "Woodlands Women U16 Greensocks",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "U16 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Nottingham F.C. Youth U16 Diamonds",
+      "home_away": "home",
+      "opponent": "Woodlands Women U16 Greensocks",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "8fdb50ffebe302db426fa87303a0fa73",
       "date": "2026-05-05",

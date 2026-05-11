@@ -1,19 +1,8 @@
 {
   "team": "Priory Celtic F.C. U12 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "e7f6bf73eda0275c3a7a6fb24a37b175",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Priory Celtic F.C. U12 Girls",
-      "away_team": "Phoenix Inham F.C. U12 Sparkles",
-      "venue": "KIMBERLEY SCHOOL SPORTS CENTRE",
-      "division": "U12 Div 4 P2",
-      "home_away": "home",
-      "opponent": "Phoenix Inham F.C. U12 Sparkles"
-    },
     {
       "id": "e7b2a5c1cf871f538465bab43f5e1f6c",
       "date": "2026-05-17",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "e7f6bf73eda0275c3a7a6fb24a37b175",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Priory Celtic F.C. U12 Girls",
+      "away_team": "Phoenix Inham F.C. U12 Sparkles",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 4 P2",
+      "home_away": "home",
+      "opponent": "Phoenix Inham F.C. U12 Sparkles",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "614b7cf6311a8321a6cfb928374d1fb6",
       "date": "2026-05-03",

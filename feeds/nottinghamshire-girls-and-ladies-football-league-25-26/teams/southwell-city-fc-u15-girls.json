@@ -1,19 +1,8 @@
 {
   "team": "Southwell City FC U15 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "91d26b227d70777951301734445e75fa",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Beeston F.C. U15 Girls Sun",
-      "away_team": "Southwell City FC U15 Girls",
-      "venue": "TRENT VALE SPORTS ASSOCIATION",
-      "division": "U15 Div 3",
-      "home_away": "away",
-      "opponent": "Beeston F.C. U15 Girls Sun"
-    },
     {
       "id": "ebb3264f8f8840899af08ac3139857f3",
       "date": "2026-05-17",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "91d26b227d70777951301734445e75fa",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Beeston F.C. U15 Girls Sun",
+      "away_team": "Southwell City FC U15 Girls",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "U15 Div 3",
+      "home_away": "away",
+      "opponent": "Beeston F.C. U15 Girls Sun",
+      "goals_for": 0,
+      "goals_against": 5
+    },
     {
       "id": "e476dfc759b337c26a782c908aadb118",
       "date": "2026-04-26",

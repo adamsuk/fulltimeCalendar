@@ -1,19 +1,8 @@
 {
   "team": "Sherwood FC Development Women",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "f45041bd37d2891259c0b2a4dd3bec34",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Sherwood FC Development Women",
-      "away_team": "Arnold Town FC Women",
-      "venue": "THE FOREST SPORTS ZONE",
-      "division": "Seniors Div 2",
-      "home_away": "home",
-      "opponent": "Arnold Town FC Women"
-    },
     {
       "id": "c9023a13d2e33de3f961bf31cfe818a5",
       "date": "2026-05-17",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f45041bd37d2891259c0b2a4dd3bec34",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Sherwood FC Development Women",
+      "away_team": "Arnold Town FC Women",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "home_away": "home",
+      "opponent": "Arnold Town FC Women",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "bff8a803e47f188f7ea1775a440a69ea",
       "date": "2026-05-03",

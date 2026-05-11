@@ -1,19 +1,8 @@
 {
   "team": "West Bridgford Colts U12 Lightning",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "0e6ded0e40db4ad5ed50611df0d1ad34",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Hucknall & Linby Harriers FC U12 Jets",
-      "away_team": "West Bridgford Colts U12 Lightning",
-      "venue": "HOLGATE ACADEMY",
-      "division": "U12 Div 3 P2",
-      "home_away": "away",
-      "opponent": "Hucknall & Linby Harriers FC U12 Jets"
-    },
     {
       "id": "9b4548626bf3c975265e55b83ff13710",
       "date": "2026-05-14",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "0e6ded0e40db4ad5ed50611df0d1ad34",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Hucknall & Linby Harriers FC U12 Jets",
+      "away_team": "West Bridgford Colts U12 Lightning",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 3 P2",
+      "home_away": "away",
+      "opponent": "Hucknall & Linby Harriers FC U12 Jets",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "1712c3a76ac9846358c6b65abf2389f7",
       "date": "2026-04-26",

@@ -1,19 +1,8 @@
 {
   "team": "Meden Vale Colts F.C. U13 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "bb248e49164f0e060e0ed13ef0c422ad",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Meden Vale Colts F.C. U13 Girls",
-      "away_team": "West Hallam Juniors U13 Diamonds",
-      "venue": "CARR LANE PARK",
-      "division": "U13 Div 3 9 v 9",
-      "home_away": "home",
-      "opponent": "West Hallam Juniors U13 Diamonds"
-    },
     {
       "id": "df8d97a5c107e825a1a3c11501e3dbb2",
       "date": "2026-05-17",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "bb248e49164f0e060e0ed13ef0c422ad",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Meden Vale Colts F.C. U13 Girls",
+      "away_team": "West Hallam Juniors U13 Diamonds",
+      "home_score": 8,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Div 3 9 v 9",
+      "home_away": "home",
+      "opponent": "West Hallam Juniors U13 Diamonds",
+      "goals_for": 8,
+      "goals_against": 1
+    },
     {
       "id": "6499641d319d3c893f5882f05648027e",
       "date": "2026-04-26",

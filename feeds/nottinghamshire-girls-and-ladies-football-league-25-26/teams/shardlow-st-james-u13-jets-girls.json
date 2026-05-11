@@ -1,19 +1,8 @@
 {
   "team": "Shardlow St. James U13 Jets Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "f9ca4804f85b2772190b1f0fa20baef2",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Shardlow St. James U13 Jets Girls",
-      "away_team": "Canoville FC U13 FC Bulldogs",
-      "venue": "WILLIAM LEE MEMORIAL PARK",
-      "division": "U13 Div 1 11 v 11",
-      "home_away": "home",
-      "opponent": "Canoville FC U13 FC Bulldogs"
-    },
     {
       "id": "4aa36cfeeaae392fc99120026f723de2",
       "date": "2026-05-17",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f9ca4804f85b2772190b1f0fa20baef2",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Shardlow St. James U13 Jets Girls",
+      "away_team": "Canoville FC U13 FC Bulldogs",
+      "home_score": 0,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Div 1 11 v 11",
+      "home_away": "home",
+      "opponent": "Canoville FC U13 FC Bulldogs",
+      "goals_for": 0,
+      "goals_against": 4
+    },
     {
       "id": "d82dfe6a40b1865e70c9f74af4e44d51",
       "date": "2026-04-19",

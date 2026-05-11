@@ -1,19 +1,8 @@
 {
   "team": "Arnold Eagles F.C. Girls U14 Hurricanes",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "ecbb6351c0edcf0a6cd75be06c5162f7",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Nottingham F.C. Youth U14 Girls",
-      "away_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
-      "venue": "MELBOURNE PARK",
-      "division": "U14 Div 3",
-      "home_away": "away",
-      "opponent": "Nottingham F.C. Youth U14 Girls"
-    },
     {
       "id": "84bcad126dacc68c5c6d3b59bca8f455",
       "date": "2026-05-17",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ecbb6351c0edcf0a6cd75be06c5162f7",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Nottingham F.C. Youth U14 Girls",
+      "away_team": "Arnold Eagles F.C. Girls U14 Hurricanes",
+      "home_score": 1,
+      "away_score": 7,
+      "venue": "",
+      "division": "U14 Div 3",
+      "home_away": "away",
+      "opponent": "Nottingham F.C. Youth U14 Girls",
+      "goals_for": 7,
+      "goals_against": 1
+    },
     {
       "id": "3b3dfed04ff40b4dce38c7316ec4a1c1",
       "date": "2026-05-03",

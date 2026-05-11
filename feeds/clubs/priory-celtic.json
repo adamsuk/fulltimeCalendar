@@ -1,59 +1,7 @@
 {
   "club": "Priory Celtic",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "e7f6bf73eda0275c3a7a6fb24a37b175",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Priory Celtic F.C. U12 Girls",
-      "away_team": "Phoenix Inham F.C. U12 Sparkles",
-      "venue": "KIMBERLEY SCHOOL SPORTS CENTRE",
-      "division": "U12 Div 4 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Priory Celtic F.C. U12 Girls",
-      "home_away": "home",
-      "opponent": "Phoenix Inham F.C. U12 Sparkles"
-    },
-    {
-      "id": "7d25c26e7b622296c5e21b03281337d9",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Arnold Eagles F.C. Girls U16 Buzzards",
-      "away_team": "Priory Celtic F.C. U16 Girls",
-      "venue": "CALVERTON MINERS WELFARE TRUST",
-      "division": "U16 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Priory Celtic F.C. U16 Girls",
-      "home_away": "away",
-      "opponent": "Arnold Eagles F.C. Girls U16 Buzzards"
-    },
-    {
-      "id": "836fd1a86ede195daa9afb128ba08349",
-      "date": "2026-05-10",
-      "time": "10:30",
-      "home_team": "Riverside Junior U14 Rubies",
-      "away_team": "Priory Celtic F.C. U14 Girls",
-      "venue": "SAWLEY PARK",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Priory Celtic F.C. U14 Girls",
-      "home_away": "away",
-      "opponent": "Riverside Junior U14 Rubies"
-    },
-    {
-      "id": "81551561090c137036f826675e0c100b",
-      "date": "2026-05-10",
-      "time": "14:00",
-      "home_team": "Southwell City FC Ladies",
-      "away_team": "Priory Celtic FC Ladies First Team",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "Seniors Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Priory Celtic FC Ladies First Team",
-      "home_away": "away",
-      "opponent": "Southwell City FC Ladies"
-    },
     {
       "id": "3831ad54c99ec2f49f5229e76b9af154",
       "date": "2026-05-13",
@@ -68,6 +16,19 @@
       "opponent": "Hasland Community U14 Girls Sunday"
     },
     {
+      "id": "8f77faf39b930d1ad2f18a2abc770e85",
+      "date": "2026-05-17",
+      "time": "09:30",
+      "home_team": "Bagthorpe Athletic F.C. Youth U14 girls",
+      "away_team": "Priory Celtic F.C. U14 Lionesses",
+      "venue": "DIXIES ARMS PARK",
+      "division": "U14 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Lionesses",
+      "home_away": "away",
+      "opponent": "Bagthorpe Athletic F.C. Youth U14 girls"
+    },
+    {
       "id": "e7b2a5c1cf871f538465bab43f5e1f6c",
       "date": "2026-05-17",
       "time": "10:00",
@@ -79,19 +40,6 @@
       "team": "Priory Celtic F.C. U12 Girls",
       "home_away": "away",
       "opponent": "Southwell City FC U12 Swans"
-    },
-    {
-      "id": "8f77faf39b930d1ad2f18a2abc770e85",
-      "date": "2026-05-17",
-      "time": "10:00",
-      "home_team": "Bagthorpe Athletic F.C. Youth U14 girls",
-      "away_team": "Priory Celtic F.C. U14 Lionesses",
-      "venue": "DIXIES ARMS PARK",
-      "division": "U14 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Priory Celtic F.C. U14 Lionesses",
-      "home_away": "away",
-      "opponent": "Bagthorpe Athletic F.C. Youth U14 girls"
     },
     {
       "id": "2e03451d9cf0d75e585d0cd043ea2566",
@@ -134,6 +82,57 @@
     }
   ],
   "results": [
+    {
+      "id": "836fd1a86ede195daa9afb128ba08349",
+      "date": "2026-05-10",
+      "time": "10:30",
+      "home_team": "Riverside Junior U14 Rubies",
+      "away_team": "Priory Celtic F.C. U14 Girls",
+      "home_score": 5,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U14 Girls",
+      "home_away": "away",
+      "opponent": "Riverside Junior U14 Rubies",
+      "goals_for": 1,
+      "goals_against": 5
+    },
+    {
+      "id": "e7f6bf73eda0275c3a7a6fb24a37b175",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Priory Celtic F.C. U12 Girls",
+      "away_team": "Phoenix Inham F.C. U12 Sparkles",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 4 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U12 Girls",
+      "home_away": "home",
+      "opponent": "Phoenix Inham F.C. U12 Sparkles",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
+      "id": "7d25c26e7b622296c5e21b03281337d9",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Arnold Eagles F.C. Girls U16 Buzzards",
+      "away_team": "Priory Celtic F.C. U16 Girls",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "U16 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Priory Celtic F.C. U16 Girls",
+      "home_away": "away",
+      "opponent": "Arnold Eagles F.C. Girls U16 Buzzards",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "150ff0d733b4062cacc2409bae93935a",
       "date": "2026-05-07",

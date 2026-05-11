@@ -1,19 +1,8 @@
 {
   "team": "Gedling Southbank FC Ladies",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "72fe028f51dfaa4c7b2f7f2e60ec462e",
-      "date": "2026-05-10",
-      "time": "14:00",
-      "home_team": "Eastwood & Kimberley FC",
-      "away_team": "Gedling Southbank FC Ladies",
-      "venue": "JACKSDALE MINERS WELFARE SPORTS GROUND",
-      "division": "Seniors Div 2",
-      "home_away": "away",
-      "opponent": "Eastwood & Kimberley FC"
-    },
     {
       "id": "2f0f21aff73b8ef9d0aa4377a21ff2d2",
       "date": "2026-05-17",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "72fe028f51dfaa4c7b2f7f2e60ec462e",
+      "date": "2026-05-10",
+      "time": "14:00",
+      "home_team": "Eastwood & Kimberley FC",
+      "away_team": "Gedling Southbank FC Ladies",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "home_away": "away",
+      "opponent": "Eastwood & Kimberley FC",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "efd0043b94a0561b3a108067dcb983a6",
       "date": "2026-05-03",

@@ -1,19 +1,8 @@
 {
   "team": "Keyworth United F.C. U12 Vipers",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "5cc20ae37068f34ac5a57fbe883c7cc2",
-      "date": "2026-05-10",
-      "time": "09:00",
-      "home_team": "Keyworth United F.C. U12 Shooting Stars",
-      "away_team": "Keyworth United F.C. U12 Vipers",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "U12 Div 2 P2",
-      "home_away": "away",
-      "opponent": "Keyworth United F.C. U12 Shooting Stars"
-    },
     {
       "id": "a2bac76f4e66d14888d1ebf1c6171894",
       "date": "2026-05-17",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "5cc20ae37068f34ac5a57fbe883c7cc2",
+      "date": "2026-05-10",
+      "time": "09:00",
+      "home_team": "Keyworth United F.C. U12 Shooting Stars",
+      "away_team": "Keyworth United F.C. U12 Vipers",
+      "home_score": 8,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Div 2 P2",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U12 Shooting Stars",
+      "goals_for": 3,
+      "goals_against": 8
+    },
     {
       "id": "d79511c731ef6bcee38891366697eb83",
       "date": "2026-04-26",

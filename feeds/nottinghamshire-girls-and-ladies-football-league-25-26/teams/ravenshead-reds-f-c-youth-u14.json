@@ -1,19 +1,8 @@
 {
   "team": "Ravenshead Reds F.C. Youth U14",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "43fb8e68f1cca7fd55cb7682aa2bf24f",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Ravenshead Reds F.C. Youth U14",
-      "away_team": "Shirebrook Rangers & Juniors U14 Girls",
-      "venue": "THE SUMMIT CENTRE",
-      "division": "U14 Div 3",
-      "home_away": "home",
-      "opponent": "Shirebrook Rangers & Juniors U14 Girls"
-    },
     {
       "id": "84bcad126dacc68c5c6d3b59bca8f455",
       "date": "2026-05-17",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "43fb8e68f1cca7fd55cb7682aa2bf24f",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Ravenshead Reds F.C. Youth U14",
+      "away_team": "Shirebrook Rangers & Juniors U14 Girls",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Div 3",
+      "home_away": "home",
+      "opponent": "Shirebrook Rangers & Juniors U14 Girls",
+      "goals_for": 3,
+      "goals_against": 1
+    },
     {
       "id": "4f3c1fc7b7fa6c299890caaa067c2c8a",
       "date": "2026-04-22",

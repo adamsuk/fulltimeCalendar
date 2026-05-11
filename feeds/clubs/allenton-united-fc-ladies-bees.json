@@ -1,33 +1,7 @@
 {
   "club": "Allenton United FC Ladies Bees",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "7bf979affcb0da46c3eeaf5a57dcb8be",
-      "date": "2026-05-10",
-      "time": "10:45",
-      "home_team": "Allenton United FC U15 Ladies Bees",
-      "away_team": "Keyworth United F.C. U15 Kobras",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Allenton United FC U15 Ladies Bees",
-      "home_away": "home",
-      "opponent": "Keyworth United F.C. U15 Kobras"
-    },
-    {
-      "id": "e4cc4998770f20a8c2882ea048dc5981",
-      "date": "2026-05-10",
-      "time": "12:30",
-      "home_team": "Keyworth United F.C. U15 Kobras",
-      "away_team": "Allenton United FC U15 Ladies Bees",
-      "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Allenton United FC U15 Ladies Bees",
-      "home_away": "away",
-      "opponent": "Keyworth United F.C. U15 Kobras"
-    },
     {
       "id": "5c45f91a53dc73606a11253afb3bb010",
       "date": "2026-05-12",
@@ -69,6 +43,40 @@
     }
   ],
   "results": [
+    {
+      "id": "e4cc4998770f20a8c2882ea048dc5981",
+      "date": "2026-05-10",
+      "time": "12:30",
+      "home_team": "Keyworth United F.C. U15 Kobras",
+      "away_team": "Allenton United FC U15 Ladies Bees",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U15 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Allenton United FC U15 Ladies Bees",
+      "home_away": "away",
+      "opponent": "Keyworth United F.C. U15 Kobras",
+      "goals_for": 1,
+      "goals_against": 2
+    },
+    {
+      "id": "7bf979affcb0da46c3eeaf5a57dcb8be",
+      "date": "2026-05-10",
+      "time": "10:45",
+      "home_team": "Allenton United FC U15 Ladies Bees",
+      "away_team": "Keyworth United F.C. U15 Kobras",
+      "home_score": 1,
+      "away_score": 3,
+      "venue": "",
+      "division": "U15 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Allenton United FC U15 Ladies Bees",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U15 Kobras",
+      "goals_for": 1,
+      "goals_against": 3
+    },
     {
       "id": "b2a239786e8d84ab87b70a956f69e5e4",
       "date": "2026-05-06",

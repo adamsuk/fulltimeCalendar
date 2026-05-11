@@ -1,37 +1,15 @@
 {
   "team": "Southwell City FC U13 All Whites",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "d1e1d6a52a4efb9f3363c03acca62b13",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Southwell City FC U13 All Whites",
-      "away_team": "Phoenix Inham F.C. U13 Starfire",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "U13 Div 1 11 v 11",
-      "home_away": "home",
-      "opponent": "Phoenix Inham F.C. U13 Starfire"
-    },
-    {
-      "id": "26583fb60cce2f85ae53771e606489ad",
-      "date": "2026-05-10",
-      "time": "10:45",
-      "home_team": "Phoenix Inham F.C. U13 Starfire",
-      "away_team": "Southwell City FC U13 All Whites",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "U13 Div 1 11 v 11",
-      "home_away": "away",
-      "opponent": "Phoenix Inham F.C. U13 Starfire"
-    },
     {
       "id": "2fa52a26892edbd0456f4b7e1019e36d",
       "date": "2026-05-17",
-      "time": "10:00",
+      "time": "09:30",
       "home_team": "Southwell City FC U13 All Whites",
       "away_team": "Canoville FC U13 FC Bulldogs",
-      "venue": "CENTENARY SPORTS GROUND",
+      "venue": "CARLTON FOOTBALL CENTRE",
       "division": "U13 Div 1 11 v 11",
       "home_away": "home",
       "opponent": "Canoville FC U13 FC Bulldogs"
@@ -49,6 +27,36 @@
     }
   ],
   "results": [
+    {
+      "id": "26583fb60cce2f85ae53771e606489ad",
+      "date": "2026-05-10",
+      "time": "10:45",
+      "home_team": "Phoenix Inham F.C. U13 Starfire",
+      "away_team": "Southwell City FC U13 All Whites",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Div 1 11 v 11",
+      "home_away": "away",
+      "opponent": "Phoenix Inham F.C. U13 Starfire",
+      "goals_for": 0,
+      "goals_against": 1
+    },
+    {
+      "id": "d1e1d6a52a4efb9f3363c03acca62b13",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Southwell City FC U13 All Whites",
+      "away_team": "Phoenix Inham F.C. U13 Starfire",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Div 1 11 v 11",
+      "home_away": "home",
+      "opponent": "Phoenix Inham F.C. U13 Starfire",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "b7328169852a61855adc429f092c435d",
       "date": "2026-05-03",

@@ -1,24 +1,11 @@
 {
   "club": "Bottesford",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "64aea5629750cd5efc83190f346147ff",
-      "date": "2026-05-10",
-      "time": "10:30",
-      "home_team": "Woodlands Women U15",
-      "away_team": "Bottesford U15 Girls",
-      "venue": "ALLESTREE WOODLANDS SCHOOL",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Bottesford U15 Girls",
-      "home_away": "away",
-      "opponent": "Woodlands Women U15"
-    },
     {
       "id": "980c0ca6cd679357e593deefae1b141f",
       "date": "2026-05-17",
-      "time": "10:00",
+      "time": "12:30",
       "home_team": "Keyworth United F.C. U15 Kobras",
       "away_team": "Bottesford U15 Girls",
       "venue": "KEYWORTH UNITED COMMUNITY FOOTBALL CLUB",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "64aea5629750cd5efc83190f346147ff",
+      "date": "2026-05-10",
+      "time": "10:30",
+      "home_team": "Woodlands Women U15",
+      "away_team": "Bottesford U15 Girls",
+      "home_score": 3,
+      "away_score": 4,
+      "venue": "",
+      "division": "U15 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Bottesford U15 Girls",
+      "home_away": "away",
+      "opponent": "Woodlands Women U15",
+      "goals_for": 4,
+      "goals_against": 3
+    },
     {
       "id": "611444bd4e9d9a18e1a5f3ca2eaacfd1",
       "date": "2026-05-09",

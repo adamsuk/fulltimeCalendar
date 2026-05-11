@@ -1,6 +1,6 @@
 {
   "club": "Robin Hood",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
     {
       "id": "fd9e2da03ab670f766d8ed5733ec593f",
@@ -14,19 +14,6 @@
       "team": "Robin Hood Colts FC",
       "home_away": "away",
       "opponent": "Awsworth Villa Reserves"
-    },
-    {
-      "id": "e950b34d2798d5998f79dcd36bcf57eb",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Robin Hood Colts FC Youth U13",
-      "away_team": "Wollaton Hall & Bramcote F.C. Youth U13",
-      "venue": "SHERWOOD FIELDS (ROBIN HOOD COLTS FC)",
-      "division": "U13 Div 2 11 v 11",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Robin Hood Colts FC Youth U13",
-      "home_away": "home",
-      "opponent": "Wollaton Hall & Bramcote F.C. Youth U13"
     },
     {
       "id": "afd0161270773648deb73290f0628791",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "e950b34d2798d5998f79dcd36bcf57eb",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Robin Hood Colts FC Youth U13",
+      "away_team": "Wollaton Hall & Bramcote F.C. Youth U13",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U13 Div 2 11 v 11",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Robin Hood Colts FC Youth U13",
+      "home_away": "home",
+      "opponent": "Wollaton Hall & Bramcote F.C. Youth U13",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "1a255d74ce9b4129454b7d09c3f78d7b",
       "date": "2026-05-03",

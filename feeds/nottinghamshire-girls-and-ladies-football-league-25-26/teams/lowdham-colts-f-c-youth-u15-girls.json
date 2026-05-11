@@ -1,30 +1,8 @@
 {
   "team": "Lowdham Colts F.C. Youth U15 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "c3078d5e637f8b8dcabec6f035733803",
-      "date": "2026-05-10",
-      "time": "10:30",
-      "home_team": "Lowdham Colts F.C. Youth U15 Girls",
-      "away_team": "Hilton Harriers U15 Girls Sunday",
-      "venue": "EPPERSTONE PLAYING FIELDS",
-      "division": "U15 Div 2",
-      "home_away": "home",
-      "opponent": "Hilton Harriers U15 Girls Sunday"
-    },
-    {
-      "id": "6a645affeb8e70bfa34507b62a624e14",
-      "date": "2026-05-10",
-      "time": "11:15",
-      "home_team": "Hilton Harriers U15 Girls Sunday",
-      "away_team": "Lowdham Colts F.C. Youth U15 Girls",
-      "venue": "EPPERSTONE PLAYING FIELDS",
-      "division": "U15 Div 2",
-      "home_away": "away",
-      "opponent": "Hilton Harriers U15 Girls Sunday"
-    },
     {
       "id": "ea7fe4fdf84c019c655b244129ad30a2",
       "date": "2026-05-17",
@@ -39,7 +17,7 @@
     {
       "id": "093591f73180045a6147b5eddab2fd18",
       "date": "2026-05-24",
-      "time": "11:00",
+      "time": "11:15",
       "home_team": "Sherwood Colliery F.C. Ladies U15",
       "away_team": "Lowdham Colts F.C. Youth U15 Girls",
       "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
@@ -49,6 +27,36 @@
     }
   ],
   "results": [
+    {
+      "id": "6a645affeb8e70bfa34507b62a624e14",
+      "date": "2026-05-10",
+      "time": "11:15",
+      "home_team": "Hilton Harriers U15 Girls Sunday",
+      "away_team": "Lowdham Colts F.C. Youth U15 Girls",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U15 Div 2",
+      "home_away": "away",
+      "opponent": "Hilton Harriers U15 Girls Sunday",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "c3078d5e637f8b8dcabec6f035733803",
+      "date": "2026-05-10",
+      "time": "10:30",
+      "home_team": "Lowdham Colts F.C. Youth U15 Girls",
+      "away_team": "Hilton Harriers U15 Girls Sunday",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U15 Div 2",
+      "home_away": "home",
+      "opponent": "Hilton Harriers U15 Girls Sunday",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "573d0c51c9b74580059a6ce257dad5db",
       "date": "2026-05-03",

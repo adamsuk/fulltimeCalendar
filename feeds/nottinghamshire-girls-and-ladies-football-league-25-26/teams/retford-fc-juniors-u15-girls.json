@@ -1,19 +1,8 @@
 {
   "team": "Retford FC Juniors U15 GIRLS",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "aeca87a1a70b93bd50ec8eac7771237a",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Burton Joyce F.C. Girls U15 Green",
-      "away_team": "Retford FC Juniors U15 GIRLS",
-      "venue": "POPLARS SPORTS GROUND",
-      "division": "U15 Div 3",
-      "home_away": "away",
-      "opponent": "Burton Joyce F.C. Girls U15 Green"
-    },
     {
       "id": "4b62babcad1094841cab295da9a779c6",
       "date": "2026-05-17",
@@ -49,6 +38,21 @@
     }
   ],
   "results": [
+    {
+      "id": "aeca87a1a70b93bd50ec8eac7771237a",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Burton Joyce F.C. Girls U15 Green",
+      "away_team": "Retford FC Juniors U15 GIRLS",
+      "home_score": 3,
+      "away_score": 6,
+      "venue": "",
+      "division": "U15 Div 3",
+      "home_away": "away",
+      "opponent": "Burton Joyce F.C. Girls U15 Green",
+      "goals_for": 6,
+      "goals_against": 3
+    },
     {
       "id": "ecd70f3bd008eab997ce4669e69f2bb1",
       "date": "2026-05-03",

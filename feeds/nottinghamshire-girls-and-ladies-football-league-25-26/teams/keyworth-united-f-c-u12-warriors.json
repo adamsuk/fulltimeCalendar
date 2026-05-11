@@ -1,32 +1,36 @@
 {
   "team": "Keyworth United F.C. U12 Warriors",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "37856c0102374038717ed1f3351115b7",
-      "date": "2026-05-10",
-      "time": "11:30",
-      "home_team": "Hucknall & Linby Harriers FC U12",
-      "away_team": "Keyworth United F.C. U12 Warriors",
-      "venue": "HOLGATE ACADEMY",
-      "division": "U12 Div 1 P2",
-      "home_away": "away",
-      "opponent": "Hucknall & Linby Harriers FC U12"
-    },
     {
       "id": "ba74eb35a4bc789ed69a9e468781e036",
       "date": "2026-05-17",
-      "time": "10:00",
+      "time": "11:00",
       "home_team": "Mansfield Town F.C. Girls U12",
       "away_team": "Keyworth United F.C. U12 Warriors",
-      "venue": "RH ACADEMY",
+      "venue": "MANSFIELD TOWN FC (ONE CALL STADIUM)",
       "division": "U12 Div 1 P2",
       "home_away": "away",
       "opponent": "Mansfield Town F.C. Girls U12"
     }
   ],
   "results": [
+    {
+      "id": "37856c0102374038717ed1f3351115b7",
+      "date": "2026-05-10",
+      "time": "11:30",
+      "home_team": "Hucknall & Linby Harriers FC U12",
+      "away_team": "Keyworth United F.C. U12 Warriors",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Div 1 P2",
+      "home_away": "away",
+      "opponent": "Hucknall & Linby Harriers FC U12",
+      "goals_for": 3,
+      "goals_against": 5
+    },
     {
       "id": "2250f211b95872903ad9bda42c24de0d",
       "date": "2026-05-03",

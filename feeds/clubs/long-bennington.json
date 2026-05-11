@@ -1,20 +1,7 @@
 {
   "club": "Long Bennington",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "b0f0ae97d413910b2151a3f206d30b32",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Belper Town Juniors U18 Girls",
-      "away_team": "Long Bennington FC U18 Girls",
-      "venue": "THORNTONS PLAYING FIELDS",
-      "division": "U18 Div 1 Phase 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Long Bennington FC U18 Girls",
-      "home_away": "away",
-      "opponent": "Belper Town Juniors U18 Girls"
-    },
     {
       "id": "a80483c8eece0a238e0b424cc9acf92b",
       "date": "2026-05-17",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "b0f0ae97d413910b2151a3f206d30b32",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Belper Town Juniors U18 Girls",
+      "away_team": "Long Bennington FC U18 Girls",
+      "home_score": 7,
+      "away_score": 1,
+      "venue": "",
+      "division": "U18 Div 1 Phase 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Long Bennington FC U18 Girls",
+      "home_away": "away",
+      "opponent": "Belper Town Juniors U18 Girls",
+      "goals_for": 1,
+      "goals_against": 7
+    },
     {
       "id": "bdc511c84931b49ffd1c1c94b208ab5a",
       "date": "2026-05-03",

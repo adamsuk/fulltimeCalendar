@@ -1,19 +1,8 @@
 {
   "team": "Quarrydale United FC U12",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "44a3ae02a08204c996d4a632c38231d4",
-      "date": "2026-05-10",
-      "time": "11:00",
-      "home_team": "Sutton Bonington U12 Comets",
-      "away_team": "Quarrydale United FC U12",
-      "venue": "SUTTON BONINGTON PLAYING FIELDS",
-      "division": "U12 Div 5 P2",
-      "home_away": "away",
-      "opponent": "Sutton Bonington U12 Comets"
-    },
     {
       "id": "52a9a5fab44064a4de91e3924cbe681d",
       "date": "2026-05-17",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "44a3ae02a08204c996d4a632c38231d4",
+      "date": "2026-05-10",
+      "time": "11:00",
+      "home_team": "Sutton Bonington U12 Comets",
+      "away_team": "Quarrydale United FC U12",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 5 P2",
+      "home_away": "away",
+      "opponent": "Sutton Bonington U12 Comets",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "e3a74c3978ff0b5de75458a6c4ca0918",
       "date": "2026-05-03",

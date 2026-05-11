@@ -1,20 +1,7 @@
 {
   "club": "Blidworth Bengals",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "5316abdd0e9f26d33c6f1a493fb3948b",
-      "date": "2026-05-10",
-      "time": "10:45",
-      "home_team": "West Bridgford Colts U12 Flames",
-      "away_team": "Blidworth Bengals F.C. U12",
-      "venue": "GRESHAM SPORTS PARK",
-      "division": "U12 Div 3 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Blidworth Bengals F.C. U12",
-      "home_away": "away",
-      "opponent": "West Bridgford Colts U12 Flames"
-    },
     {
       "id": "875b60096546e08e4feab26a6d32a488",
       "date": "2026-05-13",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "5316abdd0e9f26d33c6f1a493fb3948b",
+      "date": "2026-05-10",
+      "time": "10:45",
+      "home_team": "West Bridgford Colts U12 Flames",
+      "away_team": "Blidworth Bengals F.C. U12",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "",
+      "division": "U12 Div 3 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Blidworth Bengals F.C. U12",
+      "home_away": "away",
+      "opponent": "West Bridgford Colts U12 Flames",
+      "goals_for": 6,
+      "goals_against": 1
+    },
     {
       "id": "7cdf7199f5162ec41859a991431c6577",
       "date": "2026-04-28",

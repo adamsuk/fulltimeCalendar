@@ -1,19 +1,8 @@
 {
   "team": "Ollerton Town Community FC U12 Girls",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "a493311c5b9d4973c1b2c7aedb24ba78",
-      "date": "2026-05-10",
-      "time": "11:15",
-      "home_team": "Sherwood Colliery F.C. Ladies U12 Blue",
-      "away_team": "Ollerton Town Community FC U12 Girls",
-      "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
-      "division": "U12 Div 2 P2",
-      "home_away": "away",
-      "opponent": "Sherwood Colliery F.C. Ladies U12 Blue"
-    },
     {
       "id": "72a8fa9ee59f74f7ca40277d3b239dfc",
       "date": "2026-05-17",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "a493311c5b9d4973c1b2c7aedb24ba78",
+      "date": "2026-05-10",
+      "time": "11:15",
+      "home_team": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "away_team": "Ollerton Town Community FC U12 Girls",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Div 2 P2",
+      "home_away": "away",
+      "opponent": "Sherwood Colliery F.C. Ladies U12 Blue",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "e95bf87952e91d2154468c3d5a9864ab",
       "date": "2026-05-03",

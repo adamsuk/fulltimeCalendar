@@ -1,6 +1,6 @@
 {
   "club": "Mansfield Town Grassroots",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
     {
       "id": "29ba83e4c31be9af508e4a1570165c5c",
@@ -14,19 +14,6 @@
       "team": "Mansfield Town Grassroots U9",
       "home_away": "away",
       "opponent": "Basford CFC Barca U9"
-    },
-    {
-      "id": "b8183e3091e921ba50e7a3a760029c60",
-      "date": "2026-05-10",
-      "time": "11:45",
-      "home_team": "Mansfield Town Grassroots U10",
-      "away_team": "Eastwood CFC Madrid U10",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U10 Sun YEL Cup",
-      "league": "YEL East Midlands Sunday 25/26",
-      "team": "Mansfield Town Grassroots U10",
-      "home_away": "home",
-      "opponent": "Eastwood CFC Madrid U10"
     },
     {
       "id": "9b620731612b1b3d3b12962447122217",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "b8183e3091e921ba50e7a3a760029c60",
+      "date": "2026-05-10",
+      "time": "11:45",
+      "home_team": "Mansfield Town Grassroots U10",
+      "away_team": "Eastwood CFC Madrid U10",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U10 Sun YEL Cup",
+      "league": "YEL East Midlands Sunday 25/26",
+      "team": "Mansfield Town Grassroots U10",
+      "home_away": "home",
+      "opponent": "Eastwood CFC Madrid U10",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "3118f3da533c5baaf0515b0cb0f0cfd7",
       "date": "2026-04-26",

@@ -1,20 +1,7 @@
 {
   "club": "ATFA Brinsley",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "422410ae0ced72594a91f0323c128413",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "ATFA Brinsley FC U12",
-      "away_team": "Burton Joyce F.C. Girls U12 Outlaws",
-      "venue": "BRINSLEY RECREATION GROUND",
-      "division": "U12 Div 3 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "ATFA Brinsley FC U12",
-      "home_away": "home",
-      "opponent": "Burton Joyce F.C. Girls U12 Outlaws"
-    },
     {
       "id": "9b4548626bf3c975265e55b83ff13710",
       "date": "2026-05-14",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "422410ae0ced72594a91f0323c128413",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "ATFA Brinsley FC U12",
+      "away_team": "Burton Joyce F.C. Girls U12 Outlaws",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Div 3 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "ATFA Brinsley FC U12",
+      "home_away": "home",
+      "opponent": "Burton Joyce F.C. Girls U12 Outlaws",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "2f355ea684cc7b310885f0574f47fa89",
       "date": "2026-05-03",

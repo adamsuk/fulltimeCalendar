@@ -1,6 +1,6 @@
 {
   "club": "Stapleford Town",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
     {
       "id": "71ff33cc0a0c78af145dd7dfe9f0bd6b",
@@ -14,32 +14,6 @@
       "team": "Stapleford Town FC U23",
       "home_away": "home",
       "opponent": "South Notts AFC Development"
-    },
-    {
-      "id": "aa8c6ef2c3119f827cab475a1252cf81",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Stapleford Town FC U13 Girls",
-      "away_team": "Keyworth United F.C. U13 Girls",
-      "venue": "STAPLEFORD COMMUNITY PAVILION",
-      "division": "U13 Div 1 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Stapleford Town FC U13 Girls",
-      "home_away": "home",
-      "opponent": "Keyworth United F.C. U13 Girls"
-    },
-    {
-      "id": "ad2bf85d613b925007df1cd3a0a460ba",
-      "date": "2026-05-10",
-      "time": "11:30",
-      "home_team": "Stapleford Town FC U15 Girls",
-      "away_team": "Arnold Eagles F.C. Girls U15 Avengers",
-      "venue": "STAPLEFORD COMMUNITY PAVILION",
-      "division": "U15 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Stapleford Town FC U15 Girls",
-      "home_away": "home",
-      "opponent": "Arnold Eagles F.C. Girls U15 Avengers"
     },
     {
       "id": "5c534a1130cc0556a02c262e96422ab3",
@@ -160,6 +134,40 @@
     }
   ],
   "results": [
+    {
+      "id": "ad2bf85d613b925007df1cd3a0a460ba",
+      "date": "2026-05-10",
+      "time": "11:30",
+      "home_team": "Stapleford Town FC U15 Girls",
+      "away_team": "Arnold Eagles F.C. Girls U15 Avengers",
+      "home_score": 0,
+      "away_score": 6,
+      "venue": "",
+      "division": "U15 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Stapleford Town FC U15 Girls",
+      "home_away": "home",
+      "opponent": "Arnold Eagles F.C. Girls U15 Avengers",
+      "goals_for": 0,
+      "goals_against": 6
+    },
+    {
+      "id": "aa8c6ef2c3119f827cab475a1252cf81",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Stapleford Town FC U13 Girls",
+      "away_team": "Keyworth United F.C. U13 Girls",
+      "home_score": 14,
+      "away_score": 1,
+      "venue": "",
+      "division": "U13 Div 1 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Stapleford Town FC U13 Girls",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U13 Girls",
+      "goals_for": 14,
+      "goals_against": 1
+    },
     {
       "id": "aff54714a4a353790b339d003780965b",
       "date": "2026-05-09",

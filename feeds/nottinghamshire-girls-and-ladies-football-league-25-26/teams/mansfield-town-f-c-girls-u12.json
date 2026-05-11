@@ -1,7 +1,7 @@
 {
   "team": "Mansfield Town F.C. Girls U12",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
     {
       "id": "9aac7436c7a5bc268266c6c366c5b3e7",
@@ -15,29 +15,33 @@
       "opponent": "Sandiacre Town Youth U12 Panthers Girls"
     },
     {
-      "id": "939a51f6dc6d07122300abfd14e58837",
-      "date": "2026-05-10",
-      "time": "15:00",
-      "home_team": "Mansfield Town F.C. Girls U12",
-      "away_team": "Burton Joyce F.C. Girls U12 Olympians",
-      "venue": "MANSFIELD TOWN FC (ONE CALL STADIUM)",
-      "division": "U12 Div 1 P2",
-      "home_away": "home",
-      "opponent": "Burton Joyce F.C. Girls U12 Olympians"
-    },
-    {
       "id": "ba74eb35a4bc789ed69a9e468781e036",
       "date": "2026-05-17",
-      "time": "10:00",
+      "time": "11:00",
       "home_team": "Mansfield Town F.C. Girls U12",
       "away_team": "Keyworth United F.C. U12 Warriors",
-      "venue": "RH ACADEMY",
+      "venue": "MANSFIELD TOWN FC (ONE CALL STADIUM)",
       "division": "U12 Div 1 P2",
       "home_away": "home",
       "opponent": "Keyworth United F.C. U12 Warriors"
     }
   ],
   "results": [
+    {
+      "id": "939a51f6dc6d07122300abfd14e58837",
+      "date": "2026-05-10",
+      "time": "15:00",
+      "home_team": "Mansfield Town F.C. Girls U12",
+      "away_team": "Burton Joyce F.C. Girls U12 Olympians",
+      "home_score": 5,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Div 1 P2",
+      "home_away": "home",
+      "opponent": "Burton Joyce F.C. Girls U12 Olympians",
+      "goals_for": 5,
+      "goals_against": 0
+    },
     {
       "id": "e62a3229ac49158f9a1c452e50b8c669",
       "date": "2026-04-19",

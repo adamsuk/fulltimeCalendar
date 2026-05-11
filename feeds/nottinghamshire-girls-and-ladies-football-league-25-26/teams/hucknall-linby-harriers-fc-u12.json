@@ -1,23 +1,12 @@
 {
   "team": "Hucknall & Linby Harriers FC U12",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "37856c0102374038717ed1f3351115b7",
-      "date": "2026-05-10",
-      "time": "11:30",
-      "home_team": "Hucknall & Linby Harriers FC U12",
-      "away_team": "Keyworth United F.C. U12 Warriors",
-      "venue": "HOLGATE ACADEMY",
-      "division": "U12 Div 1 P2",
-      "home_away": "home",
-      "opponent": "Keyworth United F.C. U12 Warriors"
-    },
     {
       "id": "0a07f4e2b1dbdfb2f06ab27215cd8b19",
       "date": "2026-05-17",
-      "time": "10:10",
+      "time": "10:00",
       "home_team": "Cotgrave FC U12 Girls",
       "away_team": "Hucknall & Linby Harriers FC U12",
       "venue": "ARTHUR RIDLEY SPORTS GROUND",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "37856c0102374038717ed1f3351115b7",
+      "date": "2026-05-10",
+      "time": "11:30",
+      "home_team": "Hucknall & Linby Harriers FC U12",
+      "away_team": "Keyworth United F.C. U12 Warriors",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Div 1 P2",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U12 Warriors",
+      "goals_for": 5,
+      "goals_against": 3
+    },
     {
       "id": "3917018f15209ae3fd842eac48ea9447",
       "date": "2026-04-26",

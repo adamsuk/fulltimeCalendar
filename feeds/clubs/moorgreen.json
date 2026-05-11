@@ -1,20 +1,7 @@
 {
   "club": "Moorgreen",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "521aa69d3c4c6369dae3ee86f8eef4f7",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Moorgreen Colts F.C. Youth U13",
-      "away_team": "Riverside Junior U13 Sapphires",
-      "venue": "HADDON WAY PUBLIC OPEN SPACE",
-      "division": "U13 Div 3 9 v 9",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Moorgreen Colts F.C. Youth U13",
-      "home_away": "home",
-      "opponent": "Riverside Junior U13 Sapphires"
-    },
     {
       "id": "e03ad6556cf955dd4313dd598e821368",
       "date": "2026-05-24",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "521aa69d3c4c6369dae3ee86f8eef4f7",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Moorgreen Colts F.C. Youth U13",
+      "away_team": "Riverside Junior U13 Sapphires",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U13 Div 3 9 v 9",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Moorgreen Colts F.C. Youth U13",
+      "home_away": "home",
+      "opponent": "Riverside Junior U13 Sapphires",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "8fdb50ffebe302db426fa87303a0fa73",
       "date": "2026-05-05",

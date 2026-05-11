@@ -1,6 +1,6 @@
 {
   "club": "Shirebrook",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
     {
       "id": "c31ba664ed5f991aeb8b202c4e9b5ae8",
@@ -14,45 +14,6 @@
       "team": "Shirebrook Rangers & Juniors U9 Girls",
       "home_away": "home",
       "opponent": "Hucknall & Linby Harriers FC U9"
-    },
-    {
-      "id": "43fb8e68f1cca7fd55cb7682aa2bf24f",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Ravenshead Reds F.C. Youth U14",
-      "away_team": "Shirebrook Rangers & Juniors U14 Girls",
-      "venue": "THE SUMMIT CENTRE",
-      "division": "U14 Div 3",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Shirebrook Rangers & Juniors U14 Girls",
-      "home_away": "away",
-      "opponent": "Ravenshead Reds F.C. Youth U14"
-    },
-    {
-      "id": "35b99ab97434574f35644377d1a41f87",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Shirebrook Rangers Women",
-      "away_team": "Sherwood Colliery FC Ladies",
-      "venue": "SHIREBROOK ACADEMY",
-      "division": "Seniors Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Shirebrook Rangers Women",
-      "home_away": "home",
-      "opponent": "Sherwood Colliery FC Ladies"
-    },
-    {
-      "id": "1ae56c7eb2cf9aa0a8c803733f01d051",
-      "date": "2026-05-10",
-      "time": "12:00",
-      "home_team": "Southwell City FC U18 Girls",
-      "away_team": "Shirebrook Rangers & Juniors U18 Girls",
-      "venue": "CENTENARY SPORTS GROUND",
-      "division": "U18 Div 2 Phase 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Shirebrook Rangers & Juniors U18 Girls",
-      "home_away": "away",
-      "opponent": "Southwell City FC U18 Girls"
     },
     {
       "id": "3477720e47ebb5146d3dc35eac41eb7e",
@@ -121,6 +82,57 @@
     }
   ],
   "results": [
+    {
+      "id": "1ae56c7eb2cf9aa0a8c803733f01d051",
+      "date": "2026-05-10",
+      "time": "12:00",
+      "home_team": "Southwell City FC U18 Girls",
+      "away_team": "Shirebrook Rangers & Juniors U18 Girls",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "",
+      "division": "U18 Div 2 Phase 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Shirebrook Rangers & Juniors U18 Girls",
+      "home_away": "away",
+      "opponent": "Southwell City FC U18 Girls",
+      "goals_for": 6,
+      "goals_against": 1
+    },
+    {
+      "id": "43fb8e68f1cca7fd55cb7682aa2bf24f",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Ravenshead Reds F.C. Youth U14",
+      "away_team": "Shirebrook Rangers & Juniors U14 Girls",
+      "home_score": 3,
+      "away_score": 1,
+      "venue": "",
+      "division": "U14 Div 3",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Shirebrook Rangers & Juniors U14 Girls",
+      "home_away": "away",
+      "opponent": "Ravenshead Reds F.C. Youth U14",
+      "goals_for": 1,
+      "goals_against": 3
+    },
+    {
+      "id": "35b99ab97434574f35644377d1a41f87",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers Women",
+      "away_team": "Sherwood Colliery FC Ladies",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Shirebrook Rangers Women",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery FC Ladies",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "efd0043b94a0561b3a108067dcb983a6",
       "date": "2026-05-03",

@@ -1,6 +1,6 @@
 {
   "club": "Hucknall & Linby Harriers",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
     {
       "id": "c31ba664ed5f991aeb8b202c4e9b5ae8",
@@ -16,43 +16,17 @@
       "opponent": "Shirebrook Rangers & Juniors U9 Girls"
     },
     {
-      "id": "0e6ded0e40db4ad5ed50611df0d1ad34",
-      "date": "2026-05-10",
+      "id": "0a07f4e2b1dbdfb2f06ab27215cd8b19",
+      "date": "2026-05-17",
       "time": "10:00",
-      "home_team": "Hucknall & Linby Harriers FC U12 Jets",
-      "away_team": "West Bridgford Colts U12 Lightning",
-      "venue": "HOLGATE ACADEMY",
-      "division": "U12 Div 3 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Hucknall & Linby Harriers FC U12 Jets",
-      "home_away": "home",
-      "opponent": "West Bridgford Colts U12 Lightning"
-    },
-    {
-      "id": "646d9037c3715a5f4249e0c201f2a74d",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Hucknall & Linby Harriers FC U14",
-      "away_team": "Stanton Ilkeston U14 Sapphires",
-      "venue": "HOLGATE ACADEMY",
-      "division": "U14 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Hucknall & Linby Harriers FC U14",
-      "home_away": "home",
-      "opponent": "Stanton Ilkeston U14 Sapphires"
-    },
-    {
-      "id": "37856c0102374038717ed1f3351115b7",
-      "date": "2026-05-10",
-      "time": "11:30",
-      "home_team": "Hucknall & Linby Harriers FC U12",
-      "away_team": "Keyworth United F.C. U12 Warriors",
-      "venue": "HOLGATE ACADEMY",
+      "home_team": "Cotgrave FC U12 Girls",
+      "away_team": "Hucknall & Linby Harriers FC U12",
+      "venue": "ARTHUR RIDLEY SPORTS GROUND",
       "division": "U12 Div 1 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Hucknall & Linby Harriers FC U12",
-      "home_away": "home",
-      "opponent": "Keyworth United F.C. U12 Warriors"
+      "home_away": "away",
+      "opponent": "Cotgrave FC U12 Girls"
     },
     {
       "id": "d355d92abd8f721f3c7fe72622671bb8",
@@ -92,19 +66,6 @@
       "team": "Hucknall & Linby Harriers FC U15",
       "home_away": "home",
       "opponent": "Holy Spirit Celtic FC U15"
-    },
-    {
-      "id": "0a07f4e2b1dbdfb2f06ab27215cd8b19",
-      "date": "2026-05-17",
-      "time": "10:10",
-      "home_team": "Cotgrave FC U12 Girls",
-      "away_team": "Hucknall & Linby Harriers FC U12",
-      "venue": "ARTHUR RIDLEY SPORTS GROUND",
-      "division": "U12 Div 1 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Hucknall & Linby Harriers FC U12",
-      "home_away": "away",
-      "opponent": "Cotgrave FC U12 Girls"
     },
     {
       "id": "3eab86308609df6555a9e401b9027c79",
@@ -160,6 +121,57 @@
     }
   ],
   "results": [
+    {
+      "id": "37856c0102374038717ed1f3351115b7",
+      "date": "2026-05-10",
+      "time": "11:30",
+      "home_team": "Hucknall & Linby Harriers FC U12",
+      "away_team": "Keyworth United F.C. U12 Warriors",
+      "home_score": 5,
+      "away_score": 3,
+      "venue": "",
+      "division": "U12 Div 1 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall & Linby Harriers FC U12",
+      "home_away": "home",
+      "opponent": "Keyworth United F.C. U12 Warriors",
+      "goals_for": 5,
+      "goals_against": 3
+    },
+    {
+      "id": "0e6ded0e40db4ad5ed50611df0d1ad34",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Hucknall & Linby Harriers FC U12 Jets",
+      "away_team": "West Bridgford Colts U12 Lightning",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 3 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall & Linby Harriers FC U12 Jets",
+      "home_away": "home",
+      "opponent": "West Bridgford Colts U12 Lightning",
+      "goals_for": 2,
+      "goals_against": 1
+    },
+    {
+      "id": "646d9037c3715a5f4249e0c201f2a74d",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Hucknall & Linby Harriers FC U14",
+      "away_team": "Stanton Ilkeston U14 Sapphires",
+      "home_score": 3,
+      "away_score": 0,
+      "venue": "",
+      "division": "U14 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Hucknall & Linby Harriers FC U14",
+      "home_away": "home",
+      "opponent": "Stanton Ilkeston U14 Sapphires",
+      "goals_for": 3,
+      "goals_against": 0
+    },
     {
       "id": "2f355ea684cc7b310885f0574f47fa89",
       "date": "2026-05-03",

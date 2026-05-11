@@ -1,19 +1,8 @@
 {
   "team": "Shirebrook Rangers Women",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-10T07:55:08Z",
+  "generated": "2026-05-11T08:56:52Z",
   "fixtures": [
-    {
-      "id": "35b99ab97434574f35644377d1a41f87",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Shirebrook Rangers Women",
-      "away_team": "Sherwood Colliery FC Ladies",
-      "venue": "SHIREBROOK ACADEMY",
-      "division": "Seniors Div 2",
-      "home_away": "home",
-      "opponent": "Sherwood Colliery FC Ladies"
-    },
     {
       "id": "3477720e47ebb5146d3dc35eac41eb7e",
       "date": "2026-05-13",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "35b99ab97434574f35644377d1a41f87",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "home_team": "Shirebrook Rangers Women",
+      "away_team": "Sherwood Colliery FC Ladies",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery FC Ladies",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "efd0043b94a0561b3a108067dcb983a6",
       "date": "2026-05-03",
