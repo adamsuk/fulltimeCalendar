@@ -1,43 +1,36 @@
 {
   "team": "Bingham Town F.C. U12 Girls Blue",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-11T08:56:52Z",
+  "generated": "2026-05-12T08:26:58Z",
   "fixtures": [
-    {
-      "id": "7b51107b1803216f1ddb48af5b5a589b",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Eastwood CFC U12 Girls",
-      "away_team": "Bingham Town F.C. U12 Girls Blue",
-      "venue": "CORONATION PARK",
-      "division": "U12 Div 4 P2",
-      "home_away": "away",
-      "opponent": "Eastwood CFC U12 Girls"
-    },
-    {
-      "id": "d75a890082d7ced234934dcff70e3a74",
-      "date": "2026-05-11",
-      "time": "18:30",
-      "home_team": "Bingham Town F.C. U12 Girls Blue",
-      "away_team": "Southwell City FC U12 Swans",
-      "venue": "HOSE VILLAGE HALL",
-      "division": "U12 Div 4 P2",
-      "home_away": "home",
-      "opponent": "Southwell City FC U12 Swans"
-    },
     {
       "id": "a25350aab2547f3ccf6da193e2dface0",
       "date": "2026-05-17",
       "time": "10:00",
       "home_team": "Bingham Town F.C. U12 Girls Blue",
       "away_team": "Lowdham Colts F.C. Youth U12 Girls",
-      "venue": "EPPERSTONE PLAYING FIELDS",
+      "venue": "GUNTHORPE PLAYING FIELD",
       "division": "U12 Div 4 P2",
       "home_away": "home",
       "opponent": "Lowdham Colts F.C. Youth U12 Girls"
     }
   ],
   "results": [
+    {
+      "id": "d75a890082d7ced234934dcff70e3a74",
+      "date": "2026-05-11",
+      "time": "18:30",
+      "home_team": "Bingham Town F.C. U12 Girls Blue",
+      "away_team": "Southwell City FC U12 Swans",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Div 4 P2",
+      "home_away": "home",
+      "opponent": "Southwell City FC U12 Swans",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "7b51107b1803216f1ddb48af5b5a589b",
       "date": "2026-05-10",

@@ -1,33 +1,7 @@
 {
   "club": "Bingham Town",
-  "generated": "2026-05-11T08:56:52Z",
+  "generated": "2026-05-12T08:26:58Z",
   "fixtures": [
-    {
-      "id": "7b51107b1803216f1ddb48af5b5a589b",
-      "date": "2026-05-10",
-      "time": "10:00",
-      "home_team": "Eastwood CFC U12 Girls",
-      "away_team": "Bingham Town F.C. U12 Girls Blue",
-      "venue": "CORONATION PARK",
-      "division": "U12 Div 4 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Bingham Town F.C. U12 Girls Blue",
-      "home_away": "away",
-      "opponent": "Eastwood CFC U12 Girls"
-    },
-    {
-      "id": "d75a890082d7ced234934dcff70e3a74",
-      "date": "2026-05-11",
-      "time": "18:30",
-      "home_team": "Bingham Town F.C. U12 Girls Blue",
-      "away_team": "Southwell City FC U12 Swans",
-      "venue": "HOSE VILLAGE HALL",
-      "division": "U12 Div 4 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Bingham Town F.C. U12 Girls Blue",
-      "home_away": "home",
-      "opponent": "Southwell City FC U12 Swans"
-    },
     {
       "id": "45688a8f47dbc72eb614a1c759ee03e8",
       "date": "2026-05-14",
@@ -73,7 +47,7 @@
       "time": "10:00",
       "home_team": "Bingham Town F.C. U12 Girls Blue",
       "away_team": "Lowdham Colts F.C. Youth U12 Girls",
-      "venue": "EPPERSTONE PLAYING FIELDS",
+      "venue": "GUNTHORPE PLAYING FIELD",
       "division": "U12 Div 4 P2",
       "league": "Nottinghamshire Girls and Ladies Football League 25/26",
       "team": "Bingham Town F.C. U12 Girls Blue",
@@ -108,6 +82,23 @@
     }
   ],
   "results": [
+    {
+      "id": "d75a890082d7ced234934dcff70e3a74",
+      "date": "2026-05-11",
+      "time": "18:30",
+      "home_team": "Bingham Town F.C. U12 Girls Blue",
+      "away_team": "Southwell City FC U12 Swans",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "",
+      "division": "U12 Div 4 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Bingham Town F.C. U12 Girls Blue",
+      "home_away": "home",
+      "opponent": "Southwell City FC U12 Swans",
+      "goals_for": 1,
+      "goals_against": 0
+    },
     {
       "id": "96adf9cc029d91c948b808b7633e4b93",
       "date": "2026-05-10",
