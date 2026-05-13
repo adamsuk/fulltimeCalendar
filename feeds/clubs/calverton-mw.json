@@ -1,20 +1,7 @@
 {
   "club": "Calverton MW",
-  "generated": "2026-05-12T08:26:58Z",
+  "generated": "2026-05-13T08:32:26Z",
   "fixtures": [
-    {
-      "id": "94914daa596effac9639913bca63e908",
-      "date": "2026-05-12",
-      "time": "18:15",
-      "home_team": "Long Eaton United White U13",
-      "away_team": "Calverton MW Red U13",
-      "venue": "Greenwich Avenue NG6 0LD",
-      "division": "U13 Sat YEL Trophy",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Calverton MW Red U13",
-      "home_away": "away",
-      "opponent": "Long Eaton United White U13"
-    },
     {
       "id": "573b4d23f7ed39093e7d275f792cbf65",
       "date": "2026-05-16",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "94914daa596effac9639913bca63e908",
+      "date": "2026-05-12",
+      "time": "18:15",
+      "home_team": "Long Eaton United White U13",
+      "away_team": "Calverton MW Red U13",
+      "home_score": 5,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat YEL Trophy",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Calverton MW Red U13",
+      "home_away": "away",
+      "opponent": "Long Eaton United White U13",
+      "goals_for": 2,
+      "goals_against": 5
+    },
     {
       "id": "bdd436866f42d6adda9ef5f4c5efd1d7",
       "date": "2026-04-29",
