@@ -1,20 +1,7 @@
 {
   "club": "Newark Town",
-  "generated": "2026-05-13T08:32:26Z",
+  "generated": "2026-05-14T08:26:36Z",
   "fixtures": [
-    {
-      "id": "ecaf0cea45ebaf5ecf6386b3f32dae79",
-      "date": "2026-05-13",
-      "time": "20:10",
-      "home_team": "Newark Town FC U23's",
-      "away_team": "Grantham Town FC U23",
-      "venue": "YMCA NEWARK & SHERWOOD SPORTS COMMUNITY AND ACTIVITY VILLAGE",
-      "division": "Development Spring Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Newark Town FC U23's",
-      "home_away": "home",
-      "opponent": "Grantham Town FC U23"
-    },
     {
       "id": "93842200449c88bc794f1f9faa0c4cef",
       "date": "2026-05-16",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "ecaf0cea45ebaf5ecf6386b3f32dae79",
+      "date": "2026-05-13",
+      "time": "20:10",
+      "home_team": "Newark Town FC U23's",
+      "away_team": "Grantham Town FC U23",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Newark Town FC U23's",
+      "home_away": "home",
+      "opponent": "Grantham Town FC U23",
+      "goals_for": 3,
+      "goals_against": 2
+    },
     {
       "id": "7a606f82eae995193b96b843499ba6d6",
       "date": "2026-05-10",

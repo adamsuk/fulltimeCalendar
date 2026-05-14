@@ -1,19 +1,8 @@
 {
   "team": "Grantham Town FC U23",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-05-13T08:32:26Z",
+  "generated": "2026-05-14T08:26:36Z",
   "fixtures": [
-    {
-      "id": "ecaf0cea45ebaf5ecf6386b3f32dae79",
-      "date": "2026-05-13",
-      "time": "20:10",
-      "home_team": "Newark Town FC U23's",
-      "away_team": "Grantham Town FC U23",
-      "venue": "YMCA NEWARK & SHERWOOD SPORTS COMMUNITY AND ACTIVITY VILLAGE",
-      "division": "Development Spring Division Two",
-      "home_away": "away",
-      "opponent": "Newark Town FC U23's"
-    },
     {
       "id": "3d4eb5847ac94707c32e6740107a00ce",
       "date": "2026-05-16",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "ecaf0cea45ebaf5ecf6386b3f32dae79",
+      "date": "2026-05-13",
+      "time": "20:10",
+      "home_team": "Newark Town FC U23's",
+      "away_team": "Grantham Town FC U23",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "home_away": "away",
+      "opponent": "Newark Town FC U23's",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "ef0561f9a4d8ade8ffd8561b200ef1ce",
       "date": "2026-04-25",
@@ -118,21 +122,6 @@
       "goals_against": 3
     },
     {
-      "id": "c47d27894800b7854dd92ac439786316",
-      "date": "2026-03-07",
-      "time": "11:15",
-      "home_team": "Pegasus FC",
-      "away_team": "Grantham Town FC U23",
-      "home_score": 2,
-      "away_score": 3,
-      "venue": "",
-      "division": "Development Spring Division Two",
-      "home_away": "away",
-      "opponent": "Pegasus FC",
-      "goals_for": 3,
-      "goals_against": 2
-    },
-    {
       "id": "2cec636e79ffd6559b0cb06b088cadcd",
       "date": "2026-02-28",
       "time": "10:00",
@@ -161,21 +150,6 @@
       "opponent": "Stapleford Town FC U23",
       "goals_for": 6,
       "goals_against": 2
-    },
-    {
-      "id": "34bf1e688c95d9b2dfb6c3618119809a",
-      "date": "2026-02-07",
-      "time": "10:00",
-      "home_team": "Grantham Town FC U23",
-      "away_team": "Pegasus FC",
-      "home_score": 6,
-      "away_score": 0,
-      "venue": "",
-      "division": "Development Spring Division Two",
-      "home_away": "home",
-      "opponent": "Pegasus FC",
-      "goals_for": 6,
-      "goals_against": 0
     },
     {
       "id": "14a5aca7caeb5a27b4f89587ab49c4d4",

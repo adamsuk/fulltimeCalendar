@@ -1,19 +1,8 @@
 {
   "team": "Burton Joyce F.C. Girls U12 Outlaws",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-13T08:32:26Z",
+  "generated": "2026-05-14T08:26:36Z",
   "fixtures": [
-    {
-      "id": "875b60096546e08e4feab26a6d32a488",
-      "date": "2026-05-13",
-      "time": "18:30",
-      "home_team": "Blidworth Bengals F.C. U12",
-      "away_team": "Burton Joyce F.C. Girls U12 Outlaws",
-      "venue": "BILSTHORPE SPORTS GROUND",
-      "division": "U12 Div 3 P2",
-      "home_away": "away",
-      "opponent": "Blidworth Bengals F.C. U12"
-    },
     {
       "id": "d355d92abd8f721f3c7fe72622671bb8",
       "date": "2026-05-17",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "875b60096546e08e4feab26a6d32a488",
+      "date": "2026-05-13",
+      "time": "18:30",
+      "home_team": "Blidworth Bengals F.C. U12",
+      "away_team": "Burton Joyce F.C. Girls U12 Outlaws",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "U12 Div 3 P2",
+      "home_away": "away",
+      "opponent": "Blidworth Bengals F.C. U12",
+      "goals_for": 4,
+      "goals_against": 2
+    },
     {
       "id": "422410ae0ced72594a91f0323c128413",
       "date": "2026-05-10",

@@ -1,19 +1,8 @@
 {
   "team": "Radcliffe Olympic FC U23",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-05-13T08:32:26Z",
+  "generated": "2026-05-14T08:26:36Z",
   "fixtures": [
-    {
-      "id": "9233619a3540ef62599140de9cfa5747",
-      "date": "2026-05-13",
-      "time": "18:45",
-      "home_team": "Radcliffe Olympic FC U23",
-      "away_team": "Burton Joyce F.C. U23",
-      "venue": "Bingham Road Playing Fields",
-      "division": "Development Spring Division Two",
-      "home_away": "home",
-      "opponent": "Burton Joyce F.C. U23"
-    },
     {
       "id": "3d4eb5847ac94707c32e6740107a00ce",
       "date": "2026-05-16",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "9233619a3540ef62599140de9cfa5747",
+      "date": "2026-05-13",
+      "time": "18:45",
+      "home_team": "Radcliffe Olympic FC U23",
+      "away_team": "Burton Joyce F.C. U23",
+      "home_score": 2,
+      "away_score": 3,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "home_away": "home",
+      "opponent": "Burton Joyce F.C. U23",
+      "goals_for": 2,
+      "goals_against": 3
+    },
     {
       "id": "20265529930af737a319efba901efa5a",
       "date": "2026-05-09",
@@ -71,21 +75,6 @@
       "opponent": "Walesby F.C. U23s",
       "goals_for": 0,
       "goals_against": 2
-    },
-    {
-      "id": "f72e81ebcbefdaa01e6c50af5c97fe47",
-      "date": "2026-04-18",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic FC U23",
-      "away_team": "Pegasus FC",
-      "home_score": 4,
-      "away_score": 1,
-      "venue": "",
-      "division": "Development Spring Division Two",
-      "home_away": "home",
-      "opponent": "Pegasus FC",
-      "goals_for": 4,
-      "goals_against": 1
     },
     {
       "id": "af98851d854df5e29b8166afcc2a1986",
@@ -206,21 +195,6 @@
       "opponent": "Bingham Town F.C. Development",
       "goals_for": 2,
       "goals_against": 1
-    },
-    {
-      "id": "989c0c1c5e056018f660b38d4a498926",
-      "date": "2026-01-17",
-      "time": "10:30",
-      "home_team": "Pegasus FC",
-      "away_team": "Radcliffe Olympic FC U23",
-      "home_score": 0,
-      "away_score": 1,
-      "venue": "",
-      "division": "Development Spring Division Two",
-      "home_away": "away",
-      "opponent": "Pegasus FC",
-      "goals_for": 1,
-      "goals_against": 0
     },
     {
       "id": "b7ce8747c6869868050628be6534bfa5",

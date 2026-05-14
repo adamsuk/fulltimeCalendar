@@ -1,19 +1,8 @@
 {
   "team": "Shirebrook Rangers Women",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-13T08:32:26Z",
+  "generated": "2026-05-14T08:26:36Z",
   "fixtures": [
-    {
-      "id": "3477720e47ebb5146d3dc35eac41eb7e",
-      "date": "2026-05-13",
-      "time": "19:30",
-      "home_team": "Shirebrook Rangers Women",
-      "away_team": "Eastwood & Kimberley FC",
-      "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
-      "division": "Senior Div 2 League Cup",
-      "home_away": "home",
-      "opponent": "Eastwood & Kimberley FC"
-    },
     {
       "id": "c9023a13d2e33de3f961bf31cfe818a5",
       "date": "2026-05-17",
@@ -27,6 +16,21 @@
     }
   ],
   "results": [
+    {
+      "id": "3477720e47ebb5146d3dc35eac41eb7e",
+      "date": "2026-05-13",
+      "time": "19:30",
+      "home_team": "Shirebrook Rangers Women",
+      "away_team": "Eastwood & Kimberley FC",
+      "home_score": 2,
+      "away_score": 4,
+      "venue": "",
+      "division": "Senior Div 2 League Cup",
+      "home_away": "home",
+      "opponent": "Eastwood & Kimberley FC",
+      "goals_for": 2,
+      "goals_against": 4
+    },
     {
       "id": "35b99ab97434574f35644377d1a41f87",
       "date": "2026-05-10",

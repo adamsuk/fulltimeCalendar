@@ -1,20 +1,7 @@
 {
   "club": "Mansfield Town",
-  "generated": "2026-05-13T08:32:26Z",
+  "generated": "2026-05-14T08:26:36Z",
   "fixtures": [
-    {
-      "id": "0a6d4d20e07d50c8cee17df06bc169a3",
-      "date": "2026-05-12",
-      "time": "19:30",
-      "home_team": "Calverton Miners Welfare FC",
-      "away_team": "Mansfield Town Ladies FC Development",
-      "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
-      "division": "Senior Div 1 League Cup",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Mansfield Town Ladies FC Development",
-      "home_away": "away",
-      "opponent": "Calverton Miners Welfare FC"
-    },
     {
       "id": "11551f189e64f0e0d3f8b5c1163edc37",
       "date": "2026-05-17",
@@ -82,6 +69,23 @@
     }
   ],
   "results": [
+    {
+      "id": "0a6d4d20e07d50c8cee17df06bc169a3",
+      "date": "2026-05-12",
+      "time": "19:30",
+      "home_team": "Calverton Miners Welfare FC",
+      "away_team": "Mansfield Town Ladies FC Development",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
+      "division": "Senior Div 1 League Cup",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Mansfield Town Ladies FC Development",
+      "home_away": "away",
+      "opponent": "Calverton Miners Welfare FC",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "939a51f6dc6d07122300abfd14e58837",
       "date": "2026-05-10",
