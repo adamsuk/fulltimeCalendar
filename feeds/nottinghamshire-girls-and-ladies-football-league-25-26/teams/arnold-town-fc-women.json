@@ -1,19 +1,8 @@
 {
   "team": "Arnold Town FC Women",
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-14T08:26:36Z",
+  "generated": "2026-05-15T08:37:23Z",
   "fixtures": [
-    {
-      "id": "f3d627667807742c5463b1ad3cd6cfdd",
-      "date": "2026-05-14",
-      "time": "18:30",
-      "home_team": "Arnold Town FC Women",
-      "away_team": "Sherwood Colliery FC Ladies",
-      "venue": "EAGLE VALLEY",
-      "division": "Seniors Div 2",
-      "home_away": "home",
-      "opponent": "Sherwood Colliery FC Ladies"
-    },
     {
       "id": "2f0f21aff73b8ef9d0aa4377a21ff2d2",
       "date": "2026-05-17",
@@ -38,6 +27,21 @@
     }
   ],
   "results": [
+    {
+      "id": "f3d627667807742c5463b1ad3cd6cfdd",
+      "date": "2026-05-14",
+      "time": "18:30",
+      "home_team": "Arnold Town FC Women",
+      "away_team": "Sherwood Colliery FC Ladies",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "home_away": "home",
+      "opponent": "Sherwood Colliery FC Ladies",
+      "goals_for": 1,
+      "goals_against": 5
+    },
     {
       "id": "f45041bd37d2891259c0b2a4dd3bec34",
       "date": "2026-05-10",

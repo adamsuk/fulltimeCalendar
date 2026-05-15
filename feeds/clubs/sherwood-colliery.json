@@ -1,20 +1,7 @@
 {
   "club": "Sherwood Colliery",
-  "generated": "2026-05-14T08:26:36Z",
+  "generated": "2026-05-15T08:37:23Z",
   "fixtures": [
-    {
-      "id": "f3d627667807742c5463b1ad3cd6cfdd",
-      "date": "2026-05-14",
-      "time": "18:30",
-      "home_team": "Arnold Town FC Women",
-      "away_team": "Sherwood Colliery FC Ladies",
-      "venue": "EAGLE VALLEY",
-      "division": "Seniors Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sherwood Colliery FC Ladies",
-      "home_away": "away",
-      "opponent": "Arnold Town FC Women"
-    },
     {
       "id": "50f398c8f3bcd56c507c1229dc31b53f",
       "date": "2026-05-17",
@@ -42,6 +29,19 @@
       "opponent": "Matlock Town Juniors U14 Spartans Girls"
     },
     {
+      "id": "2653247935c6b8098fbeb26545a6b70f",
+      "date": "2026-05-18",
+      "time": "19:30",
+      "home_team": "Sherwood Colliery F.C. Ladies U15",
+      "away_team": "Lowdham Colts F.C. Youth U15 Girls",
+      "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
+      "division": "U15 Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood Colliery F.C. Ladies U15",
+      "home_away": "home",
+      "opponent": "Lowdham Colts F.C. Youth U15 Girls"
+    },
+    {
       "id": "058a8efe6f0496b843cd32abb66cc12f",
       "date": "2026-05-24",
       "time": "10:00",
@@ -53,19 +53,6 @@
       "team": "Sherwood Colliery F.C. Ladies U12 Blue",
       "home_away": "away",
       "opponent": "Sherwood FC U12 Girls"
-    },
-    {
-      "id": "093591f73180045a6147b5eddab2fd18",
-      "date": "2026-05-24",
-      "time": "11:15",
-      "home_team": "Sherwood Colliery F.C. Ladies U15",
-      "away_team": "Lowdham Colts F.C. Youth U15 Girls",
-      "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
-      "division": "U15 Div 2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "Sherwood Colliery F.C. Ladies U15",
-      "home_away": "home",
-      "opponent": "Lowdham Colts F.C. Youth U15 Girls"
     },
     {
       "id": "c3b0e3fd3fecf05ccf6a843b6ae5dc39",
@@ -95,6 +82,23 @@
     }
   ],
   "results": [
+    {
+      "id": "f3d627667807742c5463b1ad3cd6cfdd",
+      "date": "2026-05-14",
+      "time": "18:30",
+      "home_team": "Arnold Town FC Women",
+      "away_team": "Sherwood Colliery FC Ladies",
+      "home_score": 1,
+      "away_score": 5,
+      "venue": "",
+      "division": "Seniors Div 2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "Sherwood Colliery FC Ladies",
+      "home_away": "away",
+      "opponent": "Arnold Town FC Women",
+      "goals_for": 5,
+      "goals_against": 1
+    },
     {
       "id": "a493311c5b9d4973c1b2c7aedb24ba78",
       "date": "2026-05-10",

@@ -1,20 +1,7 @@
 {
   "club": "West Bridgford Colts",
-  "generated": "2026-05-14T08:26:36Z",
+  "generated": "2026-05-15T08:37:23Z",
   "fixtures": [
-    {
-      "id": "9b4548626bf3c975265e55b83ff13710",
-      "date": "2026-05-14",
-      "time": "18:45",
-      "home_team": "West Bridgford Colts U12 Lightning",
-      "away_team": "ATFA Brinsley FC U12",
-      "venue": "REGATTA WAY SPORTS GROUND",
-      "division": "U12 Div 3 P2",
-      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-      "team": "West Bridgford Colts U12 Lightning",
-      "home_away": "home",
-      "opponent": "ATFA Brinsley FC U12"
-    },
     {
       "id": "3f156588f1a2d819b14a18b77efa1215",
       "date": "2026-05-19",
@@ -30,6 +17,23 @@
     }
   ],
   "results": [
+    {
+      "id": "9b4548626bf3c975265e55b83ff13710",
+      "date": "2026-05-14",
+      "time": "18:45",
+      "home_team": "West Bridgford Colts U12 Lightning",
+      "away_team": "ATFA Brinsley FC U12",
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "",
+      "division": "U12 Div 3 P2",
+      "league": "Nottinghamshire Girls and Ladies Football League 25/26",
+      "team": "West Bridgford Colts U12 Lightning",
+      "home_away": "home",
+      "opponent": "ATFA Brinsley FC U12",
+      "goals_for": 1,
+      "goals_against": 1
+    },
     {
       "id": "5316abdd0e9f26d33c6f1a493fb3948b",
       "date": "2026-05-10",
