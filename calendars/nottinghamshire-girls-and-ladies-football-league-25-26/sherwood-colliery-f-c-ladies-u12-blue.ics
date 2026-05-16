@@ -7,21 +7,21 @@ X-WR-CALNAME:Sherwood Colliery F.C. Ladies U12 Blue
 X-WR-CALDESC:Fixtures for Sherwood Colliery F.C. Ladies U12 Blue — YEL East Midlands
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:50f398c8f3bcd56c507c1229dc31b53f@yel-calendar
-DTSTAMP:20260515T083818Z
-DTSTART;TZID=Europe/London:20260517T100000
-DTEND;TZID=Europe/London:20260517T110000
-SUMMARY:⚽ Sherwood Colliery F.C. Ladies U12 Blue vs Woodthorpe Community U12 Warriors (Away)
-DESCRIPTION:Division: U12 Div 2 P2\nWoodthorpe Community U12 Warriors v Sherwood Colliery F.C. Ladies U12 Blue\nKO: 10:00
-LOCATION:POWERLEAGUE (NOTTINGHAM ARNOLD)
-END:VEVENT
-BEGIN:VEVENT
 UID:058a8efe6f0496b843cd32abb66cc12f@yel-calendar
-DTSTAMP:20260515T083818Z
+DTSTAMP:20260516T075034Z
 DTSTART;TZID=Europe/London:20260524T100000
 DTEND;TZID=Europe/London:20260524T110000
 SUMMARY:⚽ Sherwood Colliery F.C. Ladies U12 Blue vs Sherwood FC U12 Girls (Away)
 DESCRIPTION:Division: U12 Div 2 P2\nSherwood FC U12 Girls v Sherwood Colliery F.C. Ladies U12 Blue\nKO: 10:00
 LOCATION:CARLTON FOOTBALL CENTRE
+END:VEVENT
+BEGIN:VEVENT
+UID:7a61103538796fdaced1219162817a1a@yel-calendar
+DTSTAMP:20260516T075034Z
+DTSTART;TZID=Europe/London:20260531T100000
+DTEND;TZID=Europe/London:20260531T110000
+SUMMARY:⚽ Sherwood Colliery F.C. Ladies U12 Blue vs Woodthorpe Community U12 Warriors (Away)
+DESCRIPTION:Division: U12 Div 2 P2\nWoodthorpe Community U12 Warriors v Sherwood Colliery F.C. Ladies U12 Blue\nKO: 10:00
+LOCATION:POWERLEAGUE (NOTTINGHAM ARNOLD)
 END:VEVENT
 END:VCALENDAR
