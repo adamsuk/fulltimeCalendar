@@ -1,6 +1,6 @@
 {
   "club": "AFC Warriors",
-  "generated": "2026-05-16T07:49:32Z",
+  "generated": "2026-05-17T08:08:28Z",
   "fixtures": [
     {
       "id": "4675a1e8a2a2fa41268b0645c51b8239",
@@ -29,19 +29,6 @@
       "opponent": "Quorn FC Methodists"
     },
     {
-      "id": "f11df89d1372deda1885e375bc015584",
-      "date": "2026-05-16",
-      "time": "10:00",
-      "home_team": "Nottingham FC Onyx U11",
-      "away_team": "AFC Warriors Knights U11",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U11 Sat YEL Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "AFC Warriors Knights U11",
-      "home_away": "away",
-      "opponent": "Nottingham FC Onyx U11"
-    },
-    {
       "id": "86b33717672dabea7fba18ecf0043433",
       "date": "2026-05-24",
       "time": "11:00",
@@ -56,6 +43,23 @@
     }
   ],
   "results": [
+    {
+      "id": "f11df89d1372deda1885e375bc015584",
+      "date": "2026-05-16",
+      "time": "10:00",
+      "home_team": "Nottingham FC Onyx U11",
+      "away_team": "AFC Warriors Knights U11",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U11 Sat YEL Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "AFC Warriors Knights U11",
+      "home_away": "away",
+      "opponent": "Nottingham FC Onyx U11",
+      "goals_for": 0,
+      "goals_against": 2
+    },
     {
       "id": "5a5ca6d86c1090eba883993836c6bd61",
       "date": "2026-05-10",

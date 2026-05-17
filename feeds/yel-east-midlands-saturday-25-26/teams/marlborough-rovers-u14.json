@@ -1,7 +1,7 @@
 {
   "team": "Marlborough Rovers U14",
   "league": "YEL East Midlands Saturday 25/26",
-  "generated": "2026-05-16T07:49:32Z",
+  "generated": "2026-05-17T08:08:28Z",
   "fixtures": [
     {
       "id": "064e88a589114521b1b88f62e040f62d",
@@ -13,20 +13,24 @@
       "division": "U14 Sat Spring Premier Division",
       "home_away": "home",
       "opponent": "Heanor Juniors Badgers U14"
-    },
+    }
+  ],
+  "results": [
     {
       "id": "e46e1173e817ae3334e17f9d28f08584",
       "date": "2026-05-16",
       "time": "09:30",
       "home_team": "Marlborough Rovers U14",
       "away_team": "Ilkeston Town White Star U14",
-      "venue": "Ilkeston Town FC DE7 8JF",
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "",
       "division": "U14 Sat YEL Cup",
       "home_away": "home",
-      "opponent": "Ilkeston Town White Star U14"
-    }
-  ],
-  "results": [
+      "opponent": "Ilkeston Town White Star U14",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "3c82af7d97f6cbf223c38c45e6341980",
       "date": "2026-05-09",

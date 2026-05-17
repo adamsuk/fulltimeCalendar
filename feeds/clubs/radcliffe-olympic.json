@@ -1,20 +1,7 @@
 {
   "club": "Radcliffe Olympic",
-  "generated": "2026-05-16T07:49:32Z",
+  "generated": "2026-05-17T08:08:28Z",
   "fixtures": [
-    {
-      "id": "3d4eb5847ac94707c32e6740107a00ce",
-      "date": "2026-05-16",
-      "time": "10:00",
-      "home_team": "Radcliffe Olympic FC U23",
-      "away_team": "Grantham Town FC U23",
-      "venue": "GRANTHAM MERES LEISURE CENTRE",
-      "division": "Development Spring Division Two",
-      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-      "team": "Radcliffe Olympic FC U23",
-      "home_away": "home",
-      "opponent": "Grantham Town FC U23"
-    },
     {
       "id": "0ebca5fa012445a2a34a77c96309416f",
       "date": "2026-05-17",
@@ -69,6 +56,23 @@
     }
   ],
   "results": [
+    {
+      "id": "3d4eb5847ac94707c32e6740107a00ce",
+      "date": "2026-05-16",
+      "time": "10:00",
+      "home_team": "Radcliffe Olympic FC U23",
+      "away_team": "Grantham Town FC U23",
+      "home_score": 2,
+      "away_score": 6,
+      "venue": "",
+      "division": "Development Spring Division Two",
+      "league": "Euro Soccer Nottinghamshire Senior League 25/26",
+      "team": "Radcliffe Olympic FC U23",
+      "home_away": "home",
+      "opponent": "Grantham Town FC U23",
+      "goals_for": 2,
+      "goals_against": 6
+    },
     {
       "id": "9233619a3540ef62599140de9cfa5747",
       "date": "2026-05-13",

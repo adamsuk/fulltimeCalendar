@@ -1,20 +1,7 @@
 {
   "club": "Keyworth",
-  "generated": "2026-05-16T07:49:32Z",
+  "generated": "2026-05-17T08:08:28Z",
   "fixtures": [
-    {
-      "id": "4e2a31f9adeb57bf294ae2d69c9e0347",
-      "date": "2026-05-16",
-      "time": "14:00",
-      "home_team": "Keyworth United Blue U12",
-      "away_team": "Clifton All Whites Yellow U12",
-      "venue": "Nottingham Football Centre NG2 7BW",
-      "division": "U12 Sat YEL Inter Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Keyworth United Blue U12",
-      "home_away": "home",
-      "opponent": "Clifton All Whites Yellow U12"
-    },
     {
       "id": "ba74eb35a4bc789ed69a9e468781e036",
       "date": "2026-05-17",
@@ -108,6 +95,23 @@
     }
   ],
   "results": [
+    {
+      "id": "4e2a31f9adeb57bf294ae2d69c9e0347",
+      "date": "2026-05-16",
+      "time": "14:00",
+      "home_team": "Keyworth United Blue U12",
+      "away_team": "Clifton All Whites Yellow U12",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Keyworth United Blue U12",
+      "home_away": "home",
+      "opponent": "Clifton All Whites Yellow U12",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "e4cc4998770f20a8c2882ea048dc5981",
       "date": "2026-05-10",

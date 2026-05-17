@@ -1,6 +1,6 @@
 {
   "club": "Nottingham",
-  "generated": "2026-05-16T07:49:32Z",
+  "generated": "2026-05-17T08:08:28Z",
   "fixtures": [
     {
       "id": "415088ca6dbf75a992002efbd69d6faf",
@@ -27,32 +27,6 @@
       "team": "Nottingham F.C. Youth U16 Piranhas",
       "home_away": "away",
       "opponent": "Brodsworth Welfare AFC- Warriors U16"
-    },
-    {
-      "id": "f11df89d1372deda1885e375bc015584",
-      "date": "2026-05-16",
-      "time": "10:00",
-      "home_team": "Nottingham FC Onyx U11",
-      "away_team": "AFC Warriors Knights U11",
-      "venue": "Norman Archer Memorial Ground NG11 9AZ",
-      "division": "U11 Sat YEL Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Nottingham FC Onyx U11",
-      "home_away": "home",
-      "opponent": "AFC Warriors Knights U11"
-    },
-    {
-      "id": "044382180fdb1a91fd75c50173902475",
-      "date": "2026-05-16",
-      "time": "13:00",
-      "home_team": "Mickleover Jnrs Porto U13",
-      "away_team": "Nottingham FC Black U13",
-      "venue": "Ilkeston Town FC DE7 8JF",
-      "division": "U13 Sat YEL Inter Cup",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Nottingham FC Black U13",
-      "home_away": "away",
-      "opponent": "Mickleover Jnrs Porto U13"
     },
     {
       "id": "75a1dd6c7b80e2817bd74654ae91e6d2",
@@ -82,6 +56,40 @@
     }
   ],
   "results": [
+    {
+      "id": "044382180fdb1a91fd75c50173902475",
+      "date": "2026-05-16",
+      "time": "13:00",
+      "home_team": "Mickleover Jnrs Porto U13",
+      "away_team": "Nottingham FC Black U13",
+      "home_score": 0,
+      "away_score": 2,
+      "venue": "",
+      "division": "U13 Sat YEL Inter Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Black U13",
+      "home_away": "away",
+      "opponent": "Mickleover Jnrs Porto U13",
+      "goals_for": 2,
+      "goals_against": 0
+    },
+    {
+      "id": "f11df89d1372deda1885e375bc015584",
+      "date": "2026-05-16",
+      "time": "10:00",
+      "home_team": "Nottingham FC Onyx U11",
+      "away_team": "AFC Warriors Knights U11",
+      "home_score": 2,
+      "away_score": 0,
+      "venue": "",
+      "division": "U11 Sat YEL Cup",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Nottingham FC Onyx U11",
+      "home_away": "home",
+      "opponent": "AFC Warriors Knights U11",
+      "goals_for": 2,
+      "goals_against": 0
+    },
     {
       "id": "f644d11450c188682c8e804a1dfaf09f",
       "date": "2026-05-10",

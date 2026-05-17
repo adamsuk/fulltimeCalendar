@@ -1,7 +1,7 @@
 {
   "team": "Collingham FC Development",
   "league": "Euro Soccer Nottinghamshire Senior League 25/26",
-  "generated": "2026-05-16T07:49:32Z",
+  "generated": "2026-05-17T08:08:28Z",
   "fixtures": [
     {
       "id": "88005a260ef3d6ee5e7588f924ee26d7",
@@ -46,20 +46,24 @@
       "division": "Development Spring Division One",
       "home_away": "away",
       "opponent": "Quorn FC Methodists"
-    },
+    }
+  ],
+  "results": [
     {
       "id": "18409701acd19da7661309c52d7aa125",
       "date": "2026-05-16",
       "time": "10:30",
       "home_team": "Beaufort United F.C. Development",
       "away_team": "Collingham FC Development",
-      "venue": "Unwin Road",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
       "division": "Development Spring Division One",
       "home_away": "away",
-      "opponent": "Beaufort United F.C. Development"
-    }
-  ],
-  "results": [
+      "opponent": "Beaufort United F.C. Development",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "efb889fe04225625ce42fbdc8da079db",
       "date": "2026-05-09",

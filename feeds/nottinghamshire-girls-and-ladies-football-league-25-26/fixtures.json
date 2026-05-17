@@ -1,6 +1,6 @@
 {
   "league": "Nottinghamshire Girls and Ladies Football League 25/26",
-  "generated": "2026-05-16T07:49:32Z",
+  "generated": "2026-05-17T08:08:28Z",
   "fixtures": [
     {
       "id": "4aeb9b46959fec64d6b8987e877b88e3",
@@ -37,15 +37,6 @@
       "away_team": "Nottingham F.C. Youth U16 Piranhas",
       "venue": "BRODSWORTH MINERS WELFARE",
       "division": "U16 Div 1"
-    },
-    {
-      "id": "8f77faf39b930d1ad2f18a2abc770e85",
-      "date": "2026-05-17",
-      "time": "09:30",
-      "home_team": "Bagthorpe Athletic F.C. Youth U14 girls",
-      "away_team": "Priory Celtic F.C. U14 Lionesses",
-      "venue": "DIXIES ARMS PARK",
-      "division": "U14 Div 2"
     },
     {
       "id": "2fa52a26892edbd0456f4b7e1019e36d",
@@ -136,6 +127,15 @@
       "away_team": "Mansfield Town F.C. Girls U14",
       "venue": "TRENT VALE SPORTS ASSOCIATION",
       "division": "U14 Div 1"
+    },
+    {
+      "id": "8f77faf39b930d1ad2f18a2abc770e85",
+      "date": "2026-05-17",
+      "time": "10:00",
+      "home_team": "Bagthorpe Athletic F.C. Youth U14 girls",
+      "away_team": "Priory Celtic F.C. U14 Lionesses",
+      "venue": "DIXIES ARMS PARK",
+      "division": "U14 Div 2"
     },
     {
       "id": "84bcad126dacc68c5c6d3b59bca8f455",
@@ -507,6 +507,15 @@
       "division": "U13 Div 1 9 v 9"
     },
     {
+      "id": "37aa17fefe0d8ab2db1f2fe55a01a01e",
+      "date": "2026-05-24",
+      "time": "09:30",
+      "home_team": "Bagthorpe Athletic F.C. Youth U14 girls",
+      "away_team": "Priory Celtic F.C. U14 Lionesses",
+      "venue": "DIXIES ARMS PARK",
+      "division": "U14 Div 2"
+    },
+    {
       "id": "3e109bfda143735f3744b635b3445dca",
       "date": "2026-05-24",
       "time": "09:30",
@@ -678,15 +687,6 @@
       "division": "U12 Div 5 P2"
     },
     {
-      "id": "37aa17fefe0d8ab2db1f2fe55a01a01e",
-      "date": "2026-05-24",
-      "time": "10:05",
-      "home_team": "Bagthorpe Athletic F.C. Youth U14 girls",
-      "away_team": "Priory Celtic F.C. U14 Lionesses",
-      "venue": "DIXIES ARMS PARK",
-      "division": "U14 Div 2"
-    },
-    {
       "id": "6130391408b8aafb50709478c4db2e94",
       "date": "2026-05-24",
       "time": "10:30",
@@ -813,15 +813,6 @@
       "division": "U15 Div 3"
     },
     {
-      "id": "1bc7a14ddd1f66356658c3ae3356bd17",
-      "date": "2026-05-31",
-      "time": "10:30",
-      "home_team": "Sherwood Colliery F.C. Ladies U14",
-      "away_team": "Riverside Junior U14 Rubies",
-      "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
-      "division": "U14 Div 3"
-    },
-    {
       "id": "0e11977f3e65c8f8c316d9e3483e937d",
       "date": "2026-05-31",
       "time": "10:30",
@@ -856,6 +847,15 @@
       "away_team": "Holy Spirit Celtic FC U15",
       "venue": "BARLBOROUGH COUNTRY PARK",
       "division": "U15 Div 3"
+    },
+    {
+      "id": "1bc7a14ddd1f66356658c3ae3356bd17",
+      "date": "2026-05-31",
+      "time": "14:00",
+      "home_team": "Sherwood Colliery F.C. Ladies U14",
+      "away_team": "Riverside Junior U14 Rubies",
+      "venue": "DEBDALE PARK SPORTS AND RECREATIONAL CLUB",
+      "division": "U14 Div 3"
     }
   ]
 }

@@ -1,20 +1,7 @@
 {
   "club": "Quarrydale",
-  "generated": "2026-05-16T07:49:32Z",
+  "generated": "2026-05-17T08:08:28Z",
   "fixtures": [
-    {
-      "id": "afa28634caace991d680728988aa23ca",
-      "date": "2026-05-16",
-      "time": "11:15",
-      "home_team": "AJ Sport FC U14",
-      "away_team": "Quarrydale United Yellow U14",
-      "venue": "Ilkeston Town FC DE7 8JF",
-      "division": "U14 Sat YEL Trophy (Revised)",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Quarrydale United Yellow U14",
-      "home_away": "away",
-      "opponent": "AJ Sport FC U14"
-    },
     {
       "id": "52a9a5fab44064a4de91e3924cbe681d",
       "date": "2026-05-17",
@@ -43,6 +30,23 @@
     }
   ],
   "results": [
+    {
+      "id": "afa28634caace991d680728988aa23ca",
+      "date": "2026-05-16",
+      "time": "11:15",
+      "home_team": "AJ Sport FC U14",
+      "away_team": "Quarrydale United Yellow U14",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U14 Sat YEL Trophy (Revised)",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Quarrydale United Yellow U14",
+      "home_away": "away",
+      "opponent": "AJ Sport FC U14",
+      "goals_for": 2,
+      "goals_against": 1
+    },
     {
       "id": "7b71501b8e76233ed4be36cc5cd444f2",
       "date": "2026-05-10",

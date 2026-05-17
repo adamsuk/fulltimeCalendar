@@ -1,6 +1,6 @@
 {
   "club": "Stapleford Town",
-  "generated": "2026-05-16T07:49:32Z",
+  "generated": "2026-05-17T08:08:28Z",
   "fixtures": [
     {
       "id": "71ff33cc0a0c78af145dd7dfe9f0bd6b",
@@ -27,19 +27,6 @@
       "team": "Stapleford Town FC U23",
       "home_away": "home",
       "opponent": "Newark Town FC U23's"
-    },
-    {
-      "id": "afd8d8121672222ab557d0839020eef0",
-      "date": "2026-05-16",
-      "time": "14:00",
-      "home_team": "Stapleford Town Saxons U12",
-      "away_team": "Etwall FC U12",
-      "venue": "Nottingham Football Centre NG2 7BW",
-      "division": "U12 Sat YEL Shield",
-      "league": "YEL East Midlands Saturday 25/26",
-      "team": "Stapleford Town Saxons U12",
-      "home_away": "home",
-      "opponent": "Etwall FC U12"
     },
     {
       "id": "87456ed13ad810a2fd96940c6ae1573a",
@@ -134,6 +121,23 @@
     }
   ],
   "results": [
+    {
+      "id": "afd8d8121672222ab557d0839020eef0",
+      "date": "2026-05-16",
+      "time": "14:00",
+      "home_team": "Stapleford Town Saxons U12",
+      "away_team": "Etwall FC U12",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "",
+      "division": "U12 Sat YEL Shield",
+      "league": "YEL East Midlands Saturday 25/26",
+      "team": "Stapleford Town Saxons U12",
+      "home_away": "home",
+      "opponent": "Etwall FC U12",
+      "goals_for": 1,
+      "goals_against": 2
+    },
     {
       "id": "ad2bf85d613b925007df1cd3a0a460ba",
       "date": "2026-05-10",

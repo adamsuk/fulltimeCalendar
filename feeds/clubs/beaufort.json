@@ -1,6 +1,6 @@
 {
   "club": "Beaufort",
-  "generated": "2026-05-16T07:49:32Z",
+  "generated": "2026-05-17T08:08:28Z",
   "fixtures": [
     {
       "id": "4675a1e8a2a2fa41268b0645c51b8239",
@@ -27,22 +27,26 @@
       "team": "Beaufort United F.C. Development",
       "home_away": "away",
       "opponent": "Bingham Town F.C. Development"
-    },
+    }
+  ],
+  "results": [
     {
       "id": "18409701acd19da7661309c52d7aa125",
       "date": "2026-05-16",
       "time": "10:30",
       "home_team": "Beaufort United F.C. Development",
       "away_team": "Collingham FC Development",
-      "venue": "Unwin Road",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "",
       "division": "Development Spring Division One",
       "league": "Euro Soccer Nottinghamshire Senior League 25/26",
       "team": "Beaufort United F.C. Development",
       "home_away": "home",
-      "opponent": "Collingham FC Development"
-    }
-  ],
-  "results": [
+      "opponent": "Collingham FC Development",
+      "goals_for": 2,
+      "goals_against": 2
+    },
     {
       "id": "6eae730aa2656192f5c74185378b87a9",
       "date": "2026-04-29",
